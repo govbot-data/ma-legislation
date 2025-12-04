@@ -227,6 +227,18 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 79 of the Acts of 2025",
+      "date": "2025-12-12",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-04T22:51:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -461,6 +473,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2025-12-04T22:51:37Z"
   }
 }

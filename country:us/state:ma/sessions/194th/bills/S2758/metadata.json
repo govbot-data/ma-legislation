@@ -33,6 +33,38 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T22:20:46Z"
+      }
+    },
+    {
+      "description": "Amendment #1 (Collins) adopted",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T22:20:46Z"
+      }
+    },
+    {
+      "description": "Adopted, as amended",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T22:20:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2025-12-08T22:20:46Z"
   }
 }

@@ -53,6 +53,24 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Discharged to the committee on State Administration and Reglatory Oversight",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "State Administration and Reglatory Oversight",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-12-08T22:20:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,6 +127,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2025-12-08T22:20:46Z"
   }
 }

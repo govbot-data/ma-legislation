@@ -53,6 +53,18 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Bill reported favorably by committee and placed in the Orders of the Day for the next session",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-08T22:20:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -62,6 +74,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Patrick M. O'Connor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pavel M. Payano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pavel M. Payano\"}",
       "organization_id": null
     }
   ],
@@ -101,6 +121,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2025-12-08T22:20:46Z"
   }
 }

@@ -89,16 +89,6 @@
       }
     },
     {
-      "description": "Rules suspended",
-      "date": "2025-11-05",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:03Z"
-      }
-    },
-    {
       "description": "Read second and ordered to a third reading",
       "date": "2025-11-05",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -165,6 +155,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2025-12-09T22:32:17Z"
   }
 }

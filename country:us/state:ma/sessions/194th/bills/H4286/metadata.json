@@ -159,6 +159,18 @@
       "_processing": {
         "log_file_created": "2025-12-02T17:43:50Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 86 of the Acts of 2025",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-18T10:31:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -217,6 +229,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T17:43:50Z"
+    "logs_latest_update": "2025-12-18T10:31:26Z"
   }
 }

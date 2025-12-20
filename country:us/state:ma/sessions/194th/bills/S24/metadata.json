@@ -101,6 +101,16 @@
       }
     },
     {
+      "description": "Accompanied by S25",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-20T11:14:15Z"
+      }
+    },
+    {
       "description": "Bills in the Third Reading new draft substituted, see S2859",
       "date": "2025-12-11",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -157,6 +167,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:45Z"
+    "logs_latest_update": "2025-12-20T11:14:15Z"
   }
 }

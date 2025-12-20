@@ -15,46 +15,7 @@
   ],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [
-    {
-      "description": "Referred to the committee on Public Safety and Homeland Security",
-      "date": "2025-02-27",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "committee on Public Safety and Homeland Security",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Senate concurred",
-      "date": "2025-02-27",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Hearing scheduled for 09/25/2025 from 01:00 PM-05:00 PM in A-2",
-      "date": "2025-09-11",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Jeffrey Rosario Turco",
@@ -109,6 +70,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:07Z"
+    "logs_latest_update": "2025-12-20T11:14:15Z"
   }
 }

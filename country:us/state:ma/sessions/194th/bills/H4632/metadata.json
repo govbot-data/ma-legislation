@@ -109,6 +109,19 @@
       "_processing": {
         "log_file_created": "2025-12-16T09:43:42Z"
       }
+    },
+    {
+      "description": "Read third, amended and passed to be engrossed",
+      "date": "2025-12-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-25T12:35:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -165,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-16T09:43:42Z"
+    "logs_latest_update": "2025-12-25T12:35:48Z"
   }
 }

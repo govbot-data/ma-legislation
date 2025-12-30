@@ -53,6 +53,29 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Reported favorably by committee and referred to the committee on Health Care Financing",
+      "date": "2025-12-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Health Care Financing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Health Care Financing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-12-30T12:37:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -389,6 +412,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2025-12-30T12:37:24Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee recommended ought to pass with an amendment striking out all after the enacting clause and inserting in place thereof the text of S2723",
+    "date": "2025-11-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4362"
+}

@@ -190,6 +190,36 @@
       "_processing": {
         "log_file_created": "2025-12-25T12:35:48Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-01T12:36:46Z"
+      }
+    },
+    {
+      "description": "Senate insists on its amendment",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-01T12:36:46Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed (Gomez-Comerford-Durant), in concurrence",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-01T12:36:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -336,6 +366,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-25T12:35:48Z"
+    "logs_latest_update": "2026-01-01T12:36:46Z"
   }
 }

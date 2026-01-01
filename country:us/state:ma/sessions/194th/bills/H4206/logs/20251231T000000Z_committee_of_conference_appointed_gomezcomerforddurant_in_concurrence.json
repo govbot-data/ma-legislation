@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee of conference appointed (Gomez-Comerford-Durant), in concurrence",
+    "date": "2025-12-31",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4206"
+}

@@ -53,6 +53,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Accompanied a new draft, see S2823",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-06T12:38:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +80,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pavel M. Payano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pavel M. Payano\"}",
       "organization_id": null
     }
   ],
@@ -109,6 +127,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-01-06T12:38:00Z"
   }
 }

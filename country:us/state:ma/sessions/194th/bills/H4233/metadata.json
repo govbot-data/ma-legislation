@@ -193,7 +193,7 @@
     },
     {
       "description": "Referred to the committee on Bills in the Third Reading",
-      "date": "2025-12-12",
+      "date": "2025-12-11",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "referral-committee"
@@ -206,7 +206,17 @@
         }
       ],
       "_processing": {
-        "log_file_created": "2025-12-14T21:03:45Z"
+        "log_file_created": "2026-01-08T12:39:16Z"
+      }
+    },
+    {
+      "description": "House concurred in the Senate amendment",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:39:16Z"
       }
     }
   ],
@@ -256,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:45Z"
+    "logs_latest_update": "2026-01-08T12:39:16Z"
   }
 }

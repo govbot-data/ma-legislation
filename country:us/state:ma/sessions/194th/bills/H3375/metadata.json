@@ -101,6 +101,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Wednesday, March 18, 2026",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:38:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,6 +161,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Margaret R. Scarsdale\"}",
       "organization_id": null
+    },
+    {
+      "name": "Natalie M. Higgins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Natalie M. Higgins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -189,6 +207,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-01-09T12:38:06Z"
   }
 }

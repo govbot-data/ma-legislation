@@ -215,6 +215,18 @@
       "_processing": {
         "log_file_created": "2025-12-30T12:37:24Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 97 of the Acts of 2025",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:38:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -263,6 +275,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-30T12:37:24Z"
+    "logs_latest_update": "2026-01-09T12:38:06Z"
   }
 }

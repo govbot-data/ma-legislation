@@ -75,6 +75,16 @@
       }
     },
     {
+      "description": "Accompanied by S1626",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:38:06Z"
+      }
+    },
+    {
       "description": "Bill reported favorably by committee and referred to the committee on Health Care Financing",
       "date": "2026-01-07",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -217,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T12:39:16Z"
+    "logs_latest_update": "2026-01-09T12:38:06Z"
   }
 }

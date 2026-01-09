@@ -87,6 +87,42 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:06Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:38:06Z"
+      }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-09T12:38:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,6 +179,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:06Z"
+    "logs_latest_update": "2026-01-09T12:38:06Z"
   }
 }

@@ -15,7 +15,76 @@
   ],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Public Safety and Homeland Security",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Public Safety and Homeland Security",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:34:54Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:34:54Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium",
+      "date": "2025-10-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:34:54Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium                                                               and Virtual Hearing updated to include Virtual",
+      "date": "2025-10-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:34:54Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium                                                               and Virtual Hearing updated to include Virtual",
+      "date": "2025-10-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:34:54Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium                                                               and Virtual Hearing updated to New End Time",
+      "date": "2025-10-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-11T12:34:54Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Christopher Hendricks",
@@ -62,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:33:46Z"
+    "logs_latest_update": "2026-01-11T12:34:54Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "House concurred.",
+    "description": "House concurred",
     "date": "2025-02-27",
     "organization_id": "~{\"classification\": \"lower\"}",
     "classification": [],

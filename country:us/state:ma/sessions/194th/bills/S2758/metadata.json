@@ -35,6 +35,16 @@
       }
     },
     {
+      "description": "Committee recommended ought to be adopted",
+      "date": "2025-12-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-15T12:38:57Z"
+      }
+    },
+    {
       "description": "Rules suspended",
       "date": "2025-12-08",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -113,6 +123,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T22:20:46Z"
+    "logs_latest_update": "2026-01-15T12:38:57Z"
   }
 }

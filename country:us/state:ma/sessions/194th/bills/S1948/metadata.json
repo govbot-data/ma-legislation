@@ -77,6 +77,64 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass and placed in the Orders of the Day for the next session",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:37:46Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:37:46Z"
+      }
+    },
+    {
+      "description": "Read second and ordered to a third reading",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:37:46Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:37:46Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed -see   Roll Call #119 (Yeas 38 to Nays 0)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:37:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +191,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-01-16T12:37:46Z"
   }
 }

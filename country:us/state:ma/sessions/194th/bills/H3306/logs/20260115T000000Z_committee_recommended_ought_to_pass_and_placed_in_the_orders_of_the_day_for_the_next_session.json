@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee recommended ought to pass and placed in the Orders of the Day for the next session",
+    "date": "2026-01-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H3306"
+}

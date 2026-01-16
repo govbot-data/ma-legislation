@@ -109,6 +109,28 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:38:06Z"
       }
+    },
+    {
+      "description": "Read second",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:37:47Z"
+      }
+    },
+    {
+      "description": "New draft substituted, see S2898",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-16T12:37:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -237,6 +259,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:38:06Z"
+    "logs_latest_update": "2026-01-16T12:37:47Z"
   }
 }

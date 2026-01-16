@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment adopted",
+    "date": "2026-01-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H1110"
+}

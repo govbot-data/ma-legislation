@@ -85,6 +85,16 @@
       }
     },
     {
+      "description": "Reported on the residue of H4905",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:33:41Z"
+      }
+    },
+    {
       "description": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
       "date": "2026-01-15",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -211,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:37:46Z"
+    "logs_latest_update": "2026-01-17T12:33:41Z"
   }
 }

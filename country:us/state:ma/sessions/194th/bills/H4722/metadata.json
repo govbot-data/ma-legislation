@@ -66,6 +66,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Hearing scheduled for 01/27/2026 from 01:00 PM-05:00 PM in A-1 & A-2",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:33:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,6 +124,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-01-17T12:33:41Z"
   }
 }

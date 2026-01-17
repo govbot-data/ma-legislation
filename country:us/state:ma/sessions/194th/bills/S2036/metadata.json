@@ -141,6 +141,18 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:37:47Z"
       }
+    },
+    {
+      "description": "Amendment (as recommended by the committee on Senate Ways and Means) adopted",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:33:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:37:47Z"
+    "logs_latest_update": "2026-01-17T12:33:41Z"
   }
 }

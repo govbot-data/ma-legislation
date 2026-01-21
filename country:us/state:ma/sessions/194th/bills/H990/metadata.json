@@ -53,6 +53,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:02Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Wednesday, March 18, 2026",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:42:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -439,6 +449,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Estela A. Reyes\"}",
       "organization_id": null
+    },
+    {
+      "name": "Erika Uyterhoeven",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erika Uyterhoeven\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John J. Lawn, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John J. Lawn, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven George Xiarhos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven George Xiarhos\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -477,6 +511,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:02Z"
+    "logs_latest_update": "2026-01-21T12:42:18Z"
   }
 }

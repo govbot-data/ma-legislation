@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Accompanied a study order, see H4965",
+    "date": "2026-01-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H3004"
+}

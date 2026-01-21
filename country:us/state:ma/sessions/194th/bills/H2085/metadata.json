@@ -73,6 +73,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
       }
+    },
+    {
+      "description": "Accompanied a new draft, see H4974",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:42:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -323,6 +333,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Samantha Monta\\u00f1o\"}",
       "organization_id": null
+    },
+    {
+      "name": "Judith A. Garcia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judith A. Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tara T. Hong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tara T. Hong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Mah Sangiolo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amy Mah Sangiolo\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -361,6 +395,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-01-21T12:42:18Z"
   }
 }

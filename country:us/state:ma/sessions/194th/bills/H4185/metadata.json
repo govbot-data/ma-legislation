@@ -55,30 +55,6 @@
       }
     },
     {
-      "description": "Order reported favorably by committee and referred to the committee on Joint Rules",
-      "date": "2026-01-15",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable",
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "the committee on Joint Rules",
-          "entity_type": "organization",
-          "organization_id": null
-        },
-        {
-          "name": "committee on Joint Rules",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-01-16T12:37:47Z"
-      }
-    },
-    {
       "description": "Accompanied a study order, see H4925",
       "date": "2026-01-15",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -99,13 +75,13 @@
       }
     },
     {
-      "description": "Reported on the residue of H4906",
+      "description": "Reported on the residue of H4925",
       "date": "2026-01-15",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-16T12:37:47Z"
+        "log_file_created": "2026-01-21T12:42:18Z"
       }
     },
     {
@@ -187,6 +163,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:37:47Z"
+    "logs_latest_update": "2026-01-21T12:42:18Z"
   }
 }

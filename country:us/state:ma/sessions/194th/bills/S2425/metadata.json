@@ -103,6 +103,29 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:37:46Z"
       }
+    },
+    {
+      "description": "Read; and referred to the committee on House Steering, Policy and Scheduling",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on House Steering, Policy and Scheduling",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on House Steering, Policy and Scheduling",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:41:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:37:46Z"
+    "logs_latest_update": "2026-01-22T12:41:31Z"
   }
 }

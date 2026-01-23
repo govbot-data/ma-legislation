@@ -123,6 +123,38 @@
       "_processing": {
         "log_file_created": "2025-12-23T10:37:40Z"
       }
+    },
+    {
+      "description": "Placed in the Orders of the Day for the next sitting (under the last sentence of Rule 7A) for a second reading",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:39:46Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:39:46Z"
+      }
+    },
+    {
+      "description": "Read second and ordered to a third reading",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:39:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +203,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-23T10:37:40Z"
+    "logs_latest_update": "2026-01-23T12:39:46Z"
   }
 }

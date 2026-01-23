@@ -73,6 +73,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:02Z"
       }
+    },
+    {
+      "description": "Accompanied a new draft, see S2857",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-23T12:39:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -163,6 +173,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Michael O. Moore\"}",
       "organization_id": null
+    },
+    {
+      "name": "James B. Eldridge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -201,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:02Z"
+    "logs_latest_update": "2026-01-23T12:39:46Z"
   }
 }

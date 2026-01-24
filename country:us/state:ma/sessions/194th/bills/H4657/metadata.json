@@ -208,6 +208,18 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:38:00Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 101 of the Acts of 2025",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-24T12:34:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -258,6 +270,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:38:00Z"
+    "logs_latest_update": "2026-01-24T12:34:36Z"
   }
 }

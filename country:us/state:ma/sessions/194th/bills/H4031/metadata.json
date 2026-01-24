@@ -242,6 +242,18 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:40:03Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 4 of the Acts of 2026",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-24T12:34:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -290,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:40:03Z"
+    "logs_latest_update": "2026-01-24T12:34:36Z"
   }
 }

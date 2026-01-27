@@ -110,18 +110,6 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
       }
-    },
-    {
-      "description": "Amendment #1 (Walsh) adopted",
-      "date": "2025-11-18",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:05Z"
-      }
     }
   ],
   "sponsorships": [
@@ -180,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-01-27T12:41:34Z"
   }
 }

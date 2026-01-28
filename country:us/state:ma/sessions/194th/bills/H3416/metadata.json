@@ -87,6 +87,16 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:45Z"
       }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting (under the last sentence of Rule 7A), the question on adoption",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:42:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,6 +161,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:45Z"
+    "logs_latest_update": "2026-01-28T12:42:09Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Accompanied a new draft, see S2920",
+    "date": "2026-01-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2739"
+}

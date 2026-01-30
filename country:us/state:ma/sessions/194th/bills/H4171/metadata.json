@@ -199,6 +199,40 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:40:03Z"
       }
+    },
+    {
+      "description": "House concurred in the Senate amendment",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:46:02Z"
+      }
+    },
+    {
+      "description": "Enacted",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:46:02Z"
+      }
+    },
+    {
+      "description": "Enacted and laid before the Governor",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:46:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,6 +289,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:40:03Z"
+    "logs_latest_update": "2026-01-30T12:46:02Z"
   }
 }

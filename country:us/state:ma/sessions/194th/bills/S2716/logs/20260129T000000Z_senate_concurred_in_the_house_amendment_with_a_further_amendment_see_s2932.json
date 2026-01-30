@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate concurred in the House amendment with a further amendment, see S2932",
+    "date": "2026-01-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2716"
+}

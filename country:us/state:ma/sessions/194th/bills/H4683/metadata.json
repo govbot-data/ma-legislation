@@ -62,22 +62,22 @@
       }
     },
     {
-      "description": "Committee recommended ought to pass with an amendment, inserting in place thereof the text of S2924",
+      "description": "Also based on S2855",
       "date": "2026-01-22",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-23T12:39:46Z"
       }
     },
     {
-      "description": "Also based on S2855",
+      "description": "Committee recommended ought to pass with an amendment, inserting in place thereof the text of S2924",
       "date": "2026-01-22",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "committee-passage-favorable"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-23T12:39:46Z"
@@ -101,6 +101,64 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-23T12:39:46Z"
+      }
+    },
+    {
+      "description": "Read second",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:46:02Z"
+      }
+    },
+    {
+      "description": "Amended by striking out all after the enacting clause and inserting in place thereof the text of s2924",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:46:02Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:46:02Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:46:02Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed -see   Roll Call #131 (Yeas 38 to Nays 0)",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:46:02Z"
       }
     }
   ],
@@ -224,6 +282,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:39:46Z"
+    "logs_latest_update": "2026-01-30T12:46:02Z"
   }
 }

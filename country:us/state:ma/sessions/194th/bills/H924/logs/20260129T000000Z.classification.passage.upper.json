@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Read second, ordered to a third reading, read third and passed to be engrossed",
+    "description": "Read second, ordered to a third reading, read third (title changed) and passed to be engrossed",
     "date": "2026-01-29",
     "organization_id": "~{\"classification\": \"upper\"}",
     "classification": [

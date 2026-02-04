@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Accompanied a new draft, see H5029",
+    "date": "2026-02-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H1088"
+}

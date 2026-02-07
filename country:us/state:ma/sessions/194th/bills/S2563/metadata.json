@@ -156,15 +156,15 @@
       }
     },
     {
-      "description": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "description": "Amendment adopted (as recommended by the committee on House Ways and Means)",
       "date": "2025-11-05",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "reading-2"
+        "amendment-passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
+        "log_file_created": "2026-02-07T12:40:29Z"
       }
     },
     {
@@ -209,6 +209,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
+    },
+    {
+      "description": "Senate concurred the House amendment with a further amendment, see S2954",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
       }
     }
   ],
@@ -380,6 +400,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:07Z"
+    "logs_latest_update": "2026-02-07T12:40:29Z"
   }
 }

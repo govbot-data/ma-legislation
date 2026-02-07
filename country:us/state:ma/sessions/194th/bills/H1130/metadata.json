@@ -53,6 +53,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
       }
+    },
+    {
+      "description": "Accompanied a new draft, see H5017",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -239,6 +249,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tram T. Nguyen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Margaret R. Scarsdale",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Margaret R. Scarsdale\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -277,6 +295,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-02-07T12:40:29Z"
   }
 }

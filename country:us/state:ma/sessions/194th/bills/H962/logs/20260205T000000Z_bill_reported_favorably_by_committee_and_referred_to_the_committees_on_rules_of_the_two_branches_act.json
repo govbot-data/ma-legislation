@@ -1,0 +1,19 @@
+{
+  "action": {
+    "description": "Bill reported favorably by committee and referred to the committees on Rules of the two branches, acting concurrently",
+    "date": "2026-02-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committees on Rules of the two branches, acting concurrently",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "H962"
+}

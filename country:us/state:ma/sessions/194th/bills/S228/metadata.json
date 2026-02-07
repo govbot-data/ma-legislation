@@ -87,6 +87,38 @@
       "_processing": {
         "log_file_created": "2025-12-19T10:13:29Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2945",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
+    },
+    {
+      "description": "Order relative to subject matter adopted",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Thursday, February 12, 2026",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,6 +175,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T10:13:29Z"
+    "logs_latest_update": "2026-02-07T12:40:29Z"
   }
 }

@@ -125,6 +125,60 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "The report was accepted",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
+    },
+    {
+      "description": "Taken out of the Orders of the Day",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
+    },
+    {
+      "description": "Read third (title changed)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
+    },
+    {
+      "description": "Bills in the Third Reading report accepted, see S2953",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -173,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-02-07T12:40:29Z"
   }
 }

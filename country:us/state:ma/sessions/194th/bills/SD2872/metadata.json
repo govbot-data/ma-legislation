@@ -33,6 +33,34 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:07Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on The Judiciary",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on The Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -83,6 +111,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:07Z"
+    "logs_latest_update": "2026-02-07T12:40:29Z"
   }
 }

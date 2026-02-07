@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed to be engrossed",
+    "date": "2026-02-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H3898"
+}

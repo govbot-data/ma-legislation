@@ -77,6 +77,18 @@
       "_processing": {
         "log_file_created": "2025-12-08T22:20:46Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:40:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -173,6 +185,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T22:20:46Z"
+    "logs_latest_update": "2026-02-07T12:40:29Z"
   }
 }

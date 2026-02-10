@@ -179,6 +179,24 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:40:29Z"
       }
+    },
+    {
+      "description": "Referred to the committee on Bills in the Third Reading",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Bills in the Third Reading",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:05:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -227,6 +245,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:40:29Z"
+    "logs_latest_update": "2026-02-10T13:05:39Z"
   }
 }

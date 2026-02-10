@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred to the committee on Senate Ways and Means",
+    "date": "2026-02-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "committee on Senate Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "S783"
+}

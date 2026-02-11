@@ -77,16 +77,6 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
       }
-    },
-    {
-      "description": "Hearing scheduled for 07/22/2025 from 01:00 PM-05:00 PM in B-1",
-      "date": "2025-10-30",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:03Z"
-      }
     }
   ],
   "sponsorships": [
@@ -135,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-02-11T13:01:48Z"
   }
 }

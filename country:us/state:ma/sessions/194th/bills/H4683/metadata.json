@@ -170,6 +170,36 @@
       "_processing": {
         "log_file_created": "2026-01-30T12:46:02Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:59:53Z"
+      }
+    },
+    {
+      "description": "House NON-concurred in the Senate amendment",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:59:53Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed - (Gordon-Cataldo-Marsi)",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:59:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -292,6 +322,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:52:23Z"
+    "logs_latest_update": "2026-02-12T12:59:53Z"
   }
 }

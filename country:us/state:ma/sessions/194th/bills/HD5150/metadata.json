@@ -38,6 +38,16 @@
       "_processing": {
         "log_file_created": "2025-12-25T12:35:48Z"
       }
+    },
+    {
+      "description": "Hearing scheduled for 03/03/2026 from 01:00 PM-03:00 PM in 222",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:52:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +57,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Dennis C. Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly A. Dooner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kelly A. Dooner\"}",
       "organization_id": null
     }
   ],
@@ -80,6 +98,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-25T12:35:48Z"
+    "logs_latest_update": "2026-02-13T12:52:09Z"
   }
 }

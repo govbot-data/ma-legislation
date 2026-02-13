@@ -101,6 +101,28 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Monday March 2, 2026",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:52:09Z"
+      }
+    },
+    {
+      "description": "Amendment (changing reporting date to Monday March 2, 2026) adopted, pending concurrence",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:52:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -157,6 +179,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-02-13T12:52:09Z"
   }
 }

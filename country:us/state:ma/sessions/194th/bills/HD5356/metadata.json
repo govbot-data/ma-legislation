@@ -61,6 +61,16 @@
       "_processing": {
         "log_file_created": "2025-12-16T09:43:42Z"
       }
+    },
+    {
+      "description": "Hearing scheduled for 03/03/2026 from 01:00 PM-03:00 PM in 222",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:52:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +80,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Brian M. Ashe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelo J. Puppolo, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelo J. Puppolo, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lindsay N. Sabadosa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lindsay N. Sabadosa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael O. Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael O. Moore\"}",
       "organization_id": null
     }
   ],
@@ -103,6 +137,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-16T09:43:42Z"
+    "logs_latest_update": "2026-02-13T12:52:09Z"
   }
 }

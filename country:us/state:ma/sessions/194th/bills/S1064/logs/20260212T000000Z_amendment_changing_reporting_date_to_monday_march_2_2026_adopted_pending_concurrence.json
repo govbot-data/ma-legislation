@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment (changing reporting date to Monday March 2, 2026) adopted, pending concurrence",
+    "date": "2026-02-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S1064"
+}

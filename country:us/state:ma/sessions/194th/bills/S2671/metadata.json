@@ -91,6 +91,28 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:40:29Z"
       }
+    },
+    {
+      "description": "New draft substituted, see S2947",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:52:09Z"
+      }
+    },
+    {
+      "description": "Amendment (as recommended by the committee on Senate Ways and Means) adopted, as amended",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T12:52:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:40:29Z"
+    "logs_latest_update": "2026-02-13T12:52:09Z"
   }
 }

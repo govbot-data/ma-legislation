@@ -191,6 +191,18 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:52:23Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 18 of the Acts of 2026",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-14T12:39:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -247,6 +259,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:52:23Z"
+    "logs_latest_update": "2026-02-14T12:39:47Z"
   }
 }

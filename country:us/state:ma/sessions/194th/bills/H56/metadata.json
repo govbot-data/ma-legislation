@@ -132,13 +132,13 @@
       }
     },
     {
-      "description": "Sections 45 to 72, inclusive, 85 and 86, accompanied a study order, see H4580",
+      "description": "Sections 45 to 72, inclusive, 85 and 86, accompanied a study order, see H4850",
       "date": "2025-12-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-12-19T10:13:29Z"
+        "log_file_created": "2026-02-18T12:57:06Z"
       }
     },
     {
@@ -169,6 +169,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-19T10:13:29Z"
+      }
+    },
+    {
+      "description": "Reporting date extended to Friday, March 13, 2026 (sections 45 to 72, inclusive, 85 and 86)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:57:06Z"
       }
     }
   ],
@@ -218,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T10:13:29Z"
+    "logs_latest_update": "2026-02-18T12:57:06Z"
   }
 }

@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:02Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Wednesday, March 18, 2026",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T12:57:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -105,6 +115,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Marjorie C. Decker\"}",
       "organization_id": null
+    },
+    {
+      "name": "James B. Eldridge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -143,6 +161,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:02Z"
+    "logs_latest_update": "2026-02-18T12:57:06Z"
   }
 }

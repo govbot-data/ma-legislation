@@ -54,6 +54,18 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:06Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5151",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:58:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -282,27 +294,11 @@
       "organization_id": null
     },
     {
-      "name": "David Henry Argosky LeBoeuf",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David Henry Argosky LeBoeuf\"}",
-      "organization_id": null
-    },
-    {
       "name": "David M. Rogers",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"David M. Rogers\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Adam J. Scanlon",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Adam J. Scanlon\"}",
       "organization_id": null
     },
     {
@@ -432,6 +428,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:06Z"
+    "logs_latest_update": "2026-02-26T12:58:18Z"
   }
 }

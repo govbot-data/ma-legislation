@@ -73,6 +73,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:01Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Tuesday March 3, 2026",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:58:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -155,6 +165,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Edward J. Kennedy\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nick Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Collins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -193,6 +211,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:01Z"
+    "logs_latest_update": "2026-02-26T12:58:19Z"
   }
 }

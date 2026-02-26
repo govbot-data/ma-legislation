@@ -73,6 +73,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Friday, July 31, 2026",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:58:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -325,6 +335,14 @@
       "organization_id": null
     },
     {
+      "name": "Rodney M. Elliott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodney M. Elliott\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tricia Farley-Bouvier",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -365,6 +383,14 @@
       "organization_id": null
     },
     {
+      "name": "Kenneth I. Gordon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kenneth I. Gordon\"}",
+      "organization_id": null
+    },
+    {
       "name": "James K. Hawkins",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -402,6 +428,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Vanna Howard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristin E. Kassner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristin E. Kassner\"}",
       "organization_id": null
     },
     {
@@ -461,6 +495,14 @@
       "organization_id": null
     },
     {
+      "name": "Jay D. Livingstone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jay D. Livingstone\"}",
+      "organization_id": null
+    },
+    {
       "name": "Joan B. Lovely",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -506,6 +548,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Samantha Monta\\u00f1o\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian W. Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian W. Murray\"}",
       "organization_id": null
     },
     {
@@ -573,6 +623,14 @@
       "organization_id": null
     },
     {
+      "name": "Thomas M. Stanley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas M. Stanley\"}",
+      "organization_id": null
+    },
+    {
       "name": "Joshua Tarsky",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -602,6 +660,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Christopher J. Worrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hannah Bowen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hannah Bowen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Field",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Field\"}",
       "organization_id": null
     }
   ],
@@ -641,6 +715,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-02-26T12:58:18Z"
   }
 }

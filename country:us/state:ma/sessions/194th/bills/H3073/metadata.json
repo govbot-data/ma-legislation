@@ -73,6 +73,16 @@
       "_processing": {
         "log_file_created": "2025-12-19T10:13:29Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Wednesday, March 18, 2026",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:58:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -211,6 +221,62 @@
       "primary": false,
       "person_id": "~{\"name\": \"Sean Garballey\"}",
       "organization_id": null
+    },
+    {
+      "name": "Patricia A. Duffy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patricia A. Duffy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Antonio F. D. Cabral",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Antonio F. D. Cabral\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Owens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Owens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judith A. Garcia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judith A. Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rob Consalvo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rob Consalvo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Ultrino",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Ultrino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Arciero",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Arciero\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -249,6 +315,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T10:13:29Z"
+    "logs_latest_update": "2026-02-26T12:58:19Z"
   }
 }

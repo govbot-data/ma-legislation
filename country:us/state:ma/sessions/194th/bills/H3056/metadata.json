@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2025-12-14T21:03:45Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Friday, June 26, 2026",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T12:58:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -112,6 +122,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Simon Cataldo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nick Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Collins\"}",
       "organization_id": null
     },
     {
@@ -243,6 +261,14 @@
       "organization_id": null
     },
     {
+      "name": "John Francis Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Francis Moran\"}",
+      "organization_id": null
+    },
+    {
       "name": "Steven Owens",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -280,6 +306,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Erika Uyterhoeven\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher J. Worrell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher J. Worrell\"}",
       "organization_id": null
     },
     {
@@ -335,6 +369,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:45Z"
+    "logs_latest_update": "2026-02-26T12:58:18Z"
   }
 }

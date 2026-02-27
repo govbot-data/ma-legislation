@@ -96,6 +96,42 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:07Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:52:20Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:52:20Z"
+      }
+    },
+    {
+      "description": "Read second, ordered to a third reading, read third and passed to be engrossed",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T12:52:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -154,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:07Z"
+    "logs_latest_update": "2026-02-27T12:52:20Z"
   }
 }

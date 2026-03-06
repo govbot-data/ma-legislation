@@ -81,6 +81,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T22:20:46Z"
       }
+    },
+    {
+      "description": "Accompanied a study order (under JR10), see S2984",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:46:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -155,6 +165,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"James B. Eldridge\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nick Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Collins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -193,6 +211,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T22:20:46Z"
+    "logs_latest_update": "2026-03-06T12:46:17Z"
   }
 }

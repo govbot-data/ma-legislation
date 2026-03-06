@@ -86,6 +86,16 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:05:39Z"
       }
+    },
+    {
+      "description": "Accompanied a new draft, see H5177",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:46:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -176,6 +186,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Margaret R. Scarsdale\"}",
       "organization_id": null
+    },
+    {
+      "name": "Steven Owens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Owens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tram T. Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tram T. Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean Garballey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean Garballey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danillo A. Sena",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danillo A. Sena\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -214,6 +256,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:05:39Z"
+    "logs_latest_update": "2026-03-06T12:46:17Z"
   }
 }

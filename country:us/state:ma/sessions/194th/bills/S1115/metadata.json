@@ -87,6 +87,36 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:52:23Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2973",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:46:17Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on Senate Ways and Means",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:46:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -231,6 +261,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:52:23Z"
+    "logs_latest_update": "2026-03-06T12:46:17Z"
   }
 }

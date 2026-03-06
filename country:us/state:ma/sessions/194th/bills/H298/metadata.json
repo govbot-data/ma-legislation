@@ -93,6 +93,16 @@
       "_processing": {
         "log_file_created": "2026-01-08T12:39:16Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Wednesday, March 18, 2026",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-06T12:46:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -173,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T12:39:16Z"
+    "logs_latest_update": "2026-03-06T12:46:17Z"
   }
 }

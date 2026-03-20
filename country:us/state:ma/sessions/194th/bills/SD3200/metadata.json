@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-sd3200"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Rules of the two branches, acting concurrently",
@@ -91,6 +95,16 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:48:00Z"
       }
+    },
+    {
+      "description": "Accompanied a study order (under JR10), see S3024",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +147,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:48:00Z"
+    "logs_latest_update": "2026-03-20T12:52:59Z"
   }
 }

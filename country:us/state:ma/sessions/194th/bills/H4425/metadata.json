@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4425"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on House Rules",
@@ -76,6 +80,16 @@
       "_processing": {
         "log_file_created": "2026-01-06T12:38:00Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Monday, June 15, 2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -85,6 +99,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Thomas M. Stanley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hannah Bowen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hannah Bowen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian W. Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian W. Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Ann Giannino",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Ann Giannino\"}",
       "organization_id": null
     }
   ],
@@ -124,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:38:00Z"
+    "logs_latest_update": "2026-03-20T12:52:59Z"
   }
 }

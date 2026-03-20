@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h1405"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Health Care Financing",
@@ -62,6 +66,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:06Z"
+      }
+    },
+    {
+      "description": "Reporting date extended to Monday, June 15, 2026",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
       }
     }
   ],
@@ -211,6 +225,14 @@
       "organization_id": null
     },
     {
+      "name": "Rodney M. Elliott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodney M. Elliott\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tricia Farley-Bouvier",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -355,6 +377,14 @@
       "organization_id": null
     },
     {
+      "name": "Christopher M. Markey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher M. Markey\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rita A. Mendes",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -384,6 +414,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Brian W. Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tram T. Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tram T. Nguyen\"}",
       "organization_id": null
     },
     {
@@ -448,6 +486,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Amy Mah Sangiolo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greg Schwartz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Schwartz\"}",
       "organization_id": null
     },
     {
@@ -567,6 +613,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:06Z"
+    "logs_latest_update": "2026-03-20T12:52:59Z"
   }
 }

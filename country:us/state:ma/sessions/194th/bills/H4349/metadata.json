@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4349"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Service",
@@ -177,6 +181,30 @@
       "_processing": {
         "log_file_created": "2026-03-17T13:04:01Z"
       }
+    },
+    {
+      "description": "Enacted",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
+      }
+    },
+    {
+      "description": "Enacted and laid before the Governor",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -225,6 +253,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:04:01Z"
+    "logs_latest_update": "2026-03-20T12:52:59Z"
   }
 }

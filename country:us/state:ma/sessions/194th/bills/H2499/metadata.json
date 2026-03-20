@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h2499"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Health",
@@ -93,6 +97,16 @@
       "_processing": {
         "log_file_created": "2025-12-23T10:37:40Z"
       }
+    },
+    {
+      "description": "Reporting date extended to Wednesday, March 18, 2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,6 +167,14 @@
       "organization_id": null
     },
     {
+      "name": "Margaret R. Scarsdale",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Margaret R. Scarsdale\"}",
+      "organization_id": null
+    },
+    {
       "name": "Bruce E. Tarr",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -197,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-23T10:37:40Z"
+    "logs_latest_update": "2026-03-20T12:52:59Z"
   }
 }

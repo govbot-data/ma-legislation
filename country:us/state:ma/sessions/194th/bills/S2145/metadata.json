@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2145"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on State Administration and Regulatory Oversight",
@@ -109,6 +113,30 @@
       "_processing": {
         "log_file_created": "2026-03-17T13:04:01Z"
       }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed -see   Roll Call #141 (Yeas 38 to Nays 0)",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -181,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:04:01Z"
+    "logs_latest_update": "2026-03-20T12:52:59Z"
   }
 }

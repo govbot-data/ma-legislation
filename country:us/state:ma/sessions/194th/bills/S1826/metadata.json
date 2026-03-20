@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s1826"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Service",
@@ -72,6 +76,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-16T12:37:46Z"
+      }
+    },
+    {
+      "description": "Accompanied a study order, see S3020",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
       }
     }
   ],
@@ -137,6 +151,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:37:46Z"
+    "logs_latest_update": "2026-03-20T12:52:59Z"
   }
 }

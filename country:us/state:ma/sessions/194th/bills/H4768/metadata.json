@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4768"
+    }
+  ],
   "actions": [
     {
       "description": "Reported from the committee on House Ways and Means",
@@ -183,6 +187,16 @@
       "_processing": {
         "log_file_created": "2026-03-03T12:48:55Z"
       }
+    },
+    {
+      "description": "House concurred in the Senate amendment",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-20T12:52:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -241,6 +255,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-03T12:48:55Z"
+    "logs_latest_update": "2026-03-20T12:52:59Z"
   }
 }

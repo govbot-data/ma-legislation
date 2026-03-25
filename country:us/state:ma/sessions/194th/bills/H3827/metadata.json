@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h3827"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Veterans and Federal Affairs",
@@ -87,6 +91,16 @@
       "_processing": {
         "log_file_created": "2026-02-21T12:39:20Z"
       }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting, the question being on adoption",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:01:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -135,6 +149,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-21T12:39:20Z"
+    "logs_latest_update": "2026-03-25T13:01:43Z"
   }
 }

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Ordered to a third reading, read third and passed to be engrossed",
+    "date": "2026-03-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S1646"
+}

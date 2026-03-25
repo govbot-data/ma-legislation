@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h3973"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Telecommunications, Utilities and Energy",
@@ -73,6 +77,30 @@
       "_processing": {
         "log_file_created": "2025-12-04T22:51:37Z"
       }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:01:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -129,6 +157,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-04T22:51:37Z"
+    "logs_latest_update": "2026-03-25T13:01:43Z"
   }
 }

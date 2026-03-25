@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-hd4910"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on House Rules",
@@ -65,6 +69,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-21T12:39:20Z"
+      }
+    },
+    {
+      "description": "Discharged to the committee on Environment and Natural Resources",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment and Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:01:43Z"
       }
     }
   ],
@@ -212,6 +234,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Steven Owens\"}",
       "organization_id": null
+    },
+    {
+      "name": "John J. Lawn, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John J. Lawn, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nick Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Collins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -244,6 +282,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-21T12:39:20Z"
+    "logs_latest_update": "2026-03-25T13:01:43Z"
   }
 }

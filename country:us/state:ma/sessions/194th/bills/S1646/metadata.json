@@ -93,6 +93,65 @@
       "_processing": {
         "log_file_created": "2026-03-21T12:40:38Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:01:43Z"
+      }
+    },
+    {
+      "description": "Read second",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:01:43Z"
+      }
+    },
+    {
+      "description": "Amendment (as recommended by the committee on Senate Ways and Means) adopted",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:01:43Z"
+      }
+    },
+    {
+      "description": "Amendment #2 (Moore) rejected",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:01:43Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading, read third and passed to be engrossed",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-25T13:01:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -245,6 +304,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-21T12:40:38Z"
+    "logs_latest_update": "2026-03-25T13:01:43Z"
   }
 }

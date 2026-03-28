@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h380"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Consumer Protection and Professional Licensure",
@@ -62,6 +66,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
+      }
+    },
+    {
+      "description": "Accompanied a new draft, see H5272",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:11Z"
       }
     }
   ],
@@ -273,6 +287,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Amy Mah Sangiolo\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jeffrey N. Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeffrey N. Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodney M. Elliott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodney M. Elliott\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -311,6 +341,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-03-28T12:46:11Z"
   }
 }

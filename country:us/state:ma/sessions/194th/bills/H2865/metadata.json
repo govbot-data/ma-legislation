@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h2865"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Service",
@@ -62,6 +66,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-14T21:03:45Z"
+      }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:12Z"
       }
     }
   ],
@@ -409,6 +437,54 @@
       "primary": false,
       "person_id": "~{\"name\": \"Lisa Field\"}",
       "organization_id": null
+    },
+    {
+      "name": "Shirley B. Arriaga",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shirley B. Arriaga\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas W. Moakley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas W. Moakley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian M. Ashe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian M. Ashe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick M. O'Connor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick M. O'Connor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan C. Fattman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ryan C. Fattman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher Richard Flanagan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher Richard Flanagan\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -447,6 +523,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:45Z"
+    "logs_latest_update": "2026-03-28T12:46:12Z"
   }
 }

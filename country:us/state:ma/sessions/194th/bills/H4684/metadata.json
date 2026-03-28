@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4684"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on House Rules",
@@ -95,6 +99,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Accompanied a study order, see  H5281 (under House Rule 27)",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:11Z"
       }
     }
   ],
@@ -316,6 +330,14 @@
       "organization_id": null
     },
     {
+      "name": "James B. Eldridge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rodney M. Elliott",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -337,6 +359,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Homar G\\u00f3mez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristin E. Kassner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristin E. Kassner\"}",
       "organization_id": null
     },
     {
@@ -364,11 +394,27 @@
       "organization_id": null
     },
     {
+      "name": "Meghan K. Kilcoyne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Meghan K. Kilcoyne\"}",
+      "organization_id": null
+    },
+    {
       "name": "Russell E. Holmes",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Russell E. Holmes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joan B. Lovely",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joan B. Lovely\"}",
       "organization_id": null
     },
     {
@@ -385,6 +431,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Michael O. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Francis Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Francis Moran\"}",
       "organization_id": null
     },
     {
@@ -412,11 +466,27 @@
       "organization_id": null
     },
     {
+      "name": "Thomas M. Stanley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas M. Stanley\"}",
+      "organization_id": null
+    },
+    {
       "name": "Erika Uyterhoeven",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Erika Uyterhoeven\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Field",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Field\"}",
       "organization_id": null
     }
   ],
@@ -456,6 +526,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:07Z"
+    "logs_latest_update": "2026-03-28T12:46:11Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s1564"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Health",
@@ -52,6 +56,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Accompanied by S1638",
+      "date": "2025-09-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:12Z"
       }
     },
     {
@@ -173,6 +187,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:07Z"
+    "logs_latest_update": "2026-03-28T12:46:12Z"
   }
 }

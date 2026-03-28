@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h1616"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on The Judiciary",
@@ -52,6 +56,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
+      }
+    },
+    {
+      "description": "Accompanied a study order, see  H5281 (under House Rule 27)",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:12Z"
       }
     }
   ],
@@ -109,6 +123,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-03-28T12:46:12Z"
   }
 }

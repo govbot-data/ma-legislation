@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h1924"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on The Judiciary",
@@ -52,6 +56,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
+      }
+    },
+    {
+      "description": "Accompanied a study order, see  H5281 (under House Rule 27)",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:11Z"
       }
     }
   ],
@@ -151,6 +165,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jennifer Balinsky Armini\"}",
       "organization_id": null
+    },
+    {
+      "name": "Susannah M. Whipps",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susannah M. Whipps\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Owens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Owens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William F. MacGregor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William F. MacGregor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carmine Lawrence Gentile",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carmine Lawrence Gentile\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -189,6 +235,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-03-28T12:46:11Z"
   }
 }

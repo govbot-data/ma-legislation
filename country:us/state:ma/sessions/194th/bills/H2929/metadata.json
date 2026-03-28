@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h2929"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Service",
@@ -63,6 +67,30 @@
       "_processing": {
         "log_file_created": "2025-12-25T12:35:48Z"
       }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -80,6 +108,206 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Michael D. Brady\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam J. Scanlon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam J. Scanlon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William C. Galvin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William C. Galvin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John J. Marsi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John J. Marsi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian W. Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian W. Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Natalie M. Higgins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Natalie M. Higgins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael P. Kushmerek",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael P. Kushmerek\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Meghan K. Kilcoyne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Meghan K. Kilcoyne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul K. Frost",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul K. Frost\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dennis C. Gallagher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dennis C. Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Field",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Field\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James C. Arena-DeRosa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James C. Arena-DeRosa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark D. Sylvia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark D. Sylvia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danillo A. Sena",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danillo A. Sena\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James K. Hawkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James K. Hawkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Margaret R. Scarsdale",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Margaret R. Scarsdale\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward R. Philips",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edward R. Philips\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael J. Soter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael J. Soter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rob Consalvo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rob Consalvo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian M. Ashe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian M. Ashe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean Garballey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean Garballey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kenneth P. Sweezey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kenneth P. Sweezey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susannah M. Whipps",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susannah M. Whipps\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle L. Badger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle L. Badger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul McMurtry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul McMurtry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hannah Kane",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hannah Kane\"}",
       "organization_id": null
     }
   ],
@@ -119,6 +347,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-25T12:35:48Z"
+    "logs_latest_update": "2026-03-28T12:46:12Z"
   }
 }

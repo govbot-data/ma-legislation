@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h3654"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Transportation",
@@ -62,6 +66,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-14T21:03:45Z"
+      }
+    },
+    {
+      "description": "Accompanied a new draft, see H5277",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:12Z"
       }
     }
   ],
@@ -233,6 +247,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Amy Mah Sangiolo\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rodney M. Elliott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodney M. Elliott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark D. Sylvia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark D. Sylvia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joshua Tarsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joshua Tarsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Connolly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Connolly\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -271,6 +317,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-14T21:03:45Z"
+    "logs_latest_update": "2026-03-28T12:46:12Z"
   }
 }

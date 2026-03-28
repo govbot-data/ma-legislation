@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h2042"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on The Judiciary",
@@ -52,6 +56,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:06Z"
+      }
+    },
+    {
+      "description": "Accompanied a study order, see  H5281 (under House Rule 27)",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:12Z"
       }
     }
   ],
@@ -329,6 +343,38 @@
       "organization_id": null
     },
     {
+      "name": "John Burrows",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Burrows\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tracy Payne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tracy Payne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David K. Hines",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David K. Hines\"}",
+      "organization_id": null
+    },
+    {
       "name": "Diane Sue Dorrington",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -350,6 +396,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"John T. Sardina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard Kelleher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard Kelleher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharon Hoff",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharon Hoff\"}",
       "organization_id": null
     },
     {
@@ -1141,6 +1203,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:06Z"
+    "logs_latest_update": "2026-03-28T12:46:12Z"
   }
 }

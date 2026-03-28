@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h3478"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Telecommunications, Utilities and Energy",
@@ -72,6 +76,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-04T22:51:37Z"
+      }
+    },
+    {
+      "description": "Accompanied a new draft, see H5290",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:11Z"
       }
     }
   ],
@@ -145,6 +159,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-04T22:51:37Z"
+    "logs_latest_update": "2026-03-28T12:46:11Z"
   }
 }

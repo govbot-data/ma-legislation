@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4414"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Municipalities and Regional Government",
@@ -109,6 +113,40 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:07Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:12Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:12Z"
+      }
+    },
+    {
+      "description": "Amended by substitution of bill with the same title, see H5308",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:46:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -157,6 +195,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:07Z"
+    "logs_latest_update": "2026-03-28T12:46:12Z"
   }
 }

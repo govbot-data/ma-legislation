@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h2888"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Service",
@@ -63,6 +67,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
       }
+    },
+    {
+      "description": "Accompanied a study order, see  H5312 (under House Rule 27)",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-31T13:09:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +86,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Kathleen R. LaNatra\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven J. Ouellette",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven J. Ouellette\"}",
       "organization_id": null
     }
   ],
@@ -111,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-03-31T13:09:28Z"
   }
 }

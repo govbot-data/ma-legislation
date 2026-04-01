@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4783"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on House Rules",
@@ -66,6 +70,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Hearing scheduled for 04/07/2026 from 01:00 PM-05:00 PM in A-2",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:13:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,6 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-04-01T13:13:35Z"
   }
 }

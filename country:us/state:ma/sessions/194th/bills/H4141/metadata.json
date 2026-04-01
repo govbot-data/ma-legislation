@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Reported from the committee on Public Service",
+      "date": "2025-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:13:35Z"
+      }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:13:35Z"
+      }
+    },
+    {
       "description": "Accompanied a study order, see  H5312 (under House Rule 27)",
       "date": "2026-03-30",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -153,6 +173,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T13:09:28Z"
+    "logs_latest_update": "2026-04-01T13:13:35Z"
   }
 }

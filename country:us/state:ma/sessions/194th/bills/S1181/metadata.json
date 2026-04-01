@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s1181"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on The Judiciary",
@@ -97,6 +101,18 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:40:29Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:13:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,6 +169,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:40:29Z"
+    "logs_latest_update": "2026-04-01T13:13:35Z"
   }
 }

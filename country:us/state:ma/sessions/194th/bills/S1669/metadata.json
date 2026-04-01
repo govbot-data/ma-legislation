@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s1669"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Safety and Homeland Security",
@@ -76,6 +80,18 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-23T12:39:46Z"
+      }
+    },
+    {
+      "description": "Committee recommended ought to pass",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:13:35Z"
       }
     }
   ],
@@ -173,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-23T12:39:46Z"
+    "logs_latest_update": "2026-04-01T13:13:35Z"
   }
 }

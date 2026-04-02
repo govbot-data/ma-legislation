@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2019"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Revenue",
@@ -62,6 +66,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:02Z"
+      }
+    },
+    {
+      "description": "Reporting date extended to Thursday June 25, 2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-02T13:04:52Z"
       }
     }
   ],
@@ -111,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:02Z"
+    "logs_latest_update": "2026-04-02T13:04:52Z"
   }
 }

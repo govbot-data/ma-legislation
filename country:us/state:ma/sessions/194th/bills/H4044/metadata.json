@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4044"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Higher Education",
@@ -52,6 +56,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
+      }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:56:35Z"
       }
     }
   ],
@@ -101,6 +129,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-04-03T12:56:35Z"
   }
 }

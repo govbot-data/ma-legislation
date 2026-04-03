@@ -77,6 +77,16 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:52:59Z"
       }
+    },
+    {
+      "description": "Accompanied a new draft, see S3034",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:56:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -311,6 +321,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Nick Collins\"}",
       "organization_id": null
+    },
+    {
+      "name": "David T. Vieira",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David T. Vieira\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -349,6 +367,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:52:59Z"
+    "logs_latest_update": "2026-04-03T12:56:35Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h375"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Consumer Protection and Professional Licensure",
@@ -63,6 +67,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:04Z"
       }
+    },
+    {
+      "description": "Accompanied a study order, see H5320",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:56:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +86,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Colleen M. Garry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher M. Markey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher M. Markey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Arciero",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Arciero\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven George Xiarhos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven George Xiarhos\"}",
       "organization_id": null
     }
   ],
@@ -111,6 +149,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-04-03T12:56:35Z"
   }
 }

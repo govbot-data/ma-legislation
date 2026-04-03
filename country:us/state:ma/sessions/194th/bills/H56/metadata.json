@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h56"
+    }
+  ],
   "actions": [
     {
       "description": "Read; and referred, as relates to sections 1 to 17, inclusive, 20 to 44, inclusive, 73 to 82, inclusive, and 87 to the committee on Municipalities and Regional Government",
@@ -210,6 +214,16 @@
       "_processing": {
         "log_file_created": "2026-03-11T12:53:16Z"
       }
+    },
+    {
+      "description": "Reported from the committee on Public Service (as relates to sections 18, 19, 83, 84 and 88), published as H5321",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:56:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -258,6 +272,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T12:53:16Z"
+    "logs_latest_update": "2026-04-03T12:56:35Z"
   }
 }

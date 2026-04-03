@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h863"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Election Laws",
@@ -53,6 +57,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:07Z"
       }
+    },
+    {
+      "description": "Accompanied a study order, see  H5311 (under House Rule 27)",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T12:56:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +84,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Joan B. Lovely\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nick Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Collins\"}",
       "organization_id": null
     }
   ],
@@ -109,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:07Z"
+    "logs_latest_update": "2026-04-03T12:56:35Z"
   }
 }

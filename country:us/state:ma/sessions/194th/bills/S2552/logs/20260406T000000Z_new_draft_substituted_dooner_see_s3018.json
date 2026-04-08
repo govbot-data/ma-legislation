@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft substituted (Dooner), see S3018",
+    "date": "2026-04-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2552"
+}

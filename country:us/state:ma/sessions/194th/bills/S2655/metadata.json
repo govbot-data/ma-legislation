@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2655"
+    }
+  ],
   "actions": [
     {
       "description": "Reported from the committee on Senate Ways and Means",
@@ -309,476 +313,8 @@
       }
     },
     {
-      "description": "Amendment #56 (Miranda) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #57 (Miranda) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #58 (G\u00f3mez) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #59 (G\u00f3mez) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #64 (Kennedy) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #65 (Kennedy) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #66 (Kennedy) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #67 (Kennedy) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #69 (Kennedy) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #70 (Kennedy) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #71 (Friedman) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #75 (G\u00f3mez) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #76 (Tarr) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #77 (Tarr) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #82 (Crighton) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #83 (Cyr) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #90 (Collins) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #88 (Collins) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #10 (Edwards) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #12 (Friedman) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #18 (Dooner) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #19 (Dooner) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #24 (Durant) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #27 (Durant) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #28 (Durant) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #29 (Durant) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #30 (Durant) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #31 (Durant) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #34 (Driscoll) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #80 (Tarr) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #89 (Tarr) rejected -see   Roll Call #90 (Yeas 5 to Nays 33)",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #87 (Montigny) rejected",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #3 (Tarr) adopted -see   Roll Call #91 (Yeas 38 to Nays 0)",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #4 (Tarr) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #5 (Tarr) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #7 (Tarr) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #17 (Rausch) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #2 (Edwards) adopted  -see   Roll Call #92 (Yeas 38 to Nays 0)",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Amendment #53 (Rodrigues) adopted",
-      "date": "2025-10-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:07Z"
-      }
-    },
-    {
-      "description": "Reprinted, as amended, see S2670",
-      "date": "2025-10-23",
+      "description": "Reported from the committee on Senate Ways and Means",
+      "date": "2025-10-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -787,8 +323,8 @@
       }
     },
     {
-      "description": "Substituted, as amended, for H4615",
-      "date": "2025-10-23",
+      "description": "Recommended new text for H4615",
+      "date": "2025-10-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -797,10 +333,564 @@
       }
     },
     {
-      "description": "See H4615",
-      "date": "2025-10-23",
+      "description": "Order relative to subject matter adopted",
+      "date": "2025-10-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Thursday, October 23, 2025",
+      "date": "2025-10-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #8 (Brady) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #9 (Brady) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #11 (Keenan) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #14 (Finegold) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #15 (Cronin) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #20 (Eldridge) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #22 (Eldridge) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #23 (Mark) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #32 (Durant) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #35 (Driscoll) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #38 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #39 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #40 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #41 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #42 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #46 (Fernandes) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #49 (Edwards) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #50 (Edwards) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #51 (Oliveira) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #52 (Barrett) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #55 (Miranda) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Reported from the committee on Senate Ways and Means",
+      "date": "2025-10-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Recommended new text for H4615",
+      "date": "2025-10-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Order relative to subject matter adopted",
+      "date": "2025-10-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Thursday, October 23, 2025",
+      "date": "2025-10-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #8 (Brady) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #9 (Brady) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #11 (Keenan) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #14 (Finegold) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #15 (Cronin) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #20 (Eldridge) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #22 (Eldridge) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #23 (Mark) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #32 (Durant) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #35 (Driscoll) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #38 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #39 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #40 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #41 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #42 (Fattman) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #46 (Fernandes) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #49 (Edwards) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #50 (Edwards) rejected",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #51 (Oliveira) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #52 (Barrett) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-28T13:20:07Z"
+      }
+    },
+    {
+      "description": "Amendment #55 (Miranda) adopted",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:07Z"
@@ -847,6 +937,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:07Z"
+    "logs_latest_update": "2026-04-08T13:14:14Z"
   }
 }

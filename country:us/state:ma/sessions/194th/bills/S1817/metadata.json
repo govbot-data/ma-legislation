@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s1817"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Service",
@@ -72,6 +76,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-16T12:37:47Z"
+      }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:19:03Z"
       }
     }
   ],
@@ -203,6 +231,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Pavel M. Payano\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nick Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Collins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -241,6 +277,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:37:47Z"
+    "logs_latest_update": "2026-04-09T13:19:03Z"
   }
 }

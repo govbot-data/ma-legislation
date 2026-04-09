@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 15 rejected - 27 YEAS to 128 NAYS (See YEA and NAY No. 152 )",
+    "date": "2026-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2581"
+}

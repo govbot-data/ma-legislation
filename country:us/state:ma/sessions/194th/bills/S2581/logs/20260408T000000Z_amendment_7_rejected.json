@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 7 rejected",
+    "date": "2026-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2581"
+}

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4769"
+    }
+  ],
   "actions": [
     {
       "description": "H4750, published as amended",
@@ -140,7 +144,17 @@
       }
     },
     {
-      "description": "Passed to be engrossed -see Roll Call #140 (Yeas 38 to Nays 0)",
+      "description": "Reprinted, as amended, see S2993",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:19:03Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed -- see   Roll Call #140 (Yeas 38 to Nays 0)",
       "date": "2026-02-26",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -148,19 +162,27 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:52:20Z"
+        "log_file_created": "2026-04-09T13:19:03Z"
       }
     },
     {
-      "description": "Amendment (as recommended by the committee on Senate Ways and Means) adopted, as amended",
-      "date": "2026-02-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
+      "description": "House NON-concurred in the Senate amendment",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-27T12:52:20Z"
+        "log_file_created": "2026-04-09T13:19:03Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed - (D. Rogers-Finn-Pease)",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-09T13:19:03Z"
       }
     }
   ],
@@ -204,6 +226,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:52:20Z"
+    "logs_latest_update": "2026-04-09T13:19:03Z"
   }
 }

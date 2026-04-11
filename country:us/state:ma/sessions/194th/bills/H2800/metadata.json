@@ -176,6 +176,18 @@
       "_processing": {
         "log_file_created": "2026-03-20T12:52:59Z"
       }
+    },
+    {
+      "description": "Read second and ordered to a third reading",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:51:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -232,6 +244,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-20T12:52:59Z"
+    "logs_latest_update": "2026-04-11T12:51:07Z"
   }
 }

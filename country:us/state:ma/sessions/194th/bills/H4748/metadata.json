@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4748"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Consumer Protection and Professional Licensure",
@@ -52,6 +56,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-17T13:04:01Z"
+      }
+    },
+    {
+      "description": "Accompanied a new draft, see H5342",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:51:07Z"
       }
     }
   ],
@@ -101,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:04:01Z"
+    "logs_latest_update": "2026-04-11T12:51:07Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h559"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Education",
@@ -80,6 +84,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-24T12:34:36Z"
+      }
+    },
+    {
+      "description": "Accompanied a new draft, see H5340",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T12:51:07Z"
       }
     }
   ],
@@ -233,6 +247,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-24T12:34:36Z"
+    "logs_latest_update": "2026-04-11T12:51:07Z"
   }
 }

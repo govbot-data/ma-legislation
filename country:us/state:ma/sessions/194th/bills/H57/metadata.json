@@ -297,146 +297,7 @@
       }
     },
     {
-      "description": "Reported by the temporary committee on House Ways and Means",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Reported on a part of H51",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Committee recommended ought to pass",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Rules suspended",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Read second, ordered to a third reading, rules suspended and read third",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2",
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Amendment 1 rejected",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Amendment 6 rejected - 26 YEAS to 126 NAYS (See YEA and NAY No. 1 )",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Amendment 8 rejected -\r\n26 YEAS to 126 NAYS (See YEA and NAY No. 2 )",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Amendment 11 rejected",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Amendment 16 rejected - 26 YEAS to 126 NAYS (See YEA and NAY No. 3 )",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Amendment 18 rejected - 25 YEAS to 127 NAYS (See YEA and NAY No. 4 )",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Amendment 20 rejected",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Amendment 4 pending",
+      "description": "Amendment 14 pending",
       "date": "2025-02-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -444,7 +305,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
@@ -468,7 +329,7 @@
       }
     },
     {
-      "description": "Amendment 4 laid aside",
+      "description": "Amendment 14 laid aside",
       "date": "2025-02-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -476,21 +337,21 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Decision of the Chair stands - 128 YEAS to 24 NAYS (See YEA and NAY No. 5 )",
+      "description": "Decision of the Chair stands - 128 YEAS to 24 NAYS (See YEA and NAY No. 6 )",
       "date": "2025-02-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Amendment 7 pending",
+      "description": "Amendment 19 pending",
       "date": "2025-02-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -498,7 +359,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
@@ -522,7 +383,7 @@
       }
     },
     {
-      "description": "Amendment 7 laid aside",
+      "description": "Amendment 19 laid aside",
       "date": "2025-02-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -530,51 +391,89 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Amendment 10 pending",
+      "description": "Amendment 21 rejected",
       "date": "2025-02-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "amendment-deferral"
+        "amendment-failure"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Point of Order pending",
+      "description": "Amendment 22 rejected",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Amendment 27 adopted, as changed - 127 YEAS to 25 NAYS (See YEA and NAY No. 7 )",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Amendment 24 adopted, as changed - 152 YEAS to 0 NAYS (See YEA and NAY No. 8 )",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Amendment 15 adopted, as changed - 152 YEAS to 0 NAYS (See YEA and NAY No. 9 )",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Amendment 9 adopted, as changed - 152 YEAS to 0 NAYS (See YEA and NAY No. 10 )",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Published as amended, see H58",
       "date": "2025-02-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Point of Order well taken",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
-      }
-    },
-    {
-      "description": "Amendment 10 laid aside",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-deferral"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:01Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     }
   ],
@@ -618,6 +517,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:14:14Z"
+    "logs_latest_update": "2026-04-12T12:55:00Z"
   }
 }

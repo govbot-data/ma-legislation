@@ -309,204 +309,7 @@
       }
     },
     {
-      "description": "Reported from the committee of conference",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Reported on a part of H4001",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Referred to the committee on House Steering, Policy and Scheduling",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "committee on House Steering, Policy and Scheduling",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting, the question being on acceptance",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Committee of conference report accepted -\r\n139 YEAS to 6 NAYS (See YEA and NAY No. 61 )",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Committee of conference report accepted, in concurrence -see   Roll Call #58 (Yeas 38 to Nays 2)",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Emergency preamble adopted",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Emergency preamble adopted",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Enacted -\r\n139 YEAS to 6 NAYS (See YEA and NAY No. 62 )",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Enacted and laid before the Governor",
-      "date": "2025-06-30",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Signed (in part) by the Governor, Chapter 9 of the Acts of 2025",
-      "date": "2025-07-04",
-      "organization_id": "~{\"classification\": \"executive\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Governor returned to the House with vetoes and amendments to certain sections",
-      "date": "2025-07-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-veto"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "For message, see H4250",
-      "date": "2025-07-10",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "For actions on the section returned with recommendations of amendments, see H4248 for sections 20, 23 and 110",
-      "date": "2025-07-10",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "For actions on the section returned with recommendations of amendments, see H4249 for section 29",
-      "date": "2025-07-10",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "The following items and sections severally reported from committee on House Ways and Means recommending, in each instance, that the action of the General Court stand; and the items and sections severally were referred to the committee on House Steering, Policy and Scheduling",
-      "date": "2025-10-08",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "committee on House Steering, Policy and Scheduling",
-          "entity_type": "organization",
-          "organization_id": null
-        },
-        {
-          "name": "the committee on House Steering, Policy and Scheduling",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Committee reported, in each instance, that the matter be scheduled for consideration; and Rule 7A suspended, in each instance",
-      "date": "2025-10-08",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
-      }
-    },
-    {
-      "description": "Item 0330-0300 passed over veto - 132 YEAS to 23 NAYS (See YEA and NAY No. 74 )",
+      "description": "Item 4000-0641 passed over veto - 155 YEAS to 0 NAYS (See YEA and NAY No. 78 )",
       "date": "2025-10-08",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -514,11 +317,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Item 0330-0300 passed over veto  -see   Roll Call #75 (Yeas 35 to Nays 3)",
+      "description": "Item 4000-0641 passed over veto -see   Roll Call #79 (Yeas 38 to Nays 0)",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -526,11 +329,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Item 1231-1000 passed over veto - 143 YEAS to 11 NAYS (See YEA and NAY No. 75 )",
+      "description": "Item 7004-0109 passed over veto - 131 YEAS to 24 NAYS (See YEA and NAY No. 84 )",
       "date": "2025-10-08",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -538,11 +341,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Item 1231-1000 passed over veto -see   Roll Call #76 (Yeas 38 to Nays 0)",
+      "description": "Item 7004-0109 passed over veto -see   Roll Call #85 (Yeas 33 to Nays 5)",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -550,11 +353,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Item 2810-0100 passed over veto - 151 YEAS to 3 NAYS (See YEA and NAY No. 76 )",
+      "description": "Item 4110-1000 passed over veto - 155 YEAS to 0 NAYS (See YEA and NAY No. 79 )",
       "date": "2025-10-08",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -562,11 +365,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Item 2810-0100 passed over veto -see   Roll Call #77 (Yeas 37 to Nays 1)",
+      "description": "Item 4110-1000 passed over veto -see   Roll Call #80 (Yeas 38 to Nays 0)",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -574,11 +377,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Item 4000-0051 passed over veto - 133 YEAS to 22 NAYS (See YEA and NAY No. 77 )",
+      "description": "Item 7002-1091 passed over veto - 142 YEAS to 13 NAYS (See YEA and NAY No. 82 )",
       "date": "2025-10-08",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -586,11 +389,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     },
     {
-      "description": "Item 4000-0051 passed over veto -see   Roll Call #78 (Yeas 35 to Nays 3)",
+      "description": "Item 7002-1091 passed over veto -see   Roll Call #83 (Yeas 37 to Nays 1)",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -598,7 +401,175 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:02Z"
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 4512-0200 passed over veto - 147 YEAS to 8 NAYS (See YEA and NAY No. 80 )",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 4512-0200 passed over veto -see   Roll Call #81 (Yeas 38 to Nays 0)",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7007-0150 passed over veto - 153 YEAS to 2 NAYS (See YEA and NAY No. 86 )",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7007-0150 passed over veto -see   Roll Call #87 (Yeas 38 to Nays 0)",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 4513-1020 passed over veto - 139 YEAS to 16 NAYS (See YEA and NAY No. 81 )",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 4513-1020 passed over veto -see   Roll Call #82 (Yeas 38 to Nays 0)",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7003-0606 passed over veto - 141 YEAS to 14 NAYS (See YEA and NAY No. 83 )",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7003-0606 passed over veto  -see   Roll Call #84 (Yeas 36 to Nays 2)",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7004-3036 passed over veto - 131 YEAS to 24 NAYS (See YEA and NAY No. 85 )",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7004-3036 passed over veto -see   Roll Call #86 (Yeas 34 to Nays 4)",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7061-9010 passed over veto - 155 YEAS to 0 NAYS (See YEA and NAY No. 87 )",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7061-9010 passed over veto -see   Roll Call #88 (Yeas 38 to Nays 0)",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7077-0023 passed over veto - 148 YEAS to 7 NAYS (See YEA and NAY No. 88 )",
+      "date": "2025-10-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
+      }
+    },
+    {
+      "description": "Item 7077-0023 passed over veto  -see   Roll Call #89 (Yeas 38 to Nays 0)",
+      "date": "2025-10-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-12T12:55:00Z"
       }
     }
   ],
@@ -642,6 +613,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:14:14Z"
+    "logs_latest_update": "2026-04-12T12:55:00Z"
   }
 }

@@ -95,6 +95,16 @@
       "_processing": {
         "log_file_created": "2026-03-31T13:09:28Z"
       }
+    },
+    {
+      "description": "Hearing rescheduled to 04/15/2026 from 10:00 AM-10:50 AM in B-1                                                                                                                                            Hearing updated to New End Time",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:22:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,6 +163,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T13:09:28Z"
+    "logs_latest_update": "2026-04-16T13:22:45Z"
   }
 }

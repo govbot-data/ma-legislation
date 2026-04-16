@@ -80,6 +80,16 @@
       "_processing": {
         "log_file_created": "2026-04-03T12:56:35Z"
       }
+    },
+    {
+      "description": "Hearing rescheduled to 04/15/2026 from 01:00 PM-01:35 PM in A-1   and Virtual Hearing updated to New End Time",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:22:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +132,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T12:56:35Z"
+    "logs_latest_update": "2026-04-16T13:22:45Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 04/15/2026 from 10:00 AM-10:50 AM in B-1                                                                                                                                            Hearing updated to New End Time",
+    "date": "2026-04-15",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2743"
+}

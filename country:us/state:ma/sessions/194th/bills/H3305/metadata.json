@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h3305"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on State Administration and Regulatory Oversight",
@@ -74,16 +78,6 @@
           "organization_id": null
         }
       ],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:03Z"
-      }
-    },
-    {
-      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting",
-      "date": "2025-09-15",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
       }
@@ -185,6 +179,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-04-16T13:22:45Z"
   }
 }

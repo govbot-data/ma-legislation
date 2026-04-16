@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "For the text of House amendments, see H5366",
+    "date": "2026-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2581"
+}

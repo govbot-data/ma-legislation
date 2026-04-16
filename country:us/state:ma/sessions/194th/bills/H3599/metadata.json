@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h3599"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Tourism, Arts and Cultural Development",
@@ -91,6 +95,16 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:52:23Z"
       }
+    },
+    {
+      "description": "Accompanied a new draft, see H5373",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:22:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +161,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:52:23Z"
+    "logs_latest_update": "2026-04-16T13:22:45Z"
   }
 }

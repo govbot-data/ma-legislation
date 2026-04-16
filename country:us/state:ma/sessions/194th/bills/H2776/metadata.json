@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h2776"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Public Service",
@@ -72,6 +76,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-19T10:13:29Z"
+      }
+    },
+    {
+      "description": "Accompanied a study order, see  H5356 (under House Rule 27)",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:22:45Z"
       }
     }
   ],
@@ -131,6 +145,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Joseph W. McGonagle, Jr.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Dawne Shand",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dawne Shand\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -169,6 +191,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T10:13:29Z"
+    "logs_latest_update": "2026-04-16T13:22:45Z"
   }
 }

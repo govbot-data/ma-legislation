@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4685"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on House Rules",
@@ -78,13 +82,23 @@
       }
     },
     {
-      "description": "Reporting date extended to Friday, March 18, 2026",
+      "description": "Reporting date extended to Wednesday, March 18, 2026",
       "date": "2026-02-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-18T12:57:06Z"
+        "log_file_created": "2026-04-16T13:22:45Z"
+      }
+    },
+    {
+      "description": "Accompanied a study order, see  H5353 (under House Rule 27)",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-16T13:22:45Z"
       }
     }
   ],
@@ -216,6 +230,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"David Allen Robertson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Justin Thurber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Justin Thurber\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -254,6 +276,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T12:57:06Z"
+    "logs_latest_update": "2026-04-16T13:22:45Z"
   }
 }

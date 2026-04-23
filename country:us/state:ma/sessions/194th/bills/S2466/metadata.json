@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2466"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Veterans and Federal Affairs",
@@ -52,6 +56,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
+      }
+    },
+    {
+      "description": "Reporting date extended to Tuesday June 30, 2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-23T13:20:06Z"
       }
     }
   ],
@@ -125,6 +139,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-04-23T13:20:06Z"
   }
 }

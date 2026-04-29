@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amended by substitution of bill with the same title, see H5390",
+    "date": "2026-04-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H3727"
+}

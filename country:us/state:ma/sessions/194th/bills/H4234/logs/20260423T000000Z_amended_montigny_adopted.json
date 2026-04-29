@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amended (Montigny) adopted",
+    "date": "2026-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4234"
+}

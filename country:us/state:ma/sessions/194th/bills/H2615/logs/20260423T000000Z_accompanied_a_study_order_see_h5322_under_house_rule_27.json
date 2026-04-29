@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Accompanied a study order, see  H5322 (under House Rule 27)",
+    "date": "2026-04-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H2615"
+}

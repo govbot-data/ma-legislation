@@ -97,6 +97,30 @@
       "_processing": {
         "log_file_created": "2026-03-31T13:09:28Z"
       }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Senate Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-04-29T13:47:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -161,6 +185,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-31T13:09:28Z"
+    "logs_latest_update": "2026-04-29T13:47:59Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h1"
+    }
+  ],
   "actions": [
     {
       "description": "Read; and referred to the committee on House Ways and Means",
@@ -36,16 +40,6 @@
     },
     {
       "description": "Reported, in part, by H4000",
-      "date": "2025-04-17",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Accompanied H4000",
       "date": "2025-04-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -101,6 +95,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-04-29T13:47:59Z"
   }
 }

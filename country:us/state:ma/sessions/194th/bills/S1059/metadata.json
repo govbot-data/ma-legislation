@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s1059"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on The Judiciary",
@@ -107,6 +111,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:52:20Z"
       }
+    },
+    {
+      "description": "Accompanied H5316",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:11:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +185,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:52:20Z"
+    "logs_latest_update": "2026-05-01T13:11:44Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment #1 (Walsh) adopted",
+    "date": "2026-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4141"
+}

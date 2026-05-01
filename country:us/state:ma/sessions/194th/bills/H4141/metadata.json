@@ -125,6 +125,31 @@
       "_processing": {
         "log_file_created": "2026-03-31T13:09:28Z"
       }
+    },
+    {
+      "description": "Read third, amended and passed to be engrossed",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:11:44Z"
+      }
+    },
+    {
+      "description": "Amendment #1 (Walsh) adopted",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:11:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -173,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:13:35Z"
+    "logs_latest_update": "2026-05-01T13:11:44Z"
   }
 }

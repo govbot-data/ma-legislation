@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Bill reported favorably by committee",
+    "date": "2026-04-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SD3402"
+}

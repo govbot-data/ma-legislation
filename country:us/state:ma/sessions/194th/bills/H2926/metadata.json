@@ -136,6 +136,29 @@
       "_processing": {
         "log_file_created": "2026-04-29T13:47:59Z"
       }
+    },
+    {
+      "description": "Read; and referred to the committee on Senate Rules",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Senate Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Senate Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:11:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -192,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-29T13:47:59Z"
+    "logs_latest_update": "2026-05-01T13:11:45Z"
   }
 }

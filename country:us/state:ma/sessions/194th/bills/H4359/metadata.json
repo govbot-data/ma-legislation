@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4359"
+    }
+  ],
   "actions": [
     {
       "description": "Reported from the committee on Consumer Protection and Professional Licensure",
@@ -185,6 +189,16 @@
       "_processing": {
         "log_file_created": "2025-12-23T10:37:40Z"
       }
+    },
+    {
+      "description": "House concurred in the Senate amendment with a further amendment",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:11:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -243,6 +257,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-23T10:37:40Z"
+    "logs_latest_update": "2026-05-01T13:11:44Z"
   }
 }

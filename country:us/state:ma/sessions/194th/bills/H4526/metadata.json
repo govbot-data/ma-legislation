@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4526"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Revenue",
@@ -119,6 +123,30 @@
       "_processing": {
         "log_file_created": "2026-03-17T13:04:01Z"
       }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:11:44Z"
+      }
+    },
+    {
+      "description": "Amended by substitution of bill with the same title, see H5392",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-01T13:11:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -175,6 +203,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:04:01Z"
+    "logs_latest_update": "2026-05-01T13:11:44Z"
   }
 }

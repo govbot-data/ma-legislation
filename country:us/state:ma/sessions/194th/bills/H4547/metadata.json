@@ -136,6 +136,16 @@
       "_processing": {
         "log_file_created": "2026-05-01T13:11:44Z"
       }
+    },
+    {
+      "description": "Read; and placed in the Orders of the Day for the next session",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-05T13:30:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -184,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-02T13:02:13Z"
+    "logs_latest_update": "2026-05-05T13:30:07Z"
   }
 }

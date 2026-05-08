@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h2078"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Labor and Workforce Development",
@@ -62,6 +66,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
+      }
+    },
+    {
+      "description": "Accompanied a study order, see  H5370 (under House Rule 27)",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:24:39Z"
       }
     }
   ],
@@ -128,6 +142,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"James B. Eldridge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodney M. Elliott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodney M. Elliott\"}",
       "organization_id": null
     },
     {
@@ -199,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-05-08T13:24:39Z"
   }
 }

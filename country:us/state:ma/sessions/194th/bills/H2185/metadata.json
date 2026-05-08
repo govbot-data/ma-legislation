@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h2185"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Labor and Workforce Development",
@@ -52,6 +56,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
+      }
+    },
+    {
+      "description": "Accompanied a study order, see  H5370 (under House Rule 27)",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:24:39Z"
       }
     }
   ],
@@ -239,6 +253,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Leigh Davis\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nick Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Collins\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -277,6 +299,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-05-08T13:24:39Z"
   }
 }

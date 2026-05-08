@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4319"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on House Rules",
@@ -104,6 +108,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:06Z"
       }
+    },
+    {
+      "description": "Accompanied a study order, see  H5369 (under House Rule 27)",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:24:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -186,6 +200,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Erika Uyterhoeven\"}",
       "organization_id": null
+    },
+    {
+      "name": "John Barrett, III",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Barrett, III\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -224,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:06Z"
+    "logs_latest_update": "2026-05-08T13:24:39Z"
   }
 }

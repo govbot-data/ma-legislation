@@ -123,6 +123,19 @@
       "_processing": {
         "log_file_created": "2026-04-03T12:56:35Z"
       }
+    },
+    {
+      "description": "Read third and passed to be engrossed",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:24:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +184,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T12:56:35Z"
+    "logs_latest_update": "2026-05-08T13:24:39Z"
   }
 }

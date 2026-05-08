@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s185"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Community Development and Small Businesses",
@@ -92,6 +96,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-19T10:13:29Z"
+      }
+    },
+    {
+      "description": "Discharged from committee and recommitted to the committee on Community Development and Small Businesses",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:24:39Z"
       }
     }
   ],
@@ -173,6 +187,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-19T10:13:29Z"
+    "logs_latest_update": "2026-05-08T13:24:39Z"
   }
 }

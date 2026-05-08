@@ -242,6 +242,36 @@
       "_processing": {
         "log_file_created": "2026-04-09T13:19:03Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:24:39Z"
+      }
+    },
+    {
+      "description": "Senate NON-concurred in House amendment",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:24:39Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed (Crighton-Rodrigues-Durant)",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-08T13:24:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -412,6 +442,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:22:45Z"
+    "logs_latest_update": "2026-05-08T13:24:39Z"
   }
 }

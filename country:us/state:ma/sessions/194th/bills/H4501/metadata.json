@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4501"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Municipalities and Regional Government",
@@ -144,6 +148,29 @@
       "_processing": {
         "log_file_created": "2026-02-27T12:52:20Z"
       }
+    },
+    {
+      "description": "Taken out of the Orders of the Day",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:12:59Z"
+      }
+    },
+    {
+      "description": "Read third and passed to be engrossed",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:12:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -200,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T12:52:20Z"
+    "logs_latest_update": "2026-05-12T14:12:59Z"
   }
 }

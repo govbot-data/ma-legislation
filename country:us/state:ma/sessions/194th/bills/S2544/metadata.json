@@ -172,6 +172,26 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:24:39Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:12:59Z"
+      }
+    },
+    {
+      "description": "Senate concurs in the House amendment",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T14:12:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -220,6 +240,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:24:39Z"
+    "logs_latest_update": "2026-05-12T14:12:59Z"
   }
 }

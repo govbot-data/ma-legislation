@@ -224,6 +224,16 @@
       "_processing": {
         "log_file_created": "2026-04-03T12:56:35Z"
       }
+    },
+    {
+      "description": "Sections 45 to 72, inclusive, 85 and 86, accompanied a study order, see H5394",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:14:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -272,6 +282,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T12:56:35Z"
+    "logs_latest_update": "2026-05-16T13:14:40Z"
   }
 }

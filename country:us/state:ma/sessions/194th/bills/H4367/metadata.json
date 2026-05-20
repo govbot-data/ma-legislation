@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4367"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on House Rules",
@@ -99,6 +103,18 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-06T12:38:00Z"
+      }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5441",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-20T14:55:06Z"
       }
     }
   ],
@@ -316,6 +332,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-06T12:38:00Z"
+    "logs_latest_update": "2026-05-20T14:55:06Z"
   }
 }

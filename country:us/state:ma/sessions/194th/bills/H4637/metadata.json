@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4637"
+    }
+  ],
   "actions": [
     {
       "description": "Reported from the committee on The Judiciary",
@@ -53,6 +57,18 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
+      }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5444",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-20T14:55:06Z"
       }
     }
   ],
@@ -120,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-05-20T14:55:06Z"
   }
 }

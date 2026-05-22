@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-sd2872"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Rules of the two branches, acting concurrently",
@@ -60,6 +64,39 @@
       ],
       "_processing": {
         "log_file_created": "2026-02-07T12:40:29Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "House NON-concurred in the reference to the committee on The Judiciary and referred to the committee on Children, Families and Persons with Disabilities",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Children, Families and Persons with Disabilities",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Children, Families and Persons with Disabilities",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
       }
     }
   ],
@@ -111,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:40:29Z"
+    "logs_latest_update": "2026-05-22T14:31:43Z"
   }
 }

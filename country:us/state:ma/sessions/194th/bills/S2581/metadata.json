@@ -272,6 +272,36 @@
       "_processing": {
         "log_file_created": "2026-05-08T13:24:39Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "House insisted on its amendment",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed - (Peisch-F. Moran-Vieira), in concurrence",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -442,6 +472,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-08T13:24:39Z"
+    "logs_latest_update": "2026-05-22T14:31:43Z"
   }
 }

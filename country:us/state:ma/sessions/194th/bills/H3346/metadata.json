@@ -93,6 +93,66 @@
       "_processing": {
         "log_file_created": "2026-05-20T14:55:06Z"
       }
+    },
+    {
+      "description": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on House Steering, Policy and Scheduling with the amendment pending",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting for a second reading with the amendment pending",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "New draft substituted, see H5440",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-20T14:55:06Z"
+    "logs_latest_update": "2026-05-22T14:31:43Z"
   }
 }

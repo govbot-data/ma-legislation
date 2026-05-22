@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "New draft substituted, see H5444",
+    "date": "2026-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H4637"
+}

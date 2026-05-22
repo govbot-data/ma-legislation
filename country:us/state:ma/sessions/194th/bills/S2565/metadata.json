@@ -88,6 +88,82 @@
       "_processing": {
         "log_file_created": "2026-05-20T14:55:06Z"
       }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed - 156 YEAS to 0 NAYS (See YEA and NAY No. 197 )",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-22T14:31:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -274,6 +350,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-20T14:55:06Z"
+    "logs_latest_update": "2026-05-22T14:31:43Z"
   }
 }

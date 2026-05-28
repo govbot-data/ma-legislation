@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4010"
+    }
+  ],
   "actions": [
     {
       "description": "H4005, published as amended",
@@ -164,7 +168,7 @@
     {
       "description": "Rules suspended",
       "date": "2025-05-15",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -230,16 +234,6 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
       }
-    },
-    {
-      "description": "Accompanied H4227",
-      "date": "2025-06-16",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:05Z"
-      }
     }
   ],
   "sponsorships": [],
@@ -261,6 +255,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-05-28T15:42:09Z"
   }
 }

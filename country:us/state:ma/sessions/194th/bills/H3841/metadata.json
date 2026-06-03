@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h3841"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Veterans and Federal Affairs",
@@ -63,6 +67,16 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:06Z"
       }
+    },
+    {
+      "description": "Accompanied a study order, see  H5466 (under House Rule 27)",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:40:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +86,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Colleen M. Garry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven George Xiarhos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven George Xiarhos\"}",
       "organization_id": null
     }
   ],
@@ -111,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:06Z"
+    "logs_latest_update": "2026-06-03T16:40:20Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2563"
+    }
+  ],
   "actions": [
     {
       "description": "S137 printed as amended",
@@ -222,13 +226,13 @@
       }
     },
     {
-      "description": "Senate concurred the House amendment with a further amendment, see S2954",
+      "description": "Senate concurred in the House amendment with a further amendment, see S2954",
       "date": "2026-02-05",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-07T12:40:29Z"
+        "log_file_created": "2026-06-05T14:41:43Z"
       }
     },
     {
@@ -247,6 +251,90 @@
       ],
       "_processing": {
         "log_file_created": "2026-02-10T13:05:39Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "House concurred in the Senate further amendment with a still further amendment, see H5474 - 150 YEAS to 0 NAYS (See YEA and NAY No. 204 )",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Senate concurred in the still further House amendment",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Emergency preamble adopted",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Emergency preamble adopted",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Enacted",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Enacted and laid before the Governor",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
       }
     }
   ],
@@ -418,6 +506,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:05:39Z"
+    "logs_latest_update": "2026-06-05T14:41:43Z"
   }
 }

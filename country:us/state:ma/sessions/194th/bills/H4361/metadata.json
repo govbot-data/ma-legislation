@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4361"
+    }
+  ],
   "actions": [
     {
       "description": "Reported from the committee on House Ways and Means",
@@ -106,6 +110,96 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
+      }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment striking out all after the enacting clause and inserting in place thereof the text of S3109",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Also based on S1884",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Read second",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S3109",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed -see   Roll Call #187 (Yeas 39 to Nays 0)",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-05T14:41:43Z"
       }
     }
   ],
@@ -989,6 +1083,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-06-05T14:41:43Z"
   }
 }

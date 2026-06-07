@@ -166,6 +166,16 @@
       }
     },
     {
+      "description": "Text of H5472 amended, published as H5479",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-07T13:44:53Z"
+      }
+    },
+    {
       "description": "Passed to be engrossed - 146 YEAS to 0 NAYS (See YEA and NAY No. 208 )",
       "date": "2026-06-04",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -282,6 +292,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-05T14:41:43Z"
+    "logs_latest_update": "2026-06-07T13:44:53Z"
   }
 }

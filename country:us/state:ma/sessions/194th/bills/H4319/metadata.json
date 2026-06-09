@@ -162,6 +162,38 @@
       "_processing": {
         "log_file_created": "2026-05-19T14:52:27Z"
       }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:41:14Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:41:14Z"
+      }
+    },
+    {
+      "description": "Read second and ordered to a third reading",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:41:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -290,6 +322,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-19T14:52:27Z"
+    "logs_latest_update": "2026-06-09T14:41:14Z"
   }
 }

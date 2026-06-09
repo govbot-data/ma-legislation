@@ -113,7 +113,7 @@
       }
     },
     {
-      "description": "Committee recommended ought to pass with an amendment striking out all after the enacting clause and inserting in place thereof the text of S3109",
+      "description": "Committee recommended ought to pass with an amendments by striking out all after the enacting clause and inserting in place thereof the text of S3109; and by inserting before the enacting clause an emergence preamble",
       "date": "2026-06-04",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -121,7 +121,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-05T14:41:43Z"
+        "log_file_created": "2026-06-09T14:41:14Z"
       }
     },
     {
@@ -157,7 +157,7 @@
       }
     },
     {
-      "description": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S3109",
+      "description": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S3109; and by inserting before the enacting clause an emergence preamble",
       "date": "2026-06-04",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -165,7 +165,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-05T14:41:43Z"
+        "log_file_created": "2026-06-09T14:41:14Z"
       }
     },
     {
@@ -200,6 +200,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on Bills in the Third Reading",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Bills in the Third Reading",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-09T14:41:14Z"
       }
     }
   ],
@@ -1083,6 +1101,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-05T14:41:43Z"
+    "logs_latest_update": "2026-06-09T14:41:14Z"
   }
 }

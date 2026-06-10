@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h4440"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Municipalities and Regional Government",
@@ -77,6 +81,36 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5492",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:24:39Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on House Steering, Policy and Scheduling with the amendment pending",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-10T15:24:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +167,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-06-10T15:24:39Z"
   }
 }

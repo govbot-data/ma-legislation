@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 3 rejected - 2 YEAS to 154 NAYS (See YEA and NAY No. 209 )",
+    "date": "2026-06-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2726"
+}

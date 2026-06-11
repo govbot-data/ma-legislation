@@ -88,6 +88,130 @@
       "_processing": {
         "log_file_created": "2026-06-10T15:24:39Z"
       }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Amendment 3 rejected - 2 YEAS to 154 NAYS (See YEA and NAY No. 209 )",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Amendment 4 rejected - 23 YEAS to 133 NAYS (See YEA and NAY No. 210 )",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Amendment 6 adopted, as changed",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Amendment 8 adopted",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed - 153 YEAS to 3 NAYS (See YEA and NAY No. 211 )",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -290,6 +414,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T15:24:39Z"
+    "logs_latest_update": "2026-06-11T15:52:20Z"
   }
 }

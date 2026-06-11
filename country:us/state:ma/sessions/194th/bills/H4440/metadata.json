@@ -83,7 +83,7 @@
       }
     },
     {
-      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5492",
+      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill, see H5492",
       "date": "2026-06-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -91,7 +91,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-10T15:24:39Z"
+        "log_file_created": "2026-06-11T15:52:20Z"
       }
     },
     {
@@ -110,6 +110,48 @@
       ],
       "_processing": {
         "log_file_created": "2026-06-10T15:24:39Z"
+      }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting for a second reading with the amendment pending",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
+      }
+    },
+    {
+      "description": "New draft substituted, see H5492",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T15:52:20Z"
       }
     }
   ],
@@ -167,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-10T15:24:39Z"
+    "logs_latest_update": "2026-06-11T15:52:20Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment 4 rejected - 23 YEAS to 133 NAYS (See YEA and NAY No. 210 )",
+    "date": "2026-06-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S2726"
+}

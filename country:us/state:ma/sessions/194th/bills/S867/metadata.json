@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s867"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Health Care Financing",
@@ -76,6 +80,38 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:06Z"
+      }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, substituting a new draft, see S3116",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:51:49Z"
+      }
+    },
+    {
+      "description": "Order relative to subject matter adopted",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:51:49Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Thursday, June 18, 2026",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:51:49Z"
       }
     }
   ],
@@ -229,6 +265,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:06Z"
+    "logs_latest_update": "2026-06-13T13:51:49Z"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amended (Eldridge) adopted",
+    "date": "2026-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H4137"
+}

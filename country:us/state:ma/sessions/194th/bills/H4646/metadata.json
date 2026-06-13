@@ -106,6 +106,52 @@
       "_processing": {
         "log_file_created": "2026-06-05T14:41:43Z"
       }
+    },
+    {
+      "description": "Read second",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:51:49Z"
+      }
+    },
+    {
+      "description": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S3111",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:51:49Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:51:49Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed -- see   Roll Call #192 (Yeas 39 to Nays 0)",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T13:51:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +226,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-05T14:41:43Z"
+    "logs_latest_update": "2026-06-13T13:51:49Z"
   }
 }

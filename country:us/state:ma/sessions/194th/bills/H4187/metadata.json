@@ -9,141 +9,12 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
-  "actions": [
+  "other_identifiers": [
     {
-      "description": "Reported from the committee on House Ways and Means",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Pending new draft of H4160",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "New draft of H4160",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Ordered to a third reading",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Rules suspended",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Read third",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Amendment 29 adopted -\r\n153 YEAS to 0 NAYS (See YEA and NAY No. 53 )",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Amendment 36 adopted, as changed -\r\n154 YEAS to 0 NAYS (See YEA and NAY No. 54 )",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Amendment 33 adopted, as changed",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Amendment 34 adopted, as changed",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Amendment 45 adopted, as changed",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
-    },
-    {
-      "description": "Published as amended, see H4206",
-      "date": "2025-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:04Z"
-      }
+      "identifier": "ocd-bill-ma-194th-h4187"
     }
   ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "House Committee on Ways and Means",
@@ -296,6 +167,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:04Z"
+    "logs_latest_update": "2026-06-16T16:43:37Z"
   }
 }

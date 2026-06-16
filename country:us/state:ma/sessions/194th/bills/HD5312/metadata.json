@@ -100,6 +100,16 @@
       "_processing": {
         "log_file_created": "2026-05-28T15:42:09Z"
       }
+    },
+    {
+      "description": "Accompanied a new draft, see H5502",
+      "date": "2026-06-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:43:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -158,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-28T15:42:09Z"
+    "logs_latest_update": "2026-06-16T16:43:37Z"
   }
 }

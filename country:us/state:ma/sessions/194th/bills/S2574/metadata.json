@@ -210,6 +210,30 @@
       "_processing": {
         "log_file_created": "2026-06-13T13:51:49Z"
       }
+    },
+    {
+      "description": "Enacted",
+      "date": "2026-06-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:43:37Z"
+      }
+    },
+    {
+      "description": "Enacted and laid before the Governor",
+      "date": "2026-06-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-16T16:43:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -266,6 +290,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-13T13:51:49Z"
+    "logs_latest_update": "2026-06-16T16:43:37Z"
   }
 }

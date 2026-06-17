@@ -256,7 +256,7 @@
     {
       "description": "Rules suspended",
       "date": "2026-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -296,7 +296,7 @@
     {
       "description": "Emergency preamble adopted",
       "date": "2026-06-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -335,6 +335,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-06-05T14:41:43Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 102 of the Acts of 2026",
+      "date": "2026-06-12",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T15:20:23Z"
       }
     }
   ],
@@ -506,6 +518,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-05T14:41:43Z"
+    "logs_latest_update": "2026-06-17T15:20:23Z"
   }
 }

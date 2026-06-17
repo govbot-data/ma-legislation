@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2385"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Transportation",
@@ -82,6 +86,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-21T12:39:20Z"
+      }
+    },
+    {
+      "description": "Accompanied S2448",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T15:20:23Z"
       }
     }
   ],
@@ -155,6 +169,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-21T12:39:20Z"
+    "logs_latest_update": "2026-06-17T15:20:23Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s729"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Financial Services",
@@ -52,6 +56,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
+      }
+    },
+    {
+      "description": "Accompanied S826",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-17T15:20:23Z"
       }
     }
   ],
@@ -117,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-06-17T15:20:23Z"
   }
 }

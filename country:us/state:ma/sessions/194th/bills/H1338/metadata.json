@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-h1338"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Financial Services",
@@ -159,6 +163,19 @@
       "_processing": {
         "log_file_created": "2026-02-13T12:52:09Z"
       }
+    },
+    {
+      "description": "Read third, amended and passed to be engrossed",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:56:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -207,6 +224,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T12:52:09Z"
+    "logs_latest_update": "2026-06-19T14:56:38Z"
   }
 }

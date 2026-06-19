@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2551"
+    }
+  ],
   "actions": [
     {
       "description": "Reported form the committee on Senate Ways and Means",
@@ -39,6 +43,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-28T13:20:05Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Thursday, July 17, 2025",
+      "date": "2025-07-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:56:38Z"
       }
     },
     {
@@ -160,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:05Z"
+    "logs_latest_update": "2026-06-19T14:56:38Z"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House insisted on its amendment",
+    "date": "2026-06-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S2619"
+}

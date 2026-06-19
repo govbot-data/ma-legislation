@@ -216,6 +216,36 @@
       "_processing": {
         "log_file_created": "2026-06-13T13:51:49Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:56:38Z"
+      }
+    },
+    {
+      "description": "House insisted on its amendment",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:56:38Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed - (M. Moran-Farley-Bouvier-Vieira) in concurrence",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:56:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -322,6 +352,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-13T13:51:49Z"
+    "logs_latest_update": "2026-06-19T14:56:38Z"
   }
 }

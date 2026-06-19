@@ -105,6 +105,16 @@
       "_processing": {
         "log_file_created": "2026-04-16T13:22:45Z"
       }
+    },
+    {
+      "description": "Accompanied a study order (under JR10), see S3128",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:56:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -163,6 +173,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:22:45Z"
+    "logs_latest_update": "2026-06-19T14:56:38Z"
   }
 }

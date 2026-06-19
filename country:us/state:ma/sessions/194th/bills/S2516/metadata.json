@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2516"
+    }
+  ],
   "actions": [
     {
       "description": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity",
@@ -83,6 +87,16 @@
       }
     },
     {
+      "description": "Placed in the Orders of the Day for Thursday, September 25, 2025",
+      "date": "2025-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:56:38Z"
+      }
+    },
+    {
       "description": "Read second",
       "date": "2025-09-25",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -95,13 +109,13 @@
       }
     },
     {
-      "description": "New draft substituted, se S2608",
+      "description": "New draft substituted, see S2608",
       "date": "2025-09-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-28T13:20:03Z"
+        "log_file_created": "2026-06-19T14:56:38Z"
       }
     }
   ],
@@ -217,6 +231,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-06-19T14:56:38Z"
   }
 }

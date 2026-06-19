@@ -41,6 +41,16 @@
       }
     },
     {
+      "description": "Order relative to subject matter adopted",
+      "date": "2025-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-19T14:56:38Z"
+      }
+    },
+    {
       "description": "Placed in the Orders of the Day for Thursday, September 25, 2025",
       "date": "2025-09-18",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -565,6 +575,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-12T12:55:00Z"
+    "logs_latest_update": "2026-06-19T14:56:38Z"
   }
 }

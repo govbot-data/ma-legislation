@@ -115,6 +115,16 @@
       "_processing": {
         "log_file_created": "2026-06-19T14:56:38Z"
       }
+    },
+    {
+      "description": "Discharged from committee and recommitted to the committee on Public Service",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:15:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -173,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-19T14:56:38Z"
+    "logs_latest_update": "2026-06-26T14:15:35Z"
   }
 }

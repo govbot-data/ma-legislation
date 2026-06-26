@@ -234,6 +234,18 @@
       "_processing": {
         "log_file_created": "2026-06-16T16:43:37Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 109 of the Acts of 2026",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:15:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -290,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-16T16:43:37Z"
+    "logs_latest_update": "2026-06-26T14:15:34Z"
   }
 }

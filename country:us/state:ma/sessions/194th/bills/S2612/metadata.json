@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s2612"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Rules of the two branches, acting concurrently",
@@ -115,6 +119,16 @@
       "_processing": {
         "log_file_created": "2025-12-08T22:20:46Z"
       }
+    },
+    {
+      "description": "Accompanied H5175",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:15:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -163,6 +177,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-08T22:20:46Z"
+    "logs_latest_update": "2026-06-26T14:15:35Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-s473"
+    }
+  ],
   "actions": [
     {
       "description": "Referred to the committee on Elder Affairs",
@@ -119,18 +123,6 @@
       "_processing": {
         "log_file_created": "2025-11-28T13:20:03Z"
       }
-    },
-    {
-      "description": "Committee recommended ought to pass with an amendment, substituting therefor a new draft, see S2711",
-      "date": "2025-11-13",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-28T13:20:03Z"
-      }
     }
   ],
   "sponsorships": [
@@ -187,6 +179,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-28T13:20:03Z"
+    "logs_latest_update": "2026-06-26T14:15:35Z"
   }
 }

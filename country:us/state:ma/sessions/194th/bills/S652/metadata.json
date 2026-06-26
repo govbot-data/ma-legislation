@@ -103,6 +103,38 @@
       "_processing": {
         "log_file_created": "2026-04-16T13:22:45Z"
       }
+    },
+    {
+      "description": "Taken out of the Orders of the Day",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:15:35Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:15:35Z"
+      }
+    },
+    {
+      "description": "Bills in the Third Reading new draft substituted, see S3133",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-26T14:15:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-16T13:22:45Z"
+    "logs_latest_update": "2026-06-26T14:15:35Z"
   }
 }

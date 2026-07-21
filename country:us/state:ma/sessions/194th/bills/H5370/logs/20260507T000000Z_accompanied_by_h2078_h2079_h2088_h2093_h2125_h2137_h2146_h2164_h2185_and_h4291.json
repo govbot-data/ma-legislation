@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H2078, H2079, H2088, H2093, H2125, H2137, H2146, H2164, H2185 and H4291",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5370",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5370"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of H4382, H4383, H4384, H4385 and H4386",
+    "occurred_at": "2025-12-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4805",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4805"
+}

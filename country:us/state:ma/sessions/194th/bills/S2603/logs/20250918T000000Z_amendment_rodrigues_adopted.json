@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment (Rodrigues) adopted",
+    "occurred_at": "2025-09-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2603",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2603"
+}

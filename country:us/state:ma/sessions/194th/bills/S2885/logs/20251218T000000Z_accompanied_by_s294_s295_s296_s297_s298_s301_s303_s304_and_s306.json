@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S294, S295, S296, S297, S298, S301, S303, S304 and S306",
+    "occurred_at": "2025-12-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2885",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2885"
+}

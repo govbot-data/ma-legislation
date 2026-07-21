@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S328, S337, S345, S348, S354, S369, S385, S388, S394, S407 S416, S440 and S460",
+    "occurred_at": "2025-09-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S400",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S400"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House concurred in the Senate amendment with a further amendment, see H5482",
+    "occurred_at": "2026-06-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5478",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5478"
+}

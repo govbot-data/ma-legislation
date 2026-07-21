@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Text of S2924, reprinted as amended",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2940",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2940"
+}

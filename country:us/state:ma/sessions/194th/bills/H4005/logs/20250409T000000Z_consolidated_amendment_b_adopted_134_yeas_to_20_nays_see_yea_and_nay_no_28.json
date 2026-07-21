@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Consolidated amendment B adopted -\r\n134 YEAS to 20 NAYS (See YEA and NAY No. 28 )",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4005",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4005"
+}

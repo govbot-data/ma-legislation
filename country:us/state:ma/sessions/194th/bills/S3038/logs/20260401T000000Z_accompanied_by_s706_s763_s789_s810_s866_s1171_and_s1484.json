@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S706, S763, S789, S810, S866, S1171 and S1484",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3038",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3038"
+}

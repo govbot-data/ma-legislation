@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H2076, H2084, H2102, H2103, H2122, H2129, H2130, H2139, H2142, H2147, H2160, H2167, H2169, H3994 and H3995",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5180",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5180"
+}

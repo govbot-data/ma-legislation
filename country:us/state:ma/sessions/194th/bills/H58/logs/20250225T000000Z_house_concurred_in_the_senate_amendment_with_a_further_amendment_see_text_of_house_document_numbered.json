@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House concurred in the Senate amendment with a further  amendment, see text of House document numbered 61 - 128 YEAS to 23 NAYS (See YEA and NAY No. 12 )",
+    "occurred_at": "2025-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H58",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H58"
+}

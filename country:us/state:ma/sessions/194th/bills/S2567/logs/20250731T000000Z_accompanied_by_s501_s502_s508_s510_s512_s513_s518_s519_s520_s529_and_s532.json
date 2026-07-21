@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S501, S502, S508, S510, S512, S513, S518, S519, S520, S529 and S532",
+    "occurred_at": "2025-07-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2567",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2567"
+}

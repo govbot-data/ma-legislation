@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Taken out of the Orders of the Day",
+    "occurred_at": "2026-05-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4501",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4501"
+}

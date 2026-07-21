@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H321, H331, H335, H349, H351, H356, H366, H374, H395, H409, H411, H414, H417, H428, H434, H443, H449, H4058, H4195, H4196 and H4197",
+    "occurred_at": "2025-11-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4733",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4733"
+}

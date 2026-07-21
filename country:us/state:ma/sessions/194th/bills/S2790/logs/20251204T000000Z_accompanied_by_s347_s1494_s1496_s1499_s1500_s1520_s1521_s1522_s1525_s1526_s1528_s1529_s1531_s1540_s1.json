@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S347, S1494, S1496, S1499, S1500, S1520, S1521, S1522, S1525, S1526, S1528, S1529, S1531, S1540, S1553, S1555, S1570, S1581, S1585, S1593, S1594, S1598, S1603, S1615, S1625, S1627 and S1630",
+    "occurred_at": "2025-12-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2790",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2790"
+}

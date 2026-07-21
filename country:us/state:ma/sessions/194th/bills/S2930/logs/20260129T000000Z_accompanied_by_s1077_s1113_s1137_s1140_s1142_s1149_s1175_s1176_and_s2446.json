@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S1077, S1113, S1137, S1140, S1142, S1149, S1175, S1176 and S2446",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2930",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2930"
+}

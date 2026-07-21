@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Discharged from committee and recommitted to the committee on Public Service",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2750",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2750"
+}

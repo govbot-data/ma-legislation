@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft substituted, see S2551",
+    "occurred_at": "2025-07-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2537",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2537"
+}

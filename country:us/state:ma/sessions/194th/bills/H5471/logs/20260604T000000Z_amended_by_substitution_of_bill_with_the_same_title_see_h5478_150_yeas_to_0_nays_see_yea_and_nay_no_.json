@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amended by substitution of bill with the same title, see H5478 - 150 YEAS to 0 NAYS (See YEA and NAY No. 206 )",
+    "occurred_at": "2026-06-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5471",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5471"
+}

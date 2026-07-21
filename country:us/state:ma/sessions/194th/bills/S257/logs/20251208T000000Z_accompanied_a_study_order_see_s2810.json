@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied a study order, see S2810",
+    "occurred_at": "2025-12-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S257",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S257"
+}

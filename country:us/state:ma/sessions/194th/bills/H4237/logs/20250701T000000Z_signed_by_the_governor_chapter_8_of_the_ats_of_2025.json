@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by the Governor, Chapter 8 of the Ats of 2025",
+    "occurred_at": "2025-07-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4237",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4237"
+}

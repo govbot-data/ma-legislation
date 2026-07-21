@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed -- see   Roll Call #192 (Yeas 39 to Nays 0)",
+    "occurred_at": "2026-06-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4646",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4646"
+}

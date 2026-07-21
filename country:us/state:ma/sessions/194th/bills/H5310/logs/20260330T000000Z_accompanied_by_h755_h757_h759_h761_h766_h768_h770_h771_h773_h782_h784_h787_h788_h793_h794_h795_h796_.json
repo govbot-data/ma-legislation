@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H755, H757, H759, H761, H766, H768, H770, H771, H773, H782, H784, H787, H788, H793, H794, H795, H796, H797, H798, H1352 and H4039",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5310",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5310"
+}

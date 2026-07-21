@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment 61 adopted -\r\n150 YEAS to 1 NAYS (See YEA and NAY No. 49 )",
+    "occurred_at": "2025-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4150",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4150"
+}

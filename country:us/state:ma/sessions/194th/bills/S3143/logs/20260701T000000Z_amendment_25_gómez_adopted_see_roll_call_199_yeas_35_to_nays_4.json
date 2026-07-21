@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment #25 (G\u00f3mez) adopted -see   Roll Call #199 (Yeas 35 to Nays 4)",
+    "occurred_at": "2026-07-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3143",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3143"
+}

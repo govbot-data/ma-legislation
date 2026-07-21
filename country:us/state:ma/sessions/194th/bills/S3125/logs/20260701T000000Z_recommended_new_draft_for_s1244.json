@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Recommended new draft for S1244",
+    "occurred_at": "2026-07-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3125",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3125"
+}

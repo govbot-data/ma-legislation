@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 09/22/2025 from 01:00 PM-03:10 PM in A-2                                                                                                                                          and Virtual Hearing updated to New End Time",
+    "occurred_at": "2025-09-22",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S1889",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S1889"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H2067, H2128, H2131, H2133 and H2182",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5361",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5361"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read; and placed in the Orders of the Day for the next session",
+    "occurred_at": "2026-05-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5109",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5109"
+}

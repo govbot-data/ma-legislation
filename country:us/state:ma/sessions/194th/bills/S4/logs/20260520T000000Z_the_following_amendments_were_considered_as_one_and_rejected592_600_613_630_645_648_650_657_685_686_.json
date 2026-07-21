@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The following amendments were considered as one and rejected:592, 600, 613, 630, 645, 648, 650, 657, 685, 686, 687, 688, 689, 691, 695, 696, 701, 704, 712, 715, 719, 721, 739, 755, 756, 761, 762, 787, 802, 806, 807, 817, 831, 834, 836, 842, 843, 873, 879, 880, 881, 884, 899, 903, 904, 907, 909, 918, 921, 922, 923, 924, 925, 926, 934, 935, 948, 952, 953, 954, 957, 959, 960, 964, 984, 986, 990, 992, 993, 1000, 1036, 1067, 1103, 1146, 1147, 1148, 1149, 1152",
+    "occurred_at": "2026-05-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S4"
+}

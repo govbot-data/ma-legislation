@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed - 154 YEAS to 3 NAYS (See YEA and NAY No. 125 )",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5093",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5093"
+}

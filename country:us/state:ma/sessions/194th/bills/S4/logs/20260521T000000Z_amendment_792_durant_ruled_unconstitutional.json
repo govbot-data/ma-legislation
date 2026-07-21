@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment #792 (Durant) ruled unconstitutional",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S4"
+}

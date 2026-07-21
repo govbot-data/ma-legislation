@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amended by substitution of a new text, see H4294",
+    "occurred_at": "2025-07-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2543",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2543"
+}

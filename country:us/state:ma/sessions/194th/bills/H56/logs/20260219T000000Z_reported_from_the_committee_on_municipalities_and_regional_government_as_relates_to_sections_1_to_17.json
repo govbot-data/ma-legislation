@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from the committee on Municipalities and Regional Government (as relates to sections 1 to 17, inclusive, 20 to 44, inclusive, 73 to 82, inclusive, and 87)",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H56",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H56"
+}

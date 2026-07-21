@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H319, H320, H325, H332, H357, H375, H427, H447, H448, H450, H454, H4019 and H4159",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5320",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5320"
+}

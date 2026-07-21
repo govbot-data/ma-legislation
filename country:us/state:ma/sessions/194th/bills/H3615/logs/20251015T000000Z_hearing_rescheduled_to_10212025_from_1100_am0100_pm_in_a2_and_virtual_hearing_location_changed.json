@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 10/21/2025 from 11:00 AM-01:00 PM in A-2                                                                                                                                                            and Virtual Hearing location changed",
+    "occurred_at": "2025-10-15",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H3615",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H3615"
+}

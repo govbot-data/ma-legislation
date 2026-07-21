@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Read third, amended by substitution of a new text (H5494) and passed to be engrossed",
+    "occurred_at": "2026-06-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2628",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2628"
+}

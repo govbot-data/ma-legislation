@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 10/03/2025 from 10:00 AM-12:35 PM in Gardner Auditorium                                                               Hearing updated to New End Time",
+    "occurred_at": "2025-10-03",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H3057",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H3057"
+}

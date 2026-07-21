@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Item 4110-1000 passed over veto - 155 YEAS to 0 NAYS (See YEA and NAY No. 79 )",
+    "occurred_at": "2025-10-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "veto-override-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4240",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4240"
+}

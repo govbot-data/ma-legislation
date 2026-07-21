@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by the Governor, Chapter 126 of the Acts of 2026",
+    "occurred_at": "2026-07-07",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H3928",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H3928"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H4532",
+    "occurred_at": "2025-09-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H3932",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H3932"
+}

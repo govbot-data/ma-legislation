@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S687, S734, S831, S1232, S1390, S1534 and S2992",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3067",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3067"
+}

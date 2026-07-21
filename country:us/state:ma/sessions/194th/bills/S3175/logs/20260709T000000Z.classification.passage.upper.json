@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed -see   Roll Call #206 (Yeas 38 to Nays 2)",
+    "occurred_at": "2026-07-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3175",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3175"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment #5 (Moore) rejected",
+    "occurred_at": "2025-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S16",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S16"
+}

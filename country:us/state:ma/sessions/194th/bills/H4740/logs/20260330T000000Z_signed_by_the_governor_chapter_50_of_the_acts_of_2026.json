@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by the Governor, Chapter 50 of the Acts of 2026",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4740",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4740"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Read third, amended (Rausch) and passed to be engrossed",
+    "occurred_at": "2026-05-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4805",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4805"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from the committee on Election Laws",
+    "occurred_at": "2025-07-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2567",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2567"
+}

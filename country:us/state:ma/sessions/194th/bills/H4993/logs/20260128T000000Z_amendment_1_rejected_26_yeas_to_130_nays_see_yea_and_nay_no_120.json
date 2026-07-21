@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment 1 rejected - 26 YEAS to 130 NAYS (See YEA and NAY No. 120 )",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4993",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4993"
+}

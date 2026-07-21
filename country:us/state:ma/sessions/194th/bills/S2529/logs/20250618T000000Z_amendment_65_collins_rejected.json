@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment #65 (Collins) rejected",
+    "occurred_at": "2025-06-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2529",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2529"
+}

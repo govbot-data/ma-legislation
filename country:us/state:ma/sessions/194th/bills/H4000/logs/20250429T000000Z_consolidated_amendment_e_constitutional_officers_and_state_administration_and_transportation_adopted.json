@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Consolidated amendment E (Constitutional Officers and State\r\nAdministration and Transportation) adopted -\r\n154 YEAS to 3 NAYS (See YEA and NAY No. 43 )",
+    "occurred_at": "2025-04-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4000",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4000"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S1925, S1929, S1941, S2011, S2013, S2016, S2047 and S2084",
+    "occurred_at": "2026-06-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3130"
+}

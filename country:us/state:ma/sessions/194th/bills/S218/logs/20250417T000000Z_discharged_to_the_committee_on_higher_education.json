@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Higher Education",
+    "occurred_at": "2025-04-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Higher Education",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S218",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S218"
+}

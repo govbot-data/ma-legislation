@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+    "occurred_at": "2025-12-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committee on House Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on House Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H77",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H77"
+}

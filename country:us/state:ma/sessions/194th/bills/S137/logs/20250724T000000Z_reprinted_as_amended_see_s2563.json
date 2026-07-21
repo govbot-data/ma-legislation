@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reprinted as amended, see S2563",
+    "occurred_at": "2025-07-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S137",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S137"
+}

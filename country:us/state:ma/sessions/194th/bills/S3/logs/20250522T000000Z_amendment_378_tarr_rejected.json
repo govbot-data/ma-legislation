@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment #378 (Tarr) rejected",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3"
+}

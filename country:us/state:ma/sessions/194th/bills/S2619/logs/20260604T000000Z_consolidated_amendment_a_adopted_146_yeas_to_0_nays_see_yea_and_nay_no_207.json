@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Consolidated amendment A adopted - 146 YEAS to 0 NAYS (See YEA and NAY No. 207 )",
+    "occurred_at": "2026-06-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2619",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2619"
+}

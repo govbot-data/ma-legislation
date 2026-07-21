@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of S928, S943 and S950",
+    "occurred_at": "2025-06-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2534",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2534"
+}

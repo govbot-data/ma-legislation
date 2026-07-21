@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment #18 (Comerford) adopted",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3050",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3050"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed -see   Roll Call #152 (Yeas 36 to Nays 3)",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3064",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3064"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment 1587 rejected - 27 YEAS to 131 NAYS (See YEA and NAY No. 174 )",
+    "occurred_at": "2026-04-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5500",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5500"
+}

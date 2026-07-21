@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed in the Orders of the Day for Thursday, January 15, 2026",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S507",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S507"
+}

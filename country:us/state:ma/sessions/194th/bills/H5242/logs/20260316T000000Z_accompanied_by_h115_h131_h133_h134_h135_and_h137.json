@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H115, H131, H133, H134, H135 and H137",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5242",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5242"
+}

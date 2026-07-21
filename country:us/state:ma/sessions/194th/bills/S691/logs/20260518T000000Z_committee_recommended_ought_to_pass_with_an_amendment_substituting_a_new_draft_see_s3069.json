@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee recommended ought to pass with an amendment, substituting a new draft see S3069",
+    "occurred_at": "2026-05-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S691",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S691"
+}

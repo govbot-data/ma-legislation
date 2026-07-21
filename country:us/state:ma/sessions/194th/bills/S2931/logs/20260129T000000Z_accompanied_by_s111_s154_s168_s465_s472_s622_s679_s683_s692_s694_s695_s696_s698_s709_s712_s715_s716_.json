@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S111, S154, S168, S465, S472, S622, S679, S683, S692, S694, S695, S696, S698, S709, S712, S715, S716, S718, S724, S726, S728, S742, S756, S758, S759, S774, S776, S777, S778, S791, S792, S796, S798, S802, S805, S806, S809, S814, S818, S822, S823, S824, S827, S832, S839, S840, S841, S844, S845, S846, S847, S848, S849, S852, S853, S856, S859, S860, S861, S863, S864, S865, S871, S873, S874, S877, S878, S879, S880, S881, S883, S884, S885, S886, S888, S890, S891, S892, S893, S894, S896, S897, S898, S899, S902, S903, S905, S906, S907, S908, S910, S911, S912, S913, S914, S915, S916, S917, S1042, S1289, S1362, S1388, S1411, S1418, S1480, S1481, S1488, S1505, S1511, S1514, S1515, S1535, S1538, S1551, S1554, S1565, S1578, S1582, S1583, S1586, S1601, S1602, S1621, S1791, S1792, S1847, S2587, S2599 and S2600",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2931",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2931"
+}

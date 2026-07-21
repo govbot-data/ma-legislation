@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment (changing reporting date to Friday July 31, 2026) adopted, pending concurrence",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S324",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S324"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 01/27/2026 from 01:00 PM-02:25 PM in A-1 and Virtual Hearing updated to New End Time",
+    "occurred_at": "2026-01-27",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4703",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4703"
+}

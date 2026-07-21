@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Also based on S2228, S2232, S2239, S2249, S2255, S2262, S2281, S2282, S2612 and S2780",
+    "occurred_at": "2026-06-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5175",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5175"
+}

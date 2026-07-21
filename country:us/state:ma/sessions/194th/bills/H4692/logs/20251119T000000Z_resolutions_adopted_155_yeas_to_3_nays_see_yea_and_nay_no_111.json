@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Resolutions adopted - 155 YEAS to 3 NAYS (See YEA and NAY No. 111 )",
+    "occurred_at": "2025-11-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4692",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4692"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 09/17/2025 from 01:00 PM-02:00 PM in B-2                        and Virtual Hearing updated to New End Time",
+    "occurred_at": "2025-09-17",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H3929",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H3929"
+}

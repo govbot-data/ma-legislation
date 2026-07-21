@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee recommended ought to pass with an amendment, substituting therefor a new draft, see H4645",
+    "occurred_at": "2025-10-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H1877",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H1877"
+}

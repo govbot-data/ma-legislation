@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of S1109",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3027",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3027"
+}

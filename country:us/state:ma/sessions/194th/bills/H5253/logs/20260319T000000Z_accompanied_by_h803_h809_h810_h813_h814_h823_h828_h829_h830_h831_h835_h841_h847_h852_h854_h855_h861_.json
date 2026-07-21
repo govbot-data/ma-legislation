@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H803, H809, H810, H813, H814, H823, H828, H829, H830, H831, H835, H841, H847, H852, H854, H855, H861, H866, H869, H870, H872, H879, H881, H3908, H3919, H3943, H4034, H4055, H4098, H4108, H4189, H4377 and H4499",
+    "occurred_at": "2026-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5253",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5253"
+}

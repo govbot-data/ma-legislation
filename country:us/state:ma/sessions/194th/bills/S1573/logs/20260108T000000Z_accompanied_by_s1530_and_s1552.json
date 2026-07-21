@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S1530 and S1552",
+    "occurred_at": "2026-01-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S1573",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S1573"
+}

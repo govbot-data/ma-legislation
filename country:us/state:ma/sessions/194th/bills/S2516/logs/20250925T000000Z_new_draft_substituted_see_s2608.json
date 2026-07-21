@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft substituted, see S2608",
+    "occurred_at": "2025-09-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2516",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2516"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H322, H361, H363, H378, H389, H402, H403, H444, H452, H455, H458 and H469",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5080",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5080"
+}

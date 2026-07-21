@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S2117, S2138, S2140, S2158, S2170 and S2204",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2986",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2986"
+}

@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Referred to the committee on Financial Services",
+    "occurred_at": "2025-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committee on Financial Services",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on Financial Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H1307",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H1307"
+}

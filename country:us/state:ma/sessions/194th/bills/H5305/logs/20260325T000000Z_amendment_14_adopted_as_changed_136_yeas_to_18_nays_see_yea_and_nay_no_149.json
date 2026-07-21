@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment 14 adopted, as changed - 136 YEAS to 18 NAYS (See YEA and NAY No. 149 )",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5305",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5305"
+}

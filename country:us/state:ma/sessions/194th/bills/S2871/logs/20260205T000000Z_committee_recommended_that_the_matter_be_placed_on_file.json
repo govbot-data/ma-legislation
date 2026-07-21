@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee recommended that the matter be placed on file",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2871",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2871"
+}

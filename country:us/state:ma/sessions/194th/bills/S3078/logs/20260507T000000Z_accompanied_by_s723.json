@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S723",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3078",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3078"
+}

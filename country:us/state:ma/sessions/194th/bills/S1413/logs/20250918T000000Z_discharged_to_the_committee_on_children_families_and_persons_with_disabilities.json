@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Children, Families and Persons with Disabilities",
+    "occurred_at": "2025-09-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Children, Families and Persons with Disabilities",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S1413",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S1413"
+}

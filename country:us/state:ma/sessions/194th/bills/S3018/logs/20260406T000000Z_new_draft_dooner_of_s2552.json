@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft (Dooner) of S2552",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3018",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3018"
+}

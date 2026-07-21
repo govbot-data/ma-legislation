@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H1087, H1097, H1150, H1160, H1175, H1176, H1184, H1217, H1225, H1250, H1252, H1293, H1303 and H1328",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5336",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5336"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate concurred",
+    "occurred_at": "2025-10-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4625",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4625"
+}

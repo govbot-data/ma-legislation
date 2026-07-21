@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S562, S588, S593, S634, S645, S646, S649 and S661",
+    "occurred_at": "2025-11-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2728",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2728"
+}

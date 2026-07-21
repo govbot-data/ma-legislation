@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third, amended and passed to be engrossed",
+    "occurred_at": "2026-07-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4525",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4525"
+}

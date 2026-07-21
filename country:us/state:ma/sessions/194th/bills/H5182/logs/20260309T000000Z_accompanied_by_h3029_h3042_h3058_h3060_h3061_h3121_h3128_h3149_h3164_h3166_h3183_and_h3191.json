@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H3029, H3042, H3058, H3060, H3061, H3121, H3128, H3149, H3164, H3166, H3183 and H3191",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5182",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5182"
+}

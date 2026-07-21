@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee of conference report accepted - 155 YEAS to 0 NAYS (See YEA and NAY No. 151 )",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5350",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5350"
+}

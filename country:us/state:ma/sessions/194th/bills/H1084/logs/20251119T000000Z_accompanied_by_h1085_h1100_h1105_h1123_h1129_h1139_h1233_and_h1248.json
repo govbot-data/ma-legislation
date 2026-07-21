@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H1085, H1100, H1105, H1123, H1129, H1139, H1233 and H1248",
+    "occurred_at": "2025-11-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H1084",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H1084"
+}

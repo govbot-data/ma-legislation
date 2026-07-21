@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Order relative to session adopted and recessed to Thursday, October 9, 2025 at 11:30AM",
+    "occurred_at": "2025-10-06",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S12",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S12"
+}

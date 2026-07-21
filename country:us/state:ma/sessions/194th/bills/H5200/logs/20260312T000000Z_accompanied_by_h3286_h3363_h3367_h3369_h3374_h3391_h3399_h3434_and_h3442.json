@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H3286, H3363, H3367, H3369, H3374, H3391, H3399, H3434 and H3442",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5200",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5200"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S2724",
+    "occurred_at": "2025-11-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4363",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4363"
+}

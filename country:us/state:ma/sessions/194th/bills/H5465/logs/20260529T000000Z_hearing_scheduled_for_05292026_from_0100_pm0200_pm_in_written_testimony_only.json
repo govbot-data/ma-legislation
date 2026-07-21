@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 05/29/2026 from 01:00 PM-02:00 PM in Written Testimony Only",
+    "occurred_at": "2026-05-29",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5465",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5465"
+}

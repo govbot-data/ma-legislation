@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amended by striking out the text of S18 and inserting in place thereof the text of H2026",
+    "occurred_at": "2025-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S18",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S18"
+}

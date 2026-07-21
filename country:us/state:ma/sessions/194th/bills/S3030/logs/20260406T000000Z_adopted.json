@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Adopted",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3030",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3030"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amended (Cyr) by striking out all after the enacting clause and inserting in place thereof the text of S3114, as amended",
+    "occurred_at": "2026-06-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5478",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5478"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft (Durant) of S2505",
+    "occurred_at": "2026-07-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3160",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3160"
+}

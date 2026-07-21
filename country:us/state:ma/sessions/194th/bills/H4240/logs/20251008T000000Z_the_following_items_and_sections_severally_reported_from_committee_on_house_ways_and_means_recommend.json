@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "The following items and sections severally reported from committee on House Ways and Means recommending, in each instance, that the action of the General Court stand; and the items and sections severally were referred to the committee on House Steering, Policy and Scheduling",
+    "occurred_at": "2025-10-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committee on House Steering, Policy and Scheduling",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on House Steering, Policy and Scheduling",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4240",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4240"
+}

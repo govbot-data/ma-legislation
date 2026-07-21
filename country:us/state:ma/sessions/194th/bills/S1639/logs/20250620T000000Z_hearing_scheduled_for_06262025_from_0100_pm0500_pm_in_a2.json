@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 06/26/2025 from 01:00 PM-05:00 PM in A-2",
+    "occurred_at": "2025-06-20",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S1639",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S1639"
+}

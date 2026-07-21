@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Re-enacted and again laid before the Governor",
+    "occurred_at": "2025-11-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4249",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4249"
+}

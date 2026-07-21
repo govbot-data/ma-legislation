@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment 556 rejected -\r\n25 YEAS to 132 NAYS (See YEA and NAY No. 30 )",
+    "occurred_at": "2025-04-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4000",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4000"
+}

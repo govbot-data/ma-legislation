@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H144, H147, H151, H152, H153, H157, H164, H166, H167, H172, H175, H177, H178, H184, H185, H186, H187, H188, H189, H191, H193 and H3982",
+    "occurred_at": "2026-05-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5396",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5396"
+}

@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Agriculture and Fisheries",
+    "occurred_at": "2025-09-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Agriculture and Fisheries",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S602",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S602"
+}

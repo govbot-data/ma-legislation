@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Economic Development and Emerging Technologies",
+    "occurred_at": "2026-06-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Economic Development and Emerging Technologies",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3112",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3112"
+}

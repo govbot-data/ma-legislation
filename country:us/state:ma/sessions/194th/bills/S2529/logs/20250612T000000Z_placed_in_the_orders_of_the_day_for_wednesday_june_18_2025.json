@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed in the Orders of the Day for Wednesday, June 18, 2025",
+    "occurred_at": "2025-06-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2529",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2529"
+}

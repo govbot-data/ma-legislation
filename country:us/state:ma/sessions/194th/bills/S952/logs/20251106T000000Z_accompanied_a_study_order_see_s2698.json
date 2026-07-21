@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied a study order, see S2698",
+    "occurred_at": "2025-11-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S952",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S952"
+}

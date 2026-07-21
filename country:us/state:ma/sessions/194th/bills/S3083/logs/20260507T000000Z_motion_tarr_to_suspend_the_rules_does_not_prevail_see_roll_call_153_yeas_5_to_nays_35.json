@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion (Tarr) to suspend the rules does not prevail -- see   Roll Call #153 (Yeas 5 to Nays 35)",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3083",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3083"
+}

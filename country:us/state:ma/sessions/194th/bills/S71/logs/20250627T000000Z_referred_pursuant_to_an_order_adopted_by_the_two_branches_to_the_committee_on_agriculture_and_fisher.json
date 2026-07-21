@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Referred, pursuant to an order adopted by the two branches, to the committee on Agriculture and Fisheries",
+    "occurred_at": "2025-06-27",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S71",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S71"
+}

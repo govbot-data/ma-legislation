@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S395, S563, S573, S576, S578, S580, S585, S594, S596, S601, S613, S614, S624, S626, S635, S637, S641, S642, S648, S656, S658, S659, S668, S670, S672, S673 and S675",
+    "occurred_at": "2025-11-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2687",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2687"
+}

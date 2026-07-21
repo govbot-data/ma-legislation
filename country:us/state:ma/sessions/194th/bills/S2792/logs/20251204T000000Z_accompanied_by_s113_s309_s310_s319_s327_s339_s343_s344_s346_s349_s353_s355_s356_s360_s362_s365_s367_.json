@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S113, S309, S310, S319, S327, S339, S343, S344, S346, S349, S353, S355, S356, S360, S362, S365, S367, S370, S372, S375, S386, S396, S408, S417, S419, S429, S434, S437, S445, S446, S449, S450, S451, S453, S462, S2682 and S2683",
+    "occurred_at": "2025-12-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2792",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2792"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H198, H200, H203, H204, H205, H206, H211, H212, H213, H218, H228, H229, H230, H238, H239, H248, H251, H257, H263, H271, H284, H286, H288, H292, H296 and H4180",
+    "occurred_at": "2025-12-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4883",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4883"
+}

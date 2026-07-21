@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S2455, S2457, S2463, S2471, S2472, S2474, S2475, S2476, S2478, S2479, S2481, S2484, S2486, S2491, S2497 and S2502",
+    "occurred_at": "2025-12-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2784",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2784"
+}

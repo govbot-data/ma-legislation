@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H216, H260 and H4194",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5240",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5240"
+}

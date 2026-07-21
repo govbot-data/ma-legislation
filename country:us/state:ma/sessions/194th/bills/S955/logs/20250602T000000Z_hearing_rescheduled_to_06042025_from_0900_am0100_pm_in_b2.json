@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 06/04/2025 from 09:00 AM-01:00 PM in B-2",
+    "occurred_at": "2025-06-02",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S955",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S955"
+}

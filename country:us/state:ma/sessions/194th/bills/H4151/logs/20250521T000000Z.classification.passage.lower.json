@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed -\r\n149 YEAS to 1 NAYS (See YEA and NAY No. 52 )",
+    "occurred_at": "2025-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4151",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4151"
+}

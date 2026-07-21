@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by the Governor, Chapter 101 of the Acts of 2025",
+    "occurred_at": "2026-01-12",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4657",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4657"
+}

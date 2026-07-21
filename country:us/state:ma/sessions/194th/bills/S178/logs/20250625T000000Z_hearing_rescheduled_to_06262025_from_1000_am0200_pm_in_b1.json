@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 06/26/2025 from 10:00 AM-02:00 PM in B-1",
+    "occurred_at": "2025-06-25",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S178",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S178"
+}

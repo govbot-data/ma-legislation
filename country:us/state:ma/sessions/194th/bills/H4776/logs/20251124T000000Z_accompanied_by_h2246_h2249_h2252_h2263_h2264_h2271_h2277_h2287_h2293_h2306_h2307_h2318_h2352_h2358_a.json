@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H2246, H2249, H2252, H2263, H2264, H2271, H2277, H2287, H2293, H2306, H2307, H2318, H2352, H2358 and H4192",
+    "occurred_at": "2025-11-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4776",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4776"
+}

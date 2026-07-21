@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enacted - 156 YEAS to 0 NAYS (See YEA and NAY No. 196 )",
+    "occurred_at": "2026-05-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5317",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5317"
+}

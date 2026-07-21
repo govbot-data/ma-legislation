@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S677, S713, S732, S754, S764, S770, S779, S793, S803, S807, S829 and S830",
+    "occurred_at": "2025-12-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2787",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2787"
+}

@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending",
+    "occurred_at": "2025-11-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "committee on House Steering, Policy and Scheduling with the amendment pending",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "the committee on House Steering, Policy and Scheduling with the amendment pending",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4296",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4296"
+}

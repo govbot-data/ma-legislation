@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amended (Montigny) by striking out all after the enacting clause and inserting in place thereof the text of S3059",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4232",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4232"
+}

@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Referred to the Special Joint Committee on Initiative Petitions",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the Special Joint Committee on Initiative Petitions",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5005",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5005"
+}

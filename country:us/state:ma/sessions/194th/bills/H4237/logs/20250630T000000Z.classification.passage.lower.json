@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enacted -\r\n144 YEAS to 1 NAYS (See YEA and NAY No. 60 )",
+    "occurred_at": "2025-06-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4237",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4237"
+}

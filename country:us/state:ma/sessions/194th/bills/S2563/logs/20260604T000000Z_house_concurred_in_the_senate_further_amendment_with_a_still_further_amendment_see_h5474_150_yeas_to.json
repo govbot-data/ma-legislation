@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House concurred in the Senate further amendment with a still further amendment, see H5474 - 150 YEAS to 0 NAYS (See YEA and NAY No. 204 )",
+    "occurred_at": "2026-06-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2563",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2563"
+}

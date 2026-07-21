@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment #20 (Jehlen) adopted",
+    "occurred_at": "2025-02-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S15",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S15"
+}

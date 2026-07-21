@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amended (Tarr) by striking out all after the enacting clause and inserting in place thereof the text of S3053",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4399",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4399"
+}

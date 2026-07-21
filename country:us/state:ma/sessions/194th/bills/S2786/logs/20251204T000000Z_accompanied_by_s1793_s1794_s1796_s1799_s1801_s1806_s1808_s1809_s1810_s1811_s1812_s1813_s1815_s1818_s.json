@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S1793, S1794, S1796, S1799, S1801, S1806, S1808, S1809, S1810, S1811, S1812, S1813, S1815, S1818, S1820, S1822, S1824, S1829, S1833, S1834, S1839, S1840, S1852, S1854, S1855, S1857, S1858, S1861, S1869, S1870, S1874, S1875, S1877, S1878, S1879, S1880, S1881, S1882, S1887, S1889, S1890, S1892, S1893, S1899, S1900, S1901, S1904, S1905, S1912, S1916 and S2638",
+    "occurred_at": "2025-12-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2786",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2786"
+}

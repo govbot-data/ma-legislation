@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed in the Orders of the Day for Wednesday, November 19, 2025",
+    "occurred_at": "2025-11-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2722",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2722"
+}

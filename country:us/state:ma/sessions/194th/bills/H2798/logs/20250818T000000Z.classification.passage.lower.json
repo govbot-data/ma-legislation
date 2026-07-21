@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third (title changed) and passed to be engrossed",
+    "occurred_at": "2025-08-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H2798",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H2798"
+}

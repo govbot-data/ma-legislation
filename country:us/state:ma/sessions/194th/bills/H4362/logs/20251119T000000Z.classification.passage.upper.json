@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enacted -see   Roll Call #115 (Yeas 37 to Nays 0)",
+    "occurred_at": "2025-11-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4362",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4362"
+}

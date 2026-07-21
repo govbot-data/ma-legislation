@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed",
+    "occurred_at": "2026-06-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3142",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3142"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of S930, S934, S937 and S940",
+    "occurred_at": "2025-12-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2880",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2880"
+}

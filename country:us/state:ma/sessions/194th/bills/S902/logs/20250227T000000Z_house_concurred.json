@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House concurred",
+    "occurred_at": "2025-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S902",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S902"
+}

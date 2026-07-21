@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S972, S973, S974, S975, S976, S977, S978, S979, S985, S986, S987, S1000, S1002, S1003, S1005, S1015, S1024, S1026 and S1027",
+    "occurred_at": "2025-12-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2765",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2765"
+}

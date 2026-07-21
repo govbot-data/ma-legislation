@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of H2064, H2106, H2188 and H2189",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5302",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5302"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The following amendments were considered as one and rejected:2, 5, 16, 18, 20, 21, 24, 31, 32, 53, 54, 57, 59, 60, 62, 63, 70, 87, 89, 90, 91, 92, 93, 95, 96, 98, 100, 104, 106, 128, 129, 132, 133, 137, 139, 140, 158, 164, 167, 168, 169, 172",
+    "occurred_at": "2026-07-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3143",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3143"
+}

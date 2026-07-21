@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium                                                               and Virtual Hearing updated to include Virtual",
+    "occurred_at": "2025-10-27",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S1677",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S1677"
+}

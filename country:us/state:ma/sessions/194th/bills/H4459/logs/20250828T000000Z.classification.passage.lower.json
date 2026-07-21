@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed",
+    "occurred_at": "2025-08-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4459",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4459"
+}

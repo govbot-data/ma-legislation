@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Scheduled for the House Journal Addenda",
+    "occurred_at": "2025-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/HD4317",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HD4317"
+}

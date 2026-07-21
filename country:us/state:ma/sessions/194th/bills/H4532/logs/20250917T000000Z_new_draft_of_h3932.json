@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of H3932",
+    "occurred_at": "2025-09-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4532",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4532"
+}

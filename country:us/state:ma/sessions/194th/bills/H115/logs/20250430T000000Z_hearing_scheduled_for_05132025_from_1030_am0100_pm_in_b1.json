@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 05/13/2025 from 10:30 AM-01:00 PM in B-1",
+    "occurred_at": "2025-04-30",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H115",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H115"
+}

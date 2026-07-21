@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H3819, H3820, H3821, H3822, H3823, H3824, H3825, H3826, H3830, H3837, H3838, H3840, H3841, H3843, H3844, H3845, H3846, H3847, H3850, H3852, H3854, H3856, H3857, H3858, H3859, H3861, H3863, H3864, H3865, H3866, H3868, H3870, H3872, H3874, H3875, H3876, H3877, H3879, H3880, H3881, H3882, H3883, H3884, H3885, H3887, H3889, H4002 and H4479",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5466",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5466"
+}

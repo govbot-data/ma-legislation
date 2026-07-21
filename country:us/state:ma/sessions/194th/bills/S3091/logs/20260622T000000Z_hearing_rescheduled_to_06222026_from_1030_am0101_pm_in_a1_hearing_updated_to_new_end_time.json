@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 06/22/2026 from 10:30 AM-01:01 PM in A-1   Hearing updated to New End Time",
+    "occurred_at": "2026-06-22",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3091",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3091"
+}

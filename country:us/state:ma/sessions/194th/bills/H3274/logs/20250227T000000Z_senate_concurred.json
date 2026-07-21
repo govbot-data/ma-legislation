@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate concurred",
+    "occurred_at": "2025-02-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H3274",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H3274"
+}

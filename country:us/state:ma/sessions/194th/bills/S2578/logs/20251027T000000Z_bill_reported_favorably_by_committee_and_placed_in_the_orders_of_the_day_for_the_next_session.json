@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Bill reported favorably by committee and placed in the Orders of the Day for the next session",
+    "occurred_at": "2025-10-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2578",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2578"
+}

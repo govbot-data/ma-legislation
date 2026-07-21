@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Returned with memorandum",
+    "occurred_at": "2025-09-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S584",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S584"
+}

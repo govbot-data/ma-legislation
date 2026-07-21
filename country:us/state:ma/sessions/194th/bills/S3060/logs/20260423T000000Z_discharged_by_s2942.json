@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Discharged by S2942",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3060",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3060"
+}

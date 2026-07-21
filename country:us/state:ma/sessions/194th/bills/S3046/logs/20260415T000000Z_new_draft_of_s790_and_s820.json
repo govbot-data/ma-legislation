@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of S790 and S820",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3046",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3046"
+}

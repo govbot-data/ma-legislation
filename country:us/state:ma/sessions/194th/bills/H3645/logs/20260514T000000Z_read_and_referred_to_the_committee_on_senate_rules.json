@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Read; and referred to the committee on Senate Rules",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committee on Senate Rules",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on Senate Rules",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H3645",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H3645"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S1379, S1399, S1404 and S1409",
+    "occurred_at": "2025-12-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2813",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2813"
+}

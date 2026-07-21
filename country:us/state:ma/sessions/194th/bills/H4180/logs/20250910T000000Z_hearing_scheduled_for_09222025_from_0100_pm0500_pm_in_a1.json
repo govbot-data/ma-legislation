@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 09/22/2025 from 01:00 PM-05:00 PM in A-1",
+    "occurred_at": "2025-09-10",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4180",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4180"
+}

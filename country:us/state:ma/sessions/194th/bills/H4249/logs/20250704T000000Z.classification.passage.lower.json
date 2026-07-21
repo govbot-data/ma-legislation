@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enacted as section 29 of the General Appropriation Bill, see H4240",
+    "occurred_at": "2025-07-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4249",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4249"
+}

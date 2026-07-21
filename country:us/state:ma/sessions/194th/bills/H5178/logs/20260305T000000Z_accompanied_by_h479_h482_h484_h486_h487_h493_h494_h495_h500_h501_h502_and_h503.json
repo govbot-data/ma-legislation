@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H479, H482, H484, H486, H487, H493, H494, H495, H500, H501, H502 and H503",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5178",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5178"
+}

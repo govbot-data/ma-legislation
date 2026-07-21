@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H3030, H3032, H3064, H3076, H3083, H3136, H3145, H3146, H3152, H3185, H3186, H3196, H3264, H3276 and H3277",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5238",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5238"
+}

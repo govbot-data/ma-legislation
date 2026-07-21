@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported on a part of H5312",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4141",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4141"
+}

@@ -1,0 +1,76 @@
+{
+  "legislative_session": "194th",
+  "identifier": "SD3514",
+  "title": "Nickerson State Park Trust Fund FY25 Report",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Department of Conservation and Recreation (pursuant to Section 35FFF of Chapter 10 of the General Laws) submitting its Nickerson State Park Trust Fund report"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ma-194th-sd3514"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Placed on file",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T23:17:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Department of Conservation and Recreation",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Department of Conservation and Recreation\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/SD3514.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://malegislature.gov/Bills/194/SD3514",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ma/government",
+    "name": "Massachusetts",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ma"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T23:17:32Z"
+  }
+}

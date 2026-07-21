@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Order adopted - 128 YEAS to 23 NAYS (See YEA and NAY No. 24 )",
+    "occurred_at": "2025-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H2025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H2025"
+}

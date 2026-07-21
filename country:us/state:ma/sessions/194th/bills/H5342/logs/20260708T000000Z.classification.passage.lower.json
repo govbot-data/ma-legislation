@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enacted",
+    "occurred_at": "2026-07-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5342",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5342"
+}

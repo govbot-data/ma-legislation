@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Governor returned to the House with recommendation of amendment",
+    "occurred_at": "2025-07-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4249",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4249"
+}

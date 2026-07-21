@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Advanced Information Technology, the Internet and Cybersecurity",
+    "occurred_at": "2025-03-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Advanced Information Technology, the Internet and Cybersecurity",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S197",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S197"
+}

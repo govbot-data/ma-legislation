@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reporting date extended to Thursday June 25, 2026",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2019",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2019"
+}

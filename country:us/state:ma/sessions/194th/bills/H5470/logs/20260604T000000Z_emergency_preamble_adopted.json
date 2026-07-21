@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Emergency preamble adopted",
+    "occurred_at": "2026-06-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5470",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5470"
+}

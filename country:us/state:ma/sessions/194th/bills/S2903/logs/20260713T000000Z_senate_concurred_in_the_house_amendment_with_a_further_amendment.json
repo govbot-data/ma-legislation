@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate concurred in the House amendment with a further amendment",
+    "occurred_at": "2026-07-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2903",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2903"
+}

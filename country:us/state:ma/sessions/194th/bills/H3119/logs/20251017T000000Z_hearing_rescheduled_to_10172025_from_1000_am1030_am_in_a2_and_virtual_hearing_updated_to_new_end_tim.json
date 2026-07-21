@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 10/17/2025 from 10:00 AM-10:30 AM in A-2                                                                                                                                                              and Virtual Hearing updated to New End Time",
+    "occurred_at": "2025-10-17",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H3119",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H3119"
+}

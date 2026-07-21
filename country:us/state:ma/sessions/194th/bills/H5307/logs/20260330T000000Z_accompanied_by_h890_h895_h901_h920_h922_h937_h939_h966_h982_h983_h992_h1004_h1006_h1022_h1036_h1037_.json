@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H890, H895, H901, H920, H922, H937, H939, H966, H982, H983, H992, H1004, H1006, H1022, H1036, H1037, H1038, H1039, H1040, H1042, H1043, H1045, H1047, H1049, H1057, H1060, H1062, H1063, H1065, H1066, H1067, H1071, H1072, H1074, H1075, H2600, H3920, H4041, H4101, H4110, H4111, H4191, H4513, H4700, H5076 and H5141",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5307",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5307"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment (H4766) pending",
+    "occurred_at": "2025-11-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2576",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2576"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Joint session held and recessed to Wednesday, October 28, 2026",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S13",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S13"
+}

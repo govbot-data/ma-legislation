@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The following amendments were considered as one and rejected:3, 14, 15, 16, 17, 37, 51, 52, 56, 58, 62, 68, 69, 72, 73, 74, 88, 110, 113, 125, 134, 135, 136, 144, 147, 150, 152, 157, 166, 175, 191, 195, 246, 254, 256, 258, 261, 262, 264, 272, 289, 293, 295, 304, 332, 357, 363, 371, 375, 410",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3041",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3041"
+}

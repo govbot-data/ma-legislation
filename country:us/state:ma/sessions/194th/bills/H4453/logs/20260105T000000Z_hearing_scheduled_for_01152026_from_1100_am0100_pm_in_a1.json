@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 01/15/2026 from 11:00 AM-01:00 PM in A-1",
+    "occurred_at": "2026-01-05",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4453",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4453"
+}

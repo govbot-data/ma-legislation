@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H2238, H3295, H3303, H3327, H3336, H3349, H3357, H3365, H3380, H3387, H3394, H3400, H3405, H3406, H3425, H3891, H4028 and H4737",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5183",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5183"
+}

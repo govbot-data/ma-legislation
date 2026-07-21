@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The following amendments were considered as one and rejected:17, 18, 27, 39, 40, 41, 45, 75, 76, 77, 78, 79, 80, 85, 87, 88, 93, 129, 177, 183, 188, 212, 218, 222, 224, 231, 309, 310, 311, 314, 315, 317",
+    "occurred_at": "2025-05-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2512",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2512"
+}

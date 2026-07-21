@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee recommended ought to be adopted",
+    "occurred_at": "2026-03-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2929",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2929"
+}

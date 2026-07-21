@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied a study order, see S3012",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S479",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S479"
+}

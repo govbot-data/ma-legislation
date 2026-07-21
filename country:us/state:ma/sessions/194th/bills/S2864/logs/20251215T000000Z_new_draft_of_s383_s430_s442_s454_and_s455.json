@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of S383, S430, S442, S454 and S455",
+    "occurred_at": "2025-12-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2864",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2864"
+}

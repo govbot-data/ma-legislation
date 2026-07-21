@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Consolidated amendment A (Education and Local Aid, Social Services and Veteran Services and Soldiers' Homes) adopted - 132 YEAS to 23 NAYS (See YEA and NAY No. 167 )",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5500",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5500"
+}

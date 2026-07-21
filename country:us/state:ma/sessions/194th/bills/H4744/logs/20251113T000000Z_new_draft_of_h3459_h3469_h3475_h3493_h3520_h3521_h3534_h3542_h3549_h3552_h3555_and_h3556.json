@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of H3459, H3469, H3475, H3493, H3520, H3521, H3534, H3542, H3549, H3552, H3555 and H3556",
+    "occurred_at": "2025-11-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4744",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4744"
+}

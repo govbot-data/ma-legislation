@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment #2 (Tarr) rejected -see   Roll Call #64 (Yeas 5 to Nays 34)",
+    "occurred_at": "2025-07-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2558",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2558"
+}

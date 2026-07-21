@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H345, H350, H381, H430, H439 and H467",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4969",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4969"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rules suspended",
+    "occurred_at": "2026-07-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/SD4041",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SD4041"
+}

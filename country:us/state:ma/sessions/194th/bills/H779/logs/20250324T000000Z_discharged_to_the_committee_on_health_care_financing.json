@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Health Care Financing",
+    "occurred_at": "2025-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Health Care Financing",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H779",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H779"
+}

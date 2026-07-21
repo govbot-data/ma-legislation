@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "See H4363",
+    "occurred_at": "2025-11-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2724",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2724"
+}

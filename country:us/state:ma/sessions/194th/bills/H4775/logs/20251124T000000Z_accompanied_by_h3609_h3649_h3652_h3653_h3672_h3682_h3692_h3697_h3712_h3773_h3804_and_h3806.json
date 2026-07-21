@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H3609, H3649, H3652, H3653, H3672, H3682, H3692, H3697, H3712, H3773, H3804 and H3806",
+    "occurred_at": "2025-11-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4775",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4775"
+}

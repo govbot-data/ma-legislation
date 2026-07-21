@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Consolidated amendment F (Energy and Environmental Affairs and Housing) adopted - 158 YEAS to 0 NAYS (See YEA and NAY No. 180 )",
+    "occurred_at": "2026-04-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5500",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5500"
+}

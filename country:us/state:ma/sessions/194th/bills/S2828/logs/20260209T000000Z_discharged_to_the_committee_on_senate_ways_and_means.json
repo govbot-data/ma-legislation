@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Discharged to the committee on Senate Ways and Means",
+    "occurred_at": "2026-02-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Senate Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2828",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2828"
+}

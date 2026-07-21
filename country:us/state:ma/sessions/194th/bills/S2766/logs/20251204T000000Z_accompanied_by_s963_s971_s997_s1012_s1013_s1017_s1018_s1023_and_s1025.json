@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S963, S971, S997, S1012, S1013, S1017, S1018, S1023 and S1025",
+    "occurred_at": "2025-12-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2766",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2766"
+}

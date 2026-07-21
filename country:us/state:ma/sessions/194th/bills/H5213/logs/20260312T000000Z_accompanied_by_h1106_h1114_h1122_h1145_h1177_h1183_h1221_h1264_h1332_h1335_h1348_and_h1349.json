@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H1106, H1114, H1122, H1145, H1177, H1183, H1221, H1264, H1332, H1335, H1348 and H1349",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5213",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5213"
+}

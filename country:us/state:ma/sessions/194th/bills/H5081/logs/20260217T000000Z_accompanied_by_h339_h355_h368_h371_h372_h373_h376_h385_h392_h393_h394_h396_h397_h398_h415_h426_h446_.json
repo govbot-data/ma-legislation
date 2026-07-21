@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H339, H355, H368, H371, H372, H373, H376, H385, H392, H393, H394, H396, H397, H398, H415, H426, H446, H463, H470 and H472",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5081",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5081"
+}

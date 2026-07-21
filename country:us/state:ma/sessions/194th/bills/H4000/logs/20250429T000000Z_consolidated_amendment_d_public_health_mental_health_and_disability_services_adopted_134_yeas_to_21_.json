@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Consolidated amendment D (Public Health, Mental Health and Disability Services) adopted - 134 YEAS to 21 NAYS (See YEA and NAY No. 41 )",
+    "occurred_at": "2025-04-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4000",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4000"
+}

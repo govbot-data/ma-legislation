@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Read third, amended by substitution of a new text (H4866) and passed to be engrossed",
+    "occurred_at": "2025-12-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2716",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2716"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed - 153 YEAS to 3 NAYS (See YEA and NAY No. 211 )",
+    "occurred_at": "2026-06-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2726",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2726"
+}

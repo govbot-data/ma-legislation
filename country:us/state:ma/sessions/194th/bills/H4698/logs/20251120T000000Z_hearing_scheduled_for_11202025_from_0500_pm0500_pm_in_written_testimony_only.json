@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 11/20/2025 from 05:00 PM-05:00 PM in Written Testimony Only",
+    "occurred_at": "2025-11-20",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4698",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4698"
+}

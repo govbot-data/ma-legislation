@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate concurred",
+    "occurred_at": "2025-05-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4099",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4099"
+}

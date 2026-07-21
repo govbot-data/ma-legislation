@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reporting date extended to Tuesday, October 21, 2025",
+    "occurred_at": "2025-09-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H2557",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H2557"
+}

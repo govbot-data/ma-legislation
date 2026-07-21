@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S21, S1427, S1451, S1453, S1475 and S1476",
+    "occurred_at": "2025-07-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2568",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2568"
+}

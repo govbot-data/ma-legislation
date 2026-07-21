@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H317, H326, H328, H329, H353, H370, H382, H408, H412, H422, H429, H437, H456, H459, H460, H464 and H471",
+    "occurred_at": "2025-11-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4677",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4677"
+}

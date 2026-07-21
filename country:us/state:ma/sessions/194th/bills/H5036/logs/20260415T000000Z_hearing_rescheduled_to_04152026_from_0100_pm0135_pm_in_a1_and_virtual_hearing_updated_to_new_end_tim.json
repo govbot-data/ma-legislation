@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 04/15/2026 from 01:00 PM-01:35 PM in A-1   and Virtual Hearing updated to New End Time",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5036",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5036"
+}

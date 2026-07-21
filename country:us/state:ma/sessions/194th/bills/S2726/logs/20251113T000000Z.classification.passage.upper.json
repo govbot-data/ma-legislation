@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed -see   Roll Call #104 (Yeas 35 to Nays 3)",
+    "occurred_at": "2025-11-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2726",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2726"
+}

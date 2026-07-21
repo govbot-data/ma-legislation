@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H888, H889, H891, H892, H894, H896, H905, H906, H907, H908, H910, H911, H912, H913, H914, H916, H917, H919, H921, H923, H925, H927, H928, H929, H930, H933, H934, H935, H936, H940, H941, H942, H947, H948, H949, H951, H955, H960, H963, H964, H969, H970, H973, H974, H978, H979, H980, H993, H994, H995, H998, H1001, H1010, H1011, H1014, H1015, H1016, H1017, H1019, H1025, H1026, H1027, H1028, H1029, H1030, H1032, H1034 and H1035",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5149",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5149"
+}

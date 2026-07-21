@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S251, S292, S537, S538, S699, S714, S738, S744, S745, S746, S755, S772, S773, S775, S781, S782, S800, S828, S1120, S1381, S1382, S1394, S1397, S1398, S1405, S1406, S1408, S1414, S1419, S1420, S1478, S1492, S1503, S1536, S1572, S1580, S1608, S1610, S1632, S1633, S1634, S1711, S2732, S2822, S2825 and S2884",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2972",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2972"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enacted",
+    "occurred_at": "2025-08-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4004",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4004"
+}

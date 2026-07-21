@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H2254, H2261, H2272, H2274, H2281, H2282, H2283, H2286, H2301, H2309, H2312, H2317, H2326, H2329, H2353, H2354 and H4047",
+    "occurred_at": "2026-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4970",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4970"
+}

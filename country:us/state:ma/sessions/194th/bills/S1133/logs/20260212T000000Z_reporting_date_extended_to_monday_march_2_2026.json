@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reporting date extended to Monday March 2, 2026",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S1133",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S1133"
+}

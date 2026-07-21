@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read, rules suspended, read second and ordered to a third reading",
+    "occurred_at": "2025-07-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2128",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2128"
+}

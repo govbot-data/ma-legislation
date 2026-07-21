@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H1512, H1514, H1535, H2266, H2267, H2285, H2288, H2289, H2290, H2291, H2292, H2294, H2295, H2296, H2297, H2305, H2308, H2327, H2338, H2339, H2340, H2343, H2344, H2345, H2355, H3997, H4020, H4021 and H4074",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5065",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5065"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 04/09/2025 from 10:00 AM-12:00 PM in A-1 & A-2",
+    "occurred_at": "2025-04-07",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H2731",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H2731"
+}

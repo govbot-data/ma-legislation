@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of S2018 and S2022",
+    "occurred_at": "2025-11-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2713",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2713"
+}

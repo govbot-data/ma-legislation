@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bills in the Third Reading report (consolidated with S2648) accepted",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4621",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4621"
+}

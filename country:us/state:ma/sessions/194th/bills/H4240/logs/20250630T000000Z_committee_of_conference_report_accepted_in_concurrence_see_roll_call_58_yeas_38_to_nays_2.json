@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee of conference report accepted, in concurrence -see   Roll Call #58 (Yeas 38 to Nays 2)",
+    "occurred_at": "2025-06-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4240",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4240"
+}

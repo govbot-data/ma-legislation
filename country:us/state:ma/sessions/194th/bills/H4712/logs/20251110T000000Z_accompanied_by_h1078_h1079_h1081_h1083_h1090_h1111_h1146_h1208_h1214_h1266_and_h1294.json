@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by H1078, H1079, H1081, H1083, H1090, H1111, H1146, H1208, H1214, H1266 and H1294",
+    "occurred_at": "2025-11-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4712",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4712"
+}

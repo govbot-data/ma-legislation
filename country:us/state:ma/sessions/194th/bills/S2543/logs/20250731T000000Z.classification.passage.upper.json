@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enacted -see   Roll Call #68 (Yeas 37 to Nays 3)",
+    "occurred_at": "2025-07-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2543",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2543"
+}

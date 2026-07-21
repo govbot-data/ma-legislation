@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of S322, S371, S412 and S444",
+    "occurred_at": "2025-11-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2689",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2689"
+}

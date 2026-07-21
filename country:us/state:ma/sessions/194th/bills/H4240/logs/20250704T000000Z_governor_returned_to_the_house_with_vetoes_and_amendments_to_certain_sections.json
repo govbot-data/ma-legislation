@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Governor returned to the House with vetoes and amendments to certain sections",
+    "occurred_at": "2025-07-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4240",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4240"
+}

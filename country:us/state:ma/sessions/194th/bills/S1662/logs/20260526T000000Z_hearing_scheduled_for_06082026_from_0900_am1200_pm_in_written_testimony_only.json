@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing scheduled for 06/08/2026 from 09:00 AM-12:00 PM in Written Testimony Only",
+    "occurred_at": "2026-05-26",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S1662",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S1662"
+}

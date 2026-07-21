@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Referred to the committee on The Judiciary",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "committee on The Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "the committee on The Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/SD3722",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SD3722"
+}

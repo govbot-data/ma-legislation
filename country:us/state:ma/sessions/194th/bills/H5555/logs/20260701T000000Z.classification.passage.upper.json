@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enacted -see   Roll Call #200 (Yeas 39 to Nays 1)",
+    "occurred_at": "2026-07-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5555",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5555"
+}

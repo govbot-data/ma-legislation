@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied a study order, see S2669",
+    "occurred_at": "2025-10-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S1465",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S1465"
+}

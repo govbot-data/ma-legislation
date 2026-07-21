@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported, in part, by H1232",
+    "occurred_at": "2026-01-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4931",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4931"
+}

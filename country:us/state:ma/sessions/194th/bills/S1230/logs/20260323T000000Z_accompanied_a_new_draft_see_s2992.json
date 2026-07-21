@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied a new draft, see S2992",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S1230",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S1230"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third",
+    "occurred_at": "2026-05-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2565",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2565"
+}

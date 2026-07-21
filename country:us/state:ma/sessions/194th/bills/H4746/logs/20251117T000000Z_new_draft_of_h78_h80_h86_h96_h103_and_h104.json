@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "New draft of H78, H80, H86, H96, H103 and H104",
+    "occurred_at": "2025-11-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4746",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4746"
+}

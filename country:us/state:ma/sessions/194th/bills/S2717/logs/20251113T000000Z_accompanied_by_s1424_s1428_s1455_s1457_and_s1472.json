@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S1424, S1428, S1455, S1457 and S1472",
+    "occurred_at": "2025-11-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2717",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2717"
+}

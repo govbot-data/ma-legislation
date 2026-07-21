@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Also based on S640, S1022 and S1190",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2720",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2720"
+}

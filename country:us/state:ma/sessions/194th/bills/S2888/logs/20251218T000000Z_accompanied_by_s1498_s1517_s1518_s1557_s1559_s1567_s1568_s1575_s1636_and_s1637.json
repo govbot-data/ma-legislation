@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S1498, S1517, S1518, S1557, S1559, S1567, S1568, S1575, S1636 and S1637",
+    "occurred_at": "2025-12-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2888",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2888"
+}

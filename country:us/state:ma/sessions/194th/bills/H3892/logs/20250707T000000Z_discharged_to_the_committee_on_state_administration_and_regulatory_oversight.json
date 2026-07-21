@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Discharged to the committee on State Administration and Regulatory Oversight",
+    "occurred_at": "2025-07-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "State Administration and Regulatory Oversight",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H3892",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H3892"
+}

@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Taken from the files on motion (Driscoll) and referred to Subcommittee on chapter 250 of the acts of 2024",
+    "occurred_at": "2025-01-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Subcommittee on chapter 250 of the acts of 2024",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on chapter 250 of the acts of 2024",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/SD18",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SD18"
+}

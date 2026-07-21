@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed -see   Roll Call #148 (Yeas 35 to Nays 4)",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5280",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5280"
+}

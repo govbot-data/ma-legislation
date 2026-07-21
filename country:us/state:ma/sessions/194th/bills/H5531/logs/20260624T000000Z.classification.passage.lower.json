@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed to be engrossed",
+    "occurred_at": "2026-06-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5531",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5531"
+}

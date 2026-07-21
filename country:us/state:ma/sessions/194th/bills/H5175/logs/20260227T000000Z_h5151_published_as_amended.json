@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H5151, published as amended",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5175",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5175"
+}

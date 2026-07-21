@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment 29 adopted -\r\n153 YEAS to 0 NAYS (See YEA and NAY No. 53 )",
+    "occurred_at": "2025-06-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4187",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4187"
+}

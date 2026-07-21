@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee of conference appointed - (Peisch-F. Moran-Vieira), in concurrence",
+    "occurred_at": "2026-05-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2581",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2581"
+}

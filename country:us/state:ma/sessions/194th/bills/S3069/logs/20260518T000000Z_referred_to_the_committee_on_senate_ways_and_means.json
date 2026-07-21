@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Referred to the committee on Senate Ways and Means",
+    "occurred_at": "2026-05-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "the committee on Senate Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "committee on Senate Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3069",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3069"
+}

@@ -1,0 +1,329 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Honorable Brendan Crighton Honorable Michael J. Rodrigues
+Chair, Joint Committee on Transportation Chair, Senate Committee on Ways & Means
+State House, Room 109-C State House, Room 212
+24 Beacon Street 24 Beacon Street
+Boston, MA 02133 Boston, MA 02133
+Honorable James Arciero Honorable Aaron Michlewitz
+Chair, Joint Committee on Transportation Chair, House Committee on Ways & Means
+State House, Room 134 State House, Room 243
+24 Beacon Street 24 Beacon Street
+Boston, MA 02133 Boston, MA 02133
+12 October 2025
+Dear Chairs Crighton, Arciero, Rodrigues, and Michlewitz,
+The Board of Directors of the Massachusetts Bay Transportation Authority (MBTA) in March 2024
+approved a fare change expanding reduced fares to income-eligible riders on all modes and
+applying reduced fares to The RIDE paratransit service for Seniors and income-eligible riders. This
+expansion of reduced fares launched for MBTA riders in early-September 2024. This program is
+commonly referred to as “Income-Eligible Reduced Fares” or “IERF.” Initial development, design,
+and approval of the program was funded by a $5,000,000 allocation in the FY 2024 Final Budget1
+and the launch of this program was funded by a $20,000,000 allocation in the FY 2025 Final
+Budget.2
+The MBTA is pleased to offer this early report on adoption and impact of the first months of the
+program. Data is provided as of March 31, 2025 (consistent with the language in Section 2F of
+Chapter 140 of the Acts of 2024) with some additional updates through August 2025.
+Program Overview
+The MBTA’s mission is to serve the public by providing safe, reliable, and accessible transportation.
+We are proud of the recent improvements in service quality and the more than 225 million trips the
+Authority provided in the last fiscal year, but we know that fares can sometimes be a barrier to
+accessibility for riders with limited incomes.
+Historically, lower reduced fares had only been available for young riders, Seniors, riders with
+disabilities, and certain young adult riders with limited income. The MBTA did not historically provide
+broad-based reduced fares for all riders with limited income, on all modes. Nor did the MBTA offer
+any reduced fares on The RIDE paratransit service. This changed with the launch of the IERF
+1 Section 2F of Chapter 28 of the Acts of 2023, 1596-2405.
+2 Section 2F of Chapter 140 of the Acts of 2024, 1596-2405.
+Page 1 of 9
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com
+
+program in 2024 and the corresponding expansion of reduced fares to users of The RIDE. This
+program serves Massachusetts residents with incomes up to 200% of the Federal Poverty Level who
+are too young for Senior fares, providing them with credentials that unlock fares of at least 50% off
+full price across all modes, including bus, subway, Commuter Rail, ferry, and paratransit. In the early
+months of this program’s launch, the benefits of this program are matching predicted expectations.
+The IERF program enrollment and administration platform was built as a joint effort across multiple
+Commonwealth agency partners: the MBTA, the Registry of Motor Vehicles (RMV), the
+Massachusetts Department of Transportation (MassDOT), the Executive Office of Health and Human
+Services (EOHHS), and the Department of Transitional Assistance (DTA). Experience with previous
+means-tested programs – both within the MBTA and across various social service agencies – has
+shown that administrative burden can create barriers to program uptake and usage both on the part
+of the entities that run the programs and, more importantly, the individuals that apply to use those
+benefits. The MBTA and our partner agencies designed a platform to minimize and largely avoid
+many of these barriers by:
+• Leveraging existing enrollment in other means-tested programs as proof of eligibility, rather
+than standing up an IERF-specific eligibility verification process. These qualifying programs
+include:
+o Emergency Aid to the Elderly, Disabled & Children (EAEDC)
+o MASSGrant
+o MassHealth CarePlus
+o MassHealth Family Assistance
+o MassHealth Limited
+o MassHealth Standard
+o Supplemental Nutrition Assistance Program (SNAP)
+o Transitional Assistance for Families and Dependent Children (TAFDC)
+• Relying on our partners at RMV to verify applicant identity through their database of driver’s
+licenses and other Massachusetts state IDs.
+o Note that Massachusetts state IDs and enrollment in select EOHHS programs are
+available to Massachusetts residents which was an important component to the
+system design.
+• Prioritizing an online, automated, database-driven process over one that relies on in-person,
+manual application and processing to reduce administrative burdens and costs.
+o The MBTA established novel Application Programming Interfaces (APIs) that enable
+direct database connections across MBTA, RMV, and EOHHS platforms, allowing
+instant identity and eligibility verification across agencies with no manual intervention
+required.
+• Still providing in-person application options and support to those for whom applying online is
+not the best option but relying on established existing non-profit organizations to fulfill this
+role rather than hiring significant internal staff and/or standing up new dedicated offices and
+locations.
+o The MBTA partnered with Action for Boston Community Development (ABCD) and the
+Massachusetts Association for Community Action (MASSCAP) network to integrate
+Page 2 of 9
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com
+
+IERF support into their existing suite of services long provided in the community,
+through a competitive procurement process.
+The end result of this novel program design is an online-first application and account management
+platform that auto-approves approximately 70% of eligible applicants, instantly, in a process that
+takes under five minutes to complete from anywhere. An additional approximately 25% of eligible
+applicants are not auto-approved but are still approved via online application after submitting photos
+of their relevant documents. Between these two methods, more than 90% of eligible applicants are
+approved online without ever having to leave their houses or show up to an office or appointment.
+The final 5 - 10% of approved applicants apply in-person at an ABCD or MASSCAP location located
+throughout the MBTA service area, or at the MBTA’s Charlie Service Center in Downtown Boston.
+The application process is fast, easy, and flexible, and has resulted in immediate positive impacts for
+MBTA riders. In a recent customer service survey, 95% of responding riders said they were either
+satisfied or very satisfied with the application process.
+Analysis of program enrollment data also demonstrates program usage and uptake benefits of the
+MBTA’s novel application process. For example, prior to IERF, the MBTA administered a “Youth Pass”
+program that provided reduced fares to income-eligible young adults up to the age of 25. The Youth
+Pass program had largely the same eligibility requirements as IERF but was administered on a less
+convenient municipality-based basis. It served approximately 6,900 riders. When IERF launched in
+September 2024 the new program quickly enrolled 6,900 riders under the age of 25 in
+approximately the first month – i.e., the population formerly enrolled in Youth Pass. However,
+additional income-eligible young adults beyond the initial 6,900 then continued to enroll in the
+program every month, totaling more than 10,000 by Summer 2025. These additional young adult
+enrollees did not gain access to reduced fares with IERF’s passage– they were largely already
+qualified via Youth Pass – but they did enroll in IERF despite not previously enrolling in Youth Pass.
+This is a testament to the benefits of IERF’s program design and implementation relative to prior
+means-tested programs.
+The MBTA is proud of the novel program design which has been built with cross-Secretariate and
+community (?) support. This design has also been noticed by other major transit agencies and serves
+as a model for other means-tested fare programs across the country. MBTA staff regularly receive
+inquiries from other peer transit agencies, non-profit organizations, and industry researchers seeking
+to learn from the success of IERF, the cross-agency partnerships it is built upon, and the program’s
+novel API-based digital platform.
+In addition to our program design and implementation, the MBTA is also proud of the benefits to
+riders that IERF provides. Thanks to IERF and its corresponding expansion of reduced fares, income-
+eligible Massachusetts residents of any age now have access to reduced fares across all of the
+MBTA’s services. This benefit is not limited to any specific mode, routes, municipality, or other factor.
+Reduced fare riders have access to, for example, Local Bus trips for $0.85 as opposed to $1.70,
+subway trips for $1.10 as opposed to $2.40, and unlimited monthly bus and subway passes for $30
+as opposed to $90. Single-ride tickets and passes for reduced fare riders are similarly discounted by
+at least 50% on Commuter Rail and ferry, providing savings of up to $198 per month for a Commuter
+Page 3 of 9
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com
+
+Rail Zone 8 pass. An income-eligible rider who commutes between Boston and a Gateway City such
+as Fitchburg, Worcester, Fall River, or New Bedford would save $2,376 per year on their Commuter
+Rail Zone 8 pass thanks to the IERF program, enough savings to profoundly impact one’s financial
+situation and quality of life in a positive way.
+The IERF program and its corresponding expansion of reduced fares also makes The RIDE more
+affordable by reducing fares for both Americans with Disabilities Act (ADA) and “Premium” trips for
+RIDE users who are income-eligible or Seniors. This is the first time that The RIDE has benefited from
+permanent reduced fares, making a service that serves many of the MBTA’s most vulnerable riders
+even more accessible and increasing access to mobility for our disabled riders.
+Academic research consistently shows that access to affordable transportation provides social
+benefits to those who use it. For example, a previous MIT study3 showed that riders who received
+reduced fares took 30% more trips on the MBTA and specifically took more transit trips to health
+care and social service providers. With the launch of the IERF program, the MBTA is proud to
+facilitate these social impacts and looks forward to continued expansion of the program to increase
+mobility for our lower-income riders.
+Program Data as of Spring 2025 (first half-year of enrollment):
+From program launch (September 4, 2024) through March 31, 2025:
+• 21,736 riders enrolled in the IERF program.
+• New IERF fare media was used by riders to “tap” on MBTA bus and subway fare collection
+devices approximately 1.91 million times.
+• Approximately 76 thousand trips on Commuter Rail and Ferry were paid for through the mTicket
+platform on accounts linked to IERF credentials.
+• Approximately 600 IERF monthly physical passes and 1,800 IERF 7-Day physical passes were
+sold for Commuter Rail and ferry (in addition to the trips paid for on mTicket).
+• Approximately 315 thousand “ADA” and 30 thousand “Premium” paratransit trips were
+provided on The RIDE at reduced fare prices.
+Administrative expenses for the IERF program incurred between July 1, 2024 and May 31, 2025
+include:
+• Approximately $698 thousand in staffing and infrastructure costs for the MBTA Technology
+Innovation Department to build and maintain the program application, approval, and customer
+management online platform.
+• Approximately $170 thousand in staffing costs for the MBTA Fare Revenue Department,
+including but not limited to the salary for a new Reduced Fares Specialist to manage various
+program elements.
+3 Rosenblum, Jeffrey Laurence. Expanding Access to the City: How Public Transit Fare Policy Shapes Travel
+Decision Making and Behavior of Low-Income Riders. PhD diss., Massachusetts Institute of Technology, 2020. See,
+http://equitytransit.mit.edu/.
+Page 4 of 9
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com
+
+• Approximately $419 thousand paid to third-party community partners (ABCD and the MASSCAP
+network) to provide in-person application support and community outreach.
+• Approximately $39 thousand for program publicity, marketing, and advertising.
+• Approximately $55 thousand for farecard fulfillment and distribution.
+From July 1, 2024 through May 31, 2025, the MBTA incurred total administrative expenses of
+approximately $1.38 million and total fare revenue loss of approximately $4.1 million as a result of
+the 2024 expansion of reduced fares. Costs of providing service for induced demand on The RIDE
+are not yet quantified, as discussed further below.
+Expected IERF Program Impacts: Short-Term Versus Long-Term
+It is important to put the early progress of the IERF program in context with the program’s expected
+impact over a multi-year period. Prior to the launch of the IERF program, MBTA staff generated
+projected “uptake curves” of program enrollment and forecasts of program usage and impact. All of
+these forward-looking estimates assumed that it would take approximately five years of ramp up
+before the IERF program reached its “steady state” levels of enrollment, usage, and (inflation-
+adjusted) costs. These estimates were based on ramp up experienced by other new means-tested
+programs both in Massachusetts and across the country, from both transit and non-transit contexts.
+In short, while a program like list can be launched in one year, it may take many years to educate
+the population, encourage their engagement, and ultimately have people apply for and use the
+benefit to which they have become entitled.
+This expected ramp up can be seen in the chart below, which shows trips across all modes
+projected to be “induced” by the lower fares provided by IERF on an annual basis; meaning the
+additional trips that riders will take as a result of their new access to a reduced fare via this new
+program.
+Page 5 of 9
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com
+
+As seen above, MBTA staff projected that between 1.2 and 1.7 million additional trips would be
+made by IERF enrollees in the first year of the program. While significant, this is only a small fraction
+of the approximately 6.5 to 8.1 million additional trips that are projected to be made in the fifth year
+of the program.
+A similar ramp up is expected on a monthly basis to that seen on an annual basis; total trip-making
+in the first months of the program would be expected to be significantly exceeded by trip-making in
+the later months of the first year. Accordingly, the total “year one” costs of the IERF program are
+expected to be materially greater than the costs quantified for the program’s first half year.
+Continued Program Developments Since Spring 2025
+Consistent with the “uptake curves” described above, IERF program enrollment has continued
+apace since Spring 2025. The chart below shows total program enrollment by month through
+August 2025, progressing beyond the enrollment numbers previously stated through March 2025.
+The below chart also shows program “renewals” beginning towards the end of the period shown, as
+earlier enrollees have begun to reenroll for an additional year of benefits.
+This observed enrollment progress can be plotted against the projected enrollment “uptake curve”
+created prior to program launch, as shown below.
+Page 6 of 9
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com
+
+While approximately 22 thousand riders enrolled in the IERF program as of the end of March, total
+enrollment through the first IERF program year (as of the end of August 2025) was approximately
+36 thousand riders. This exceeds the “year one” projections of approximately 25 to 29 thousand
+riders that the MBTA has anticipated previously.4 MBTA staff believes that the novel and innovative
+online application platform; cross-agency collaboration with EOHHS, DTA, and RMV; and partnership
+with ABCD have been instrumental in the ongoing success of the IERF program, leading to
+enrollment numbers above even the “high” forecast bound.
+For example, in July 2025, DTA launched a text campaign on behalf of the MBTA to directly contact
+people whom DTA serves that, by enrollment in specific DTA programs, would automatically qualify
+for IERF. DTA sent out approximately one quarter of a million text messages as part of this
+campaign, directly leading to an uptick in IERF enrollment of approximately 7 thousand people in
+the weeks during this outreach. This increase in enrollment in July (and to some extent, August) can
+clearly be seen in the enrollment charts above. This level of cross-agency partnership and
+collaboration – leading to direct positive outcomes for the people we serve – is novel not just within
+Massachusetts but nationally. The MBTA is aware of no other means-tested fare transit program
+anywhere in the country that benefits from such close and beneficial cross-agency partnerships.
+Other efforts that the MBTA and partner organizations have undertaken throughout Summer 2025
+to increase enrollment in and usage of the IERF program include, but are not limited to:
+• Messaging on 251 MassDOT billboards across the Commonwealth
+• Additional MBTA bus shelter and in-station signage
+• Posts on MBTA social media, press releases, and “earned” media coverage
+4 Total IERF program enrollment includes the population formerly eligible for the Youth Pass program, which was sunsetted
+with the launch of IERF. Youth Pass previously served approximately 6,900 enrollees. If these 6,900 riders who previously
+had access to reduced fares via Youth Pass are excluded from IERF enrollment totals, actual “new to reduced fares”
+enrollment is still at the upper bound of the projected range.
+Page 7 of 9
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com
+
+• Messaging of the importance and availability of reduced fares in the context of the launch of
+Fare Checks on MBTA vehicles and in stations
+• ABCD monthly social media posts from individual site accounts
+• ABCD in-person outreach with custom banners and displays at public events
+• Daily ABCD outreach through established programming to 4,000 clients quarterly
+• Quarterly ABCD emails to 500+ clients
+The MBTA and our partner agencies plan to continue and accelerate our IERF outreach and publicity
+efforts over the months and years to come.
+Program Impact on THE RIDE Paratransit Service
+Reduced fares were first expanded to The RIDE in September 2024 and by Spring 2025 the majority
+of all RIDE trips were provided at reduced fare prices. As a result of the significant fare decrease
+within this mode and the unique cost structure of paratransit service, the cost of providing service for
+trips on The RIDE “induced” by lower fares is expected to be significant. However, these costs have
+not yet been calculated.
+Here it is important to clarify how The RIDE’s operations differ from the MBTA’s other services.
+Transit service on the MBTA’s fixed route modes (bus, subway, Commuter Rail, and ferry) is relatively
+“scalable” and capable of absorbing some amount of increased demand without necessitating
+increased service. While increased ridership beyond a certain level will require more bus, train, or
+boat trips to be run, the quantity of induced trips forecast to be generated by IERF are not expected
+to necessitate a major expansion of service, especially in the near term. Each bus or train generally
+has the capacity to support some additional riders, until a tipping point of too many new riders is hit,
+and we need to add another bus or train to the schedule.
+The cost structure for providing service on The RIDE, however, is different. The personalized and
+largely one-to-one nature of paratransit service – door-to-door trips in smaller vehicles (cars or vans)
+dispatched to serve passengers at specific times – makes total costs of providing service on this
+mode highly variable and tightly tied to ridership or calls for a trip. This also results in higher costs on
+a per-passenger basis, with each additional trip costing upwards of $70 to provide.
+The MBTA also has legal obligations under the ADA to ensure adequate and timely paratransit
+service to a degree which does not apply to the MBTA’s fixed route modes. If a bus rider cannot
+board a vehicle due to crowding and is left behind at the curb, that is an unfortunate and
+unacceptable failure of service. However, if a paratransit customer is not served by The RIDE and
+gets left behind at the curb, that is a severe violation of federal civil rights law.
+Accordingly, MBTA staff projected the annual cost of serving the induced demand generated by
+reduced fares on The RIDE to be significant, ranging from approximately $16 to $21 million per year.
+In fact, paratransit operational costs are predicted to be the largest category of the total “costs” of
+this program in the early period following launch. Paratransit operational costs are expected to then
+Page 8 of 9
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com
+
+stabilize and plateau in the ensuing years, leading them to account for a lower percentage of overall
+program costs.5
+MBTA staff are currently analyzing RIDE cost and passenger demand data to calculate actual
+induced-demand service costs incurred to date, but this analysis is still ongoing and results are not
+yet available. The fluctuating costs of providing RIDE service are impacted by many other factors in
+addition to the fares charged to riders. Notably, the MBTA has been undertaking a series of initiatives
+to improve service for our paratransit customers concurrently with the launch of the IERF program. It
+is proving challenging to appropriately isolate the direct impact of the expansion of reduced fares –
+versus some of these others service improvements – on service costs on this mode to date. The
+MBTA recently on-boarded a new analyst, adding capacity to research and resolve these complex
+funding allocation questions. This is an area of great interest to the MBTA, and future research into
+this topic is a high priority for MBTA analysts and policymakers. In future budget updates, the MBTA
+anticipates having a viable methodology to determine a proper cost-allocation of increasing
+paratransit costs as part of the broader IERF program.
+On behalf of the MBTA, I want to thank you for the legislature’s continued commitment to advancing
+equity throughout the Commonwealth’s public transportation system. The MBTA remains dedicated
+to building a safe, reliable, and accessible transportation network that works for all of our riders.
+Respectfully submitted,
+Lynsey M. Heffernan
+Chief of Policy and Strategic Planning
+CC: Secretary Monica Tibbits-Nutt
+General Manager Phillip Eng
+5 See, e.g., MBTA Income -Eligible Reduced Fares Program Update, Board presentation, July 2025, slide 19.
+https://cdn.mbta.com/sites/default/files/2025-07/9.%20IERF%20Board%20Deck%20_%20July%202025.pdf.
+Page 9 of 9
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com

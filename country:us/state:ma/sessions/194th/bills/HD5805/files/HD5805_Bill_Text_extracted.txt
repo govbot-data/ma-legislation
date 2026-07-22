@@ -1,0 +1,1317 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Electronic Control Weapons
+in Massachusetts, 2023
+Massachusetts Executive Office of Public Safety and Security
+June 2026
+Maura T. Healey, Governor
+Kimberley Driscoll, Lieutenant
+Gina K. Kwon, Secretary of Public Safety and Security
+Office of Grants and Research
+Kevin Stanton, Executive Director
+Lisa Lundquist, Division Director
+
+Report Prepared by:
+Kelly Goggin, Senior Research Analyst
+Research and Policy Analysis Division
+35 Braintree Hill Office Park, Suite 302
+Braintree, Massachusetts 02184
+2
+
+TABLE OF CONTENTS
+About the Office of Grants and Research ................................................................... 5
+Legislative Language .................................................................................................... 5
+2023 Report Highlights ................................................................................................. 6
+Introduction .................................................................................................................. 8
+ECW Incidents and Law Enforcement Agencies ........................................................ 8
+Figure 1. Massachusetts Municipal Law Enforcement Agency ECW Growth,
+2005 - 2023 ................................................................................................................ 9
+Figure 2. Number of ECW Incidents by Agency, 2023 .................................................. 10
+Figure 3. Massachusetts Municipal Law Enforcement ECW Incidents, 2023 ................ 10
+Current Trends ............................................................................................................ 11
+Figure 4. ECW Incidents and Percent Change, Calendar Years 2020 - 2023 ............... 11
+Table 1. Characteristics of ECW Reporting Agencies, 2020 - 2023 .............................. 12
+ECW Contacts ............................................................................................................. 12
+ECW Warnings and Submissions .............................................................................. 13
+Table 2. ECW Warning Types by Submissions, 2023 .................................................. 15
+Contact Characteristics .............................................................................................. 15
+Table 3. Percent of Contacts with a Warning and/or ECW Deployment
+by Subject Characteristics, 2023 ......................................................................... 16
+ECW Deployments ...................................................................................................... 16
+Figure 5. Massachusetts Municipal Law Enforcement ECW
+Deployments, 2023 ............................................................................................. 17
+Figure 6. ECW Incidents and Deployments Density Chart, 2023 .................................. 18
+Table 4. Distribution of ECW Submissions by Deployment Type, 2023 ........................ 19
+Appendix ...................................................................................................................... 20
+Appendix Table 1. Municipal and Non-municipal ECW Incidents, 2020 - 2023 ............. 20
+Appendix Table 2. Non-Municipal ECW Incidents by Agency, 2020 - 2023 .................. 20
+Appendix Table 3. Municipal ECW Incidents by Agency, 2020 - 2023 .......................... 21
+3
+
+Appendix Table 4. Distribution of ECW Contacts, Warnings, and
+Deployments by Subject Gender and Race/Ethnicity, 2023 ..................................... 31
+Appendix Table 5. Distribution of ECW Contacts, Warnings, and Deployments by
+Subject Age, 2023 .................................................................................................... 32
+Appendix Table 6. Number of Municipal and Non-Municipal ECW Deployments,
+2023 ......................................................................................................................... 33
+Appendix Table 7. Non-Municipal ECW Deployments by Agency, 2023 ....................... 33
+Appendix Table 8. Municipal ECW Deployments by Agency, 2023 .............................. 34
+Terms and Definitions ................................................................................................. 43
+About the Research and Policy Analysis Division ................................................... 45
+Acknowledgements ..................................................................................................... 45
+4
+
+ABOUT THE OFFICE OF GRANTS AND RESEARCH
+The Office of Grants and Research (OGR) is a state agency that is part of the
+Executive Office of Public Safety and Security (EOPSS). The agency promotes public
+safety and security in Massachusetts communities through the management of grant
+funds and research programs focused on crime prevention and intervention, traffic safety,
+law enforcement and homeland security initiatives. OGR manages more than $279 million
+in state and federal grants that are distributed to state, municipal, education, and nonprofit
+agencies across the Commonwealth. It is also home to the Massachusetts Statistical
+Analysis Center.
+LEGISLATIVE LANGUAGE
+Section 131J of Chapter 140 of Massachusetts General Laws (as amended by St.
+2004, c. 170, §1 and St. 2018, c. 123, §13) requires the Secretary of Public Safety and
+Security to establish minimum safety and quality standards, safe storage requirements,
+education and safety training requirements, and law enforcement training on the
+appropriate use of electronic control weapons (ECWs), which shall require that any ECW
+purchased or used by a law enforcement or public safety official include a mechanism for
+tracking the number of times the ECW has been fired. In October 2004, in response to
+Chapter 170 of the Acts of 2004, EOPSS promulgated 501 CMR 8.00 et seq., regulations
+governing the sale of ECWs in the Commonwealth and the training of law enforcement
+personnel on the appropriate use of such weapons. The regulation was updated on
+January 6, 2023 to reflect changes to Section 131J of Chapter 140 of the General Laws
+and Chapter 253 of the Acts of 2020, An Act Relative to Criminal Justice, Equity, and
+Accountability in Law Enforcement in the Commonwealth.
+5
+
+Section 2 of Chapter 170 of the Acts of 2004 further requires the Secretary of
+Public Safety and Security to develop a uniform protocol directing state and municipal law
+enforcement officers to collect data pursuant to the number of times the device or weapon
+has been fired and the identifying characteristics, including the race and gender, of the
+individuals who have been fired upon. The data are reported to OGR to be analyzed and
+included in an annual report.
+2023 REPORT HIGHLIGHTS
+• At the end of 2023, there were 286 municipal and 14 non-municipal law enforcement
+agencies in Massachusetts with ECWs, totaling 300 ECW agencies. This represents
+a 0.7% increase in the total number of ECW agencies from 2022.
+• Two agencies, one non-municipal and one municipal, acquired ECWs during 2023:
+Bunker Hill Community College Police Department and Goshen Police Department.
+• There was a total of 1,257 reported ECW incidents in 2023, a 13.1% increase from
+2022. Municipal ECW departments reported 1,147 ECW incidents and non-municipal
+ECW departments reported 110 ECW incidents. An ECW incident is defined as any
+instance in which an officer or group of officers issued an ECW warning and/or
+deployed ECWs.
+• In 2023, the number of incidents reported by each department ranged from zero (103
+agencies) to 83 incidents (one agency). 197 agencies (65.7%) reported at least one
+ECW incident.
+• From 2022 to 2023, the number of sworn officers employed by ECW agencies, officers
+carrying ECWs, and agency-owned ECW devices decreased by 0.5%, 2.1%, and
+9.5%, respectively.
+6
+
+• Of the 1,356 human contacts, 1,228 were male (90.6%), 125 were female (9.2%), and
+three had gender reported as Unknown (0.2%). An ECW contact is defined as each
+individual officer’s deployment, warning, or display of an ECW towards a single
+subject.
+• Regarding race of the human contacts, 964 were White (71.1%), 298 were Black
+(22%), 40 were Other Race (2.9%), and 54 had race reported as Unknown, Not
+Reported, or Refused to Answer (4%).
+• For Hispanic ethnicity of the human contacts, 899 were Non-Hispanic (66.3%), 269
+were Hispanic (19.8%), and 188 had ethnicity reported as Unknown or Not Reported
+(13.9%).
+• The average age of human contacts was 35.5 years, with nearly three-quarters of
+contacts involving subjects between 20 and 44 years of age (71.2%). Subjects in the
+two oldest age groups (60 – 64 years and 65+ years) represented the smallest
+proportion of ECW contacts (1.7% and 1.6%, respectively).
+• Officer(s) issued at least one ECW warning in 91.2% of the 1,356 human contacts. Of
+these contacts with warnings (1,237), 41.1% of contacts (508) submitted to the
+warning and no deployment was made.
+• 34.3% of agencies reported no ECW incidents (103 agencies), and 56.7% (170
+agencies) reported no ECW deployments. Commented [RA1]: We have a similar statistic earlier
+about ECW incidents. See my previous comment.
+• An ECW was deployed in under half (36%) of the 1,356 human contacts.
+• When examining the data by incidents, subjects submitted to deployments 67% of
+the time (327 submissions to 488 deployments).
+7
+
+INTRODUCTION
+As required by the Legislature, this report summarizes data provided by
+Massachusetts law enforcement agencies with ECWs1 for calendar year 2023. Agencies
+with ECWs are required to complete annual reports on information related to: 1) the
+number of sworn officers serving the agency; 2) the number of ECW-trained officers
+serving the agency; 3) the number of ECWs owned by the agency; 4) the number of
+officers carrying ECWs; 5) the number of total ECW-related incidents that occurred during
+the reporting period; 6) general details about each incident (e.g., warnings, deployments,
+submissions, etc.); and 7) demographic information of the subject involved in the incident.
+Terms and definitions referenced in this report are provided in the appendix on page A24.
+ECW INCIDENTS AND LAW ENFORCEMENT AGENCIES
+During 2023, two new law enforcement agencies began reporting use of ECWs,
+raising the cumulative total to 300 ECW agencies in Massachusetts. Figure 1 (pg. 9)
+illustrates the growth in municipal ECW reporting agencies from 2005 to 2023. The
+greatest concentration of cities and towns that did not have ECWs in 2023 are in the
+western region of the state, particularly Berkshire and Franklin counties.
+In Massachusetts, there was a total of 1,257 ECW incidents2 reported in 2023.
+197 agencies (65.7%) reported at least one ECW incident. The number of incidents
+reported by each department ranged from zero (103 agencies) to 83 incidents (one
+1 a stun gun or any portable device or weapon that is designed to incapacitate temporarily by causing
+neuromuscular incapacitation or pain so that an officer can regain and maintain control of the subject.
+2 an event in which an officer (or group of officers) issues a warning and/or deploys an ECW towards a
+single subject.
+8
+
+agency). (Appendix Tables 1-3, pgs. A1-A11). As shown in Figure 2, over three-quarters
+(79.7%) of agencies reported five or fewer incidents. 20.3% of agencies reported more
+than five incidents, including nine agencies reporting 25 or more incidents. Those nine
+agencies accounted for 32.5% (409) of all ECW incidents in 2023.
+Figure 1. MA Municipal Law Enforcement Agency ECW Growth, 2005 - 2023
+9
+
+Figure 2. Number of ECW Incidents by Agency, 2023
+Figure 3. Massachusetts Municipal Law Enforcement ECW Incidents, 2023
+10
+
+CURRENT TRENDS
+Figure 4 and Table 1 on the following page illustrate the annual percentage change
+in reported ECW incidents from 2020 to 2023. Overall, the number of ECW incidents has
+increased by 0.2% since 2020. ECW incidents increased by 13.1% from 2022 to 2023,
+marking a two-year trend of rising ECW incidents3.
+As shown in Table 1 (pg. 13), the growth in the number of ECW agencies and ECW
+trained officers has slowed over the four-year period. The number of sworn officers from
+ECW agencies declined for the fourth year in a row. The number of agency-owned ECW
+devices rose sharply in 2022 after minimal increase in 2021. In 2023, growth in the
+number of ECW agencies was 0.7%. The number of sworn officers, ECW trained officers,
+and agency-owned devices decreased by 0.4%, 2.1%, and 9.5%, respectively.
+Figure 4. ECW Incidents and Percent Change, Calendar Years 2020 – 2023
+3 Earlier Electronic Control Weapon Reports are archived on
+https://archives.lib.state.ma.us/entities/aggregation/e92914bc-d01f-4923-803b-23669e5fbe82
+11
+
+During the four-year period from 2020 to 2023, the growth of agency-owned
+ECW devices (17.2%) far surpassed that seen in ECW incidents (0.2%), ECW agencies
+(3.8%), sworn officers (-1.9%), and ECW trained officers (1.5%). The ratio of ECW
+incidents to ECW trained officers was 0.11 in the year 2020, 0.09 in both 2021 and
+2022, and 0.11 in 2023.
+Table 1. Characteristics of ECW Reporting Agencies, 2017 – 2021
+Number Annual Percent Change
+2020 - 2021 - 2022 -
+Year 2020 2021 2022 2023
+2021 2022 2023
+ECW Incidents 1,255 1,090 1,111 1,257 -13.1% 1.9% 13.1%
+ECW Agencies 289 296 298 300 2.4% 0.7% 0.7%
+Sworn Officersa 16,034 15,909 15,797 15,735 -0.8% -0.7% -0.4%
+ECW Trained
+11,319 11,525 11,730 11,486 1.8% 1.7% -2.1%
+Officers
+ECW Agency-
+9,247 9,543 11,973 10,837 3.2% 20.3% -9.5%
+Owned Devices
+a Sworn officers include all part-time, full-time, reserve, and other officers serving in ECW
+agencies. ECW agencies report the number of officers as of the end of the calendar year.
+ECW CONTACTS
+From January 1 through December 31, 2023, ECW agencies recorded 1,368
+ECW contacts.4 Of those contacts, 12 involved animals or fowl, such as dogs or turkeys.
+The remaining 1,356 ECW contacts involved people. The vast majority (90.6%) of the
+1,356 human contacts involved male subjects (see Appendix Table 4, pg. A12). Over
+two-thirds of contacts were with White subjects: Non-Hispanic (47.9%), Hispanic
+4 ‘ECW Contact’ refers to an individual officer’s deployment, warning, or display of an ECW towards a
+single subject. Multiple ECW contacts can occur during a single ECW incident, (e.g., an incident in which
+two officers each issue a warning and/or deploy an ECW at a subject is considered two contacts and one
+incident). This section details ECW contacts between officers and subjects.
+12
+
+Ethnicity (14.9%), Unknown Ethnicity (8.3%). Black subjects accounted for 22% of total
+human contacts: Non-Hispanic (16.7%), Hispanic Ethnicity (1.9%), Unknown Ethnicity
+(3.4%). Subjects with unknown race and ethnicity accounted for 2.1% of contacts and
+subjects of Other Races5 made up 3% of contacts. Of all human contacts, 19.8%
+involved subjects of Hispanic Ethnicity.
+The average age of contacts was 34.3 years, with nearly three-quarters of
+contacts involving subjects between 20 and 44 years of age (71.2%). Subjects in the
+two oldest age groups (60 - 64 years and 65+ years) represented the smallest
+proportion of ECW contacts (1.7% and 0.4%, respectively).
+ECW WARNINGS AND SUBMISSIONS
+Of the 1,356 ECW contacts with human subjects, 1,237 or 91.2% involved the
+officer(s) issuing at least one ECW warning (verbal warning, laser warning, and/or
+spark warning)6 in an attempt to gain the subject’s compliance. In contacts that involved
+an ECW warning, officers issued a single type of warning in 35.7% of contacts, with a
+verbal warning being the most common (407 of 442, 92.1%) (Table 2, pg. 16). The rate
+5 ‘Other’ comprises the race categories of American Indian/Alaska Native, Asian, Native Hawaiian or other
+Pacific Islander, Two or More Races, and Other (specified).
+6 ECW Warnings:
+Laser Warning: A visual warning whereby an officer employs the laser function of the ECW
+device to indicate that an ECW will be deployed.
+Spark Warning: A visual warning whereby an officer employs a spark on a handheld stun device
+in order to demonstrate its effectiveness.
+Verbal Warning: Any spoken words or display of the ECW that would indicate to a subject than
+an ECW may be used. This warning could include: 1) Any direct wording to a subject indicating or
+implying that an ECW will be used. Example: Displaying ECW and shouting “Stop!” 2) Any
+indirect wording that a subject may overhear indicating or implying that an ECW is about to be
+deployed. Example: A warning to other officers that an ECW is about to be deployed by saying
+“Taser!”
+13
+
+of compliance for contacts with one warning, however, was the lowest for verbal warnings
+(31.9%), excluding spark warnings (n = 1). Laser warnings had the highest rate of
+compliance (55.9%), though the use of laser warnings only was rare (n = 34).
+Over half of ECW contacts involved multiple warnings (64.3%). Of these, the verbal
+and laser warning comprised the vast majority (725 of 795, 91.2%) and resulted in a
+compliance rate of 47%. A combination of verbal and spark warnings had a compliance
+rate of 20%. A combination of all three ECW warnings had a 30.2% compliance rate.
+In a smaller number of contacts (119 or 8.8%), the officer did not issue a warning
+prior to ECW deployment. Incidents involving two or more officers may result in one
+warning but more than one deployment. Thus, both contacts would indicate a deployment,
+but only one would show a warning was given. In 68 contacts (5.0%), the subject received
+no warning prior to ECW deployment. Agencies indicated that sudden actions by the
+subject (i.e., subjects becoming combative during handcuffing) required immediate ECW
+deployment (probe deployment, 5–second cycle, and/or stun deployment)7 and precluded
+an opportunity for the officer to issue a warning.
+7 ECW Deployments:
+Probe Deployment: the act of firing two small dart-like probes from the ECW, which attach to the
+subject. The device then delivers a 5-second electrical cycle, which can be repeated as needed in
+order to incapacitate the subject to the point of submission.
+5-Second Cycle: a five second electrical charge resulting from a probe deployment, which can
+be repeated as needed.
+Stun Deployment: the act of bringing the ECW device into direct contact with the subject’s skin
+or clothing in order to induce pain to the point of submission. Stuns can be repeated as needed if
+the subject does not initially submit.
+14
+
+Table 2. ECW Warning Types by Submissions, 2023
+Warnings Submissions Percent
+that
+Characteristic Number Percent Number Percent Submit
+One Warning 442 35.7% 149 29.3% 33.7%
+Verbal 407 32.9% 130 25.6% 31.9%
+Laser 34 2.7% 19 3.7% 55.9%
+Spark 1 -- -- -- --
+Multiple Warnings 795 64.3% 359 70.7% 45.2%
+Verbal/Laser 725 58.6% 341 67.1% 47.0%
+Verbal/Spark 25 2.0% 5 1.0% 20.0%
+Laser/Spark 2 -- -- -- --
+Verbal/Laser/Spark 43 3.5% 13 2.6% 30.2%
+Total 1,237 100% 508 100% 41.1%
+CONTACT CHARACTERISTICS
+Table 3 (pg. 15) presents some demographic data on the contacts with subjects
+for whom these characteristics are known. The data show officers’ use of warnings
+and/or ECW deployments by subject gender, race, ethnicity, and age. A consistent
+pattern is revealed across all of the subject groups: a) in more than half of contacts
+(62.6%), the officer(s) issues an ECW warning with no subsequent ECW deployment; b)
+in about 32% of contacts, the officer(s) issued an ECW warning and an ECW
+deployment; and c) in about 5% of contacts the officer(s) deployed an ECW with no
+prior ECW warning.
+Appendix Tables 4 and 5 (pg. A12 - A13) break down the data slightly differently,
+looking at contacts with a warning or contacts with an ECW deployment by subject
+gender, race/ethnicity, and age. The percentages are similar by gender and differ
+slightly by race/ethnicity and age. Those in the Black, Hispanic Ethnicity category (n =
+15
+
+26), the Other Race, Unknown Hispanic Ethnicity category (n = 1), and the Unknown
+Race, Non-Hispanic Ethnicity category (n = 3) had the highest proportion of contacts
+with warnings (100%), though the number of contacts was low. The next highest
+proportion of contacts with warnings was the Black, Non-Hispanic Ethnicity category
+(98.8%), followed by the White, Non-Hispanic Ethnicity category (92.8%). Those in the
+Unknown Race, Unknown Hispanic Ethnicity category had the highest percentage of
+contacts with an ECW deployment (48.3%) followed by the Other Race, Hispanic
+Ethnicity category (47.4%).
+Appendix Table 5 (pg. A13) shows that subjects in the age categories 65 years
+and older and 40 – 44 years received the highest percent of contacts with a warning
+(100% and 96.5%, respectively). Subjects 65 years and older had the smallest
+percentage of contacts with an ECW deployment (16.7%). Subjects 40 – 44 years had
+the largest percentage of contacts with an ECW deployment (41.3%).
+ECW DEPLOYMENTS
+Of the 300 Massachusetts agencies with ECWs in 2023, 56.7% (170 agencies)
+reported zero ECW deployments. The remaining 43.3% (130 agencies) reported between
+one and 50 deployments, totaling 768 weapon (probe and/or stun) deployments. Of the
+agencies with a deployment, over half (82 agencies, 63.1%) reported between one and
+three ECW deployments. Figure 5 (pg. 19) displays the number of ECW deployments by
+agency, excluding non-municipal agencies.
+16
+
+Table 3. Percent of Contacts with a Warning and/or ECW Deployment by Subject
+Characteristics, 2023
+Contacts with Contacts with
+Contacts with Warning(s) and ECW
+Warning(s), No ECW Deployment(s),
+ECW Deployment Deployment(s) No Warning Total
+Characteristic Number Percent Number Percent Number Percent Number
+Gender Male 744 62.9% 377 31.9% 62 5.2% 1,183
+Female 70 58.8% 43 36.1% 6 5.0% 119
+Unknown 3 100% 0 -- 0 -- 3
+Race White 584 62.8% 307 33.0% 39 4.2% 930
+Black 183 63.8% 85 29.6% 19 6.6% 287
+Other 21 56.8% 11 29.7% 5 13.5% 37
+Unknown 29 56.9% 17 33.3% 5 9.8% 51
+Ethnicity Non-Hispanic 563 65.1% 264 30.5% 38 4.4% 865
+Hispanic 146 55.9% 98 37.5% 17 6.5% 261
+Unknown 108 60.3% 58 32.4% 13 7.3% 179
+Less than 20
+Age 74 66.7% 31 27.9% 6 5.4% 111
+Years
+20-24 Years 107 66.0% 44 27.2% 11 6.8% 162
+25-29 Years 109 63.0% 57 32.9% 7 4.0% 173
+30-34 Years 141 59.7% 79 33.5% 16 6.8% 236
+35-44 Years 209 58.9% 127 35.8% 19 5.4% 355
+45-54 Years 122 64.2% 62 32.6% 6 3.2% 190
+55+ Years 55 70.5% 20 25.6% 3 3.8% 78
+Total 817 62.6% 420 32.3% 68 5.2% 1,305
+Appendix Tables 6 – 8 (pgs. A14 - A23) provide information on the type of
+deployment by department, revealing a slightly higher overall usage of probe
+deployments (394, 51.3%) compared to stun deployments, also known as a “drive stun”
+(374, 48.7%). The range of stun deployments per department was more widely dispersed
+(1 to 30) than probe deployments (1 to 27).
+Figure 6 (pg. 19) is a density chart illustrating the number of reported ECW
+incidents and deployments by agency. The majority of agencies are concentrated around
+low numbers of ECW incidents and deployments (shown in red). In fact, 34.3% of
+17
+
+agencies reported no ECW incidents (103 agencies) and 56.7% reported no ECW
+deployments (170 agencies).
+Figure 5. MA Municipal Law Enforcement ECW Deployments, 2023
+Officers deployed ECWs in under half (36.0%) of the 1,356 human contacts. Table
+4 shows that, of the 488 incidents where an ECW was deployed, 48.6% involved the use
+of only probe deployments (the firing of two small dart-like probes from the ECW, which
+attach to the subject and can emit an electrical charge), 40.8% involved the use of only
+stun deployments (bringing the ECW device into direct contact with the subject’s skin or
+clothing), and 10.7% of the incidents involved a combination of probe and stun
+deployments. Overall, subjects submitted to the deployments of an ECW 67% of the time.
+Subjects submitted to individual stun deployments more often than individual probe
+18
+
+deployments (73.9% and 61.6%, respectively). Combined probe and stun deployments
+had a submission rate of 65.4%.
+Figure 6. ECW Incidents and Deployments Density Chart, 2023
+Table 4. Distribution of ECW Submissions by Deployment Type, 2023a
+ECW Deployments ECW Submissions
+Percent that
+Submit
+Characteristic Number Percent Number Percent
+Probe 237 48.6% 146 44.6% 61.6%
+Stun 199 40.8% 147 45.0% 73.9%
+Combined Probe and Stun 52 10.7% 34 10.4% 65.4%
+Total 488 100% 327 100% 67.0%
+a excludes cases where subject was not a person
+19
+
+Appendix Table 1. Municipal and Non-municipal ECW Incidents, 2020 – 2023
+Agency Type 2020 2021 2022 2023
+Non-municipal 90 56 112 110
+Municipal 1,165 1,034 999 1,147
+Total 1,255 1,090 1,111 1,257
+Appendix Table 2. Non-municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Amtrak Police 0 0 0 0
+Bridgewater State University 0 0 0 1
+Bristol County Sheriff’s Office -- -- 0 0
+Bunker Hill Community Collegea -- -- -- 0
+Central Massachusetts Law Enforcement Council 1 1 0 1
+Clark University 0 1 0 2
+Holyoke Community College 0 0 0 0
+Massachusetts State Police 82 43 83 73
+Massasoit Community College 0 0 0 0
+Martha’s Vineyard Police Tactical Response Team 0 0 0 0
+University of Massachusetts, Lowell 0 0 0 0
+University of Massachusetts, Memorial Medical
+1 9 2 1
+Center
+University of Massachusetts, Worcester 6 2 27 31
+Westfield State College -- -- 0 1
+Total 90 56 112 110
+a Agency began using Electronic Control Weapons in 2023.
+-- cells denoted by “--” indicate the agency had not yet implemented use of ECWs.
+Note: Agencies can acquire ECWs throughout the year, so an agency’s first reporting year may not span
+a full 12 months.
+20
+
+Appendix Table 3. Municipal ECW Incidents by Agency, 2020 – 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Abington 0 0 0 0
+Acushnet 5 6 3 1
+Adams 4 2 7 7
+Agawam 6 7 7 10
+Amesbury 0 0 1 1
+Andover 2 3 2 5
+Aquinnah 0 0 0 0
+Ashburnham 2 2 2 0
+Ashfield 0 0 0 0
+Ashland 9 6 1 3
+Athol 0 6 4 7
+Attleborough 5 0 5 4
+Auburn 4 5 1 1
+Avon 0 0 0 0
+Ayer 0 5 5 2
+Barnstable 15 10 19 23
+Barre 0 0 2 3
+Becket 0 0 0 0
+Bedford 4 2 3 3
+Belchertown 0 0 0 0
+Belmont 2 4 2 5
+Berkley 0 0 1 2
+Bernardston 0 0 0 0
+Beverly 6 4 2 7
+Billerica 1 4 6 1
+Blackstone 4 1 2 1
+Blandford 0 0 0 0
+Bolton 1 0 0 0
+Boston 3 1 1 1
+Bourne 7 6 5 5
+Boxborough 1 1 0 0
+Boxford 0 1 0 0
+21
+
+Appendix Table 3. (continued) Municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Boylston 1 4 2 0
+Braintree 1 3 3 5
+Brewster 0 1 0 0
+Bridgewater 2 0 1 3
+Brockton 23 19 17 42
+Brookfield 0 0 0 2
+Burlington 1 0 0 0
+Canton 8 3 5 2
+Carlisle 2 0 0 0
+Carver 2 2 1 1
+Charlton 1 5 5 6
+Chatham 1 1 1 1
+Chelmsford 8 11 5 2
+Chelsea 9 8 7 7
+Cheshire 0 0 0 0
+Chesterfield -- 0 0 0
+Chicopee 44 33 23 56
+Chilmark 0 0 0 1
+Clinton 4 2 2 4
+Cohasset 0 0 1 0
+Colrain 0 0 0 0
+Concord 1 1 1 2
+Dalton 1 0 1 5
+Danvers 11 8 10 6
+Dartmouth 4 9 11 5
+Dedham 4 4 7 3
+Deerfield 0 2 0 0
+Dennis 10 16 1 7
+Dighton 2 2 3 1
+-- cells denoted by “--” indicate the agency had not yet implemented use of ECWs.
+Note: Agencies can acquire ECWs throughout the year, so an agency’s first reporting year may not span
+a full 12 months.
+22
+
+Appendix Table 3. (continued) Municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Douglas 4 1 1 0
+Dover 0 0 0 0
+Dracut 3 3 1 6
+Dudley 0 2 6 6
+Dunstable 0 1 0 0
+Duxbury 2 0 4 4
+East Bridgewater 2 1 8 6
+East Brookfield 2 2 1 0
+Eastham 4 2 1 1
+Easthampton 0 6 5 2
+Easton 2 1 1 6
+Edgarton 0 3 4 1
+Egremont 0 1 0 0
+Erving 0 1 0 0
+Essex 1 1 0 0
+Everett 12 7 5 9
+Fairhaven 1 3 2 6
+Fall River 16 19 22 24
+Falmouth 8 9 4 4
+Fitchburg 16 21 14 21
+Foxborough 4 5 5 2
+Framingham 14 10 6 11
+Franklin 0 4 4 8
+Freetown 7 4 9 11
+Gardner 1 2 2 5
+Georgetown 0 0 1 1
+Gill 0 0 0 2
+Gloucester -- -- 1 5
+-- cells denoted by “--” indicate the agency had not yet implemented use of ECWs.
+Note: Agencies can acquire ECWs throughout the year, so an agency’s first reporting year may not span
+a full 12 months.
+23
+
+Appendix Table 3. (continued) Municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Goshena -- -- -- 0
+Grafton 3 3 1 6
+Granby 0 0 0 1
+Granville 0 0 0 0
+Great Barrington 1 1 7 3
+Greenfield 5 14 10 17
+Groton 2 1 1 0
+Groveland 0 2 0 0
+Hadley 2 2 3 2
+Hamilton 0 0 0 0
+Hampden 0 1 0 0
+Hanson 0 0 0 0
+Hardwick 0 2 1 1
+Harvard -- 0 1 0
+Harwich 6 2 1 0
+Hatfield 0 0 0 0
+Haverhill 2 1 1 7
+Hingham 5 6 3 2
+Hinsdale 0 0 0 0
+Holbrook 0 0 1 1
+Holden 3 2 1 1
+Holland 0 0 0 0
+Holliston 1 2 0 1
+Holyoke 11 7 14 14
+Hopedale 0 0 0 1
+Hopkinton 2 0 1 1
+Hubbardston 0 0 0 0
+Hudson 3 0 1 1
+a Agency began using Electronic Control Weapons in 2023.
+-- cells denoted by “--” indicate the agency had not yet implemented use of ECWs.
+Note: Agencies can acquire ECWs throughout the year, so an agency’s first reporting year may not span
+a full 12 months.
+24
+
+Appendix Table 3. (continued) Municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Hull 0 3 4 4
+Ipswich 0 0 1 2
+Kingston 2 2 1 2
+Lakeville 4 7 7 5
+Lanesborough 1 0 0 0
+Lawrence 21 18 14 34
+Lee 0 1 0 0
+Leicester 2 2 2 1
+Lenox 1 1 0 0
+Leominster 25 16 20 14
+Leverett 0 0 1 1
+Lincoln 0 0 0 0
+Littleton 0 1 2 4
+Longmeadow 2 0 0 0
+Lowell 29 24 38 21
+Ludlow 2 3 10 7
+Lunenburg 0 1 3 3
+Lynn 27 20 13 31
+Lynnfield 1 0 0 0
+Manchester-by-the-Sea 0 1 3 3
+Mansfield 12 1 7 9
+Marblehead 2 1 3 0
+Marion 2 1 2 1
+Marlborough 15 9 6 4
+Marshfield 4 1 5 3
+Mashpee 1 6 3 3
+Maynard 0 0 1 0
+Medfield 0 0 0 0
+Medway 1 0 0 1
+Mendon 0 1 2 0
+Merrimac 0 0 3 1
+Methuen 17 11 9 9
+25
+
+Appendix Table 3. (continued) Municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Middleborough 5 10 9 8
+Middleton 1 1 1 1
+Milford 6 7 6 11
+Millbury 6 3 4 7
+Millis 0 3 0 0
+Millville 0 0 0 0
+Milton -- 0 1 2
+Monson 9 6 5 4
+Montague 2 4 2 3
+Nantucket 0 0 0 1
+Natick 6 3 7 12
+Needham 0 2 4 3
+New Bedford 12 15 11 15
+New Braintree 0 0 0 1
+New Marlborough 0 0 0 0
+New Salem 0 0 0 0
+Newbury 0 0 1 1
+Newburyport 6 2 1 0
+Norfolk 0 2 1 3
+North Adams 3 1 4 2
+North Andover 1 0 2 0
+North Attleborough 0 2 1 6
+North Brookfield 0 1 1 1
+North Reading 0 1 3 3
+Northborough 1 4 2 1
+Northbridge 2 3 1 1
+Northfield 0 0 0 0
+Norton 9 5 5 3
+Norwell 0 0 0 0
+-- cells denoted by “--” indicate the agency had not yet implemented use of ECWs.
+Note: Agencies can acquire ECWs throughout the year, so an agency’s first reporting year may not span
+a full 12 months.
+26
+
+Appendix Table 3. (continued) Municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Norwood 4 5 3 3
+Oak Bluffs 5 4 4 0
+Oakham 0 0 1 0
+Orange 1 1 3 1
+Orleans 3 0 1 2
+Oxford 5 5 3 5
+Palmer 12 5 6 4
+Paxton 5 0 2 0
+Peabody 12 13 11 17
+Pembroke 4 2 3 2
+Pepperell 6 1 1 1
+Petersham 0 1 0 0
+Phillipston 0 0 0 0
+Pittsfield 7 8 4 3
+Plainville 1 2 2 2
+Plymouth 14 12 12 7
+Plympton 1 2 0 1
+Princeton 0 2 2 2
+Provincetown 2 5 4 9
+Quincy 2 1 2 4
+Randolph 12 11 9 15
+Raynham 7 11 5 4
+Reading -- 0 1 1
+Rehoboth 1 4 3 4
+Revere 4 0 5 4
+Rockland 3 7 5 9
+Rowley 0 1 1 1
+Royalston 0 0 0 0
+Rutland 2 9 8 3
+-- cells denoted by “--” indicate the agency had not yet implemented use of ECWs.
+Note: Agencies can acquire ECWs throughout the year, so an agency’s first reporting year may not span
+a full 12 months.
+27
+
+Appendix Table 3. (continued) Municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Salem 10 7 1 0
+Salisbury 1 1 3 3
+Sandwich 12 13 4 3
+Scituate 3 1 1 0
+Seekonk 3 6 1 3
+Sharon 1 1 1 1
+Sheffield 7 0 0 0
+Sherborn 0 0 0 0
+Shirley 3 0 0 0
+Shrewsbury 6 8 9 17
+Shutesbury 0 0 0 0
+Somerset 1 2 3 2
+South Hadley 3 6 1 3
+Southborough 1 1 1 0
+Southbridge 7 11 7 16
+Southwick 0 0 2 1
+Spencer 7 3 8 5
+Springfield 81 53 39 27
+Sterling 0 4 0 0
+Stockbridge 0 1 0 1
+Stoneham 3 2 4 3
+Stoughton 19 15 16 10
+Stow 1 0 0 0
+Sturbridge 1 4 3 1
+Sudbury 3 1 2 0
+Sunderland 2 1 1 1
+Sutton 0 1 0 1
+Swampscott 1 0 2 0
+Swansea 2 5 0 3
+Taunton 10 4 9 6
+Templeton 0 0 0 0
+Tewksbury 9 7 10 7
+28
+
+Appendix Table 3. (continued) Municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Tisbury 4 0 0 0
+Tolland 0 0 0 0
+Topsfield 0 0 0 0
+Townsend 0 3 3 0
+Truro 0 3 1 1
+Tyngsborough 3 4 3 4
+Upton 0 0 0 0
+Uxbridge 5 7 4 5
+Wakefield 2 3 6 2
+Wales 1 0 0 0
+Walpole 6 7 6 9
+Ware 22 9 2 1
+Wareham 26 18 11 4
+Warren 1 0 1 1
+Warwick 0 0 0 0
+Watertown 5 4 4 4
+Webster 13 10 23 16
+Wellesley 2 1 0 1
+Wellfleet 2 1 2 0
+Wenham 0 0 0 0
+West Boylston 0 0 0 0
+West Bridgewater 5 3 1 1
+West Brookfield 0 0 0 0
+West Newbury 0 0 0 0
+West Springfield 15 10 12 30
+West Stockbridge 0 0 0 0
+West Tisbury 0 2 1 1
+Westborough 10 2 8 10
+Westfield 13 18 12 15
+Westford 4 1 1 2
+29
+
+Appendix Table 3. (continued) Municipal ECW Incidents by Agency, 2020 - 2023
+Number of Incidents per Year
+Agency Name 2020 2021 2022 2023
+Westhampton -- 0 0 0
+Westminster 1 0 1 1
+Westport 3 2 2 2
+Westwood 3 0 1 0
+Weymouth 27 1 7 10
+Whately 0 9 0 0
+Whitman 0 0 1 3
+Williamsburg -- 0 0 0
+Williamstown 0 0 0 1
+Wilmington 3 4 4 4
+Winchendon 2 1 1 6
+Winchester 1 0 0 0
+Woburn 3 1 2 1
+Worcester 54 55 72 83
+Worthington -- 0 0 0
+Wrentham 4 4 2 1
+Yarmouth 9 10 2 5
+Total 1,165 1,034 999 1,147
+-- cells denoted by “--” indicate the agency had not yet implemented use of ECWs.
+Note: Agencies can acquire ECWs throughout the year, so an agency’s first reporting year may not span
+a full 12 months.
+30
+
+Appendix Table 4. Distribution of ECW Contacts, Warnings, and Deployments by
+Subject Gender and Race/Ethnicity, 2023
+Percent Percent of
+Contacts Warnings Deployments
+of Contacts
+Contacts with a
+Characteristic Number Percent Number Percent Number Percent with a Weapon
+Warning Deployment
+Gender
+Male 1,228 90.6% 1,121 90.6% 439 90.0% 91.3% 35.7%
+Female 125 9.2% 113 9.1% 49 10.0% 90.4% 39.2%
+Unknown 3 -- 3 -- 0 -- -- --
+Race/Ethnicity
+White, non-Hispanic 650 47.9% 603 48.7% 218 44.7% 92.8% 33.5%
+White, Hispanic 202 14.9% 185 15.0% 90 18.4% 91.6% 44.6%
+White, Unknown
+112 8.3% 103 8.3% 38 7.8% 92.0% 33.9%
+Ethnicity
+Black, non-Hispanic 226 18.3% 203 18.1% 77 17.4% 98.8% 37.5%
+Black, Hispanic 26 1.9% 26 2.1% 8 1.6% 100% 30.8%
+Black, Unknown
+46 3.4% 39 3.2% 19 3.9% 84.8% 41.3%
+Ethnicity
+Othera Race, non-
+20 1.5% 18 1.5% 7 1.4% 90.0% 35.0%
+Hispanic
+Othera Race, Hispanic 19 1.4% 13 1.1% 9 1.8% 68.4% 47.4%
+Othera Race, Unknown
+1 -- 1 -- 0 -- -- --
+Ethnicity
+Unknown Race, non-
+3 -- 3 -- 0 -- -- --
+Hispanic
+Unknown Race,
+22 1.6% 20 1.6% 8 1.6% 90.9% 36.4%
+Hispanic
+Unknown Race,
+29 2.1% 23 1.9% 14 2.9% 79.3% 48.3%
+Unknown Ethnicity
+Total 1,356 100% 1,237 100% 488 100% 91.2% 36.0%
+a The race/ethnicity categories of American Indian/Alaska Native, Asian, Native Hawaiian or other Pacific
+Islander, Two or More Races, and Other (specified) comprise Other.
+-- Percentages with such a small denominator are not statistically reliable.
+31
+
+Appendix Table 5. Distribution of ECW Contacts, Warnings, and Deployments by
+Subject Age, 2023
+Contacts Warnings Deployments Percent Percent of
+of Contacts
+Subject Contacts with a
+Age (in Number Percent Number Percent Number Percent with a Weapon
+Years) Warning Deployment
+Under 18 76 5.6% 66 5.3% 23 4.7% 86.8% 30.3%
+18-19 41 3.0% 39 3.2% 14 2.9% 95.1% 34.1%
+20-24 172 12.7% 151 12.2% 55 11.3% 87.8% 32.0%
+25-29 179 13.2% 166 13.4% 64 13.1% 92.7% 35.8%
+30-34 246 18.1% 220 17.8% 95 19.5% 89.4% 38.6%
+35-39 196 14.5% 170 13.7% 75 15.4% 86.7% 38.3%
+40-44 172 12.7% 166 13.4% 71 14.5% 96.5% 41.3%
+45-49 119 8.8% 114 9.2% 42 8.6% 95.8% 35.3%
+50-54 74 5.5% 70 5.7% 26 5.3% 94.6% 35.1%
+55-59 52 3.8% 48 3.9% 15 3.1% 92.3% 28.8%
+60-64 23 1.7% 21 1.7% 7 1.4% 91.3% 30.4%
+65 or older 6 0.4% 6 0.5% 1 -- 100% 16.7%
+Total 1,356 100% 1,237 100% 488 100% 91.2% 36.0%
+-- Percentages with such a small denominator are not statistically reliable.
+32
+
+Appendix Table 6. Number of Municipal and Non-Municipal ECW Deployments,
+2023
+Agency Type Probe Cycles Stuns Total
+Non-municipal 35 31 66
+Municipal 359 343 702
+Total 394 374 768
+Appendix Table 7. Non-Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+Amtrak Police 0 0 0
+Bridgewater State University 0 0 0
+Bristol County Sheriff’s Office 0 0 0
+Bunker Hill Community Collegea 0 0 0
+Central Massachusetts Law Enforcement Council 0 0 0
+Clark University 1 0 1
+Holyoke Community College 0 0 0
+Massachusetts State Police 27 23 50
+Massasoit Community College 0 0 0
+Martha’s Vineyard Police Tactical Response Team 0 0 0
+University of Massachusetts, Lowell 0 0 0
+University of Massachusetts, Memorial Medical Center 0 0 0
+University of Massachusetts, Worcester 6 8 14
+Westfield State College 1 0 1
+Total 35 31 66
+a Agency began using Electronic Control Weapons in 2023.
+Note: Agencies can acquire ECWs throughout the year, so an agency’s first reporting year may not span
+a full 12 months.
+33
+
+Appendix Table 8. Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+Abington 0 0 0
+Acushnet 0 1 1
+Adams 2 1 3
+Agawam 1 1 2
+Amesbury 0 0 0
+Andover 2 0 2
+Aquinnah 0 0 0
+Ashburnham 0 0 0
+Ashfield 0 0 0
+Ashland 0 2 2
+Athol 0 5 5
+Attleborough 2 2 4
+Auburn 0 0 0
+Avon 0 0 0
+Ayer 0 2 2
+Barnstable 9 12 21
+Barre 0 0 0
+Becket 0 0 0
+Bedford 3 0 3
+Belchertown 0 0 0
+Belmont 0 0 0
+Berkley 0 1 1
+Bernardston 0 0 0
+Beverly 6 8 14
+Billerica 0 0 0
+Blackstone 0 0 0
+Blandford 0 0 0
+Bolton 0 0 0
+Boston 3 0 3
+Bourne 0 3 3
+Boxborough 0 0 0
+Boxford 0 0 0
+Boylston 0 0 0
+Braintree 2 0 2
+Brewster 0 0 0
+34
+
+Appendix Table 8. (continued) Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+Bridgewater 3 1 4
+Brockton 12 16 28
+Brookfield 1 2 3
+Burlington 0 0 0
+Canton 1 0 1
+Carlisle 0 0 0
+Carver 2 2 4
+Charlton 0 0 0
+Chatham 0 2 2
+Chelmsford 2 0 2
+Chelsea 2 5 7
+Cheshire 0 0 0
+Chesterfield 0 0 0
+Chicopee 9 18 27
+Chilmark 0 0 0
+Clinton 2 1 3
+Cohasset 0 0 0
+Colrain 0 0 0
+Concord 2 2 4
+Dalton 0 0 0
+Danvers 2 0 2
+Dartmouth 0 0 0
+Dedham 6 0 6
+Deerfield 0 0 0
+Dennis 1 0 1
+Dighton 0 0 0
+Douglas 0 0 0
+Dover 0 0 0
+Dracut 0 0 0
+Dudley 0 0 0
+Dunstable 0 0 0
+Duxbury 1 0 1
+East Bridgewater 1 1 2
+East Brookfield 0 0 0
+35
+
+Appendix Table 8. (continued) Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+Eastham 0 0 0
+Easthampton 0 0 0
+Easton 0 0 0
+Edgarton 0 0 0
+Egremont 0 0 0
+Erving 0 0 0
+Essex 0 0 0
+Everett 0 16 16
+Fairhaven 5 4 9
+Fall River 12 3 15
+Falmouth 1 0 1
+Fitchburg 6 4 10
+Foxborough 0 0 0
+Framingham 2 6 8
+Franklin 2 1 3
+Freetown 1 1 2
+Gardner 5 2 7
+Georgetown 0 0 0
+Gill 0 0 0
+Gloucester 0 0 0
+Goshena 0 0 0
+Grafton 2 1 3
+Granby 1 0 1
+Granville 0 0 0
+Great Barrington 0 1 1
+Greenfield 2 0 2
+Groton 0 0 0
+Groveland 0 0 0
+Hadley 0 3 3
+Hamilton 0 0 0
+Hampden 0 0 0
+a Agency began using Electronic Control Weapons in 2023.
+Note: Agencies can acquire ECWs throughout the year, so an agency’s first reporting year may not span
+a full 12 months.
+36
+
+Appendix Table 8. (continued) Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+Hanson 0 0 0
+Hardwick 0 1 1
+Harvard 0 0 0
+Harwich 0 0 0
+Hatfield 0 0 0
+Haverhill 3 0 3
+Hingham 1 0 1
+Hinsdale 0 0 0
+Holbrook 2 2 4
+Holden 0 0 0
+Holland 0 0 0
+Holliston 0 0 0
+Holyoke 6 8 14
+Hopedale 0 0 0
+Hopkinton 0 0 0
+Hubbardston 0 0 0
+Hudson 0 0 0
+Hull 1 1 2
+Ipswich 0 2 2
+Kingston 0 0 0
+Lakeville 0 0 0
+Lanesborough 0 0 0
+Lawrence 11 28 39
+Lee 0 0 0
+Leicester 0 0 0
+Lenox 0 0 0
+Leominster 9 2 11
+Leverett 0 0 0
+Lincoln 0 0 0
+Littleton 0 0 0
+Longmeadow 0 0 0
+Lowell 11 3 14
+Ludlow 1 2 3
+Lunenburg 1 3 4
+37
+
+Appendix Table 8. (continued) Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+Lynn 14 3 17
+Lynnfield 0 0 0
+Manchester-by-the-Sea 0 0 0
+Mansfield 3 1 4
+Marblehead 0 0 0
+Marion 0 0 0
+Marlborough 2 1 3
+Marshfield 0 0 0
+Mashpee 2 0 2
+Maynard 0 0 0
+Medfield 0 0 0
+Medway 0 0 0
+Mendon 0 0 0
+Merrimac 0 0 0
+Methuen 4 0 4
+Middleborough 2 3 5
+Middleton 0 0 0
+Milford 0 2 2
+Millbury 4 0 4
+Millis 0 0 0
+Millville 0 0 0
+Milton 3 0 3
+Monson 1 0 1
+Montague 0 0 0
+Nantucket 0 5 5
+Natick 0 1 1
+Needham 0 1 1
+New Bedford 12 12 24
+New Braintree 0 0 0
+New Marlborough 0 0 0
+New Salem 0 0 0
+Newbury 0 0 0
+Newburyport 0 0 0
+Norfolk 1 0 1
+North Adams 2 1 3
+38
+
+Appendix Table 8. (continued) Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+North Andover 0 0 0
+North Attleborough 1 1 2
+North Brookfield 0 0 0
+North Reading 0 0 0
+Northborough 3 0 3
+Northbridge 1 0 1
+Northfield 0 0 0
+Norton 0 0 0
+Norwell 0 0 0
+Norwood 1 2 3
+Oak Bluffs 0 0 0
+Oakham 0 0 0
+Orange 0 0 0
+Orleans 1 0 1
+Oxford 4 1 5
+Palmer 0 0 0
+Paxton 0 0 0
+Peabody 1 2 3
+Pembroke 1 1 2
+Pepperell 1 1 2
+Petersham 0 0 0
+Phillipston 0 0 0
+Pittsfield 3 0 3
+Plainville 0 0 0
+Plymouth 3 3 6
+Plympton 0 0 0
+Princeton 1 0 1
+Provincetown 2 2 4
+Quincy 0 5 5
+Randolph 4 0 4
+Raynham 0 0 0
+Reading 0 0 0
+Rehoboth 0 3 3
+Revere 1 1 2
+39
+
+Appendix Table 8. (continued) Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+Rockland 1 0 1
+Rowley 1 0 1
+Royalston 0 0 0
+Rutland 2 0 2
+Salem 0 0 0
+Salisbury 1 0 1
+Sandwich 3 0 3
+Scituate 0 0 0
+Seekonk 0 0 0
+Sharon 0 0 0
+Sheffield 0 0 0
+Sherborn 0 0 0
+Shirley 0 0 0
+Shrewsbury 2 8 10
+Shutesbury 0 0 0
+Somerset 1 0 1
+South Hadley 0 0 0
+Southborough 0 0 0
+Southbridge 19 2 21
+Southwick 2 0 2
+Spencer 3 0 3
+Springfield 11 21 32
+Sterling 0 0 0
+Stockbridge 0 1 1
+Stoneham 2 0 2
+Stoughton 1 3 4
+Stow 0 0 0
+Sturbridge 1 0 1
+Sudbury 0 0 0
+Sunderland 0 0 0
+Sutton 1 0 1
+Swampscott 0 0 0
+Swansea 0 0 0
+Taunton 10 4 14
+Templeton 0 0 0
+40
+
+Appendix Table 8. (continued) Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+Tewksbury 0 3 3
+Tisbury 0 0 0
+Tolland 0 0 0
+Topsfield 0 0 0
+Townsend 0 0 0
+Truro 1 0 1
+Tyngsborough 0 0 0
+Upton 0 0 0
+Uxbridge 0 0 0
+Wakefield 0 0 0
+Wales 0 0 0
+Walpole 8 0 8
+Ware 0 1 1
+Wareham 4 2 6
+Warren 0 0 0
+Warwick 0 0 0
+Watertown 0 0 0
+Webster 6 11 17
+Wellesley 0 0 0
+Wellfleet 0 0 0
+Wenham 0 0 0
+West Boylston 0 0 0
+West Bridgewater 1 0 1
+West Brookfield 0 0 0
+West Newbury 0 0 0
+West Springfield 5 30 35
+West Stockbridge 0 0 0
+West Tisbury 0 0 0
+Westborough 2 0 2
+Westfield 10 5 15
+Westford 0 0 0
+Westhampton 0 0 0
+Westminster 0 1 1
+Westport 0 1 1
+Westwood 0 0 0
+41
+
+Appendix Table 8. (continued) Municipal ECW Deployments by Agency, 2023
+Number of ECW Deployments
+Probe
+Agency Name Stuns Total
+Cycles
+Weymouth 1 2 3
+Whately 0 0 0
+Whitman 0 1 1
+Williamsburg 0 0 0
+Williamstown 1 0 1
+Wilmington 1 0 1
+Winchendon 1 0 1
+Winchester 0 0 0
+Woburn 0 0 0
+Worcester 17 11 28
+Worthington 0 0 0
+Wrentham 0 0 0
+Yarmouth 0 2 2
+Total 359 343 702
+42
+
+TERMS AND DEFINITIONS
+These terms and definitions are provided to law enforcement agencies on the ECW
+reporting application where the report is submitted.
+Electronic Control Weapon (ECW): A stun gun as defined in M.G.L. c. 140, § 121, or
+any portable device or weapon, regardless of whether it passes an electrical shock by
+means of a dart or projectile via a wire lead, from which an electrical current, impulse,
+wave or beam that is designed to incapacitate temporarily by causing neuromuscular
+incapacitation or pain so that an officer can regain and maintain control of the subject.
+ECW Agency: A law enforcement agency in Massachusetts with electronic control
+weapons.
+ECW Contact: Each individual officer’s deployment, warning, or display of an ECW
+towards a single subject. (Example: Four officers respond to one call and only one officer
+issues a warning and a second officer deploys a weapon on a single subject. This would
+be reported as one incident and two contacts.)
+ECW Deployment:
+Probe Deployment: The act of firing two small, dart-like probes from the ECW
+that attach to the subject. The device then delivers a 5-second electrical cycle,
+which can be repeated in order to incapacitate the subject to the point of
+submission.
+5-Second Cycle: A 5-second electrical charge resulting from a probe deployment,
+which can be repeated.
+Stun Deployment: The act of bringing the ECW device into direct contact with the
+subject’s skin or clothing in order to induce pain to the point of submission. Stuns
+can be repeated if the subject does not initially submit.
+ECW Incident: An event in which an officer or group of officers issue a warning and/or
+deploy an ECW towards a single subject. The following are the four types of reportable
+ECW applications:
+ECW Display: The ECW is removed from the holster and displayed in any manner
+to the subject to gain a subject’s voluntary compliance without actual use of the
+ECW.
+ECW Arc Display: The ECW device is activated to demonstrate the device’s
+electrical arcing to gain a subject’s voluntary compliance without actual use of the
+ECW.
+ECW Deployment/Probe Mode (Device Fired): The ECW is fired at the subject
+with the intended effect of the two wired probes making separate contact with the
+body to complete the electrical circuit causing neuromuscular incapacitation (NMI)
+43
+
+of the subject.
+ECW Deployment (Drive Stun): The ECW is activated and applied in direct
+contact with the subject’s body causing localized pain and discomfort to that
+immediate area of the body. This method will not normally immobilize a subject
+unless the drive stun also completes the electrical circuit in conjunction with at
+least one wired probe that remains connected between the subject and the ECW.
+ECW Warning:
+Laser Warning: A visual warning whereby an officer employs the laser function of
+the ECW device to indicate that an ECW will be deployed.
+Spark Warning: A visual warning whereby an officer employs a spark on a
+handheld stun device in order to demonstrate its effectiveness. Also known as an
+Arc Display.
+Verbal/Visual Warning: Any spoken words or display of the ECW that would
+indicate to a subject that an ECW may be used. This warning can include: 1) Any
+direct wording to a subject indicating or implying that an ECW will be used.
+(Example: Displaying an ECW and shouting “Stop!”), 2) Any indirect wording that
+a subject may overhear indicating or implying that an ECW is about to be
+deployed. (Example: A warning to other officers that an ECW is about to be
+deployed by saying “Taser, Taser, Taser”).
+44
+
+ABOUT THE RESEARCH AND POLICY ANALYSIS DIVISION
+The Research and Policy Analysis Division (RPAD) is a division within OGR). The
+RPAD and its Statistical Analysis Center use research and evaluation to promote public
+safety to evaluate the effectiveness of grant-funded programs and provide deeper
+understanding of public safety issues. The RPAD works on a number of projects including
+Electronic Control Weapons reporting, Provider Sexual Crime Report analysis, and the
+development of criminal justice data standards.
+ACKNOWLEDGEMENTS
+We are grateful for the 300 municipal and non-municipal law enforcement
+agencies in Massachusetts that contributed the ECW data used for this report. We
+appreciate the ongoing cooperation and support of agency officers, administrators, and
+officials who ensure submission of the ECW information despite many competing
+priorities.
+This project was supported by the U.S. Department of Justice, Office of Justice
+Programs federal grant number 2022-15PBJA-22-GG-00645-JAGX. The opinions,
+findings, conclusions, and recommendations expressed in this publication do not
+necessarily reflect the views of the U.S. Department of Justice.
+45

@@ -1,0 +1,377 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Report Pursuant to Outside Section 106
+Relative to the feasibility and efficacy of a housing construction sales
+tax exemption program
+December 2025
+Contents
+Executive Summary ....................................................................................................... 2
+Statutory Charge ........................................................................................................... 2
+Interpretation of Statutory Charge ............................................................................... 3
+Efficacy and Achievement of Goals ............................................................................. 3
+Feasibility ................................................................................................................. 4
+Cost Estimates .......................................................................................................... 7
+Number of Homes Produced Annually ..................................................................... 8
+Share of Homes in Eligible Multifamily Projects ........................................................ 8
+Mean Development Costs Per Home ....................................................................... 8
+Mean Share of Development Costs Attributable to Construction ............................... 8
+Mean Share of Construction Costs Attributable to Materials ..................................... 9
+Sales Tax Rate ........................................................................................................ 9
+Overall One-Year Cost Estimate .............................................................................. 9
+Regional Variation in Costs ..................................................................................... 9
+Alternative Approaches ................................................................................................. 9
+Conclusion ................................................................................................................. 11
+1
+
+Executive Summary
+Section 106 of the FY 2026 Budget directs the Executive Office of Housing and Livable
+Communities (HLC), in consultation with the Department of Revenue (DOR), to examine
+whether state tax policy could help mitigate construction cost volatility that is contributing
+to stalled or at-risk multifamily housing projects. Unlocking housing production is a core
+priority of the Healey-Driscoll Administration, and the policy objective reflected in Outside
+Section 106 aligns closely with the Commonwealth’s broader housing affordability and
+production goals.
+The Unlocking Housing Production Commission (UHPC) previously identified the state
+sales tax on construction materials as a potential policy lever, noting that for marginally
+feasible projects, sales tax costs can influence whether a project proceeds. In that context,
+Outside Section 106 appropriately calls for an evaluation of whether tax-based support
+could help stabilize project finances and advance housing production.
+Based on its analysis and consultation with DOR, HLC finds that a sales tax exemption
+implemented at the point of sale, as contemplated in Outside Section 106, would present
+significant design and administrative challenges. These challenges stem primarily from the
+difficulty of defining and administering eligibility criteria in a consistent, non-discretionary
+manner, as well as from the absence of mechanisms to cap fiscal exposure under an
+exemption structure.
+At the same time, the analysis reinforces the underlying policy concern motivating Outside
+Section 106: that construction cost volatility can stall otherwise viable housing projects.
+The findings suggest that alternative tax-based approaches, such as a targeted and capped
+tax credit, may offer more administrable pathways to advancing the Legislature’s
+objectives while preserving certainty for developers and fiscal control for the
+Commonwealth.
+Statutory Charge
+Section 106 of the Massachusetts FY 2026 Final Budget charges the Executive Office of
+Housing and Livable Communities (HLC) with studying the feasibility and efficacy of a
+housing construction sales tax exemption program, and with reporting on the findings of
+this study by January 1st, 2026. The full statutory charge is as follows:
+• “SECTION 106. The executive office of housing and livable communities, in
+consultation with the department of revenue, shall study the feasibility and efficacy
+of a housing construction sales tax exemption program or other form of state
+2
+
+support for multifamily housing projects that are stalled or at risk of being stalled
+due to increased cost of materials associated with federal tariffs or other economic
+volatility for which there are no state or federal subsidies available. The executive
+office shall submit a report on its findings which shall include recommendations
+regarding potential cost and how such a program would achieve statewide housing
+affordability goals. The report shall consider construction cost variation across
+regions of the commonwealth, including in geographically isolated communities.
+The report shall be filed with the clerks of the senate and the house of
+representatives, the joint committee on housing, the joint committee on revenue
+and the house and senate committees on ways and means not later than January 1,
+2026.”
+Interpretation of Statutory Charge
+For the purpose of this analysis, this report interprets a “housing construction sales tax
+exemption program” to be an exemption from sales tax at the point of sale, as governed
+under General Law - Part I, Title IX, Chapter 64H, Section 6. Specifically, this report
+interprets the statutory charge to contemplate the addition of a 5th category of exempt
+structure to paragraph (f) of Section 6, to read “The following sales and the gross receipts
+therefrom shall be exempt from the tax imposed by this chapter: […] (f) Sales of building
+materials and supplies to be used in the construction, reconstruction, alteration,
+remodeling or repair of […] (5) multifamily housing projects that are stalled or at risk of
+being stalled due to increased cost of materials associated with federal tariffs or other
+economic volatility for which there are no state or federal subsidies available.1”
+Pursuant to the statutory charge, HLC consulted with the Department of Revenue (DOR)
+throughout this study process and is grateful for their input.
+Efficacy and Achievement of Goals
+Unlocking housing production is a key goal of the Healey-Driscoll Administration and the
+Commonwealth’s Comprehensive Housing Plan (A Home for Everyone | Mass.gov)
+“estimates that Massachusetts needs to add 222,000 homes to the supply from 2025 –
+2035 to meet growing demand and prevent runaway home prices.” Mitigating the risks
+facing multifamily housing projects is key to achieving this goal and is a core aim of the
+policy contemplated in Outside Section 106.
+The Building for Tomorrow report of the Unlocking Housing Production Commission (UHPC)
+recommends that the Commonwealth adopt a tax credit to offset sales tax on building
+1 Bolded language inserted from statutory charge
+3
+
+materials used in multifamily housing production. The Commission outlined the challenge
+such an exemption would address:
+• “Over the past five years, material costs have increased by over 40% nationwide,
+significantly impacting and limiting new housing production.2 In Massachusetts,
+challenges have been particularly severe – the Commonwealth has among the
+highest construction costs in the country.3 Local developers estimate that the
+impact of the MA state sales tax (6.25%) for building materials accounts for 1.5 - 5%
+of project costs (depending on the type of housing).4 Thus, for marginally profitable
+housing projects, the state sales tax can have serious implications on whether or
+not a project progresses.”
+HLC’s analysis described below indicates that the share of project costs attributable to
+sales tax is probably around 1.5% - 2.0% of total project costs. Project viability is complex
+and hinges on changes in material costs, labor costs, carrying and development costs
+related to permitting and entitlement timelines, financing costs, and projected future rent
+flows, all of which are sensitive to policy and subject to change. Given these complexities
+and the lack of information about stalled projects, it was not possible to estimate the
+number of units unlocked by the relatively small change to one element of project finance.
+However, any additional support can help to make more projects feasible.
+Feasibility
+HLC analyzed two broad aspects of implementation for their feasibility: (1) identifying
+projects that would be eligible for the exemption as described in Section 106; and (2)
+implementing the exemption itself for eligible projects.
+Feasibility of defining eligible projects: As written in the legislation, the sales tax
+exemption contemplates a three-part test to determine if a project meets the eligibility
+standards set forth in Section 106.
+1. Qualifying Project Test: Is the project a “multifamily housing project”?
+2 Federal Reserve Bank of St. Louis, “All-Transactions House Price Index for Massachusetts,” FRED, Federal
+Reserve Bank of St. Louis, accessed January 25, 2025, https://fred.stlouisfed.org/series/WPUSI012011.
+3 Kristina Zagame, “Cost of Building a Home by State,” Today’s Homeowner, accessed January 25, 2025,
+https://todayshomeowner.com/home-finances/guides/cost-of-building-a-home-by-state/; Roof
+Observations, “Relative Construction Costs by State,” Roof Observations, accessed January 25, 2025,
+https://roofobservations.com/relative-construction-costs-by-state/.
+4 Footnote carried over from UHPC report: “Estimates are provided by members of the developer community
+and are highly preliminary and subject to further validation.”
+4
+
+2. Qualifying Status Test: Is the project “stalled or at risk of being stalled”?
+3. Qualifying Reason Test: Is the Qualifying Status attributable to the “increased cost
+of materials associated with federal tariffs or other economic volatility for which
+there are no state or federal subsidies available”? This would require consideration
+of four subtests:
+a. Increased Cost Subtest: Have material costs increased since the project was
+initially contemplated or proposed?
+b. Attribution Subtest: Is the Qualifying Status attributable to this increased
+cost?
+c. Nexus Subtest: Is the increased cost of materials associated with federal
+tariffs or other economic volatility?
+d. Resource Scarcity Subtest: Are there no state or federal subsidies available
+to help close the resulting financing gap?
+After evaluating these tests and subtests, this report reaches the following conclusions:
+• Implementing the Qualifying Project Test would be feasible, as multifamily housing
+projects can be clearly defined based on a unit threshold established in statute or
+regulation, and the policy scope could be delineated to apply to new construction,
+substantial rehabilitation, or both.
+• Implementing the Qualifying Status Test would require project-specific financial
+and market analysis to determine whether a project is stalled or at risk of being
+stalled. Such determinations are inherently case-specific and would be difficult to
+standardize into a clear, non-discretionary eligibility framework.
+• Implementing the Qualifying Reason Test would present additional design and
+administrative considerations:
+o The Increased Cost Subtest would require the Commonwealth to receive and
+review before-and-after project pro formas, introducing data collection and
+verification challenges.
+o The Attribution Subtest would require isolating the impact of increased
+material costs from other factors affecting project feasibility, which is
+difficult given the number of variables that influence project sources and
+uses.
+5
+
+o The Nexus Subtest would require applying macroeconomic conditions, such
+as tariffs or broader economic volatility, to individual project finances, which
+may be difficult to assess consistently at the project level.
+o The Resource Scarcity Subtest would require evaluating both committed and
+potentially available public subsidies on a project-by-project basis, including
+whether additional resources could reasonably be pursued to address
+financing gaps.
+This analysis indicates that while the Qualifying Project Test could be implemented through
+clear statutory or regulatory definitions, the remaining eligibility criteria would require
+individualized, project-level determinations that are difficult to standardize or administer
+on a non-discretionary basis at scale. As a result, the exemption framework as written
+would present certain design and administrative challenges, while also suggesting the
+potential value of alternative approaches that could advance the same policy objectives
+through more administrable mechanisms. Those alternative approaches are discussed
+later in this report.
+Feasibility of implementing the exemption for eligible projects: If the Commonwealth
+were able to identify eligible projects through a clear and streamlined eligibility review
+process, it could likely implement a sales tax exemption for those projects, as such an
+exemption would generally align with the structure of existing project-specific exemptions
+in state law.
+Specifically, once a project is determined to be eligible, the exemption could be
+administered in a manner similar to the existing exemptions under paragraph (f) of M.G.L.
+Chapter 64H, Section 6. This section of the General Laws establishes sales tax exemptions
+for building materials, supplies, and certain construction-related rentals when those items
+are used for specific, narrowly defined construction projects that serve public or charitable
+purposes.
+Under the existing framework in Chapter 64H, Section 6, a governmental body or qualifying
+organization must obtain a certificate from the Commissioner of Revenue confirming
+eligibility for the exemption, and vendors must maintain records of each exempt sale,
+including purchaser information and certificate details.
+At the same time, DOR identified several considerations that would affect the
+administration of a broad exemption applicable to stalled or at-risk multifamily housing
+projects.
+Because exempt property may also be purchased for non-exempt purposes, a sales tax
+exemption of this nature would require robust compliance and oversight mechanisms. As
+6
+
+transaction-level detail is not provided to DOR when sales tax is remitted, misuse of an
+exemption would generally be identified only through subsequent audit activity.
+Vendors would face similar compliance challenges, as they may not always have sufficient
+information at the point of sale to determine whether a purchaser intends to use the
+property for an exempt purpose or whether the purchase ultimately qualifies for the
+exemption.
+Cost Estimates
+Exemption-based tax programs are not well suited to firm cost caps because they are not
+funded through annual appropriations, but instead operate as an entitlement available to
+all qualified taxpayers. Accordingly, the cost estimates presented below are intended to
+illustrate the potential fiscal exposure associated with such a program under a set of
+reasonable assumptions, rather than to establish an absolute or binding cost to the
+Commonwealth.
+The cost each year can be approximated as the product of six inputs:
+1. The number of homes built in a given year.
+2. The share of those homes that are in eligible projects (for purposes of this analysis,
+all multifamily developments are treated as presumptively eligible).
+3. The mean development costs per home in an eligible project.
+4. The mean share of development costs attributable to construction.
+5. The mean share of construction costs attributable to materials .
+6. The applicable sales tax rate.
+Applying these assumptions yields an estimated first-year cost of approximately
+$103,125,000, based on 2025 cost conditions. This estimate would be expected to change
+over time as construction costs evolve and as housing production increases in furtherance
+of the Healey-Driscoll Administration’s goal of producing 222,000 new homes by 2035.
+It is important to note that this figure represents an upper-bound estimate, as it assumes
+that all multifamily projects would qualify for the exemption; a more targeted program
+design limited to a subset of developments would be expected to result in a lower overall
+cost.
+7
+
+Number of Homes Produced Annually
+The Census Address Count Listing Files suggest that between the Decennial Census and
+July 2025, 97,656 homes were added to the Massachusetts housing stock on net. Dividing
+this number by the 5.25 years covered in the analysis period suggests that 18,600 homes
+were produced each year. Rounding this number up to 20,000 homes per year of gross
+production helps account for redevelopment that replaces existing homes, as this
+redevelopment activity cannot be measured directly on a statewide basis through the
+Address Count Listing Files.
+Share of Homes in Eligible Multifamily Projects
+Approximately 50% of homes completed in recent years in Massachusetts are in
+multifamily projects, defined as any new construction with two or more units.5 While it is
+unlikely that every multifamily project would be considered an eligible project for the
+purpose of any exemption policy, this report assumes that every multifamily project would
+qualify for the purpose of this cost estimate.
+Mean Development Costs Per Home
+In the A Home For Everyone Construction Finance Explainer, HLC referenced a developer
+survey that found that mean development costs in Massachusetts at $550,000 per home
+for large multifamily projects.6
+Mean Share of Development Costs Attributable to Construction
+In the A Home For Everyone Construction Finance Explainer, HLC estimated that actual
+construction costs (“hard costs”) account for 75% of total development costs.7 While this
+varies by project and location, the 75% share is consistent with other industry sources.
+5 EOHLC tabulations of ACS 2024 1-year estimates (table B25127). As of the 2024 American Community
+Survey, 53,153 occupied homes built 2020 or later statewide. 25,716 are single-family, 1,971 are 2-4 units,
+and the remaining 25,466 are larger. Accounting for uncertainty of where the multifamily threshold will be
+drawn, HLC approximated the multifamily share of the stock at 50%. Please note that these numbers are
+used only for the purpose of estimating the multifamily share of recently completed stock, and are not
+directly comparable to the Census Address Count listing files, as they cover a shorter time window and
+include only currently occupied units.
+6 Home for Everyone: Construction Finance Explainer | Mass.gov
+7 Home for Everyone: Construction Finance Explainer | Mass.gov
+8
+
+Mean Share of Construction Costs Attributable to Materials
+The large multifamily housing and commercial real estate developer Cushman and
+Wakefield reports that 40% of construction costs (AKA “hard costs”) for multifamily
+housing are related to materials.8
+Sales Tax Rate
+For this analysis, HLC assumes that the sales tax rate will remain 6.25%.
+Overall One-Year Cost Estimate
+Component HLC-Estimated Value
+Annual homes produced 20,000
+Share of homes in eligible multifamily projects 50%
+Mean development costs per home $550,000
+Share of development costs attributable to construction 75%
+Share of construction costs attributable to materials 40%
+Sales tax rate 6.25%
+Overall estimate $103,125,000
+Regional Variation in Costs
+While certain construction inputs may vary regionally, particularly where materials are
+locally sourced or transportation costs are labor-intensive, many key building materials
+such as steel and timber are traded on national or international markets, which limits
+regional variation in material prices across most of the Commonwealth. Projects in
+geographically isolated areas, including the Islands, may face higher costs for certain line
+items. For example, a recent analysis from a Nantucket-based real estate firm noted
+elevated transportation costs for both materials and labor, as well as increased risk of
+weather-related transportation disruptions that can delay projects and increase costs,
+which are often passed through to project sponsors.9
+Alternative Approaches
+Consistent with Outside Section 106’s directive to consider “other forms of state support,”
+HLC also reviewed alternative policy approaches that could advance the objective of
+mitigating construction cost volatility while addressing the feasibility considerations
+identified above.
+8 The Impact of Tariffs on CRE Construction Costs | US | Cushman & Wakefield, chart 3.
+9 Rising Construction Costs on Nantucket - Fisher Real Estate Nantucket
+9
+
+In its Building for Tomorrow report, the Unlocking Housing Production Commission (UHPC)
+proposed a related policy approach in the form of a project-specific tax credit to offset
+sales tax costs for new multifamily housing projects or substantial rehabilitations that
+either (a) are located in communities with median household incomes below 120% of the
+state average, or (b) include at least 15% affordable units.
+The UHPC further offered a set of design considerations intended to promote
+administrative clarity, fiscal control, and equitable access, including recommendations to:
+• Model the details of the program on the manufacturing tax exemption in M.G.L.
+Chapter 64H, Sections 6(r) and 6(s).
+• Limit the program to a certain number of projects per year, capping state liability.
+• Provide for the tax exemption to be secured following project approval, submitted
+to HLC for tracking, and to expire within two years if the project has not commenced
+construction.
+• Make the program as simple as possible to allow smaller developers with less staff
+capacity to benefit.
+• Consider including a set-aside for rural communities and/or smaller developers.
+• Provide guardrails to certify that any qualifying rehabilitation project does not
+displace residents.
+• Sunset the program after five years unless extended. This would allow the
+legislature to assess program success and adjust based on new capital market
+dynamics.
+While the UHPC’s recommendations do not represent the official position of the Healey-
+Driscoll Administration, the Commission’s expert members provided valuable analysis and
+guidance through their final report. HLC is transmitting those elements of the UHPC’s work
+that are most directly relevant to the statutory charge set forth in Outside Section 106.
+Another alternative approach would be the establishment of a state income tax credit
+program. Tax credits can offer greater predictability and fiscal control than exemptions by
+allowing the Commonwealth to cap total annual awards and provide the administering
+agency with discretion over allocation. Such a program could be structured based on
+eligible costs incurred by developers and tailored to target projects most aligned with
+statewide housing goals.
+10
+
+At the same time, different tax mechanisms present different tradeoffs. A sales tax
+exemption provides a benefit at the point of purchase, delivering immediate cash-flow
+relief to developers, while a tax credit is typically claimed after costs are incurred and
+applied against personal income or corporate excise tax liability in a subsequent tax year.
+Under a tax credit structure, vendors would continue to remit sales tax in the ordinary
+course, and DOR would not be required to examine transaction-level eligibility during
+audits.
+Tax credit programs also offer flexibility in design and administration, including the ability to
+structure credits as refundable or transferable, or to allow credits to be claimed over
+multiple tax years. These features may provide additional tools to align program design with
+policy objectives while addressing the administrative and fiscal considerations discussed
+earlier in this report.
+Conclusion
+In Outside Section 106, the General Court charged HLC with examining potential policy
+responses to a challenging development environment characterized by increased material
+costs associated with federal tariffs and broader economic volatility, for which limited state
+or federal subsidies are currently available.
+Housing production depends on certainty. Developers rely on predictable assumptions
+regarding construction costs, allowable density, permitting timelines, and the availability of
+subsidies in order to assemble financing and move projects forward. When those
+assumptions become uncertain, projects may be delayed or may not proceed.
+Accordingly, HLC evaluated the proposal in Outside Section 106 through a lens of certainty,
+focusing on whether the proposed exemption framework could provide clear, timely, and
+non-discretionary determinations of eligibility. While some elements of the proposal could
+be clearly defined, other aspects of the charge as written would be difficult to implement in
+a way that consistently yields predictable outcomes at scale or provides effective fiscal
+control.
+At the same time, the analysis affirms that the core objective of Outside Section 106—to
+mitigate construction cost volatility and support housing production—is well aligned with
+the Commonwealth’s housing goals. The findings point toward the potential value of
+alternative policy approaches that could achieve these objectives through more
+administrable mechanisms, including structures that allow for clearer eligibility standards,
+predictable outcomes for developers, and greater fiscal oversight. These approaches merit
+11
+
+consideration as the Commonwealth continues to explore tools to unlock housing
+production.
+12

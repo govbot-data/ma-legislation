@@ -1,0 +1,224 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+SENATE DOCKET, NO. 3007 FILED ON: 6/25/2025
+SENATE . . . . . . . . . . . . . . No.
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Liz Miranda
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act to ensure non-discrimination by improving algorithmic system.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS:
+Liz Miranda Second Suffolk
+1 of 1
+
+SENATE DOCKET, NO. 3007 FILED ON: 6/25/2025
+SENATE . . . . . . . . . . . . . . No.
+By Ms. Miranda, a petition (accompanied by bill) (subject to Joint Rule 12) of Liz Miranda for
+legislation to ensure non-discrimination by improving algorithmic system. Advanced
+Information Technology, the Internet and Cybersecurity.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act to ensure non-discrimination by improving algorithmic system.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 The General Laws, as so appearing, are hereby amended by inserting after chapter 151F
+2 the following chapter:
+3 CHAPTER 151G. Unlawful Algorithmic Discrimination
+4 Section 1. Definitions
+5 For the purposes of this chapter, all definitions set forth in section 1 of chapter 151B shall
+6 apply unless otherwise specified. Any term not explicitly defined in this section shall be
+7 interpreted following its plain and ordinary meaning, consistent with the purpose and intent of
+8 this chapter. The following terms shall, unless the context clearly requires otherwise, have the
+9 following meanings: —
+1 of 9
+
+10 “Affirmative action plan", efforts to expand an applicant, participant, or customer pool to
+11 raise the likelihood of increasing diversity or redressing historic discrimination, consistent with
+12 Massachusetts and federal law.
+13 “Automated system”, any system, software, or process that uses computation as whole or
+14 part of a system to determine outcomes, make or aid decisions, inform policy implementation,
+15 collect data or observations, or otherwise interact with individuals and/or communities.
+16 Automated systems include, but are not limited to, systems derived from machine learning,
+17 statistics, or other data processing or artificial intelligence techniques, and exclude passive
+18 computing infrastructure.
+19 “Passive computing infrastructure”, any intermediary technology that does not influence
+20 or determine the outcome of decision, make or aid in decisions, inform policy implementation, or
+21 collect data or observations, including web hosting, domain registration, networking, caching,
+22 data storage, or cybersecurity.
+23 “Algorithmic eligibility determination”, a determination based in whole or in significant
+24 part on an automated system to decide whether an individual or class of individuals qualifies for
+25 a fundamental opportunity;
+26 “Algorithmic targeting determination", a determination based in whole or in significant
+27 part on an automated system to determine an individual’s receipt of advertising, marketing,
+28 solicitations, or offers for a fundamental opportunity;
+29 “Artificial intelligence”, a machine-based system that can, for a given set of human-
+30 defined objectives, make predictions, recommendations or decisions influencing real or virtual
+31 environments. Artificial intelligence systems use machine and human-based inputs to perceive
+2 of 9
+
+32 real and virtual environments; abstract such perceptions into models through analysis in an
+33 automated manner; and use model inference to formulate options for information or action.
+34 “Automated decision system”, a tool or a suite of tools that uses artificial intelligence or
+35 another automated system to make an algorithmic eligibility determination, algorithmic targeting
+36 determination, recommendation, classification, or categorization;
+37 “Covered entity”, any person, business, organization, or government agency that is
+38 subject to the jurisdiction of the Commonwealth of Massachusetts, excluding an individual
+39 acting at their own direction and in a non-commercial context.
+40 “Fundamental opportunity”, access to, security and authentication relating to, eligibility
+41 for, cost of, terms of, or conditions related to any of the following:
+42 (a) Employment, including hiring, pay, independent contracting, worker management,
+43 promotion, and termination.
+44 (b) Education and vocational training, including assessment, proctoring, promotion of
+45 academic integrity, accreditation, certification, admissions, and provision of financial aid and
+46 scholarships.
+47 (c) Housing and lodging, including rental and short-term housing and lodging, home
+48 appraisals, rental subsidies, and publicly supported housing.
+49 (d) Essential utilities, including electricity, heat, water, municipal trash or sewage
+50 services, internet, telecommunications service (including mobile phone service), and public
+51 transportation.
+3 of 9
+
+52 (e) Healthcare, including mental healthcare, dental, vision, reproductive, and gender-
+53 affirming care.
+54 (f) Credit, banking, and other financial services.
+55 (g) Insurance.
+56 (h) Actions of the criminal justice system, law enforcement or intelligence operations,
+57 child protective services, child welfare, and family services, including risk and threat
+58 assessments, situational awareness and threat detection, investigations, watchlisting, bail
+59 determinations, sentencing, administration of parole, surveillance, use of unmanned vehicles and
+60 machines, and predictive policing.
+61 (i) Government benefits and services, as well as identity verification, fraud prevention,
+62 and assignment of penalties related to such benefits.
+63 (j) adoption services.
+64 “Protected characteristics”, race, color, religious creed, national origin, sex, gender
+65 identity, sexual orientation, genetic information, pregnancy, or a condition related to said
+66 pregnancy including, but not limited to, breastfeeding, lactation or the need to express breast
+67 milk for a nursing child, ancestry or status as a veteran of any individual, and other
+68 characteristics protected by chapter 151B. The term “protected characteristic” shall also be
+69 construed to include any combination of two or more protected characteristics.
+70 “Regular”, a frequency for audits which is reasonable given the system being audited and
+71 which shall be at least every ninety days.
+4 of 9
+
+72 “Timely”, within thirty days of any substantial change or update to an automated decision
+73 system.
+74 Section 2. Ban on Algorithmic Discrimination
+75 (a) A covered entity shall not use an automated decision system to make or inform
+76 decisions pertaining to fundamental opportunities in a manner that has the purpose or effect of
+77 discriminating against a person or class of persons on the basis of a protected characteristic.
+78 (b) Nothing in this Act shall prohibit covered entities from using individuals’ personal
+79 information to plan, guide, or implement an affirmative action plan that is otherwise compliant
+80 with Massachusetts and federal law.
+81 (c) Nothing in this Act shall prohibit covered entities from using an automated decision
+82 system for the purpose of self-testing to identify, prevent, or mitigate discrimination, or
+83 otherwise ensure compliance with obligations, under Massachusetts or federal law.
+84 Section 3. Requirements for Covered Entities Using Automated Decision Systems
+85 Pertaining to Fundamental Opportunities
+86 (a) Covered entities using automated decision systems to make or inform decisions
+87 pertaining to fundamental opportunities must:
+88 (1) conduct regular and/or timely audits to detect and mitigate any discriminatory
+89 purposes or effects;
+90 (2) maintain documentation of the system's design, training and evaluation data, decision-
+91 making processes, audit outcomes, and any actions taken as a result of an audit;
+5 of 9
+
+92 (3) provide clear notice to persons when such systems are being used in a decision-
+93 making process pertaining to their access to a fundamental opportunity or terms or conditions
+94 thereof; and
+95 (4) allow the persons to opt out of the use of the automated decision system. Methods to
+96 opt out shall be no more cumbersome than the steps required to trigger use of the system. No
+97 person shall be penalized in any way for opting out of the use of any automated decision system.
+98 (5) require in writing that any service provider providing an automated decision system
+99 implement and maintain measures reasonably designed to ensure that the service provider
+100 complies with requirements of this Act.
+101 (6) Make available, in a manner that is clear and readily available on the entity’s website
+102 or in a public use case inventory, a statement summarizing:
+103 (I) The automated decision systems being used to make or inform decisions pertaining to
+104 fundamental opportunities, including the process by which the automated decision system is used
+105 in relation to fundamental opportunities;
+106 (II) The datasets used in the development of the automated decision system, including but
+107 not limited to:
+108 (i) The sources or owners of the datasets,
+109 (ii) The size of the datasets,
+110 (iii) The nature of the information collected in the datasets,
+6 of 9
+
+111 (iv) Whether the datasets include any data protected by copyright, trademark, or patent,
+112 or whether the datasets are entirely in the public domain,
+113 (v) The methods of dataset acquisition, including whether the datasets were purchased or
+114 licensed by the entity,
+115 (vi) Whether the datasets include personal information as defined in Chapter 93H,
+116 Section 1, and
+117 (vii) The time period during which the datasets were collected, including a notice if the
+118 collection is ongoing.
+119 (III) How the covered entity manages known or reasonably foreseeable risks of
+120 algorithmic discrimination that may arise from the development or intentional and substantial
+121 modification of the types of systems described.
+122 This requirement shall not be construed as a requirement for a covered entity to publicly
+123 disclose a trade secret or information protected from disclosure by state or federal law.
+124 (b) When a covered entity uses an automated decision system to make or inform a
+125 decision pertaining to a fundamental opportunity for a minor person, the notice and opt-out
+126 requirements above shall apply to any of the minor’s parents and/or legal guardians.
+127 (c) Covered entities that offer, provide, decide eligibility for, or otherwise make available
+128 any product or service related to fundamental opportunities must offer an option to interact with
+129 a human to receive support related to that product or service. This option shall exist regardless of
+130 whether the covered entity uses artificial intelligence or an automated decision system in relation
+131 to the product or service and must be clear and conspicuous. A covered entity that offers, sells,
+7 of 9
+
+132 leases, licenses, gives, or otherwise makes available an artificial intelligence or other automated
+133 decision system that is intended to interact with individuals shall ensure the disclosure to each
+134 individual who interacts with the artificial intelligence system that the individual is interacting
+135 with an artificial intelligence system and that they have the option to interact with a human
+136 instead.
+137 Section 4. Liability
+138 (a) Liability for violations of this Act shall attach to covered entities regardless of
+139 whether:
+140 (1) The violation is in whole or in part the fault of an automated decision system;
+141 (2) The covered entity relies in whole or in part on a service provider for the automated
+142 decision system;
+143 (3) The covered entity complies with federal law; or
+144 (4) The covered entity is aware of the discriminatory purpose or effect of the automated
+145 decision system.
+146 (b) Any provision of a contract or agreement of any kind, including a covered entity’s
+147 terms of service or policies, that purports to waive or limit in any way a person’s rights under
+148 this Act, including but not limited to any right to a remedy or means of enforcement, shall be
+149 deemed contrary to state law and shall be void and unenforceable.
+150 (c) In cases of violations where the covered entity relies in whole or in part on one or
+151 more service providers, the covered entity and service providers shall be held jointly and
+152 severally liable in any action authorized under this Act.
+8 of 9
+
+153 Section 5. Enforcement, Remedies, and Penalties
+154 (a) Any person aggrieved by a violation of this Act shall have a right of action in the
+155 Massachusetts Superior Court or as a supplemental claim in any federal court of competent
+156 jurisdiction against an offending party. A prevailing party may recover for each violation:
+157 (1) against an entity that negligently violates a provision of this Act, liquidated damages
+158 of $5,000 or actual damages, whichever is greater;
+159 (2) against an entity that intentionally or recklessly violates a provision of this Act,
+160 liquidated damages of $5,000 or actual damages, whichever is greater;
+161 (3) reasonable attorneys' fees and costs, including expert witness fees and other litigation
+162 expenses; and
+163 (4) equitable relief, as the State or federal court may deem appropriate.
+164 (b) Violations of this Act by a Massachusetts state, county, or municipal government
+165 employee shall be reasonably disciplined by their supervising agency. Disciplinary measures
+166 may include retraining, suspension, or termination, subject to due process requirements and
+167 provisions of collective bargaining agreements.
+168 (c) Nothing in this section shall be construed to limit any person’s rights under state or
+169 federal law.
+170 Section 6. Sections 4 and 5 of this Act shall take effect 6 months after enactment.
+9 of 9

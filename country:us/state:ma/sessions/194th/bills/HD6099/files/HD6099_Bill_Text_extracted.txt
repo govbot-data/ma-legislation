@@ -1,0 +1,2019 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+December 18, 2025
+Via Electronic Mail
+James M. Malkin Robert B. Davis Alex Kryska
+Chair General Manager General Manager-Designee
+Steamship Authority Board Steamship Authority Steamship Authority
+Nathaniel E. Lowell Kristy Senatori Phillip Eng
+Chair Executive Director Interim Secretary
+Steamship Authority Port Council Cape Cod Commission Mass. Dept. of Transportation
+The Hon. Brendan P. Crighton The Hon. James Arciero
+Co-Chair Co-Chair
+Joint Committee on Transportation Joint Committee on Transportation
+Re: Steamship Authority’s Website Development Project
+Dear Chair Malkin, General Manager Davis, General Manager-Designee Kryska, Chair Lowell,
+Executive Director Senatori, Interim Secretary Eng, Senator Crighton, and Representative Arciero:
+In the pages that follow, I present findings related to the Office of the Inspector General’s
+(OIG) investigation into a costly website development project undertaken and ultimately shelved by
+the Woods Hole, Martha’s Vineyard and Nantucket Steamship Authority (Steamship Authority). As
+the OIG’s investigation makes clear, the project encountered a litany of problems in terms of planning,
+execution, and oversight. The result so far is that the Steamship Authority has nothing to show after
+pouring millions of dollars into an effort that was doomed from the start.
+The Steamship Authority is a quasi-public entity. While not technically a state agency, it
+receives many of the same benefits, including its tax-exempt status, as though it were. The Steamship
+Authority does not receive legislative appropriations, but instead funds its operations through ticket
+sales, grants, and other authorized revenue sources. Regardless of the source, all revenue that the
+Steamship Authority collects becomes public funds subject to the OIG’s oversight.
+The Steamship Authority provides “lifeline” services to the Islands’ residents, business
+owners, workers, and visitors. In calendar year 2024, the authority provided 24,000 ferry trips,
+transporting nearly 3 million passengers, 575,000 automobiles, and almost 100,000 trucks.
+A functioning website and reservations system are critical to the Steamship Authority’s
+operations. Unfortunately, the authority’s leadership and its Governing Board (Board) launched the
+website development project in 2022 without paying heed to a plethora of information indicating that
+the underlying reservation system should have received priority. Indeed, the Steamship Authority’s
+Office of the Inspector General for the Commonwealth of Massachusetts 2 | Page
+
+failure to appreciate the difference between the public-facing website and the back-end reservation
+system anchors the cascade of failures that ensued.
+Many factors contributed to this project’s unacceptable waste of public resources.
+Broadly, the Steamship Authority lacks a “tone from the top” and has failed to create a culture
+that values employee input. The Steamship Authority does not appear to have an ability or desire to
+implement a forward-thinking, strategic approach to managing projects, rather than a by-the-seat-of-
+your-pants reactive approach. Further, the Steamship Authority’s general manager and board
+members appear to be unclear of their respective roles when executing complex projects.
+Beyond this organizational malaise, the general manager made critical missteps in planning
+and executing the website project, such as ignoring the advice of the Steamship Authority’s own
+consultant and not keeping the Board fully informed on repeated delays and cost overruns. For their
+part, Board members did not ask enough questions as they heard overly optimistic, unrealistic, or
+incomplete information. They either did not understand or did not execute their oversight function,
+resulting in many instances in which they failed to exercise their fiduciary responsibilities.
+The Steamship Authority shelved the website project in 2024. It then awarded a contract for
+a new reservation system in June 2025. While some Steamship Authority officials suggest that the
+website rebuild can be salvaged and can go live once the new reservation system is delivered, this
+claim seems optimistic and suspect considering a history of inaccurate assurances by the authority’s
+leadership to its Board and the public. Without a clear path tested by experienced IT technical experts,
+the OIG cautions against connecting an untested website to a costly reservation system under
+development, or otherwise throwing more funds into this unsuccessful project.
+While this report details a troubling pattern of poor project leadership and decision-making
+that wasted millions of public dollars, the OIG is nonetheless optimistic that a new day is dawning for
+the Steamship Authority and those who depend on its services. With the arrival of a new general
+manager in January 2026, the Steamship Authority will have the opportunity to examine its operating
+procedures, consider new approaches to project management, adopt best practices, and set a true
+tone from the top.
+That said, the OIG is concerned about the “senior advisor” position that the current general
+manager is slated to take on for the next 18 months. Aside from the question of why the Board
+approved this contract, the role’s designated responsibilities cover three areas in which the current
+general manager has not demonstrated strength: strategic planning, project management, and
+implementing large projects. Further, retaining the current general manager as an “advisor” has the
+potential to impede the new general manager from setting his course for the Steamship Authority.
+And the senior advisor will continue to be paid even if his designated responsibilities are reduced or
+eliminated.
+These circumstances also give the Legislature an opportunity to evaluate the Steamship
+Authority’s governance and identify ways to improve oversight of a significant public resource.
+Office of the Inspector General for the Commonwealth of Massachusetts 3 | Page
+
+I hope this report and its recommendations will serve as a field guide for the Steamship
+Authority to make needed changes in the immediate term as the incoming general manager works to
+set the agency’s strategic vision, culture, and agenda with a view toward a “best in class” operation.
+The public deserves nothing less.
+Sincerely,
+Jeffrey S. Shapiro, Esq., CIG
+Inspector General
+cc (via email):
+OIG statutory recipients
+The Hon. Lt. Gov. Kimberley Driscoll
+Kate Cook, Chief of Staff, Office of the Governor
+Inspector General Council
+Steamship Authority Board of Governors
+Steamship Authority Port Council
+Terence G. Kenneally, Esq., General Counsel, Steamship Authority
+The Hon. Mayor Jon Mitchell, City of New Bedford
+Managers or administrators for Barnstable, Fairhaven, Falmouth, Nantucket, New Bedford, Oak Bluffs,
+and Tisbury
+Patrick M. O’Connor, Ranking Member, Senate Committee on Ways and Means
+Todd Smola, Ranking Member, House Committee on Ways and Means
+Ryan C. Fattman, Ranking Member, Senate Post Audit and Oversight
+Marcus Vaughn, Ranking Member, House Post Audit and Oversight
+Senators Julian Cyr and Dylan Fernandes
+Representatives Antonio Cabral, Kip Diggs, Christopher Hendricks, Hadley Luddy, Christopher Markey,
+Thomas Moakley, Mark Sylvia, David Vieira, and Steven Xiarhos
+Valerie Colimon, Partner, RSM US LLP
+Michael D. Hurley, Senate Clerk
+Timothy Carroll, House Clerk
+Stacy DeBole, State Librarian, State Library of Massachusetts
+Eugenia M. Carris, Esq., General Counsel, OIG
+George Xenakis, Director, Audit, Oversight and Investigations Division, OIG
+Nataliya Urciuoli, Senior Executive Assistant, OIG
+Office of the Inspector General for the Commonwealth of Massachusetts 4 | Page
+
+STNETNOC
+FO
+ELBAT
+9
+Execu�ve Summary
+12
+Steamship Authority Website – Project Timeline
+14
+Background
+28
+Findings
+28
+Pre-Project Failures
+28
+Finding 1: In the decades before the website project, the Steamship Authority
+failed to address an increasingly outdated and risky reserva�on system, crea�ng
+a culture of stagna�on that led to the fundamental misconcep�on that
+developing a new website before a new reserva�on system was workable.
+29
+Planning Failures
+29
+Finding 2: The Steamship Authority ignored a significant, known business risk
+posed by its decades-old reserva�on system when it chose to dedicate resources
+to improve website func�onality that was reliant on this system.
+30
+Finding 3: Although the Steamship Authority apparently purchased a license to
+Saber’s source code in 2010, the Authority’s poor recordkeeping led it to
+repurchase a license in 2024 at 10 �mes the cost.
+32
+Finding 4: The Steamship Authority handled federal funds irresponsibly, first by
+failing to establish clear and appropriate goals for its website redevelopment
+project, and then by missing federal grant requirements.
+34
+Finding 5: The Steamship Authority’s failure to properly scope the website
+project to account for work on APIs led to significant delays and change orders,
+and wasted public funds.
+37
+Finding 6: Steamship Authority officials underes�mated how long website
+development would take, despite warnings that their proposed �meline was
+unrealis�c.
+37
+Finding 7: The Steamship Authority’s replacement of its credit card processing
+system without planning ahead and seeking Board approval led to delays and
+cost overruns.
+
+38
+Project Management Failures
+38
+Finding 8: The General Manager appointed an unqualified Project Manager and
+failed to give him necessary resources.
+39
+Finding 9: The Steamship Authority failed to establish a scope of work or cost
+es�mate before hiring the Owner’s Representa�ve, leaving the Authority
+vulnerable to excessive costs.
+40
+Finding 10: Steamship Authority officials prevented the Board’s informed project
+oversight by withholding cri�cal documents and informa�on from the Board and
+issuing misleading statements.
+43
+Finding 11: Project delays caused the Steamship Authority to spend addi�onal
+amounts totaling more than $60,000 on contractors and services.
+44
+Oversight Failures
+44
+Finding 12: Some Board members had an unclear understanding of their
+oversight responsibili�es, leading to the Board’s failure to adequately monitor
+the Steamship Authority’s decisions throughout the website project.
+45
+Finding 13: The Steamship Authority’s procurement policy undermines the
+Board’s oversight responsibili�es.
+49
+Red Flags Con�nue
+49
+Finding 14: The Steamship Authority has not learned from its experiences during
+the website project and is maintaining poor prac�ces for future projects.
+51
+Finding 15: At a moment of significant change, the Steamship Authority is
+staying on a course that has undermined its credibility and encouraged public
+skep�cism.
+52
+Financial Losses
+54
+Recommenda�ons
+
+EXECUTIVE SUMMARY
+The Office of the Inspector General (OIG) conducted a review of the Woods Hole, Martha's
+Vineyard and Nantucket Steamship Authority’s (Steamship Authority or Authority) public procurement
+and management of services to upgrade its website and mobile app. The OIG launched its investigation in
+2023, in response to public concerns and media reports after the Steamship Authority’s website crashed
+multiple times during peak reservation periods.1
+The Steamship Authority, a quasi-public organization created by the Legislature in 1960, currently
+operates the largest ferry service to the islands of Martha’s Vineyard and Nantucket. Every ferry ticket is
+managed through the Steamship Authority’s reservation system, which it procured in 1996. To this day,
+the reservation system is maintained by the original designer, a now 70-year-old man who lives in
+Wisconsin. The public accesses the reservation system through the Authority’s website.
+In response to repeated website crashes in January 2020, the Steamship Authority decided to
+procure a new website and mobile app. In addressing the public-facing website before the back-end
+reservation system, however, the Steamship Authority failed to mitigate the glaring operational risk of
+relying on an aging, custom-built system that could only be fixed by the person who built it. The
+Authority’s leadership became blind to the underlying dilemma: that developing a new website around a
+reservation system that needed replacing would likely result in a substantial waste of time and money.
+In this report, the OIG describes the myriad failures in project planning, project management, and
+project oversight on the part of the Steamship Authority administration and its Governing Board (Board).
+The OIG found that the Steamship Authority’s General Manager continually exercised poor judgment
+during the project, regularly misdirected the Board about the project’s status, and appointed an
+unqualified project manager who proved incapable of making informed and timely decisions.
+The Board, which is charged with the Authority’s overall management, exercised virtually no
+meaningful oversight of the Authority’s spending throughout the project. The Steamship Authority threw
+good money after bad, ignored warnings from consultants and its website vendors, failed to recognize the
+limitations of its own IT staff, and misinformed its governing body about the status of the project. Finally,
+after spending more than $4 million on website development and additional maintenance, the
+technological deficit of the reservation system became too great to ignore any further. The website
+project was shelved in 2024, and in 2025 the Steamship Authority awarded a $5.7 million contract for a
+new reservation system, which is currently in development.
+In this report, the OIG makes numerous recommendations to the Steamship Authority
+administration and Board, including those related to procurement practices, project management, project
+reporting, Board engagement, and the current development of the reservations system. The OIG also
+1 See, e.g., Kristi Palma, ‘We know many of our customers are frustrated’: Steamship Authority opens Nantucket ferry
+reservations, BOSTON.COM, January 17, 2023, available at https://www.boston.com/travel/local-news/2023/01/17/steamship-
+authority-opened-nantucket-ferry-reservations-customers-frustrated/.
+Office of the Inspector General for the Commonwealth of Massachusetts 9 | Page
+
+recommends that the Legislature establish a special commission to determine whether the Authority’s
+65-year-old enabling statute is ripe for revisions or updates.
+With a new general manager set to lead the Steamship Authority in January 2026, this report also
+conveys the OIG’s concern over the Board’s retention of the outgoing general manager for 18 months as
+a senior advisor. The Board agreed to give the outgoing general manager significant responsibilities,
+ensuring his continued influence at a time when the new general manager is trying to chart a new course
+for the agency. Further, the broad responsibilities enumerated in the senior advisor’s employment
+agreement include areas in which the outgoing general manager has not demonstrated strength. Pursuant
+to the agreement, the senior advisor can resign and collect significant compensation if the incoming
+general manager exercises his managerial prerogative to limit or change the senior advisor’s
+responsibilities. The Board’s agreement with the outgoing general manager appears to be far more
+generous than is typically seen in these arrangements and more generous to the outgoing general
+manager than to the Steamship Authority. It could prove to be an obstacle for the incoming general
+manager.
+While the OIG’s investigation was limited to the website procurement, the institutional failures
+the OIG identifies in this report are ongoing and likely affect the Steamship Authority’s other major
+projects,2 daily operations,3 and general management.4 Resolving these problems will demand attention
+from the Steamship Authority’s leadership, the Board, MassDOT, and the Legislature.
+2 For example, the Steamship Authority purchased three vessels used in the offshore oil industry in 2022 and procured services
+to convert the vessels into vehicle-carrying ferries. The conversion cost and completion time significantly exceeded Steamship
+Authority expectations. See Jason Graziedei, ‘Sticker Shock’ - Steamship Approves $27 Million Contract To Retrofit New Vessels,
+NANTUCKET CURRENT, April 9, 2023, available at https://nantucketcurrent.com/news/sticker-shock-steamship-approves-27-
+million-contract-to-retrofit-new-vessels. Only two of the vessels are in operation as of this writing. See Vessels, THE STEAMSHIP
+AUTHORITY (last visited December 16, 2025), available at https://www.steamshipauthority.com/about/vessels.
+In addition, the Woods Hole terminal reconstruction project has seen numerous issues, with the original contract for waterside
+work ballooning from $43 million to $59 million after change orders. See Steamship Authority Meeting Agenda, April 19, 2022,
+available at https://www-steamship-assets.s3.amazonaws.com/files/2022_0419_board_meeting_public_packet.pdf and Ethan
+Genter, Woods Hole Terminal Construction Is Heavy Lift for All Involved, VINEYARD GAZETTE, June 26, 2025, available at
+htps://vineyardgazette.com/news/2025/06/26/new-steamship-terminal-takes-shape-woods-hole. Studies for the project began
+in 2013 and construction is ongoing into 2026, with the project budget for the terminal alone increased to $39.16 million. See
+Woods Hole Ferry Terminal Reconstruction Project Summary, July 2025 Steamship Authority Board Meeting – General
+Manager’s Report, available at https://www-steamship-
+assets.s3.amazonaws.com/files/wh_terminal_project_summary_part_2.pdf and Eunki Seonwoo, Steamship working to mitigate
+terminal congestion, MV TIMES, July 21, 2025, available at https://www.mvtimes.com/2025/07/21/steamship-working-mitigate-
+terminal-congestion/.
+3 For example, cancellations due to staffing shortages have become increasingly common. See Christina Hager, Steamship
+Authority staffing shortages leave some Cape and Islands ferry passengers stranded, CBS BOSTON, August 13, 2024, available at
+https://www.cbsnews.com/boston/news/cape-cod-ferry-staffing-marthas-vineyard/.
+4 For example, the Board recently approved a pay raise for the outgoing General Manager and appointed him to a “senior
+advisory position,” despite having accepted his resignation in 2024. See Louisa Hufstader, Steamship Board Raises General
+Manager’s Salary, THE VINEYARD GAZETTE, August 6, 2025, available at https://vineyardgazette.com/news/2025/08/06/steamship-
+board-raises-general-managers-salary. The Steamship Authority also hired a chief operating officer in April 2023 who departed
+only a year and a half later. See Sam Houghton, Steamship COO to resign, MVTIMES.COM, November 15, 2024, available at
+https://www.mvtimes.com/2024/11/15/steamship-coo-resign/.
+Office of the Inspector General for the Commonwealth of Massachusetts 10 | Page
+
+The Steamship Authority’s Website Development - Project Timeline
+2018
+Legend:
+Administrative Actions Events associated with 12/13/2018 HMS Consul�ng releases report on Steamship
+Federal Funding project delays Authority (SSA) operations.
+Change Orders
+Payments
+2020
+1/21/2020 Head Start opening leads to website crash.
+2/18/2020 SSA general manager (General Manager)
+announces plans for new website at
+SSA Board (Board) mee�ng.
+SSA treasurer makes ini�al TIP request for federal 4/23/2020
+reimbursement of four projects, including website
+and mobile app.
+MassDOT signs agreement for $3,017,051.40 9/22/2020
+reimbursement con�ngent on final state
+approval.
+MassDOT officially approves reimbursement 11/30/2020
+with No�ce to Proceed. 2/16/2021 Board approves 2021 capital budget, which
+2021 includes $2 million in expected federal
+reimbursement for a website and mobile app
+project.
+3/01/2021 SSA Website Redesign Project Committee selects
+Regan Digital to provide technical guidance for
+the website project RFP.
+6/01/2021 SSA issues RFP for the website project.
+10/19/2021 Board votes to award the website project
+contract to ADK.
+12/28/2021 SSA and ADK sign contract for website project
+with a launch date of November 2022.
+2022
+ADK, General Manager, and SSA website 2/07/2022 SSA signs merchant services agreement with
+3/31/2022
+project manager (Project Manager) agree Martha's Vineyard Savings Bank to use Eigen
+to Change Orders #1 and #2. credit card processing.
+General Manager submits request to MassDOT
+8/22/2022
+to extend the website project deadline from
+Sep. 30, 2022, to June 30, 2025.
+Project Manager tells Board the launch
+9/27/2022
+ADK, General Manager, and Project Manager 8/25/2022 will be officially delayed until March 2023
+agree to Change Orders #3 and #4. because officials need time to prepare for the
+January 2023 Head Start opening.
+SSA submits reimbursement request of
+8/30/2022
+$1,070,152.94 to MassDOT for website project.
+ADK submits change order request for $479,172. 10/03/2022
+Regan Digital writes a memo cri�cal of ADK's 10/12/2022 10/18/2022 Project Manager provides website project update
+communications with SSA and cri�cal of portions to Board; does not mention change request.
+of the change request. General Manager proposes a post-launch
+agreement with ADK for $348,000 per year to
+Project Manager presents Change Order #5 11/28/2022 Board; Board tables the measure.
+for $368,962 to Board, which approves it
+unanimously.
+12/13/2022 Board unanimously approves Statement of
+ADK, General Manager, and Project Manager 12/05/2022 Work #2 for post-launch services with ADK for
+agree to Change Order #6. (continued on $348,000.
+next page)
+
+Legend:
+Administrative Actions Events associated with (continued from
+Federal Funding project delays previous page)
+Change Orders
+Payments
+2023 1/25/2023 A�er website suffers severe slowdowns during
+Head Start opening on Jan. 17, 2023, Board
+approves developing an RFP for a consultant to
+Board unanimously approves Change Order #7 2/21/2023
+review SSA’s IT systems.
+for $165,000, pushing launch to April 30, 2023.
+ADK project manager writes memo reques�ng 3/27/2023 3/29/2023 General Manager tells Board that project
+managers “determined that moving the launch
+Change Order #8 and states ADK cannot
+to late May 2023 is the best way to deliver a
+guarantee a May launch because of SSA IT issue.
+superior experience to the Authority’s
+ADK, General Manager, and Project Manager 4/19/2023 customers.”
+agree to Change Order #8.
+ADK project manager tells Board that he
+Board approves Change Order #9 for $288,000 6/29/2023 8/15/2023 feels "very confident in an end of September or
+in a 4-to-1 vote, pushing launch date to early October launch window."
+September 2023.
+General Manager tells Board the website
+10/24/2023
+project’s internal beta site will launch in the
+beginning of November and the site will launch
+shortly a�er Thanksgiving.
+11/28/2023 General Manager tells Board that because of
+outstanding issues, the website's launch is
+2024
+delayed and could be pushed to February 2024.
+1/16/2024 Board considers postponing website launch.
+4/23/2024 SSA IT director states he is “cau�ously
+Board approves hiring Gibbous, LLC to review 4/23/2024 op�mis�c about a public beta test
+SSA’s IT systems for $245,000. launching in June 2024.”
+5/28/2024 SSA IT director tells Board public beta is
+scheduled for a�er Labor Day.
+SSA and Saber Technologies sign Amendment to 6/28/2024
+So�ware License Agreement for $350,000.
+7/16/2024 SSA IT director tells Board public beta is now
+scheduled for late September or early October.
+SSA hires IntraSystems under state blanket 7/5/2024
+contract for $155,000 to perform website
+9/17/2024 SSA IT director tells Board that management
+tes�ng.
+has decided to indefinitely delay the website in
+favor of working on reserva�on system.
+Board approves $133,250 contract with Imarc 10/15/2024 10/01/2024 SSA IT director tells Port Council that the support
+for maintenance of exis�ng website. agreement with ADK (now Stellar Elements) has
+automa�cally renewed for six months at $29,000
+2025 per month.
+12/01/2024 SSA issues RFR for new reserva�on system.
+Board approves $258,300 contract with 3/21/2025 2/28/2025 SSA and ADK (Stellar Elements) terminate support
+Imarc for maintenance of exis�ng website. contract.
+MassDOT approves SSA’s re-scoping of website 5/28/2025
+project and new deadline of March 31, 2026.
+6/17/2025 Board awards contract for replacement of
+reserva�on system to E-Dea Spa for $5,779,48.
+SSA sends $383,338.37 reimbursement request 9/19/2025
+to MassDOT for website project
+Board approves $120,000 contract with Imarc 11/18/2025
+for maintenance of exis�ng website.
+
+BACKGROUND
+I. The Office of the Inspector General
+The Office of the Inspector General for the Commonwealth of Massachusetts (OIG) is an
+independent state agency charged with preventing and detecting fraud, waste, and abuse of public funds
+and assets. The OIG investigates allegations of fraud, waste, and abuse at all levels of government and
+reviews programs and practices in state agencies and municipalities to identify systemic vulnerabilities
+and opportunities for improvement. The OIG strives to enhance or restore public confidence in
+government, ensure accountability, and promote the best interests of the people of the Commonwealth
+in the use of public funds and property.
+The Legislature established the OIG in 1980 as the first state-level inspector general’s office in the
+country. Today, the OIG has a budget of over $10 million and a staff of about 90 employees. The OIG has
+oversight of more than $120 billion in spending and the work of over 300,000 public employees across all
+state and municipal public entities throughout the Commonwealth, plus suppliers, vendors, contractors,
+and nonprofits that receive public funds.
+II. Scope and Methodology for this Report
+The OIG reviewed the procurement file for the Steamship Authority’s request for proposals (RFP)
+for its website redesign and development of a mobile application, contracts resulting from the RFP (and
+related contract administration files), and communications between the Steamship Authority and the
+Massachusetts Department of Transportation (MassDOT). The OIG also reviewed meeting agendas and
+meeting minutes for the Steamship Authority’s Governing Board, internal memos prepared by a
+consultant monitoring the project, change orders for the project, internal progress reports for the project,
+and Steamship Authority procurement policies. Additionally, the OIG interviewed many key actors,
+including Steamship Authority employees and contractors, members of the Governing Board, vendor
+employees, and project consultants.
+III. The Steamship Authority
+A. Operations
+In 1960, the Massachusetts Legislature passed the Enabling Act of the Woods Hole, Martha’s
+Vineyard and Nantucket Steamship Authority (Enabling Act) that created the Steamship Authority to
+provide “adequate transportation of persons and necessaries of life for the Islands of Nantucket and
+Martha's Vineyard.”5 The Enabling Act empowered the Steamship Authority to acquire, maintain, and
+operate a boat line between the mainland ports of Woods Hole in Falmouth and Hyannis in Barnstable
+5 1960 Mass. Acts c. 701, as amended, available at https://www.nantucket-ma.gov/DocumentCenter/View/1115/SSA-Enabling-
+Act.
+Office of the Inspector General for the Commonwealth of Massachusetts 14 | Page
+
+and the islands of Martha's Vineyard and Nantucket. As of October 2025, the Steamship Authority
+operates 10 vessels: six passenger ferries and four “open-top” ferries to transport trucks and freight.
+The Steamship Authority provides the only year-round passenger transportation to the islands
+and typically offers the lowest fares for ferry service to the islands (the Steamship Authority also licenses
+all vessel transport of more than 40 passengers).6, 7 The Steamship Authority transports vital freight such
+as medicine, food, and fuel to the islands. Residents, visitors, and tourists also rely on the Steamship
+Authority to transport vehicles between the islands and the mainland. In 2023, the Steamship Authority’s
+gross operating revenue totaled $137,100,046, with passenger revenues accounting for 25.3% of the total,
+automobile revenues accounting for 31.1%, freight revenues accounting for 30.9%, and parking and other
+revenues making up the difference. The Steamship Authority oversees approximately 25,000 one-way
+trips in a year. One reservation system manages all of the Steamship Authority’s ticket sales, whether they
+are purchased through the Steamship Authority website or at the physical terminals.
+B. Governance
+1. Steamship Authority Governing Board
+The Steamship Authority is one of over 40 “quasi-public” entities established in the
+Commonwealth. A quasi-public entity is a publicly chartered body that is not directly accountable to the
+legislative and executive branches of the state government. Quasi-public entities are instead controlled
+by government-appointed boards. They are created by statute and enjoy some benefits of state affiliation,
+such as tax exemption.
+The Steamship Authority is led by a five-member Governing Board (Board), who, as stated in the
+Authority’s bylaws, “have charge of and supervise the management, operation and direction of all
+business and affairs of the Authority.” The members of this volunteer Board are appointed for three-year
+terms, each with weighted voting shares:
+• one Dukes County resident appointed by Dukes commissioners (35% share);
+• one Nantucket County resident appointed by Nantucket commissioners (35% share);
+• one Barnstable resident appointed by the Barnstable Town Council (10% share);
+• one Falmouth resident appointed by the Falmouth Select Board (10% share); and
+• one New Bedford resident appointed by the mayor of the city of New Bedford with the
+approval of the New Bedford City Council (10% share).
+6 Comparison of All Ferries to Martha’s Vineyard (2024), MVacay – Travel Info for Visitors (Mar. 11, 2024), available at
+Comparison of All Ferries to Martha's Vineyard (2024) (last visited December 11, 2025).
+7 2025 Nantucket Ferry Schedules, Nantucket Ferries, available at 2025 Nantucket Ferry Schedules | NantucketFerries (last
+visited December 11, 2025).
+Office of the Inspector General for the Commonwealth of Massachusetts 15 | Page
+
+Steamship Authority actions must receive a 50% or greater weighted vote; the Dukes and Nantucket
+members can therefore form a two-person majority vote.8 The islands have a greater share of the vote
+because many of their services directly depend on the Steamship Authority for transportation.
+The Board appoints the Steamship Authority’s general manager, who works under the Board’s
+direction. As stated in the Steamship Authority’s bylaws, the general manager is responsible for the
+“general oversight, care, and management of all [the Steamship Authority’s] property and business in all
+its departments, and supervision of its officers, other than the Members [of the Board], its agents and its
+employees in the discharge of all duties not specifically otherwise prescribed by law or by the Members.”
+The general manager who led the Steamship Authority throughout the website development project
+(General Manager) joined the Steamship Authority in 1986 as an auditor and moved through different
+roles of increased responsibility during his time there, serving as treasurer from 2005 to 2016. The Board
+appointed him General Manager in 2016, and he assumed the role in 2017. In late 2025, the Board hired
+a new general manager, who is scheduled to take over the role in early 2026. At that time the current
+General Manager is scheduled to move into an advisory role.
+2. Port Council
+The Steamship Authority is also advised by a committee known as the Port Council, which is made
+up of seven volunteer committee members appointed by the following towns: Falmouth, New Bedford,
+8 1960 Mass. Acts c. 701, § 3, as amended, available at https://www.nantucket-ma.gov/DocumentCenter/View/1115/SSA-
+Enabling-Act.
+Office of the Inspector General for the Commonwealth of Massachusetts 16 | Page
+
+Barnstable, Oak Bluffs, Tisbury, Nantucket, and Fairhaven.9 The Port Council may review the annual
+budget and has access to Steamship Authority books, records, and files. The Port Council often meets
+before the Board and sees the same material and presentation the Board sees. Port Council minutes show
+that its members have often asked more pertinent and pointed questions of Steamship Authority officials,
+including in regard to the website project, than Board members have.
+While members of the Port Council have access to information and records, consult Steamship
+Authority officials, and regularly meet with the General Manager, they can only make recommendations
+on behalf of the communities they serve. They do not vote on key matters as the Board does.
+3. Steamship Authority Funds
+Similar to other quasi-public entities, the Steamship Authority does not depend on appropriated
+general funds for its operation. Instead, the Enabling Act permits the Steamship Authority to collect fees.10
+The Authority principally relies on ferry fee revenue for
+While the Steamship Authority’s operational
+its operating budget.11 Despite not relying on
+costs do not directly draw taxpayer dollars,
+appropriated funds, the Board has a responsibility the Authority has been granted a monopoly
+under the Enabling Act to properly manage and on the provision of many vital public
+account for the funds that the Steamship Authority services for the islands. It is imperative that
+public services be properly managed, even
+collects. The Enabling Act also permits the Steamship
+when the Legislature has delegated public
+Authority to control issuance of licenses for ferry
+responsibilities to a quasi-public entity such
+services involving all carriage of vehicles and freight, as as the Steamship Authority.
+well as all ferry services carrying 40 or more
+passengers.12
+IV. The Steamship Authority’s Ferry Reservation System
+A. Saber Technologies
+Following a 1996 request for proposals (RFP), the Steamship Authority awarded Saber
+Technologies (Saber) – a Wisconsin-based company run by its owner and sole operator – a contract to
+install and maintain Saber’s ferry reservation system, “Book ’Em.” The “Book ‘Em” system prioritizes
+placement of larger freight. It gives second priority to reservations by Nantucket and Martha’s Vineyard
+residents and last priority to visitor reservations. The Steamship Authority’s early reservation program,
+“Head Start,” gives access to residents of Nantucket and Martha’s Vineyard in January to make up to 10
+9 Id. at § 14.
+10 Though not appropriated dollars, the fees that the Steamship Authority collects and other revenue it earns constitute public
+funds.
+11 1960 Mass. Acts c. 701, § 4, as amended, available at https://www.nantucket-ma.gov/DocumentCenter/View/1115/SSA-
+Enabling-Act.
+12 Id. at § 5. Several passenger ferry services existing prior to 1973 received licenses through a “grandfather” clause in the
+Enabling Act. The Steamship Authority has also granted licenses to several other passenger ferry services over the years. No
+other ferry services currently hold licenses for vehicle or freight traffic.
+Office of the Inspector General for the Commonwealth of Massachusetts 17 | Page
+
+reservations during the summer months before visitors can reserve space. Residents are also eligible for
+discounted travel rates.
+“Book ‘Em” also maintains a waitlist which allows customers to book a space if another
+reservation is canceled. The waitlist accounts for vehicles’ spatial requirements, so the cancellation of a
+large freight shipment can open space for multiple smaller vehicles. Space for vehicles and freight on the
+ferries is in high demand for much of the year, often surpassing available capacity in the summer months.
+Since 1996, Saber’s owner and operator has maintained the ferry’s reservation system according
+to the initial contract terms. Throughout this time, Saber’s operator has been the only person who fully
+understands how the reservation system works. From 1996 to 2009, for 40 weeks of the year, the
+operator’s schedule involved flying from Wisconsin to Massachusetts on Monday to work at the
+Steamship Authority’s office through Thursday, and returning to Wisconsin on Friday. Per its agreement
+with Saber, the Steamship Authority paid for the operator’s travel and lodging. From 2010 onward, the
+operator worked on site two weeks of the year and was otherwise available to assist by phone.
+In 2010, Steamship Authority officials released an RFP for a new reservation system and website,
+but only Saber’s “Book ‘Em” system had the waitlist function that officials wanted. Because the Steamship
+Authority rejected any new system without that functionality, Saber’s reservation system remained in
+place.
+In 2024, Saber’s operator informed the Steamship Authority that he intended to retire, and the
+Steamship Authority signed a $350,000 agreement with Saber that granted it full rights to the reservation
+system’s source code.
+The reservation system is currently integrated with the Steamship Authority’s website, created
+and maintained by Amesbury-based digital agency Imarc, LLC (Imarc), which originally launched in 2013.
+B. System Failures and Reviews
+In 2018, following several electrical blackouts on vessels and IT outages, the Steamship Authority
+commissioned HMS Consulting to conduct a comprehensive review of its operations. The review covered
+(1) management structure, (2) fleet maintenance, (3) vessel operations, (4) information technology (IT)
+systems, and (5) public communications. The review recommended that the Steamship Authority address
+its reservation system, noting a lack of succession planning and proactive strategy, specifically stating that
+the “Steamship Authority is over reliant on a small number of individuals who hold inordinate amounts of
+knowledge and power,” and that the “Steamship Authority operates almost entirely reactively.”13
+On January 21, 2020, during the Head Start opening period for Martha’s Vineyard, many
+customers were unable to connect to the Steamship Authority’s website to make reservations, and the
+website crashed multiple times. The Steamship Authority’s communications director released a systems
+13 Comprehensive Review of the Steamship Authority’s Operations, HMS Consulting, December 13, 2018, available at
+hms_report_of_ssa_ops_web.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 18 | Page
+
+issues report on February 14, 2020, which concluded that the website was not adequately tested for
+mobile customers, that the mobile site’s connection to the main website was inadequate for demand, and
+that the volume of users exhausted the website’s memory, among other issues.14 The report was
+discussed at the February 18, 2020 Board meeting, where the General Manager recommended that the
+Steamship Authority “oversee a study of a website upgrade/redesign, which will incorporate the
+conclusions of this report, in preparation for the solicitation of proposals and award of a contract for a
+mobile app and/or redesign of the website.”15
+V. Website Procurement and Development
+A. Federal Funding Request
+The Steamship Authority is eligible to receive funds through the Federal Highway Administration’s
+(FHWA) Ferry Boat Formula Grant Program (Ferry Boat Funds), which provides reimbursement of up to
+80% for ferry projects. Ferry Boat Funds must be spent within three years and cannot be banked for large
+projects, such as a new boat. To receive Ferry Boat Funds for a capital project, the Steamship Authority
+must first request that the Cape Cod Commission add the project to the Cape Cod Metropolitan Planning
+Organization’s transportation improvement plan for approval by MassDOT and the FHWA. The Steamship
+Authority then finances the project with its capital funds and submits a reimbursement request to
+MassDOT, which conveys the federal funds to the Steamship Authority.
+On April 23, 2020, the Steamship Authority sent a letter to the Cape Cod Commission requesting
+to use $2,790,293 in Ferry Boat Funds and asking that the following projects and their estimated costs be
+added to the state’s transportation improvement plan:16
+1. Reservation System Hardware: $700,000
+2. Mobile Web Application: $750,000
+3. Redesigned Website: $1,250,000
+4. Reservation System Hardware & Redundancy: $200,000
+An additional contingency fund of $226,758.40 was later added to the project, for a total amount
+of $3,017,051.40. The Ferry Boat Funds would reimburse the Steamship Authority for up to 80% of those
+project costs. MassDOT and FHWA approved the project in late 2020, which was to include the four
+components listed above.
+14 Systems Issues Report, Steamship Authority, January 21, 2020.
+15 Steamship Authority Meeting Minutes, February 18, 2020, available at
+https://www.steamshipauthority.com/writable/files/ssa_minutes_public_session_entire_year.pdf.
+16 Transportation Improvement Plan Request, Steamship Authority, April 23, 2020.
+Office of the Inspector General for the Commonwealth of Massachusetts 19 | Page
+
+B. Website Request for Proposals (RFP)
+In February 2021, the Board approved the Steamship Authority’s 2021 capital budget, which
+included $2 million in funding for a website project. This amount was based on the Steamship Authority’s
+request for $1,250,000 in Ferry Boat Funds for a redesigned website and $750,000 for a mobile web app.
+The Steamship Authority intended to connect the redesigned website which would result from
+this project to its existing reservation system using application program interfaces (APIs). The Authority
+planned to eventually procure a new reservation system to replace Saber’s, which leadership envisioned
+would connect to the new website using these same APIs.
+Figure 1. Connecting Reservation System and Websites Through APIs.
+In March 2021, the Steamship Authority’s website redesign project committee selected Regan
+Digital Studio and its president to provide technical guidance for the project team as it designed an RFP.
+The General Manager assigned the Steamship Authority’s communications director to serve as project
+manager (Project Manager) of the website project, a role which he would perform in addition to his
+communications duties. The Project Manager was assigned this role despite having no technical or project
+management experience.
+In June 2021, the Steamship Authority issued an RFP for a website and mobile app project, along
+with four addenda that addressed vendors’ questions, and received 16 responses. In October 2021, the
+Steamship Authority awarded the contract to Boston-based firm ADK Group (ADK), which bid
+Office of the Inspector General for the Commonwealth of Massachusetts 20 | Page
+
+$1,996,554.17 The Board unanimously approved this selection. ADK signed a contract with the Steamship
+Authority on December 28, 2021,18 which stipulated a website launch date of November 2022.19
+The statement of work (SOW) included in the Steamship Authority’s contract with ADK for website
+and mobile app development contains the following project description:
+The goal of this project is to deliver a best-in-class digital platform with a seamless
+experience that exceeds the expectations of travelers. The digital platform will include (1)
+a website streamlined for customers and optimized for marketing, SEO, accessibility, and
+mobile; (2) an operational subdomain serving relevant content; (3) an online reservation
+dashboard integrated with the website; (4) a mobile application with an online
+reservation system and additional content; and (5) a best-in-class content management
+system streamlining flexibility across items 1-4.
+The SOW further lists a four-part schedule of development with specific activities, with a nine-
+part billing cycle based on work phases begun and completed. The SOW provides for changes to the scope
+with the following language: “Any additional labor or materials requested but not included in the scope
+of this Statement of Work will constitute a change request which must be approved by both parties via a
+change control process.” The SOW lists the following deliverables at the end of the project:
+• A redesigned Steamship Authority Website with an Online Reservation Dashboard
+• An Operational Subdomain
+• A Mobile Application
+C. Website Development and Delays
+Website development began in January 2022. Regan Digital Studio’s president was brought on as
+an “owner’s representative” consultant (Owner’s Representative).20 The Owner’s Representative was
+intended to assist with IT aspects of the project to make up for the Project Manager’s lack of IT expertise.
+In June 2022, the Project Manager reported that the project was proceeding on time and on budget.21
+In July 2022, the Owner’s Representative prepared a memo, which was distributed to the Board,
+stating that the website would likely not launch in November 2022. The memo noted concerns regarding
+17 During the course of the contract with the Steamship Authority, ADK legally folded into projekt202 LLC, and ADK was
+rebranded as Stellar Elements. This report will refer to the developer as ADK for consistency.
+18 Master Services Agreement, December 28, 2021.
+19 The contract included deliverables for the project, including development, launch of the product, and a three-month post-
+launch audit of the website.
+20 Steamship Authority Meeting Minutes, May 26, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20220526.pdf.
+21 Port Council Meeting Minutes, June 7, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_port_council_20220607.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 21 | Page
+
+the website’s API,22 used to connect the website with the reservation system, as well as the impact of the
+Steamship Authority’s recent decision to change its credit card processor to a new company, Eigen:
+The API is the most critical component of the project, as it is the only link between the
+[reservation system], the website and the mobile application. Therefore, the API and its
+functionality has to be near bulletproof. While the weekly API meetings have been
+immediately helpful, due to the critical nature of this technology, the Steamship Authority
+may need to provide additional internal resources to make certain that the API is
+functioning at a level that is required to successfully integrate with the website and
+mobile app. The Steamship Authority will need to manage communications around any
+future issues or delays with the Eigen payment processor rollout, as this poses a slight risk
+downstream to the completion of the project and launch schedule. This issue is not critical
+at this time.
+In September 2022, the Project Manager told the Board that the launch was officially delayed
+until March 2023 because Steamship Authority officials needed time to prepare for the January 2023 Head
+Start opening and did not want to launch the new site during a peak use period. The Project Manager
+stated the bulk of the site’s work would be done by early November.23
+On October 3, 2022, ADK submitted a change order request for an additional $479,172 to
+Steamship Authority officials. ADK stated that this change order corresponded to two additional phases
+of work involved in addressing difficulties in several areas:24
+1. Accessing Eigen, the new credit card processor;
+2. Selecting a new content management system;
+3. Incomplete and unstable API; and
+4. Updates to Steamship Authority computer systems.
+On October 12, 2022, the Owner’s Representative sent an analysis critical of ADK’s
+communication with the Steamship Authority and portions of the change order request to the Project
+Manager, in particular criticizing ADK’s integration of Eigen.
+On October 18, 2022, the General Manager submitted a separate proposal to the Board for a new
+post-launch website support services agreement with ADK (for $29,000 a month, or $348,000 a year). The
+General Manager stated the agreement was being negotiated at that time so it would be in place at the
+time of the website’s completion, instead of waiting until the time period the agreement would cover was
+22 For further discussion of APIs, see Finding 5.
+23 Steamship Authority Meeting Minutes, September 27, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20220927.pdf.
+24 In the request, ADK states that it performed approximately $690,000 worth of additional work but only billed for $479,172,
+because some of that work was due to ADK’s incorrect assumptions about the scope of the project.
+Office of the Inspector General for the Commonwealth of Massachusetts 22 | Page
+
+upon the Board. These support services were for basic website operations, as opposed to website
+development.25
+The Board tabled the proposed support services agreement.26
+In November 2022, the Board was presented with, and approved, ADK’s change order request as
+Change Order #5,27 which had been reduced from $479,172 to $368,962.28 According to meeting minutes,
+a Board member said “he wanted to make sure this would be the only [cost-related] change order
+submitted,” to which the Project Manager replied that “absent a catastrophe, it would be.”29
+In December 2022, the Board approved the previously
+In January 2023, the Steamship
+tabled post-launch support services agreement with ADK for Authority website opened for
+$348,000.30 Under the agreement, support services would begin “90 Head Start reservations and
+suffered severe slowdowns.
+days after the launch of the platform,” including launch in beta
+format.
+In January 2023, the Steamship Authority website opened for Head Start reservations and
+suffered severe slowdowns. At the January 25, 2023 Board meeting, Board members approved developing
+an RFP for a consultant to review all IT systems.31
+In February 2023, Steamship Authority staff proposed delaying the website launch date until April
+27, 2023,32 to allow the consultant RFP to close and to involve the consultant in the website post-launch.
+25 The support services are not specifically defined in the website and mobile app project RFP, but they are referred to as being
+part of a forthcoming separate agreement for the selected vendor:
+As part of the RFP, the Authority requires a detailed description of the supporting services that will be
+required to operate the website after it has been launched. The supporting services will be engaged
+separately with the vendor from the website development agreement. However, the scope and costs
+associated with the supporting services will be considered as part of the evaluation criteria for selection of
+the primary vendor for the RFP.
+26 Steamship Authority Meeting Minutes, October 18, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20221018.pdf.
+27 Steamship Authority Change Order #5, November 11, 2022.
+28 Steamship Authority Meeting Minutes, November 28, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20221128.pdf. ADK’s original request proposed adding website
+development resources. The approved Change Order #5 included the same amount of additional web development, but
+reduced the payment associated with post-launch website audit services included in the original contract by $110,210.
+29 Steamship Authority Meeting Minutes, November 28, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20221128.pdf.
+30 Statement of Work, January 5, 2023. Under the agreement, the post-launch support services would include website
+maintenance, growth strategy, search engine optimization services, and ongoing feature development.
+31 Steamship Authority Meeting Minutes, January 25, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20230125.pdf.
+32 Steamship Authority Meeting Minutes, February 21, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20230221.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 23 | Page
+
+As part of this process, the Board approved Change Order #7 for an additional $165,200 of development
+services.33
+In March 2023, the Project Manager told the Board that the Steamship Authority and ADK’s parent
+company “determined that moving the launch to late May 2023 is the best way to deliver a superior
+experience to the Authority’s customers.”34
+At the April 24, 2023 Board meeting, the Board approved hiring Boston-based consulting company
+Gibbous, LLC for $245,000 to perform a comprehensive assessment of the Steamship Authority’s IT
+systems and make recommendations for changes.35
+In June 2023, Steamship Authority officials proposed Change Order #936 to the Board, with the
+recommendation that delaying the launch of the website until September 2023 was the “most prudent
+course of action” and requesting funding for a full development team through the end of September.
+ADK’s project lead told the Board the project was “within striking distance” and he felt “extremely
+confident about a September launch.” The change order
+The nay-voting Board member said that
+added additional costs and scheduled the start of the
+he was “a little outraged” at the third
+monthly $29,000 post-launch support service payments to
+delay in what was supposed to be a
+begin in October 2023. The Board approved Change Order one-year project, and added that he did
+#9 for $288,000, with only one Board member voting not see an end to the project in sight.
+against it. According to the meeting minutes:37
+[The nay-voting Board member] said he was “a little outraged” at this point, as it was the
+third delay on what was to be a one-year project. He said he remembered asking when
+the first change order was requested if any more would be necessary, and he was assured
+they would not. He was similarly reassured in February that a May launch would occur,
+and it did not[.] He said he did not have any real confidence in the information being given
+to him by [the Project Manager] and said he did not see an end to this project in sight.
+33 Steamship Authority Change Order #7, February 17, 2023.
+34 Steamship Authority Meeting Minutes, March 29, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20230329.pdf.
+35 Steamship Authority Meeting Minutes, April 24, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20230424.pdf.
+36 Steamship Authority Change Order #9, June 28, 2023.
+37 Steamship Authority Meeting Minutes, June 29, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20230629.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 24 | Page
+
+In July 2023, ADK’s project lead told the Board that the RFP for the project listed several APIs that
+were in a different state than initially believed, but he did not believe anyone could have anticipated the
+complexity of the project until its discovery phase had been completed.38
+In August 2023, the General Manager assigned the Steamship Authority’s director of information
+technology to take over as project manager, and on August 15, ADK’s project lead told the Board he felt
+“very confident in an end of September or early October [2023] launch window.”39
+In October 2023, the General Manager told the Board that the internal beta site would launch in
+the beginning of November 2023, and the website would launch in late November 2023, shortly after
+Thanksgiving.40
+On November 28, 2023, the General Manager told the Board that several outstanding issues with
+website development would be “showstoppers” in terms of launching the site, and that if the site was not
+available by mid-December, the launch would be pushed to February 2024.41
+On December 12, 2023, the General Manager told the Board that the website should not be rolled
+out before Head Start.42
+At the January 16, 2024 Board meeting, members discussed holding off on launching the website
+and hired a consultant to review the Steamship Authority’s IT infrastructure, including the reservation
+system.43
+At the April 23, 2024 Board meeting, a Steamship Authority official told the Board that they were
+“cautiously optimistic” about a public beta period launching in June 2024.44
+At the May 28, 2024 Board meeting, a Steamship Authority official told the Board the limited beta
+was scheduled for August 13 through August 24, with a public beta after Labor Day, in September 2024.45
+38 Steamship Authority Meeting Minutes, July 18, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20230718.pdf.
+39 Steamship Authority Meeting Minutes, August 15, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20230815.pdf.
+40 Steamship Authority Meeting Minutes, October 24, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20231024_copy1.pdf.
+41 Steamship Authority Meeting Minutes, November 28, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20231128.pdf.
+42 Steamship Authority Meeting Minutes, December 12, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20231212.pdf.
+43 Steamship Authority Meeting Minutes, January 16, 2024, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20240116.pdf.
+44 Steamship Authority Meeting Minutes, April 23, 2024, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20240423.pdf.
+45 Steamship Authority Meeting Minutes, May 28, 2024, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20240528.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 25 | Page
+
+At the July 16, 2024 Board meeting, a Steamship Authority official told the Board that the public
+beta was scheduled for late September or October 2024.46
+At the September 17, 2024 Board meeting, following continual delays and technical challenges
+including connecting the website and reservation system through APIs, a Steamship Authority official told
+the Board that management had decided to indefinitely delay launching the website in favor of replacing
+the reservation system.47 The official stated that investment in the website project would not be lost
+because the new reservation system could be “bolted” into the new website.
+Figure 2. Change Orders for the Steamship Authority’s Contract with ADK.
+Date Cost to
+Change Order Purpose
+Approved Authority
+Select sub-vendor for content management
+Change Order #1 3/31/22 $0
+system (CMS) for new website
+Change Order #2 3/31/22 $0 Change estimated invoice schedule
+Change Order #3 8/26/22 $0 Select sub-vendor for CMS for mobile app
+Change website launch from 11/7/22 to
+Change Order #4 8/26/22 $0
+3/15/23
+Pay for 2 additional phases of work from ADK
+Change Order #5 11/28/22 $368,962 due to credit card processing integration, API
+work, CMS negotiation, and other issues
+Change Order #6 12/12/22 $0 Change sub-vendor for CMS for new website
+Change website launch to 4/27/23 and add
+Change Order #7 2/21/23 $165,200
+development time
+Recognize change of ADK’s organization,
+change website launch to 5/31/23. Add
+Change Order #8 5/22/23 $0 development work worth $151,000 to ADK,
+reduce post-launch support period by 30 days
+(saving ADK $48,000)
+Change website launch to September 2023
+Change Order #9 6/29/23 $288,000
+and add development work
+46 Steamship Authority Meeting Minutes, July 16, 2024, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20240716.pdf.
+47 Steamship Authority Meeting Minutes, September 17, 2024, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20240917.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 26 | Page
+
+D. Suspension of Website Project and Procurement of New Reservation
+System
+In December 2024, the Steamship Authority issued a request for responses (RFR) for a new
+reservation system.
+In February 2025, the Steamship Authority terminated its post-launch support services agreement
+with ADK, five months after renewing the agreement for a second year, having paid $145,000 on top of
+the initial $348,000 agreement. It appears that the Steamship Authority used those funds to pay for
+website development prior to website launch, rather than on post-launch support services.
+In May 2025, the Steamship Authority requested to reassign the $750,000 in federal funds
+earmarked for developing a mobile app to instead fund the work on the website. The Steamship Authority
+also requested to extend the project deadline to March 31, 2026. MassDOT and the FHWA approved the
+request.
+In June 2025, the Board unanimously voted to award the reservation system replacement contract
+to Italy-based E-Dea SpA for $5,779,484.48 The contract runs through 2030 with a new reservation system
+scheduled to be fully implemented by the fourth quarter of 2026. The website project is currently
+suspended. While Steamship Authority officials have asserted that the new website will function with the
+new reservation system, some Board members have expressed skepticism that the website which ADK
+built to connect with the old reservation system will readily connect with an entirely new system.
+In September 2025, the Steamship Authority filed a reimbursement request for $383,338.37 for
+the website project.
+Figure 3. Repeated Delays of the Steamship Authority’s Website Launch Date.
+Announcement Location Website Launch Date
+December 28, 2021 Original Contract November 2022
+September 27, 2022 Board Meeting March 2023
+February 21, 2023 Board Meeting April 27, 2023
+March 29, 2023 Board Meeting Late May 2023
+June 29, 2023 Board Meeting September 2023
+August 15, 2023 Board Meeting Late September/Early October 2023
+October 24, 2023 Board Meeting Late November 2023
+November 28, 2023 Board Meeting February 2024
+April 23, 2024 Board Meeting June 2024
+June 20, 2024 Board Meeting September 2024
+July 16, 2024 Board Meeting Late September/Early October 2024
+September 17, 2024 Board Meeting TBD (Project shelved)
+48 Steamship Authority Meeting Minutes, June 17, 2025, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20250617.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 27 | Page
+
+FINDINGS
+I. Pre-Project Failures
+Finding 1: In the decades before the website project, the Steamship Authority failed to address
+an increasingly outdated and risky reservation system, creating a culture of stagnation that led
+to the fundamental misconception that developing a new website before a new reservation
+system was workable.
+Reservations by commercial, Islander, and tourist traffic provide the vast majority of the
+Steamship Authority’s revenue. When the Steamship Authority purchased the Book ‘Em reservation
+system in 1996, it provided the essential service required and offered what the Steamship Authority saw
+as a significant benefit – a waitlist function that allowed reservation holders to easily move into new slots
+should an earlier reservation be canceled.
+However, this system was created and overseen by one person, a hired contractor. He adequately
+maintained the reservation system, but the Steamship Authority did not take the necessary steps to
+remove the risk of a single point of failure affecting their entire business model. There was apparently no
+follow-through with the Authority’s attempt to license the source code to the reservation system in 2003.
+A second attempt to license the source code in 2010 resulted in a payment to the contractor, but there is
+no record of a signed agreement. When the Steamship Authority put out a bid for a new reservation
+system in 2010, officials insisted on requiring a similar waitlist function – a function other reservation
+system vendors could not provide. While that function offered a benefit to the Steamship Authority,
+mandating it ensured the Authority would continue to rely on a single person to maintain the then-15-
+year-old system.
+After making the 2010 purchase of the source code, Steamship Authority officials apparently
+failed to ensure the license existed and failed to use the opportunity to train Steamship Authority
+employees to fully understand and further develop the reservation system. In 2018, an HMS Consulting
+review of the Steamship Authority’s operations criticized the reservation system’s single point of failure
+and out-of-date code, and recommended “Buying the company/code, including owner, and having the
+owner teach and train existing employees and new employees to develop the system” or “Moving away
+from the existing reservation platform to a new web-based system.” The Steamship Authority could have
+taken steps toward that first recommendation in 2010, but chose not to. The Steamship Authority again
+took no action when the recommendation to either overhaul or replace the reservation system was
+specifically presented in 2018.
+Fundamentally, the website project was misguided from the beginning because it should have
+been a reservation system project. Years of indifference to planning had created the need for a new
+reservation system, but had also created the inertia that led Steamship Authority officials to look for a
+quick fix of replacing the website instead of addressing the core function of the Authority’s business.
+Office of the Inspector General for the Commonwealth of Massachusetts 28 | Page
+
+II. Planning Failures
+Finding 2: The Steamship Authority ignored a significant, known business risk posed by its
+decades-old reservation system when it chose to dedicate resources to improve website
+functionality that was reliant on this system.
+The Steamship Authority’s reservation system, created by Saber in 1996 and operated by a sole
+proprietor, represented a significant business risk which the Steamship Authority was aware of but
+ignored for years. Its decision to develop a new website before addressing the issues posed by the
+reservation system resulted in a substantial waste of resources on designing connections to a reservation
+system that is now obsolete.
+The 2018 HMS Consulting review of the Steamship Authority’s operations identified risks with the
+reservation system’s age, lack of updates, and single operator:
+Steamship Authority’s reservation system is entirely owned, managed, and maintained
+by a single individual operating remotely and the report program generator (RPG) code
+that the system is written in is dangerously outdated … This programing language is not
+used in any form of modern development and the likelihood of finding a coder that could
+develop or fix an issue in the event of an emergency is very low.
+The study recommended that the Steamship Authority either buy Saber’s code and train
+employees to learn and further develop it, or purchase an off-the-shelf reservation platform. The
+Steamship Authority either did not raise or was not aware of its 2010 source code purchase. Even if the
+Steamship Authority was concerned about not having the correct documentation, it still should have been
+training employees since 2010 to avoid this exact situation.
+Despite the explicit concerns and recommendations expressed by the consulting agency, until
+2024 the Steamship Authority did not alter its agreement with Saber except to periodically adjust the
+hourly billable rate. In an interview with the OIG, the General Manager stated that the Steamship
+Authority had previously updated websites while retaining Saber’s reservation system, so addressing this
+problem was not “such a driving critical thing.”
+In June 2024, after Saber’s owner told the Steamship Authority that he intended to retire and
+would no longer be providing support services for the reservation system, the Steamship Authority signed
+a $350,000 agreement with Saber giving it full rights to the system’s source code. A year later, in June
+2025, the Steamship Authority signed a contract to replace its reservation system with Italy-based E-Dea
+SpA for $5,779,484, and shelved the new website project with the hope that it will be compatible with the
+new system.
+The Steamship Authority did not recognize that flaws in its existing reservation system would
+undermine the success of its website project. Although Steamship Authority officials have maintained that
+the website developed by ADK will ultimately function with E-Dea SpA’s reservation system, some Board
+Office of the Inspector General for the Commonwealth of Massachusetts 29 | Page
+
+members are concerned that the reservation system will be incompatible with a website that was
+designed to connect with a separate reservation system, was shelved in 2024, and has never functioned
+as intended. The OIG shares this concern.
+While some parts of the ADK website may be salvageable, the work that was done to build the
+site around the existing reservation system will almost certainly need to be redone. In addition, the
+Steamship Authority faces execution risks and integration risks in bringing a website that has sat dormant
+for two years in line with a new reservation system, particularly as the website’s developer is no longer
+involved with the project. The extent to which the currently shelved website will ultimately be useful is
+unknown; however, it is likely that by ignoring the risk posed by its aging reservation system, the
+Steamship Authority wasted a large portion of the $4 million in capital funds it spent on website
+development, and may have to refund the reimbursement it received from the federal government due
+to the project not being completed. The OIG is concerned that the Steamship Authority’s potential
+obligation to return funds for a failed website project is the driving force behind its suggestion that the
+website is salvageable. The integration of a new reservation system with ADK’s website and APIs could
+require additional spending on an unproven, shelved website project. The OIG believes this to be both a
+risk and a waste of public dollars.
+In focusing on developing the website instead of addressing its outdated reservation system, the
+Steamship Authority set itself up for failure from the start of the project, creating a gap instead of a
+foundation. And as ADK’s website sits on the shelf, that gap continues to grow.
+Finding 3: Although the Steamship Authority apparently purchased a license to Saber’s source
+code in 2010, the Authority’s poor recordkeeping led it to repurchase a license in 2024 at 10
+times the cost.
+Steamship Authority documents indicate the organization at least twice considered buying a
+general license for the system source code in order to develop it.49 In 2003, according to a Steamship
+Authority capital expenditure proposal written by an unknown employee,50 Saber offered to sell a
+perpetual license for the system source code to the Steamship Authority for $35,000. Presciently, the
+employee wrote, “The Steamship Authority should take advantage of this opportunity to avoid perhaps
+costly and timely legal issues in the future. Again, in the event that Saber Technologies is unable to render
+their commitments to us, we would be forced to only use the software as-is, which may not be
+reasonable.” The expenditure does not appear to have been approved.
+49 The 1996 agreement with Saber included a perpetual license for use of Saber’s software, but not a license for Saber’s source
+code.
+50 2004 Capital Expenditure Project Request, Steamship Authority, October 7, 2003.
+Office of the Inspector General for the Commonwealth of Massachusetts 30 | Page
+
+In 2010, a former Steamship Authority IT director made a similar request to purchase a license to
+Saber’s reservation system source code, using the same language as the 2003 request.51 An October 2010
+invoice shows that the Steamship Authority paid $35,000 to Saber, corresponding with the line item “Book
+Em Source Code.” 52 However, Steamship Authority employees state that the agreement was not signed
+and is not enforceable, despite the invoice demonstrating that the Authority made the payment.
+On June 28, 2024, Saber and the Steamship Authority signed an agreement that specifically
+amends the parties’ 1996 agreement and does not refer to the 2010 agreement.53 The agreement grants
+the Steamship Authority “full rights to the application source code, database, algorithms and functions in
+perpetuity.” The agreement states that Saber will continue to provide support services for the reservation
+system through May 1, 2026. It also states the Steamship Authority will pay Saber a licensing fee of
+$350,000.54
+The terms of the 2024 agreement appear to replicate the terms of the 2010 agreement. In an
+email to the OIG, the Steamship Authority’s general counsel wrote:
+During discussions that led to the 2024 amendment with Saber Tech, we learned that
+there was another agreement, which was apparently approved in June 2010, concerning
+the purchase of the reservation system’s source code.…The issue that developed last year
+was the parties’ inabilities to locate a signed copy of the 2010 ‘source code license
+agreement’ although we did find an unsigned copy. In any event, to ensure that the
+software licensing issues were clarified, we incorporated terms into the 2024 amendment
+that made it clear the Authority had ‘full rights to the application source code, database,
+algorithms and functions in perpetuity.’
+The Steamship Authority’s general counsel wrote in another email to the OIG, “The uncertainty with some
+of the information led us to completing the 2024 amendment with Saber.”
+In effect, the evidence suggests that the Steamship Authority repurchased rights it had previously
+purchased in 2010, at 10 times the cost. While the General Manager has disputed the conclusion that the
+2010 agreement gave the Steamship Authority full rights to Saber’s source code, the wording of both the
+2010 and 2024 agreements, as well as the email from the Steamship Authority’s general counsel, make it
+51 Staff Summary, Steamship Authority, June 10, 2010. The proposed source code license agreement prevented the Steamship
+Authority from selling the code or giving access to unauthorized users, but allowed the Steamship Authority to modify the code
+for its own use.
+52 Invoice, Steamship Authority, May 31, 2011.
+53 Amendment to Software License Agreement, June 28, 2024.
+54 The agreement states “This license fee is for the Licensee's unconditional rights to modify and use the Software in any way
+they should require. This license fee is for the full rights of the Software product and not for specific support services.” In an
+interview with the OIG, the General Manager stated that the agreement was an amendment of the existing support services
+contract with Saber. It is the position of the OIG that the $350,000 fee was express consideration for licensing rights and
+requires Board approval.
+Office of the Inspector General for the Commonwealth of Massachusetts 31 | Page
+
+clear that both contracts permitted access to and modification of the reservation system’s source code.
+The Authority’s poor recordkeeping prevented it from recognizing a license for which it paid $35,000.
+Finding 4: The Steamship Authority handled federal funds irresponsibly, first by failing to
+establish clear and appropriate goals for its website redevelopment project, and then by
+missing federal grant requirements.
+From the inception of the website redevelopment project, the Steamship Authority sought to use
+federal funds as reimbursement for 80% of the project’s costs. Yet the Authority did not establish clear
+goals or timelines to guide the use of the federal reimbursements it requested. Instead, it requested
+reimbursements for projects with very general descriptions, without more specific fund allocation to
+ensure they would be applied appropriately. This led to a cycle of extending work on the increasingly over-
+budget project due to fear of losing the promised reimbursement if the project was to be shut down.
+After requesting federal funds for its website redevelopment project, the Steamship Authority
+demonstrated a general carelessness for the requirements and deadlines surrounding these funds.
+In April 2020, shortly after the Steamship Authority determined that it would start looking into
+soliciting proposals for the redesign of its website, the Steamship Authority’s treasurer submitted
+applications to MassDOT to reserve federal Ferry Boat Funds for the following projects: Reservation
+System Hardware ($700,000), Reservation System Hardware & Redundancy ($200,000), Mobile Web
+Application ($750,000), and Redesigned Website ($1,250,000). The first item was intended to fund
+physical equipment for a hardware upgrade to the reservation system and the second was intended to
+pay for handheld ticket scanners. The last two items would ultimately fund ADK’s work on the website
+project.55
+On September 22, 2020, MassDOT and the Steamship Authority signed an agreement outlining
+the terms of these four projects and MassDOT’s oversight. The Steamship Authority would pay for the
+projects out of capital funds, and receive 80% reimbursement from the Federal Highway Administration,
+passed through MassDOT. The agreement states that the Steamship Authority will “provide
+documentation to [MassDOT] evidencing that it is suitably equipped and staffed to undertake and manage
+the [project],” and requires the Steamship Authority to “present monthly progress bills of the costs
+incurred under the procurement contracts, for approval and payment by [MassDOT].”
+On September 23, 2020, the General Manager The Steamship Authority’s failure to
+establish clear goals and timelines for the
+emailed a MassDOT engineer asking, “In light of this being
+federal funds it requested led to a cycle
+essentially an equipment purchase are there any other
+of extending work on the increasingly
+procedures we need to follow before proceeding?”
+over budget project, due to its fear of
+losing the promised reimbursement if the
+project was to be shut down.
+55 In an interview with the OIG, the General Manager stated he was unsure of the order which he learned about funding for the
+website project. He did not know if he was aware of the availability of federal funds when presenting the plan for a website
+project to the Board in February 2020.
+Office of the Inspector General for the Commonwealth of Massachusetts 32 | Page
+
+The MassDOT engineer responded, “We still need to execute the agreement. That may take a
+couple of weeks.”
+The next day, on September 24, the engineer sent a follow-up email which stated that “Work
+must not be done without an approved Agreement/Contract [emphasis added].”
+On November 30, 2020, MassDOT approved a Notice to Proceed,56 listing a completion date of
+September 30, 2022.
+On December 29, 2021, the Steamship Authority’s treasurer sent MassDOT a reimbursement
+request57 for $353,802 for invoices ascribed to the Reservation System Hardware component of the
+project. On January 10, 2022, a MassDOT administrator responded that the identified costs were all
+incurred before the Notice to Proceed was issued and thus could not be reimbursed.58 The Steamship
+Authority ultimately paid $353,802 for the reservation system hardware out of capital funds instead of
+through the expected reimbursement.
+Further, on August 19, 2022, a MassDOT official emailed the Steamship Authority that the FHWA
+had asked why no charges had been made on the website project, when the contract would expire on
+September 30, 2022.59 Four days later, the Steamship Authority’s treasurer submitted a reimbursement
+request to MassDOT60 for $1,070,152.94 for the
+When the Steamship Authority requested
+website and mobile app project. Two days after that,
+reimbursement for $353,802 in invoices for
+the Reservation System Hardware component the General Manager submitted a request to
+of the project, MassDOT responded that these MassDOT61 to extend the deadline for the project
+costs could not be reimbursed because they
+from September 30, 2022, to June 30, 2025.
+were incurred before the Notice to Proceed.
+MassDOT passed the request on to the FHWA, and
+the FHWA granted the extension, despite the fact
+that the agreement required the Steamship Authority to submit requests for extension at least 60 days
+before the expiration date.
+56 Notice to Proceed, MassDOT, December 2, 2020.
+57 Reimbursement Request, Steamship Authority, December 29, 2021.
+58 A funding request for the reservation system hardware from the Steamship Authority’s IT director is dated September 16,
+2020 and was approved at the September 22, 2020 Board meeting. In an interview, the General Manager stated the hardware
+was needed then so it could be installed before the January 2021 Head Start reservations.
+59 It is unclear the degree to which MassDOT failed to meet their responsibilities regarding the federal Ferry Boat Funds. The
+grant agreement required the Steamship Authority to submit monthly progress bills for costs incurred on the project, but it is
+clear that no bills had been submitted as of late August 2022. MassDOT apparently did not follow up with the Steamship
+Authority until contacted by FHWA.
+60 Reimbursement Request, Steamship Authority, August 30, 2022.
+61 Extension Request, MassDOT, September 8, 2022.
+Office of the Inspector General for the Commonwealth of Massachusetts 33 | Page
+
+Other uncertainties surround the Steamship Authority’s ultimate use of the Ferry Boat Funds. On
+June 18, 2025, MassDOT approved an amended reimbursement request and rescope of the project.62 In
+an interview with the OIG, the Steamship Authority’s treasurer stated that MassDOT has approved use of
+the unclaimed hardware reimbursement funds for hardware costs associated with the Steamship
+Authority’s new reservation system.
+In September 2025, the Steamship Authority filed a reimbursement request for $383,338.37 for
+invoices associated with the website project. In an interview with the OIG, Steamship Authority officials
+said that MassDOT is still determining whether final reimbursement can be approved if the website is not
+in public use.
+Both of these examples further show how the Steamship Authority’s undisciplined behavior with
+federal funds in some cases has led to the Steamship Authority’s loss of funds. In all cases, requesting
+large sums of money without a disciplined, studied, and itemized plan for how this money will be used is
+likely a recipe for the waste of public money.
+In an interview with the OIG, the Steamship Authority’s treasurer acknowledged that the use of
+federal funds played a role in the Authority’s decision to continue working on the website project, rather
+than shelving it, even as it experienced difficulties integrating with
+The Steamship Authority’s
+the reservation system. The Steamship Authority was concerned
+treasurer acknowledged that the
+that it would need to return the awarded funds if it did not finish use of federal funds played a role
+the website project. The treasurer further admitted that if the in the Authority’s decision to
+continue working on the website
+Steamship Authority knew about the reservation system’s
+project, rather than shelving it.
+problems at the website project’s inception, it probably would not
+have applied for federal reimbursement.
+The Ferry Boat Funds application tied the Steamship Authority to the website project when the
+reservation system needed to be replaced. While MassDOT correctly denied the Steamship Authority’s
+request for reimbursement for projects started before receiving a Notice to Proceed, MassDOT’s position
+concerning recent reimbursement requests is overly complacent. The website is currently shelved, and
+further reimbursements should not be approved until the website is publicly operational.
+Finding 5: The Steamship Authority’s failure to properly scope the website project to account
+for work on APIs led to significant delays and change orders, and wasted public funds.
+Steamship Authority officials failed to consider the implications of creating a new website that
+would connect to the existing reservation system, which the Authority knew or should have known was
+at risk per HMS Consulting’s 2018 report.
+62 Agreement Amendment, MassDOT, June 18, 2025. The rescope of the project added a separate capital works project, the
+construction of two vehicle transfer bridges, to the federal Ferry Boat Funds agreement.
+Office of the Inspector General for the Commonwealth of Massachusetts 34 | Page
+
+When designing the website project RFP, Steamship Authority officials determined that a new
+website could connect to the existing reservation system through application programming interfaces
+(APIs), and that their own IT staff would be capable of creating those APIs. Indeed, the reservation
+system’s operator had no input in drafting the RFP. That this determination proved to be incorrect
+resulted in the waste of millions of public dollars.
+Figure 4. The Steamship Authority’s Plan to Integrate Website and Reservation System.
+Office of the Inspector General for the Commonwealth of Massachusetts 35 | Page
+
+The RFP required the website to integrate with the reservation system via API. An addendum to
+the RFP contained vendor questions and the Steamship Authority’s responses. One of the questions in
+this addendum was, “Are there any performance concerns with any of the existing ‘Dynamic Data Feed
+Integrations’ APIs that we should be aware of when making a website/CMS platform proposal?” The
+Steamship Authority’s response to the question was, “None at this time.” The addendum also confirmed
+that the Steamship Authority would build the reservation system’s APIs. Both of these assumptions
+proved to be incorrect and costly.
+Steamship Authority officials and ADK employees both agree that the API section of the RFP was
+under-scoped. In response to the OIG’s question as to whether the RFP adequately addressed the API
+requirements, the General Manager said, “In hindsight, clearly it didn’t.” ADK’s project manager stated
+that ADK did not anticipate having to work on the reservation system’s APIs.
+Instead, ADK found that the APIs were “non-existent” in the form described in the project’s RFP.
+In a memo accompanying Change Order #8, ADK’s project manager noted that its IT team “needs to
+rework the API endpoints in order to ensure that the ticket book payments are being applied correctly at
+checkout to resolve issues that were found,” as well as ensure “that the API to retrieve eFerry tickets for
+logged-in and logged-out users alike is working as intended.”
+ADK’s work on the website was substantially delayed because it did not understand the extent of
+the API-related problems. An ADK engineer compared working on the website while the APIs were being
+developed to “building a plane as they were flying it.” The engineer said ADK employees frequently found
+bugs in the APIs during the quality assurance phase of their work, which required them to go back and do
+“detective work.” A former Steamship Authority IT director stated that the most significant problems they
+encountered when attempting to develop the APIs could be traced back to the reservation system.
+The API work led to significant additional costs. For
+A former Steamship Authority IT
+example, Change Order #9 for $288,000 identifies director stated that the most significant
+“additional development work to complete the Application problems they encountered when
+Programming Interface (API) that serves as the bridge attempting to develop the APIs could be
+traced back to the reservation system.
+between the Authority’s reservation system and the
+website” as a factor in delays.63
+The Steamship Authority failed to adequately scope the project despite warnings from HMS
+Consulting’s 2018 analysis on the fragility of Saber’s reservation system, and due to the General Manager’s
+failure to engage the technical expertise appropriate for a technology-heavy project. Taking these early
+warning signs and failures into account, the OIG believes that the General Manager was incorrect in
+characterizing this failure as something that was only clear “in hindsight.”
+The Steamship Authority treasurer stated that E-Dea SpA’s new reservation system can use a
+different model to connect to the website and that the Steamship Authority “does not want to tie old APIs
+63 Steamship Authority Change Order #9, June 28, 2023.
+Office of the Inspector General for the Commonwealth of Massachusetts 36 | Page
+
+into the new website.” When the OIG asked what this implies for the API work which ADK and the
+Steamship Authority performed during the website project, the Steamship Authority’s treasurer
+acknowledged, “It’s possible that work will not be used in the end.” Taking into account the high likelihood
+that the Steamship Authority will not end up using this API work, it is highly likely that the Authority
+wasted significant sums of public funds, collectively in the amount of several million dollars.
+Finding 6: Steamship Authority officials underestimated how long website development would
+take, despite warnings that their proposed timeline was unrealistic.
+When Steamship Authority officials released an RFP for the website and mobile app project, they
+proposed a timeline of 12 months. Imarc, the company that created and maintains the Steamship
+Authority’s current website, responded to the RFP and proposed a 21-month timeline, with the following
+explanation:
+Based upon our deep understanding of the complexity of the project and underlying
+business systems, and the needs of Steamship’s important stakeholders, we recommend
+that you expand the project timeline to 21 months. We realize that this may not be
+desirable but we view this as beneficial for setting realistic expectations. This is a
+substantial project that incorporates a complex ticketing/reservation system, a
+subdomain/informational site, plus two platform specific mobile applications.
+The Steamship Authority should have known to expect a lengthier process. Imarc’s CEO told the
+OIG that the Steamship Authority’s previous website development RFP, in 2010, also failed to adequately
+prepare the company for the complexities of the Steamship Authority’s system and the reservation system
+in particular. The General Manager admitted that he underestimated the scope of the project and that
+Imarc’s prediction may have been more accurate. The General Manager also stated the reason for the
+underestimation was the switch in methodologies from direct communications with the reservation
+system to an API communications model. While Steamship Authority leadership may have
+underestimated the difficulty of the switch, they were well aware of the reservation system’s issues as
+enumerated in the 2018 HMS Consulting report, and their failure to take these limitations into account is
+one of poor decision-making instead of mis-scoping.
+Finding 7: The Steamship Authority’s replacement of its credit card processing system without
+planning ahead and seeking Board approval led to delays and cost overruns.
+From the early 1990s through 2022, the Steamship Authority’s credit card processing was
+managed by a single operator. This operator handled “front end” work, connecting Steamship Authority
+systems to the credit card transaction company Fiserv/First Data, and was the only person performing
+these duties when the Steamship Authority began searching for a new credit card processing system.
+Similar to the reservation system, for nearly 30 years the Steamship Authority relied on a single individual
+to provide a crucial service without a plan for transition.
+Office of the Inspector General for the Commonwealth of Massachusetts 37 | Page
+
+The RFP for the website and mobile app project, released in 2021, states, “Credit card processing
+will be handled by the Steamship Authority’s existing credit card transaction processor.”64 The Steamship
+Authority had not discussed plans to replace the credit card processor and did not expect credit card
+processing to affect the website project.
+In 2022, however, after the Steamship Authority procured ADK’s services for the website project,
+the Authority switched to a major credit card processing company, Eigen, by signing a Merchant Services
+Agreement with Martha’s Vineyard Savings Bank (MVSB). The Steamship Authority had an existing
+banking relationship with MVSB. The Steamship Authority made this change without an RFP; according to
+the treasurer, MVSB suggested that the Authority switch to Eigen to better comply with new security
+standards.
+The reservation system’s operator, as well as an ADK engineer, both agreed that integrating Eigen
+into the website had a major adverse effect on the website development project. Change Order #5, for
+$368,962, stated that delays involving Eigen were the largest factor in that change order.65 The Steamship
+Authority’s decision to change credit card processors took place without consideration of the potential
+impact on the website project. The Steamship Authority also switched to Eigen without adhering to other
+best practices for major procurements, such as seeking the Board’s approval and conducting a process to
+determine whether other processors offered better value. While the Steamship Authority’s credit card
+processing system was indeed in need of an upgrade, implementing this upgrade without preparing its
+website vendor for such a significant change led to substantial delays and cost overruns.
+The Steamship Authority’s poor planning in replacing its credit card processing system is yet
+another example of its leadership’s failure to understand the systems the Authority was using, the
+interrelationships of these systems, and the basic principles of project management.
+III. Project Management Failures
+Finding 8: The General Manager appointed an unqualified Project Manager and failed to give
+him necessary resources.
+The General Manager appointed the Steamship Authority’s communications director to serve as
+Project Manager for the website development project, despite his having no IT or project management
+experience, and only removed him after a year of delays and cost overruns of more than $800,000.
+While serving as Project Manager for the website, the employee was expected to maintain his
+full-time duties as communications director. The Project Manager told the OIG that he was working 60
+hours a week and was experiencing difficulties fulfilling both jobs. This dual responsibility led to a
+breakdown in duties, such as canceling meetings for one role when a crisis occurred in the other. The
+64 Request for Proposals, Steamship Authority, June 1, 2021.
+65 Steamship Authority Change Order #5, November 11, 2022.
+Office of the Inspector General for the Commonwealth of Massachusetts 38 | Page
+
+General Manager did not give the Project Manager a list of priorities or instruction or training regarding
+his responsibilities in the management role.
+The Project Manager said he never had a conversation about his difficulties with the General
+Manager, stating specifically that “this is not an organization that has a culture of that happening.” When
+asked why the Project Manager maintained his communications director duties, the General Manager
+said, “We have a lot of people that have a heavy load with different things going on.”
+The Project Manager failed to recognize the complexity of the problems which arose in the
+website development project and inaccurately assessed the extent of the delays those problems would
+cause, as attested to by numerous ADK and Steamship Authority employees. The Steamship Authority’s
+treasurer said that the project had good intentions but bad project management. The Steamship
+Authority’s IT director said that the Project Manager set deadlines for beta tests that should not have
+been set and were constantly missed. An ADK engineer stated that the Project Manager struggled to
+coordinate timelines, was late on deliverables, did not manage engineers well, and did not really “have
+his full finger on the pulse of things.” In short, the project suffered from delays and mismanagement
+before the General Manager replaced the Project Manager with the Steamship Authority’s IT director in
+August 2023. The IT director, who managed the project until it was shelved, did so in addition to his
+otherwise full-time job responsibilities.
+The General Manager told the OIG that he appointed the Steamship Authority communications
+director to manage the website project because the website contained a large amount of public-facing
+information and because the communications director was familiar with the Steamship Authority’s
+operations. However, as an employee with no significant technical or project management background,
+the communications director was a poor choice to manage a $2 million website development project. The
+OIG believes that this decision, along with the decision to keep the Project Manager in this role as more
+than $800,000 in change orders amassed, demonstrates the General Manager’s clear lack of
+understanding of what the project demanded, his failure to respond appropriately to developments in the
+project, and his overall poor management and leadership capacity.
+Finding 9: The Steamship Authority failed to establish a scope of work or cost estimate before
+hiring the Owner’s Representative, leaving the Authority vulnerable to excessive costs.
+In 2021, the Steamship Authority’s website redesign project committee hired Pierce-Coté
+Advertising and sister company Regan Digital Studio to “provide consulting, review, and technical writing
+support for the purposes of assembling an RFP / RFQ for The Steamship Authority’s website development
+project in the late Winter / early Spring of 2021.” The agreement lists a rate of $250 per hour for an
+estimated maximum of 60 hours, equaling a maximum estimated value of $15,000.
+After the RFP was issued in 2022, the Project Manager told the Board that Regan Digital’s
+president was continuing to work on the website project and providing technical oversight as an “owner’s
+Office of the Inspector General for the Commonwealth of Massachusetts 39 | Page
+
+representative.”66 Despite Pierce-Coté’s original support agreement only containing a scope for RFP
+development, the Steamship Authority failed to create an additional agreement or redefine the scope for
+consulting services provided by the Owner’s Representative.67
+The Steamship Authority ultimately paid $130,000 to the Owner’s Representative for his work on
+the website project,68 nearly nine times the original estimated cost for RFP consulting.
+The Steamship Authority’s original procurement of Regan’s services was undertaken according to
+the Authority’s procurement policy. However, once the consultant’s role changed from the original
+contract, the Steamship Authority should have created a scope of work and cost estimate for the
+additional duties to clarify the Owner Representative’s role in managing the project. In addition, the
+Steamship Authority’s procurement policy contains the following provision:
+(b) The General Manager also shall submit a report to the Members and Port Council on
+at least a monthly basis identifying all contracts whose amounts (whether actual or
+estimated) have increased by $25,000 or more since the date of his or her last report. The
+report shall contain the following information with respect to each such contract:
+(1) the person to whom the contract was awarded;
+(2) the purpose of the contract;
+(3) the original amount of the contract;
+(4) the increased amount of the contract; and
+(5) the reasons for the increase in the amount of the contract
+The OIG could not find any documentation suggesting that the General Manager provided these updates
+to the Port Council or Board.
+Finding 10: Steamship Authority officials prevented the Board’s informed project oversight by
+withholding critical documents and information from the Board and issuing misleading
+statements.
+Shortly after ADK initially proposed a change order for $479,172 on October 3, 2022, the Owner’s
+Representative prepared a four-page analysis that criticized ADK’s failure to communicate “their concerns
+66 Steamship Authority Meeting Minutes, May 26, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20220526.pdf.
+67 In an interview with the OIG, the Owner’s Representative said his job was to listen to what ADK told the Steamship Authority
+and be a “gut check” about those communications.
+68 Website Budget, Attachment, Steamship Authority Meeting Minutes, November 28, 2023, available at https://www-
+steamship-assets.s3.amazonaws.com/files/2023_1128_board_meeting_public_packet.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 40 | Page
+
+over delays that they claim were caused by Steamship Authority.”69 ADK’s proposed change order would
+ultimately become Change Order #5, for $368,962.
+At the Board meeting on October 18, 2022, the Project Manager provided an update on the
+website project but did not mention ADK’s proposed change request or the Owner’s Representative’s
+analysis. Instead, the General Manager proposed a Post-Launch Support Agreement with ADK.70 That
+agreement would pay ADK $29,000 a month for 12 months, for a total of $348,000 a year. The Board
+voted to table the measure until a later meeting.
+The Project Manager presented Change Order #5 for a reduced amount of $368,962 at the
+November 28, 2022 Board meeting, and the Board approved.71 The Owner’s Representative’s memo
+criticizing Change Order #5 was not attached to the publicly available packet of Board documents.72
+Shortly thereafter, the Board approved the $348,000 post-launch support agreement at its December 13,
+2022 meeting.73
+In an interview with the OIG, the Project Manager stated he did not think it was relevant for the
+Board to respond to the Owner’s Representative’s criticisms of the initial proposed change order, and that
+only the final version of a change order needed to be presented to the Board. The Project Manager also
+stated that he had a certain consideration for the ongoing working relationship with ADK.
+In an interview with the OIG, the General Manager stated that the change order was not
+presented to the Board in October because the Steamship Authority was still negotiating with ADK. By
+contrast, the post-launch services agreement was fully negotiated and therefore ready for presentation
+to the Board.
+The General Manager told the OIG that he “doesn’t know offhand” why the Owner’s
+Representative’s memo was not provided to the Board, as indicated in the public packet. The General
+Manager also said that the Board does get an expanded staff summary and supporting documents, and
+suggested that the memo may have been provided to the Board but not to the public. When the OIG
+asked if the supporting information and documentation for Change Order #5 should have been made
+69 ADK October 3, 2022 Change Order Request analysis, Regan Communications Group, October 12, 2022.
+70 Steamship Authority Meeting Minutes, October 18, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20221018.pdf.
+71 Steamship Authority Meeting Agenda, November 28, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20221128.pdf.
+72 Steamship Authority Board Meeting Agenda, November 23, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/2022_1128_board_meeting_public_packet.pdf.
+73 Steamship Authority Meeting Minutes, December 13, 2022, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20221213.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 41 | Page
+
+public once it was given to the Board, the General Manager replied the packets were too large and would
+not have been easily downloadable.74
+Failure of Steamship Authority officials to
+Steamship Authority leadership’s failure to
+provide the public, and possibly the Board, with the provide the Board with crucial information
+Owner’s Representative’s memo prevented adequate prevented it from exercising meaningful
+oversight over important decisions, such as
+oversight of the change request. Oversight from the
+approving change orders, and contributed
+Board, which must approve all change orders of more
+to the overall dysfunction of the process.
+than $200,000, may have led to further negotiation over
+the price of Change Order #5. The criticisms that the Owner’s Representative raised could have given the
+Board a different perspective when deciding to approve subsequent change orders. Steamship Authority
+leaders were more focused on avoiding criticism and maintaining relations with ADK than they were in
+facilitating oversight from the Board.
+Steamship Authority officials further provided misleading information to the Board.
+For example, at the November 28, 2022 Board meeting, when explaining the circumstances
+surrounding Change Order #5 to the Board, the General Manager outlined the additional development
+work for APIs and changes to the reservation system needed to support new functionality. But the General
+Manager also told the Board that “those hurdles have largely been resolved, and development work is
+proceeding at a brisk pace,” even though the API issues continued to delay the project until it was shelved
+in 2024.
+In an interview with the OIG, a former ADK employee stated that the General Manager wanted to
+“control the narrative” of the website project and pointed to the difference between a highly critical
+memo from ADK accompanying Change Order #8 and the text of the order itself.75 The former ADK
+employee stated that Steamship Authority officials intentionally wrote the change order to avoid the
+critical tone of the memo. The ADK employee explained that the vendor was unwilling to bring its concerns
+to the Board because taking positions contrary to the Steamship Authority’s leadership could have
+endangered the project, as well as ADK’s contract.
+After a Board meeting in December 2023, the former ADK employee emailed the General
+Manager about his concerns that Steamship Authority officials were keeping the project’s problems from
+the Board, further delaying the project:
+The root of our launch delays and cost overruns remains the backlog of work for your
+already stretched team. I am of the belief that it's in both of our best interests to be
+transparent with the Board on this matter. This would allow them to make an educated
+decision about establishing a proper funding and staffing level for your internal team, as
+74 It is unclear whether the Board received documents in open session that were not posted publicly, potentially violating the
+Open Meeting Law.
+75 For further discussion of Change Order #8, see Finding 13, infra.
+Office of the Inspector General for the Commonwealth of Massachusetts 42 | Page
+
+well as for 3rd party service providers like us. The longer we continue to not share the
+reality of the situation with the board, the longer you and I will continue to find ourselves
+together in this vicious and toxic cycle.
+In an interview with the OIG, the General Manager said he disagreed with that assessment and
+that ADK wanted to make a direct appeal to the Board to get additional funding for the project. Steamship
+Authority officials also disagreed with ADK’s assessment, claiming that ADK was responsible for holding
+up the project. Regardless of which party was more to blame for project delays, the Steamship Authority’s
+practice of withholding critical details from the Board contributed to the dysfunction of the process and
+prevented the Board from making informed oversight decisions. It appears to the OIG that Steamship
+Authority leadership considered dollar value when deciding what information to present to the Board,
+but did not consider what information would keep the Board appropriately up to date on major project
+issues.
+Finding 11: Project delays caused the Steamship Authority to spend additional amounts
+totaling more than $600,000 on contractors and services.
+In an interview with the OIG, the General Manager stated that the Steamship Authority hired
+additional outside consultants to help move the website project to completion in response to project
+delays. Two particular expenses clearly arose from these delays.
+First, in July 2024, the Steamship Authority hired IT consultant IntraSystems, LLC under a state
+blanket contract to perform “stress and performance testing along with a platform evaluation of the new
+Steamship Authority website.”76 The request noted, “This new platform has not been deployed to
+production and there remains concern over performance, security and integration … The Steamship
+Authority plans to launch this new platform in early June and efforts to evaluate both the application
+platform and its performance must work for this timeline to be realized.” Had the website project
+remained on schedule, this expense of $155,000 would not have been necessary.
+Second, in October 2024, the Steamship Authority officially shelved the website project. To ensure
+the existing website was kept up and running, the Board approved a $133,250 contract with Imarc, the
+existing website vendor, to run from October 2024 to February 2025.77 In February 2025, the Board
+approved a $258,300 contract with Imarc for similar support services, to run from April 2025 to December
+2025.78 In November 2025, the Board approved a $120,000 contract with Imarc for further support
+services, to run from January 2026 to December 2026. Had the website project been completed as
+planned, this support, totaling $511,550, would not have been necessary.
+76 Staff Summary, Steamship Authority, April 18, 2024.
+77 Staff Summary, Steamship Authority, October 10, 2024.
+78 Staff Summary, Steamship Authority, February 6, 2025.
+Office of the Inspector General for the Commonwealth of Massachusetts 43 | Page
+
+IV. Oversight Failures
+Finding 12: Some Board members had an unclear understanding of their oversight
+responsibilities, leading to the Board’s failure to adequately monitor the Steamship Authority’s
+decisions throughout the website project.
+Although the five Board members are unpaid, the role comes with perks such as free ferry tickets
+and reserved parking for themselves and their spouses and children.79 Members are appointed by local
+government bodies – for example, the Nantucket Board member is appointed by Nantucket county
+commissioners. As a result, Board members hold some amount of prestige in their local communities. This
+provides stability but also contributes to stagnation. A desire to continue serving on the Board may in
+many instances create circumstances in which Board members are given little incentive to disagree with
+any of the Steamship Authority’s decisions. One member has served for 13 years, and was appointed after
+his father, who previously held the seat, passed away; and another member has served for ten years and
+was first appointed to fill the seat held by her father, who passed away in office.
+Some Board members do not appear to understand their oversight role. In an interview with the
+OIG, one member stated that he represents the interests of island residents when making Board decisions,
+but also that he represents the Steamship Authority to the public, which seem to be conflicting priorities.
+One member told the OIG that some of the older Board members view themselves as the “ambassadors”
+of the Steamship Authority, and as a result did not perform oversight. This member explained the Board’s
+attitude as one of approving management’s recommendations instead of taking its own initiative, or
+questioning or challenging management’s recommendations and proposals.
+This lack of definition in the role that the Board
+Not Rocking the Boat
+plays in the Steamship Authority’s decisions has
+permitted Steamship Authority officials to control the While Board members are unpaid for their
+agenda, despite the clear wording in the Steamship oversight role, they enjoy perks such as
+free ferry tickets for themselves and certain
+Authority’s bylaws that the Board members “have
+family members, and reserved parking, as
+charge of and supervise the management, operation
+well as prestige in their local communities.
+and direction of all business and affairs of the
+This unique form of compensation gives
+Authority.” In an interview with the OIG, one member Board members little incentive to rock the
+stated that the Board generally only learns what the boat in Steamship Authority operations.
+discussion topics for their next meeting will be when
+they receive the agenda from the Steamship Authority. Until recently, the General Manager took the lead
+in developing the Board’s meeting agendas.
+In addition to the lack of definition of the Board’s oversight role, many Board members did not
+understand the scope of the website project. In an interview with the OIG, one Board member suggested
+79 See Eunki Seonwoo, Calls intensify for SSA term limits, MV TIMES, May 7, 2025, available at
+https://www.mvtimes.com/2025/05/07/calls-intensify-ssa-term-limits/.
+Office of the Inspector General for the Commonwealth of Massachusetts 44 | Page
+
+that some Board members did not understand that the reservation system was distinct from the website.
+In an April 2025 interview with the OIG, another Board member said that the reservation system project
+was on hold, despite there being an active RFP for a new reservation system at the time.
+Without a clear understanding of the differences between the website and the reservation
+system, Board members were not equipped to provide oversight of the website project or to understand
+the issues which accumulated over the project’s span. Two Board members told the OIG they pushed back
+on continuing the project after it continued to miss deadlines, but other Board members were not as
+concerned about the project’s overruns or were unwilling to act. One Board member told the OIG that he
+felt the Board was “over a barrel” and had no choice but to approve the change orders.
+None of the Board members could recall if the Board had specific discussions about certain major
+components of the website project, including the application for federal Ferry Boat Funds and the decision
+to switch credit card processors to Eigen. The Board does not appear to have sought more information
+when it became aware of these decisions. While the Board did ultimately push for an outside contractor
+to evaluate the Steamship Authority’s IT capabilities when the General Manager would not admit that the
+Authority had significant IT shortfalls, in general the Board displayed a hands-off attitude in the decision-
+making process.
+The Authority’s bylaws state that members of the Authority “have charge of and supervise the
+management, operation and direction of all business and affairs of the Authority.”
+By failing to gather information about the project over which they had direct oversight, the Board
+members failed to fulfill their fiduciary duties, or indeed to even demonstrate that they understood what
+these duties are.
+Finding 13: The Steamship Authority’s procurement policy undermines the Board’s oversight
+responsibilities.
+The OIG found that the Steamship Authority’s procurement policy, which requires that the Board
+approve change orders based on the value of the good or service, allows the Steamship Authority to
+authorize change orders without Board approval which otherwise significantly affect the project. The
+Steamship Authority’s procurement policy also does not require the Board to approve or receive
+notification of developments apart from change orders that will have a significant, yet indirect, fiscal
+impact on the Authority. The Steamship Authority accordingly approved numerous change orders and
+other developments for the website project without informing the Board, to the overall detriment of the
+project.
+A. Change Orders
+Under the Steamship Authority’s procurement policy,80 all change orders of more than $200,000
+must be approved by the Board. Change orders of less than $100,000 may be approved solely by the
+80 Procurement Policy, Steamship Authority, December 15, 2020.
+Office of the Inspector General for the Commonwealth of Massachusetts 45 | Page
+
+General Manager, without Board discussion. If the change order is between $100,000 and $200,000, the
+General Manager may approve it but must also do the following:
+1. Certify in writing that a delay in authorizing the change order to allow the Board members
+to consider it at their next regular meeting would adversely affect the progress of the
+work being performed under the contract;
+2. Provide a copy of the certification to the Board prior to its next regular meeting; and
+3. Provide an oral report on why the change order is needed at the Board’s next meeting.
+The website project saw nine total change orders. Three of those – Change Order #5, involving $368,962;
+Change Order #7, involving $165,200; and Change Order #9, involving $288,000 – were presented to and
+approved by the Board.
+Change Order #4,81 which shifted the proposed website launch date from November 7, 2022, to
+March 15, 2023, was not officially presented to the Board, but the date change was announced to the
+Board.
+Change Orders #1,82 #2,83 #3,84 #6,85 and #886 were not presented to the Board.87
+Change Order #2 shifted invoice payment dates. Change Orders #1, #3, and #6 involved the
+selection of technology platforms for the website. In an interview with the OIG, the Project Manager said
+that those selections would ultimately affect the Steamship Authority’s operating budget when the
+website was launched but would not affect the cost of the website project itself.
+Change Order #888 merits particular attention. Submitted in April 2023, Change Order #8 extended
+the website launch date to May 31, 2023, set a new date for post-launch support services, and altered the
+scope of ADK's work without adding to the project’s cost. The change order also contained a note
+attributing the deadline extensions to “ongoing delays caused by Customer’s IT Team’s progress on
+specific tasks.”
+81 Steamship Authority Change Order #4, August 25, 2022.
+82 Steamship Authority Change Order #1, March 31, 2022.
+83 Steamship Authority Change Order #2, March 31, 2022.
+84 Steamship Authority Change Order #3, August 25, 2022.
+85 Steamship Authority Change Order #6, December 5, 2022.
+86 Steamship Authority Change Order #8, April 19, 2023.
+87 While these change orders were not formally presented to the Board, some of the information they contained was
+presented. For example, the general substance of Change Order #1 and Change Order #6 were both presented as part of
+monthly updates.
+88 Steamship Authority Change Order #8, April 19, 2023.
+Office of the Inspector General for the Commonwealth of Massachusetts 46 | Page
+
+Furthermore, attached to Change Order #8 is a memo from ADK explaining that the Steamship
+Authority’s IT team had not completed 14 critical tasks and pushed back deadlines for those tasks 59
+times. ADK’s memo describes the significant problems causing delays:
+1. “IT Infrastructure that is even more outdated and misaligned with the complexities of the
+Steamship Authority’s business model than anyone expected.”
+2. “A lack of technical project management personnel within the IT department to organize
+complex technology and infrastructure work.”
+3. “If we were not reliant on the IT team to launch the website, we would be prepared to
+guarantee a launch date on May 1st. However, the progress of the IT team is not under
+our control… Therefore, we cannot guarantee a launch date.”
+The memo states that ADK will commit more resources to the project’s development in exchange
+for reducing their commitment to post-launch website audit services required under the original contract,
+ultimately providing an uncompensated value of $103,000 to the project.89
+In an interview with the OIG, the General Manager said that Change Order #8 was not presented
+to the Board because the $103,000 figure did not represent a cost increase to the project. However,
+Change Order #8 clearly identifies a significant change in work required for the project as well as a delay
+of the completion date. And both the change order and ADK’s memo attribute those delays to issues with
+the Steamship Authority’s IT department, which the Board oversees.
+In an interview with the OIG, the General Manager said that “we are not hiding anything” from
+the Board and that Steamship Authority staff gave updates to the Board on the website project every
+month. But the minutes for a Board meeting held on March 29, 2023,90 two days after ADK submitted its
+memo, show that the Steamship Authority took pains to avoid transparency:
+The Steamship Authority and [ADK] have been reviewing the tasks left to do prior to beta
+launch and have determined that moving the launch to late May is the best way to deliver
+a superior experience to the Authority’s customers. Both teams have been working
+extremely hard, but properly integrating the many interconnected systems that run the
+Authority’s business operations is a complex process that needs to be done right. [ADK] is
+committing additional engineer and developer hours to the extended effort at no cost to
+the Authority.
+89 The memo states ADK will provide a “value” of $55,000 in engineering work and a “value” of $96,000 in full teamwork over
+the next two months, without charging the Steamship Authority. The memo also reduces the amount of post-launch website
+audit services in the original contract 90 to 60 days without altering payment for that work, which the memo says will provide
+$48,000 in “value” to ADK. The memo states that when that final milestone is concluded, ADK will “transition to work” under
+the post-launch support services agreement.
+90 Steamship Authority Meeting Minutes, March 29, 2023, available at https://www-steamship-
+assets.s3.amazonaws.com/files/ssa_minutes_public_session_20230329.pdf.
+Office of the Inspector General for the Commonwealth of Massachusetts 47 | Page
+
+This report to the Board does not disclose ADK’s concern that
+The Steamship Authority
+appears to have taken pains the Steamship Authority’s IT team is not able to develop the APIs. Nor
+to avoid transparency with does it even reflect the information contained in Change Order #8,
+the Board when it came to
+identifying delays from the Steamship Authority’s IT team. Taking this
+technical issues the Authority
+information into account, the OIG finds the Steamship Authority’s
+and ADK were experiencing.
+characterization of the project status in terms such as “superior
+experience” and “at no cost to the Authority” to be inaccurate and
+misleading. Providing the full information in Change Order #8 could have prompted the Board to
+investigate the IT department’s performance as part of its oversight of the contract. Furthermore, in June
+2023, the Board approved a final change order, Change Order #9, for $288,000. It is impossible to know
+whether the Board would have chosen not to approve Change Order #9 if it had received the information
+from Change Order #8, but that information would have given the Board important context for
+understanding and overseeing the final change order.
+The Steamship Authority’s procurement policy permitted officials to choose not to disclose
+change orders that significantly delayed the project timeline, contributed to consequential expenses in
+excess of $500,000, and revealed shortcomings of the Steamship Authority’s IT team. In order for the
+Board to effectively fulfill its oversight role, the Board should approve all change orders that significantly
+affect the project and should be informed of all significant details concerning a major project, including
+all change orders.
+B. Other Project Developments
+Apart from change orders, the Steamship Authority’s procurement policy does not require the
+Board to approve or receive notifications of other significant project developments. The Steamship
+Authority made several major decisions which affected the trajectory of the website project without any
+oversight at all by the Board. Three examples are presented below:
+First, the Steamship Authority’s application for federal Ferry Boat Funds was not announced to
+the Board until it had already been submitted to MassDOT and approved. By that time, Steamship
+Authority officials were already well under way preparing an RFP for the website project. There is no prior
+record of the grant request and subsequent correspondence being presented to the Board or the Port
+Council. By not bringing the federal grant request before the Board or Port Council, Steamship Authority
+officials avoided an opportunity for oversight of the project’s primary funding source. Additional oversight
+of the funding request may have led Steamship Authority officials to develop a strategic plan or to address
+HMS Consulting’s 2018 recommendation to overhaul the reservation system.
+Second, despite credit card processing charges accounting for more than $2 million a year, the
+General Manager stated that the Steamship Authority was not required to issue an RFP to switch over to
+Eigen’s credit card processing services, because those services were part of the ongoing banking
+relationship with MVSB. As a result, the Board was only notified of the change after the fact. The OIG
+disagrees with the General Manager’s failure to inform the Board of the change beforehand. In an
+Office of the Inspector General for the Commonwealth of Massachusetts 48 | Page
+
+interview with the OIG, the Steamship Authority’s treasurer stated that he “did not have an answer” for
+why the change was not presented to the Board. Ultimately, the switchover to Eigen without proper
+planning or approval had a significant negative impact on the website project.
+Third, in 2024 the Steamship Authority approved the $350,000 agreement to purchase the rights
+to Saber’s source code without presenting it to the Board or getting Board approval. The General Manager
+stated that this agreement was not presented to the Board because it was an adjustment of an ongoing
+contract for support services, despite the agreement specifically indicating payment for the source code
+rather than support services. When the OIG asked the General Manager if the agreement should have
+been presented to the Board as an update that pertained to the ongoing website project, which had
+become increasingly contentious, the General Manager replied, “When you put it like that of course it
+sounds like it should have been, but we looked at it as an addendum to an existing contract.”
+V.
+Red Flags Continue
+Finding 14: The Steamship Authority has not learned from its experiences during the website
+project and is maintaining poor practices for future projects.
+As of December 2025, the Steamship Authority has a website produced by ADK which has been
+shelved, a contract with E-Dea SpA to produce a new reservation system, and a hiring agreement with a
+new general manager. But many issues exposed by the website project remain.
+Steamship Authority officials told the OIG they believe the website is salvageable and will work
+with the incoming reservation system. The OIG is skeptical of this claim, specifically that the work to
+connect the new website with the old reservation system can be repurposed to connect the website to
+the new reservation system. The OIG is also concerned that the Steamship Authority is clinging to the new
+website’s viability out of fear that if it does not work, the Authority will have to return the federal
+reimbursement it received for the project. The Authority may be tying itself to an out-of-date system
+instead of moving forward.
+It is also unclear how the Steamship Authority has changed its project management practices for
+oversight of the reservation system project. While E-Dea SpA appears to be a credible partner, the
+Steamship Authority needs to actively oversee and manage a project that already has a price tag of nearly
+three times the initial amount of the website project.
+Most concerningly, the major drivers of the website project – the General Manager and the Board
+– are still playing and will continue to play prominent roles at the Steamship Authority. In September
+2024, the General Manager announced he would resign his position in a year, kicking off the process to
+hire a new general manager, which has just concluded. In October 2024, the outgoing General Manager
+signed an agreement with the Board to serve as a senior advisor to the new general manager for up to 18
+months.
+The senior advisor agreement pays the outgoing General Manager at the yearly rate he received
+in his final year as General Manager: $239,480. The language of the agreement largely mirrors the General
+Office of the Inspector General for the Commonwealth of Massachusetts 49 | Page
+
+Manager’s prior contract, giving him nearly identical benefits and significant compensation. If the
+Steamship Authority terminates the senior advisor’s contract for any reason other than significant
+wrongdoing or misconduct, he will collect a full year’s pay and buy-back benefits; and if the Steamship
+Authority reduces the senior advisor’s “duties and responsibilities,” he is able to resign and collect a full
+year’s pay and buy-back benefits.
+Those duties and responsibilities are described in an appendix to the agreement.91 While the
+senior advisor will be under the direction of the incoming general manager, he will still be responsible for
+“the provision of high-level advice and comprehensive research to inform strategic decision making”
+playing a “lead role in researching and benchmarking to inform key strategic initiatives and projects,”
+“create[ing] and implement[ing] complex strategic plans,” and “lead[ing] the successful implementation
+of large projects, including seeking funding opportunities,” among other duties.
+In the past, the OIG has investigated deals in which publicly employed executives wrote their own
+contracts and post-employment agreements to their benefit and not to the best interest of the public (for
+example, the Mashpee Housing Executive Director). These agreements were approved with little to no
+oversight from the boards charged with performing due diligence and ensuring responsible spending of
+public dollars. It is unclear who presented the senior advisor contract and how much oversight the Board
+performed, but whether they did not realize its similarity with the previous General Manager contract and
+its duties and compensation, or did acknowledge the overlap in those regards, the same critical problems
+remain.
+If the Board wanted to ensure continuity and the sharing of institutional knowledge via a senior
+advisor position, it could have delineated those roles in the contract. Instead, the Board agreed to give
+the outgoing General Manager significant responsibilities, ensuring his continued influence at the
+Steamship Authority, while paying him at the same rate he earned while serving as General Manager. If
+the Board approved the compensation of the outgoing General Manager at his current level with the
+intention that he perform transition-related duties, they did not perform their fiduciary duties.
+Approving that level of compensation along with the job description’s enumeration of
+responsibilities for high-level work suggests the Board is looking for the outgoing General Manager to play
+a prominent role at the Steamship Authority moving forward. The description lists seven “essential duties
+and responsibilities” for the senior advisor, with the first three involving strategic planning analysis,
+project management, and implementation of large projects. The other four duties involve building and
+sustaining internal networks, preparing work product, advising on planning, and acting as an
+“ambassador” for the Steamship Authority’s Safety Quality and Management System.
+It is unclear why the Board assigned the outgoing General Manager the first three duties as senior
+advisor, given his failure to execute them during the course of the website project. While these and the
+other four duties are to be performed “under the direction of the General Manager,” their broad scope
+91 See Senior Advisor to the General Manager Job Description.
+Office of the Inspector General for the Commonwealth of Massachusetts 50 | Page
+
+cannot help but overlap with the duties of the incoming general manager. Because the contract states
+that reducing the senior advisor’s “duties and responsibilities” entitles him to resign and collect a full
+year’s pay and buy-back benefits, the incoming general manager will not enjoy the advantages of receiving
+advice from a knowledgeable but hands-off former employee. Instead, his hands are effectively tied, and
+he cannot limit the role of the senior advisor and fully exercise his own abilities without the Steamship
+Authority making a costly payout. The OIG is troubled by this potential result.
+Finding 15: At a moment of significant change, the Steamship Authority is staying on a course
+that has undermined its credibility and encouraged public skepticism.
+The Steamship Authority has made attempts to address weaknesses in past practices, including
+hiring consultants from consulting firm Raftelis to help implement a new strategic plan. Hiring the first
+new general manager in a decade is a chance to make a clear break from past practices, but the Board
+and the outgoing General Manager are continuing to maintain an ill-determined course that is
+undermining the Steamship Authority’s credibility within and without the organization.
+This report provides examples showing how the current Steamship Authority leadership created
+a culture in which employees were not and are not encouraged to raise their concerns, but instead are
+expected to keep their heads down and their thoughts to themselves. The outgoing General Manager
+assigned a project manager already serving in a full-time role to take charge of the website project, despite
+that manager’s lack of qualifications, and expected no one to question his decision. This attitude creates
+a workplace that is resistant to new ideas and healthy pushback.
+Relatedly, under the outgoing General Manager officials presented the Board with information
+that was often overly optimistic and incomplete, on a need-to-know basis. Several Board members
+accepted this with little question or criticism, in effect endorsing this top-down and blinkered leadership.
+This management style – compounded by the Steamship Authority’s reservation system crashes,
+the mechanical and staffing issues resulting in delayed and cancelled trips, and the project delays and cost
+overruns of the website project – has made the public skeptical of the Steamship Authority. If the
+Steamship Authority did not travel on a route which includes the Cape and Islands, which have emerged
+over decades to become nationally and internationally sought-after summer destinations, the Authority
+would be in far worse shape reputationally. Nonetheless, the new general manager has work to do in
+building up the public’s opinion of the Authority.
+Restoring trust within the Steamship Authority and among its users are areas that the incoming
+general manager needs to address from day one, if the type of change envisioned and needed is going to
+occur. While he should not continue the top-down governance of the past, he should be empowered to
+set a new tone from the top. This will be difficult with the outgoing General Manager continuing to work
+at the Steamship Authority in a position of power, placed there by a Board that apparently sees value in
+his style of management and the results it has produced.
+Office of the Inspector General for the Commonwealth of Massachusetts 51 | Page
+
+FINANCIAL LOSSES
+The Steamship Authority’s mismanagement has cost the public millions of dollars. As shown in
+Figures 5 and 6 below, the Authority has already incurred over $2.3 million in losses. If the website proves
+incompatible with the new reservation system and is never launched, potential losses could swell past $4
+million.
+Figure 5. Losses Due to Mismanagement.
+ADK and the Authority agreed to three change orders as the website project
+progressed. Had the project been completed on time and on budget, these costs $822,162
+would not have been incurred.
+The Authority contracted with ADK for a 12-month post-website-launch support
+services agreement for $348,000. The website never launched, and the Authority
+ultimately used the agreement to fund ADK’s further development work. The $493,000
+agreement automatically renewed, and the Authority spent another $145,000
+before canceling the contract.
+The Authority signed a $155,000 contract with IntraSystems, LLC to “stress test”
+the unfinished website. The Authority also had to extend its contracts with the
+existing website’s support vendor, Imarc, from October 2024 to December 2026
+$666,550
+at a cost of $511,550. While those services were and are being performed, had
+the website project been completed on time, additional stress testing and
+continued support for the existing website would have been unnecessary.92
+The Authority was unable to confirm the existence of a 2010 contract with Saber
+Technologies under which the Authority paid $35,000 to license the reservation
+system’s source code. As a result of this poor contract management, the Authority
+$350,000
+signed another agreement in 2024 to license the source code for $350,000. By
+not having the proper documentation in place, the Authority effectively paid for
+the license a second time at 10 times the price.
+Total losses due to mismanagement $2,331,712
+92 The OIG is not suggesting that project vendors failed to perform as expected under their respective contracts. The OIG’s view
+is that these expenses would have been unnecessary if the Authority had effectively managed the website project.
+Office of the Inspector General for the Commonwealth of Massachusetts 52 | Page
+
+Figure 6. Additional Potential Losses if Website Does Not Launch.
+The Federal Highway Administration (FHWA) approved reimbursements totaling
+$3,017,051 for four Authority IT projects. Approximately $2 million of the
+reimbursements were earmarked for a website and mobile app project. The
+Authority accordingly signed a contract for $1,996,554 with ADK to develop the
+website and mobile app. Some Board members – as well as the OIG – believe the
+$1,996,554
+website may never be used with the new reservation system currently being built.
+In that case, the Authority may have to reimburse the FHWA for grants already
+received and could be ineligible for further reimbursements for a project that did
+not materialize. The OIG cautions the Authority against expending future dollars
+on the shelved website project as a means to avoid returning grant monies.
+The Authority initially contracted with Regan Digital Studio to provide consulting
+services for the website’s procurement at a maximum value of $15,000. Later, the
+Authority named the Regan consultant as the “owner’s representative” of the
+$130,000
+project itself, ultimately paying him $130,000 in that capacity. If the Authority
+assigned a qualified project manager to the website project, the latter expense
+would have likely been unnecessary.
+Total additional potential losses $2,126,554
+Finally, as previously discussed, the Authority’s project mismanagement has resulted in missed
+opportunities for other federal reimbursements. In approving reimbursements for the Authority’s
+projects, the FHWA earmarked $700,000 for reservation system hardware. The Authority applied for
+$353,802 in reimbursements but was denied due to its purchase of the hardware before the agreement
+was in place. Although the Authority is working to apply the $700,000 reimbursement allowance to the
+new reservation system being developed by E-Dea, the Authority paid the initial $353,802 expenditure
+out of capital funds, losing an opportunity for these dollars to be funded by a federal grant.
+Office of the Inspector General for the Commonwealth of Massachusetts 53 | Page
+
+RECOMMENDATIONS
+As the OIG’s findings demonstrate, the Steamship Authority’s major technology procurement
+suffered gross failures at all levels. The Authority’s neglect in project planning, management, and
+oversight allowed a $2 million project to snowball to $4 million in payments for a website that, as of this
+writing, has been shelved. The OIG accordingly offers a range of recommendations to address the multi-
+pronged problems that led to this result.
+For the Steamship Authority administration – led by the incoming general manager, beginning January
+2026
+The OIG recommends that the Steamship Authority administration take the following actions:
+Immediately (within 30 days of the incoming general manager’s start date)
+1. Review this report and begin to address its recommendations.
+2. Ensure plans are in place for a smooth Head Start reservation opening for the 2026
+summer season.
+3. Assess the status of the active reservation system development project with E-Dea.
+Confirm that the project is staying within its $5.7 million budget and is on track for an on-
+time delivery in the fourth quarter of 2026.
+a. Update the Steamship Authority Governing Board (Board) on the project status.
+b. Clarify in writing the steps that are being taken to mitigate cost overruns and
+delivery delays.
+4. Clarify, as of the date of this letter, whether the new reservation system will be
+integrated with the Steamship Authority’s current website, its shelved website developed
+by ADK, or another website, and if any additional costs have been incurred during the
+website integration process.
+5. Regularly report to the Board:
+a. Ongoing costs associated with website integration with the new reservation
+system, including any costs associated with improving or updating the website;
+b. Ongoing progress of website integration with the new reservation system; and
+c. All work associated with the ADK website that has been deemed unusable while
+integrating with the new reservation system.
+6. Work with counsel to determine a path forward to address the double payment to Saber
+Technologies in light of evidence suggesting the licensing was paid for twice ($35,000 in
+2010 and $350,000 in 2024).
+Office of the Inspector General for the Commonwealth of Massachusetts 54 | Page
+
+7. Confirm that there are no active expenses or contracts for amounts that, per current
+Steamship Authority policy, should have received Board review and approval, but did
+not. If any such expenses or contracts exist, bring the matter before the Board for direction
+on how to move forward.
+Within 60 days of the incoming general manager’s start date
+8. Assess and report on the status of any other active capital projects, noting delays, cost
+increases from the original budget, and issues or concerns about the project.
+Within 90 days of the incoming general manager’s start date
+9. Develop and implement policies and procedures for effective project management for
+all capital and operational projects – including active projects to the extent practicable –
+and require their application to all new projects.
+a. At the outset of each project, document the required skills, experience, and
+training for the project manager.
+i. Document how the assigned project manager met such requirements;
+ii. Document the project manager’s responsibilities and the project goals;
+iii. Document deliverables, schedule, and budget; and
+iv. Document reporting requirements and the parties to receive such
+reports.
+10. Revise and update procedures to clarify how the Board is to be fully engaged to
+meaningfully provide governance oversight, including procurement awareness and votes,
+when necessary (e.g., specify contract values or change order thresholds requiring board
+involvement).
+Within 6 months of this report’s issue date
+11. Develop and implement policies and procedures that ensure proper review of the scope
+and services of major projects and related procurements, including scope and duties of
+the project manager.
+12. Develop and implement policies and procedures to monitor vendors, contracts,
+engagements, and statements of work (SOWs) to ensure that they are completed on time
+and on budget.
+a. Detail a process for requesting changes.
+b. Ensure project changes are approved by the Board in advance as required.
+c. Notify the Board of other changes if oversight is necessary, even in instances
+where Board approval is not required.
+Office of the Inspector General for the Commonwealth of Massachusetts 55 | Page
+
+Longer term
+13. Develop a project management division with at least one individual who holds a project
+management certification and experience to be the lead project manager on any capital
+project. Ensure that managers of multi-million-dollar projects do not hold an additional
+job.
+14. Ensure that the strategic plan developed with Raftelis is referenced, utilized, and
+maintained, in contrast to the ignored warnings of the HMS Consulting report.
+15. Conduct a postmortem on recent capital projects to understand why projected costs and
+delivery schedules were inaccurate, including:
+a. The purchase of offshore supply vessels and their related conversion into freight
+ferries;
+b. The Woods Hole Terminal Reconstruction Project – water side; and
+c. The Woods Hole Terminal Reconstruction Project – land side.
+For the Steamship Authority Governing Board
+The OIG recommends that the Board take the following actions:
+1. Review the Enabling Act of the Woods Hole, Martha’s Vineyard and Nantucket
+Steamship Authority to understand the responsibilities of the Board, including its
+fiduciary obligations.
+2. Revise Board policies to specify the matters requiring notice to the Board, even where a
+vote might not be required. Include:
+a. All change orders for capital projects when they are submitted by the vendor
+seeking the change, regardless of value;
+b. All federal grant funding applications, prior to submission, unless the grant
+necessitates notice at the next opportunity to avoid missing the application
+deadline; and
+c. All contract amendments, adjustments, or SOW changes within scope, with a
+value of more than $100,000.
+3. Clarify with the newly appointed general manager the Board’s expectation of the
+interplay between his position and the soon-to-be-filled senior advisor role, keeping in
+mind the limitations set by the Board on the new general manager’s ability to change the
+senior advisor role.
+4. Request a full briefing, including delays, cost increases, unforeseen issues, and the best
+current cost and delivery date estimates, for the following projects:
+Office of the Inspector General for the Commonwealth of Massachusetts 56 | Page
+
+a. Reservation system project with E-Dea;
+b. Woods Hole Terminal project; and
+c. Converted freight ferry project.
+5. Require all Board members to take or retake the Boards and Commission course offered
+by the OIG Academy within 60 days.
+For the Secretary of Transportation
+The OIG recommends that the Massachusetts Department of Transportation (MassDOT) take the
+following actions, understanding that while the Steamship Authority is governed by its own Board and
+generates its own revenues, MassDOT has a role in overseeing and authorizing the use of certain funding
+streams:
+1. Ensure that any pending reimbursement requests from the Steamship Authority to
+MassDOT are held until the concerns surrounding the funds spent for the shelved website
+project are resolved.
+2. Conduct an audit of the Steamship Authority’s reimbursements and requests for
+reimbursement for compliance with federal Ferry Boat Funds requirements and relevant
+authorizations.
+3. Determine:
+a. Which of the federally sourced grant funds that the Steamship Authority has
+spent on the website project are at risk or need to be returned if the website
+project begun in 2022 is permanently shelved; and
+b. The risk to the reservation system project if the shelved website project is
+restored and integrated with the new reservation system.
+4. Recoup any monies whose funding terms have not been met by the Steamship Authority,
+including any monies reimbursed for the website project.
+5. Reassess MassDOT’s approval of funding requests to ensure that reporting and filing
+requirements are timely met.
+6. Ensure that the Steamship Authority is complying with the terms of all federal and state
+funding, grants or otherwise, and is using funds for their intended purpose.
+7. Review the policies and procedures that MassDOT uses to oversee ferry grants to
+determine if any need revision.
+For Legislative Leaders
+The OIG recommends that the Massachusetts Legislature take the following actions:
+Office of the Inspector General for the Commonwealth of Massachusetts 57 | Page
+
+1. Establish a Special Commission, comprised of the Cape and Islands and New Bedford
+delegations, the Transportation Committee co-chairs, and others based on the findings of
+this report, to review the Enabling Act of the Woods Hole, Martha’s Vineyard and
+Nantucket Steamship Authority.
+a. Determine whether the Steamship Authority’s governance structure needs to be
+modified.
+b. Ensure that the Board is performing appropriate oversight, keeping in mind that
+quasi-public entities have government responsibilities and obligations to be good
+stewards of public resources.
+c. Determine if the roles of the Board and Port Council need to be clarified.
+d. Make further recommendations regarding:
+i. The Board, including its composition, selection, tenure, basis for
+selection, desired qualifications, responsibilities, and compensation,
+including “perks”;
+ii. The Port Council, including its composition, selection, tenure, basis for
+selection, desired qualifications, responsibilities, and compensation,
+including “perks”;
+iii. MassDOT; and
+iv. The Cape Cod Commission.
+e. Clarify the relationship between and among the Board, Port Council, and
+Steamship Authority leadership.
+For the Cape Cod Commission
+The OIG recommends that the Cape Cod Commission take the following actions:
+1. Review any oversight responsibilities that the Cape Cod Commission may have to ensure
+compliance with funding requirements.
+Office of the Inspector General for the Commonwealth of Massachusetts 58 | Page

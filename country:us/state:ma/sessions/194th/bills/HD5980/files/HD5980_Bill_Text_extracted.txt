@@ -1,0 +1,2081 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COMMONWEALTH OF MASSACHUSETTS
+EXECUTIVE OFFICE OF
+ENERGY AND ENVIRONMENTAL AFFAIRS
+DEPARTMENT OF ENERGY RESOURCES
+100 CAMBRIDGE ST., 9th FLOOR
+BOSTON, MA 02114
+Telephone: 617-626-7300
+Maura T. Healey Rebecca L. Tepper
+Governor Secretary
+Kimberley Driscoll Elizabeth Mahony
+Lt. Governor Commissioner
+March 1, 2026
+BY E-MAIL
+Chair Michael J. Barrett Chair Mark Cusack
+Joint Committee on Telecommunications, Joint Committee on Telecommunications,
+Utilities & Energy Utilities & Energy
+Room 109-D Room 34
+Chair Michael J. Rodrigues Chair Aaron Michlewitz
+Senate Committee on Ways and Means House Committee on Ways and Means
+Room 212 Room 243
+Office of the Clerk of the House Office of the Clerk of the Senate
+Honorable Steven T. James, Clerk Honorable Michael D. Hurley
+Room 145 Room 335
+Dear Honorable Clerks and Chairs:
+Under the provisions of Section 5 of Chapter 25A of the General Laws, the
+Department of Energy Resources hereby submits its annual report for review to the
+Joint Committee on Telecommunications, Utilities & Energy, the Senate Committee on
+Ways and Means, and the House Committee on Ways and Means for review.
+This report provides an overview of the Department’s programs, expenditures, and
+activities during the 2025 reporting year.
+Sincerely,
+
+Department of Energy Resources
+Annual Report
+2025
+
+Internal Policy Deliberative
+Table of Contents
+Acronyms .................................................................................................................................. v
+Department Information ........................................................................................................ 1
+General Description of Department Activities ................................................................ 1
+Department Reporting Structure ...................................................................................... 2
+Department Organization .................................................................................................. 2
+DOER 2025 Accomplishments .............................................................................................. 2
+Regulations .......................................................................................................................... 3
+Grants and Funding Opportunities .................................................................................. 4
+Green Communities ....................................................................................................... 4
+Climate Leader Communities ........................................................................................ 9
+Leading by Example ..................................................................................................... 11
+Energy Efficiency & Building Decarbonization .......................................................... 13
+Renewable Energy & Energy Storage ........................................................................ 15
+Federally Funded Grant Programs .............................................................................. 17
+Councils and Reports ....................................................................................................... 21
+Councils .......................................................................................................................... 21
+Reports ........................................................................................................................... 22
+Building Energy Policy and Programs ............................................................................ 23
+Building Energy Codes ................................................................................................ 23
+C-PACE ........................................................................................................................... 24
+Large Building Energy Reporting (LBER) ................................................................... 25
+Mass Save Implementation .......................................................................................... 25
+Heat Pump & HVAC Training Network ........................................................................ 26
+Regional Collaboration & Procurements ....................................................................... 26
+Clean Energy Procurements ........................................................................................ 26
+Energy Storage Procurement ...................................................................................... 27
+Regional Greenhouse Gas Initiative (RGGI) ............................................................... 27
+Regional Collaboration ................................................................................................ 28
+iii
+
+Internal Policy Deliberative
+Advocating for Energy Policy at the DPU ....................................................................... 29
+State Decarbonization ...................................................................................................... 31
+Municipal Support ............................................................................................................ 32
+Clean Energy Siting & Permitting ................................................................................ 32
+Municipal Energy Manager Training & Support ........................................................ 33
+Public Engagement .......................................................................................................... 33
+Energy Security & Emergency Preparedness ................................................................ 34
+DOER 2026 Planning ........................................................................................................... 34
+Department Budget ............................................................................................................. 36
+Operating Accounts Overview ........................................................................................ 36
+Trust Spending .................................................................................................................. 36
+Revenue ............................................................................................................................. 36
+Federal Grants ................................................................................................................... 37
+Department Staffing ............................................................................................................. 39
+Alternative Compliance Payments Spending Plan ........................................................... 42
+ACP Background ............................................................................................................... 43
+Allowable Uses of ACP Funds ......................................................................................... 43
+FY 2026 ACP Spending Plan ........................................................................................... 43
+Appendix A – DOER Divisions ............................................................................................... a
+Appendix B – Statutory and Regulatory Authorities ........................................................... a
+Enabling Statutes and Session Laws................................................................................. a
+General Laws Governing Administrative Functions for State Agencies ....................... a
+DOER Regulations .............................................................................................................. a
+iv
+
+Internal Policy Deliberative
+Acronyms
+ACP Alternative Compliance Payments
+DOE U.S. Department of Energy
+DOER Department of Energy Resources
+DPU Department of Public Utilities
+EDC Electric Distribution Company
+EEA Executive Office of Energy and Environmental Affairs
+EEAC Energy Efficiency Advisory Council
+EJ Environmental Justice
+EPA U.S. Environmental Protection Agency
+ESMP Electric Sector Modernization Plan
+ESS / Energy Storage Systems / Battery Energy Storage Systems
+BESS
+EV Electric Vehicle
+FY Fiscal Year
+GHG Greenhouse Gas
+GMAC Grid Modernization Advisory Council
+HVAC Heating, Ventilation, and Air Conditioning
+IIJA Infrastructure Investment and Jobs Act
+IRA Inflation Reduction Act
+ISO-NE Independent Systems Operator–New England (regional grid operator)
+kWh Kilowatt-hours
+kWdc Kilowatt direct current
+LBE Leading by Example
+LBER Large Building Energy Reporting
+M.G.L. Massachusetts General Laws
+MMBtus Metric Million British thermal units (a measurement for units of heat)
+MLP Municipal Light Plant
+MOR-EV Massachusetts Offers Rebates for Electric Vehicles
+MTCO2e Metric Ton Carbon Dioxide Equivalent
+MW Megawatt
+REC Renewable Energy Credit
+RFP Request for Proposals
+RGGI Regional Greenhouse Gas Initiative
+SMART Massachusetts’ solar incentive program
+Solar PV Solar Photovoltaic
+v
+
+Internal Policy Deliberative
+Letter from the Commissioner
+The Department of Energy Resources (DOER) had an incredibly busy and productive
+year, and I am pleased to share our accomplishments. In the last four years,
+Massachusetts enacted three expansive climate laws, each with numerous
+implications for DOER. As a result, the agency’s responsibilities have increased
+substantially.
+I am proud of DOER’s
+many achievements in
+2025, which are due to
+the amazing work of staff
+each and every day in
+pursuit of our mission.
+DOER awarded nearly
+$80 million in grant
+funding, stood up a new
+Clean Energy Siting and
+Permitting Division,
+developed five new
+regulations, created and
+DOER Staff – Boston, MA – October 16, 2025
+implemented numerous
+new programs, and so much more.
+In 2025, energy affordability was top of mind for all of us at DOER, both as policy
+makers and residents of Massachusetts. DOER’s mission is to create a clean,
+affordable, resilient, and equitable energy future for all in the Commonwealth, and
+energy affordability is central to DOER's mission and daily work.
+Agency staff contributed to the Healey-Driscoll Administration’s Energy Affordability
+Agenda and Governor Healey’s Energy Affordability, Independence & Innovation Act.
+Together, these initiatives will save Massachusetts customers $16 billion over 10
+years.
+DOER’s 2025 work and successes lowered costs for residents and businesses and will
+bring new energy supply into Massachusetts to meet growing demand. This includes
+our advocacy for seasonal heat pump rates, a new solar incentive program (SMART
+3.0), clean energy procurements, partnerships to lower energy costs for municipalities
+1
+
+Internal Policy Deliberative
+and state entities, and our buildings-sector policies that reduce the need for new
+electric grid infrastructure.
+As we look ahead to 2026 and beyond, we are excited to continue our work to
+transition our energy supply to lower costs and pollution, reduce and shape energy
+demand, and improve our energy system infrastructure.
+Elizabeth Mahony
+Commissioner, Department of Energy Resources
+2
+
+Internal Policy Deliberative
+Introduction
+This report details the work completed by the Department of Energy Resources
+(DOER) in 2025 and planned work to be conducted in 2026. The report fulfills the
+following legislative reporting requirements:
+ DOER 2025 Annual Report – Pursuant to G.L. c. 25A, § 5
+ DOER 2025 Annual Expenditures Report – Pursuant to G.L. c. 25A, § 5
+ 2025 Green Communities Report – Pursuant to G.L. c. 25A, § 10
+ 2025 Low-Income Services Solar Program Report – Pursuant to G.L. c. 29 §
+2LLLLL
+Achieving the Commonwealth’s energy goals requires dedicated effort by DOER, in
+coordination with other Administration agencies and external partners. DOER’s work
+includes grant administration, regulatory implementation, technical assistance,
+federal compliance, policy development, data reporting and analysis, and more. As
+much of the department’s work involves the disbursement of grants and funds, DOER
+has a focus on program design, procurement, and regulatory oversight. The DOER
+staff includes analysts, program coordinators, legal counsel, planners, architects,
+engineers, administrators, and managers. DOER integrates an affordability and equity
+lens in its work to maximize savings and benefits for ratepayers, including in energy
+burdened communities. Through strategic public engagement, DOER gathers
+meaningful input that shapes its efforts to reduce energy burden for all.
+Department Information
+Mission: The Department of Energy Resources’ (DOER) mission is to create a clean,
+affordable, resilient, and equitable energy future for all in the Commonwealth.
+Who We Are: As the state energy office under the Executive Office of Energy and
+Environmental Affairs (EEA), DOER is the primary energy policy agency for the
+Commonwealth. DOER supports the Commonwealth’s clean energy goals as part of a
+comprehensive Administration-wide response to the threat of climate change. DOER
+focuses on transitioning our energy supply to lower emissions and costs, reducing
+and shaping energy demand, and improving our energy system infrastructure.
+General Description of Department Activities
+What We Do: To meet our objectives, DOER connects and collaborates with energy
+stakeholders to develop effective policy. DOER implements this policy through
+1
+
+Internal Policy Deliberative
+planning, regulation, and providing funding. DOER provides tools to individuals,
+organizations, and communities to support their clean energy goals. DOER is
+committed to transparency and education, supporting the accessible access to
+energy information and knowledge.
+Department Reporting Structure
+The Department Head is the Commissioner who is appointed by the Secretary with
+the Governor’s approval and operates under the general oversight of the Secretary of
+EEA. The Commissioner develops and communicates DOER policy goals that are
+consistent with the broader energy and decarbonization policies of the
+Administration. Senior Staff Directors report to the Commissioner and attend regular
+meetings to ensure consistency across the Department.
+Department Organization
+DOER is organized into nine Divisions. Each Division Director, the Chief of Staff, the
+Chief Financial Officer, the General Counsel, and the Deputy Commissioner report
+directly to the Commissioner. The Divisions include:
+ Clean Energy Siting & Permitting
+ Coordination & Engagement
+ Energy Efficiency
+ Finance & Operations
+ Green Communities
+ Leading by Example
+ Legal
+ Policy, Planning, and Analysis
+ Renewable and Alternative Energy
+Additional details on the roles and responsibilities of each Division, including a
+description of recurring or ongoing responsibilities, can be found in Appendix A.
+DOER 2025 Accomplishments
+DOER had a productive and successful year. The agency advanced many of the
+Healey-Driscoll Administration’s priorities, including affordability, housing, energy
+supply, and streamlined local permitting. DOER delivered on its mission to create a
+clean, affordable, resilient, and equitable energy future for all in the Commonwealth.
+DOER’s accomplishments were wide-ranging and significant, despite many hurdles
+and setbacks. The agency launched new grant programs, developed new regulations,
+2
+
+Internal Policy Deliberative
+and created and implemented new programs. These many accomplishments are
+detailed below.
+Regulations
+DOER advanced several important sets of regulations in 2025 related to energy
+efficiency, building decarbonization, solar development, clean energy siting and
+permitting, and the power sector.
+Related to buildings, DOER promulgated new regulations for Large
+Building Energy Reporting (LBER) – 225 CMR 27.00 – in February 2025,
+which kicked off the first reporting year for the new program pursuant to
+the 2022 Climate Act. These regulations will help DOER gather necessary data about
+building energy use to potentially inform future policy decisions related to building
+emissions. (See more information in the Large Building Energy Reporting section
+below.) DOER also made updates to the 225 CMR 22.00 and 225 CMR 23.00 Building
+Energy Code regulations. DOER finalized these updates in response to feedback from
+code users and stakeholders after extensive, proactive stakeholder outreach. The
+changes added flexibility to catalyze more housing and included relaxed energy
+performance requirements for major residential renovations and additions and a new
+category for Accessory Dwelling Units
+(ADUs). The updates to the building
+energy codes create an easier pathway to
+meet Massachusetts’ growing housing
+needs.
+In September, DOER updated
+its solar incentive program after
+extensive program review and
+stakeholder engagement. SMART 3.0
+(225 CMR 28.00) will advance solar in
+Massachusetts while quickly responding
+to changing market conditions. Solar
+deployments in Massachusetts are
+estimated to provide ratepayers $300
+million in benefits in the first year alone
+and spur corporate investment in
+Massachusetts. This program will help
+bring more lower-cost energy supply into the state ahead of federal rollbacks of solar
+tax credits. The simplified program provides a flat incentive rate for residential
+3
+
+Internal Policy Deliberative
+customers, better incentivizes low-income household participation, and strengthens
+consumer protections. SMART 3.0 also takes an innovative, nation-leading approach
+to land use policy to protect Massachusetts’ natural landscapes and offset the impacts
+of solar infrastructure.
+Finally, DOER made significant progress on new regulations for a
+streamlined local siting and permitting process for small clean energy
+infrastructure projects. Directed by the 2024 Climate Act, DOER stood up a
+new Division of Clean Energy Siting and Permitting. The new team hit the ground
+running with stakeholder engagement and targeted outreach across Massachusetts
+to inform the development of regulations and guidelines. The Division issued draft
+regulations and held information sessions in all four regions in the fall and received
+over 200 public comments. In early December, DOER submitted the regulations to
+the Clerks of the House and the Senate and final promulgation occurred in time for
+the March 1, 2026 deadline.
+A full list of DOER’s regulations can be found here.
+Grants and Funding Opportunities
+Much of DOER’s work involves grant funding and administration. In 2025, DOER
+awarded nearly $80 million in grants through 14 programs to support municipal and
+state decarbonization, solar deployment, affordable housing, and more.
+Green Communities
+The Green Communities Division, established under M.G.L. c. 25A, § 10, assists the
+Commonwealth’s municipalities and other local governmental bodies to: reduce
+energy consumption and costs; reduce pollution; facilitate the development of
+renewable energy and alternative energy resources; and create local jobs related to
+the building of renewable and alternative energy facilities as well as the installation of
+energy-efficient equipment.
+In 2025, the Green Communities Division awarded $19,466,445 in direct grants to
+107 municipalities, and $294,628 worth of direct technical assistance to 26
+municipalities to develop municipal decarbonization roadmaps.
+In addition, $911,000 was awarded to technical assistance agencies to support
+municipal clean energy initiatives and capacity building. Each of these grant
+programs are summarized below.
+4
+
+Internal Policy Deliberative
+Designation Awards
+Under the Green
+Communities Act, cities
+and towns must meet five
+criteria to be designated a
+Green Community and
+receive funding. Initial
+Designation awards are
+formula-based grants
+awarded to newly minted
+Green Communities for
+clean energy projects at
+municipal and school
+facilities, as well as vehicular fuel reduction projects. Grant awards are based on a
+$125,000 base for each designated Green Community, plus additional amounts tied
+to per capita income and population.
+There are now 297 designated Green Communities, representing 90.5% of the
+Commonwealth’s population. Since the inaugural designation in 2010, DOER has
+awarded over $198.5 million in
+grants to cities and towns to
+upgrade municipal and school
+facilities. These grant-supported
+projects leveraged $46.7 million in
+Mass Save® incentives and cut
+annual energy costs by an estimated
+$30.2 million.
+One municipality, the town of
+Reading, was designated as a Green
+Green Communities Designation Event – Reading
+Community in 2025 and awarded a August 21, 2025
+designation grant of $160,521. Reading is the second community designated under
+the expanded program pursuant to Chapter 179 of the Acts of 2022, An Act Driving
+Clean Energy and Offshore Wind, which provides the pathway for the participation by
+multi-jurisdictional Municipal Light Plant (MLP) communities.
+Marion Town Meeting voted in May 2025 to repeal the Stretch Energy Code, one of
+the requirements necessary for Green Communities designation. As the Stretch
+Energy Code is no longer in effect in Marion, DOER rescinded Marion’s status as a
+Designated Green Community in October 2025.
+5
+
+Internal Policy Deliberative
+Competitive Grant Awards
+Once designated as a Green Community, cities and towns are eligible for competitive
+grants. These grants provide financial support for energy efficiency and renewable
+energy projects that further the designated communities’ clean energy goals. In 2025,
+89 existing Green Communities participated in the fourteenth annual round of DOER
+Green Communities competitive grants. Grants are capped at $250,000 per
+municipality, with the exception of multi-year building decarbonization grants, which
+were capped at $500,000. In 2025, DOER awarded two rounds of grants.
+In March 2025, DOER awarded $7,270,724 to 43 municipalities that applied for
+grants. The projects funded will leverage $2,306,490 in utility incentives and yield
+annual energy cost savings of $594,842. The 18,664 MMBtus expected in annual
+energy savings translates to the amount of energy consumed by 145 Massachusetts
+households. The projects are estimated to reduce greenhouse gas emissions by
+1,330 metric tons annually, roughly equivalent to taking over 246 cars off the road.
+Below is a list of communities that received grant awards in March 2025:
+Municipality Grant Award Municipality Grant Award
+Acushnet $500,000 Middleborough $53,405
+Andover $69,754 Natick $99,703
+Arlington $125,000 Norfolk $172,500
+Athol $138,573 Northampton $494,613
+Becket $139,500 Northbridge $125,000
+Boston $189,000 Oxford $233,026
+Boxford $225,000 Pepperell $144,463
+Chilmark $177,741 Provincetown $192,127
+Clarksburg $22,857 Rockport $225,000
+Douglas $100,000 Sharon $151,546
+Duxbury $170,151 Shutesbury $44,748
+East Bridgewater $106,688 Sturbridge $220,684
+Edgartown $217,674 Sudbury $30,000
+Fitchburg $243,130 Tewksbury $125,000
+Grafton $47,424 Walpole $225,000
+Harwich $135,388 Waltham $152,275
+Lawrence $173,166 Warwick $143,930
+Leicester $17,500 Watertown $173,652
+Leominster $237,669 Wenham $500,000
+Lexington $52,000 West Brookfield $186,616
+Littleton $173,895 Westhampton $90,326
+Lunenburg $225,000
+6
+
+Internal Policy Deliberative
+In August 2025, DOER awarded $7,908,916 to 46 municipalities that applied for
+grants. The funded projects will leverage $3,748,722 in utility incentives and yield
+estimated annual energy cost savings of $565,812 (24,516 MMBtus annual energy
+savings). The projects are estimated to reduce greenhouse gas emissions by 1,421
+metric tons annually.
+Below is a list of communities that received grants in August 2025:
+Municipality Grant Award Municipality Grant Award
+Acton $500,000 Malden $181,311
+Agawam $88,807 Mansfield $229,911
+Amesbury $225,000 Mendon $144,715
+Attleboro $250,000 Montague $52,401
+Barre $218,968 Needham $180,701
+Belmont $225,000 North Andover $225,000
+Bernardston $164,550 Pembroke $223,400
+Bridgewater $7,500 Plainville $52,804
+Canton $250,000 Quincy $250,000
+Carlisle $15,424 Rowe $218,892
+Charlton $219,730 Royalston $185,000
+Everett $126,675 Salisbury $221,005
+Falmouth $142,800 Sandisfield $18,717
+Georgetown $105,000 Shrewsbury $189,304
+Gloucester $53,659 Southborough $26,395
+Greenfield $24,670 Stoughton $179,375
+Halifax $62,608 Townsend $122,000
+Hanson $89,510 Truro $250,000
+Hingham $205,000 Ware $220,000
+Hudson $500,000 Westford $125,000
+Ipswich $500,000 Whitman $102,667
+Kingston $105,068 Williamstown $45,000
+Lynn $249,434 Worcester $3,500
+Municipal Energy Technical Assistance Grants
+Municipal Energy Technical Assistance (META) grants are offered once a year to all
+municipalities, regional school districts, and water/wastewater districts. Eligible
+applicants can apply for up to $25,000 to fund technical assistance and expertise
+needed to complete energy projects in cities and towns to reduce energy costs,
+reduce greenhouse gas (GHG) emissions, and decarbonize local buildings and fleets.
+A total of $194,115 was awarded in May 2025 to 11 municipalities and one Water &
+Sewer Commission listed below:
+7
+
+Internal Policy Deliberative
+Grantee META Category Grant amount
+Agawam Owners Agent for ESPC $15,000
+Ashfield ASHRAE Level II Audit $15,000
+Groton Retro-commissioning study $15,000
+Methuen Energy Efficiency Assessment of $15,000
+water/wastewater
+Millbury Design: solar PV + battery storage $15,000
+Newburyport Energy Resiliency $15,000
+Princeton HVAC $25,000
+Shelburne Energy Resiliency $15,000
+Springfield Water & Design: solar PV + battery storage $10,000
+Sewer Commission
+West Tisbury HVAC $24,115
+Winchester ASHRAE Level II Audit $15,000
+Woburn Design: solar PV + battery storage $15,000
+Regional Energy Planning Assistance Awards
+Regional Energy Planning Assistance (REPA) grants are offered by the Green
+Communities Division of the Department of Energy Resources to augment municipal
+capacity necessary to: 1) participate in the Green Communities Designation and
+Grant Program; and 2) advance clean energy projects in under-resourced
+municipalities.
+All technical assistance agencies (regional planning authorities, councils of
+governments, extension services and joint power entities) that provide clean energy
+assistance to municipalities are eligible for REPA grants. In September 2025,
+$910,711 was awarded to 11 agencies. The grant period is two years and will provide
+direct assistance to 143 municipalities, as well as fund capacity building activities,
+technical consulting services for municipal projects, and regional clean energy
+projects to benefit all communities within their respective regions. The list of
+awardees is below:
+Grantee Award
+Berkshire Regional Planning Commission $ 79,000
+Cape Light Compact $ 86,000
+Central Mass Regional Planning Commission $ 117,500
+Franklin Regional Council of Governments $ 81,000
+Metropolitan Area Planning Council $ 60,011
+Montachusett Regional Planning Commission $ 76,000
+Merrimack Valley Planning Commission $ 56,500
+Northern Middlesex Council of Governments $ 56,500
+8
+
+Internal Policy Deliberative
+Old Colony Planning Council $ 51,000
+Pioneer Valley Planning Commission $ 140,700
+Southeastern Regional Planning and Economic $ 106,500
+Development District
+Climate Leader Communities
+Climate Leader Communities is a $60 million certification and grant program focused
+on ambitious emissions reductions actions. Based on the successful framework of the
+Green Communities program, Climate Leader Communities is a voluntary program
+that offers a certification process and grant opportunities for municipalities who seek
+to undertake more climate actions. The program supports and encourages
+municipalities to decarbonize buildings and adopt clean energy policies and goals
+aimed at eliminating the use of onsite fossil fuels throughout their community.
+To be eligible for Climate Leader Community certification, communities must meet
+the following requirements:
+1. Be an existing Green Community in “good standing”
+2. Have a local body (sustainability committee, energy committee, etc.) that
+advises the municipality on clean energy/climate initiatives.
+3. Commit to eliminate on-site fossil fuel use by 2050 (municipal
+buildings/operations)
+4. Create a municipal decarbonization roadmap.
+5. Adopt a zero-emission vehicle first policy.
+6. Adopt the specialized opt-in building code.
+Municipal Decarbonization Roadmap Assistance Grants
+Recognizing that cities and towns may need
+Andover Montague
+assistance to develop municipal Aquinnah Newton
+decarbonization roadmaps, DOER offers Athol Norwood
+planning assistance to eligible municipalities for Brookline Orleans
+roadmap development to help achieve Climate Chilmark Sharon
+Concord Sherborn
+Leader Community certification. This assistance
+Dedham Shutesbury
+is provided by vendors procured and managed
+Eastham Sudbury
+by DOER. In 2025, DOER awarded 26
+Groton Warwick
+municipalities with planning assistance:
+Hamilton Wellfleet
+Harvard Wenham
+Lincoln West Tisbury
+Medfield Winchester
+9
+
+Internal Policy Deliberative
+Climate Leader Communities Certifications
+In 2025, DOER certified the first 28 Climate Leader Communities:
+Acton Amherst Aquinnah Arlington
+Ashfield Bedford Cambridge Carlisle
+Chelmsford Easthampton Harvard Lexington
+Lincoln Melrose Natick Needham
+Pelham Salem Somerville Stockbridge
+Stow Swampscott Truro Watertown
+Wellesley West Tisbury Weston Winchester
+This certification represents a “higher tier” of
+Green Communities that focus on building and
+vehicular decarbonization. Once communities
+are certified, they are eligible to apply for up to
+$1,150,000 in grant funds to design and
+implement clean energy projects at municipal
+locations.
+Climate Leader Certification Event –
+Salem, May 2, 2025
+Climate Leader Communities Technical Support Grants
+Climate Leader Technical Support grants are offered twice a year, with Pelham
+receiving the first in 2025 for $143,000 to fund four studies on the town’s
+Community Center Complex and the Department of Public Works garage. Once
+complete, the studies will allow the town to be ready to go to bid for electrical
+system upgrades at these two town facilities, which are most likely to serve vehicle
+electrification loads in the future; and to go to bid to fully replace the Community
+Center boiler with an air-to-water heat pump with thermal storage. A study will also
+set the stage for long-term planning for battery storage backup at the Community
+Center. DOER’s goal is to help Pelham turn these studies into energy-saving action
+through a Decarbonization Accelerator Grant.
+10
+
+Internal Policy Deliberative
+Climate Leader Communities Decarbonization Accelerator Grants
+DOER awarded $3,789,169 to four
+municipalities in the first round of
+Decarbonization Accelerator
+Grants. Offered twice a year,
+projects funded must align with the
+communities’ Climate Leader
+Municipal Decarbonization
+Roadmaps and prioritize reducing
+fossil fuel combustion, energy use,
+and utility costs.
+ Acton was awarded $1
+million to support the full decarbonization of its historic town hall. The project,
+estimated to cost $3.85 million, includes the installation of air source heat
+pumps and advance heating and ventilation controls. The project will generate
+9,500 therms of energy savings.
+ Ashfield was awarded $812,646 for solar PV at its wastewater treatment plant
+and highway garage. Once installed, the solar will provide carbon-free
+electricity for municipal operations and is estimated to save nearly $100,000 a
+year in energy costs.
+ Chelmsford was awarded $1 million to support several initiatives in two new
+fire stations, including a geothermal system at one facility, fully electric heating
+and cooling at both, and rooftop solar PV at both fire stations. Once built and
+operational, these state-of-the-art fire stations will use 1,112,038 kilowatt-hours
+(kWh) of local solar-generated electricity, saving the town over $57,000 a year
+in energy costs.
+ Watertown was awarded $918,297 for rooftop and parking lot canopy solar
+installations at its Department of Public Works headquarters. The 332 kWdc
+system will provide most of the electricity needed for the facility, saving the city
+over $70,000 in annual energy costs and reducing greenhouse gas emissions
+by 1,048 tons per year.
+Leading by Example
+In June 2025, DOER announced $50 million in funding for three new Leading by
+Example (LBE) grant programs to cut long-term energy costs across state
+government: the $25 million Solar-Decarbonization Grant Program, $20
+Decarbonization Implementation Grant Program, and $5 million Restoration Grant for
+11
+
+Internal Policy Deliberative
+Solar & Decarbonized Systems Program. The LBE Division awarded nearly $10 million
+in grants in 2025 across three grant programs in 2025.
+LBE grants support state agencies, public colleges, and universities to advance clean
+energy and sustainability in government operations. These efforts support
+affordability by reducing the cost of government and help state entities meet Leading
+by Example Executive Order 594 goals and targets.
+Electric Vehicle Supply Equipment Grants
+DOER plays a leadership role in the
+development of new policies and funding
+for EV charging. This year DOER awarded
+$1,384,631 in grants for EV charging
+stations to support state fleet
+electrification efforts. These grants will
+result in the installation of 74 fleet EV
+charging ports.
+In 2025, the LBE Division helped state
+government exceed our 2030 goals of
+500 EV charging stations. There are now a LBE Division Director with an EV at the Office
+total of 737 stations with 1,284 ports of Vehicle Management (OVM) Fleet Day
+deployed at state facilities that serve the public, employees, or state fleets. As of the
+end of the year, charging ports specifically for state fleet use totaled 608, up from 92
+ports just 2 years ago.
+Solar-Decarbonization Grants
+The LBE Solar-Decarbonization Program supports the financial viability of integrated
+solar projects at state facilities. Grant funding can be used for costs associated with
+the deployment of new solar; installation of battery energy storage systems; non-fleet
+EV charging installation beyond
+LBE Solar-Decarbonization
+the minimum required number
+Grant Impacts on Energy Savings
+of charging ports; and
+$30,000,000 $24,040,605 decarbonization projects that
+$20,000,000 facilitate current or future
+$10,000,000 $6,121,218 facility decarbonization or
+onsite fossil fuel reductions.
+$0
+LBE Solar-Decarbonization Grant
+In 2025, DOER made 18 awards
+Amount Awarded Lifetime Cost Savings
+totaling $6,121,218 to support
+12
+
+Internal Policy Deliberative
+the installation of 5.8 megawatts (MW) of solar at state sites. These projects are
+anticipated to save $24,040,605 over the project lifetimes.
+Decarbonization Implementation Grants (DIG)
+DOER launched the $15 million Decarbonization Implementation Grants (DIG)
+Program which will provide funding for large-scale decarbonization projects at state
+entities to enable them to make significant contributions to Executive Order 594
+emissions reduction targets and reduce the environmental impacts of state
+government. DOER received proposals for this program in late 2025.
+MOR-EV – Electric Vehicle Incentives
+The MOR-EV program supports the Commonwealth’s ambitious goals for reducing
+transportation-related air pollution. The Massachusetts Offers Rebates for Electric
+Vehicles (MOR-EV) program makes EVs more affordable for Massachusetts residents,
+businesses, and non-profit organizations providing more equitable access to EVs.
+In 2025, DOER issued nearly 16,712 rebates for battery electric vehicles (BEVs)
+through MOR-EV for a total of $65,260,500. This includes 1,418 rebates for used BEVs
+and 793 rebate adders for income-qualifying residents. The 2024 MOR-EV Report,
+published in 2025, provides more details about the program.
+Energy Efficiency & Building Decarbonization
+Investing in the Massachusetts’ built environment through supporting the efficiency
+and decarbonization of buildings provides benefits to residents and ratepayers by
+creating more comfortable and healthy places to live and work while also reducing
+energy costs and strain on the electric grid.
+Affordable Housing Decarbonization
+DOER awarded $46,620,000 to support 24
+affordable housing properties in 21
+communities across Massachusetts in
+2025. The Affordable Housing
+Decarbonization (AHD) grant program
+makes homes more comfortable, lowers
+utility bills for residents, improves air
+quality, and reduces long-term
+maintenance costs for housing providers.
+Prospect Place Project – Northampton, MA
+The funding will help upgrade or build
+more than 1,638 affordable housing units with modern heating and cooling systems,
+top tier insulation, improved indoor air quality, and in many cases, on-site energy
+13
+
+Internal Policy Deliberative
+generation. The 2025 grant awards bring the total program funding to approximately
+$99 million in support of 2,951 units of affordable housing across the
+Commonwealth. DOER partnered with Mass Housing on the 2025 round in order to
+maximize state funding and support.
+The department further supports this work through the Affordable Housing
+Decarbonization Technical Assistance program. In 2025, DOER completed
+decarbonization technical assistance for 14 projects to aid developers in the
+assessment and development of their projects. Technical assistance studies for a
+further 16 projects are in-progress
+and anticipated to be completed in
+2026. These efforts ultimately increase
+the pipeline of affordable housing
+projects seeking to decarbonize.
+Two of the projects funded in the
+initial round of the AHD grant
+program were completed in 2025:
+Prospect Place in Northampton (a 60-
+unit adaptive rehab and
+Hano Homes Project - Allston (Boston), MA
+decarbonization project of a formerly
+Photo Credit: Jane Messinger
+abandoned school) and Hano Homes
+in the Allston neighborhood of Boston (a 20-unit deep energy retrofit and
+decarbonization project). Three more projects funded by the AHD grant program
+14
+
+Internal Policy Deliberative
+began active construction in 2025: 213 Chestnut (a 12-unit retrofit in Holyoke),
+Worcester Common Ground (an 18-unit retrofit project in Worcester), and Turtle
+Woods (a 67-unit project in Beverly).
+Merrimack Valley Renewal Fund (MVRF)
+DOER manages the Merrimack Valley Renewal Fund (MVRF) alongside the Attorney
+General’s Office (AGO). MVRF was created to benefit the city and towns directly
+impacted by the 2018 Columbia Gas explosions – Andover, Lawrence, and North
+Andover.
+In late 2025, DOER launched the $15.9 million Renew program focused on energy
+efficiency for low- and moderate-income residents. The Renew program leverages
+Mass Save funding to provide no-cost energy efficiency and clean energy upgrades.
+With this program, DOER utilizes an established network of vendors to begin the
+delivery of enhanced energy efficiency and clean energy programs to the residents of
+Merrimack Valley. This includes a local effort to provide information, outreach, and
+help customers participate in Renew. In 2025, the total spend for 164 projects was
+$694,216.15, with an additional $500,000 in the pipeline as of December 31st.
+Completed Energy Efficiency and Clean Energy Upgrades (MVRF):
+Municipality Home Heat Induction Other Efficient Solar Barriers,
+Energy Pumps Stoves Electric PV Weatherization,
+Assessments Appliances and Ventilation
+Lawrence 236 11 3 104 1 12
+Andover 63 1 1 2 0 0
+N. Andover 48 0 1 2 1 0
+Transforming Energy in Schools Initiative
+In November 2025, DOER accepted applications for its Transforming Energy in
+Schools Initiative (TESI), a $10 million initiative that will provide support to schools in
+low-income communities with electrification and clean energy projects. TESI aims to
+demonstrate equitable, cost-efficient pathways to upgrade a variety of school
+building types and provide models for the Commonwealth to continue support for
+equitable access to healthy and resilient schools. TESI is designed to coordinate with
+other school building decarbonization funding available through Mass Save and
+other state agencies to enable schools to move forward with clean energy projects.
+Renewable Energy & Energy Storage
+DOER launched two new grant programs in 2025 to support the development of
+renewable energy generation and storage resources. These grant programs increase
+access to local energy resources and support the deployment of new energy
+15
+
+Internal Policy Deliberative
+generation and storage to help meet rising energy demand and reduce costs across
+the grid.
+Low-Income Services Solar Program
+DOER launched the Low-Income Services Solar Program (LISSP) in 2025. This grant
+program was initially funded with $650,000 from the Legislature pursuant to Chapter
+126 of the Acts of 2022, and DOER developed an expanded program offering with
+funding from Alternative Compliance Payments (ACP) to bring the total budget to
+$5,650,000. LISSP provides grant funding for non-profits that provide critical
+community services located in Environmental Justice (EJ) Communities or serving EJ
+Populations. These grants will reduce awardees’ energy costs so the non-profits can
+focus on providing critical services such as food security, homelessness support, or
+emergency shelter.
+In 2025, DOER, with assistance from the Center for EcoTechnology (CET), developed
+a Program Manual as a resource for non-profit applicants and solar installers. The
+Manual outlines eligibility criteria and program structure, including weatherization
+requirements, solar technical requirements, and application and award timelines. To
+support DOER’s efforts, CET developed a website (cetonline.org/programs/low-
+income-services-solar-program), hosted a webinar, and created an application portal
+for non-profits to submit their application materials.
+The first application round in October 2025 brought in five applications totaling 762
+kW and $2,012,556. Applications will be accepted and evaluated on a quarterly basis
+while funding is available. DOER expects to award the first grants from this program
+in early 2026.
+Advancing Massachusetts Power
+The Advancing Massachusetts Power (AMP) energy storage grant program aims to
+facilitate the equitable deployment of safe energy storage systems (ESS) across the
+Commonwealth. Energy storage provides numerous benefits to residents, businesses,
+communities, and our electric grid. It lowers costs for all ratepayers by reducing peak
+electricity demand and the need to build new grid infrastructure.
+DOER developed AMP in collaboration with Massachusetts energy storage
+stakeholders. DOER and its Program Administrator1 developed a straw proposal2,
+1 The Advancing Massachusetts Power Program Administration team includes InClime,
+Cadmus, Camelot Energy Group, and Verdant Associates
+2 DOER AMP Straw Proposal, July 2025, https://www.mass.gov/doc/amp-straw-proposal
+16
+
+Internal Policy Deliberative
+received over fifteen sets of stakeholder comments3, and held six targeted
+stakeholder meetings related to behind-the-meter installations, long-duration energy
+storage commercialization, and environmental justice implications.
+The program will prioritize applications that deliver community resilience, pollution
+reduction, economic opportunity, and health benefits to Massachusetts, especially in
+communities that face the greatest environmental, health, and economic burdens.
+The AMP grant program includes three tracks: it will provide funding to support
+Community Resilience, Long-Duration Energy Storage deployment, and Safety and
+Education programming. The $50 million program launched in December 2025, with
+grant proposals due in Q1 2026.
+Federally Funded Grant Programs
+Through January 2025, DOER secured over $714 million in funding from federal
+programs established by the Infrastructure Investment and Jobs Act (IIJA) and
+Inflation Reduction Act (IRA). These programs are listed below.
+Climate Pollution Reduction Grant Program
+The Climate Pollution Reduction Grant Program (CPRG) is administered by the U.S.
+Environmental Protection Agency (EPA) and authorized under the IRA. The EPA
+awarded $450 million to a coalition of five New England states (Connecticut, Maine,
+Massachusetts, New Hampshire, and Rhode Island) with the Connecticut Department
+of Energy and Environmental Protection (DEEP) as the lead applicant and recipient.
+This funding supports the creation of the New England Heat Pump Accelerator
+(Accelerator) to leverage the regional market to accelerate the adoption of cold-
+climate air-source heat pumps, heat pump water heaters, and ground-source heat
+pumps in single-family and multifamily residential buildings. The Accelerator’s goal is
+to transform the residential market in New England to clean space and water heating,
+with an increase in heat pump adoption such that heat pumps comprise 65% of
+heating, ventilation, and air conditioning (HVAC) and water heater sales by 2030 and
+90% of sales by 2040.
+In 2025, the Accelerator competitively procured and contracted with a Regional
+Implementer to assist in achieving the goals of the three hubs (Market Hub,
+Innovation Hub, and Resource Hub). DOER actively participated on the Advisory
+3 DOER AMP Stakeholder comments, https://www.mass.gov/doc/amp-stakeholder-comments
+17
+
+Internal Policy Deliberative
+Council, engaged in stakeholder outreach, and developed a proposal for an
+innovative state pilot to address barriers to electrification.
+Energy Efficiency Conservation Block Grants (EECBG)
+The EECBG program is funded by the U.S. Department of Energy (U.S. DOE) and
+authorized under the IIJA. DOER received formula funding from DOE under this
+program to manage the program for municipalities with populations under 35,000.
+The goal of the DOER EECBG program is to support the reduction of fossil fuel
+emissions, the reduction of total energy use, the
+improvement of efficiency in facilities, and the
+growth of the clean energy economy. In 2024, DOER
+awarded the full $1,754,000 to 29 projects
+benefiting 45 municipalities.
+In 2025, envelope improvement projects were
+completed for 27 municipally owned buildings,
+yielding an estimated 183 MTCO2e in avoided
+emissions from reductions in energy use, as well as
+estimated annual cost savings of nearly $50,000.
+Acton, Ashland, and Newburyport implemented
+Stoneham Town Hall Window community campaigns, supporting action toward
+Replacement Project affordability, efficiency, and electrification for seniors,
+renters, and low-income population. Two regional planning associations—the
+Northern Middlesex Council of Governments and the Pioneer Valley Planning
+Commission—facilitated energy manager services for 18 municipalities.
+Energy Efficiency Revolving Loan Program
+DOER is establishing a Municipal Light Plant Zero Percent Interest Loan Program for
+energy efficiency and electrification improvements for customers in MLP territories
+who do not have access to the Mass Save HEAT Loan. This program is funded through
+a combination of federal Energy Efficiency Revolving Loan Fund Capitalization Grant
+Program (EE RLF) funds and other state funds totaling $9,894,760. DOER will utilize
+program funds to pay the interest for these loans on behalf of eligible customers for
+eligible projects. DOER competitively procured a program administrator and
+commenced program development this year. Additionally, DOER established a pre-
+loan application to understand interest in the program and satisfied U.S. DOE’s launch
+requirements for the EE RLF.
+18
+
+Internal Policy Deliberative
+Home Electrification and Appliance Rebates Program (HEAR)
+The HEAR program is administered by the U.S. DOE and authorized under the IRA.
+DOER received $72,809,130 in formula funding under this program to help residents
+save money on energy bills, upgrade to clean energy equipment, improve energy
+efficiency, improve their comfort, support a stable power grid, and reduce indoor and
+outdoor air pollution. DOER will implement the HEAR funding by integrating the
+federal funding into Mass Save, the Commonwealth’s nation-leading energy efficiency
+program.
+The HEAR rebates will be delivered through the Mass Save program to serve income
+eligible customers, who will receive no-cost electrification measures. The funds will
+allow Mass Save to serve additional low- and moderate-income customers. DOER
+worked with the Mass Save Program Administrators in 2025 to create U.S. DOE
+required plans called Statewide Implementation Blueprints (Consumer Protection
+Plan, Education and Outreach Strategy, Privacy and Security Risk, Market
+Transformation Plan), as well as other workplans, strategies, and launch materials, to
+satisfy U.S. DOE requirements and prepare for successful delivery of the program.
+DOER is continuing to work closely with U.S. DOE on the HEAR program.
+Home Energy Rebates Program (HER)
+The HER program is administered by the U.S. DOE and authorized under the IRA.
+DOER received $73,086,125 in formula funding under this program to help residents
+save money on energy bills, upgrade to clean energy equipment, improve energy
+efficiency, improve their comfort, support a stable power grid, and reduce indoor and
+outdoor air pollution. DOER intends to implement the HER funding through one
+existing and one new program, as follows:
+1. HER-MLP: Funding for this new program will provide rebates based on energy
+savings for residents in 1–4-unit housing in the communities served by the 41
+Municipal Light Plants (MLPs) who do not participate in Mass Save.
+2. HER-AHD: Additional funding for the Affordable Housing Decarbonization
+(AHD) program, targeting multi-family affordable deed-restricted rental
+housing statewide.
+In 2025, DOER developed program details and delivery strategies, prepared U.S.
+DOE-required Statewide Implementation Blueprints and launch documents, and
+created qualified contractor standards. DOER also issued an RFP for the HER-MLP
+program implementer. DOER continues to work closely with U.S. DOE on the HER
+program.
+19
+
+Internal Policy Deliberative
+Leading by Example Equipment Decarbonization Grant Program
+The LBE Equipment Decarbonization Grant Program is a $2,450,000 program that is
+funded by the U.S. DOE State Energy Program Bipartisan Infrastructure Law allocation
+authorized by the IIJA. This program provides funding for state entities to support the
+procurement of electric equipment, associated infrastructure upgrades, and other
+associated costs.
+In 2025, DOER awarded $644,497 under this program for the deployment of 50
+pieces of electrified equipment to 8 public entities including battery-powered
+landscaping equipment and heat pumps, all of which will reduce emissions, improve
+public health, and reduce energy costs. DOER will accept applications for this
+program on a rolling basis until funding is exhausted.
+Regional School Decarbonization Program
+The $2 million Regional School Decarbonization Program is funded by the U.S. DOE
+State Energy Program Bipartisan Infrastructure Law allocation authorized by the IIJA.
+This program is managed by DOER’s Green Communities Division and provides
+funding to regional school districts (RSDs) for efficient electric equipment at schools
+for space conditioning, water heating, maintenance, and kitchens.
+DOER awarded two grants under this program in 2025 for a total of $261,746.75 for
+the purchase of an electric ride-on mower, electric commercial kitchen equipment, a
+heat-pump water heater, and a heat pump system. DOER will invite applications two
+times per year while funding remains available.
+Resilient and Efficient Codes Implementation Program (RECI)
+The Massachusetts Integrated Deployment of a Decarbonized Long-term Energy
+Code (MIDDLE-C) project objectives were to facilitate widespread community-level
+engagement, adoption and effective implementation of the Massachusetts Stretch
+and Specialized energy codes, and to support best practices to achieve nation-
+leading thermal performance in Massachusetts’ new construction sectors. With these
+grant funds, DOER and its subrecipients worked on a community needs assessment,
+education materials, and outreach strategy. For the Municipal Fossil Fuel-Free
+Demonstration Project, DOER used these funds to develop protocols and populate
+the HELIX database with building modelling data. Additionally, DOER prepared
+procurements for technical assistance and commercial energy code compliance
+support for this grant program.
+20
+
+Internal Policy Deliberative
+The U.S. DOE terminated this grant as of October 9, 2025. DOER has initiated an
+informal dispute of this termination. As a result of this federal action, DOER’s MIDDLE-
+C program is suspended until further notice.
+Solar for All Program
+On August 7, 2025, the Trump Administration notified DOER that it was cancelling the
+Solar for All program, including the $156 million of funding awarded to
+Massachusetts. As a result of this federal action, Massachusetts’ Solar for All program
+is suspended until further notice. The Massachusetts Attorney General’s Office is
+challenging the EPA’s termination of Solar for All. More information can be found in
+this announcement.
+Councils and Reports
+DOER facilitates the development of energy policy and consensus building through
+its leadership on councils and commissions and through publishing reports. In 2025,
+DOER chaired four councils and published five new reports, linked below.
+Councils
+The Energy Efficiency Advisory Council (EEAC) guides and oversees the progress of
+energy efficiency in the Commonwealth, and the Commissioner of DOER serves as its
+chair. The Council is responsible for the planning and negotiations for the Three-Year
+Energy Efficiency Plans for the Mass Save Program. In 2025, the Department of Public
+Utilities (DPU) approved the 2025-2027 Three-Year Plan. With an approved budget of
+$4.5 billion, this Three-Year Plan is estimated to yield approximately $12.1 billion in
+benefits by supporting weatherization in 163,000 homes, installing heat pumps in
+87,000 homes, and delivering 8.2 million MWh and 1 billion therms in energy savings
+across the Commonwealth. Energy efficiency helps Massachusetts residents and
+businesses save money by reducing their energy consumption – and saves all
+ratepayers money by reducing demand on the electricity grid. For example, on the
+hottest day of the year (June 24th) at 7pm, the grid hit a peak of 26,267 MW. Based on
+data from the regional grid operator (ISO-NE), energy efficiency helped the region
+avoid power disruption and saved ratepayers $2.6 million in that one hour alone.
+In early 2025, following the publication of short-term recommendations of the
+Interagency Rates Working Group (IRWG), DOER submitted a petition to the DPU for
+a seasonal heat pump rate (see below in DPU Advocacy section). To address longer-
+term solutions and build on the success of the IRWG, DOER created the Electric Rate
+Task Force in early 2025. Using the IRWG’s Long-Term Recommendations as a starting
+point, the Task Force hosted ten discussions and forums on rate design, ratemaking,
+21
+
+Internal Policy Deliberative
+and regulatory mechanisms to build technical knowledge, develop a shared
+understanding, and determine further recommendations for the DPU to consider in
+order to stabilize electric rates and ensure affordability.
+The Grid Modernization Advisory Council (GMAC) is an 18-member council that was
+established by the 2022 Climate Act and aims to advance a cleaner, more affordable,
+equitable, and resilient electric grid. The GMAC is tasked with reviewing and advising
+on electric distribution companies’ (EDCs) Electric Sector Modernization Plans
+(ESMPs) as well as promoting transparency and engagement in the Commonwealth’s
+grid planning. Following the 2024 review and engagement on the EDCs’ first ESMPs,
+the GMAC focused its 2025 work on building knowledge and increasing transparency
+about grid planning across the Commonwealth. The GMAC accomplished this work
+by hosting public stakeholder events with municipal stakeholders (see Public
+Engagement section below).
+DOER formed the Solar Canopy Working Group in early 2025, as directed by the
+2024 Climate Act, to develop recommendations for regulatory and legislative
+changes that would encourage the construction and operation of solar canopies. The
+Working Group hosted four meetings and conducted additional outreach to inform
+its final and supplemental reports in June and August 2025.
+The department also provides leadership and expertise to additional interagency
+councils, including the Electric Vehicle Infrastructure Coordination Council (EVICC)
+and the Embodied Carbon Intergovernmental Coordinating Council (ECICC).
+Reports
+DOER published several new reports and tools throughout 2025 to increase the
+public’s understanding of energy policy issues, inform policymaking, and provide
+updates on the agency’s work.
+New reports included:
+ The Massachusetts Solicitation and Procurement Effectiveness Report reviews
+the history of clean energy procurements in Massachusetts and proposes a
+new framework to improve flexibility and affordability.
+ The Offshore Wind Municipal Aggregation Guidance report provides guidance
+to municipalities interested in contracting for offshore wind.
+ The Peak Potential Report outlines how utilities and customers can save billions
+by leveraging load management and virtual power plants. DOER released a
+draft of this report and an accompanying study in December 2025 and is
+soliciting public comments by February 9, 2026.
+22
+
+Internal Policy Deliberative
+ The Large Building Energy Reporting (LBER) Legislative Report provided
+information DOER’s first year implementing the new LBER program created by
+the 2022 Climate Act. (More information included below in the LBER section.)
+ The Municipal Fossil Fuel-Free Demonstration Program Report provided an
+update on DOER’s implementation of the program required by the 2022
+Climate Act.
+DOER also launched new interactive web dashboards to visualize monthly data on
+retail customer choice as well as on municipal aggregations. These tools enable
+stakeholders to engage with data on where customers are contracting for electricity
+supply in the commonwealth and how municipal aggregations are performing in
+terms of adoption, savings, and environmental benefits (e.g., REC purchasing).
+Building Energy Policy and Programs
+Building Energy Codes
+The Stretch and Specialized building energy codes ensure new construction in
+Massachusetts is energy efficient and minimizes impacts on the grid while also
+creating healthier living and work spaces. The codes accomplish this by significantly
+reducing heating loads at the design stage with improved insulation, air-tightness,
+and ventilation. New homes, schools, mixed-use, and other buildings constructed to
+these codes require much less energy to stay warm or cool, which means lower
+heating and cooling bills for residents and businesses. With these codes, new
+buildings also offer healthier, more comfortable spaces due to better indoor air
+quality and the ability to maintain temperatures during extreme heat or cold snaps.
+Reducing the amount of energy (particularly at peak times) consumed by new
+buildings saves ratepayers billions of dollars in avoided electric and gas network
+investments.
+Pursuant to the 2021 Climate Act, DOER has authority over the Stretch and
+Specialized Energy Codes and is responsible for guidance, interpretation, and
+education to ensure improved code implementation across the Commonwealth.
+DOER takes a performance-based approach to energy codes, which is widely
+recognized as more cost-effective than traditional prescriptive code. As a result,
+Massachusetts now leads the nation in market share percentage of the two leading
+national certifications: HERS (Home Energy Rating System) ratings4 for newly built
+4 Understanding the HERS® Index - HERS Index | Home Energy Rating System | Energy Audit & Ratings |
+RESNET
+23
+
+Internal Policy Deliberative
+homes (followed by Arizona, Indiana and Nevada); and Passive House certifications
+for multi-family buildings (followed by New York)5. In 2025, DOER conducted
+outreach and meetings in all 12 State Building Inspector districts to speak on the
+Stretch and Specialized Energy Code updates and answer questions from building
+officials. Additionally, DOER and the Division of Occupational Licensure meet with the
+Massachusetts Federation of Building Officials on a quarterly basis to respond to
+questions and receive feedback.
+DOER’s Energy Efficiency Division also provides energy code guidance and support
+directly to building officials and the public. This includes responding to questions and
+providing technical support as well as collaborating with Mass Save to deliver
+educational resources and training. An important component of the Mass Save
+program is to educate and train design professionals, customers, and building code
+officials. In 2025, energy code instructors taught 2,697attendees over the course of
+77 trainings, both in-person and online, including sessions with Spanish and
+Portuguese interpretation. DOER funded an additional series of Stretch Energy Code
+trainings for design professionals with over 250 attendees, and DOER staff also offer
+training and support by request.
+DOER’s Green Communities Regional Coordinators support the local adoption of the
+Specialized Energy Code, a nation-leading, higher-tier code developed by DOER’s
+Energy Efficiency Division. Adoption of the Specialized Energy Code is required for
+municipalities to be certified in the Climate Leader Communities program. In 2025,
+DOER supported the local adoption of the Specialized Energy code by eight
+communities, bringing the total to 56.
+C-PACE
+DOER provides technical assistance for the C-PACE – Commercial Property Assessed
+Clean Energy – program, which is administered by the Massachusetts Development
+Finance Agency. C-PACE allows owners of commercial, industrial, and multi-family (5
+or more units) properties to make energy improvements to existing facilities and
+finance the improvements over a long term (up to 20 years). This innovative financing
+tool allows for loans which are repaid via a municipal assessment on the property. The
+unique benefit of a C-PACE loan is that the energy, emissions, and cost savings, in
+addition to the loan, stay with the building and flow to subsequent purchasers. In
+5 Residential Energy Service Network (RESNET) 2024 Report: Trends in HERS® Rated Homes
+24
+
+Internal Policy Deliberative
+2025, the program closed financing representing 192,065 kwh in annual energy
+savings, or the CO2e savings of taking 20 cars off Massachusetts roads annually.
+Large Building Energy Reporting (LBER)
+In 2025, DOER’s Energy Efficiency Division successfully launched the first year of the
+LBER program, pursuant to the 2022 Climate Act. This was an extensive process which
+included sending over 30,000 letters to building owners and responding to over
+22,000 unique inquiries. The team held nine information sessions and eight unique
+office hours to answer questions. DOER’s Green Communities and Leading by
+Example Divisions also provided significant support to this initiative to assist public
+building owners with reporting.
+The final list of results covered 32,991 buildings – a total of 2,607,490,114 square feet
+of gross floor area. In its first year, LBER saw some of the highest rates of energy data-
+to-property matching when compared to all benchmarking programs nationally.
+Moving forward, DOER will continue to provide support to reporting entities and
+improve the program. DOER expects data to improve and meaningful trends in fuel
+usage to emerge as participation increases.
+Mass Save Implementation
+Whereas DOER’s work on Mass Save in 2024 was focused on planning and
+negotiation for the 2025-2027 Mass Save Three Year Plan, 2025 was dedicated to the
+Plan’s implementation. This includes budget management for the popular program
+which provides energy savings to customers to ensure funding is available through
+the Mass Save term end in 2027 without exceeding the budget or adding ratepayer
+costs.
+As Chair of the EEAC, DOER
+coordinated the monitoring of new
+Mass Save program initiatives including
+enhanced programs to support
+Designated Equity Communities, a Mass
+Save Solutions Center available in
+multiple languages to support
+customers’ access to efficiency
+measures, and programs to support
+widescale heat pump adoption. In
+addition, DOER works with stakeholders
+Energy Efficiency Site Visit - Springfield
+and advocacy groups to ensure the
+25
+
+Internal Policy Deliberative
+Mass Save program is responsive to issues of equity, increased customer participation
+and evolving workforce dynamics.
+Heat Pump & HVAC Training Network
+In early 2025, DOER funded a $15 million HVAC training program, the Heat Pump and
+HVAC Training Network launched by MassCEC in early 2025. This program is
+administered by the MassCEC and implements Governor Healey’s 2024 commitment
+to additional HVAC training programs at community colleges statewide.
+The Heat Pump and HVAC Technician Training Network Program provides HVAC
+technician workforce training, equipment, and planning grants to community
+colleges. These grants provide direct funding and technical assistance to community
+colleges that can establish or upgrade HVAC training centers. By increasing access to
+modern, relevant training equipment and infrastructure, the colleges can build and
+scale career pathways that help Massachusetts residents access and advance in HVAC
+mechanic and technician occupations.
+In 2025, MassCEC awarded $9.3 million to 13 of the 15 community colleges,
+including 9 implementation grants that will help the colleges purchase needed
+equipment and supplies, as well as make certain modifications to some of the training
+spaces. Another 4 planning grants have been awarded to help colleges investigate
+options to establish training programs in the future. If interested, these colleges will
+be eligible for implementation funding in 2026. Additionally, MassCEC is working
+with a consultant to develop a statewide training curriculum that will be made
+available, free of charge, to each of the community colleges participating in the
+program. Several training programs are slated to begin in the Spring of 2026, with the
+remainder of the 9 implementation grant schools to begin training students by the fall
+of 2026.
+Regional Collaboration & Procurements
+Clean Energy Procurements
+DOER coordinated with its state partners across New England in 2025 to seek out all
+opportunities to secure new, cost-effective clean energy supply. Under its authority to
+participate in regional procurements for clean energy supply (Section 82), DOER
+coordinated with Connecticut, Maine, and Vermont on Connecticut’s Expedited Zero
+Carbon RFP to collectively select over 170 MW utility-scale solar energy projects in
+December. DOER selected portions of two projects totaling more than 40 MW.
+Thanks to the states’ swift action in this process, these solar projects will be able to
+secure key expiring federal tax credits to lower costs for customers. DOER also
+26
+
+Internal Policy Deliberative
+coordinated with New England state partners on Maine’s solicitation for new
+generation and transmission in Northern Maine. Maine released an RFP in
+coordination with DOER in December 2025 which seeks to unlock up to 1,200 MW of
+new, affordable clean energy generation for the region.
+Throughout 2025, DOER worked with the electric utilities and project developers to
+advance the two offshore wind projects that DOER competitively selected last year:
+New England Wind 1 and SouthCoast Wind. Due to ongoing uncertainty caused by
+federal level activities, the counterparties have not yet completed their contract
+negotiations and are now targeting the completion of negotiations and execution of
+contracts on or before June 30, 2026, filing of contracts with the Department of Public
+Utilities on or before August 31, 2026.
+Given the ongoing contract negotiations for those projects, coupled with uncertainty
+from the federal government pertaining to offshore wind permitting generally, DOER
+notified the DPU on August 7, 2025 that DOER and the EDCs did not anticipate
+submitting a draft 83C Round V RFP containing a proposed timetable and method of
+solicitation for Department review until at least 2026. DOER and the EDCs will
+continue to evaluate market conditions throughout 2026 and inform the Department
+of progress towards submittal of a draft RFP.
+Energy Storage Procurement
+DOER issued the Commonwealth’s first-ever procurement for energy storage systems
+on July 31, 2025, pursuant to Chapter 239 of the Acts of 2024. The 2024 Climate Act
+created Section 83E which directs the Massachusetts electric utilities to solicit
+approximately 5,000 MW of energy storage systems by July 31, 2030. Throughout
+2025, DOER, in coordination with the Massachusetts Electric Distribution Companies,
+designed a Request for Proposals, solicited project proposals, evaluated the benefits
+for Massachusetts ratepayers, and selected a portfolio of projects that will reduce
+customer costs. On December 19th, DOER announced the selected projects for a total
+of 1,268 MW. The Electric Distribution Companies and the selected projects will enter
+into contract negotiations and any executed contracts will be filed at the Department
+of Public Utilities for their review and approval.
+Regional Greenhouse Gas Initiative (RGGI)
+The Regional Greenhouse Gas Initiative (RGGI) is a cooperative, market-based effort
+to cap and reduce carbon dioxide emissions from the power sector. RGGI is the first
+cap-and-invest regional initiative in the U.S. and currently has 10 member states:
+Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New
+Jersey, New York, Rhode Island, and Vermont. DOER Commissioner Mahony assumed
+27
+
+Internal Policy Deliberative
+the role of RGGI Chair in December 2024 and successfully led participating states to
+complete the Third Program Review in 2025, in which member states strengthened
+their commitments to collaborate regionally to reduce emissions and established new
+mechanisms to promote affordability.
+Massachusetts invests RGGI funds to lower energy use and bills for residents,
+businesses, and municipalities; improve public health, drive local economic
+development; and create jobs. For example, RGGI auction proceeds fund DOER’s
+Green Communities program, as well as the Mass Save energy efficiency and MOR-EV
+electric vehicle incentive programs. This funding directly offsets program costs that
+would otherwise be borne by ratepayers.
+As a region, New England has invested $1.7 billion of RGGI proceeds through 2023,
+which will provide an estimated $6.6 billion in lifetime savings. Economic modeling
+conducted for the Third Program Review estimates that the updates will increase
+disposable personal income for Massachusetts residents by $38-$65 per householde
+per year, driven by energy efficiency and economic activity stimulated by RGGI
+proceeds investments.
+Regional Collaboration
+Collaboration with neighboring states and regions is essential to DOER’s work to
+ensure a clean, affordable, reliable, and equitable energy future in Massachusetts.
+Given the shared regional electricity grid in New England, Massachusetts coordinates
+frequently with its neighbors on issues of power supply and demand. For example,
+referenced above, DOER is coordinating with neighboring states on several regional
+procurements for clean and renewable energy and selected two solar projects from
+one such procurement in December.
+DOER also coordinates with governments outside the New England region, such as
+the Eastern Canadian Provinces. In 2025, DOER led two of three working groups
+under the Northeast International Committee on Energy (NICE) focused on Offshore
+Wind Supply Chain and Hard-to-Decarbonize Sectors. This work culminated in further
+discussions on energy policy at the New England Governors–Eastern Canadian
+Premiers (NEG-ECP) conference in November and supports the administration’s
+priority to pursue regional collaboration with Canada on energy policy and supply.
+In late December 2025, the New England Clean Energy Connect (NECEC) project
+conducted its first testing on the line set to deliver 1,200 MW of firm Canadian
+hydroelectric power to the New England grid for 20 years. This project will lower
+electricity prices, reduce emissions, and provide energy reliability.
+28
+
+Internal Policy Deliberative
+Advocating for Energy Policy at the DPU
+DOER is an active intervenor at the DPU to push for holistic, comprehensive utility
+planning and investments to support a clean, affordable, reliable, and equitable
+energy system. DOER’s interventions in 2025 focused on ways the utilities can
+improve their investment proposals to avoid unnecessary spending, leverage
+advanced technologies to benefit customers, and align plans with the
+Commonwealth’s clean energy goals.
+Thanks to DOER’s advocacy, all three electric utilities in Massachusetts rolled out new,
+lower rates for over 130,000 heat pump customers, which will save customers in the
+Commonwealth nearly $70 million this winter alone. DOER proposed the design of
+these heat pump rates through the Interagency Rates Working Group (IRWG) and in
+February 2025, petitioned DPU to approve them for all Massachusetts utilities to
+ensure all eligible customers can enjoy these savings from their clean heating
+technology.
+Throughout 2025, DOER continued its work to explore and gather stakeholder
+feedback on potential electric rate reforms through the Rates Task Force.6 The DPU
+acknowledged the Rates Task Force’s leadership on rate reform topics in its
+December notice opening a major new investigation into energy affordability and
+rate redesign (DPU 25-200).
+To advance DOER’s work on the future of gas, DOER submitted expert testimony with
+recommendations for how the gas utilities can improve their Climate Compliance
+Plans (CCPs) to promote affordability and align with the Commonwealth’s climate
+goals. DOER staff also successfully advocated for the gas companies to account for
+efficient building codes and other policies in their forecast and supply planning
+process, and for ways to minimize ratepayer costs and ensure successful
+implementation in National Grid’s strategic electrification pilot project in Leominster
+and Winthrop.
+To advance DOER’s goals for a modern and cost-effective electric grid, DOER
+successfully advocated for important modifications to the electric utilities’ annual
+reports on their ESMPs to promote transparency and empower stakeholders to
+6 The Interagency Rates Working Group (IRWG) was created to recommend changes to electricity rates
+and regulatory approaches that can make energy more affordable. The IRWG made several
+recommendations including a seasonal heat pump rate as well as the need for further stakeholder
+discussions about other changes to electric rates and regulatory approaches. DOER started the Rates
+Task Force to have these discussions. The Rates Task Force includes external stakeholders.
+29
+
+Internal Policy Deliberative
+understand the grid modernization process. DOER also successfully advocated for
+changes to the electric utilities EV program plans to promote managed charging,
+which can reduce system costs on the grid, and to allow efficient use of state
+incentives.
+To advance DOER’s work on interconnection, DOER participated in multiple
+interconnection related dockets at the DPU such as numerous Capital Investment
+Project (CIP) proceedings and the Operational Parameters for Energy Storage
+Systems Tariff. The focus of these proceedings is to ensure timely construction of
+infrastructure necessary to support widespread clean energy deployment in
+Massachusetts.
+Additionally, DOER was a key participant in the Interconnection Implementation
+Review Group (IIRG), the Technical Standards Review Group (TSRG) and other
+associated working groups.7 Both the IIRG and TSRG were established by the DPU
+with the objective of building consensus across the EDCs, state policy makers, and
+clean energy industry to ensure that the policy goals, economic considerations, and
+technical parameters cohesively work together to support interconnection of
+distributed generation and energy storage systems. DOER played a key role in the
+negotiation of topics and successfully supported two consensus IIRG filings with the
+DPU. These filings identified a suite of changes to interconnection processes such as
+increasing the number of projects eligible for the Simplified Process, exempting
+certain projects from lengthy group studies, and setting firm timelines by which the
+EDCs must provide cost estimates to developers.
+Regulatory Oversight and Administration
+DOER is the primary entity responsible for implementing the Commonwealth’s
+renewable energy incentive programs and portfolio standards, including:
+ Solar Massachusetts Renewable Target (SMART)
+ Solar Massachusetts Renewable Target 3.0 (SMART 3.0)
+ Renewable Energy Portfolio Standard – Class I
+ Renewable Energy Portfolio Standard – Class II
+ Alternative Energy Portfolio Standard
+ Clean Peak Energy Standard
+7 Working group topics include flexible interconnection, the common system modification fee, and
+others.
+30
+
+Internal Policy Deliberative
+Portfolio standards are market-based policies intended to promote the use of specific
+types of energy resources. They require energy suppliers to supply a specific
+percentage of the energy they sell to their customers by purchasing an equivalent
+amount of certificates (commonly referred to as Renewable Energy Certificates or
+RECs). The renewable energy industry creates the supply for the program by
+constructing eligible renewable energy systems, qualifying them with DOER,
+generating certificates, and selling them into the market to be used for compliance.
+DOER staff engages with stakeholders, reviews and processes applications, identifies
+and executes program updates, and manages the creation or “minting” of certificates
+each quarter.
+In 2025, DOER staff processed 33,109 applications to qualify renewable energy
+systems for Massachusetts’ programs. From January through September 2025,8 DOER
+staff supported the minting of over 17.5 million MWhs equivalent of certificates
+across all portfolio standards.
+DOER also manages the compliance process under each portfolio standard
+mentioned above and supports the Department of Environmental Protection
+(MassDEP) with the compliance required under the Clean Energy Standard.
+In 2025, DOER collected and held over $48 million in financial security from 57
+suppliers to protect Massachusetts ratepayers from non-compliance under the
+Renewable Energy Portfolio Standard.
+State Decarbonization
+DOER’s Leading by Example (LBE) Division plays an important role in coordinating
+and catalyzing the decarbonization of state government operations. The Division
+oversees efforts to meet aggressive clean energy targets for the Commonwealth’s
+facilities around lowering energy costs, energy efficiency, renewable energy, and
+greenhouse gas emissions reductions. They work collaboratively with state agencies
+and public colleges and universities to advance clean energy efforts and sustainable
+practices and serve as a trusted resource to turn policy into action through strategic
+partnerships, technical assistance, and grant funding.
+In addition to the many LBE grant programs listed above, the Division led several
+important initiatives in 2025 to plan for and advance Commonwealth energy goals.
+8 The minting for production generated in Q4 2025 will occur on April 15, 2026.
+31
+
+Internal Policy Deliberative
+LBE supported 30 state fleets to develop fleet
+electrification roadmaps that identify a vehicle-
+by-vehicle electrification strategy to meet the
+requirements of the Leading by Example
+Executive Order 594.
+The Division also facilitated regional
+collaboration by hosting an in-person Northeast
+LBE Summit with staff from Connecticut, Maine,
+New York, Rhode Island, and Vermont to discuss
+similar challenges and opportunities related to
+state government programs focused on their
+own facilities. The meeting led to the creation of
+a national LBE group, and Massachusetts sits on
+the steering committee.
+LBE Division Visiting a Thermal Storage
+Tank at UMass Amherst
+Municipal Support
+DOER provides critical support and resources to municipalities related to local clean
+energy projects, clean energy siting and permitting, and more. Much of this work is
+led by the Clean Energy Siting & Permitting and Green Communities Divisions.
+Clean Energy Siting & Permitting
+Following the passage of the 2024 Climate Act, DOER stood up a new division to
+implement a streamlined local siting and permitting process for small clean energy
+projects. In April, DOER hired a Director of Clean Energy Siting and Permitting and in
+June, four Regional Coordinators joined the team. The new Division of Clean Energy
+Siting and Permitting is well positioned to provide necessary support to
+municipalities, project proponents and stakeholders. Division staff has expertise in
+municipal permitting, regional planning, environmental policy, state and federal
+regulations, stakeholder engagement, and communications.
+DOER also supported local clean energy siting and permitting efforts by releasing a
+draft updated Model Bylaw for Solar and draft new Model Bylaw for Battery Energy
+Storage Systems (BESS). DOER hosted in-person and virtual listening sessions and
+webinars, and solicited public comments on the model bylaws, which will ultimately
+support the implementation of the siting and permitting reforms pursuant to the 2024
+Climate Act.
+32
+
+Internal Policy Deliberative
+Municipal Energy Manager Training & Support
+In Massachusetts, many clean energy and climate solutions are deployed locally
+through complex state and utility programs. Building in-house clean energy expertise
+allows municipalities to fully plan for future infrastructure updates and to access
+programs like Mass Save, Green Communities, SMART, and other grants and
+incentives offered by DOER and EEA. It also helps municipalities move projects from
+planning to implementation more quickly and cost-effectively. This expertise is
+particularly critical in under-resourced communities.
+In June, the Clean Energy and Environment Legacy Transition (CELT) program placed
+its first cohort of municipal energy fellows, in partnership with the Rist Institute of
+Sustainability at UMass Lowell and the Institute for Global Sustainability at Boston
+University. Nine undergraduate and graduate students supported projects in 27
+communities and regional planning agencies that advanced local clean energy
+planning, community engagement, policy development, and data analysis.
+DOER also provided significant planning and support to the Mass Save Municipal
+Energy Manager program in 2025, including training modules, resources, and hands-
+on technical assistance to the new energy managers serving 63 municipalities.
+Public Engagement
+Public and stakeholder engagement is central to DOER’s approach to its work. DOER
+hosted its second annual Town Hall to broadcast plans for 2025, answer questions,
+and solicit feedback. Held virtually over Zoom, DOER offered interpretation in the top
+six languages in Massachusetts, translated the slides, and posted the recorded
+webinar for on demand viewing.
+To better represent the Agency and strengthen public understanding of its work,
+DOER revitalized its brand with a vibrant, accessible color scheme, updated logo, and
+refreshed mission and agency description. DOER continues to proactively provide
+vital information in multiple languages, add accessible navigation features to its
+website, and host hybrid, in-person, and virtual events.
+DOER’s engagement efforts brought together diverse stakeholders to engage
+directly on the Commonwealth’s clean energy priorities, foster collaboration, and
+knowledge-exchange. In November, DOER hosted the second annual Green
+Communities + Leading by Example Summit at the DCU Center in Worcester. More
+than 200 municipal and state agency staff, community leaders, clean energy and
+climate practitioners, and committee members came together to learn, collaborate,
+and celebrate successes related to municipal and state energy efforts.
+33
+
+Internal Policy Deliberative
+DOER also hosted its first set of public
+stakeholder events on the future grid.
+These events, in Boston and Amherst,
+brought together participants from
+municipalities to meet the GMAC and
+discuss what the future grid means for
+cities and towns. In October, the Clean
+Energy Siting & Permitting Division
+hosted six public meetings across
+Massachusetts to inform the
+development of regulations and
+GMAC Stakeholder Event – December 12, 2025
+guidelines for the local clean energy
+Amherst, MA
+siting and permitting process.
+Energy Security & Emergency Preparedness
+To ensure a resilient energy system, DOER plays an important role in energy security
+and emergency preparedness in the Commonwealth. In emergencies and disasters,
+DOER coordinates with industry stakeholders and other government agencies on
+energy supply and delivery issues related to unregulated delivered fuels such as
+gasoline, oil, and propane. The availability of energy supplies, including delivered
+fuels, is critical to the security of the Massachusetts economy and its residents’
+welfare. In line with this work, DOER completed important studies and risk
+assessments in 2025 to identify vulnerabilities and prepare for energy emergencies.
+DOER 2026 Planning
+DOER plans significant work in 2026 to meet the Commonwealth’s energy goals for a
+clean, affordable, reliable, and equitable energy system. DOER’s programs and
+initiatives for 2026 will meet the following goals:
+1. Implement core and new programs and regulations
+2. Disburse funding through grant programs to maximize impact
+3. Develop strategic and effective energy policy
+4. Ensure transparency, accessibility, and robust stakeholder engagement
+5. Create pathways for decarbonization
+6. Coordinate with neighboring states and regions
+34
+
+Internal Policy Deliberative
+Key Programs and Goals for DOER in 2026 will include:
+Category Goal
+Clean Energy Promulgate regulations, issue guidelines, publish model solar and storage
+Siting & Permitting bylaws, develop and launch technical assistance resources, launch portal
+Issue solicitation for 2nd round of energy storage (83E) procurements,
+Procurements coordinate on Maine transmission & onshore generation procurement and
+Connecticut nuclear procurement, finalize offshore wind (83C) contracts
+Merrimack Valley
+Disburse all remaining MVRF funds, launch geothermal project
+Renewal Fund
+Green Award 2nd round of Climate Leader Accelerator Grants; award two rounds of
+Communities Green Communities Competitive Grants
+State Government Fully award $46 million across three LBE grant programs; publish Leading by
+Decarbonization Example Progress Report from FY20 to FY25
+File petition to DPU for long-term ratemaking changes to improve energy
+Electric Rates
+affordability based on Rates Task Force recommendations
+Solar Grants & Award first Low-Income Services Solar Program (LISSP) grants, maximize
+Incentives participation under SMART 3.0 Program Year 2026
+Federal Funding Implement federally funded programs including Home Energy Rebate
+Deployment Programs (HER / HEAR)
+Promulgate updated regulations to prioritize rebates for income-qualified
+MOR-EV
+residents and improve program cost-effectiveness
+Intervene in dockets at the DPU to ensure electric and gas utility planning and
+Regulatory
+investments are transparent and reflect state energy goals including
+Intervention
+affordability
+Energy Storage Award first grants under Advancing Massachusetts Power (AMP) energy
+Grants storage grant program
+Renewable
+Launch new RPS Portal, revise regulations based on 2024 Climate Act
+Portfolio Standard
+Building Energy
+Promulgate updates to the Stretch and Specialized Stretch Codes
+Codes
+Energy Efficiency Advisory Council (EEAC), planning kickoff and
+Mass Save recommendations for 2028-2030 Three Year Plan, manage budget and
+program availability
+Website Reorganize website to better serve constituents and stakeholders and
+Reorganization facilitate increased external engagement
+35
+
+Internal Policy Deliberative
+Department Budget
+Operating Accounts Overview
+DOER has two operating accounts which are funded by assessments to investor-
+owned and municipal utilities. The accounts bear no net impact on the General Fund.
+Account
+Name FY25 Final Spending
+Number
+7006-1001 Residential Conservation Service Program Assessed $248,841
+7006-1003 DOER Energy Efficiency Assessed $6,659,337
+Account FY27
+Name FY26 GAA
+Number Maintenance
+7006-1001 Residential Conservation Service Program Assessed $268,957 $272,485
+7006-1003 DOER Energy Efficiency Assessed $6,922,381 $7,204,974
+Trust Spending
+FY26
+Account FY25 Final
+Name Spending as
+Number Spending
+of 12/31/25
+2000-0113 RGGI - Regional Greenhouse Gas Initiative $210,666,669.17 $95,258,568.91
+7006-1385 EV Adoption Incentive Trust $7,308,000.00 $258,469.43
+7006-2050 ENE Columbia Gas $1,612,385.03 $653,699.83
+7006-7016 STRIPPER OIL $ – $16,094.07
+7006-7056 Alternative Compliance Payment $8,945,947.30 $5,920,886.75
+7006-7060 Energy Efficiency $9,258,062.01 $1,315,356.63
+Revenue
+DOER assesses for costs associated with 7006-1001 and 7006-1003 along with
+related fringe benefits.
+Name FY25 Assessed Revenue
+Residential Conservation Service Program Assessed $369,421.84
+DOER Energy Efficiency Assessed $9,117,869.80
+FY26 Assessed FY27 Projected
+Name
+Revenue Revenue
+Residential Conservation Service Program Assessed $364,179.97 $369,042.00
+DOER Energy Efficiency Assessed $9,319,506.64 $9,708,775.00
+36
+
+Internal Policy Deliberative
+Federal Grants
+Awarded
+Name Description Comments Appropriation
+Amount
+The Massachusetts Clean Cities
+Clean Cities Coalition (MCCC), hosted by
+Coalition DOER, provides educational 4/1/24 - 3/31/25
+Network services and public outreach to
+FY25-FY26
+Outreach, improve public and private Funding not
+$115,000 7006-9310
+Education and awareness of alternative fuel received for
+(4/1/25-3/31/26)
+Performance technologies, including electric funding period
+Tracking vehicles and other technologies 4/1/25-3/31/26
+Program that reduce emissions in the
+transportation sector.
+Clean Heavy- This grant provides funding to
+Duty Vehicles replace old diesel Class 6 & 7
+Grant Program trucks with new zero-emission 1/1/25 - 12/31/26 7006-9324
+$5,833,843
+(CHDV) - vehicles, build charging
+Competitive infrastructure, and train workers,
+focusing on disadvantaged
+communities for cleaner air.
+This grant will offer competitive
+sub grants to municipalities with
+a population of less than 35,000
+Energy
+to reduce energy consumption,
+Efficiency and
+reduce greenhouse gas
+Conservation $2,494,680 11/1/23 - 10/31/26 7006-9313
+emissions, and promote the
+Block Grant
+adoption of clean energy
+(EECBG)
+technologies in municipal
+buildings, residences, and
+businesses.
+The Home Efficiency Rebates
+(HER) program will provide
+rebates based on whole-house
+energy saving retrofits that
+achieve a defined threshold of
+energy savings. DOER is using
+the funds to (1) provide
+Home Energy additional funding for the DOER
+Rebates Affordable Housing
+$73,086,125 11/1/24 - 10/31/31 7006-9314
+(Efficiency Decarbonization Grant Program
+Rebates) (AHD), targeting multi-family
+affordable deed-restricted
+rental housing statewide; and
+(2) provide rebates based on
+energy savings in communities
+served by Municipal Light Plants
+for customers not served by the
+Mass Save program.
+37
+
+Internal Policy Deliberative
+Awarded
+Name Description Comments Appropriation
+Amount
+The Home Electrification and
+Appliances Rebate (HEAR)
+Program will provide rebates for
+Home Energy efficient electrification projects
+Rebates for low- and moderate-income
+$72,809,130 1/1/25 - 12/31/30 7006-9315
+(Electrification households through the Mass
+Rebates) Save program. The funds will
+allow Mass Save to serve
+additional customers for
+existing program offerings.
+DOER will engage local
+communities and provide field-
+based trainings and inspections,
+5/1/24 - 4/30/27
+support flexible compliance
+Resilient and
+approaches, and enable the
+Efficient Codes Terminated by U.S.
+sharing of regional best $3,900,000 7006-9312
+Implementation DOE on 10/9/25;
+practices to advance the
+(MIDDLE-C) DOER initiated
+equitable adoption and
+informal dispute
+implementation of updated
+stretch building energy codes
+throughout the state.
+This formula grant provides
+funding to states to support
+planning activities and
+SEP – State programs that help reduce
+PY24 (FY25) 3-year grant –
+Energy carbon emissions in all sectors 7006-9734
+$1,228,360 ended 6/30/25
+Program of the economy. The grant is
+awarded in three-year
+increments and states must
+apply every year for the award.
+This formula grant provides
+New Grant
+funding to states to support New
+7/1/25 - 6/30/28
+planning activities and Appropriation –
+SEP – State programs that help reduce Pending
+PY25 (FY26) FY27 & FY28 grant
+Energy carbon emissions in all sectors
+$1,299, 240 amounts depend
+Program of the economy. The grant is Award letter not
+on annual
+awarded in three-year received as of
+application
+increments and states must 1/5/26
+instructions
+apply every year for the award.
+SEP RLF – State
+Energy This grant will allow DOER to
+Program cover and pay down the interest 8/1/24 - 7/31/29
+7006-9317
+Energy for loan products provided to $1,894,760
+Efficiency residents who are Municipal No expenditures
+Revolving Loan Light Plant (MLP) customers.
+Fund
+38
+
+Internal Policy Deliberative
+Awarded
+Name Description Comments Appropriation
+Amount
+This grant’s objective is to
+collect data between U.S.
+Energy Information
+Administration (EIA) and State FY24
+SHOPP – State
+Energy Offices (SEOs) – data $22,288 9/23/25 - 9/22/26
+Heating Oil &
+used by policymakers, industry 7006-9701
+Propane
+analysts, and consumers – FY25 50% match
+Program
+including weekly state-level $22,288
+residential heating oil and
+propane prices from October
+through March.
+This grant will expand access to
+solar energy in low-income and
+historically disadvantaged
+communities by financing solar
+9/1/24 - 8/31/29
+installations. Solar for All
+programs administered by the
+Terminated by U.S.
+Solar for All MA Solar for All Coalition are $156,120,000 7006-7316
+EPA on 8/7/25; MA
+estimated to help more than
+AGO challenging
+29,000 households lower their
+the termination
+energy bills by 20%, create
+approximately 3,000 good-
+paying jobs, and add 125 MW
+of solar across the state.
+The public entity
+7/1/22 - 6/30/28
+decarbonization grant program
+for state facilities and regional
+$200K towards
+State Energy school districts provide the
+State Energy
+Program BIL necessary funding to plan for, $7,699,040 7006-9311
+Security Plan; the
+IIJA (SEP-BIL) design, and/or deploy efficient
+remainder for
+electrified solutions at existing
+grant programs
+state government and regional
+described at left
+school district facilities.
+Department Staffing
+Full Time
+Title Appropriation Salary
+Equivalent
+Counsel III 20000113 $140,776.74 1.0
+Program Coordinator II 20000113 $75,109.32 1.0
+Regional Planner III 20000113 $114,053.42 1.0
+Program Manager IV 20000113 $95,435.00 1.0
+Program Manager IV 20000113 $89,710.69 1.0
+Program Manager VI 20000113 $115,566.00 1.0
+Program Manager VI 20000113 $97,724.29 1.0
+RGGI 20000113 Total $728,375.46 7.0
+39
+
+Internal Policy Deliberative
+Full Time
+Title Appropriation Salary
+Equivalent
+Student Internship (C05):
+Contracted Student Intern 2000-0113 $17,360.00 0
+Contracted Student Intern 2000-0113 $13,157.55 0
+Contracted Student Intern 2000-0113 $13,387.50 0
+Contracted Student Intern 2000-0113 $13,650.00 0
+Contracted Student Intern 2000-0113 $11,392.50 0
+Contracted Student Intern 2000-0113 $11,270.00 0
+Student Internship (C05) Total: $80,217.55 0
+Program Manager V 70061001 $118,717.80 1.0
+70061001 Total $118,717.80 1.0
+Accountant V 70061003 $109,752.76 1.0
+Administrative Officer IV 70061003 $123,551.22 1.0
+Administrator IX 70061003 $147,722.77 1.0
+Administrator VIII 70061003 $131,114.88 1.0
+Administrator X 70061003 $177,267.32 1.0
+Auditor IV 70061003 $118,145.56 1.0
+Counsel I 70061003 $77,289.16 1.0
+Counsel I 70061003 $82,397.12 1.0
+Counsel I 70061003 $82,397.12 1.0
+Counsel II 70061003 $129,121.98 1.0
+Counsel II 70061003 $129,121.98 1.0
+Counsel II 70061003 $91,392.08 1.0
+Data Analyst I 70061003 $92,193.66 1.0
+Economist III 70061003 $113,024.34 1.0
+Environmental Analyst IV 70061003 $124,740.46 1.0
+Fiscal Officer VI 70061003 $115,337.39 1.0
+Fiscal Officer VIII 70061003 $135,949.74 1.0
+Mechanical Engineer IV 70061003 $124,740.46 1.0
+Office Support Specialist II 70061003 $87,921.34 1.0
+Program Coordinator I 70061003 $81,994.12 1.0
+Program Coordinator II 70061003 $82,403.88 1.0
+Program Coordinator II 70061003 $85,064.98 1.0
+Program Coordinator II 70061003 $95,453.80 1.0
+Program Coordinator II 70061003 $97,362.46 1.0
+Program Coordinator II 70061003 $75,109.32 1.0
+Program Coordinator III 70061003 $113,024.34 1.0
+Program Coordinator III 70061003 $103,420.98 1.0
+Program Coordinator III 70061003 $113,024.34 1.0
+Program Coordinator III 70061003 $87,925.24 1.0
+40
+
+Internal Policy Deliberative
+Full Time
+Title Appropriation Salary
+Equivalent
+Program Coordinator III 70061003 $93,825.94 1.0
+Program Coordinator III 70061003 $100,118.46 1.0
+Program Coordinator III 70061003 $103,420.98 1.0
+Program Coordinator III 70061003 $113,024.34 1.0
+Program Manager IV 70061003 $99,308.38 1.0
+Program Manager IV 70061003 $91,129.38 1.0
+Program Manager IV 70061003 $108,034.42 1.0
+Program Manager IV 70061003 $98,434.50 1.0
+Program Manager IV 70061003 $96,587.96 1.0
+Program Manager IV 70061003 $98,434.50 1.0
+Program Manager IV 70061003 $102,269.61 1.0
+Program Manager Specialist VI 70061003 $134,000.00 1.0
+Program Manager V 70061003 $116,853.00 1.0
+Program Manager V 70061003 $107,951.25 1.0
+Program Manager V 70061003 $98,756.40 1.0
+Program Manager VI 70061003 $109,300.20 1.0
+Program Manager VI 70061003 $93,747.14 1.0
+Program Manager VI 70061003 $112,496.57 1.0
+Program Manager VI 70061003 $129,186.38 1.0
+Program Manager VI 70061003 $132,274.15 1.0
+Program Manager VIII 70061003 $133,060.74 1.0
+Program Manager VIII 70061003 $131,114.88 1.0
+Program Manager VIII 70061003 $128,544.00 1.0
+Program Manager VIII 70061003 $128,929.63 1.0
+Program Manager VIII 70061003 $130,873.60 1.0
+Program Mgr Specialist VIII 70061003 $145,167.40 1.0
+Regional Planner II 70061003 $86,465.34 1.0
+Regional Planner III 70061003 $114,053.42 1.0
+Regional Planner IV 70061003 $114,144.94 1.0
+70061003 Total $6,379,472.28 58.0
+Administrative Officer III 70067060 $113,024.34 1.0
+Program Coordinator II 70067060 $75,109.32 1.0
+Program Coordinator II 70067060 $79,823.64 1.0
+Program Coordinator III 70067060 $87,925.24 1.0
+Program Coordinator III 70067060 $87,925.24 1.0
+Program Coordinator III 70067060 $85,117.76 1.0
+Program Coordinator III 70067060 $113,024.34 1.0
+Program Coordinator III 70067060 $93,825.94 1.0
+Program Manager IV 70067060 $85,000.00 1.0
+Program Manager IV 70067060 $90,500.00 1.0
+41
+
+Internal Policy Deliberative
+Full Time
+Title Appropriation Salary
+Equivalent
+Program Manager IV 70067060 $93,500.00 1.0
+Program Manager IV 70067060 $87,500.00 1.0
+Program Manager V 70067060 $102,958.80 1.0
+Program Manager V 70067060 $118,675.52 1.0
+Program Manager VI 70067060 $98,336.16 1.0
+Program Manager VI 70067060 $112,496.57 1.0
+70067060 Total $1,524,742.87 16.0
+Counsel I 70069311 $79,764.36 1.0
+Program Coordinator II 70069311 $90,652.64 1.0
+Program Coordinator III 70069311 $48,461.14 0.5
+70069311 Total $218,878.14 2.5
+Program Coordinator II 70069313 $87,815.52 1.0
+70069313 Total $87,815.52 1.0
+Program Coordinator III 70069314 $79,764.36 1.0
+70069314 Total $79,764.36 1.0
+Program Coordinator III 70069315 $77,289.16 1.0
+70069315 Total $77,289.16 1.0
+Program Coordinator IV 70069316 $89,342.53 1.0
+70069316 Total $89,342.53 1.0
+Grand Total $9,682,048.12 88.5
+Alternative Compliance Payments Spending Plan
+DOER prioritizes the spending of Alternative Compliance Payments (ACP) – including
+funds that accrued prior to the Healey-Driscoll administration – to support the
+development of clean energy resources and efficiency projects which will help reduce
+customer costs, add needed electric supply, and achieve the Commonwealth’s
+mandated emissions reduction targets.
+Since 2023, DOER has designed and launched several new programs which will
+provide $200 million in support of these goals. These programs include:
+ Climate Leader Communities ($60 million)
+ Affordable Housing Decarbonization ($22 million)
+ Leading by Example Solar and Decarbonization Programs ($50 million)
+ Heat Pump Training Labs ($15 million)
+ Advancing Massachusetts Power ($50 million)
+ Low-Income Services Solar Program ($5 million)
+42
+
+Internal Policy Deliberative
+DOER ensures robust evaluation and stakeholder engagement to design effective
+programs that will have the most impact. Most DOER programs are long-term
+initiatives which take multiple years to implement due to the application, evaluation,
+award, and funding disbursement process.
+In addition to designing and launching the above programs, DOER also provided
+immediate ratepayer relief in April 2025 with a $50 direct credit to residential electric
+ratepayers, which totaled approximately $125 million.
+ACP Background
+Any company that sells retail electricity in Massachusetts is required to submit an
+Annual Compliance Filing that demonstrates it has met all Renewable Energy
+Portfolio Standard (RPS) Class I, RPS Class II, Alternative Portfolio Standard (APS), and
+Clean Peak Standard (CPS) percentage obligations. Any Retail Electricity Supplier that
+is required to comply with these requirements may, if necessary, satisfy some or all of
+its obligations by making an Alternative Compliance Payment (ACP) in the
+appropriate amount based on the ACP rates. Those payments are made to and held
+by the Massachusetts Clean Energy Center (MassCEC) for use by DOER. DOER issues
+an Annual RPS & APS Compliance Report, which includes summarized information
+from the Annual Compliance Filings submitted by the Retail Electricity Suppliers.
+Allowable Uses of ACP Funds
+Generally, the allowable uses of ACP funds by category are:
+Name Permitted Uses References
+APS To further the commercial development of Alternative Generation 225 CMR 16.08(3)(b)
+To further the commercial development of Clean Peak Resources,
+CPS promote projects or activities that reduce GHG emissions or 225 CMR 21.08(3)(b)
+ratepayer costs
+To further commercial development of Class I renewables or
+promote projects or activities that reduce GHG emissions or 225 CMR 14.08(3)(d)
+RPS
+ratepayer costs through electric load reduction, peak demand 225 CMR 15.08 (3)(b)
+reduction, or strategic electrification
+FY 2026 ACP Spending Plan
+The chart below represents contracts and programs with encumbered funds or
+anticipated spending in FY26.
+Program FY2026 Spending Plan
+Advancing Massachusetts Power (AMP) Energy Storage Grants $ 45,000,000.00
+Affordable Housing Decarbonization (AHD) Grant Program $ 20,000,000.00
+43
+
+Internal Policy Deliberative
+Program FY2026 Spending Plan
+Appliance Standards Review – Energy Solution Consulting $ 205,484.00
+Auction Services $ 500,000.00
+CELT Initiative - Clean Energy & Environmental Legacy Transition $ 5,405,083.00
+Climate Leader Communities $ 51,400,000.00
+Community Shared Solar Marketplace $ 5,000,000.00
+CPACE - Commercial Property Assessed Clean Energy $ 446,392.00
+CPS - Clean Peak Energy Portfolio Standard $ 400,000.00
+Decarbonization Implementation Grant (DIG) Program $ 22,334,464.00
+Energy Code Training $ 50,000.00
+Fossil Fuel or Electric Resistance Heating System for Low-Income
+$ 110,000.00
+Housing - ISA with EOHLC to Support Programming
+GIP Legal Support $ 987,950.00
+Green Communities Municipal Energy Technical Assistance
+$ 542,517.00
+Grant Program (META)
+Heat Pump Training Labs $ 3,000,000.00
+Large Building Energy Reporting $ 456,106.00
+LBE Solar-Decarbonization Grant Program $ 23,000,000.00
+Leading by Example - Feasibility Studies $ 628,492.00
+Low-Income Services Solar Program (LISSP) $ 5,020,000.00
+MassEnergy Insight $ 194,499.00
+MBTA - Greenhouse Gas Emissions Reduction Projects $ 3,500,000.00
+Merrimack Valley Renewal Fund (MVRF) Geothermal Microgrid $ 4,000,000.00
+Municipal Decarbonization Planning $ 1,000,000.00
+Power Forward – Interconnection Studies for Housing $ 3,000,000.00
+Procurement Consultants $ 2,188,505.00
+Production Tracking System Administrative Transfer $ 2,585,322.00
+Rate Relief – Residential Electric Ratepayers $ 180,000,000.00
+Restoration for Solar Decarbonization Grant Program $ 5,000,000.00
+RPS Portal $ 1,000,000.00
+SMART - Solar Mass Renewable Target $ 1,502,300.00
+Studies/Expert Witness for DPU Intervention $ 1,931,700.00
+Technical Potential of Load Management Study $ 289,830.00
+Thermal Energy Demand Intensity (TEDI) Consultant $ 200,000.00
+UMass Clean Energy Extension Initiative $ 1,707,979.00
+44
+
+Internal Policy Deliberative
+Appendix A – DOER Divisions
+Clean Energy Siting & Permitting
+The Clean Energy Siting & Permitting Division develops regulations and provides
+technical support and assistance to municipalities, project proponents, and other
+stakeholders regarding the siting and permitting of small clean energy infrastructure.
+Coordination & Engagement
+The Coordination & Engagement Division fosters collaboration between the Agency
+and external stakeholders, including local governments, businesses, and community
+groups. It develops outreach, communication, and engagement efforts, ensuring
+alignment of equitable energy programs with community needs and promoting
+meaningful public participation in energy policy development.
+Energy Efficiency
+The Energy Efficiency Division develops, implements, and oversees energy efficiency
+and building decarbonization activities in the Commonwealth in conjunction with
+other state and federal agencies. Significant areas of work include building energy
+codes, Building Energy Reporting, and energy efficiency and decarbonization grant
+and incentive programs.
+Finance & Operations
+The Finance and Operations Division manages the Agency’s budgeting, financial
+planning, and resource allocation. It ensures efficient operation of the Agency,
+overseeing accounting, procurement, financial compliance, contracts, and internal
+operations to support the successful implementation of energy programs and
+initiatives.
+Green Communities
+The Green Communities Division helps all Massachusetts cities and towns identify
+and implement solutions that reduce long-term energy costs and greenhouse gas
+emissions and strengthen local economies. It provides grants, technical assistance,
+and local support for clean energy and efficiency projects in municipal buildings,
+facilities, and schools.
+Leading by Example
+The Leading by Example (LBE) Division works with state agencies and public colleges
+and universities to advance clean energy and sustainability in government operations
+through strategic partnerships, technical assistance, grants, and best practices. It also
+a
+
+Internal Policy Deliberative
+manages DOER’s transportation work, including support for fleet electrification and
+managing the MOR-EV rebate program.
+Legal
+The Legal Division provides legal expertise and support for the Agency’s policies,
+filings, regulations, and programs. It ensures compliance with state and federal laws,
+drafts and reviews legal documents, advises on regulatory matters, manages public
+records requests, represents the agency in legal proceedings, and is responsible for
+filings made at the Massachusetts Department of Public Utilities on behalf of DOER.
+The Division also helps interpret laws and regulations, supporting the development
+and implementation of Agency strategies and initiatives.
+Policy, Planning & Analysis
+The Policy, Planning, and Analysis Division develops policies related to modernizing
+our electric grid, planning for the clean heating transition, procuring clean energy
+supply resources like offshore wind, and advancing affordable electric rates. The
+Division advocates on behalf of DOER in regulatory proceedings and provides market
+analysis for the public related to gas and electric supply, winter heating costs, and
+delivered fuel prices for propane and heating oil.
+Renewable & Alternative Energy
+The Renewable and Alternative Energy Division promotes renewable energy and
+assists in the installation of renewable energy for residents, businesses, and
+institutions. The Division provides information regarding the different types of
+renewable energy, funding programs, incentives, and installation resources. The
+Division administers several clean and renewable energy programs related to the
+compliance obligations of retail electric suppliers, specifically the Renewable,
+Alternative, and Clean Peak Portfolio Standards, as well as the Solar Massachusetts
+Renewable Target (SMART) Program.
+b
+
+Internal Policy Deliberative
+Appendix B – Statutory and Regulatory Authorities
+Enabling Statutes and Session Laws
+M.G.L. c. 25A
+C.M.R. 225
+Chapter 239 of the Acts of 2024, An Act Promoting a Clean Energy Grid, Advancing
+Equity and Protecting Ratepayers
+Chapter 179 of the Acts of 2022, An Act Driving Clean Energy and Offshore Wind
+Chapter 8 of the Acts of 2021, An Act Creating a Next-Generation Roadmap for
+Massachusetts Climate Policy
+Chapter 227 of the Acts of 2018, An Act to Advance Clean Energy
+Chapter 188 of the Acts of 2016, An Act to Promote Energy Diversity
+Chapter 75, § 11 of the Acts of 2016, An Act Relative to Solar Energy.
+Chapter 209 of the Acts of 2012, An Act Relative to Competitively Priced Electricity in
+the Commonwealth, § 35 and 36
+Chapter 169 of the Acts of 2008, An Act Relative to Green Communities (incl. § 83)
+General Laws Governing Administrative Functions for State
+Agencies
+M.G.L. c. 7
+M.G.L. c. 29
+M.G.L. c. 30
+M.G.L. c. 30A
+M.G.L. c. 31
+DOER Regulations
+225 CMR 4.00: Residential conservation service program
+225 CMR 9.00: Appliance energy-efficiency standards, testing and certification
+program
+225 CMR 10.00: Energy management services (EMS) contracts RFP process
+225 CMR 13.00: DOER CO2 budget trading program auction regulation
+a
+
+Internal Policy Deliberative
+225 CMR 14.00: Renewable energy portfolio standard - Class I
+225 CMR 15.00: Renewable energy portfolio standard - Class II
+225 CMR 16.00: Alternative energy portfolio standard (APS)
+225 CMR 19.00: Energy management services (EMS) contracts requests for
+qualification process
+225 CMR 20.00: Solar Massachusetts renewable target (SMART) program
+225 CMR 21.00: Clean peak energy portfolio standard (CPS)
+225 CMR 22.00: Massachusetts Stretch code and specialized code for low-rise
+residential -- 2025 residential low-rise amendments to IECC2021 and IRC 2021
+chapter 11: energy efficiency
+225 CMR 23.00: Massachusetts Stretch Code and specialized code for commercial,
+multi-family and all other construction - 2025 amendments to IECC2021 and ASHRAE
+standards 90.1-2019
+225 CMR 24.00: Municipal fossil fuel free building construction and renovation
+demonstration project
+225 CMR 25.00: Participation in the Green Communities Program for municipalities
+served by municipal light plants
+225 CMR 26.00: Massachusetts Offers Rebates for Electric Vehicles (MOR-EV)
+Program
+225 CMR 27.00: Building Energy Reporting
+225 CMR 28.00: Solar Massachusetts renewable target (SMART) program 3.0
+225 CMR 29.00: Small clean energy infrastructure facility siting and permitting
+b

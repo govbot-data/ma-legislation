@@ -1,0 +1,2620 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2
+
+Executive Summary
+Stop reading for a moment and look around you. You are no doubt surrounded by a
+structure—a building with walls and glass windows and concrete, perhaps steel or wood. If
+you look outside, you probably see other structures, sidewalks, and asphalt-paved streets.
+Or maybe you are riding in a train car, on steel tracks, pulling into a station stop with
+concrete platforms. Embodied carbon (EC) represents the greenhouse gas (GHG)
+emissions associated with the full life cycle of manufactured materials, objects, and
+structures in the built environment from raw material extraction, manufacturing, transport,
+construction, and maintenance through end-of-life disposal. For a multistory office
+building with a paved parking lot, that might include hundreds of cubic yards of concrete,
+tons of asphalt, tons of steel, window assemblies, and hundreds of board feet of wood—
+each among the highest EC emitting materials—from raw material extraction,
+manufacturing, transport, construction, and maintenance through end-of-life disposal.
+Embodied carbon is the sleeping giant when it comes to sources of climate pollution. For
+decades, the focus has been on reducing operational emissions, for example, from
+electric lighting, heating and cooling, appliance use, and mechanical systems. In recent
+years, governments and businesses have begun to understand that EC represents billions
+of tons of emissions released through the ordinary life cycle of building materials. Indeed,
+EC can account for up to fifty percent of a building’s lifetime emissions, depending on
+asset type.1 Globally, EC of building and infrastructure materials is responsible for ten to
+fifteen percent of total GHG emissions.2
+Innovation in design processes and low EC materials science are revolutionizing how we
+think about and construct the built environment. State procurement policies are crucial
+drivers of that innovation, sending a market signal to materials manufacturers and the
+architecture, engineering, and construction (AEC) industries. Importantly, these
+innovations can yield lower cost projects; for example, building reuse/renovation reduces
+EC and is often a far more cost-effective choice, especially for capital budget constrained
+states. And, low or zero EC materials of construction are increasingly cost competitive, in
+many circumstances having no or very low additional cost.3 In recent years, a number of
+1 See KPMG, Embodied Carbon, The Missing Half of GHG Emissions (2023), available at
+https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2023/esg-embodied-carbon.pdf
+2 “Buy Clean Policies: Overview + Implementation.” Carbon Leadership Forum,
+https://carbonleadershipforum.org/buy-clean-policies-overview/
+3 See RMI, Low Carbon Concrete in the Northeastern United States (June 27, 2020) (“In a national
+marketplace survey conducted by the US General Services Administration, over 55 percent of the 130-plus
+businesses surveyed said that their low-embodied carbon products cost about the same as their
+3
+
+states, including California, Colorado, Maryland, Minnesota, New Jersey, New York, and
+Oregon have enacted policies to reduce EC of state-procured construction materials.
+With that opportunity in mind, in late 2024, the Massachusetts Legislature passed, and
+Governor Healey signed into law, An Act promoting a clean energy grid, advancing equity,
+and protecting ratepayers. The law requires the establishment of an intergovernmental
+council (Council), made up of representatives of state government agencies and quasi-
+governmental authorities, as well as representatives from the Legislature and five
+gubernatorial appointees with various construction expertise. The Council was charged
+with preparing this embodied carbon reduction plan (Plan).
+With this Plan, the Commonwealth has set a course to (1) embed consideration of EC into
+State building and infrastructure planning and decision-making, design, and procurement;
+and (2) reduce EC of both procured construction materials and covered projects. Notably,
+the Council and this plan acknowledge that the most effective ways to lessen EC impacts
+are to reduce overall volumes of new work through building and material reuse and
+scoping capital investments to only the size needed to meet needs, avoiding unnecessary
+construction.
+This recommended phased approach to environmental product declaration (EPD) and
+material quantity (MQ) data collection for certain substantial vertical (building) and
+horizontal (infrastructure) projects—voluntary starting in 2026 and mandatory in 2027—
+will allow for greater understanding of current baseline EC for core materials. That learning
+sets the stage for implementing, in 2028, project-averaged global warming potential (GWP)
+limits for asphalt, ready-mix concrete, steel reinforcement, and structural steel used in
+covered vertical and horizonal construction projects. In addition, to facilitate high-impact
+early design improvements, Whole Building Life Cycle Assessment (WBLCA) will be
+required for new building construction or major building renovation projects involving at
+least 20,000 square feet and advertised for prime contract after mid-2027.
+To ensure the success of this Plan, the Council has included recommendations
+concerning continuing education for relevant staff; procedures for periodic review of
+covered materials and GWP stringency; establishment of a technical advisory committee
+(TAC) to the Council; further piloting of deconstruction and reuse opportunities; low EC
+technology market development; and regulatory alignment for the broader market.
+conventional concrete products.”), available at https://rmi.org/low-carbon-concrete-in-the-northeastern-
+united-states/; RMI, Reducing Embodied Carbon in Buildings, Low-Cost High Value Opportunities (July
+2021)(“ . . .[E]mbodied carbon can be reduced by 19%–46% in mid-rise commercial office, multifamily, and
+tilt-up-style buildings by leveraging low- and no-cost measures.”), available at https://rmi.org/wp-
+content/uploads/dlm_uploads/2021/08/Embodied_Carbon_full_report.pdf
+4
+
+Leading by example, the Commonwealth’s Plan will boost technical innovation and market
+demand for low EC materials and cost-effectively reduce EC emissions, protecting our
+communities from the increasingly costly and harmful impacts of climate change.
+5
+
+Summary of Recommendations
+RECOMMENDATION 1: AGENCY PROCEDURES & DECISION MAKING
+Covered Agencies that manage construction should undertake a comprehensive analysis
+of their construction processes and identify key decision points that influence EC.
+Agencies should use this analysis to develop organization-specific plans and revise
+specifications documents based on findings. Covered Agencies should report the findings
+of these analyses along with a full implementation plan to the Climate Chief by mid-2026.
+RECOMMENDATION 2: EDUCATION
+Using the Council as a convener and making use of resources available from nonprofit and
+voluntary associations, the state should provide educational materials to stakeholders
+throughout the supply chain, both within and outside of state agencies. By April 2026,
+DCAMM and MassDOT should submit to the Climate Chief a plan for educating relevant
+staff on the EC policy outlined in this plan.
+RECOMMENDATION 3: ENVIRONMENTAL PRODUCT DECLARATION (EPD) & MATERIAL
+QUANITY (MQ) REPORTING
+To understand the relative EC intensity of different materials, Covered Agencies, by mid-
+2027, should collect EPD and MQ data for listed materials used in Covered Projects.
+RECOMMENDATION 4: GLOBAL WARMING POTENTIAL (GWP) THRESHOLDS
+Covered Agencies should establish project-average GWP thresholds for ready-mix
+concrete, structural steel, steel rebar, and asphalt by mid-2028. To further promote
+market uptake of low EC materials, the Council should also provide a definition of "low-
+embodied carbon” material.
+RECOMMENDATION 5: WHOLE BUILDING LIFE CYCLE ASSESSMENT (WBLCA)
+To understand how design can be optimized to reduce EC, it is recommended that by 2027,
+the Commonwealth require cradle-to-grave WBLCA for new building construction or major
+building renovations over 20,000 square feet in any single building managed by a Covered
+Agency.
+RECOMMENDATION 6: TECHNICAL ADVISORY COMMITTEE (TAC)
+In order to review industry preparedness, market acceptance, and technology readiness
+for increased stringency in regulations, the Council shall convene a technical advisory
+committee that will, every two years:
+• Review materials subject to EPD reporting requirements and GWP limits and
+recommend new materials for inclusion;
+6
+
+• Review and, where appropriate, recommend decreasing GWP limits at the materials
+level and updating data sources informing thresholds;
+• Monitor the standards and reliability of WBLCA analysis and develop framework for
+project-level EC intensity limits;
+• Develop baseline measure for the EC emissions associated with state projects and
+set long- and intermediate-term targets for overall reduction of the state's EC
+carbon portfolio.
+RECOMMENDATION 7: DECONSTRUCTION AND REUSE
+Given the emerging nature of the field of deconstruction and reuse, DCAMM should
+develop protocols and implement exploratory pilot projects to better understand
+opportunities and challenges presented by reusing structures and building materials.
+Specifically, the Commonwealth should:
+• Increase cross-agency collaboration to establish protocol for deconstruction and
+reuse of Commonwealth building assets through formal participation on the
+Department of Environmental Protection (DEP) Reduce and Reuse Deconstruction
+Workgroup;
+• Increase pilot deconstruction projects within Covered Agencies that manage
+building assets and report to Council on learnings;
+• For select DCAMM demolition projects, conduct salvage assessments for products
+and materials that may be sold, repurposed or reused;
+• Expand workforce development programs to include deconstruction training
+programs; and
+• Support the development of a market for deconstructed materials.
+RECOMMENDATION 8: MARKET DEVELOPMENT
+The Executive Office of Economic Development (EOED) should continue to build
+awareness of existing state programs that support innovative low-embodied carbon (low
+EC) technologies and identify opportunities to further catalyze business growth and market
+development.
+• Drive awareness of available state programs for businesses developing low EC
+technologies; and
+• Explore opportunities for further catalytic support to help scale low EC
+technologies.
+7
+
+RECOMMENDATION 9: BUILDING CODE
+The Board of Building Regulations and Standards (BBRS) and the Council should work to
+develop a pathway towards adoption of EC reporting in base building code, first through
+incentive-based measures.
+8
+
+Figure 1: Recommended timeline for implementation
+9
+
+10
+
+Table of Contents
+Executive Summary ...................................................................................................... 3
+Summary of Recommendations .................................................................................... 6
+Table of Contents ....................................................................................................... 11
+Acknowledgements .................................................................................................... 13
+Council Members.................................................................................................... 13
+List of Figures............................................................................................................. 15
+Glossary of Terms ...................................................................................................... 16
+Introduction ............................................................................................................... 19
+What is Embodied Carbon ....................................................................................... 19
+National, State, and Local Policy Landscape ............................................................. 21
+Recommendations of the Council ............................................................................... 24
+Part I — Foundational Organizational Practices & Education.......................................... 27
+Recommendation 1: Agency Procedures & Decision Making ....................................... 27
+Recommendation 2: Education ................................................................................ 31
+Part II — Core Reporting & Material-Level Requirements ............................................... 34
+Recommendation 3: EPD & MQ Reporting ................................................................. 34
+Recommendation 4: GWP Thresholds ...................................................................... 42
+Part III — Project-Level Requirements .......................................................................... 49
+Recommendation 5: Whole Building Life Cycle Assessment (WBLCA) ......................... 49
+Part IV — Governance, Review, and Continuous Improvement ....................................... 56
+Recommendation 6: Technical Advisory Committee (TAC) ......................................... 56
+PART V — Emerging Initiatives & Market Enablement ..................................................... 58
+Recommendation 7: Deconstruction and Reuse ........................................................ 58
+Recommendation 8: Market Development ................................................................ 63
+PART VI — Regulatory Alignment for the Broader Market ................................................ 68
+Recommendation 9: Building Code .......................................................................... 68
+Appendices ............................................................................................................... 70
+Appendix A – S.2967 § 4, 193rd (Massachusetts, 2023 - 2024) ..................................... 70
+11
+
+Appendix B – DCAMM Embodied Carbon in Construction Decision & Impact Matrix,
+Illustrative Draft ...................................................................................................... 74
+Appendix C – Material Category Definitions ............................................................... 81
+Appendix D – Material Quantity (MQ) Reporting Schema ............................................. 81
+Appendix E – Future Target ρ-Values for 2025 and 2050 .............................................. 85
+Appendix F – Required Scope for WBLCA .................................................................. 86
+12
+
+Acknowledgements
+Several organizations, associations, and individuals contributed to the research and
+writing of this document. Whether through presentations to the Council, comments at
+public hearing, or other support to the Council, each of the following groups and
+individuals provided important support to the work.
+Thank you to the Carbon Leadership Forum (CLF), Massachusetts Concrete and Aggregate
+Producers Association (MACAPA), National Ready Mix Concrete Association (NRMCA), MIT
+Concrete Sustainability Hub, American Institute for Steel Construction (AISC), Sublime
+Systems, Boston Metal, Urban Mining Industries, Maine Mass Timber, and Rare Forms.
+Thanks as well to Anna Shpigel, Deputy Assistant Secretary for Operational Services at the
+Operational Services Division (OSD); Ian Finlayson, Deputy Director of Building Codes and
+Policy at the Department of Energy Resources (DOER); Ross Seavey, Director of Building
+and Engineering Education, Training, and Code at the Office of Public Safety and
+Inspections; Cailtin Mueller, Associate Professor, Departments of Architecture and Civil
+and Environmental Engineering, MIT; Kiley Anne Feickert, PhD Candidate in Architecture at
+MIT; Jonathan Broyles, MIT Climate & Sustainability Impact Fellow.
+Council Members
+The report of the Council would not have been possible without the valuable contributions
+of each of the Council members, who shared their expertise over the course of the year to
+help guide the Council’s work and shape these recommendations.
+Co-Chairs
+• Melissa Hoffer, Massachusetts Climate Chief, Office of Climate Innovation and
+Resilience (OCIR)
+• Adam Baacke, Commissioner of the Division of Capital Asset Management and
+Maintenance (DCAMM)
+Members
+• Senator Michael Barrett, Senate Chair of the Joint Committee on
+Telecommunications, Utilities and Energy
+• Wayne Capolupo, Representing the Massachusetts Senate Minority Leader Bruce
+Tarr
+• David Hart, Representing the House Chair of the Joint Committee on
+Telecommunications, Utilities and Energy, Representative Mark Cusack
+13
+
+• John Tzimorangas, Representing House Minority Leader Representative Bradley
+Jones, Jr.
+• Colton Andrews, President of Western MA Building Trades Unions, representing the
+Building Trades
+• Luciana Burdi, Representing the CEO of the Massachusetts Port Authority
+• Beverly Craig, Representing the CEO of the Massachusetts Clean Energy Center
+(MassCEC)
+• Katherine Eshel, Representing the General Manager of the Massachusetts Bay
+Transportation Authority (MBTA)
+• Professor John Fernández, licensed architect and Professor and Director of the
+Building Technology Program in the Department of Architecture at the
+Massachusetts Institute of Technology (MIT)
+• Mark Fine, Representing the Secretary of the Executive Office of Administration and
+Finance
+• Eric Friedman, Representing the Secretary of the Executive Office of Energy and
+Environmental Affairs
+• Michael Gryniuk, structural engineer and Principal at Cora Structural
+• Sarah Kalish, Representing the Secretary of the Executive Office of Economic
+Development
+• Patrick Kenny, structural engineer; Representing the Chair of the Board of Building
+Regulations and Standards
+• Caroline Murray, Regional Sustainability Manager and Project Executive at Turner
+Construction Company
+• Jenny Raitt, Executive Director of the Northern Middlesex Council of Governments
+• Jason Robertson, Representing the Secretary of the Executive Office of
+Transportation
+• Amy Stitely, Representing the Secretary of the Executive Office of Housing and
+Livable Communities
+14
+
+List of Figures
+Figure 1: Timeline for implementation of the Recommendations ...................................... 9
+Figure 2: Building Life Cycle Modules ........................................................................... 20
+Figure 3: DCAMM Procedural Matrix ............................................................................. 29
+Figure 4: MassDOT Decision Matrix .............................................................................. 30
+Figure 5: Team MA Organizations ................................................................................. 64
+Figure 6: Relevant Existing Economic Development Programs offered by Team MA.......... 65
+Figure 7: Subset of MassCEC programs and incentives ................................................. 66
+List of Tables
+Table 1: Applicability of Recommendations by construction type ................................... 26
+Table 2: Material Reporting Requirements .................................................................... 35
+Table 3: Project subject to reporting requirements; vertical and horizontal ..................... 35
+Table 4: EPD Definitions and Acceptability ................................................................... 40
+Table 5: ρ-Values (Maximum Allowable GWP Multipliers by Material and Construction
+Type) ......................................................................................................................... 43
+Table 6: Projects subject to GWP thresholds; vertical and horizontal .............................. 44
+Table 8: Future Maximum Allowable GWP Multipliers (ρ-Values) for 2035 and 2050 ......... 86
+15
+
+Glossary of Terms
+Asset reuse – Repurposing or extending the life of an existing building or infrastructure
+project in-situ (or portion of a project, such as structure or envelope) rather than
+demolition and new construction.4
+Adaptive reuse – When a building is reused in a different capacity, such as a former office
+building being converted into apartments.5
+Carbon Dioxide Equivalent (kgCO₂e) – A unit of measurement that expresses the impact
+of different greenhouse gases relative to carbon dioxide, allowing for a single value to
+represent the combined effect of emissions. Used for tracking EC impacts.
+Carbon Intensity (kgCO₂e) – The amount of carbon emissions associated with a specific
+activity, material, or process, expressed per unit, such as per square foot or square meter.
+Cradle-to-Gate – A term for the life cycle of a product from raw material extraction to the
+point when it leaves the factory “gate.” Often used to describe the scope of a partial life
+cycle assessment.
+Cradle-to-Grave – A term for the life cycle of a product from raw material extraction to its
+end-of-life disposal (e.g., incineration, reuse, etc.). Often used to describe the scope of a
+life cycle assessment.
+Deconstruction – The process of disassembling a building or material components so that
+its materials and components may be salvaged for reuse or responsible diversion.
+Division of Capital Asset Management and Maintenance (DCAMM) – DCAMM is
+responsible for capital planning, public building construction, facilities management, and
+real estate services for the Commonwealth.
+Embodied Carbon (EC) – The total amount of greenhouse gas emissions (GHG)
+associated with the extraction, manufacturing, transportation, installation, maintenance,
+4 “EMBODIED CARBON LIFE CYCLE ASSESSMENT REFERENCE GUIDE.” City of Boston, July 2025,
+www.bostonplans.org/getattachment/69ec4044-85bc-415e-93b7-e13cc1cc8742
+5 Ibid.
+16
+
+and disposal of building materials over their total lifecycle. Typically expressed in Global
+Warming Potential, kgCO₂e.
+Embodied Carbon Intensity (ECI) – The total EC of a project divided by the size. Typically
+expressed in Global Warming Potential per area, i.e., kgCO₂e/ft2.
+Embodied Carbon Intergovernmental Coordinating Council (ECICC) – The Council was
+established by the 2024 law, An act promoting a clean energy grid, advancing equity and
+protecting ratepayers, and was charged by the legislature with producing this set of
+recommendations.6
+Environmental Product Declaration (EPD) – A document that reports environmental
+impacts of a product based on the assessed impacts from a product life cycle assessment
+(LCA). There are three types of EPDs. Type III EPD's are rigorous, third-party verified
+declarations that must conform to international standards and follow the rules for that
+product category. A product-specific EPD represents one manufacturer's product. An
+industry-average or industry-wide EPD represents an industry average GWP for a product
+type. For building materials, these typically include the “cradle-to-gate" or (A1-A3) life
+cycle impacts.
+International Organization for Standardization (ISO) – A non-governmental organization
+that publishes international standards for a variety of industries, including standards for
+life cycle assessment and EPD publication.
+Global Warming Potential (GWP) – A common unit of measurement expressed in Carbon
+Dioxide Equivalent (CO2e) used to standardize the impacts of different GHGs, usually
+expressed in a 100-year time period.
+Life Cycle Assessment (LCA) – A systematic set of procedures for compiling and
+evaluating the inputs and outputs of materials and energy, and the associated
+environmental impacts directly attributable to a product or process throughout its life
+cycle. LCA provides an estimate of GHG emissions over all (or a portion of) the asset’s life
+cycle.
+6 Massachusetts General Laws (MGL) Part I, Title II, Chapter 7C, § 73, full text listed in Appendix A
+https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7C/Section73
+17
+
+Major Renovation – Any project that includes extensive heating, ventilation, and air
+conditioning (HVAC) renovation; extensive envelope modifications; and extensive interior
+rehabilitation.
+Operational Carbon – The GHG emissions produced during the day-to-day operation of a
+building or infrastructure, primarily from energy used for heating, cooling, lighting,
+ventilation, and powering equipment, essentially encompassing the carbon footprint of a
+building while it is in use.
+Product Category Rules (PCR) – A set of guidelines, published for each material type, or
+“product category,” for conducting LCA studies and developing EPDs.
+Salvaged and reused materials – Previously used materials or products that require
+limited to no processing for reinstallation and use on the same or a different project.
+Salvaged materials refer to materials that were deliberately deconstructed and reclaimed,
+stored, and distributed for use on a separate project. Material reuse is the installation of a
+previously used material or product that requires limited to no processing for reinstallation
+and use on the same project, typically within the same site by the same owner. This may
+still require deconstruction and re-installation. Salvaged and reused materials do not refer
+to recycled content in manufactured materials or designs that create a future potential for
+reuse. A material that requires some minimal level of reprocessing (e.g., resawing salvaged
+lumber) would still be considered a reused and salvaged material.7
+Whole Building Life Cycle Assessment (WBLCA) – A cradle-to-grave assessment that
+includes most or all of the building scope elements (structure, enclosure, interiors,
+mechanical systems, etc.) and reports on environmental impacts, namely GWP, of those
+elements.
+7 Ibid.
+18
+
+Introduction
+What is Embodied Carbon
+Embodied Carbon (EC) refers to the greenhouse gas (GHG) emissions associated with the
+life cycle of a product from cradle to grave. For example, the EC of one ton of cement
+includes all emissions associated with that product’s raw material extraction,
+transportation (including fuel use), installation, maintenance, and end-of-life disposal. The
+term is often used to describe emissions associated with the life cycle of construction
+materials and projects, which are the focus of this report. In contrast to operational
+carbon, or emissions resulting from energy use during an asset’s service life (such as
+heating, lighting, or equipment operation), EC is emitted in large part before the project is
+in use. Policies implemented to mitigate GHG emissions have, until recently, focused
+nearly exclusively on operational carbon. EC associated with construction materials
+represents a large and growing portion of projects’ overall emissions, with the production
+of materials used for building and infrastructure projects accounting for approximately ten
+to fifteen percent of global GHG emissions.8 The primary sources of EC in construction vary
+by project type but are consistently dominated by high-impact materials such as concrete,
+steel, asphalt, aluminum, and glass.
+Embodied Carbon Measurement
+Embodied emissions are expressed in terms of Global Warming Potential (GWP), a
+measure of the global warming impact of a given product, based on emissions associated
+with its production. GWP is reported in a common unit: carbon dioxide equivalent (CO₂e), a
+standardized metric used to compare the warming effect of different gasses relative to
+carbon dioxide (CO₂). GWP impacts are determined through life cycle assessment (LCA), a
+standard analytical methodology used to account for the life cycle impacts of a given
+product or system. LCA is governed by international standards from the International
+Organization for Standardization (ISO)—including ISO 14040,9 ISO 14044,10 and ISO
+21930.11 These standards require that emissions be reported in kilograms of CO₂
+equivalent (kgCO₂e).
+8“Buy Clean Policies: Overview + Implementation.” Carbon Leadership Forum,
+https://carbonleadershipforum.org/buy-clean-policies-overview/
+9 International Organization for Standardization (ISO). "Environmental management — Life cycle assessment
+— Principles and framework." ISO 14040, 2006. ISO, https://www.iso.org/standard/37456.html
+10 International Organization for Standardization (ISO). "Environmental management — Life cycle assessment
+— Requirements and guidelines." ISO 14044, 2006. ISO, https://www.iso.org/standard/38498.html
+11 International Organization for Standardization (ISO). "Sustainability in buildings and civil engineering works
+19
+
+Figure 2: Building Life Cycle Modules12
+In construction, LCA includes stages from raw material extraction and manufacturing
+(represented in Figure 2 above as A1–A3), through transport and installation (A4–A5), to
+use, maintenance, and end-of-life (B and C stages). All EC quantification stems from this
+methodology, whether conducted at the product level or at the whole asset scale.
+At the product level, environmental impacts are communicated through Environmental
+Product Declarations (EPDs)—third-party verified documents based on product-specific
+LCAs, developed according to ISO standards and product category rules (PCRs). One can
+— Core rules for environmental product declarations of construction products and services." ISO 21930,
+2017. ISO, https://www.iso.org/standard/61694.html
+12 “Life Cycle Stages.” One Click LCA, https://help.oneclicklca.com/en/articles/275901-life-cycle-stages
+20
+
+think of them as comparable to an ingredient label on a food product, but reporting on
+environmental impact, rather than nutritional value. EPDs can be product-specific
+(representing one manufacturer's product) or industry-average (representing a larger
+portion of the industry for a product type). EPDs are commonly available for materials such
+as concrete, steel, asphalt, glass, and insulation, and are used to compare products within
+a material category. For example, a designer might use EPDs to select a concrete mix with
+lower EC while maintaining structural performance requirements. However, EPDs are
+currently only available for certain products, and they typically cover only the initial
+“cradle-to-gate" life cycle stages (A1–A3), unless extended data are provided.
+At the project scale, EC is assessed through Whole-Building Life Cycle Assessment
+(WBLCA) or, more broadly, project LCA for infrastructure. These assessments estimate the
+total EC associated with a project's life cycle, from extraction and manufacturing of
+materials to construction, use and end-of life. An assessment typically begins with
+estimating the quantities of all the materials systems in a project—commonly structure,
+enclosure, interiors—and using emissions factors by material derived from life cycle
+emissions data. WBLCA tools are increasingly integrated into design workflows and are
+required by some policies and certification programs (e.g., LEED, Buy Clean, or local EC
+limits).
+While both EPDs and WBLCA are based on LCA methodology, they serve different
+purposes. EPDs offer granular, product-scale data that supports procurement and
+transparency at the material level, while WBLCA provides a more comprehensive view of
+EC across an entire project, supporting design trade-offs and whole-life analysis. Used
+together, EPDs and WBLCA offer can be used as complementary strategies to reduce EC—
+one focused on material procurement, the other on project-scale impact.
+National, State, and Local Policy Landscape
+Efforts to regulate GHG emissions at the state and federal level have historically focused
+primarily on the emissions associated with the generation and consumption of energy,
+across sectors such as electricity generation, building energy and electricity use, and
+transportation. Governments have only recently begun to focus on mitigating EC
+emissions. In 2017, California became the first state to pass a law aimed at reducing EC of
+state-procured construction materials. Seven other states—New York, New Jersey,
+Colorado, Oregon, Maryland, Minnesota, and Washington—have since followed with “Buy
+Clean” procurement laws that establish reporting requirements and, in some cases, set
+EC limits for building and infrastructure materials in state procurement. These laws
+21
+
+typically encourage or require collection of EPDs for a set of materials—such as concrete,
+cement, steel, asphalt, glass, and wood—and then establish GWP limits for those
+materials. Government buying power can send a strong market signal to materials
+manufacturers and the architecture, engineering and construction (AEC) industries to
+encourage the development of and demand for materials and processes that reduce EC.
+California has also gone a step further to develop a provision on EC in its “CalGreen” green
+building standards code, which includes multiple pathways for compliance. Paths to
+compliance include building reuse of at least forty-five percent of existing structure and
+enclosure, WBLCA and a demonstrated ten percent reduction from a baseline, or EPD
+submission for listed materials that demonstrate GWP under the state-required threshold.
+While CalGreen is separate from the base building code, it is the first example of a state
+enacting mandatory EC emissions controls that apply to most large public and private
+buildings.13
+State and Municipal Efforts in Massachusetts
+The primary Commonwealth agencies in charge of construction and building management
+are DCAMM and MassDOT, with DCAMM managing the vast majority of the state’s building
+assets, including higher education institutions, public safety facilities, and courthouses,
+and MassDOT managing state highways, bridges, and other transportation-related
+infrastructure. Both agencies publish designer guidelines and procedures that are
+frequently adopted and modified by municipalities for their own purposes.
+Various Commonwealth agencies and authorities, including DCAMM and MassDOT, as
+well as select municipal governments, have already begun working towards reducing EC.
+In response to the 2023 Recommendations of the Climate Chief, DOER’s Leading by
+Example Division, in conjunction with DCAMM and MassDOT, produced recommendations
+in 2024 for an initial “Buy Clean” strategy for the Commonwealth.14 As well, the
+Massachusetts Stretch Energy Code, which DOER administers, includes an optional bonus
+point for EC. The Massachusetts Port Authority (Massport) uses the LEED rating system to
+collect EPDs, with a minimum certification requirement of LEED Gold with LEED Zero
+Carbon for buildings. Massport’s 2025 Sustainability Design Guidelines reference LEED
+credits for Materials and Resources (MR). Municipalities including Boston, Cambridge and
+13 AIA California. “Calgreen Mandatory Measures for Embodied Carbon Reduction.” AIA California, 8 Dec.
+2023, https://aiacalifornia.org/news/calgreen-mandatory-measures-for-embodied-carbon-reduction/
+14 Hoffer, Melissa. “Recommendations of the Climate Chief.” Mass.Gov, Office of Governor Maura Healey.
+https://www.mass.gov/files/documents/2023/10/24/CLIMATE%20REPORT.pdf
+22
+
+Newton have adopted zoning rules and requirements for building life cycle assessments
+that require reporting of EC and encourage reductions.
+DCAMM currently is spearheading a pilot deconstruction project to analyze the challenges
+and benefits of deconstruction and reuse practices MassDOT has already begun utilizing
+techniques that reduce EC intensity of materials, including incorporating cementitious
+substitutes for Portland Cement—such as recycled slag and fly ash; using Type 1L Portland
+Cement in concrete mix designs that reduce overall Portland Cement volumes; developing
+pilot projects to research and study the effects of high recycled asphalt product (RAP);
+using up to fifteen percent RAP in all mix designs; and using a warm mix asphalt additive
+that allows much lower mixing temperatures than standard pavement mixes.
+Legislative Mandate and a Coordinated Approach for the Commonwealth
+Notwithstanding these efforts, the Commonwealth lacks a comprehensive, coordinated
+approach to monitoring and reducing EC. To address that gap, in 2024, the Massachusetts
+Legislature passed An Act promoting a clean energy grid, advancing equity and protecting
+ratepayers, which included provisions establishing the Council and setting forth its charge
+to research and draft a plan to encourage the measurement and reduction of EC in state-
+managed construction and beyond.15
+This Plan sets forth a comprehensive, phased approach for Commonwealth agencies and
+certain quasi-state authorities that manage construction to track EC and ultimately reduce
+it through actions including design change, product substitution, and reuse of structures
+and materials. Integrating agency efforts and creating state-wide resources to facilitate
+cross-agency knowledge sharing and analysis will be vital to this process. Data collection
+and monitoring across agencies will enable the Commonwealth to establish baseline EC
+emissions data and track progress towards reductions. Setting clear, consistent standards
+and guidance at the agency level has the potential not only to reduce state project EC but
+also creates a template to be followed by municipalities. As well, the Commonwealth can
+learn from the examples of other states and municipalities to implement proven measures
+faster.
+Process
+The Council’s recommendations reflect a ten-month long process of collaboration,
+research, stakeholder engagement, and expert guidance from Council members and other
+15 Ibid.
+23
+
+experts. This included monthly Council meetings and three public hearings, during which
+the Council sought expertise, advice and feedback from stakeholders throughout the AEC
+industries.
+Recommendations of the Council
+These recommendations focus on the most important initial levers for monitoring and
+reducing EC in state-managed construction. Importantly, this set of recommendations
+represents a first step toward reducing EC across the state’s construction activities.
+Establishing a well-defined, phased plan for reductions in limits over time allows industry
+to adapt, adjust, and innovate to prepare for the standards of the future. The
+Commonwealth’s strategy must remain dynamic—capable of responding to new data,
+emerging technologies, market feedback, and stakeholder input. Additionally, ensuring the
+safety and durability of the built environment is of high importance. As new products with
+lower carbon emissions become available, and as limits decrease, durability of these
+materials must be analyzed to ensure lower emitting materials do not jeopardize structural
+integrity.
+Applicability of recommendations and covered agencies and projects
+The legislation which formed the Council charged the group with making
+recommendations “with respect to major building and transportation projects of executive
+offices, departments, divisions, centers, agencies and authorities of state and municipal
+governments.”16 A Covered Project, therefore, is a “major building and transportation
+project” of an executive office, department, division, center, agency and authority that is:17
+1) for use by, or a facility whose construction or substantial renovation is managed
+by, an executive office, department, division, center, agency or authority of state
+government, or whose project management is delegated under the provisions of
+M.G.L. Chapter 7C, Section 5; and
+2) located on publicly-owned property.
+16 Ibid, § 73(c).
+17 “Major construction project” shall be defined under Recommendation 3. Separate definitions are provided
+for vertical and horizontal construction.
+24
+
+A covered agency is any executive office, department, division, center, agency and
+authority of the Commonwealth that falls within, or reports to an entity that falls within, the
+definition of “Executive office” as set forth in Massachusetts General Laws Chapter 6A,
+Section 2 (Covered Agency).18
+Constitutional offices and municipalities are encouraged to follow these
+recommendations.
+Vertical Construction vs. Horizontal Construction
+When considering reducing EC in the built environment, it is important to acknowledge the
+varying needs of different construction applications. A key distinction is between building
+projects, known as “vertical construction,” and infrastructure projects, known as
+“horizontal construction.” Buildings—such as offices, schools, and residences—typically
+involve repetitive structural systems, shorter design and construction timelines, and have
+more accessible data on MQs and EPDs. In contrast, infrastructure projects—such as
+roads, bridges, tunnels, and water systems—often span longer timelines, involve different
+procurement processes, and utilize material-intensive systems with unique performance
+and durability requirements. Materials used in infrastructure face harsher conditions,
+particularly in Massachusetts, and need to withstand freeze-thaw conditions, de-icing salt
+exposure, weather, and forces exerted by vehicles. Specific applications such as bridge
+decks, marine applications, wastewater, industrial, or corrosive environments may face
+additional exposures.
+Due to these differing requirements and use cases, this report draws a clear distinction
+between recommendations for construction that is “vertical,” (buildings), versus
+“horizontal,” (infrastructure). Table 1 below illustrates which recommendations apply to
+which type of construction. In all future updates to this report and any additional legislative
+or executive action on EC, the Council recommends that this delineation between
+requirements for vertical and horizontal construction is clearly maintained.
+There are some nuances to the definition of what constitutes vertical and horizontal
+construction, and while agencies such as MassDOT and MBTA primarily manage horizontal
+construction, those agencies also occasionally construct buildings. For the purposes of
+clarity and simplicity, this report will refer to “vertical construction agencies” as those
+18 This list includes administration and finance, education, energy and environmental affairs, health and
+human services, housing and economic development, labor and workforce development, public safety and
+security, technology services and security, transportation and public works and veterans' services. MGL Part
+I, Title II, Chapter 6A, § 2, https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6A/Section2
+25
+
+which primarily manage the construction of buildings. “Horizonal construction agencies”
+shall be agencies which primarily manage infrastructure construction.
+As the primary state agencies managing vertical and horizontal construction respectively,
+DCAMM and MassDOT shall act as agency leads enacting and producing guidance on
+these recommendations to other agencies and departments.
+Applicability of recommendations by construction type
+State-managed* State-managed Private
+Vertical Horizontal Construction
+Recommendation Construction Construction Market
+1: Agency Procedures & ✓ ✓ ×
+Decision Making
+2: Education ✓ ✓ ×
+3: EPD & MQ Reporting ✓ ✓ ×
+4: GWP Thresholds ✓ ✓ ×
+5: Whole Building Life Cycle ✓ × ×
+Assessment
+6: Technical Advisory ✓ ✓ ×
+Committee
+7: Deconstruction and Reuse ✓ × ×
+8: Market Development ✓ ✓ ×
+9: Building Code19 ✓ × ✓
+Table 1: Applicability of Recommendations by construction type
+19 Note that, while changes to the building code would impact the broader market, this document only
+includes recommendations for the future incorporation of EC into code and does not reflect actual changes
+to code. This chart indicates that this recommendation would apply to the broader market if adopted by the
+BBRS.
+26
+
+*This refers to “state-managed" construction which also meets the applicability
+requirements outlined in the section above.
+It is recommended that Covered Agencies that manage construction should submit a
+written report to the Climate Chief, by mid-2026, detailing the plan for implementing the
+recommendations which are applicable to their primary construction type.
+Part I — Foundational Organizational Practices & Education
+Recommendation 1: Agency Procedures & Decision Making
+Recommendation
+It is recommended that Covered Agencies that manage construction undergo an analysis
+of processes—focusing on the largest and most carbon-intensive construction project
+types—with attention to the phases in the project with the greatest potential for reducing
+EC, including, in particular, the design phase and other earlier phases that evaluate any
+potential for asset reuse.
+It is recommended that Covered Agencies complete this analysis and submit as a part of
+their implementation plan to the Climate Chief by mid-2026. Reports may include a
+graphic visualization (see DCAMM and MassDOT example below) of the agency’s
+procedure, outlining where decisions may reduce EC, and a written statement indicating
+where and how specifications documents will be revised to include considerations of EC.
+Discussion
+While materials choices offer incremental reductions in EC, the greatest impact comes
+from decisions made earlier in the project initiation and design. Initial project decisions on
+whether a functional need actually requires a capital project, for example, can have an
+outsized impact. If an agency lead determines that such a need could be met through
+consolidation and maximization of existing assets, rather than a new construction, they
+would effectively avert all of the EC emissions of a new building. This type of analysis can
+consider whether an existing facility should be renovated or reused. Additional scoping
+and design leads to important choices about the size and footprint of a project, as well as
+the material volume, material source, and potential for reuse and salvage of materials. A
+building initially scoped to be 100,000 square feet, for example, might be able to serve all
+the same functions at 75,000 square feet. With minimal burden of analysis or data
+27
+
+collection, simple, innovative decisions such as these can drastically reduce EC.
+Moreover, many such decisions may result in other beneficial impacts, including cost
+savings, reduction in operational emissions, and waste diversion through reuse.
+Additionally, changes to procedure and specifications documents that include greater
+consideration of EC can be implemented immediately and provide agencies with flexibility
+and autonomy to find creative solutions to reduce EC.
+Given that DCAMM primarily manages vertical construction and MassDOT primarily
+manages horizontal construction, the Council recommends that Covered Agencies model
+their matrices after either DCAMM or MassDOT, whichever best matches the type of
+construction they most frequently undertake. Procedures at the MBTA, for example, are
+likely to better fit the “horizonal” construction model, as exemplified by MassDOT.
+Agencies such as Department of Conservation and Recreation (DCR) will likely better
+match DCAMM’s procedure. That said, each Covered Agency’s procedure will likely have
+aspects that are unique to its projects and can be reflected in its matrix.
+Following Covered Agencies’ development of their matrices, the Council recommends
+that, where appropriate, specifications documents be amended to reflect specific points
+at which EC should be considered. For example, DCAMM’s Designer Procedures and
+Guidelines provide direction and guidance to Designers who work on DCAMM projects
+(and can also be used by other awarding authorities).20 The guidelines already reference
+points where carbon impacts should be considered. These could be enhanced with
+additional detail to clarify key areas where designers should address EC, such as: ensuring
+projects are a sound capital investment (2.3); the Study Phase when developing and
+evaluating alternative design concepts for implementing the proposed project (5.3); and in
+the Design Phase, including Design Development (DD) and producing Construction
+Documents (CD).
+Vertical Construction
+Included below is an example of such an exercise for DCAMM’s procedures. The graphic
+below and DCAMM’s more detailed decision matrix (currently under development, but a
+draft version is included as an illustrative example in Appendix B) aims to identify the
+decision points along a project’s progression that can influence the project’s final EC
+totals. The matrix also identifies the principal staff roles within DCAMM that have influence
+over the respective decision point. Finally, the matrix provides an overview of beneficial
+choices available, as well as tools to influence the decision and potential additional
+incentives.
+20 “Designer Procedures and Guidelines.” Mass.Gov, Division of Capital Asset Management and
+Maintenance, https://www.mass.gov/info-details/designer-procedures-and-guidelines
+28
+
+DCAMM’s matrix is presented below in Figure 3.
+Figure 3: DCAMM Project Construction Activities and EC Impact
+Horizontal Construction
+On the infrastructure side, MassDOT has an in-depth Project Development process that
+includes prescriptive standards that prioritize safety and asset longevity through specific
+design and material requirements. This design process has been developed to comply with
+the applicable prescriptive standards from the Federal Highway Administration (FHWA),
+American Association of State Highway and Transportation Officials (AASHTO), Americans
+with Disabilities Act (ADA), and Manual on Uniform Traffic Control Devices (MUTCD) to
+name a few. MassDOT’s proven approach to innovation is through a cycle of research and
+29
+
+industry coordination, monitoring of results, followed by overall MassDOT-wide
+incorporation into the design standards. MassDOT’s matrix is presented below in Figure 4.
+Figure 4: MassDOT Decision Matrix
+A Role for Non-Construction Agencies
+While Covered Agencies that manage construction are the primary focus of this report, all
+Commonwealth agencies have a role to play in reducing EC when considering their space
+utilization and resource needs. Upstream decision making should weigh whether
+functional needs can be met without a building project or with a project of reduced scope.
+For example, DCAMM’s “Future of Work” initiative consolidated DCAMM staff from three
+floors of office space to one by implementing flexible reservations of office and conference
+30
+
+space. An additional example is the Salem State University (SSU) project, SSU BOLD, an
+effort to review the University’s capital needs with the goal of maximizing the efficiency of
+resource use. SSU is establishing a compact and efficient campus core that will maximize
+programmatic synergies and streamline operations. At the same time, in modernizing
+facilities that will remain, SSU is enhancing the academic experience for students by
+fostering innovation and providing critical resources. This type of efficiency-oriented
+decision making not only has carbon benefits but also maximizes taxpayer dollars by
+optimizing space utilization and allowing potentially valuable land resources to be put to
+other purposes, such as housing.
+Recommendation 2: Education
+Recommendation
+The Commonwealth should provide state-specific employee educational content focused
+on practical, low cost and high impact methods of reducing EC and meeting state
+requirements and to deliver these trainings for a minimum of three years. The focus should
+be on short, practical, “lunch-and-learn” style sessions tailored to specific roles and types
+of state procurement.
+DCAMM and MassDOT should lead efforts for intra- and interagency education for vertical
+and horizontal construction, respectively. It is recommended that both agencies submit a
+plan to the Climate Chief for educating their staff on new procedures by April 30, 2026.
+Discussion
+In 2024, MassCEC sponsored the Embodied Carbon Challenge, providing educational
+content and awarding prizes for public and private building designs that showcased
+replicable, low-cost approaches to reducing EC in vertical construction. The competition
+drew strong engagement, with over 560 design, contractor, and sustainability
+professionals making use of the associated training and software tools.
+Additional targeted, audience-specific education is critical to achieving meaningful EC
+reductions. Audiences for education should include state project managers, design teams
+and contractors involved in state-procured buildings and transportation projects.
+31
+
+• Courses should be designed to meet continuing education requirements for
+typical credentials needed by construction and design professional (for example
+AIA, LEED Green Associate and other LEED professionals, Construction Supervisor
+License, Phius, PHI, etc.).
+• Training should be offered at low or no cost to professionals working on state-
+funded projects.
+• Delivery formats should include options for live virtual sessions, in-person
+trainings, and on-demand recordings with brief quizzes for credit verification.
+Examples of Potential Course Topics
+• How to procure low-emissions concrete in Massachusetts
+• Embodied carbon of major structural systems
+• Meeting EPD reporting and GHG limit requirements for Massachusetts
+transportation projects
+• Demolish or renovate? – Tools for evaluation and examples of building reuse
+• Achieving meaningful EC reductions on LEED projects
+• Practical examples of deconstruction and reuse of materials
+Require representatives from construction agencies to participate in trainings. DCAMM-
+trained representatives will then support agency project management staff.
+Broader education
+To broaden impact, similar audience-specific content could be developed and offered to
+professionals working on Massachusetts municipal projects and private development.
+Examples might include:
+• Reducing EC in Multifamily Housing
+• Reducing EC in Schools
+• Reducing EC in Libraries
+• Low EC specifications and practices for Massachusetts municipal Departments of
+Public Works (DPWs)
+• Technical guidance
+• Webinars
+• A series of factsheets addressing major issues in designing and building low EC
+buildings
+32
+
+33
+
+Part II — Core Reporting & Material-Level Requirements
+Recommendation 3: EPD & MQ Reporting
+Recommendation
+The Council recommends that, for projects whose prime contract or contract for
+construction is advertised after mid-2027, Covered Agencies begin collecting EPD and MQ
+data for a focused set of high-impact materials, specifically: asphalt mixture, precast
+concrete, ready-mix concrete, steel reinforcement (rebar), structural steel, structural
+wood, and window assemblies. The Council recommends that Covered Agencies report
+starting in mid-2027; agencies are encouraged to begin collecting data on a voluntary basis
+in 2026.
+Collecting MQ data in tandem with EPDs is critical. Expressing quantities per unit of
+material (e.g., cubic yard of concrete, ton of steel, square yard or tons of asphalt) allows
+reported GWP values to be multiplied by those quantities to estimate the total EC of those
+materials. While this represents only cradle-to-gate emissions (A1 – A3)—which typically
+represent the majority of EC for the materials listed—it may capture a smaller share for
+bio-based or other material types. Even so, it offers a valuable first-order estimate of EC
+and establishes a foundation for future benchmarking.
+Materials subject to recommended reporting requirements are listed in Table 2 below.
+34
+
+Materials Subject to Requirements
+Reporting
+EPD MQ Reporting
+Material Year
+Reporting Reporting Year,(Required)
+(Voluntary)
+Asphalt Mixture Yes Yes 2026 2027
+Precast Concrete Yes Yes 2026 2027
+Ready-Mix Concrete Yes Yes 2026 2027
+Steel Reinforcement
+Yes Yes 2026 2027
+(Rebar)
+Structural Steel Yes Yes 2026 2027
+Structural Wood No Yes 2026 2027
+Window Assemblies Yes Yes 2026 2027
+Table 2: Material Reporting Requirements
+Projects Subject to EPD & MQ Requirements
+Construction Type Projects Subject to Requirements
+Vertical Any state-managed new construction or major renovation
+Construction project, as defined by Leading By Example (LBE) Guidelines,
+which exceeds 20,000 square feet in a single building.21
+For Covered Agencies that are not subject to E.O. 594, any state-
+managed new vertical construction or redevelopment project
+which exceeds 50,000 square feet.22
+Horizontal Any state-managed Interstate or limited access highway
+Construction pavement project which exceeds 40 lane miles of
+reconstruction.23
+Any MBTA-managed new construction or full rebuild project
+(excluding rolling stock) over $50 Million in construction value.24
+Table 3: Project subject to reporting requirements; vertical and horizontal
+21 Ibid.
+22 Collection of mandatory EPDs and MQ on federally funded projects will require approval from any relevant
+federal agencies.
+23 Collection of mandatory EPDs and MQ on Federally aided projects will require FHWA approval
+24 Collection of mandatory EPDs and MQ on federally funded MBTA projects will require approval from federal
+funding agencies, including but not limited to the U.S. Federal Transit Administration (FTA) and the U.S.
+Federal Railroad Administration (FRA).
+35
+
+Discussion
+Understanding Materials Supply Chains
+These covered materials have a wide diversity of supply chains, manufacturing scale and
+processes, all of which influence a manufacturer’s ability to decarbonize. Policy for
+encouraging decarbonization of these materials must take into consideration their unique
+processes and supply chains.
+Ready-Mix Concrete
+Ready-mix concrete production is highly local, with batching plants distributed
+across Massachusetts. Most plants source their Ordinary Portland Cement (OPC)
+from a small number of regional suppliers, which means the regional availability of
+lower carbon cement mixes is a strong factor in the ability for concrete producers to
+source lower impact cements. Optimized mix designs and supplementary
+cementitious materials (SCMs) provide the greatest opportunities for reduction, as
+cement typically accounts for the majority of EC in concrete.
+Ordinary Portland Cement (OPC)
+Cement used in Massachusetts is generally produced at a limited number of kilns in
+the northeastern United States or eastern Canada, with feedstocks and fuels drawn
+from regional and global supply chains. While not typically imported from overseas,
+OPC sourcing remains concentrated and carbon-intensive due to clinker
+production. Decarbonization depends on clinker substitution, process efficiency,
+and fuel switching at these kilns.
+Precast Concrete
+Precast elements are fabricated in regional plants serving multiple states and
+transported to job sites. This controlled manufacturing allows for optimized
+batching, curing, and reduced waste, but often requires a higher concentration of
+OPC, which is the most carbon intensive element. Precast producers use higher
+amounts of OPC to support quick curing and stripping of formwork, which allows
+them to keep production volumes high and their prices competitive.
+Structural Steel
+Structural steel is part of a national and global supply chain. There are two primary
+means of producing steel: electric-arc furnace (EAF) and blast-furnace/basic-
+36
+
+oxygen furnace (BF/BOF). Most U.S. production uses EAF and is comprised of high
+quantities of recycled scrap, while imported steel — produced by blast-
+furnace/basic-oxygen furnace (BF/BOF) methods — often carries much higher EC.
+Importantly, for both structural steel and rebar materials fabricated for federally
+reimbursed highway, transit and rail construction projects, Build America/Buy
+America (BABA) provisions apply. BABA requirements require that these steel
+products be domestically produced.25 This domestically produced steel already
+has, in most cases, lower EC.
+Steel Reinforcement (Rebar)
+Reinforcing steel is primarily produced through domestic EAF processes, making it
+among the lower-carbon steel products. However, similar to structural steel,
+imports can occur depending on market supply, and imported rebar often carries
+higher GWP values due to energy-intensive production abroad. Regional electricity
+mix and transport distance further influence total emissions for both structural
+steel and steel rebar.
+Asphalt Mixtures
+Asphalt production is regional and highly localized, with plants located near
+aggregate sources and project sites. Aggregates are locally quarried, but the
+bitumen binder is derived from global petroleum supply chains, linking emissions to
+refinery practices and energy intensity. The process for producing the asphalt
+mixture is highly carbon intensive since it involves burning fossil fuels to reach
+temperatures of 325 to 350 degrees Fahrenheit. GWP reductions can be achieved
+through warm-mix technologies and increased recycled asphalt pavement (RAP)
+content and simpler methods, like covering aggregate piles to keep them dry so the
+burners have less moisture to burn off during production.
+Window Assembly
+The supply chain for the window assembly, especially large unitized systems
+typically utilized in commercial office construction, is geographically dispersed
+across the US. EPDs for the assembled window product (glazing, frame, sealants
+and more) are currently available from some manufacturers. Typically, most of the
+EC of a window unit is due to the energy-intensive process of melting raw materials
+at high temperatures to make flat glass, which can account for roughly 70–80
+25 Build America, Buy America (BABA) Act. Division G, Title IX of the Infrastructure Investment and Jobs Act
+(IIJA), Public Law 117–58. 15 Nov. 2021. https://www.energy.gov/management/build-america-buy-america
+37
+
+percent of the total cradle-to-gate emissions for insulating glass units (IGUs), with
+the remainder from fabrication, heat treatment, and coatings.
+These materials were selected because they represent a large share of total EC emissions,
+are procured in high volumes across state projects, and have standardized EPD
+methodologies and established market coverage that enable consistent reporting. By
+focusing on high-volume, high-emission materials first, the Commonwealth can establish
+an accurate baseline that tracks the largest volume of EC while minimizing reporting
+burden on project teams and suppliers. Materials that did not meet one or more of the
+criteria were not included in the initial scope—not due to lack of relevance, but because
+reliable EPD data and verification mechanisms are in a nascent stage. Their exclusion does
+not depart from legislative intent; rather, it reflects a focus on materials with immediate
+readiness and impact.
+Three materials listed for consideration in the legislation which are not included in the
+reporting framework are cement, glass, and wood. Cement is excluded from formal
+reporting as it is a feedstock for concrete, and its emissions should therefore be captured
+within the EPDs for concrete. As capacity develops for facility-specific EPDs (defined in
+Table 4), concrete EPDs will implicitly include information on the EC of cement used.
+Glass has been excluded because the majority of glass used in construction is part of
+window systems and EPD data are often reported by the window assembly as a whole,
+rather than by the glass alone. For this reason, the Council recommends collection of full
+window assembly EPDs, rather than glass.
+With respect to wood, there are a wide variety of wood products used in different
+construction applications, from decorative to structural. The Council focused on structural
+wood and excluded it from EPD reporting at this time due to uncertainties in the standards
+surrounding life cycle impacts. Of note, mass timber—large, engineered wood products
+used in structural systems—is growing in popularity as a green choice in building
+construction and is often touted as carbon neutral or even negative. The underlying
+assumptions of forestry and economic models that make such claims, however, are not
+accepted by consensus.26 Mass timber may have the potential to reduce EC through
+carbon storage, prefabrication efficiencies, and lower-energy manufacturing, but current
+research and available data do not yet support consistent, verifiable reporting. Life-cycle
+impacts depend on forest management practices, product sourcing, transportation, and
+end-of-life treatment, all of which vary widely and remain the subject of ongoing study.
+26 Sohngen, B., Baker, J.S., Favero, A. et al. “Carbon implications of wood harvesting and forest
+management.” Nature 646, E18–E19. 10 July, 2025. https://doi.org/10.1038/s41586-025-09380-6
+38
+
+More research and attention to carbon accounting for the full life cycle impacts of wood
+products, including developing a reliable data standard to monitor forest practices and
+track full life-cycle carbon, is required. The Council charges the TAC with considering how
+the Commonwealth can improve data transparency, supply-chain traceability, and long-
+term monitoring of the impacts of wood products.
+As data quality, analytical standards, and market capacity improve, the Council expects to
+expand the scope of this reporting framework in future updates to this plan, with particular
+interest in wood, insulation, gypsum, concrete masonry units.
+Reporting Framework
+To ensure consistency, comparability, and long-term usefulness of data collected across
+state agencies, the Council recommends adoption of a standardized reporting framework
+that governs both EPD and MQ submissions.
+Under this framework:
+• EPDs should be submitted at the shop drawing/material submittal stage, when
+specific products and suppliers are selected.
+• MQ estimates should be submitted at the shop drawing/material submittal stage to
+calculate GWP compliance (for materials also subject to GWP thresholds), and final
+data based on actual quantities procured and installed should be submitted at
+project closeout.
+A consistent, statewide reporting framework ensures that material- and project-level EC
+data can be aggregated across agencies, compared against thresholds, and used to
+establish future policy benchmarks.
+39
+
+EPDs:
+To maximize accuracy and traceability, the Commonwealth should adopt a tiered
+hierarchy of EPD data quality:
+EPD Tier Description Acceptability
+Reflects the environmental impacts of a
+product from a specific manufacturing
+Preferred /
+Tier 1: Facility- facility or plant. Examples: the ready-mix
+Required where
+specific EPD supplier for concrete; the steel mill for
+available
+structural steel or rebar.
+Acceptable if Tier
+Tier 2: Product- Represents a specific product line but may
+1 is not available
+specific EPD aggregate data from multiple facilities.
+Acceptable only in
+early phases; to
+Published by a trade association or
+Tier 3: Industry- be phased out as
+consortium representing typical
+average EPD facility-specific
+performance across producers.
+data become
+available
+Table 4: EPD Definitions and Acceptability
+Over time, all covered materials should transition to facility-specific EPDs to align with
+leading national standards and improve the precision of state-level benchmarks.
+Material Quantities (MQs):
+Quantities should be reported in standardized units of measure (e.g., cubic yards for
+concrete, tons for steel, tons or square yards for asphalt) and tied to the corresponding
+EPD entry.
+Each submission should include:
+• Material category (as defined in Appendix C);
+• Project phase and quantity source (material submittal or project completion);
+• Quantity value and unit;
+• Associated EPD reference number or manufacturer.
+40
+
+To support consistent comparisons, all data should follow a common schema based on
+existing frameworks (see Appendix D for an example Material Reporting Schema). This
+ensures that reported materials align with recognized classification systems and can be
+integrated into the Commonwealth’s centralized data repository. For example, OmniClass
+Table 21 provides a framework for classifying physical elements of a building based on
+their function (e.g., supporting, enclosing, servicing, etc.), which could be used by the
+Commonwealth to classify materials within functional use categories. 27
+Submission Process
+The Council recommends that all required EPD and MQ data be submitted electronically
+through a centralized state reporting platform. The platform should support both agency
+staff and external project teams and ensure accuracy, transparency, and long-term
+usability of data.
+This digital infrastructure will serve as the backbone for consistent EC reporting, enabling
+Massachusetts to:
+• Understand the actual volume/tonnage and carbon intensity of materials used in
+the Commonwealth;
+• Establish statewide baselines and inform future threshold adjustments;
+• Track total EC impacts across all covered projects;
+• Identify opportunities to reduce EC in future procurements;
+• Reduce redundancy by eliminating repeated requests to manufacturers and
+contractors;
+• Improve efficiency and minimize administrative burden for agencies and project
+teams.
+The Executive Office of Administration and Finance (A&F), the Executive Office of
+Technology Services and Security (EOTSS), DCAMM, and MassDOT should collaborate to
+determine system requirements and configuration, long-term hosting and security,
+administrative roles and responsibilities, integration with agency procurement systems,
+data governance protocols and user access levels.
+27 “About OmniClass.” CSI, Construction Specifications Institute (CSI),
+https://www.csiresources.org/standards/omniclass/standards-omniclass-about
+41
+
+Investing in adequate data infrastructure with capacity for data collection, analysis, and
+additional services such as user education and guidance will reduce staff time needed to
+administer and audit a buy clean program, minimizing the burden on agency staff.
+Recommendation 4: GWP Thresholds
+Recommendation
+For any qualifying project whose prime construction contract or design contract is
+advertised after mid-2028, it is recommended that Covered Agencies set a maximum GWP
+for asphalt mixtures, concrete, steel reinforcement, and structural steel on the project.
+Separate thresholds are indicated for vertical and horizonal construction, due to the
+differing durability and performance requirements for those applications.
+It is recommended that these initial materials-level GWP thresholds apply through a
+project-averaging approach. This means that, for example, rather than each incremental
+cubic yard of concrete on a project needing to meet a certain threshold, the average GWP
+of all of the concrete on a project must meet the threshold. This allows design teams to
+balance material choices and sources across a project while still meeting overall
+reduction targets.
+The maximum allowable project GWP will be expressed in terms of a ρ multiplier.
+Therefore, the threshold for each material can be calculated as follows:
+To calculate a weighted average GWP, first determine the baseline weighted
+average GWP (GWP ) for each material category or product sub-category
+b
+(e.g., steel I-shapes, steel HSS).
+This is done by multiplying the material quantity for each mix or product sub-
+category (MQ ) by the applicable industry-average GWP for that mix or
+n
+product sub-category (GWP ), summing across all mixes or products from
+ind,n
+that materials class, and dividing by the total material quantity used on the
+project:
+GWP = ((MQ x GWP ) + (MQ x GWP ) + (MQ x GWP )) / (MQ + MQ +
+b 1 ind,1 2 ind,2 3 ind,3 1 2
+MQ )
+3
+42
+
+The maximum allowable weighted average GWP (GWP ) for that project will
+max
+then be calculated as follows:
+GWP = ρ x GWP
+max b
+To ensure compliance on a project, calculate project-specific weighted
+average (GWP ) by multiplying the MQ for each mix by the actual GWP
+project
+reported on a facility or product-specific EPD for that mix or product
+(GWP ), summing across all mixes or products, then dividing by the
+product,n
+total material quantity, as follows:
+GWP = ((MQ x GWP ) + (MQ x GWP ) + (MQ x GWP )) /
+project 1 product,1 2 product,2 3 product,3
+(MQ + MQ + MQ )
+1 2 3
+If GWP < GWP , then the project is compliant for that material.
+project max
+Material Category Buildings / Vertical Infrastructure / Horizontal
+Construction (ρ) Construction (ρ)
+Asphalt Mixtures 0.95 1.15
+Ready-Mix Concrete 0.95 1.15
+Steel Reinforcement 0.95 0.95
+Structural Steel 0.95 0.95
+Table 5: ρ-Values (Maximum Allowable GWP Multipliers by Material and Construction Type)
+43
+
+Projects Subject to GWP Threshold Requirements
+Construction Type Projects Subject to Requirements
+Vertical Construction Any state-managed new construction or major
+renovation project that is subject to Leading By
+Example (LBE) Guidelines28 and exceeds 20,000
+square feet in a single building.
+For state entities that are not subject to E.O. 594, any
+state-managed, 100% state-funded new vertical
+construction or redevelopment project which exceeds
+50,000 square feet.
+Horizontal Construction Any state-managed, 100% state funded Interstate or
+limited access highway pavement project which
+exceeds 40 lane miles of reconstruction.
+Any MBTA-managed, 100% state or MBTA bond funded
+new construction or full rebuild project (excluding
+rolling stock) over $50 Million in construction value.
+Table 6: Projects subject to GWP thresholds; vertical and horizontal
+Discussion
+Establishing Initial Thresholds
+Setting clear thresholds for GWP ensures consistency, fairness, and measurable progress
+in reducing EC. Thresholds provide transparency for suppliers, drive innovation toward
+lower-carbon materials, and enable the Commonwealth to track reductions over time.
+For initial thresholds, the Commonwealth will rely on publicly available industry-average
+GWP data (e.g. National Ready-Mix Concrete Association (NRMCA), American Institute of
+Steel Construction (AISC), Asphalt Institute, etc.). While this data is often reported
+regionally, there can still be wide variation across the reported regions. Understanding that
+actual GWP numbers can be highly localized, the Council will charge the TAC—outlined in
+the Recommendation 6—with assessing on a continual basis the sufficiency of state-
+collected data to begin setting thresholds based on internal data.
+28 Ibid.
+44
+
+Materials included in data reporting requirements but excluded from this initial threshold
+framework include precast concrete, structural wood, and window assemblies. In the case
+of precast, this is because there is insufficient EPD data to determine a regional
+benchmark with sufficient certainty at this time. For wood, the methodological gaps in
+current EPDs described in the previous recommendation mean that there is not reliable
+data to set meaningful thresholds. For window assemblies, there are a wide variety of
+assembly types that might be used on a project; moreover, MQ will be collected based on
+the number of units rather than volume of component materials, which complicates
+setting limits for all the glass within any given assembly. The Council charges the TAC with
+continually reviewing the availability of sufficiently broad data to begin setting thresholds
+for these materials.
+When sufficient data is collected, the TAC should review and adjust thresholds based on
+Massachusetts-specific data. Importantly, the publishing body should have the authority
+to reduce or maintain limits on this four-year cycle, but not to increase ρ-Values over time.
+In other words, the policy should have a schedule for increasing stringency but shall not be
+subject to relaxed or reduced stringency once thresholds are set. Notably, since
+thresholds are expressed in relative terms (ρ-Value multiplier), if Massachusetts specific
+data arise which indicate that industry average data sets are not representative of local
+supply chains, updating the data source (rather than the ρ-Value) will maintain the
+rationale for stringency level as detailed below, while more accurately reflecting actual
+supply chains in Massachusetts.
+Rationale for Initial ρ-Values (Why Most Are < 1.0)
+This framework establishes initial ρ-values that require modest reductions below current
+industry-average EC performance. In most cases, ρ is set to 0.95, meaning projects must
+achieve a 5% reduction relative to today’s typical GWP for that material category.
+Massachusetts is adopting this approach for three main reasons:
+• A ρ-value of 1.0 preserves the status quo.
+A ρ of 1.0 would simply ask projects to match the current average GWP for each
+material. This would send no decarbonization signal and would not move the
+market toward lower-carbon alternatives.
+• A five percent reduction is achievable in the near term using readily available
+practices.
+For materials like ready-mix concrete, structural steel, reinforcing steel, and
+asphalt mixtures, a five percent improvement over the industry average is readily
+achievable through standard optimization (e.g., increased SCM use, improved
+45
+
+batching consistency, better mix selection, or lower-emission mill selection)
+without requiring the use of emerging or untested technologies. For ready-mix
+concrete, for example, SCMs have regularly been used in the industry for more than
+30 years.29 Notably, for many producers, this five percent “improvement” over
+industry average will not require any changes to processes, as their products are
+already achieving these numbers or even lower.
+• Small but real reductions build market capability.
+The purpose of the initial ρ-values is to begin establishing operational discipline
+around collecting EPDs, understanding GWP drivers, and making incremental
+procurement and design adjustments. This creates the foundation for deeper
+reductions between now and 2035 and 2050. In short, a ρ of 0.95 reflects an
+achievable first step that sends a meaningful signal to industry, without imposing
+undue burden on early projects.
+Cost of Lower-Carbon Materials
+Cost implications were a principal focus of Council discussions with respect to setting
+limits and requirements. Understanding that the Commonwealth must use its capital and
+resources efficiently and effectively, it was important to the Council to ensure that
+proposed recommendations would not foreseeably lead to increased project costs.
+Through discussions with and feedback from experts in the construction industry and
+materials research field, however, it became clear that achieving initial reductions in EC
+(between 10-30% over baseline) for materials such as ready-mix concrete has minimal
+cost implications for most listed material types. In fact, depending on the supplementary
+materials used and local market availability, certain lower EC concrete mixes can be less
+costly than traditional mixes using OPC.30 Importantly, different SCMs have different
+impacts on curing, durability, permeability, and hardened properties; depending on
+application, these impacts could be favorable but may not be suitable for every
+application.31 Moreover, the initial proposed set of targets have been chosen to be readily
+achievable by industry, and a slow decrease in these thresholds over time should facilitate
+EC reductions with minimal cost implications.
+“TECHNICAL BULLETIN AD-01: Supplementary Cementitious Materials.” Euclid Chemical,
+www.euclidchemical.com/fileshare/Literature/Technical_Bulletins/AD-01-
+Supplementary_Cementitious_Materials.pdf
+30 Marandi, N., Shirzad, S. Sustainable cement and concrete technologies: a review of materials and
+processes for carbon reduction. Innovative Infrastructure Solutions. 10, 408. 29 July 2025.
+https://doi.org/10.1007/s41062-025-02213-5
+31 Ibid.
+46
+
+Waivers
+Although cost implications should be minimal in most cases, a waiver process can allow
+for flexibility in cases where costs are significantly impacted. Covered Agencies should
+establish and set forth in relevant guidance a waiver process specifying extenuating
+circumstances which qualify for exemption, such as where supply-chain limitations,
+technical requirements, or significant cost impacts make compliance with GWP
+thresholds temporarily infeasible.
+Intermediate 2035 and 2050 Targets
+To align state policy with long-term decarbonization trajectories across the construction
+materials sector, Massachusetts should establish intermediate 2035 targets and long-
+term 2050 targets for embodied-carbon reduction. These targets are expressed as future ρ-
+values tied to today’s baselines.
+Milestones are essential for:
+• Providing predictability to agencies, designers, owners, and suppliers;
+• Allowing sufficient lead time for capital investments, such as plant upgrades,
+alternative cementitious binders, or low-carbon steelmaking technologies;
+• Ensuring that consistent progress is made throughout the 2028–2050 period;
+• Supporting procurement planning, including updating specifications, EPD
+templates, and contractual requirements.
+Without intermediate targets, the state risks insufficient near-term progress and potential
+disruption if stringent standards are introduced too suddenly.
+Framework for 2035 and 2050 Values
+Future ρ-values should reflect the decarbonization commitments and roadmaps published
+by the relevant industries:
+• Cement and Concrete: The Global Cement and Concrete Association has
+committed to net-zero concrete by 2050, with substantial reductions by 2030–
+2035.32
+32 “Concrete Future: The GCCA 2050 Cement and Concrete Industry Roadmap for Net Zero Concrete.”
+Global Cement and Concrete Association, https://gccassociation.org/concretefuture/
+47
+
+• Structural Steel and Reinforcement: Various U.S. steel producers have outlined
+pathways for deep reductions and eventual near-zero steelmaking by 2050.33
+• Asphalt Mixtures: National commitments (e.g., “The Road Forward”) target net-zero
+pavements by 2050.34
+Refer to Appendix E for suggested 2035 and 2050 ρ-values. These ρ-values therefore
+represent deep reductions relative to today, while acknowledging that residual emissions
+may persist in 2050 and may require carbon removal or offsets to achieve net-zero on a
+portfolio basis.
+Defining “Low Embodied Carbon” Materials
+As outlined above, initial GWP limits will need to be set at levels that are fairly achievable
+with current materials manufacturing processes. This means that, for the time being, GWP
+limits are not likely to meaningfully drive demand for highly innovative low-carbon
+materials.
+Therefore, supplemental to these limits, the Council recommends that the
+Commonwealth publish an official definition, for each listed material, of the GWP
+coefficient sufficiently low to qualify as “low-embodied carbon." This definition would not
+be used as a requirement or threshold on projects but rather could be used to support the
+adoption of these products through incentive programs such as grants or procurement
+incentives.
+In its first report to the Council, the TAC should establish a set of criteria for what
+constitutes “Low Embodied Carbon Material.” This definition should encapsulate any
+material that demonstrates a substantial reduction in GWP relative to the baseline for its
+material type (for example, 40 percent - 50 percent or more below average), verified
+through facility-specific EPDs. This definition should be proposed by the TAC, reviewed by
+the Council, and when approved, made public through the Council’s two-year report to the
+legislature. The definition should be adapted over time as technology progresses and
+Massachusetts-specific data become available. Importantly, such a definition would only
+indicate that a design or mix of a material is relatively lower carbon than other designs from
+this same material class and functional use. As it will be relative to each material, this
+definition should not be used to compare the use of different material types on a project.
+33 “Structural Steel Sustainability.” American Institute of Steel Construction (AISC),
+https://www.aisc.org/sustainability
+34 “The Road Forward: A Vision for Net Zero Carbon Emissions for the Asphalt Pavement Industry.” National
+Asphalt Pavement Association (NAPA), https://www.asphaltpavement.org/forward
+48
+
+Part III — Project-Level Requirements
+Recommendation 5: Whole Building Life Cycle Assessment (WBLCA)
+Recommendation
+Short term
+For all new building construction or major renovation projects involving at least 20,000
+square feet within a single building, which are advertised for prime contract after mid-
+2027 and managed by a Covered Agency, project teams should conduct WBLCA to assess
+a project’s total global warming potential in CO e. The 20,000 square foot threshold was
+2
+chosen for consistency with E.O. 594, which requires state agency-led building projects to
+achieve LEED Silver Certification and adhere to Massachusetts Specialized Opt-In code
+requirements.35 LEED projects are able to earn points for WBLCA, so this additional
+requirement complements pre-existing requirements.
+WBLCA should be conducted as an iterative process, with at least one conducted during
+the design phase to inform alternatives, and one conducted at end of Construction Design
+using CD information. To understand the relative EC performance of a design, designers
+should reference published averages for ECI of similar building types and sizes, such as
+the Carbon Leadership Forum Benchmark Report v2.36 Designers should provide a
+narrative about why the building materials and systems were chosen.
+Required scope of analysis to achieve compliance with this requirement is outlined in
+Appendix F.
+35 Ibid.
+36 Benke, Brad, et al. “Embodied Carbon Benchmark Report: Embodied Carbon Budgets and Analysis of 292
+Buildings in the US and Canada.” Carbon Leadership Forum (CLF), CLF and University of Washington (UW)
+Life Cycle Lab, April 2025, https://carbonleadershipforum.org/clf-wblca-v2/
+49
+
+Long term
+Project-Level EC Thresholds
+Importantly, the above short-term recommendation only includes a requirement for
+project teams to analyze the total EC and embodied carbon intensity (ECI), or the EC per
+unit of area, of projects and does not set requirements for reducing EC at a project scale.
+There are two primary approaches that can be used to set requirements for reducing EC at
+the building scale:
+• A relative baseline: this approach asks project teams to report the total EC
+emissions of the project based on actual design and then construct an imagined
+“typical” building design to compare against the proposed design. LEED v4 and
+CalGreen Code both take this approach to WBLCA requirements, asking projects to
+demonstrate a reduction in EC over a counterfactual baseline building. The benefit
+of this approach is that it accounts for potential differences in data assumptions
+across tools. From a policy perspective, a baseline building approach is an
+excellent way to motivate every project to explore embodied carbon reductions
+using WBLCA, compared to an absolute benchmark approach where all projects
+that fall under the threshold are not motivated to engage further. The disadvantage
+of this approach, however, is that it is possible, based on today's limited guidance
+and standardization of baselines, to achieve compliance by creating an over-
+designed “baseline” building, making comparative EC reductions easy to achieve
+without considering any actual design improvements.
+• An absolute benchmark: this approach seeks to set a single standard based on
+reference EC emissions of buildings, typically categorized by use type (e.g.,
+multifamily residential, educational, office, etc.). Such benchmarks would need to
+be sourced from a sufficiently large data set, with WBLCA data collected from
+actual building projects. Several jurisdictions in Canada, including Vancouver and
+Toronto, have adopted this approach. The benefit of this approach is that it ensures
+that projects are meeting one verified standard, limiting the ability to construct an
+inflated baseline. This approach primarily motivates the most EC-intensive projects
+to address their absolute impacts but does little to motivate EC reduction for
+projects that meet the limit without taking any actions. The disadvantage of this
+approach is that standards and tools available for conducting WBLCA are not
+nuanced, standardized, or granular enough to ensure analyses are comparable on
+50
+
+an absolute level. Different tools use different assumptions and data inputs,
+sometimes resulting in significant differences in results across tools.
+Weighing the relative benefits and disadvantages of each approach, the Council
+recommends that future updates to the state’s EC policy for vertical construction projects
+focus on setting absolute benchmarks on EC at the project level, when data and
+standards are sufficient to do so. However, given the current lack of standardization of
+analytical tools, the Council does not recommend adopting project-level caps at this
+phase of implementation. Over the next two to five years, standards currently in
+development, such as ASRAE 240P, may provide meaningful new guidance to improve the
+validity and comparability of WBLCA.37 Moreover, as state agencies gain experience with
+WBLCA and conduct the analysis for more projects over time, a body of Massachusetts-
+specific data will be developed and available to facilitate regionally specific caps.
+As outlined under Recommendation 6, the TAC should advise the Council on setting
+project level carbon budget for EC in future updates to this document. The TAC may also
+consider recommendations regarding alternative compliance pathways, such as reusing
+some minimum percentage of building structure, or one for pursuing full points for a whole
+building lifecycle credit and associated reductions against a baseline in a green building
+rating system such as LEED v5.
+For example, compliance pathways may include:
+• Building Reuse: Reuse at least a certain percentage of an existing structure (e.g.,
+forty-five percent in CalGreen);
+• Performance via budget: Not exceed carbon budget for building type and size;
+• Performance via reduction: Demonstrate reduction against baseline project design
+(e.g., ten percent in CalGreen, Max 6 points in LEED v 5 for forty percent reduction
+in GWP).
+Analysis of Operational vs. Embodied Carbon Trade-offs
+WBLCA can quantify the total carbon impacts of a building across its entire life—from raw
+material extraction through demolition and disposal. Depending on scope, it can capture
+37 “NEWS: ASHRAE and International Code Council Announce Second Public Review Period for Proposed
+Emissions Quantification Standard.” ASHRAE, American Society of Heating, Refrigerating and Air-
+Conditioning Engineers (ASHRAE), 16 June 2025, https://www.ashrae.org/about/news/2025/ashrae-and-
+international-code-council-announce-second-public-review-period-for-proposed-emissions-quantification-
+standard
+51
+
+both EC (the emissions from constructing the building) and operational carbon (the
+emissions from running the building).38 Ultimately, the use of a full WBLCA (with modules
+B6-B7 included) can offer guidance on reducing both operational and embodied carbon
+emissions and reveal complementary actions, as well as tradeoffs, between the two.
+As an example, the reuse of a building’s structure and enclosure often reduces EC in the
+short term, but project teams should also consider the impact of retrofits to operational
+carbon. Of interest, Denmark has set a carbon budget that incorporates both operational
+carbon and EC over the lifespan of the building. This encourages design teams to consider
+tradeoffs such as the amount of insulation added to a building. Increased insulation may
+reduce operational carbon over time, but increase EC up front, and the tradeoff should be
+carefully considered. DCAMM has requested legislative changes to MGL ch. 149 § 44M to
+both correct an inconsistency in the law and to expand life-cycle cost analysis evaluations
+to include the value of avoiding both operational and embodied carbon emissions, in order
+to facilitate consideration of this dynamic, and will continue to pursue a legislative
+solution.
+Discussion
+While collecting EPDs on a variety of projects is an important starting place, EPDs only tell
+a portion of the carbon life of a product as compared to a WBLCA. EPDs typically include a
+“cradle-to-gate” analysis of a product’s emissions (modules A1 – A3), meaning all the
+emissions associated with the manufacturing of a product up until it is transported from
+the factory for use on a job site. Nothing about the product’s use, maintenance, and end of
+life is included in the scope of the typical EPD. Moreover, requiring EPDs for only a sub-set
+of materials would not yield a comprehensive picture of total project EC.
+A WBLCA provides project owners and design teams with a better understanding of the full
+life cycle impacts of design decisions. Examining EC at the project initiation and design
+phases has a much greater potential for reducing total carbon of the project than reducing
+the marginal emissions of a given material. Imagine a project that has two design options
+38 Life cycle modules B6-B7, which, which analyze operational emissions, are not typically included in
+required scope for EC policy mandating WBLCA. However, their inclusion, when feasible, could facilitate
+better consideration for both EC and operation carbon.
+52
+
+for a building of the same size and purpose: the first design includes plans for a structure
+that would require twenty percent more concrete than the second design—for example, as
+the result of differences in the spacing and dimensions of the structural bay. Choosing the
+second design, even if using traditional concrete mixes, will automatically result in twenty
+percent lower EC for the concrete on the project. Then, where appropriate, the design
+team could further reduce EC by selecting concrete mixes with lower GWP intensity.
+Data Validity, Accuracy, and Completeness
+It is often useful to use project-level LCA and product-specific EPDs in conjunction with
+each other due to the relative limitations and strengths of each approach. Importantly,
+while WBLCA is a more complete analysis, it often requires using generalized, proxy data,
+and involves more assumptions about the project's life cycle and end use. The cradle-to-
+gate LCA included in the scope an EPD for specific products is often more accurate to the
+actual emissions of that product’s life cycle because it is informed by actual data rather
+than assumptions. WBLCA, on the other hand, provides a more complete picture, but may
+be less accurate to the actual embodied emissions of the building that is ultimately
+constructed. The accuracy of WBLCA can be improved where project specific data are
+available, but there will always be some level of uncertainty in a cradle-to-grave WBLCA,
+as the “end of life” will always rely on assumptions about demolition and material
+disposal.
+Basic WBLCA methodology
+The first step of any LCA is to determine the scope and goals of analysis. To ensure
+transparency and comparability, it is critical to establish the physical system boundaries,
+life cycle phases and impact categories included in a given WBLCA analysis. Physical
+system boundaries refer to the components of the building which are included in the
+analysis (i.e. structure, enclosure, interiors). Life cycle phases, as outlined in the
+introduction section on Embodied Carbon Measurement, are standardized set of modules
+(labeled A1-C4) which divide the phases of a product’s life cycle into discreet categories to
+facilitate analysis. Impact categories are the metrics being determined by the analysis. For
+EC, the relevant impact category is GWP, typically expressed in kgCO2e. To provide more
+53
+
+context, this number might be normalized into kgCO2e per Square Foot or Gross Floor Area
+(ECI).39
+Once a goal and scope are determined, WBLCA involves compiling a “bill of materials” — a
+comprehensive list of all of the materials and products that make up in the building’s
+components. The life cycle impacts of each product on this bill of materials are then
+aggregated to provide an estimate of the full impact of the project.
+There are a variety of online tools which are commonly used for WBLCA, such as Tally,
+Athena Impact Estimator, BEAM, and One Click LCA.
+Comparable Life Cycle Trade-Offs for Horizontal Construction
+This recommendation does not currently include any requirements for project-level LCA
+for infrastructure projects. This is both because project-scale LCA is less well adopted
+within infrastructure construction and because EPD-level data for the listed materials is
+relatively more representative of full EC impact for infrastructure projects than it may be
+for buildings, as many infrastructure projects involve fewer types of materials than
+buildings. However, EC impacts from the construction stage (A5) in particular are expected
+to be even higher for infrastructure assets than for buildings. It would be advantageous to
+start performing asset-scale LCA on infrastructure projects to better understand
+opportunities and gaps, even if not yet required.
+There are some general life cycle trade-offs which should be taken into account by project
+teams. Concrete pavements generally demonstrate a significantly longer service life than
+asphalt. Concrete pavement life expectancy is thirty to fifty years compared to twelve to
+twenty years for asphalt pavement. This will ultimately result in fewer reconstructions and
+major rehabilitation cycles over the analysis period. While concrete carries higher initial EC
+intensity due to cement production and more energy intensive manufacturing, its extended
+lifespan, reduced maintenance frequency, and ability to maintain structural and functional
+performance for decades can offset much of that upfront impact. In contrast, asphalt
+typically offers a lower initial EC burden, but requires recurring mill and fill operations,
+periodic overlays, and more frequent interventions that accumulate substantial embodied
+39 Other impact categories which might be assessed include depletion of the stratospheric ozone layer,
+acidification of land and water sources, eutrophication, formation of tropospheric ozone, and depletion of
+nonrenewable energy resources.
+“Building Life-Cycle Impact Reduction.” LEED v4.1. U.S. Green Building Council (USGBC),
+https://www.usgbc.org/credits/new-construction-core-and-shell-schools-new-construction-retail-new-
+construction-data-27
+54
+
+carbon over time. When these life cycle effects are modeled across a standard analysis
+window, the durability and long-term performance of concrete often reduce total life cycle
+EC relative to asphalt, despite the initial trade off. However, within Massachusetts, high
+traffic volumes on major corridors limit the feasibility of timely asphalt-to-concrete
+reconstruction cycles; lanes cannot remain out of service long enough to perform asphalt
+to concrete reconstruction without causing severe mobility impacts. Asphalt milling and
+paving on Interstates, state highways, and high-volume municipal roads can typically be
+scheduled during off-peak hours, allowing full roadway capacity to return before traffic
+increases. In contrast, concrete roadway construction requires longer, continuous
+closures to complete the work. These extended traffic restrictions represent a significant
+operational constraint and must be carefully considered in planning. The impacts of
+chloride intrusion and freeze–thaw cycles associated with harsh Massachusetts winters
+must also be taken into account. That said, MassDOT just completed an intersection on
+US1 in Newburyport where concrete was used in place of asphalt, using forty percent slag,
+and is planning to perform its second concrete pavement project in 2026. This application
+was in a low volume area that had roadway widths that allowed stage construction with
+minimum traffic impacts. Evaluating and piloting these types of projects when feasible has
+the potential co-benefit of EC reduction.
+Most of MassDOT’s annual pavement program is categorized as “pavement preservation”
+and comprised of asphalt surface treatments between three-quarters of an inch and two-
+inch in thickness. This program is designed to maintain the roadways at the highest
+feasible level of serviceability at the lowest cost and resulted in considerable reductions in
+asphalt usage since the program’s inception. Such preservation-minded decision making
+has the benefit of maximizing state funds and reducing the overall new material added to
+the system, therefore reducing EC emissions.
+MassDOT performs a Life Cycle Cost Analysis (LCCA) utilizing an incremental benefit cost
+model within its Pavement Management System to select projects and preservation
+treatments. To optimize the condition of the highway network, this process includes a
+condition assessment coupled with a ten-year condition forecast. A decision matrix with
+twelve treatment options is applied network-wide to determine which projects and
+treatments optimize pavement conditions, ensuring only the projects having the highest
+incremental benefit cost over a ten-year analysis period are selected. After consultation
+with the Council, MassDOT proposes modifying its Pavement Management System to
+incorporate the use of GWP in its project and treatment selection processes to develop a
+network level LCA analysis. This LCA analysis will provide a framework to supplement
+future decisions on low carbon materials and low carbon pavement treatments.
+55
+
+Part IV — Governance, Review, and Continuous Improvement
+Recommendation 6: Technical Advisory Committee (TAC)
+Recommendation
+Following the publication of this initial report, the Council will continue to meet on a
+quarterly basis and submit an updated plan to the legislature every two years. However,
+given the technical nature of managing GWP limits and nuances of EPD and LCA data, the
+Council will convene a technical advisory committee (TAC) as a subcommittee. In
+alignment with the Council’s legislatively mandated reporting period, the TAC should
+submit guidance to the Council on each topic listed below every two years, by mid-year of
+the reporting year.40
+The Council will charge the TAC with providing technical guidance on the following
+matters:
+• Material subject to reporting requirements and GWP thresholds: Over time,
+EPDs may become more readily available for certain materials which are known to
+have high EC intensity, but do not yet have reliable standards for EPD methodology.
+The TAC should assess industry readiness to produce EPDs to determine whether it
+should be included in subsequent requirements.
+• Stringency and data source of materials-level GWP thresholds: Current
+proposed limits are suggested for their relative achievability, but as industry adapts
+to new standards, they will more easily be able to achieve targets. GWP limits
+should be reduced over time on a schedule that allows the Commonwealth to meet
+long term targets. The TAC should also assess the sufficiency of state-collected
+data and determine an appropriate timeline to transition away from industry
+databases to state-level data.
+• Transition to project-level thresholds: Consider an appropriate time for vertical
+construction to transition to project-level EC thresholds based on WBLCA data. The
+40 For example, given that the Council’s next legislatively mandated update is due on January 1, 2028, the TAC
+should submit guidance to the Council by July 1, 2027
+56
+
+TAC should monitor the development of new standards governing WBLCA analyses
+and advise the Council on the prospect of establishing project-level EC budgets
+alongside reductions in operational carbon emissions. The TAC should also review
+the viability for introducing systematic project-level LCA analysis for infrastructure
+projects.
+• Monitoring progress and setting time-bound targets: Develop baseline measures
+for the EC emissions associated with state projects and set long- and intermediate-
+term targets for overall reduction of the state's EC carbon portfolio. The two-year
+threshold review cycle should reference long-term goals to ensure the
+Commonwealth is tracking towards overall reduction targets.
+Discussion
+A separate subcommittee with additional technical expertise is necessary because careful
+consideration of industry preparedness and progress, market acceptance, and technology
+readiness requires a more varied set of technical backgrounds than the current makeup of
+the Council. The TAC should report to the Council and will receive staff and administrative
+support from DCAMM and the Climate Office.
+The group should consist of members with the following professional expertise, including
+at least:
+• Two structural or civil engineers
+o One specializing in buildings
+o One specializing in infrastructure
+• One materials scientist
+• One architect
+• One individual knowledgeable on the development of ASTM standards and Product
+Category Rules (PCRs)
+• One LCA/EPD expert
+• Technical representatives41 of materials industries, including:
+o Concrete (e.g., NRMCA or MACAPA)
+o Steel (e.g., AISC)
+41 “Technical representatives” of industry shall be an individual with direct experience developing PCRs or
+EPDs for the stated material type
+57
+
+o Asphalt (e.g., Asphalt Institute or Massachusetts Asphalt Pavement
+Association)
+o Wood (e.g., American Wood Council)
+• One representative Construction industry (e.g. Construction Industries of
+Massachusetts)
+• One economist specializing in the construction industry
+• One climate expert
+• One representative from each of the following state agencies:
+o DCAMM
+o MassDOT
+o MBTA
+o Department of Energy Resources (DOER)
+• One representative from a research nonprofit specializing in EC, such as the
+Carbon Leadership Forum (CLF) or Rocky Mountain Institute (RMI)
+• One climate labor representative
+PART V — Emerging Initiatives & Market Enablement
+Recommendation 7: Deconstruction and Reuse
+Recommendation
+Deconstruction and reuse offer great potential for EC reductions but are characterized
+here as “emerging” because meaningful implementation of these practices will require a
+shift in cultural norms and significant logistical changes in construction practices.
+Deconstruction in buildings is the intentional, systematic dismantling of a structure so that
+materials and components can be recovered, reused, or recycled, rather than demolished
+and sent to landfill. Whole or partial building reuse, also referred to as adaptive reuse, is
+the process of repurposing an existing structure for a new use—often quite different from
+its original function—while retaining most of the building’s form, structure, and materials.
+Both deconstruction and adaptive reuse provide the potential to substantially reduce EC in
+the built environment.
+58
+
+Given the emerging nature of the field of deconstruction and the complicated logistical
+challenges presented by material reuse, the Council recommends that state agencies that
+manage building construction or waste diversion focus efforts in this area on knowledge-
+gathering, capacity building, and market development.
+Measures that will support these goals are outlined in more detail below and include:
+• Regularly convening agencies on the subject through an existing MassDEP
+Workgroup;
+• Increasing pilot deconstruction projects;
+• Conducting salvage assessments on select DCAMM projects to identify materials
+with reuse potential;
+• Investing in workforce development programs for deconstruction;
+• Supporting the development of a market for deconstructed materials.
+Discussion
+While measuring and understanding the impacts of construction through EPDs and
+WBLCA is an important means to reduce EC, one of the most impactful ways to reduce EC
+is to choose not to build a new building or use new materials in the first place. To provide a
+simplified example: imagine that UMass has a former student dormitory proximate to
+where DCAMM is looking to build an office building. DCAMM could construct a new
+building from scratch, and UMass could demolish that former dorm and put the land to
+other use. But if DCAMM were to instead retrofit that building into an office building,
+without changing any of the structural elements and maximizing material reuse, that
+project would automatically avoid one hundred percent of the nearly all of the EC
+emissions that would have been associated with those structural elements and materials
+in a new building. Moreover, opting for reuse of an existing structure and its component
+materials offers both carbon reductions and the important co-benefit of waste diversion.
+While deconstruction offers great opportunity, there are significant barriers to adopting the
+practices industry-wide. These include a lack of storage options for salvaged materials,
+limited workforce for deconstruction trades, and currently low market demand for reused
+materials in the wider marketplace.
+Cross-Agency Collaboration
+As a part of its Reduce & Reuse Action Plan, MassDEP formed a group of stakeholders
+called the Deconstruction Workgroup in September of 2022, which has convened on a
+59
+
+number of topics relating to building deconstruction and material reuse.42 This group
+brings together a broad audience to help inform and guide MassDEP program and policy
+development through educating stakeholders, exchanging ideas and experiences, and
+building connections. Given there is a pre-existing convening around this topic within state
+government, the Council recommends that the state continue to tap into this Workgroup—
+with greater engagement with agencies who manage building assets—as a forum for
+establishing a protocol for deconstruction and reuse of the Commonwealth’s assets.
+In October of 2025, MassDEP held an in-person workshop on deconstruction, convening
+members of state agencies, municipal governments, construction industry, salvage
+materials companies, asset owners, and other stakeholders. This session was an excellent
+first step towards developing concrete steps to promote deconstruction and reuse, and
+the Council encourages MassDEP and the Workgroup to continue convening similar
+action-oriented discussions with a wide range of stakeholders as the state considers
+deconstruction policies and guidance. MassDEP’s consultant, Sustainable Performance
+Institute, is preparing a report with recommendations stemming from its in-person
+workshop, due late January 2026.
+Increase Pilot Projects
+DCAMM has already initiated one deconstruction pilot project, where two nearly identical
+buildings will be demolished. One will be deconstructed based on new specifications
+utilizing a deconstruction/salvage approach. The other will be demolished as per
+DCAMM’s standard specifications. Differences in approach, costs, and results will be
+carefully analyzed. This is an important first step to understanding how to implement
+deconstruction on a wider scale.
+To begin developing a portfolio of pilot projects with observations and learnings, the
+Council recommends that DCAMM and other agencies that manage building construction
+continue to develop more pilot deconstruction projects. These should cover a range of
+building use types, sizes, and scopes of deconstruction. Projects can combine
+deconstruction and demolition to start experimenting with the practice on a smaller scale.
+DCAMM’s Interiors team also has experience salvaging furnishings and furniture for reuse,
+which is an easy starting place for reuse that other agencies could replicate. Agencies
+should document successes and challenges with these pilots and use the MassDEP
+workgroup as a forum to share lessons learned.
+42 “Reduce & Reuse (R&R) Working Group & Deconstruction Workgroup.” Mass.Gov, Commonwealth of
+Massachusetts, Department of Environmental Protection (MassDEP),
+https://www.mass.gov/lists/reduce-reuse-rr-working-group-deconstruction-workgroup-archive
+60
+
+Salvage Assessments
+Any pilot deconstruction project should undergo a salvage assessment—a walkthrough by
+a design professional to review which materials have potential applications for reuse. As
+salvage assessment is not a standardized practice or trade, the industry could benefit from
+the state setting an example for what standardized assessments might include. State pilot
+projects with a deconstruction element, therefore, should conduct salvage assessments,
+focusing on identifying existing materials (make, model, finish and quantities as
+applicable) that have potential for salvage and reuse via donation, secondary markets,
+repair, onsite redeployment, or manufacturer takeback programs.
+DCAMM should develop guidance on what building elements should be evaluated in a
+standardized salvage assessment.
+Workforce Development
+Traditional demolitions are overseen by specific, specially trained demolition
+professionals. The skills required for demolition are different from those required for
+deconstruction, which involves the careful dismantling and separation of materials to
+enable reuse. As with salvage assessments, deconstruction is not yet a standardized
+practice, though there are local practitioners with some experience. The Commonwealth
+can help advance a standard framework for training and certification in this field by adding
+deconstruction as a focus within existing climate and clean energy workforce programs.
+Market Development
+While the subsequent section overviews market development for the larger market for low-
+EC construction materials and processes, it is worth drawing particular attention to market
+development specifically in the context of deconstruction.
+The Commonwealth should consider how best to support the development of a robust
+circular economy for building materials, with particular attention to:
+• Storage solutions to enable materials without immediate reuse applications to be
+diverted from the waste stream and used for future projects;
+• Technology solutions that facilitate cataloguing of materials in the marketplace so
+that buyers’ and sellers’ needs can be matched.
+61
+
+Operational vs. Embodied Carbon Trade-offs
+While reuse of a building’s structure and enclosure often averts GHG reductions in the
+short term, project teams should also consider the impact of retrofits to operational
+carbon. “Pay off” times—or the amount of time that the EC associated with the
+construction of an asset is outweighed by the operational emissions of the life cycle of the
+asset—vary from building to building. A study by Preservation Green Lab and Skanska, for
+example, found a range of ten to eighty years for a building’s operational emissions to
+eclipse its initial EC emissions.43 Often, it is easier to build a new construction to the
+highest standard of energy efficiency, but depending on a number of factors, initial EC
+emissions may outweigh operational emissions for longer than the building even remains
+standing. For this reason, it is important that project teams carefully consider the
+operational versus EC trade-offs—including energy efficiency of a retrofit and the
+theoretical service life of the building—when determining if building reuse is the best
+choice for GHG reduction over time. That said, if a retrofit is able to achieve the same
+energy efficiency standard as a new construction, renovation will likely result in overall
+GHG savings in most cases.
+Reuse in Horizontal Construction
+This recommendation does not currently include any requirements for horizontal
+construction or infrastructure assets, but those industries are already implementing
+certain best practices. Notably, public transportation infrastructure is managed using a life
+cycle asset management approach, monitoring maintenance, overhaul, renewal and
+replacement needs on an ongoing basis to ensure the existing transit system is maintained
+in a State of Good Repair (SGR).44 The majority of the MBTA’s capital investment program
+represents SGR maintenance, renovations and rehabilitation of existing infrastructure, and
+upgrades to improve accessibility and customer experience. The MBTA invests significantly
+in rehabilitation and overhauls of existing assets, from bridge rehabilitation to commuter
+rail locomotive overhauls, often extending an asset’s useful life multiple times over. Many
+projects also include elements of historic preservation. For example, as part of the Green
+Line Extension, the MBTA rehabilitated the Lechmere Viaduct, listed on the National
+Register of Historic Places, wrapping its underpinnings and ensuring materials used were
+consistent with the Viaduct’s original design; at Copley, more than ninety percent of an
+original Beaux Arts headhouse was put back in place after accessibility upgrades were
+43“The Greenest Building: Quantifying the Environmental Value of Building Reuse.” Living Future, Preservation
+Green Lab, https://living-future.org/wp-content/uploads/2022/05/The_Greenest_Building.pdf
+44 “MBTA Transit Asset Management Plan | 2022.” MBTA,
+https://www.bostonmpo.org/data/calendar/pdfs/2024/0307_MPO_MBTA_TAM_Plan.pdf
+62
+
+completed, with original components repaired using 20th century blacksmithing
+techniques. The public transit industry also engages in extensive salvage and reuse
+activity. Where infrastructure must be replaced, the MBTA has historically issued
+procurements to remove, recycle and recover materials, such as replaced transit rail. The
+MBTA also acquires salvaged materials from peer agencies for reuse, such as bridge deck
+panels from the Big Dig and the Tappan Zee Bridge that are being recycled into mini-high
+platforms on the commuter rail to accelerate delivering accessibility on the regional
+network. Furthermore, new public transit infrastructure, which may represent significant
+upfront EC in construction, may have low operational carbon emissions or in many
+instances yield significant dividends in terms of avoided carbon emissions due to the
+infrastructure’s core function of providing low-carbon mass transportation. In particular,
+the MBTA’s rapid transit system runs on electricity that the Authority has sourced from 100
+percent renewable sources since 2021, making all passenger trips on the Orange, Green,
+Red and Blue Lines carbon-free.
+Recommendation 8: Market Development
+Recommendation
+The above recommendations are all implicitly concerned with market development, as
+they intend to use the power of state procurement to drive demand for less carbon
+intensive materials, designs, and practices. While these are meaningful drivers of the
+market in and of themselves, this recommendation focuses on concrete actions and
+programs administered by the Commonwealth that might further drive market
+development.
+In that vein, the Executive Office of Economic Development (EOED) will continue to lead
+efforts to build awareness of existing state programs that support innovative low EC
+technologies and identify opportunities to further catalyze business growth and market
+development.
+• Drive awareness of available state programs for businesses developing low EC
+technologies; and
+• Explore opportunities for further catalytic support to help scale low EC
+technologies.
+63
+
+Discussion
+Key Challenges in Low EC Tech Sector
+The path to scale can be challenging for businesses developing low EC technologies.
+Scaling requires significant upfront capital investments, access to early customers willing
+to adopt innovative materials, and availability of suitable land and power. The Council
+hosted a “Low Embodied Carbon Tech Roundtable” to better understand the needs of
+businesses in this sector and how the state can play role in developing the market to
+support growth. The following key challenges facing startups and growth-stage businesses
+developing low EC technologies emerged from that discussion and additional stakeholder
+feedback.
+• Capital – Companies must raise substantial upfront investment to achieve
+economies of scale and become cost-competitive with traditional materials.
+• User Acceptance – Uncertain path to user acceptance for new technologies in
+slow-to-change industry. Demonstrations are important, but not sufficient.
+• Costs of Doing Business – Land, labor, transportation, and power are expensive.
+• Site Needs – Businesses report a limited availability of large sites and appropriate
+facilities with access to sufficient power and infrastructure for at-scale operations.
+Current State Offerings and Example Use Cases
+Massachusetts offers a broad portfolio of programs across multiple offices to support
+business growth, many of which can be leveraged by low-EC technology businesses.
+Team MA Organizations – A coordinated network of state agencies and quasi-public
+partners (“Team MA”)—shown in Figure 5—supports business development across all
+stages and sectors, including dedicated resources for early- and growth- stage businesses
+in climatetech, manufacturing, and technology sectors.
+Figure 5: Team MA Organizations
+64
+
+Programs Addressing Capital Needs & Costs of Doing Business – Based on initial
+review, there are over a dozen industry-agnostic and sector-specific programs
+administered by Team MA agencies that have potential to support low EC tech businesses,
+outlined in Figure 6 below. These include grants, equity investments, tax incentives, loans,
+and subsidies to help businesses through commercialization phases from early-stage R&D
+to pilot, demonstration, and facility construction. Eligible uses of funds align with the
+typical costs incurred by businesses as they scale (e.g., equipment, construction,
+workforce training).
+Note: Final applicant eligibility determination depends on program-specific criteria.
+Additionally, some of the programs listed aren’t currently accepting applications.
+Figure 6: Relevant Existing Economic Development Programs offered by Team MA
+In late 2025, two new programs launched that are a fit for low EC businesses: Business
+Builds Capital Grant Program (Figure 6) and MassCEC Climatetech Job and Facilities
+Tax Incentive Program (Figure 6 and Figure 7). Business Builds provides capital
+reimbursement grants to businesses making climate-friendly investments in facilities and
+equipment. The Climatetech Tax Incentive Program offers tax credits to companies
+creating new jobs and / or investing in facilities that meet eligibility criteria.
+The MassCEC programs shown in Figure 7 below provide further detail on resources that
+are particularly relevant to early- and growth- stage climatetech businesses.
+Note: “TRL” refers to Technology Readiness Level.
+65
+
+Figure 7: Subset of MassCEC programs and incentives
+Businesses can explore state resources through the Massachusetts Business Front Door,
+a platform to connect with Team MA partners and receive tailored guidance on relevant
+programs.
+Illustrative examples of how low EC tech businesses might utilize these programs include:
+• MassDevelopment Emerging Tech Fund – This program offers loans to technology
+companies for expansion, working capital, or equipment purchases. This could help
+a growth-stage EC business interested in setting up manufacturing operations.
+• MassCEC InnovateMass – This program provides grant funding and technical
+support to climatetech startups (TRL 5-8) applying with one or more demonstration
+project partners. This could help accelerate commercialization and bridge the
+“valley of death” for EC businesses approaching this critical inflection point.
+• MassCEC CriticalMass Program – This program provides grant funding, specialized
+services, and partner matchmaking to growth-stage climatetech startups with a
+strong track record of successful demonstration projects interested in deploying
+TRL 8+ innovations in Massachusetts. This may be of particular interest to EC
+companies transitioning from pilot projects to commercial deployments.
+Fostering User Acceptance: Programs such as, CriticalMass, directly address challenges
+around user adoption through partner matchmaking. Additionally, a Mass Timber
+Accelerator Program is planned for spring 2026 (run by MassCEC with partner
+organizations) that will provide technical assistance to projects that replace steel and
+concrete structural materials, reduce time to build, and improve information about
+66
+
+forestry practices of harvested wood.
+Navigating Site Needs: Beyond funding, Team MA partners also offer tailored advising
+services to address specific site needs, such as, site and building selection services
+through MassEcon, and a dedicated Permitting Ombudsperson in the Executive Office of
+Economic Development to serve as a key point of contact and liaison for businesses
+through state and municipal permitting processes.
+Improving Concrete Climate Impact Transparency: MassCEC offers a grant program for
+Massachusetts ready-mix concrete producers to help offset the costs of software and
+third-party verification needed to provide EPDs for their concrete mixes. More than half of
+the Commonwealth’s ready-mix concrete producers have already participated. The
+program will continue to support concrete companies while building market demand for
+lower emission concrete.
+Possible Opportunities to Explore
+While current offerings address many of the sector’s challenges (capital, operating costs,
+user acceptance, and site needs), there may be opportunities to explore further catalytic
+support for innovative low EC technologies and to help traditional materials manufacturers
+comply with reporting requirements and meet thresholds. To support the production of
+EPDs, the state should consider expanding EPD grant programs beyond concrete to other
+material classes where EPD production is limited and there is in-state material production.
+To support innovative technologies, there are opportunities to explore ideas raised during
+the ECICC’s “Low Embodied Carbon Tech Roundtable,” including: purchase guarantees
+and long-term purchase agreements, pilot projects to demonstrate tech viability with
+potential to ramp into offtake agreements, trusted centralized testing methods, shared
+real estate infrastructure or plant facilities, pre-permitted ready sites, and regional
+cooperation among states. The Commonwealth should continue to keep open dialogues
+with industry, both in the traditional manufacturing sector and innovative technology
+companies.
+67
+
+PART VI — Regulatory Alignment for the Broader Market
+Recommendation 9: Building Code
+Recommendation
+All of the preceding recommendations focus on Commonwealth-managed construction
+projects or state-led initiatives. However, the Council is also charged with considering how
+to best approach incorporating EC into the Massachusetts building code. The
+Massachusetts building codes regulate new building construction and renovations, which
+offer an opportunity to decrease EC emissions across the Commonwealth, both in public
+and private building construction. The Board of Building Regulations and Standards (BBRS)
+is the body responsible for developing standards and requirements for the core set of
+Massachusetts building codes, covering structural, mechanical and a host of other code
+sections. Including EC measures in the base building code, whether incentive- or
+compliance-based, has the potential to drive real market transformation and promote
+lower-carbon construction industry-wide.
+Short-term
+• BBRS should incorporate energy efficiency credits for low carbon concrete and
+insulation into the base state building code;45
+• DOER should consider aligning thresholds for low GWP concrete in stretch and
+specialized energy codes with these recommendations in future updates.
+Long-term
+In consultation with the TAC, the BBRS should determine the appropriate timeline to adopt
+base building code provisions aimed at reducing EC, with multiple paths to achieving
+compliance. Such an approach would allow compliance either through:
+• Reusing a percentage, for example, forty to sixty percent of a building’s structure
+and enclosure;
+• Conducting a WBLCA with a demonstrated percentage reduction in EC from a
+theoretical baseline project and/or an absolute benchmark; or
+• Submitting EPDs for required materials which meet the required thresholds for
+GWP limits.
+45 The 11th edition of this code is under development, with BBRS anticipating finalizing it in 2028.
+68
+
+Discussion
+The BBRS codes are complemented by Specialized codes covering plumbing, fire
+prevention, electrical and energy among others, which are addressed by other boards and
+agencies. Section 43 of the 2024 Climate Law that established the Council also amended
+the “duties and powers” of the BBRS by adding the term “reduction in embodied carbon.”
+With this addition, the first clause in the BBRS’ “duties and powers” reads as follows:
+“Uniform standards and requirements for construction and construction materials,
+compatible with accepted standards of engineering and fire prevention practices,
+energy conservation, energy efficiency, reductions in greenhouse gas emissions,
+reductions in embodied carbon, and public safety.” (additions in bold)
+This provides a clear mandate for the BBRS to include provisions across its building codes
+to reduce EC emissions in construction.
+69
+
+Appendices
+Appendix A – S.2967 § 4, 193rd (Massachusetts, 2023 - 2024)
+SECTION 4. [Section 30 of chapter 7C of the General Laws, as appearing in the 2022
+Official Edition] is hereby further amended by adding the following section:-
+Section 73. (a) As used in this section, the following words shall have the following
+meanings unless the context clearly requires otherwise:-
+“Division”, the division of capital asset management and maintenance.
+“Environmental product declaration” or “EPD”, an independently verified and
+registered declaration that provides a life cycle assessment of a product’s global warming
+potential and facilitates a comparison of environmental impacts between products
+fulfilling the same function; provided, however, that such declaration shall be a Type III or
+higher as defined by theInternational Organization for Standardization (ISO), 14025:2006,
+or substantially similar life cycle assessment and comparative methodologies that have
+uniform standards in data collection and scientific integrity, and any pertinent product
+category rule developed in conformance with ISO 14025:2006.
+“Global warming potential”, a numeric value that measures the total contribution to
+global warming from the emission of greenhouse gasses or the elimination of greenhouse
+gas sinks.
+“Life cycle assessment” or “LCA”, an assessment used to calculate the
+environmental 31 primary and secondary impacts of a product, service or process over the
+lifetime of such product, service or process.
+“Low-embodied carbon material”, material used in building and construction that
+has been verified by the division to embody carbon emissions that are sufficiently low,
+based on a threshold set by the division, as compared to the embodied carbon emissions
+of a conventional material fulfilling the same function.
+(b) There shall be within the division, but not subject to the control of the division,
+an embodied carbon intergovernmental coordinating council. The council shall consist of:
+70
+
+the commissioner of capital asset management and maintenance or a designee, who shall
+serve as co-chair; the climate chief or equivalent climate official within the office of the
+governor or a designee, who shall serve as co-chair; the secretary of energy and
+environmental affairs or a designee; the secretary of transportation or a designee; the
+secretary of housing and livable communities or a designee; the secretary of
+administration and finance or a designee; the secretary of economic development or a
+designee; the chief executive officer of the Massachusetts Port Authority or a designee; the
+general manager of the Massachusetts Bay Transportation Authority or a designee; the
+chief executive officer of the Massachusetts clean energy technology center or a designee;
+the chair of the board of building regulations and standards or a designee; the chairs of the
+joint committee on telecommunications, utilities and energy or their designees and the
+house and senate minority leaders or their designees, who shall serve as nonvoting
+members with respect to any spending matters; and 5 persons who shall be appointed by
+the governor, 1 of whom shall be a representative of the building trades, 1 of whom shall be
+a general contractor, 1 of whom shall be a licensed architect with expertise in using low
+embodied carbon materials of construction, 1 of whom shall be a structural engineer who
+shall be a licensed professional engineer with expertise in using low-embodied carbon
+materials of construction, and 1 of whom shall be the executive director of a regional
+planning agency. The council shall not be a public body as defined in section 18 of chapter
+30A; provided, however, that the council shall hold a public meeting not less than quarterly
+while the council is developing the plan pursuant to subsection (f).
+(c) The council shall prepare an embodied carbon reduction plan, which shall
+include, but shall not be limited to, strategies to measure, monitor and reduce embodied
+carbon. The plan shall: (i) with respect to major building and transportation projects of
+executive offices, departments, divisions, centers, agencies and authorities of state and
+municipal governments, include, but not be limited to, steps to encourage and, where
+appropriate, recommend requiring: (a) environmental product declarations for
+construction materials commonly used in such projects; and (b) the use of low-embodied
+carbon materials, with particular attention to cement and concrete mixtures, steel, glass,
+71
+
+asphalt and asphalt mixtures and wood, in such projects; (ii) review progress in research,
+development and commercialization of low-embodied carbon technologies and materials
+in the government, private and nonprofit sectors within and outside of the commonwealth;
+(iii) make recommendations for establishing a process to set, on or before January 1, 2026,
+maximum global warming potential values for products likely to be used in such building
+and transportation projects including, but not limited to, cement and concrete mixtures,
+steel, glass, asphalt and asphalt mixtures and wood; (iv) develop recommended
+procedures for the use of: (a) EPDs in state government contracting and procurement; and
+(b) low-embodied carbon materials in the commonwealth, where available and at
+reasonable cost, including conditions under which waivers may be obtained; (v) examine
+current laws, regulations, policies and guidelines that affect the use of EPDs and low-
+embodied carbon materials in the private and nonprofit sectors and recommend laws,
+regulations, policies or guidelines to increase the use of EPDs and low-embodied carbon
+materials; and (vi) consider interactions between embodied carbon and operational
+carbon to ensure policy recommendations to reduce embodied carbon will also contribute
+to the reduction of operational carbon. The council shall consider: (i) the best approaches
+to integrate the reduction of embodied carbon into the state building code, including the
+stretch and specialized stretch energy code pursuant to section 96 of chapter 143 and the
+state building code; and (ii) best practices to incentivize and enhance the reuse of building
+materials and decrease building demolition.
+(d) The council shall meet regularly and seek data, input and advice related to EPDs
+and low-embodied carbon materials from stakeholders, which shall include, but not be
+limited to, companies, contractors and subcontractors involved in construction,
+architecture, engineering, design and procurement and organizations and associations of
+such companies, contractors and subcontractors, academic and nonprofit institutions
+with relevant missions and activities, labor organizations involved in construction and
+transportation, organizations focused on environmental, energy and climate policy and
+perspectives and groups representing consumers, including, but not limited to, low
+72
+
+income consumers. The council shall hold not less than 3 public hearings in geographically
+diverse areas of the commonwealth prior to finalizing the plan.
+(e) The division and the executive office of energy and environmental affairs shall
+provide administrative support to the council.
+(f) The council shall update the plan and submit the updated plan and a progress
+report at least every 2 years to the senate and house committees on ways and means, the
+joint committee on state administration and regulatory oversight and the joint committee
+on telecommunications, utilities and energy and shall cause the plan and the report to be
+publicly available on the website of each cabinet official, executive office, department,
+division, center, agency and authority represented on the council.
+73
+
+Appendix B – DCAMM Embodied Carbon in Construction Decision &
+Impact Matrix, Illustrative Draft
+74
+
+Project Stage Key Who Makes Impact on Beneficial Tools to
+Decisions or Embodied Choices Influence
+Influences Carbon Decision
+Decision
+Capital projects Avoid Policies and
+Does the Agency
+all involve unnecessary standards to
+functional need Leaders,
+embodied capital project guide planning
+require a DCAMM
+carbon decisions
+capital project? Planners
+emissions
+Initial Project
+Scale of project Policies that
+Discussion
+Agency directly relates standardize
+What size Leaders, to level of and formalize
+Minimize SF of
+facility is DCAMM emissions goals of
+project area
+required? Planners, maximizing
+Designer space
+efficiency
+Agency Reuse and
+Policies and
+Option Renovate/reuse Leaders, renovation
+Maximize reuse standards to
+Development & existing facility DCAMM avoids
+options guide planning
+Evaluation or build new? Planners, embodied
+decisions
+Designer carbon
+Carbon budget
+Ensures that limits can be Policies,
+Establish
+carbon phased in to standards, or
+project-scale
+DCAMM, emissions align with requirements
+life cycle
+Designer inform project policy in statute,
+carbon budget
+design objectives and executive
+or limit
+decisions practical order, or codes
+considerations
+Policies that
+Scoping of
+Agency standardize
+Recommended Scale of project
+Define size of Leaders, and formalize
+Solution directly relates Minimize SF of
+facility or work DCAMM goals of
+to level of project area
+area Planners, maximizing
+emissions
+Designer space
+efficiency
+Agency Reuse and
+Policies and
+Consider reuse Leaders, renovation
+Maximize reuse standards to
+of existing DCAMM avoids
+options guide planning
+facilities Planners, embodied
+decisions
+Designer carbon
+75
+
+Project Stage Key Who Makes Impact on Beneficial Tools to
+Decisions or Embodied Choices Influence
+Influences Carbon Decision
+Decision
+Design life Increasing
+impacts timing of design life
+Policies and
+significant spike in delays future
+Define design DCAMM, standards to
+embodied carbon embodied
+life of facility Designer guide planning
+emissions from carbon
+and design
+replacement emissions
+peaks
+Select lower
+Scoping of
+GWP solutions
+Recommended Structural
+that use
+Solution (cont.) materials tend to
+renewable and
+have among the
+What carbon Policies and
+highest GWP
+structural DCAMM, absorptive standards to
+among
+system will be Designer materials; guide planning
+construction
+used? reduce and design
+materials and
+volumes of
+options vary
+structural
+considerably
+materials
+overall
+Revise
+standard
+agency
+specifications
+to eliminate
+Material volume, unnecessary
+Design Policies and
+Minimize particularly for requirements
+Development & standards to
+necessary DCAMM, high GWP that trigger
+Construction guide design
+material Designer materials, directly excess
+Document decisions and
+volume impacts embodied material use;
+Preparation specifications
+carbon emissions incorporate
+project-
+specific design
+choices to
+lower material
+use
+76
+
+Project Key Who Impact on Beneficial Tools to
+Stage Decisions Makes or Embodied Choices Influence
+Influences Carbon Decision
+Decision
+Establish and
+phase in targets to
+Material content lower maximum
+Policies,
+can influence carbon emissions
+standards, or
+Specify low carbon from materials
+requirements
+GWP DCAMM, emissions for with high GWP
+in statute,
+materials, incl. Designer high-GWP content (including
+executive
+concrete materials like concrete and
+order, or
+concrete and steel); incorporate
+codes
+steel lower GWP targets
+into project
+specifications
+Design and Design
+detail for specifications for
+deconstruction construction
+Design for
+& salvage assemblies,
+disassembly
+connection
+including the use Policies and
+mechanisms,
+of removable standards to
+DCAMM, and details can
+fastening systems; guide design
+Design Designer influence the
+avoid unnecessary decisions and
+Development ease and viability
+adhesives and specifications
+& of material
+hazardous
+Construction salvage for reuse
+materials
+Document when the facility
+Preparation reaches end of
+(cont.) life
+Designs can
+incorporate
+salvaged material
+content, both as Maximizing
+reused specification of
+assembled reused materials Policies and
+materials and by and material standards to
+Specify reuse DCAMM,
+requiring post- feedstocks avoids guide design
+of materials Designer
+consumer embodied carbon decisions and
+recycled content from material specifications
+in new materials extraction and
+(including manufacture.
+backfills,
+insulation
+materials, etc.)
+Specify low-
+DCAMM,
+carbon
+Designer
+concrete
+77
+
+Project Stage Key Who Impact on Beneficial Tools to
+Decisions Makes or Embodied Choices Influence
+Influences Carbon Decision
+Decision
+Particularly for Awarding
+high-GWP authority can
+materials like establish
+concrete and standard
+steel, different specification for
+suppliers GWP limits in
+Specifying and Prime
+employ material content
+selection of Contractor, Policies and
+different and production
+subcontractors Statutory standards to
+sourcing of methods;
+Contractor with capability Bidding guide project
+component Designers can
+Selection/Bidding to deliver low Process specifications
+materials and establish similar
+GWP materials, (Filed Sub- and
+different limits in project
+particularly bid trades), requirements
+manufacturing specifications;
+concrete Designer,
+processes that prime contractor
+subs/plants DCAMM
+require can choose
+different levels suppliers and
+of carbon non-filed sub-
+emissions trade
+subcontractors
+to minimize GWP
+Contractors
+and suppliers
+submit
+material
+selections to
+designer for
+Designer should
+review and
+Review of ensure
+approval for Policies and
+materials compliance by
+Prime compliance standards to
+submittals for rejecting
+Construction Contractor, with agency guide design
+compliance submittals that
+Designer and project- decisions and
+with don't meet
+specific specifications
+specifications specified
+specifications
+requirements
+(including
+those designed
+to lower GWP)
+before
+procuring and
+installing
+78
+
+Project Key Who Impact on Beneficial Tools to
+Stage Decisions Makes or Embodied Choices Influence
+Influences Carbon Decision
+Decision
+Particularly for Awarding authority
+high-GWP can establish
+materials like standard
+concrete and specification for
+steel, different material sourcing
+suppliers relative to carbon
+Specifying and Policies and
+employ emissions;
+sourcing of standards to
+Prime different Designers can
+materials guide project
+Contractor, sourcing of establish similar
+relative to specifications
+Designer component limits in project
+GWP in and
+materials and specifications;
+fabrication requirements
+different prime contractor
+manufacturing can choose
+processes that suppliers and non-
+require different filed sub-trade
+levels of carbon subcontractors to
+emissions minimize GWP
+Construction
+Awarding authority
+(Cont.)
+Particularly for can establish
+materials that standard
+are heavy or specification for
+otherwise GWP limits in
+difficult to material content
+transport, and production
+Specifying and Policies and
+transportation methods; Designers
+sourcing of standards to
+Prime distance can establish
+materials guide project
+Contractor, between source similar limits in
+relative to specifications
+Designer locations and project
+transportation and
+construction specifications;
+distances requirements
+sites can prime contractor
+significantly can choose
+impact suppliers to
+embodied minimize GWP (and
+carbon cost) associated
+emissions with materials
+transportation
+Facility
+Operation &
+Maintenance
+79
+
+Project Stage Key Who Impact on Beneficial Tools to
+Decisions Makes or Embodied Choices Influence
+Influences Carbon Decision
+Decision
+Decision about Renovation and
+future of the reuse of any
+facility once surplus
+original user no facilities, by the
+longer needs it Commonwealth Policies and
+Agency can result in or by others standards to
+Renovate/reuse
+End of Life Leaders, varying levels of following guide
+or demolish
+DCAMM avoided disposition, can planning
+embodied avoid embodied decisions
+carbon carbon if this is
+emissions from done in lieu of
+future projects. new
+construction.
+Maximizing
+deconstruction
+If removal of the and salvage of
+facility proves materials for
+warranted, the reuse in their
+level of current form or
+Policies and
+deconstruction as feedstock for
+If not reused, standards to
+and material fabrication of
+Deconstruction deconstruction DCAMM guide design
+salvage can new materials
+vs. demolition decisions and
+impact can eliminate
+specifications
+embodied embodied
+carbon carbon
+emissions associated with
+avoidance. the production
+and use of new
+materials.
+80
+
+Appendix C – Material Category Definitions
+All Materials:
+• System Boundary: LCA stages A1 – A3
+Concrete
+• Industry Average EPD source: NRMCA regional average (e.g., Eastern Region or
+appropriate national baseline)
+• Includes ready-mix, self-consolidating concrete, lightweight concrete
+• Industry-average values used for BPA calculation
+Structural Steel
+• EPD source: AISC national average
+• BOF/EAF weighted average
+• Includes shapes, plate, hot-rolled members
+Steel Reinforcement
+• EPD source: Concrete Reinforcing Steel Institute (CRSI) or mill-specific averages
+• EAF-based rebar production
+Appendix D – Material Quantity (MQ) Reporting Schema
+D.1 Purpose and Principles
+This Appendix defines a simple, standardized schema for reporting Material Quantities
+(MQ) at project closeout. The schema is designed to:
+• Minimize reporting burden for contractors;
+• Align with how materials are commonly procured and tracked;
+• Be compatible with the GWP threshold framework; and
+• Support basic benchmarking by material type and use.
+Contractors shall submit MQ data where each row represents a unique combination of:
+• Project,
+• Material category, and
+81
+
+• Subcategory fields (e.g., strength class, shape type, element type).
+All quantities must reflect actual materials procured and installed.
+D.2 Common Fields (All Materials)
+All MQ submissions should use the following core fields:
+Field Name Description Example
+Project_ID Unique project identifier DCAMM-2029-001
+(assigned by agency)
+Agency Contracting Agency MassDOT
+Contract_ID Prime contract identifier 781234
+Material_Category One of: Concrete, Precast Concrete
+Concrete, Structural Steel,
+Steel Reinforcement,
+Timber, Asphalt Mixtures
+Subcategory_1 Material-specific field (see 4 ksi
+D.3)
+Subcategory_2 Material-specific field (see Superstructure
+D.3)
+Quantity Total quantity for this 1,250
+category combination
+Unit Native unit for the material Cubic Yards
+(see D.3)
+Notes (optional) Optional clarifying Includes podum levels 2-4
+information
+Additional optional fields (e.g., supplier name, EPD_ID) may be added by agencies but are
+not required under this schema.
+D.3 Material-Specific Schema
+D.3.1 Concrete (Cast-in-Place)
+Goal: Keep concrete organized by strength class and broad location in the structure.
+• Material_Category: Concrete
+• Subcategory_1 (Strength Class):
+• Report as a labeled strength “bucket”: e.g., 3 ksi, 4 ksi, 5 ksi, 6 ksi, >6 ksi
+• Subcategory_2 (Location):
+• One of: Foundation, Substructure, Superstructure, Sitework
+• Unit: cubic yards (preferred) or cubic meters (if metric is used consistently on the
+project)
+82
+
+Project_ID Material_Category Subcategory_1 Subcategory_2 Quantity Unit
+DCAMM- Concrete 4 ksi Foundation 900 Cubic
+2029-001 yards
+DCAMM- Concrete 5 ksi Superstructure 1,250 Cubic
+2029-001 yards
+D.3.2 Precast Concrete
+Goal: Group precast by element type, not by mix design.
+• Material_Category: Precast Concrete
+• Subcategory_1 (Element Type):
+• Examples: Double Tee, Beam, Column, Wall Panel, Spandrel, Barrier
+• Subcategory_2 (Location/Use):
+• Optional but recommended: Building, Bridge, Barrier, Other
+• Unit: cubic yards (volume) or tons (mass), depending on how the precast is tracked.
+Choose one and apply consistently per project.
+Example row:
+Project_ID Material_Category Subcategory_1 Subcategory_2 Quantity Unit
+MassDOT- Precast Concrete Barrier Bridge 120 Tons
+2030-015
+D.3.3 Structural Steel
+Goal: Keep it very simple: by shape family.
+• Material_Category: Structural Steel
+• Subcategory_1 (Shape Family):
+• One of: W-Shape, HSS, Channel/Angle, Plate, Other Rolled Shapes
+• Subcategory_2:
+• Optional (e.g., Building, Bridge, Tower), or left blank
+• Unit: tons
+Example row:
+Project_ID Material_Category Subcategory_1 Subcategory_2 Quantity Unit
+DCAMM- Structural Steel W-Shape Building 450 tons
+2029-001
+DCAMM- Structural Steel HSS Building 75 tons
+2029-001
+MassDOT- Structural Steel Plate Bridge 60 tons
+2030-015
+83
+
+D.3.4 Steel Reinforcement (Rebar)
+Goal: Organize by bar size (and optionally coating type), since that is how quantities are
+typically tracked.
+• Material_Category: Steel Reinforcement
+• Subcategory_1 (Bar Size):
+• e.g., #4, #5, #6, #8, #10, Mesh
+• Subcategory_2 (Coating Type):
+• e.g., Black, Epoxy-Coated, Galvanized, Stainless
+• Unit: tons
+Example row:
+Project_ID Material_Category Subcategory_1 Subcategory_2 Quantity Unit
+MassDOT- Steel #5 Epoxy-Coated 85 tons
+2030-015 Reinforcement
+D.3.6 Asphalt Mixtures
+Goal: Keep this as simple as possible: asphalt is just asphalt, with an optional layer type.
+• Material_Category: Asphalt Mixtures
+• Subcategory_1 (Layer Type) – Optional:
+• e.g., Surface, Base/Binder, Other
+• If agencies prefer, this field can be left blank and all asphalt reported in aggregate.
+• Subcategory_2:
+• Optional; may be left blank
+• Unit:
+• Preferred: tons (mass) or square yards with assumed thickness defined separately
+Example row:
+Project_ID Material_Category Subcategory_1 Subcategory_2 Quantity Unit
+MassDOT- Asphalt Mixtures Surface 6,400 tons
+2030-015
+84
+
+Appendix E – Future Target ρ-Values for 2035 and 2050
+The 2035 and 2050 ρ-values establish the long-term decarbonization trajectory for
+construction materials used in Massachusetts. These future targets are intentionally set at
+levels that reflect both the technical potential of the materials industries and the time
+required for large-scale supply-chain transformation. The 2035 values represent a
+significant but achievable reduction—generally in the range of 25–35% below today’s
+industry-average GWP—for materials such as concrete, precast concrete, structural steel,
+reinforcing steel, and asphalt mixtures. These values align with published decarbonization
+roadmaps from the cement, steel, and asphalt industries, which anticipate substantial
+emissions reductions by the early-to-mid 2030s through improved manufacturing
+efficiency, lower-carbon raw materials, increased supplementary cementitious materials,
+electrification, improved mix design, and expanded use of recycled content.
+The 2050 ρ-values represent deep physical decarbonization consistent with global and
+national “net-zero” pathways. These values are intentionally set at levels reflecting
+substantial reductions in process emissions and supply-chain impacts—typically 50 to 70
+percent below today’s baseline for most materials. The 2050 targets do not require zero
+GWP in the materials themselves but instead represent the EC performance expected from
+fully decarbonized material production systems.
+By defining intermediate targets for 2035 and long-term targets for 2050, Massachusetts
+provides suppliers, designers, and public agencies with the necessary planning horizon to
+modernize manufacturing processes, update specifications, transition procurement
+practices, and scale the technologies required for deep decarbonization. These targets
+also prevent backloading all emissions reductions into the final years of the transition and
+instead promote consistent, achievable progress across the full 2028–2050 period.
+Material Construction 2028 (Initial) 2035 2050 (Long-
+Category Type (Intermediate Term Target)
+Target)
+Asphalt Infrastructure / 1.15 0.95 0.50
+Mixtures Horizontal
+Concrete Buildings / 0.95 0.75 0.30
+Vertical
+Infrastructure / 1.15 0.95 0.50
+Horizontal
+85
+
+Steel Buildings + 0.95 0.80 0.35
+Reinforcement Infrastructure
+Structural Steel Buildings + 0.95 0.80 0.35
+Infrastructure
+Table 7: Example Future Maximum Allowable GWP Multipliers (ρ-Values) for 2035 and 2050
+Notes:
+• 2035 ρ-values represent a 25–35% reduction relative to today’s industry-
+average GWP.
+These values align with published decarbonization pathways for concrete, steel,
+and asphalt mixtures, which project substantial emissions reductions by the early
+2030s through increased SCM use, improved plant efficiency, lower-carbon fuels,
+higher recycled content, and early adoption of carbon capture and clean energy.
+• 2050 ρ-values represent deep physical decarbonization of material supply
+chains.
+These values reflect the expected performance of near-zero concrete, lower-carbon
+steelmaking (EAF with renewable electricity and green hydrogen), and advanced
+asphalt technologies. While residual emissions may remain in 2050, the physical
+GWP performance of materials is expected to fall by 50–70% relative to today.
+• 2050 targets do not require literal zero GWP in the materials themselves.
+Instead, they define the EC performance level that decarbonized material systems
+are expected to achieve by 2050. True net-zero outcomes will likely involve a
+combination of low-carbon production, carbon capture, alternative binders,
+renewable energy, and limited offsetting or carbon removal.
+Appendix F – Required Scope for WBLCA
+Unless otherwise specified, WBLCA analysis on projects subject to requirements should
+include, at a minimum, above and below-grade structure and enclosure and should
+assume a 60-year service life. Projects should report total embodied carbon (kgCO2e)
+and normalized per gross floor area in units of embodied carbon intensity (ECI).
+The analysis should at a minimum cover the following lifecycle phases:
+Phase Analysis scope Data required
+Before use
+86
+
+A1–3 Production stage Included Project-specific
+inventory
+A4 Transport Included Project-specific
+inventory or proxy
+values
+A5 Construction Included Project-specific
+inventory or proxy
+values
+During use
+B1 Use of products Optional Proxy values
+B2 Maintenance Optional Proxy values
+B3–4 Repairs and B3 Repairs Optional; B4 Proxy values
+replacements Replacement included
+B5 Refurbishment Optional Proxy values
+B6 Operational energy use Not included (separate
+analysis)
+After use
+C1 Demolition work Optional Proxy values
+C2 Transport Included Proxy values
+C3 Waste processing Included Proxy values
+C4 Disposal Included Proxy values
+87

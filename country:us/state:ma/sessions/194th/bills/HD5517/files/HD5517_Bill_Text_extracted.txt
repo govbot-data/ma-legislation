@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+EXECUTIVE OFFICE OF HEALTH AND HUMAN SERVICES
+COMMONWEALTH OF MASSACHUSETTS
+OFFICE OF MEDICAID
+ONE ASHBURTON PLACE, BOSTON, MA 02108
+MAURA T. HEALEY KIAME MAHANIAH, MD, MBA
+GOVERNOR SECRETARY
+KIMBERLEY DRISCOLL MIKE LEVINE
+LIEUTENANT GOVERNOR UNDERSECRETARY
+FOR MASSHEALTH
+December 22, 2025
+Chair, Michael J. Rodrigues Chair, Aaron Michlewitz
+Senate Committee on Ways and Means House Committee on Ways and Means
+State House, Room 212 State House, Room 243
+Boston, MA 02133 Boston, MA 02133
+Dear Chairs Rodrigues and Michlewitz,
+Line item 4000-0300 of Chapter 140 of the Acts of 2024 requires the Executive Office of Health
+and Human Services to submit a report to the House and Senate Committees on Ways and Means
+outlining the agency’s methodology for projecting caseload and utilization. To comply with this
+requirement, we describe below the methodology that has been employed for fiscal year 2025.
+MassHealth enrollment expanded dramatically from 2013 to 2015. During the 2014 launch of the
+Affordable Care Act, the Commonwealth's Health Insurance Exchange ("HIX") – the eligibility
+system serving both MassHealth and the Massachusetts Health Connector - failed, resulting in
+our inability to determine eligibility for most applicants to MassHealth. Temporary MassHealth
+eligibility was granted to all applicants in the period following this failure and enrollment surged
+to over 2 million members in December 2014. Since this time, MassHealth implemented a
+functioning HIX system and resumed annual redeterminations on all members. MassHealth has
+also implemented a series of eligibility integrity initiatives, including reducing HIX functionality
+defects, implementing new automated data matches with the Department of Revenue and other
+sources, and enforcing mandatory premium assistance for adults when other insurance (e.g.,
+employer health insurance) is available and cost-effective.
+In March 2020, MassHealth suspended eligibility redeterminations and began protecting
+members’ coverage, in response to the federal COVID-19 public health emergency and in
+accordance with federal maintenance of effort (MOE) requirements. MassHealth restarted the
+process of redeterminations in May 2021 but has been protecting members’ coverage if they are
+determined ineligible. As a result of the MOE, MassHealth membership grew by 650,000
+members from March 2020 to the peak of 2.4 million members in spring 2023. Regular
+
+redetermination processes started again in April 2023 in accordance with federal requirements.
+Since full MOE redeterminations resumed, MassHealth’s primary priority has been to right-size
+the caseload while ensuring individuals are in the appropriate coverage and minimizing
+administrative eligibility “churn” that results in health care coverage loss. MassHealth’s
+redetermination process occurred over a year-long period and concluded in May 2024. As of
+May 2024, MassHealth’s caseload was approximately 2.1 million members. MassHealth’s
+caseload remains at approximately 2.1 million members as of December 2024.
+Caseload Forecast Methodology
+In early 2013, MassHealth worked with Alan Clayton-Matthews, a professor at Northeastern
+University, to review our existing caseload forecasting methodology and to advise whether
+improved methodology was possible. Professor Clayton-Matthews tested two methodologies
+against the existing methodology (see attachment A for technical details of these models and the
+testing process) by feeding data from June 2006 to July 2009 into the models, using the models
+to forecast the caseload from July 2009 to June 2011, and comparing these forecasts to actual
+enrollment over the same period. Professor Clayton-Matthews found that both models presented
+a lower error rate than the existing methodology and recommended a switch. Based on these
+findings, MassHealth worked with Professor Clayton-Matthews to implement a new
+methodology, which is described below.
+The caseload forecast begins with historical snapshots of enrollment data. An enrollment
+snapshot is a report of member eligibility at the time/date the report is run. The eligibility data in
+a snapshot is broken down by month and population group (there are over 100 population groups
+which are broken down using program type, managed care status, and demographic factors).
+Some examples of these groups are “PCC (Primary Care Clinician) Non-Disabled Children”,
+“SCO (Senior Care Organization) Institutional”, and “Standard Non-Disabled Children-Premium
+Assistance.” A new enrollment snapshot is produced each month, adding the most recent
+month’s data and updating previous months to account for any enrollment changes. As an
+example, the snapshot produced in December 2023 contains data through November 30, 2023.
+Similarly, the snapshot produced in January 2024 will contain data through December 31, 2023.
+We use the snapshots to capture the pattern of enrollment for each population group over time
+and calculate completion factors. Completion factors are multipliers that address the issue of
+variance in eligibility data based on the effects of redeterminations, retroactive eligibility
+determinations, application verification eligibility appeals, and member movement among aid
+categories. See Step 1 of Attachment C for technical details about the completion process.
+Once completion factors have been applied, we begin our statistical analysis using STATA,
+which is a data analysis and statistical software package. This program uses statistical
+calculations (see page 2 of Attachment A) to find the trend level and builds a trend line off the
+most recent month of enrollment data, extending through the next fiscal year, for each population
+group. Next, we adjust for impacts that cannot be captured by the historical trends alone and
+confirm forecast is consistent with long-term trends reported by CHIA. Finally, we sum all
+population groups to project the overall MassHealth caseload.
+2
+
+Implementation of this methodology was completed in mid-2013, and we intend to return to
+using this methodology once the MOE redetermination period concludes. However, due to the
+unprecedented experience during the MOE period (March 2020 – April 2023), we could not rely
+on recent historical trends to inform FY25 caseload projections. For FY25, we developed
+projections based on the number of members going through redeterminations each month and
+assumed closure rates for different demographic groups. We also considered counts of members
+becoming newly eligible for MassHealth (i.e., no history of enrollment for 12+ months) and
+assumed reopening rates for different demographic groups (i.e., members re-enrolling within 12
+months of being disenrolled). We used a similar methodology to forecast caseload in FY24.
+Utilization and Price Methodology
+For MassHealth’s managed care capitation programs, MassHealth is mandated to develop
+actuarially sound capitation rates. MassHealth contracts with Mercer, a health care consulting
+firm, for this purpose. Mercer uses historical utilization and cost data from MassHealth and
+trends it forward into the current rate year. Mercer also makes various additional price and
+utilization adjustments (for example, an adjustment for the cost of new drug therapies coming to
+market). MassHealth then applies these rates to enrollment projections for each program to
+estimate total managed care spend for the fiscal year.
+MassHealth contracts with the Center for Health Information and Analysis (CHIA) for its Fee-
+for-Service rate-setting activities. These rates are developed using historical utilization and cost
+data. MassHealth uses historical spending and enrollment data to calculate historical utilization
+patterns for each provider type and population group. MassHealth then projects future utilization
+by applying a best fit trend line using the method of least squares. Additional adjustments are
+then incorporated to capture the impacts of rate, policy, and regulatory changes. This projected
+utilization is combined with our caseload forecast to project total spend for the fiscal year.
+I hope you find this report useful and informative. If you have any questions, please feel free to
+contact Sarah Nordberg at Sarah.Nordberg@mass.gov.
+Sincerely,
+Mike Levine
+cc: Kiame Mahaniah, MD, MBA
+3

@@ -1,0 +1,1913 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q4 2024
+Plymouth County
+Sheriff's Office
+Page 1 of 26
+
+Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40:
+Recording and reporting of data on population of jails and houses of correction
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to a
+jail or house of correction: (i) probation central file number; (ii) fingerprint-based state identification
+number, if available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi)
+type of admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time; (x)
+program participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount or
+reason if no bail set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a quarterly
+report with the reported data covering the entire quarterly period. The reports prepared by the sheriff shall
+contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary of
+public safety and security, the house and senate chairs of the joint committee on the judiciary, the house
+and senate chairs of the joint committee on public safety and homeland security and the clerks of the
+house of representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by utilizing
+data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions & Disclaimer:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the
+Massachusetts Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint
+identification assigned to an individual by the Department of State Police through the Automated Fingerprint Identification
+System (AFIS). The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links the
+individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Disclaimer: The SID, PCF, and OBTN are generated during an individual’s first interaction with the criminal justice
+system. There is often a lag time before the FBI can produce these numbers and they are not immediately available
+during intake. Officers manually add this information once it is received, but some SIDs, PCFs, and OBTNs may not be
+included in this report due to when the data was extracted.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are unable
+to populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these metrics so
+that they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 2245078 MA09426157 JPHC1J2403134 White Hispanic/Latino 10/1/24
+Plymouth 2989869 MA10274226 JPHC1J2403135 Black/African American Not Hispanic/Latino 10/1/24
+Plymouth 5389055 JPHC1J2301789 Black/African American Not Hispanic/Latino 10/1/24
+Plymouth 2271593 MA21255153 JPHC1J2403129 White Not Hispanic/Latino 10/1/24
+Plymouth 5639313 MA21273146 JPHC0T2403128 White Not Hispanic/Latino 10/1/24
+Plymouth 3113878 MA10508486 JPHC1J2403154 Black/African American Not Hispanic/Latino 10/2/24
+Plymouth 3118031 MA21134544 JPHC1J2403150 White Not Hispanic/Latino 10/2/24
+Plymouth 5532433 MA21229088 JPHC1J2403143 White Hispanic/Latino 10/2/24
+Plymouth 2809753 MA10130264 JPHC3J2403149 Other/Unknown Not Hispanic/Latino 10/2/24
+Plymouth 3067246 MA21042824 JPHC1J2403156 White Not Hispanic/Latino 10/2/24 2.5 270 64
+Plymouth 1938539 MA21040791 JPHC1J2403062 White Not Hispanic/Latino 10/3/24
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino 10/3/24 59 43
+Plymouth 5503525 MA21266860 JPHC0T2403172 White Not Hispanic/Latino 10/4/24
+Plymouth 5553370 MA21279853 JPHC0T2403166 White Not Hispanic/Latino 10/4/24
+Plymouth 5562381 MA21272043 JPHC1J2403174 Black/African American Not Hispanic/Latino 10/4/24 2.5 100 26
+Plymouth 3083013 MA10566809 White Not Hispanic/Latino 10/4/24 15 283
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino 10/4/24 20 545 155
+Plymouth 2747809 MA10368591 White Hispanic/Latino 10/4/24 22.5 540 238
+Plymouth 5285940 MA21295028 JPHC1J2403164 White Not Hispanic/Latino 10/4/24
+Plymouth 2845498 MA10341747 JPHC0T2403171 White Hispanic/Latino 10/4/24
+Plymouth 1988389 MA09806562 JPHC1J2403177 White Not Hispanic/Latino 10/5/24
+Plymouth 5525646 MA21148219 JPHC1J2403179 Black/African American Unavailable 10/5/24
+Plymouth 5562960 MA21214816 JPHC1J2403178 White Not Hispanic/Latino 10/5/24
+Plymouth 839983 MA10021399 JPHC1J2403183 Black/African American Not Hispanic/Latino 10/6/24
+Plymouth 2438112 MA09806483 JPHC2J2403189 White Hispanic/Latino 10/7/24
+Plymouth 5235407 MA10621923 JPHC2J2403192 White Not Hispanic/Latino 10/7/24
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino 10/7/24
+Plymouth 3157681 MA10558232 White Not Hispanic/Latino 10/7/24 20 733 44
+Plymouth 5352722 MA21060163 JPHC1J2403204 Black/African American Not Hispanic/Latino 10/7/24
+Plymouth 2870064 MA10523985 JPHC0T2403205 White Not Hispanic/Latino 10/7/24
+Plymouth 5441558 MA21290120 JPHC1J2403191 Black/African American Unavailable 10/7/24
+Plymouth 5523602 MA21184894 JPHC0S2403210 White Not Hispanic/Latino 10/8/24 20 180 63
+Plymouth 1847430 MA09801215 JPHC1J2401899 White Hispanic/Latino 10/8/24
+Plymouth 3101402 MA10418120 JPHC2J2403208 White Hispanic/Latino 10/8/24 2.5 180 30
+Plymouth 5577720 MA21242055 JPHC1J2403223 Black/African American Not Hispanic/Latino 10/9/24
+Plymouth 5634170 MA21295429 JPHC1J2403225 Black/African American Unavailable 10/9/24
+Plymouth 5106425 MA10573013 JPHC1J2403228 White Not Hispanic/Latino 10/9/24
+Plymouth 2759378 MA10349496 JPHC1J2300143 Black/African American Not Hispanic/Latino 10/9/24 270 105
+Plymouth 3148450 MA10493082 JPHC2J2403226 Other/Unknown Not Hispanic/Latino 10/9/24 180 108
+Plymouth 2531480 MA09906490 JPHC0T2403237 White Not Hispanic/Latino 10/9/24
+Plymouth 2526579 MA10020703 JPHC1J2403221 White Not Hispanic/Latino 10/9/24
+Plymouth 2708563 MA10099265 JPHC1J2403222 Other/Unknown Not Hispanic/Latino 10/9/24 5 96
+Plymouth 5502040 MA21261802 JPHC1J2403247 Black/African American Not Hispanic/Latino 10/10/24
+Plymouth MA21292633 JPHC1J2403248 White Not Hispanic/Latino 10/10/24
+Plymouth 5505979 Black/African American Not Hispanic/Latino 10/10/24 22.5 300 71
+Plymouth 5446882 MA21128407 JPHC1J2403246 Black/African American Not Hispanic/Latino 10/10/24
+Plymouth 2182138 MA09457135 JPHC2J2403252 White Not Hispanic/Latino 10/11/24
+Plymouth 5583756 MA21295491 JPHC1J2403255 White Not Hispanic/Latino 10/11/24
+Plymouth 5279899 MA21001556 Black/African American Not Hispanic/Latino 10/15/24 2.5 960 113
+Plymouth 5281432 MA21173963 JPHC1J2403287 White Hispanic/Latino 10/15/24 2.5 763 157
+Plymouth MA21194505 HPHC1H2403267 Asian/Pacific Islander Not Hispanic/Latino 10/15/24 30 1461 44
+Plymouth 2473978 MA10313775 JPHC0S2403266 Black/African American Not Hispanic/Latino 10/15/24 20 365 42
+Plymouth 3101415 MA10416389 JPHC1J2403279 Black/African American Not Hispanic/Latino 10/15/24
+Plymouth 2159041 MA10159468 JPHC1J2403275 White Not Hispanic/Latino 10/15/24
+Plymouth MA21246723 HPHC1H2403268 White Unavailable 10/15/24 35 1461 552
+Plymouth 5569806 MA21219579 JPHC1J2403278 Black/African American Not Hispanic/Latino 10/15/24
+Plymouth 1765756 MA09762928 JPHC1J2403294 White Not Hispanic/Latino 10/16/24 2.5 541 67
+Plymouth 5394877 MA21268922 JPHCOT403289 White Not Hispanic/Latino 10/16/24
+Plymouth MA09614103 JPHC2J2403309 Black/African American Not Hispanic/Latino 10/17/24
+Plymouth MA21214615 JPHC1J2403305 White Not Hispanic/Latino 10/17/24
+Plymouth 2805905 White Not Hispanic/Latino 10/18/24 22.5 180 22
+Plymouth 1938265 MA10099514 JPHC2J2403311 White Not Hispanic/Latino 10/18/24
+Plymouth 1832548 MA10629426 JPHC0T2403312 White Not Hispanic/Latino 10/18/24
+Plymouth 2620741 MA10461089 JPHC2J2403321 White Not Hispanic/Latino 10/19/24
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino 10/20/24 365 82
+Plymouth 3174903 MA21296124 JPHC2J2403326 Black/African American Not Hispanic/Latino 10/20/24
+Page 3 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino 10/20/24
+Plymouth 5414432 MA21101551 JPHC1J2403342 White Not Hispanic/Latino 10/21/24
+Plymouth 854767 MA00613527 JPHC1J2302578 Black/African American Not Hispanic/Latino 10/21/24
+Plymouth 2709889 MA10074451 JPHC1J2403331 White Not Hispanic/Latino 10/21/24
+Plymouth 535652 MA00911451 JPHC1J2400155 Black/African American Not Hispanic/Latino 10/21/24
+Plymouth 2761606 MA10530759 JPHC1J2403332 White Unavailable 10/21/24
+Plymouth 5264917 MA21181764 JPHC1J2302944 White Not Hispanic/Latino 10/21/24
+Plymouth 656318 MA10138226 JPHC1J2400772 White Not Hispanic/Latino 10/21/24
+Plymouth 5307363 White Hispanic/Latino 10/22/24
+Plymouth 5378585 JPHC0T2403377 Black/African American Not Hispanic/Latino 10/23/24
+Plymouth 5653591 MA21285287 JPHC0T2403365 Other/Unknown Unavailable 10/23/24
+Plymouth 3123550 MA10444027 JPHC1J2403362 Other/Unknown Not Hispanic/Latino 10/23/24 2.5 90 64
+Plymouth 645486 MA00668007 JPHC0T2403364 White Not Hispanic/Latino 10/23/24
+Plymouth 5648902 MA21281618 JPHC0T2403370 White Not Hispanic/Latino 10/23/24
+Plymouth 2147794 White Not Hispanic/Latino 10/23/24 10 910 217
+Plymouth 5513110 MA21225857 JPHC1J2403358 Black/African American Not Hispanic/Latino 10/23/24
+Plymouth 5226128 MA10617430 JPHC1T2403366 Black/African American Not Hispanic/Latino 10/23/24
+Plymouth 2561820 MA10067226 JPHC1J2403376 White Not Hispanic/Latino 10/23/24
+Plymouth MA21242241 HPHC2H2403361 White Hispanic/Latino 10/23/24 32.5 1462 602
+Plymouth 3025584 MA21296300 JPHC1J2403359 White Not Hispanic/Latino 10/23/24
+Plymouth 5492736 MA21160381 JPHC0S2403371 White Not Hispanic/Latino 10/23/24 2.5 365 96
+Plymouth 2191874 MA09723515 JPHC2J2403381 White Unavailable 10/24/24
+Plymouth 5668380 MA21296455 JPHC2J2403388 White Not Hispanic/Latino 10/24/24
+Plymouth MA10170360 JPHC2J2403382 Black/African American Not Hispanic/Latino 10/24/24
+Plymouth 5515321 MA21202281 White Not Hispanic/Latino 10/25/24
+Plymouth 5476139 MA21151403 JPHC0T2403403 Other/Unknown Not Hispanic/Latino 10/25/24
+Plymouth 1559053 MA09121586 JPHC1J2403404 Black/African American Not Hispanic/Latino 10/25/24
+Plymouth MA21004342 JPHC1J2403394 White Not Hispanic/Latino 10/25/24
+Plymouth 5187606 MA10568343 JPHC2J2403406 White Hispanic/Latino 10/26/24
+Plymouth 5668684 MA21296561 JPHC1J2403405 White Not Hispanic/Latino 10/26/24
+Plymouth 5630789 White Hispanic/Latino 10/28/24 540 14
+Plymouth 5646386 MA21279642 Black/African American Not Hispanic/Latino 10/28/24
+Plymouth MA10244855 JPHC1J2403413 Other/Unknown Not Hispanic/Latino 10/28/24
+Plymouth 5593622 MA21236838 HPHC1H2403421 White Hispanic/Latino 10/29/24 540
+Plymouth 5291854 MA21013049 JPHC1J2403420 White Not Hispanic/Latino 10/29/24
+Plymouth 1029017 MA00953691 JPHC1J2403422 Black/African American Not Hispanic/Latino 10/29/24
+Plymouth 5094483 MA10535089 JPHC1J2403434 Black/African American Not Hispanic/Latino 10/29/24
+Plymouth 5572366 MA21229151 JPHC0T2403424 White Not Hispanic/Latino 10/29/24
+Plymouth 5050993 MA10501722 JPHC1J2403423 White Not Hispanic/Latino 10/29/24
+Plymouth 5457576 MA21144905 JPHC0T2403432 Black/African American Not Hispanic/Latino 10/29/24
+Plymouth 5372232 MA21088240 White Unavailable 10/30/24
+Plymouth 2301068 MA10018446 JPHC1J2403437 White Not Hispanic/Latino 10/30/24
+Plymouth 2853905 MA10167143 JPHC1J2403438 White Hispanic/Latino 10/30/24
+Plymouth 3136009 MA21018162 White Hispanic/Latino 10/31/24
+Plymouth 2745706 MA10170372 JPHC1J2403453 White Not Hispanic/Latino 10/31/24
+Plymouth 5072617 MA10455604 JPHC0T2403454 White Hispanic/Latino 10/31/24
+Plymouth 2711971 MA10443961 JPHC0T2403466 White Not Hispanic/Latino 10/31/24
+Plymouth 3208568 White Not Hispanic/Latino 11/1/24 20 365 1
+Plymouth MA21070485 JPHC1J2403474 White Not Hispanic/Latino 11/1/24
+Plymouth 407512 MA00716994 JPHC1J2403493 White Not Hispanic/Latino 11/3/24
+Plymouth 5591074 MA21235127 JPHC1J2403496 Black/African American Not Hispanic/Latino 11/4/24
+Plymouth 1780257 MA09418407 JPHC3J2401944 White Not Hispanic/Latino 11/4/24
+Plymouth 5631974 MA21216034 JPHC2J2403499 Black/African American Not Hispanic/Latino 11/4/24
+Plymouth 2297428 MA09743150 JPHC1J2403500 White Hispanic/Latino 11/4/24
+Plymouth 5381022 MA21256781 JPHC1J2403498 White Hispanic/Latino 11/4/24
+Plymouth 2889978 MA10368417 JPHC1J2401195 Other/Unknown Not Hispanic/Latino 11/5/24
+Plymouth 5583159 MA21229325 HPHC1H2403505 White Not Hispanic/Latino 11/5/24 57 365
+Plymouth 2988996 MA10263775 HPHC1H2403508 Other/Unknown Not Hispanic/Latino 11/5/24 25.5 180
+Plymouth 2353518 MA10106723 JPHC2J2403504 White Not Hispanic/Latino 11/5/24
+Plymouth 2909964 MA10198446 HPHC1H2403506 White Not Hispanic/Latino 11/5/24 114.5 910 239
+Plymouth 5669727 MA21297376 JPHC1J2403512 White Unavailable 11/5/24
+Plymouth 5636897 MA21270798 JPHC1J2403509 Black/African American Not Hispanic/Latino 11/5/24
+Plymouth 5568641 MA21283241 HPHC1H2403507 Other/Unknown Unavailable 11/5/24 4.5 120 36
+Plymouth 3082081 MA10494966 Black/African American Not Hispanic/Latino 11/6/24
+Plymouth 3219044 MA21037757 JPHC0T2403520 Black/African American Not Hispanic/Latino 11/6/24
+Plymouth 2082726 MA21288052 JPHC1J2403527 White Not Hispanic/Latino 11/6/24
+Page 4 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 2744517 MA10071073 JPHC1J2403525 Other/Unknown Not Hispanic/Latino 11/6/24
+Plymouth 5553616 MA21240715 JPHC2J2403530 White Hispanic/Latino 11/7/24
+Plymouth 2933439 MA10211656 JPHC2J2403535 White Not Hispanic/Latino 11/7/24
+Plymouth 5590752 MA21209303 JPHC1J2403531 Black/African American Not Hispanic/Latino 11/7/24
+Plymouth 2454818 MA10302960 JPHC0T2403534 White Not Hispanic/Latino 11/7/24
+Plymouth 903708 MA00847169 White Not Hispanic/Latino 11/7/24 2.5 180 16
+Plymouth 647938 MA00863418 JPHC0S2403532 Black/African American Not Hispanic/Latino 11/7/24 2.5 365 141
+Plymouth 2579530 MA10041564 JPHC1J2403529 Other/Unknown Not Hispanic/Latino 11/7/24
+Plymouth 5349665 MA21129666 JPHC1J2403539 Black/African American Not Hispanic/Latino 11/8/24
+Plymouth 2197019 MA10028135 JPHC1J2403541 White Not Hispanic/Latino 11/8/24
+Plymouth 2980343 MA10286655 Black/African American Not Hispanic/Latino 11/8/24 566 89
+Plymouth 5598210 MA21275178 JPHC1J2403542 White Not Hispanic/Latino 11/8/24
+Plymouth 1635470 MA21277268 JPHC2J2403544 White Not Hispanic/Latino 11/8/24
+Plymouth 2004104 MA09308556 JPHC1J2403553 Black/African American Not Hispanic/Latino 11/10/24 12.5 180 39
+Plymouth 5670179 MA21297800 JPHC2J2403555 White Hispanic/Latino 11/11/24
+Plymouth 5662411 MA21292031 JPHC1J2403576 Black/African American Not Hispanic/Latino 11/12/24
+Plymouth 5310063 MA21283592 JPHC1J2403575 White Not Hispanic/Latino 11/12/24
+Plymouth 5061528 MA10598299 JPHC1J2403577 White Not Hispanic/Latino 11/12/24
+Plymouth 2304982 MA09605979 JPC0T2403578 White Not Hispanic/Latino 11/12/24
+Plymouth 996436 MA09119393 JPHC1J2300963 Black/African American Not Hispanic/Latino 11/12/24
+Plymouth 5579798 MA21227009 JPHC1J2403581 White Not Hispanic/Latino 11/13/24
+Plymouth 2843406 MA10257339 JPHC1J2403584 Other/Unknown Not Hispanic/Latino 11/13/24 540 48
+Plymouth 3087289 MA10644058 HPHC1H2403585 White Not Hispanic/Latino 11/13/24 2.5 180 157
+Plymouth 5640683 MA21297978 JPHC1J2403583 Asian/Pacific Islander Not Hispanic/Latino 11/13/24
+Plymouth 410323 MA21050360 JPHC0T2403589 White Not Hispanic/Latino 11/13/24
+Plymouth 5541089 MA21198773 White Not Hispanic/Latino 11/14/24
+Plymouth 2882282 MA10173122 JPHC1J2403597 Other/Unknown Not Hispanic/Latino 11/14/24
+Plymouth 5592255 MA21251434 JPHC1J2403604 Black/African American Not Hispanic/Latino 11/14/24
+Plymouth 5429630 MA21204155 JPHC0S2403606 Black/African American Not Hispanic/Latino 11/15/24 14 270 41
+Plymouth 2654544 White Not Hispanic/Latino 11/15/24 2.5 545 107
+Plymouth 2792075 MA10418453 JPHC0T2403614 White Not Hispanic/Latino 11/16/24
+Plymouth 776176 MA00992357 JPHC1J2403619 White Hispanic/Latino 11/17/24 2.5 59 28
+Plymouth 2956778 MA10410400 JPHC1J2403625 Black/African American Not Hispanic/Latino 11/18/24
+Plymouth 2692729 MA10054728 JPHC0T2403624 White Not Hispanic/Latino 11/18/24
+Plymouth 5173182 MA10552826 JPHC1J2403634 White Not Hispanic/Latino 11/19/24
+Plymouth MA09929292 HPHC1H2403632 White Hispanic/Latino 11/19/24 550 39
+Plymouth MA10140606 HPHC1H2403633 White Hispanic/Latino 11/19/24 2.5 2011 519
+Plymouth 2707490 MA10095699 JPHC1J2403640 White Not Hispanic/Latino 11/20/24
+Plymouth 3154236 MA21135642 JPHC1J2403641 White Not Hispanic/Latino 11/20/24
+Plymouth 2375533 MA21298447 JPHC1J2403654 White Unavailable 11/20/24
+Plymouth 854767 MA00613527 Black/African American Not Hispanic/Latino 11/21/24
+Plymouth 2709889 MA10074451 White Not Hispanic/Latino 11/21/24
+Plymouth 3217707 MA21029864 JPHC1J2403673 Black/African American Not Hispanic/Latino 11/22/24
+Plymouth 2159041 MA10159468 JPHC0T2403675 White Not Hispanic/Latino 11/22/24
+Plymouth 5413072 MA21100624 JPHC1J2403677 Black/African American Not Hispanic/Latino 11/22/24
+Plymouth 5433695 MA21118640 JPHC1J2403676 White Not Hispanic/Latino 11/22/24
+Plymouth 5661149 MA21291052 JPHC1J2403674 Black/African American Not Hispanic/Latino 11/22/24
+Plymouth 3159379 MA21039422 JPHC1J2300884 Black/African American Not Hispanic/Latino 11/22/24
+Plymouth 2096779 MA10237956 JPHC1J2403679 White Not Hispanic/Latino 11/22/24
+Plymouth 5595304 MA21238642 JPHC1J2403678 White Hispanic/Latino 11/22/24
+Plymouth 5426833 MA21037692 JPHC2J2403698 Black/African American Not Hispanic/Latino 11/24/24
+Plymouth 3,101,104 Other/Unknown Not Hispanic/Latino 11/24/24
+Plymouth 3195515 MA10625905 JPHC2J2402382 White Not Hispanic/Latino 11/25/24
+Plymouth 2078622 MA00937595 JPHC1J2403754 Other/Unknown Not Hispanic/Latino 11/25/24
+Plymouth 2797393 MA10346284 JPHC1J2403753 White Unavailable 11/25/24
+Plymouth 5542203 MA21179343 JPHC1J2403755 Black/African American Not Hispanic/Latino 11/25/24
+Plymouth 622926 MA08901676 JPHC1J2403730 White Not Hispanic/Latino 11/25/24
+Plymouth 5387507 JPHC0T2403764 Black/African American Not Hispanic/Latino 11/26/24
+Plymouth 2213080 MA09900003 White Not Hispanic/Latino 11/26/24 2.5 180 32
+Plymouth 2442505 MA10203430 JPHC1J2403776 Black/African American Not Hispanic/Latino 11/26/24
+Plymouth 5220900 MA21063719 JPHC1J2403766 White Not Hispanic/Latino 11/26/24
+Plymouth 5640444 MA21283422 JPHC0T2403763 Black/African American Unavailable 11/26/24
+Plymouth 2838322 JPHC0T2403765 White Not Hispanic/Latino 11/26/24
+Plymouth 5514025 MA21231147 JPHC1J2403761 Black/African American Not Hispanic/Latino 11/26/24
+Plymouth 2925690 MA10545865 HPHC2H2403767 White Not Hispanic/Latino 11/26/24 10 730 66
+Plymouth 5659220 MA21298895 JPHC1J2403777 White Hispanic/Latino 11/26/24
+Page 5 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 1971101 Black/African American Not Hispanic/Latino 11/27/24
+Plymouth 5415033 MA21101832 White Not Hispanic/Latino 11/27/24 545 125
+Plymouth 2799639 MA10125766 JPHC2J2403781 White Not Hispanic/Latino 11/28/24
+Plymouth 3148593 MA10533800 JPHC1J2403783 White Not Hispanic/Latino 11/29/24
+Plymouth 3204603 MA21184178 JPHC1J2403784 White Not Hispanic/Latino 11/29/24
+Plymouth 2432327 MA10266306 JPHC1J2403782 Black/African American Not Hispanic/Latino 11/29/24
+Plymouth 1648596 MA09200150 JPHC2J2403793 White Not Hispanic/Latino 12/1/24
+Plymouth MA21299202 JPHC2J2403792 White Not Hispanic/Latino 12/1/24
+Plymouth 5401295 MA21097369 JPHC1J2403794 White Hispanic/Latino 12/1/24
+Plymouth 2755375 MA10089395 JPHC1J2403798 Black/African American Not Hispanic/Latino 12/2/24
+Plymouth 389502 MA00604628 White Not Hispanic/Latino 12/2/24
+Plymouth 1767851 MA09316117 JPHC1J2403799 White Not Hispanic/Latino 12/2/24
+Plymouth 935102 MA21223198 JPHC1J2403817 White Not Hispanic/Latino 12/3/24
+Plymouth 2829987 MA10267434 Black/African American Not Hispanic/Latino 12/3/24
+Plymouth 5585348 MA21253737 JPHC1J2403814 White Not Hispanic/Latino 12/3/24
+Plymouth 5672192 MA21299379 JPHC1J2403820 White Not Hispanic/Latino 12/3/24
+Plymouth 5321899 MA21063261 JPHC1J2403819 White Not Hispanic/Latino 12/3/24
+Plymouth 2859256 MA10259782 JPHC1J2403818 White Not Hispanic/Latino 12/3/24
+Plymouth 2746314 MA10131493 White Not Hispanic/Latino 12/4/24 320 108
+Plymouth 2646280 MA10173919 Black/African American Not Hispanic/Latino 12/4/24
+Plymouth 2365992 MA10139387 Black/African American Not Hispanic/Latino 12/4/24
+Plymouth 5600597 MA21299444 JPHC1J2403830 Black/African American Unavailable 12/4/24 10 540 8
+Plymouth 2324550 MA10054311 White Not Hispanic/Latino 12/5/24 540 85
+Plymouth 1999973 MA10206242 White Not Hispanic/Latino 12/5/24
+Plymouth 5219396 MA10602285 JPHC1J2403853 Black/African American Not Hispanic/Latino 12/5/24
+Plymouth 2253925 MA09808952 JPHC1J2403849 White Not Hispanic/Latino 12/5/24 150 4
+Plymouth 5545271 MA10609747 JPHC1J2403852 White Not Hispanic/Latino 12/5/24 90 33
+Plymouth 2910010 White Not Hispanic/Latino 12/5/24
+Plymouth MA10052717 JPHC0T2403857 White Not Hispanic/Latino 12/6/24
+Plymouth 5233695 MA10620222 JPHC1J2403856 Other/Unknown Not Hispanic/Latino 12/6/24
+Plymouth 2490441 MA10617419 JPHC1J2403913 White Not Hispanic/Latino 12/9/24
+Plymouth 2623269 MA10131837 White Hispanic/Latino 12/9/24
+Plymouth 5172429 MA10632035 Black/African American Not Hispanic/Latino 12/9/24 180 32
+Plymouth 5267924 MA10656875 JPHC1J2403923 Black/African American Not Hispanic/Latino 12/10/24
+Plymouth 2243810 MA10081115 JPHC1J2403925 White Unavailable 12/10/24
+Plymouth 3183453 MA10577107 White Not Hispanic/Latino 12/10/24 2.5 787 113
+Plymouth 5494173 MA21161708 Black/African American Not Hispanic/Latino 12/10/24 2.5 196 31
+Plymouth 5016977 MA10379469 JPHC1J2403937 Black/African American Not Hispanic/Latino 12/11/24
+Plymouth 3177645 MA21227321 HPHC1H2403938 White Hispanic/Latino 12/11/24 2.5 910 125
+Plymouth 5358553 MA21097648 HPHC1H2403939 Black/African American Not Hispanic/Latino 12/11/24 2.5 382 121
+Plymouth 5528923 MA21175699 HPHC1H2403955 Black/African American Not Hispanic/Latino 12/12/24 2.5 180 107
+Plymouth 2531229 MA09900668 HPHC1H2403954 White Not Hispanic/Latino 12/12/24 2.5 60 43
+Plymouth 5623622 MA21260153 JPHC1J2403965 Black/African American Not Hispanic/Latino 12/12/24
+Plymouth 59337 MA10377483 JPHC1J2403960 White Hispanic/Latino 12/12/24
+Plymouth 5640978 MA21274828 JPHC1J2403961 White Not Hispanic/Latino 12/12/24
+Plymouth 3001132 MA10427507 JPHC1J2403951 White Not Hispanic/Latino 12/12/24
+Plymouth 5234416 MA10621043 HPHC1H2403953 White Not Hispanic/Latino 12/12/24 2.5 365 1
+Plymouth 5575250 MA21264537 JPHC2J2403963 Black/African American Not Hispanic/Latino 12/12/24
+Plymouth 5664234 MA21300113 JPHC2J2403966 Black/African American Not Hispanic/Latino 12/12/24
+Plymouth 5640981 MA21274829 JPHC2J2403962 Black/African American Not Hispanic/Latino 12/12/24
+Plymouth 2769159 MA10102466 JPHC2J2403956 White Not Hispanic/Latino 12/12/24
+Plymouth 5645806 MA21279159 JPHC1J2403964 Black/African American Not Hispanic/Latino 12/12/24
+Plymouth 5568641 Other/Unknown Unavailable 12/13/24
+Plymouth 5632712 JPHC0T2403980 Black/African American Not Hispanic/Latino 12/13/24
+Plymouth 3209959 MA21006315 JPHC2J2403972 Other/Unknown Not Hispanic/Latino 12/13/24
+Plymouth 5673313 MA21300156 JPHC1J2403986 White Hispanic/Latino 12/14/24
+Plymouth 5673274 MA21300132 JPHC1J2403984 Black/African American Not Hispanic/Latino 12/14/24
+Plymouth 5371194 MA21072416 JPHC1J2404012 Black/African American Not Hispanic/Latino 12/15/24
+Plymouth 2332624 MA10207823 White Not Hispanic/Latino 12/16/24 270 88
+Plymouth 3172457 MA21008525 JPHC2J2404025 White Not Hispanic/Latino 12/16/24
+Plymouth 2938015 MA10214359 JPHC1J2404020 White Hispanic/Latino 12/16/24
+Plymouth 1113299 MA09002632 JPHC1J2404019 Black/African American Not Hispanic/Latino 12/16/24
+Plymouth 5262440 JPHC0T2404027 Black/African American Not Hispanic/Latino 12/16/24
+Plymouth 5415253 MA21101803 Other/Unknown Not Hispanic/Latino 12/16/24
+Plymouth 572606 MA10167945 JPHC2J2404031 White Unavailable 12/17/24
+Plymouth 1756868 MA21030723 JPHC0T2404030 White Not Hispanic/Latino 12/17/24
+Page 6 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 382351 MA00806527 JPHC1J2404029 White Not Hispanic/Latino 12/17/24
+Plymouth 2643402 MA10192010 JPHC2J2404041 White Not Hispanic/Latino 12/18/24
+Plymouth 3192323 White Hispanic/Latino 12/18/24
+Plymouth 3051927 MA10624955 JPHC1J2404044 Black/African American Not Hispanic/Latino 12/18/24
+Plymouth 647938 MA00863418 JPCH0S2404039 Black/African American Not Hispanic/Latino 12/18/24 2.5 365 141
+Plymouth 5501087 MA21165206 HPHC1H2404061 Black/African American Not Hispanic/Latino 12/19/24 2.5 60
+Plymouth 5483277 MA21296529 JPHC1J2404063 White Not Hispanic/Latino 12/19/24
+Plymouth MA21263932 JPHC2J2404060 White Hispanic/Latino 12/19/24
+Plymouth MA21216897 JPHC1J2404062 White Not Hispanic/Latino 12/19/24
+Plymouth 2271548 MA09622826 JPHC1J2404072 White Not Hispanic/Latino 12/20/24
+Plymouth 2431999 MA09905449 JPHC0T240471 White Not Hispanic/Latino 12/20/24
+Plymouth 2832474 MA10236415 JPHC1J2404076 Black/African American Not Hispanic/Latino 12/20/24
+Plymouth 5274164 MA21048190 JPHC1J2404080 White Not Hispanic/Latino 12/21/24 17
+Plymouth 2092937 MA21300663 JPHC1J2404079 Black/African American Not Hispanic/Latino 12/21/24
+Plymouth 3166740 MA10647137 JPHC2J2404078 White Hispanic/Latino 12/21/24
+Plymouth 5379768 MA21262683 JPHC1J2404085 White Not Hispanic/Latino 12/22/24
+Plymouth 5606951 MA21247543 JPHC1J2404092 White Not Hispanic/Latino 12/23/24
+Plymouth 2476235 MA10030625 JPHC1J2404094 White Hispanic/Latino 12/23/24 1821 45
+Plymouth 5133617 JPHC072404093 Black/African American Not Hispanic/Latino 12/23/24
+Plymouth 2650048 W116337 Black/African American Not Hispanic/Latino 12/23/24
+Plymouth 5338835 MA21055906 JPHC1J2404091 White Unavailable 12/23/24
+Plymouth 3200091 MA21002779 White Not Hispanic/Latino 12/23/24 180 135
+Plymouth 5097552 MA10468057 JPHC1J2404088 White Not Hispanic/Latino 12/23/24 90 30
+Plymouth 513273 MA00942699 JPHC1J2404103 White Not Hispanic/Latino 12/24/24
+Plymouth 405422 MA09441903 JPHC1J2302488 White Not Hispanic/Latino 12/24/24
+Plymouth 2717173 MA21281132 JPHC0T2404104 White Not Hispanic/Latino 12/24/24
+Plymouth 3173545 MA21039109 JPHC1J2404105 White Hispanic/Latino 12/25/24
+Plymouth 5497753 MA21193050 JPHC2J2404113 White Not Hispanic/Latino 12/26/24
+Plymouth MA21301007 JPHC1J2404110 White Not Hispanic/Latino 12/26/24
+Plymouth 33880248 MA21291085 White Hispanic/Latino 12/26/24
+Plymouth 3043449 MA10637332 JPHC1J2404111 White Not Hispanic/Latino 12/26/24
+Plymouth 5639313 MA21273146 JPHC0T2404109 White Not Hispanic/Latino 12/26/24
+Plymouth 3120765 MA10463167 JPHC1J2404112 White Not Hispanic/Latino 12/26/24
+Plymouth 5169676 MA10548874 JPHC1J2404133 Black/African American Unavailable 12/27/24
+Plymouth 5007221 MA10342180 JPHC1J2404130 Black/African American Not Hispanic/Latino 12/27/24
+Plymouth 5024587 MA10518145 JPHC0T2404138 White Not Hispanic/Latino 12/28/24
+Plymouth 2679142 MA10592337 White Not Hispanic/Latino 12/28/24 270 121
+Plymouth 5358420 MA21064144 JPHC1J2404134 Black/African American Not Hispanic/Latino 12/28/24
+Plymouth 5398060 MA21090660 JPHC1J2404137 White Not Hispanic/Latino 12/28/24
+Plymouth 5669169 MA21296955 JPHC2J2404141 Black/African American Not Hispanic/Latino 12/29/24
+Plymouth 5653149 MA21284879 JPHC1J2404157 White Not Hispanic/Latino 12/30/24
+Plymouth MA21227887 JPHC2J2404155 Black/African American Unavailable 12/30/24
+Plymouth 3168673 MA10543440 Black/African American Not Hispanic/Latino 12/30/24 910 205
+Plymouth 5262440 Black/African American Not Hispanic/Latino 12/30/24 2.5 61 30
+Plymouth 2072037 MA10039941 JPHC1J2404145 White Not Hispanic/Latino 12/30/24
+Plymouth 3117725 MA21042164 JPHC0T2404153 White Not Hispanic/Latino 12/30/24
+Plymouth 3118173 MA10541962 JPHC1J2404156 Black/African American Not Hispanic/Latino 12/30/24
+Plymouth 2090658 MA00959491 JPHC1J2404162 White Not Hispanic/Latino 12/31/24
+Plymouth 1757848 MA10361001 JPHC1J2404163 White Not Hispanic/Latino 12/31/24
+Plymouth 350149 MA00932502 JPHC2J2404161 White Not Hispanic/Latino 12/31/24
+Plymouth 5470595 JPHC0T2402492 Black/African American Not Hispanic/Latino 10/1/24
+Plymouth 5640978 MA21274828 JPHC1J2402879 White Not Hispanic/Latino 10/1/24
+Plymouth 2634853 MA10069494 JPHC2J2302207 White Not Hispanic/Latino 10/2/24 770 31
+Plymouth 5572366 MA21229151 JPHC1J2403020 White Not Hispanic/Latino 10/2/24
+Plymouth 5460774 MA21136936 JPHC1J2301391 Black/African American Not Hispanic/Latino 10/2/24
+Plymouth 3109210 MA10501030 JPHC2J2402894 White Not Hispanic/Latino 10/2/24
+Plymouth 2980343 MA10286655 JPHC1J2402857 Black/African American Not Hispanic/Latino 10/2/24
+Plymouth 5465250 MA21140399 JPHC1J2302301 White Hispanic/Latino 10/2/24
+Plymouth 389551 MA00967751 JPHC1J2402942 White Not Hispanic/Latino 10/3/24
+Plymouth 2913367 MA21135130 JPHC0T1905372 White Not Hispanic/Latino 10/3/24
+Plymouth 1766559 MA10282206 JPHC1J2400621 White Not Hispanic/Latino 10/3/24 724 332
+Plymouth 5516626 MA21217290 JPHC1J2301189 White Not Hispanic/Latino 10/3/24
+Plymouth 2742404 MA10166680 JPHC1J2202173 White Not Hispanic/Latino 10/3/24 910 160
+Plymouth 1093961 MA09763379 JPHC1J2402469 White Not Hispanic/Latino 10/3/24
+Plymouth 2888364 MA10592057 JPHC0T2402744 White Hispanic/Latino 10/4/24
+Plymouth 2445508 MA10325685 JPHC1J2403077 White Not Hispanic/Latino 10/4/24
+Page 7 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 2004104 JPHC1J2401018 Black/African American Not Hispanic/Latino 10/4/24
+Plymouth 2708563 JPHC0S2400188 Other/Unknown Not Hispanic/Latino 10/4/24 577 171
+Plymouth 5072578 MA10434855 JPHC1J2402847 Black/African American Not Hispanic/Latino 10/4/24
+Plymouth 3006073 MA10464439 JPHC3J2402800 White Not Hispanic/Latino 10/4/24
+Plymouth 2959692 MA10432486 JPHC1J2201515 Black/African American Unavailable 10/4/24
+Plymouth 2369125 MA10231816 JPHC1J2402143 Black/African American Not Hispanic/Latino 10/7/24
+Plymouth 5123770 MA10496033 JPHC1J2401387 Black/African American Not Hispanic/Latino 10/7/24 90 54
+Plymouth 645486 MA00668007 JPHC1J2403121 White Not Hispanic/Latino 10/7/24
+Plymouth 2851332 MA10282247 JPHC1J2302547 White Not Hispanic/Latino 10/7/24
+Plymouth 5196754 JPHC2J2302628 White Not Hispanic/Latino 10/7/24
+Plymouth 2392703 MA09843652 JPHC1J2402034 White Not Hispanic/Latino 10/8/24
+Plymouth 2870064 MA10523985 JPHC0T2403205 White Not Hispanic/Latino 10/8/24
+Plymouth 5440590 MA21170646 JPHC1J2301024 White Not Hispanic/Latino 10/8/24
+Plymouth 5285940 MA21295028 JPHC1J2403164 White Not Hispanic/Latino 10/8/24
+Plymouth 5302572 MA21021613 JPHC1J2403023 White Not Hispanic/Latino 10/8/24
+Plymouth 2365992 MA10139387 JPHC1J2400111 Black/African American Not Hispanic/Latino 10/8/24
+Plymouth 5574141 MA21222889 JPHC1J2201028 Black/African American Not Hispanic/Latino 10/8/24 540 366
+Plymouth 2454818 JPHC0T1903015 White Not Hispanic/Latino 10/8/24
+Plymouth 2809753 MA10130264 JPHC3J2403149 Other/Unknown Not Hispanic/Latino 10/8/24
+Plymouth 2961433 MA10269621 JPHC1J2402306 White Not Hispanic/Latino 10/8/24
+Plymouth 5461329 MA21137749 JPHC1J2302722 Black/African American Not Hispanic/Latino 10/8/24
+Plymouth 647938 MA00863418 JPHC1J2303405 Black/African American Not Hispanic/Latino 10/9/24 365 141
+Plymouth 5654248 MA21285774 JPHC1J2401775 Black/African American Not Hispanic/Latino 10/9/24
+Plymouth 1050942 MA00968659 JPH0T2402844 Black/African American Not Hispanic/Latino 10/9/24
+Plymouth 3113878 MA10508486 JPHC1J2403154 Black/African American Not Hispanic/Latino 10/9/24
+Plymouth 5651770 MA21283941 JPHC2J2401639 White Not Hispanic/Latino 10/10/24
+Plymouth 2318163 MA10005628 JPHC1J2403065 White Not Hispanic/Latino 10/10/24
+Plymouth 5634170 MA21295429 JPHC1J2403225 Black/African American Unavailable 10/10/24
+Plymouth 5594286 MA21291762 JPHC1J2402611 White Not Hispanic/Latino 10/11/24 60 16
+Plymouth 2636499 MA10215597 JPHC0T2402837 Black/African American Not Hispanic/Latino 10/11/24
+Plymouth 2717575 MA10096895 JPHC1J2403120 Black/African American Not Hispanic/Latino 10/11/24
+Plymouth 2120421 MA09815806 JPHC1J2402603 Other/Unknown Not Hispanic/Latino 10/11/24 60 23
+Plymouth 2208646 JPHC0T2403101 White Not Hispanic/Latino 10/11/24
+Plymouth MA21292633 JPHC1J2403248 White Not Hispanic/Latino 10/12/24
+Plymouth 1072724 MA09115382 JPHC0S2402625 White Not Hispanic/Latino 10/15/24 60 23
+Plymouth 5022820 MA10384568 JPHC0J2402114 White Not Hispanic/Latino 10/15/24 4 150 27
+Plymouth 5403319 MA21094184 HPHC2H2401877 Black/African American Not Hispanic/Latino 10/15/24 3 180 29
+Plymouth 2449654 JPHC1J2402795 White Not Hispanic/Latino 10/15/24
+Plymouth 2970158 MA10238613 JPHC1J2402608 Other/Unknown Not Hispanic/Latino 10/15/24
+Plymouth 2473978 MA10313775 JPHC1J2400473 Black/African American Not Hispanic/Latino 10/15/24 540 277
+Plymouth 2480513 MA09918857 JPHC1J2301963 White Not Hispanic/Latino 10/15/24
+Plymouth 3101739 JPHC2J2401747 White Not Hispanic/Latino 10/15/24
+Plymouth 5033754 MA10434684 JPH0S2402448 White Not Hispanic/Latino 10/16/24 10 180 73
+Plymouth 5639313 MA21273146 JPHC0T2403128 White Not Hispanic/Latino 10/16/24
+Plymouth 5394877 MA21268922 JPHCOT403289 White Not Hispanic/Latino 10/16/24
+Plymouth MA09901498 JPHC1J2402966 White Not Hispanic/Latino 10/16/24 2.5 59 42
+Plymouth 1780257 MA09418407 JPHC3J2401944 White Not Hispanic/Latino 10/17/24
+Plymouth 5566162 MA21227887 JPHC1J2403080 Black/African American Unavailable 10/17/24
+Plymouth 3178688 MA10570646 JPHC1J2403082 Black/African American Not Hispanic/Latino 10/20/24
+Plymouth 5553448 MA21228700 JPHC1J2302996 White Not Hispanic/Latino 10/21/24 540 126
+Plymouth 2159041 MA10159468 JPHC1J2403275 White Not Hispanic/Latino 10/21/24
+Plymouth 3099809 MA21092498 HPHC2H2401147 White Hispanic/Latino 10/21/24 15 1827 533
+Plymouth 2438112 MA09806483 JPHC2J2403189 White Hispanic/Latino 10/22/24
+Plymouth 5589522 MA21233889 JPHC3J2401471 Black/African American Not Hispanic/Latino 10/22/24
+Plymouth 656318 MA10138226 JPHC1J2400772 White Not Hispanic/Latino 10/22/24
+Plymouth 1037510 MA09114143 JPHC2J2403052 White Not Hispanic/Latino 10/22/24
+Plymouth 3174903 MA21296124 JPHC2J2403326 Black/African American Not Hispanic/Latino 10/22/24
+Plymouth 3142844 MA10492967 JPHC0T2402692 Black/African American Not Hispanic/Latino 10/22/24
+Plymouth 2850768 MA10414929 HPHC2H2401814 White Not Hispanic/Latino 10/23/24 10 911 175
+Plymouth 2951435 MA10517478 JPHC1J2400292 Black/African American Not Hispanic/Latino 10/23/24
+Plymouth 5457403 MA21288136 JPHC2J2402084 White Hispanic/Latino 10/24/24
+Plymouth 5502040 MA21261802 JPHC1J2403247 Black/African American Not Hispanic/Latino 10/24/24
+Plymouth 2271593 MA21255153 JPHC1J2403129 White Not Hispanic/Latino 10/24/24
+Plymouth 839983 MA10021399 JPHC1J2403183 Black/African American Not Hispanic/Latino 10/24/24
+Plymouth 5653591 MA21285287 JPHC0T2403365 Other/Unknown Unavailable 10/24/24
+Plymouth 5541089 MA21198773 JPHC0T2402925 White Not Hispanic/Latino 10/24/24
+Page 8 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 5226128 MA10617430 JPHC1T2403366 Black/African American Not Hispanic/Latino 10/24/24
+Plymouth 5640027 MA21283454 JPHC1J2401444 Black/African American Not Hispanic/Latino 10/25/24 180 104
+Plymouth MA21004342 JPHC1J2403394 White Not Hispanic/Latino 10/25/24
+Plymouth 5025464 JPHC0T2402496 White Not Hispanic/Latino 10/25/24
+Plymouth 5140143 MA10515531 JPHC2J2402787 Black/African American Not Hispanic/Latino 10/25/24
+Plymouth 3128359 MA10618288 JPHC1J2402045 Other/Unknown Not Hispanic/Latino 10/25/24
+Plymouth 2620741 MA10461089 JPHC2J2403321 White Not Hispanic/Latino 10/28/24
+Plymouth 5389055 JPHC1J2301789 Black/African American Not Hispanic/Latino 10/28/24
+Plymouth 2595788 MA10022680 JPHC1J2401721 Black/African American Not Hispanic/Latino 10/28/24
+Plymouth 5562960 MA21214816 JPHC1J2403178 White Not Hispanic/Latino 10/28/24
+Plymouth 5589354 MA21233876 JPHC1J2301081 Black/African American Not Hispanic/Latino 10/28/24 540 256
+Plymouth 2972122 MA21066100 JPHC1J2402585 White Not Hispanic/Latino 10/29/24
+Plymouth MA10244855 JPHC1J2403413 Other/Unknown Not Hispanic/Latino 10/29/24
+Plymouth 776176 MA00992357 JPHC0T2403042 White Hispanic/Latino 10/29/24
+Plymouth 5594754 MA21257771 JPHC1J2402419 White Not Hispanic/Latino 10/29/24
+Plymouth 5354891 JPHC1J2301212 White Not Hispanic/Latino 10/29/24
+Plymouth 5532433 MA21229088 JPHC1J2403143 White Hispanic/Latino 10/29/24
+Plymouth 5372232 MA21088240 JPHC0S2401707 White Unavailable 10/30/24 10 180 80
+Plymouth 2728627 MA10090853 HPHC1H2202852 White Not Hispanic/Latino 10/30/24 10 910
+Plymouth MA10170360 JPHC2J2403382 Black/African American Not Hispanic/Latino 10/30/24
+Plymouth 5050993 MA10501722 JPHC1J2403423 White Not Hispanic/Latino 10/30/24
+Plymouth 5546460 MA21200030 HPHC1H2402755 White Hispanic/Latino 10/30/24 1450 176
+Plymouth MA10548994 JPHC1J2402735 Black/African American Not Hispanic/Latino 10/30/24
+Plymouth 2233291 MA10311620 JPHC1J2402959 White Unavailable 10/30/24
+Plymouth 5503525 MA21266860 JPHC0T2403172 White Not Hispanic/Latino 10/31/24
+Plymouth MA09813124 JPHC1J2403010 White Unavailable 10/31/24
+Plymouth 2761606 MA10530759 JPHC1J2403332 White Unavailable 10/31/24
+Plymouth 5072617 MA10455604 JPHC1J2402472 White Hispanic/Latino 10/31/24 2.5 90 58
+Plymouth 2245078 MA09426157 JPHC1J2403134 White Hispanic/Latino 10/31/24
+Plymouth 2791753 JPHC0T2401209 Other/Unknown Not Hispanic/Latino 10/31/24
+Plymouth 2583916 MA10203958 JPHC1J2402946 Other/Unknown Not Hispanic/Latino 10/31/24
+Plymouth 1850067 JPHC0T2402727 Black/African American Not Hispanic/Latino 10/31/24
+Plymouth 3025584 MA21296300 JPHC1J2403359 White Not Hispanic/Latino 10/31/24
+Plymouth 2699740 JPHC0S2402802 White Not Hispanic/Latino 11/1/24 10 90 25
+Plymouth 2711971 MA10443961 JPHC0T2403466 White Not Hispanic/Latino 11/1/24
+Plymouth 3103256 MA10528447 JPHC1J2401663 Black/African American Not Hispanic/Latino 11/1/24
+Plymouth 2191874 MA09723515 JPHC2J2403381 White Unavailable 11/1/24
+Plymouth 1832548 MA10629426 JPHC0T2403312 White Not Hispanic/Latino 11/1/24
+Plymouth 1763054 JPHC0T2402717 White Not Hispanic/Latino 11/1/24
+Plymouth 2059625 MA00977067 JPHC1J2401287 White Unavailable 11/1/24 10 365 35
+Plymouth 5668684 MA21296561 JPHC1J2403405 White Not Hispanic/Latino 11/1/24
+Plymouth MA21070485 JPHC1J2403474 White Not Hispanic/Latino 11/4/24
+Plymouth 5513110 MA21225857 JPHC1J2403358 Black/African American Not Hispanic/Latino 11/4/24
+Plymouth 2670440 MA10108238 JPHC0T2402742 White Not Hispanic/Latino 11/4/24
+Plymouth 2294797 MA21294070 JPHC1J2403002 White Not Hispanic/Latino 11/4/24 10 60
+Plymouth 3077893 MA10374770 JPHC1J2301321 White Not Hispanic/Latino 11/4/24 10 665 52
+Plymouth 5583468 MA21293045 JPHC2J2402836 White Unavailable 11/5/24
+Plymouth 2119299 MA09406414 JPHC0T2400428 White Hispanic/Latino 11/5/24
+Plymouth 5539335 MA21197687 JPHC0S2402071 White Not Hispanic/Latino 11/5/24 10 180 59
+Plymouth 2792996 MA10489255 JPHC1J2403059 White Not Hispanic/Latino 11/5/24
+Plymouth 5111883 MA21079522 JPHC1J2402928 White Hispanic/Latino 11/6/24
+Plymouth 2436931 MA10190359 JPHC0T2402866 White Not Hispanic/Latino 11/6/24
+Plymouth 5538577 MA21233266 JPHC3J2402904 White Not Hispanic/Latino 11/6/24
+Plymouth 3026540 JPHC0S2400186 White Not Hispanic/Latino 11/7/24 10 365 36
+Plymouth MA21215564 JPHC1J2201158 White Not Hispanic/Latino 11/7/24
+Plymouth 1922899 MA10000635 JPHC1J2303395 Black/African American Hispanic/Latino 11/7/24 10 378 186
+Plymouth 3200625 MA10636095 JPHC1J2401991 White Not Hispanic/Latino 11/7/24 10 365 131
+Plymouth 2835801 MA10380758 JPHC1J2403104 White Not Hispanic/Latino 11/7/24
+Plymouth 532077 MA00914203 JPHC1J2402891 White Not Hispanic/Latino 11/7/24
+Plymouth 1029017 MA00953691 JPHC1J2403422 Black/African American Not Hispanic/Latino 11/7/24
+Plymouth 2182138 MA09457135 JPHC2J2403252 White Not Hispanic/Latino 11/8/24
+Plymouth 2744056 MA21280364 JPHC1J2400951 White Not Hispanic/Latino 11/8/24
+Plymouth MA21214615 JPHC1J2403305 White Not Hispanic/Latino 11/8/24
+Plymouth 2709889 MA10074451 JPHC1J2403331 White Not Hispanic/Latino 11/8/24
+Plymouth 5043885 MA10400896 JPHC1J2401917 Black/African American Not Hispanic/Latino 11/8/24 10 365 138
+Plymouth 1559053 MA09121586 JPHC1J2403404 Black/African American Not Hispanic/Latino 11/9/24
+Page 9 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 2197019 MA10028135 JPHC1J2403541 White Not Hispanic/Latino 11/9/24
+Plymouth 5372566 JPHC1J2402538 Other/Unknown Not Hispanic/Latino 11/12/24
+Plymouth 5569806 MA21219579 JPHC1J2403278 Black/African American Not Hispanic/Latino 11/12/24
+Plymouth 5572366 MA21229151 JPHC0T2403424 White Not Hispanic/Latino 11/12/24
+Plymouth 1977842 JPHC0T2402470 White Not Hispanic/Latino 11/12/24
+Plymouth 5664531 MA21293746 JPHC1J2402962 White Not Hispanic/Latino 11/12/24
+Plymouth 5578012 MA21238180 JPHC1J2402320 White Hispanic/Latino 11/12/24
+Plymouth 2845498 MA10341747 JPHC0T2403171 White Hispanic/Latino 11/13/24
+Plymouth 5293971 MA21013608 JPHC1J2303149 White Hispanic/Latino 11/13/24
+Plymouth 3166740 MA10647137 JPHC1J2303162 White Hispanic/Latino 11/13/24
+Plymouth 5072617 MA10455604 JPHC0T2403454 White Hispanic/Latino 11/13/24
+Plymouth 5411586 MA21099575 JPHC2J2402760 White Not Hispanic/Latino 11/13/24
+Plymouth 854767 MA00613527 JPHC1J2302578 Black/African American Not Hispanic/Latino 11/13/24
+Plymouth 2336291 MA10024284 JPHC1J2403073 White Not Hispanic/Latino 11/14/24
+Plymouth 5301088 MA21182250 HPHC1H2402964 White Not Hispanic/Latino 11/14/24 60
+Plymouth 2690088 MA10601991 HPHC2H2302886 White Not Hispanic/Latino 11/14/24 10 910 76
+Plymouth 2882282 MA10173122 JPHC1J2403597 Other/Unknown Not Hispanic/Latino 11/15/24
+Plymouth 5600552 MA21249959 JPHC1J2400118 Other/Unknown Unavailable 11/15/24 15 365 57
+Plymouth 5640683 MA21297978 JPHC1J2403583 Asian/Pacific Islander Not Hispanic/Latino 11/15/24
+Plymouth MA10094282 JPHC0T2402334 Black/African American Not Hispanic/Latino 11/15/24
+Plymouth 1999973 MA10206242 JPHC1J2402563 White Not Hispanic/Latino 11/15/24
+Plymouth 2019800 JPHC0S2400739 White Not Hispanic/Latino 11/15/24 19 365 73
+Plymouth 5523602 MA21184894 JPHC0S2403210 White Not Hispanic/Latino 11/15/24 20 180 63
+Plymouth 2744517 MA10071073 JPHC1J2403525 Other/Unknown Not Hispanic/Latino 11/15/24
+Plymouth 5429630 JPHC0S2303448 Black/African American Not Hispanic/Latino 11/15/24 16 365 26
+Plymouth 2393740 MA09995615 JPHC1J2401488 White Not Hispanic/Latino 11/15/24 20 270 52
+Plymouth 3101415 MA10416389 JPHC1J2403279 Black/African American Not Hispanic/Latino 11/18/24
+Plymouth 5641885 MA21275502 JPHC1J2401470 White Hispanic/Latino 11/18/24
+Plymouth 2932332 MA10659021 JPHC1J2402618 White Not Hispanic/Latino 11/19/24
+Plymouth 5659331 MA21289809 JPHC1J2402527 Black/African American Not Hispanic/Latino 11/19/24
+Plymouth 5090738 MA10457133 HPHC1H2402245 White Not Hispanic/Latino 11/19/24 20 365 171
+Plymouth 5662411 MA21292031 JPHC1J2403576 Black/African American Not Hispanic/Latino 11/19/24
+Plymouth 5361578 MA21066358 JPHC1J2301450 Black/African American Not Hispanic/Latino 11/20/24
+Plymouth 2254685 MA20008353 JPHC1J2402873 White Not Hispanic/Latino 11/21/24
+Plymouth 5097377 JPHC0T2402594 White Not Hispanic/Latino 11/21/24
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino 11/21/24 2.5 180 142
+Plymouth 5378585 JPHC0T2403377 Black/African American Not Hispanic/Latino 11/21/24
+Plymouth 5670179 MA21297800 JPHC2J2403555 White Hispanic/Latino 11/21/24
+Plymouth 5441558 MA21290120 JPHC1J2403191 Black/African American Unavailable 11/22/24
+Plymouth 2301068 MA10018446 JPHC1J2403437 White Not Hispanic/Latino 11/22/24
+Plymouth 3203310 MA10640587 JPHC0T2402754 Black/African American Unavailable 11/22/24
+Plymouth 3010714 MA10289046 JPHC1J2402694 White Not Hispanic/Latino 11/22/24
+Plymouth 5358697 MA21064692 JPHC1J2401532 Black/African American Not Hispanic/Latino 11/22/24
+Plymouth 3166940 MA10509039 JPHC1J2402987 White Not Hispanic/Latino 11/22/24
+Plymouth 5553370 MA21279853 JPHC0T2403166 White Not Hispanic/Latino 11/25/24
+Plymouth 622926 MA08901676 JPHC1J2403730 White Not Hispanic/Latino 11/25/24
+Plymouth 647938 MA00863418 JPHC0S2403532 Black/African American Not Hispanic/Latino 11/25/24 2.5 365 141
+Plymouth 5649838 JPHC0T2402686 Black/African American Not Hispanic/Latino 11/25/24
+Plymouth 2332624 MA10207823 JPHC1J2403035 White Not Hispanic/Latino 11/25/24
+Plymouth 2159041 MA10159468 JPHC0T2403675 White Not Hispanic/Latino 11/26/24
+Plymouth 1193938 MA09219663 JPHC1J2403107 White Not Hispanic/Latino 11/26/24
+Plymouth 5661405 MA21291314 JPHC1J2402556 White Unavailable 11/26/24
+Plymouth 5291854 MA21013049 JPHC1J2403420 White Not Hispanic/Latino 11/26/24
+Plymouth 2388888 MA10001588 JPHC1J2300809 Black/African American Not Hispanic/Latino 11/26/24 12.5 730 120
+Plymouth 2933439 MA10211656 JPHC2J2403535 White Not Hispanic/Latino 11/26/24
+Plymouth 5595304 MA21238642 JPHC1J2403678 White Hispanic/Latino 11/26/24
+Plymouth 2096779 MA10237956 JPHC1J2403679 White Not Hispanic/Latino 11/26/24
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable 11/26/24
+Plymouth 2792075 MA10418453 JPHC0T2403614 White Not Hispanic/Latino 11/26/24
+Plymouth 2853905 MA10167143 JPHC1J2403438 White Hispanic/Latino 11/27/24
+Plymouth 5310063 MA21283592 JPHC1J2403575 White Not Hispanic/Latino 11/27/24
+Plymouth 410323 MA21050360 JPHC0T2403589 White Not Hispanic/Latino 11/27/24
+Plymouth 5466686 MA21141647 JPHC021802647 Black/African American Not Hispanic/Latino 11/27/24
+Plymouth 540025 MA09400623 JPHC1J2301755 White Not Hispanic/Latino 11/27/24
+Plymouth 3058416 MA10399066 JPHC1J2402798 Black/African American Not Hispanic/Latino 11/27/24
+Plymouth 5352722 MA21060163 JPHC1J2403204 Black/African American Not Hispanic/Latino 11/27/24
+Page 10 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 2442505 MA10203430 JPHC1J2403776 Black/African American Not Hispanic/Latino 11/29/24
+Plymouth 5106425 MA10573013 JPHC1J2403228 White Not Hispanic/Latino 11/29/24
+Plymouth 874888 HPHC1H2303318 Black/African American Not Hispanic/Latino 11/29/24 20 540 73
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino 11/29/24 59 43
+Plymouth 2078622 MA00937595 JPHC1J2403754 Other/Unknown Not Hispanic/Latino 11/29/24
+Plymouth 2454818 MA10302960 JPHC0T2403534 White Not Hispanic/Latino 11/29/24
+Plymouth MA21299202 JPHC2J2403792 White Not Hispanic/Latino 12/2/24
+Plymouth 1780257 MA09418407 JPHC3J2401944 White Not Hispanic/Latino 12/2/24
+Plymouth 2755375 MA10089395 JPHC1J2403798 Black/African American Not Hispanic/Latino 12/2/24
+Plymouth 3087289 MA10644058 HPHC1H2403585 White Not Hispanic/Latino 12/2/24 2.5 180 157
+Plymouth 2960119 MA10429710 JPHC2J2402890 White Not Hispanic/Latino 12/2/24 5 90 23
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino 12/3/24
+Plymouth 3166993 JPHC0S230073 Black/African American Not Hispanic/Latino 12/3/24 2.5 790 117
+Plymouth 2297428 MA09743150 JPHC1J2403500 White Hispanic/Latino 12/3/24
+Plymouth 5321899 MA21063261 JPHC1J2403819 White Not Hispanic/Latino 12/3/24
+Plymouth 1979756 JPHC0S2303384 White Not Hispanic/Latino 12/3/24 20 910 106
+Plymouth 3193659 MA21141513 JPHC021802597 White Not Hispanic/Latino 12/4/24
+Plymouth 3204603 MA21184178 JPHC1J2403784 White Not Hispanic/Latino 12/4/24
+Plymouth 535652 MA00911451 JPHC1J2400155 Black/African American Not Hispanic/Latino 12/4/24
+Plymouth 5525515 MA21202248 JPHC1J2202880 Black/African American Unavailable 12/4/24
+Plymouth 2016199 MA09305115 JPHC2J2402888 White Not Hispanic/Latino 12/4/24
+Plymouth 2353518 MA10106723 JPHC2J2403504 White Not Hispanic/Latino 12/4/24
+Plymouth 2503857 MA09842269 JPHC2J2402607 Black/African American Not Hispanic/Latino 12/4/24
+Plymouth 996436 MA09119393 JPHC1J2300963 Black/African American Not Hispanic/Latino 12/5/24
+Plymouth 5187606 MA10568343 JPHC2J2403406 White Hispanic/Latino 12/5/24
+Plymouth 3038010 MA10492611 JPHC0T2402852 White Not Hispanic/Latino 12/5/24
+Plymouth 1635470 MA21277268 JPHC2J2403544 White Not Hispanic/Latino 12/5/24
+Plymouth 1064304 MA09115959 JPHC1J2402507 Black/African American Not Hispanic/Latino 12/6/24 20 180 30
+Plymouth 2825011 MA10142854 JPHC1J2400744 Other/Unknown Not Hispanic/Latino 12/9/24
+Plymouth 5640444 MA21283422 JPHC0T2403763 Black/African American Unavailable 12/9/24
+Plymouth 2473978 MA10313775 JPHC0S2403266 Black/African American Not Hispanic/Latino 12/9/24 20 365 42
+Plymouth 935102 MA21223198 JPHC1J2403817 White Not Hispanic/Latino 12/9/24
+Plymouth 2707490 MA10095699 JPHC1J2403640 White Not Hispanic/Latino 12/10/24
+Plymouth 2253925 MA09808952 JPHC1J2403849 White Not Hispanic/Latino 12/10/24 150 4
+Plymouth 5579798 MA21227009 JPHC1J2403581 White Not Hispanic/Latino 12/10/24
+Plymouth 2490441 MA10617419 JPHC1J2403913 White Not Hispanic/Latino 12/10/24
+Plymouth 5457576 MA21144905 JPHC0T2403432 Black/African American Not Hispanic/Latino 12/10/24
+Plymouth 5532826 MA21178291 HPHC1H2301483 Black/African American Not Hispanic/Latino 12/10/24 540
+Plymouth 2432327 MA10266306 JPHC1J2403782 Black/African American Not Hispanic/Latino 12/10/24
+Plymouth 5401947 MA21146333 JPHC1J2303314 Black/African American Not Hispanic/Latino 12/10/24
+Plymouth 1938265 MA10099514 JPHC2J2403311 White Not Hispanic/Latino 12/11/24
+Plymouth 5585348 MA21253737 JPHC1J2403814 White Not Hispanic/Latino 12/11/24
+Plymouth 3086099 MA10471280 JPHC2J2402628 Black/African American Not Hispanic/Latino 12/11/24
+Plymouth 3154236 MA21135642 JPHC1J2403641 White Not Hispanic/Latino 12/11/24
+Plymouth 3126809 MA10543442 JPHC1J2402930 Other/Unknown Not Hispanic/Latino 12/11/24
+Plymouth MA10052717 JPHC0T2403857 White Not Hispanic/Latino 12/11/24
+Plymouth 5264917 MA21181764 JPHC1J2302944 White Not Hispanic/Latino 12/12/24
+Plymouth 5622173 MA21293261 JPHC1J2402878 Black/African American Unavailable 12/12/24
+Plymouth 5421107 MA21108227 JPHC1J2402519 Black/African American Not Hispanic/Latino 12/12/24
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino 12/12/24 10 180
+Plymouth 5365114 MA21068493 JPHC1J2402361 White Not Hispanic/Latino 12/13/24 28 204 54
+Plymouth 5568641 MA21283241 HPHC1H2403507 Other/Unknown Unavailable 12/13/24 4.5 120 36
+Plymouth 2761645 MA10146110 JPHC1J2402035 White Not Hispanic/Latino 12/13/24
+Plymouth 1756868 MA21030723 JPHC2J2403111 White Not Hispanic/Latino 12/13/24
+Plymouth 5016977 MA10379469 JPHC1J2403937 Black/African American Not Hispanic/Latino 12/13/24
+Plymouth 3198733 MA10616446 JPHC1J2202887 Black/African American Unavailable 12/13/24 19 910 93
+Plymouth 5061528 MA10598299 JPHC1J2403577 White Not Hispanic/Latino 12/13/24
+Plymouth 5495148 MA21162344 JPHC1J2303041 American Indian/Alaska Native Hispanic/Latino 12/13/24
+Plymouth 3195515 MA10625905 JPHC2J2402382 White Not Hispanic/Latino 12/13/24
+Plymouth 1847430 MA09801215 JPHC1J2401899 White Hispanic/Latino 12/16/24
+Plymouth 3159379 MA21039422 JPHC1J2300884 Black/African American Not Hispanic/Latino 12/16/24
+Plymouth 2543848 MA10142783 JPHC0T2403004 Black/African American Not Hispanic/Latino 12/16/24
+Plymouth 2872084 JPHC1J2301451 White Not Hispanic/Latino 12/17/24
+Plymouth 5219396 MA10602285 JPHC1J2403853 Black/African American Not Hispanic/Latino 12/17/24
+Plymouth 3157472 MA10536040 JPHC1J2401675 White Not Hispanic/Latino 12/18/24
+Plymouth 2956778 MA10410400 JPHC1J2403625 Black/African American Not Hispanic/Latino 12/18/24
+Page 11 of 26
+
+ADMISSIONS AND RELEASES
+LENGTH OF JAIL
+SHERIFF'S BOOKING RELEASE EARNED TIME
+PCF SID OBTN RACE ETHNICITY SENTENCE CREDIT
+OFFICE DATE DATE IN DAYS
+IN DAYS IN DAYS
+Plymouth 2487759 MA10456888 JPHC1J2402929 White Not Hispanic/Latino 12/18/24
+Plymouth 1756868 MA21030723 JPHC0T2404030 White Not Hispanic/Latino 12/18/24
+Plymouth 3120233 MA21110485 JPHC1J2402027 White Hispanic/Latino 12/18/24 20 246 66
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino 12/18/24 18 365 258
+Plymouth 5550976 MA21197516 JPHC0T2402716 White Hispanic/Latino 12/18/24
+Plymouth 5539317 MA21197651 JPHC1J2402647 Black/African American Unavailable 12/19/24
+Plymouth 5220900 MA21063719 JPHC1J2403766 White Not Hispanic/Latino 12/19/24
+Plymouth 3093498 MA10399745 JPHC0S2400759 White Hispanic/Latino 12/19/24 20 360
+Plymouth 2213799 MA09801486 JPHC2J2402420 White Not Hispanic/Latino 12/19/24 30 180 33
+Plymouth 5414432 MA21101551 JPHC1J2403342 White Not Hispanic/Latino 12/19/24
+Plymouth 2406848 MA09739643 JPHC1J2400349 White Not Hispanic/Latino 12/19/24
+Plymouth MA21263932 JPHC2J2404060 White Hispanic/Latino 12/20/24
+Plymouth 2082726 MA21288052 JPHC1J2403527 White Not Hispanic/Latino 12/20/24
+Plymouth 5387507 JPHC0T2403764 Black/African American Not Hispanic/Latino 12/20/24
+Plymouth 1967131 MA09308160 JPHC1J2400357 White Not Hispanic/Latino 12/20/24
+Plymouth 647938 MA00863418 JPCH0S2404039 Black/African American Not Hispanic/Latino 12/20/24 2.5 365 141
+Plymouth 2692729 MA10054728 JPHC0T2403624 White Not Hispanic/Latino 12/20/24
+Plymouth 2938015 MA10214359 JPHC1J2404020 White Hispanic/Latino 12/21/24
+Plymouth 2360078 MA10120126 JPHC1J2302816 White Not Hispanic/Latino 12/23/24
+Plymouth 3123707 MA21109083 JPHC1J2403072 Black/African American Not Hispanic/Latino 12/23/24
+Plymouth 2526579 MA10020703 JPHC1J2403221 White Not Hispanic/Latino 12/23/24
+Plymouth 3051927 MA10624955 JPHC1J2404044 Black/African American Not Hispanic/Latino 12/23/24
+Plymouth MA21216897 JPHC1J2404062 White Not Hispanic/Latino 12/23/24
+Plymouth 5625277 JPHC0T2401140 Black/African American Not Hispanic/Latino 12/23/24
+Plymouth 2838322 JPHC0T2403765 White Not Hispanic/Latino 12/23/24
+Plymouth 5673313 MA21300156 JPHC1J2403986 White Hispanic/Latino 12/23/24
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino 12/24/24 30 180 28
+Plymouth 2531229 MA09900668 HPHC1H2403954 White Not Hispanic/Latino 12/24/24 2.5 60 43
+Plymouth 5094483 MA10535089 JPHC1J2403434 Black/African American Not Hispanic/Latino 12/24/24
+Plymouth 5606951 MA21247543 JPHC1J2404092 White Not Hispanic/Latino 12/24/24
+Plymouth 2092937 MA21300663 JPHC1J2404079 Black/African American Not Hispanic/Latino 12/24/24
+Plymouth 3080830 MA10474532 JPHC1J2400431 White Hispanic/Latino 12/26/24 30 365 50
+Plymouth 2375533 MA21298447 JPHC1J2403654 White Unavailable 12/27/24
+Plymouth MA21301007 JPHC1J2404110 White Not Hispanic/Latino 12/27/24
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino 12/27/24
+Plymouth 5423400 MA21108671 JPHC1J2202315 White Hispanic/Latino 12/27/24 30 910 92
+Plymouth 5659220 MA21298895 JPHC1J2403777 White Hispanic/Latino 12/27/24
+Plymouth 405422 MA09441903 JPHC1J2302488 White Not Hispanic/Latino 12/27/24
+Plymouth 5349665 MA21129666 JPHC1J2403539 Black/African American Not Hispanic/Latino 12/30/24
+Plymouth 5607483 MA21288047 JPHC3J2403125 Black/African American Not Hispanic/Latino 12/30/24
+Plymouth 5262440 JPHC0T2404027 Black/African American Not Hispanic/Latino 12/30/24
+Plymouth 5601541 MA21243084 JPHC1J2400848 Black/African American Unavailable 12/31/24
+Plymouth 5471040 MA21217405 JPHC1J2402645 White Hispanic/Latino 12/31/24
+Plymouth 5169676 MA10548874 JPHC1J2404133 Black/African American Unavailable 12/31/24
+Plymouth 3203047 MA10641233 JPHC2J2301833 Black/African American Not Hispanic/Latino 12/31/24 540 43
+Plymouth 5302148 MA21065479 JPHC1J2402828 White Unavailable 12/31/24
+Page 12 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 10/1/24 Computer Applications Participated
+Plymouth 2019800 JPHC0S2400739 White Not Hispanic/Latino Sentenced 10/1/24 Computer Applications Released
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 10/1/24 Coping Skills Participated
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 10/1/24 Family Dynmaics Participated
+Plymouth 5659331 MA21289809 JPHC1J2402527 Black/African American Not Hispanic/Latino Pre-Trial 10/1/24 METEOROLOGY Participated
+Plymouth 5659331 MA21289809 JPHC1J2402527 Black/African American Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Participated
+Plymouth 1967131 MA09308160 JPHC1J2400357 White Not Hispanic/Latino Pre-Trial 10/1/24 Brain Games Participated
+Plymouth 1967131 MA09308160 JPHC1J2400357 White Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Participated
+Plymouth 2663261 MA10337414 JPHC1J2403043 White Not Hispanic/Latino Sentenced 10/1/24 Brain Games Participated
+Plymouth 2872084 JPHC1J2301451 White Not Hispanic/Latino Pre-Trial 10/1/24 METEOROLOGY Released
+Plymouth 3120622 MA21185185 HPHC2H2400115 White Not Hispanic/Latino Sentenced 10/1/24 Computer Applications Participated
+Plymouth 5658588 MA21261892 JPHC1J2402234 Black/African American Unavailable Pre-Trial 10/1/24 METEOROLOGY Participated
+Plymouth 2200470 MA09722722 JPHC1J2402462 Black/African American Not Hispanic/Latino Pre-Trial 10/1/24 METEOROLOGY Participated
+Plymouth 2972122 MA21066100 JPHC1J2402585 White Not Hispanic/Latino Pre-Trial 10/1/24 Brain Games Participated
+Plymouth 2016199 MA09305115 JPHC2J2402888 White Not Hispanic/Latino Pre-Trial 10/1/24 METEOROLOGY Participated
+Plymouth 2016199 MA09305115 JPHC2J2402888 White Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Participated
+Plymouth 5440759 MA21262425 JPHC2J2401136 Black/African American Unavailable Pre-Trial 10/1/24 Brain Games Participated
+Plymouth 2388888 MA10001588 JPHC1J2300809 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Computer Applications Released
+Plymouth 2794333 MA10120110 JPHC1J2401751 White Not Hispanic/Latino Pre-Trial 10/1/24 METEOROLOGY Participated
+Plymouth 2794333 MA10120110 JPHC1J2401751 White Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Participated
+Plymouth 2436931 MA10190359 JPHC0T2402866 White Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Participated
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 10/1/24 Computer Applications Participated
+Plymouth 5361578 MA21066358 JPHC1J2301450 Black/African American Not Hispanic/Latino Pre-Trial 10/1/24 Family Dynmaics Released
+Plymouth 2369125 MA10231816 JPHC1J2402143 Black/African American Not Hispanic/Latino Pre-Trial 10/1/24 Brain Games Released
+Plymouth 2369125 MA10231816 JPHC1J2402143 Black/African American Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Released
+Plymouth 2251147 MA09835716 Other/Unknown Not Hispanic/Latino Sentenced 10/1/24 Computer Applications Participated
+Plymouth 3107039 MA10444674 JPHC1J2402501 White Not Hispanic/Latino Pre-Trial 10/1/24 METEOROLOGY Participated
+Plymouth 3107039 MA10444674 JPHC1J2402501 White Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Participated
+Plymouth 2332624 MA10207823 JPHC1J2403035 White Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Unknown
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 10/1/24 Computer Applications Participated
+Plymouth 5072578 MA10434855 JPHC1J2402847 Black/African American Not Hispanic/Latino Pre-Trial 10/1/24 Brain Games Released
+Plymouth 2671511 White Not Hispanic/Latino Sentenced 10/1/24 Computer Applications Participated
+Plymouth 5435001 MA21252672 JPHC1J2300802 White Not Hispanic/Latino Pre-Trial 10/1/24 Brain Games Participated
+Plymouth 2885500 MA21024100 JPHC0S2402335 White Hispanic/Latino Sentenced 10/1/24 Computer Applications Participated
+Plymouth 5372566 JPHC1J2402538 Other/Unknown Not Hispanic/Latino Pre-Trial 10/1/24 METEOROLOGY Participated
+Plymouth 5372566 JPHC1J2402538 Other/Unknown Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Participated
+Plymouth 1763054 JPHC0T2402717 White Not Hispanic/Latino Pre-Trial 10/1/24 Brain Games Participated
+Plymouth 1763054 JPHC0T2402717 White Not Hispanic/Latino Pre-Trial 10/1/24 METEOROLOGY Participated
+Plymouth 5525882 MA21258020 JPHC1J2400616 White Not Hispanic/Latino Sentenced 10/1/24 Computer Applications Participated
+Plymouth MA21146243 JPHC2J2402909 White Not Hispanic/Latino Sentenced 10/1/24 OSHA 10 Construction Participated
+Plymouth 2768833 MA10567275 JPHC1J2402870 White Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Participated
+Plymouth 2932332 MA10659021 JPHC1J2402618 White Not Hispanic/Latino Pre-Trial 10/1/24 Brain Games Participated
+Plymouth 2814132 MA10359780 JPHC1J2401396 White Not Hispanic/Latino Pre-Trial 10/1/24 Brain Games Participated
+Plymouth 2814132 MA10359780 JPHC1J2401396 White Not Hispanic/Latino Pre-Trial 10/1/24 OSHA 10 Construction Participated
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Participated
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 10/2/24 PARENTING Participated
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 10/2/24 Recovery Writing Released
+Plymouth 5207859 MA10589901 JPHC2J2401575 White Not Hispanic/Latino Sentenced 10/2/24 Computer Applications Unknown
+Plymouth 2059625 MA00977067 JPHC1J2401287 White Unavailable Sentenced 10/2/24 MKGCGSSS Released
+Plymouth 2491764 MA09839386 JPHC1J2401191 White Not Hispanic/Latino Pre-Trial 10/2/24 SERVSAFE Participated
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 10/2/24 Recovery Writing Released
+Plymouth 2703088 MA10125867 JPHC1J2301786 White Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Participated
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 10/2/24 Recovery Writing Participated
+Plymouth 5025464 JPHC0T2402496 White Not Hispanic/Latino Pre-Trial 10/2/24 Recovery Writing Released
+Plymouth 5372232 MA21088240 JPHC0S2401707 White Unavailable Sentenced 10/2/24 MKGCGSSS Released
+Plymouth 5090738 MA10457133 HPHC1H2402245 White Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Released
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Released
+Plymouth 5587462 MA21232253 White Not Hispanic/Latino Sentenced 10/2/24 EDU HISET EXAM Participated
+Plymouth 5355623 JPHC0S2400283 White Not Hispanic/Latino Sentenced 10/2/24 EDU HISET EXAM Participated
+Plymouth 5123770 MA10496033 JPHC1J2401387 Black/African American Not Hispanic/Latino Sentenced 10/2/24 EDU HISET EXAM Released
+Plymouth 3026540 JPHC0S2400186 White Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Released
+Plymouth 2360078 MA10120126 JPHC1J2302816 White Not Hispanic/Latino Pre-Trial 10/2/24 SERVSAFE Participated
+Plymouth 1756868 MA21030723 JPHC2J2403111 White Not Hispanic/Latino Pre-Trial 10/2/24 Verteran Group Trial Released
+Plymouth 5345523 MA21063054 HPHC1H2401709 Other/Unknown Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Released
+Plymouth 1939136 MA10471621 HPHC1H2402123 White Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Participated
+Plymouth 1939136 MA10471621 HPHC1H2402123 White Not Hispanic/Latino Sentenced 10/2/24 PARENTING Participated
+Plymouth 3093242 MA10379705 HPHC1H2402358 Black/African American Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Participated
+Plymouth 3068536 MA10555875 JPHC1J2202927 Other/Unknown Not Hispanic/Latino Pre-Trial 10/2/24 SERVSAFE Participated
+Plymouth 1909249 MA09217285 JPHC1J2400415 White Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Released
+Plymouth 2885500 MA21024100 JPHC0S2402335 White Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Released
+Plymouth 2742404 MA10166680 JPHC1J2202173 White Not Hispanic/Latino Sentenced 10/2/24 MKGCGSSS Released
+Plymouth 1999973 MA10206242 JPHC1J2402563 White Not Hispanic/Latino Pre-Trial 10/2/24 SERVSAFE Released
+Plymouth 2959692 MA10432486 JPHC1J2201515 Black/African American Unavailable Pre-Trial 10/2/24 SERVSAFE Released
+Plymouth 3166940 MA10509039 JPHC1J2402987 White Not Hispanic/Latino Pre-Trial 10/2/24 SERVSAFE Released
+Plymouth 5296079 MA21099379 JPHC0S2401889 White Not Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Participated
+Plymouth 1827389 MA10285008 HPHC1H2401045 White Not Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Participated
+Plymouth 5,429,630 JPHC0S2303448 Black/African American Not Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Released
+Plymouth 5284188 MA21007602 HPHC1H2401935 White Not Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Participated
+Plymouth 5560595 MA21213264 HPHC1H2402122 White Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Participated
+Page 13 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 5043885 MA10400896 JPHC1J2401917 Black/African American Not Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Released
+Plymouth 403282 MA00784489 JPHC2J2401886 White Not Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Participated
+Plymouth 5450902 MA21130979 JPHC1J2301837 White Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Participated
+Plymouth 5600552 MA21249959 JPHC1J2400118 Other/Unknown Unavailable Sentenced 10/3/24 Victim Impact Phase 2 Released
+Plymouth 3092601 MA10378539 JPHC1J2401288 Black/African American Not Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Participated
+Plymouth 2742404 MA10166680 JPHC1J2202173 White Not Hispanic/Latino Sentenced 10/3/24 Certificates for Making Changes Pgm Released
+Plymouth 2473978 MA10313775 JPHC1J2400473 Black/African American Not Hispanic/Latino Sentenced 10/3/24 Victim Impact Phase 2 Released
+Plymouth 5550350 MA21141979 JPHC1J2302746 Black/African American Not Hispanic/Latino Sentenced 10/4/24 Greatest Business Stories Participated
+Plymouth 3198733 MA10616446 JPHC1J2202887 Black/African American Unavailable Sentenced 10/4/24 Greatest Business Stories Released
+Plymouth 2595788 MA10022680 JPHC1J2401721 Black/African American Not Hispanic/Latino Pre-Trial 10/4/24 CAD Participated
+Plymouth 2254685 MA20008353 JPHC1J2402873 White Not Hispanic/Latino Pre-Trial 10/4/24 CAD Participated
+Plymouth 2019800 JPHC0S2400739 White Not Hispanic/Latino Sentenced 10/4/24 Greatest Business Stories Participated
+Plymouth 5022820 MA10384568 JPHC0J2402114 White Not Hispanic/Latino Sentenced 10/4/24 Greatest Business Stories Released
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 10/4/24 Meditation/Mindfulness - Pathways Participated
+Plymouth 5296079 MA21099379 JPHC0S2401889 White Not Hispanic/Latino Sentenced 10/4/24 Greatest Business Stories Participated
+Plymouth 5525515 MA21202248 JPHC1J2202880 Black/African American Unavailable Pre-Trial 10/4/24 Meditation/Mindfulness - Pathways Participated
+Plymouth 2670440 MA10108238 JPHC0T2402742 White Not Hispanic/Latino Pre-Trial 10/4/24 Catholic Mass Trial Sunday Released
+Plymouth 5500051 MA21225157 JPHC1J2300159 Black/African American Not Hispanic/Latino Sentenced 10/4/24 Greatest Business Stories Participated
+Plymouth 5555735 MA21209388 JPHC2J2301967 Black/African American Not Hispanic/Latino Pre-Trial 10/4/24 Catholic Mass Trial Sunday Participated
+Plymouth 2491764 MA09839386 JPHC1J2401191 White Not Hispanic/Latino Pre-Trial 10/4/24 CAD Participated
+Plymouth 5284188 MA21007602 HPHC1H2401935 White Not Hispanic/Latino Sentenced 10/4/24 Greatest Business Stories Participated
+Plymouth 2861710 MA10369817 JPHC2J2402290 Black/African American Not Hispanic/Latino Pre-Trial 10/4/24 CAD Participated
+Plymouth 5594754 MA21257771 JPHC1J2402419 White Not Hispanic/Latino Pre-Trial 10/4/24 Catholic Mass Trial Sunday Released
+Plymouth 5594754 MA21257771 JPHC1J2402419 White Not Hispanic/Latino Pre-Trial 10/4/24 Muslim Service Trial Friday Released
+Plymouth 5607774 MA21248153 JPHC1J2400296 Black/African American Not Hispanic/Latino Sentenced 10/4/24 Greatest Business Stories Participated
+Plymouth 3117447 MA10430499 JPHC1J2301173 Other/Unknown Not Hispanic/Latino Sentenced 10/4/24 Greatest Business Stories Participated
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/4/24 Meditation/Mindfulness - Pathways Released
+Plymouth 2487759 MA10456888 JPHC1J2402929 White Not Hispanic/Latino Pre-Trial 10/4/24 Calvary Chapel Trial Saturday Released
+Plymouth 2487759 MA10456888 JPHC1J2402929 White Not Hispanic/Latino Pre-Trial 10/4/24 Chaplains Bible Study Trial Monday Released
+Plymouth 2360078 MA10120126 JPHC1J2302816 White Not Hispanic/Latino Pre-Trial 10/4/24 CAD Participated
+Plymouth 2332624 MA10207823 JPHC1J2403035 White Not Hispanic/Latino Pre-Trial 10/4/24 Catholic Mass Trial Sunday Released
+Plymouth 2192295 MA09814194 JPHC1S2403000 White Not Hispanic/Latino Sentenced 10/4/24 CAD Participated
+Plymouth 5450902 MA21130979 JPHC1J2301837 White Hispanic/Latino Sentenced 10/4/24 Greatest Business Stories Participated
+Plymouth 3155177 MA10592412 JPHC2J2400704 Black/African American Not Hispanic/Latino Pre-Trial 10/4/24 CAD Participated
+Plymouth 2768833 MA10567275 JPHC1J2402870 White Not Hispanic/Latino Pre-Trial 10/4/24 CAD Participated
+Plymouth 2233291 MA10311620 JPHC1J2402959 White Unavailable Pre-Trial 10/4/24 Calvary Chapel Trial Saturday Released
+Plymouth 2932332 MA10659021 JPHC1J2402618 White Not Hispanic/Latino Pre-Trial 10/4/24 CAD Participated
+Plymouth 3166940 MA10509039 JPHC1J2402987 White Not Hispanic/Latino Pre-Trial 10/4/24 Calvary Chapel Trial Saturday Released
+Plymouth 2393740 MA09995615 JPHC1J2401488 White Not Hispanic/Latino Sentenced 10/7/24 Recovery Writing 2 Released
+Plymouth 2393740 MA09995615 JPHC1J2401488 White Not Hispanic/Latino Sentenced 10/7/24 Trauma Response and Mediation Released
+Plymouth 5022820 MA10384568 JPHC0J2402114 White Not Hispanic/Latino Sentenced 10/7/24 Phase1Life Released
+Plymouth 5022820 MA10384568 JPHC0J2402114 White Not Hispanic/Latino Sentenced 10/7/24 Victim Impact Phase 1 Released
+Plymouth 5207859 MA10589901 JPHC2J2401575 White Not Hispanic/Latino Sentenced 10/7/24 Recovery Writing 2 Participated
+Plymouth 5207859 MA10589901 JPHC2J2401575 White Not Hispanic/Latino Sentenced 10/7/24 Relapse Prevention Participated
+Plymouth 5207859 MA10589901 JPHC2J2401575 White Not Hispanic/Latino Sentenced 10/7/24 Trauma Response and Mediation Released
+Plymouth 2670440 MA10108238 JPHC0T2402742 White Not Hispanic/Latino Pre-Trial 10/7/24 Catholic Rosary Trial Wednesday Released
+Plymouth 2059625 MA00977067 JPHC1J2401287 White Unavailable Sentenced 10/7/24 MG CHGs RESUMES DN1 Released
+Plymouth 2059625 MA00977067 JPHC1J2401287 White Unavailable Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Participated
+Plymouth 5033754 MA10434684 JPH0S2402448 White Not Hispanic/Latino Sentenced 10/7/24 Phase1Life Released
+Plymouth 5033754 MA10434684 JPH0S2402448 White Not Hispanic/Latino Sentenced 10/7/24 Recovery Writing 2 Released
+Plymouth 5033754 MA10434684 JPH0S2402448 White Not Hispanic/Latino Sentenced 10/7/24 Trauma Response and Mediation Released
+Plymouth 5033754 MA10434684 JPH0S2402448 White Not Hispanic/Latino Sentenced 10/7/24 Victim Impact Phase 1 Released
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/7/24 C1Art Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/7/24 Dual Diagnosis Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/7/24 Family Dynamics Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/7/24 Mindfulness and Eastern Principles Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/7/24 NA Step Work Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/7/24 Recovery Writing 2 Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/7/24 Relapse Prevention Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/7/24 Trauma Response and Mediation Participated
+Plymouth 5284188 MA21007602 HPHC1H2401935 White Not Hispanic/Latino Sentenced 10/7/24 Recovery Writing 2 Participated
+Plymouth 5284188 MA21007602 HPHC1H2401935 White Not Hispanic/Latino Sentenced 10/7/24 Trauma Response and Mediation Participated
+Plymouth 2703088 MA10125867 JPHC1J2301786 White Not Hispanic/Latino Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Participated
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 10/7/24 C1Art Participated
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 10/7/24 Dual Diagnosis Participated
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 10/7/24 Family Dynamics Participated
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 10/7/24 Mindfulness and Eastern Principles Participated
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 10/7/24 NA Step Work Participated
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 10/7/24 Recovery Writing 2 Participated
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 10/7/24 Relapse Prevention Participated
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 10/7/24 Trauma Response and Mediation Participated
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 10/7/24 C1Art Released
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 10/7/24 Dual Diagnosis Released
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 10/7/24 Family Dynamics Released
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 10/7/24 Mindfulness and Eastern Principles Released
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 10/7/24 NA Step Work Released
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 10/7/24 Recovery Writing 2 Released
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 10/7/24 Relapse Prevention Released
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 10/7/24 Trauma Response and Mediation Released
+Page 14 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 5560595 MA21213264 HPHC1H2402122 White Hispanic/Latino Sentenced 10/7/24 Recovery Writing 2 Released
+Plymouth 5560595 MA21213264 HPHC1H2402122 White Hispanic/Latino Sentenced 10/7/24 Trauma Response and Mediation Released
+Plymouth 2636499 MA10215597 JPHC0T2402837 Black/African American Not Hispanic/Latino Pre-Trial 10/7/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/7/24 iTHIRST FS1 6pm w/Paul K Released
+Plymouth 5372232 MA21088240 JPHC0S2401707 White Unavailable Sentenced 10/7/24 MG CHGs RESUMES DN1 Released
+Plymouth 5372232 MA21088240 JPHC0S2401707 White Unavailable Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 3120233 MA21110485 JPHC1J2402027 White Hispanic/Latino Sentenced 10/7/24 Phase1Life Participated
+Plymouth 3120233 MA21110485 JPHC1J2402027 White Hispanic/Latino Sentenced 10/7/24 Recovery Writing 2 Released
+Plymouth 3120233 MA21110485 JPHC1J2402027 White Hispanic/Latino Sentenced 10/7/24 Trauma Response and Mediation Released
+Plymouth 3120233 MA21110485 JPHC1J2402027 White Hispanic/Latino Sentenced 10/7/24 Victim Impact Phase 1 Participated
+Plymouth 1072724 MA09115382 JPHC0S2402625 White Not Hispanic/Latino Sentenced 10/7/24 Phase1Life Released
+Plymouth 1072724 MA09115382 JPHC0S2402625 White Not Hispanic/Latino Sentenced 10/7/24 Victim Impact Phase 1 Released
+Plymouth 5090738 MA10457133 HPHC1H2402245 White Not Hispanic/Latino Sentenced 10/7/24 MG CHGs RESUMES DN1 Participated
+Plymouth 5090738 MA10457133 HPHC1H2402245 White Not Hispanic/Latino Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 10/7/24 MG CHGs RESUMES DN1 Released
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 2251147 MA09835716 Other/Unknown Not Hispanic/Latino Sentenced 10/7/24 Recovery Writing 2 Participated
+Plymouth 2251147 MA09835716 Other/Unknown Not Hispanic/Latino Sentenced 10/7/24 Trauma Response and Mediation Participated
+Plymouth 3026540 JPHC0S2400186 White Not Hispanic/Latino Sentenced 10/7/24 MG CHGs RESUMES DN1 Participated
+Plymouth 3026540 JPHC0S2400186 White Not Hispanic/Latino Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 1756868 MA21030723 JPHC2J2403111 White Not Hispanic/Latino Pre-Trial 10/7/24 Chaplains Bible Study Trial Monday Released
+Plymouth 2332624 MA10207823 JPHC1J2403035 White Not Hispanic/Latino Pre-Trial 10/7/24 Catholic Rosary Trial Wednesday Released
+Plymouth 2705313 MA10071502 JPHC0T2101471 White Not Hispanic/Latino Sentenced 10/7/24 Phase1Life Released
+Plymouth 2705313 MA10071502 JPHC0T2101471 White Not Hispanic/Latino Sentenced 10/7/24 Victim Impact Phase 1 Participated
+Plymouth 5345523 MA21063054 HPHC1H2401709 Other/Unknown Not Hispanic/Latino Sentenced 10/7/24 MG CHGs RESUMES DN1 Released
+Plymouth 5345523 MA21063054 HPHC1H2401709 Other/Unknown Not Hispanic/Latino Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Participated
+Plymouth 1939136 MA10471621 HPHC1H2402123 White Not Hispanic/Latino Sentenced 10/7/24 MG CHGs RESUMES DN1 Participated
+Plymouth 1939136 MA10471621 HPHC1H2402123 White Not Hispanic/Latino Sentenced 10/7/24 MKG CHG Coping Skills DN1 DP Participated
+Plymouth 1939136 MA10471621 HPHC1H2402123 White Not Hispanic/Latino Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Participated
+Plymouth 3093242 MA10379705 HPHC1H2402358 Black/African American Not Hispanic/Latino Sentenced 10/7/24 MG CHGs RESUMES DN1 Participated
+Plymouth 3093242 MA10379705 HPHC1H2402358 Black/African American Not Hispanic/Latino Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Participated
+Plymouth 1909249 MA09217285 JPHC1J2400415 White Not Hispanic/Latino Sentenced 10/7/24 MG CHGs RESUMES DN1 Released
+Plymouth 1909249 MA09217285 JPHC1J2400415 White Not Hispanic/Latino Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/7/24 MKG CHG Coping Skills DN1 DP Released
+Plymouth 2885500 MA21024100 JPHC0S2402335 White Hispanic/Latino Sentenced 10/7/24 MG CHGs RESUMES DN1 Released
+Plymouth 2885500 MA21024100 JPHC0S2402335 White Hispanic/Latino Sentenced 10/7/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/8/24 Coping Skills Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/8/24 Family Dynmaics Released
+Plymouth 1939136 MA10471621 HPHC1H2402123 White Not Hispanic/Latino Sentenced 10/8/24 MKGCHG M&I Participated
+Plymouth 1939136 MA10471621 HPHC1H2402123 White Not Hispanic/Latino Sentenced 10/8/24 Making Changes Book Club Participated
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/8/24 MKGCHG M&I Released
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/8/24 Making Changes Book Club Participated
+Plymouth 5597039 MA21252330 White Not Hispanic/Latino Sentenced 10/9/24 ANGER MANAGEMENT BS2 Participated
+Plymouth 5597039 MA21252330 White Not Hispanic/Latino Sentenced 10/9/24 SA-BS2 Participated
+Plymouth 1643254 MA21006755 JPHC1J2401049 White Hispanic/Latino Sentenced 10/9/24 SA-BS2 Participated
+Plymouth 5553448 MA21228700 JPHC1J2302996 White Not Hispanic/Latino Sentenced 10/9/24 SA-BS2 Participated
+Plymouth 5546460 MA21200030 HPHC1H2402755 White Hispanic/Latino Sentenced 10/9/24 SA-BS2 Released
+Plymouth 2264130 MA09766546 JPHC1J2402168 White Hispanic/Latino Sentenced 10/9/24 SA-BS2 Participated
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 10/10/24 AA - Pathways to Recovery Participated
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 10/10/24 Process Group-Pathways to Recovery Participated
+Plymouth 1967131 MA09308160 JPHC1J2400357 White Not Hispanic/Latino Pre-Trial 10/10/24 SERVSAFE Participated
+Plymouth MA21067756 White Not Hispanic/Latino Sentenced 10/10/24 Phase1Life Participated
+Plymouth 1003892 MA00839693 JPHC1J2402967 White Not Hispanic/Latino Sentenced 10/10/24 Veterans Group Sentenced Released
+Plymouth 2794333 MA10120110 JPHC1J2401751 White Not Hispanic/Latino Pre-Trial 10/10/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth MA10639887 HPHC1H2402705 Asian/Pacific Islander Not Hispanic/Latino Sentenced 10/10/24 GED Sentenced Participated
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/10/24 AA - Pathways to Recovery Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/10/24 Process Group-Pathways to Recovery Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/10/24 Psycho-Education Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/10/24 Refuge Recovery Released
+Plymouth 2487759 MA10456888 JPHC1J2402929 White Not Hispanic/Latino Pre-Trial 10/10/24 Protestant BS Trial Thursday Released
+Plymouth 2271593 MA21255153 JPHC1J2403129 White Not Hispanic/Latino Pre-Trial 10/10/24 SERVSAFE Released
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 10/10/24 Phase1Life Participated
+Plymouth 5172466 MA10610537 JPHC1J2403118 Black/African American Not Hispanic/Latino Sentenced 10/10/24 Verteran Group Trial Participated
+Plymouth 3200625 MA10636095 JPHC1J2401991 White Not Hispanic/Latino Sentenced 10/10/24 Phase1Life Participated
+Plymouth 2233291 MA10311620 JPHC1J2402959 White Unavailable Pre-Trial 10/10/24 Protestant BS Trial Thursday Participated
+Plymouth 3166940 MA10509039 JPHC1J2402987 White Not Hispanic/Latino Pre-Trial 10/10/24 Protestant BS Trial Thursday Participated
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 10/11/24 MKG CHGS The Secret DN1 w/Michelle Currently Enrolled
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/11/24 MKG CHG Coping Skills DN1 DP Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/11/24 MKG CHGS The Secret DN1 w/Michelle Currently Enrolled
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 10/11/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2663261 MA10337414 JPHC1J2403043 White Not Hispanic/Latino Sentenced 10/11/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2387348 MA10374661 White Not Hispanic/Latino Pre-Trial 10/11/24 GED Trial Deb Participated
+Plymouth 2059625 MA00977067 JPHC1J2401287 White Unavailable Sentenced 10/11/24 Resume Participated
+Plymouth 2703088 MA10125867 JPHC1J2301786 White Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 3216443 MA10606540 JPHC0T2200137 Black/African American Not Hispanic/Latino Pre-Trial 10/11/24 Catholic Mass Trial Sunday Participated
+Plymouth 5532433 MA21229088 JPHC1J2403143 White Hispanic/Latino Pre-Trial 10/11/24 Spanish Service Saturday Trial Participated
+Plymouth 5372232 MA21088240 JPHC0S2401707 White Unavailable Sentenced 10/11/24 Resume Participated
+Page 15 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 5090738 MA10457133 HPHC1H2402245 White Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 10/11/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 10/11/24 Catholic Mass Trial Sunday Participated
+Plymouth 3026540 JPHC0S2400186 White Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 1756868 MA21030723 JPHC2J2403111 White Not Hispanic/Latino Pre-Trial 10/11/24 Calvary Chapel Trial Saturday Released
+Plymouth 5345523 MA21063054 HPHC1H2401709 Other/Unknown Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 3142457 MA10577562 JPHC1J2402324 White Hispanic/Latino Pre-Trial 10/11/24 GED Trial Deb Participated
+Plymouth 1939136 MA10471621 HPHC1H2402123 White Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 3093242 MA10379705 HPHC1H2402358 Black/African American Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 10/11/24 Computer Applications Participated
+Plymouth 5367729 MA21070022 JPHC1J2402142 Black/African American Not Hispanic/Latino Pre-Trial 10/11/24 GED Trial Deb Participated
+Plymouth 1909249 MA09217285 JPHC1J2400415 White Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 5621575 MA21258300 JPHC1J2403021 White Not Hispanic/Latino Pre-Trial 10/11/24 Spanish Service Saturday Trial Participated
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/11/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 2885500 MA21024100 JPHC0S2402335 White Hispanic/Latino Sentenced 10/11/24 Resume Participated
+Plymouth 2213799 MA09801486 JPHC2J2402420 White Not Hispanic/Latino Sentenced 10/15/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth 5565930 MA21216880 HPHC1H2402124 White Hispanic/Latino Sentenced 10/15/24 AA Meeting DS1 w/Dan Participated
+Plymouth 5565930 MA21216880 HPHC1H2402124 White Hispanic/Latino Sentenced 10/15/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 10/15/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/15/24 MKGCHG M&I Participated
+Plymouth 1967131 MA09308160 JPHC1J2400357 White Not Hispanic/Latino Pre-Trial 10/15/24 Jewish BS H-3 Released
+Plymouth 5500051 MA21225157 JPHC1J2300159 Black/African American Not Hispanic/Latino Sentenced 10/15/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth 5597000 MA21239258 HPHC2H2401936 White Hispanic/Latino Sentenced 10/15/24 AA Meeting DS1 w/Dan Participated
+Plymouth 5597000 MA21239258 HPHC2H2401936 White Hispanic/Latino Sentenced 10/15/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth MA21067756 White Not Hispanic/Latino Sentenced 10/15/24 Victim Impact Phase 1 Participated
+Plymouth 5613617 White Unavailable Sentenced 10/15/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth MA10639887 HPHC1H2402705 Asian/Pacific Islander Not Hispanic/Latino Sentenced 10/15/24 AA Meeting DS1 w/Dan Participated
+Plymouth 2699740 JPHC0S2402802 White Not Hispanic/Latino Sentenced 10/15/24 Victim Impact Phase 1 Released
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 10/15/24 Victim Impact Phase 1 Participated
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/15/24 Dialectical Behav Intro DN1 w/Jenna Released
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/15/24 Dreams in Action DN1 Released
+Plymouth 5525882 MA21258020 JPHC1J2400616 White Not Hispanic/Latino Sentenced 10/15/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth MA21146243 JPHC2J2402909 White Not Hispanic/Latino Sentenced 10/15/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth 3200625 MA10636095 JPHC1J2401991 White Not Hispanic/Latino Sentenced 10/15/24 Victim Impact Phase 1 Released
+Plymouth 2406848 MA09739643 JPHC1J2400349 White Not Hispanic/Latino Pre-Trial 10/15/24 Jewish Services BN2 Tuesday Released
+Plymouth 3157681 MA10558232 White Not Hispanic/Latino Sentenced 10/16/24 GED Sentenced Unknown
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 10/16/24 MG CHGs RESUMES DN1 Participated
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 10/16/24 MKG CHG Coping Skills DN1 DP Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/16/24 Dreams in Action DN1 Currently Enrolled
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/16/24 MG CHGs RESUMES DN1 Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/16/24 MKGCGSSS Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/16/24 PARENTING Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 10/16/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 10/16/24 Step Work Participated
+Plymouth 5525515 MA21202248 JPHC1J2202880 Black/African American Unavailable Pre-Trial 10/16/24 Process Group-Pathways to Recovery Participated
+Plymouth 2663261 MA10337414 JPHC1J2403043 White Not Hispanic/Latino Sentenced 10/16/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 10/16/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth MA10639887 HPHC1H2402705 Asian/Pacific Islander Not Hispanic/Latino Sentenced 10/16/24 Computer Applications Participated
+Plymouth 3216443 MA10606540 JPHC0T2200137 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 5532433 MA21229088 JPHC1J2403143 White Hispanic/Latino Pre-Trial 10/16/24 Spanish Service Trial Thursday Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/16/24 Step Work Released
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 10/16/24 Process Group-Pathways to Recovery Released
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 10/16/24 Step Work Released
+Plymouth 2487759 MA10456888 JPHC1J2402929 White Not Hispanic/Latino Pre-Trial 10/16/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 5525646 MA21148219 JPHC1J2403179 Black/African American Unavailable Pre-Trial 10/16/24 GED Trial Deb Participated
+Plymouth 2271593 MA21255153 JPHC1J2403129 White Not Hispanic/Latino Pre-Trial 10/16/24 Catholic Rosary Trial Wednesday Released
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 10/16/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 10/16/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 3114569 MA10342914 JPHC1J2400120 Black/African American Not Hispanic/Latino Pre-Trial 10/16/24 CAD Participated
+Plymouth 5621575 MA21258300 JPHC1J2403021 White Not Hispanic/Latino Pre-Trial 10/16/24 Spanish Service Trial Thursday Participated
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/16/24 MG CHGs RESUMES DN1 Released
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/16/24 MKGCGSSS Released
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/16/24 PARENTING Released
+Plymouth 3166940 MA10509039 JPHC1J2402987 White Not Hispanic/Latino Pre-Trial 10/16/24 Catholic Rosary Trial Wednesday Released
+Plymouth 3166940 MA10509039 JPHC1J2402987 White Not Hispanic/Latino Pre-Trial 10/16/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 2336291 MA10024284 JPHC1J2403073 White Not Hispanic/Latino Pre-Trial 10/16/24 Catholic Rosary Trial Wednesday Released
+Plymouth 5289058 MA21092484 Black/African American Not Hispanic/Latino Sentenced 10/17/24 Con Res parenting 10/24 Participated
+Plymouth 5289058 MA21092484 Black/African American Not Hispanic/Latino Sentenced 10/17/24 conflict resolution AM Oct 24 Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/17/24 Con Res parenting 10/24 Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 10/17/24 conflict resolution AM Oct 24 Participated
+Plymouth MA21067756 White Not Hispanic/Latino Sentenced 10/17/24 Con Res parenting 10/24 Participated
+Plymouth MA21067756 White Not Hispanic/Latino Sentenced 10/17/24 conflict resolution AM Oct 24 Participated
+Plymouth 3117447 MA10430499 JPHC1J2301173 Other/Unknown Not Hispanic/Latino Sentenced 10/17/24 Con Res parenting 10/24 Released
+Plymouth 3117447 MA10430499 JPHC1J2301173 Other/Unknown Not Hispanic/Latino Sentenced 10/17/24 conflict resolution AM Oct 24 Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/17/24 iTHIRST FS1 2pm(1400) w/Paul K Participated
+Plymouth 2699740 JPHC0S2402802 White Not Hispanic/Latino Sentenced 10/17/24 Con Res parenting 10/24 Released
+Plymouth 2699740 JPHC0S2402802 White Not Hispanic/Latino Sentenced 10/17/24 Phase1Life Released
+Page 16 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 2699740 JPHC0S2402802 White Not Hispanic/Latino Sentenced 10/17/24 conflict resolution AM Oct 24 Released
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 10/17/24 Con Res parenting 10/24 Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 10/17/24 conflict resolution AM Oct 24 Participated
+Plymouth 2705313 MA10071502 JPHC0T2101471 White Not Hispanic/Latino Sentenced 10/17/24 Con Res parenting 10/24 Released
+Plymouth 2705313 MA10071502 JPHC0T2101471 White Not Hispanic/Latino Sentenced 10/17/24 conflict resolution AM Oct 24 Released
+Plymouth 3200625 MA10636095 JPHC1J2401991 White Not Hispanic/Latino Sentenced 10/17/24 Con Res parenting 10/24 Released
+Plymouth 3200625 MA10636095 JPHC1J2401991 White Not Hispanic/Latino Sentenced 10/17/24 conflict resolution AM Oct 24 Released
+Plymouth 3101402 MA10418120 JPHC2J2403208 White Hispanic/Latino Sentenced 10/18/24 Muslim Service Trial Friday Participated
+Plymouth 3148450 MA10493082 JPHC2J2403226 Other/Unknown Not Hispanic/Latino Sentenced 10/18/24 Spanish Service Saturday Trial Participated
+Plymouth 2792996 MA10489255 JPHC1J2403059 White Not Hispanic/Latino Pre-Trial 10/18/24 Calvary Chapel Trial Saturday Participated
+Plymouth MA21228203 HPHC2H2402824 Black/African American Unavailable Sentenced 10/18/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/18/24 Recovery and Spirituality Released
+Plymouth 1847430 MA09801215 JPHC1J2401899 White Hispanic/Latino Pre-Trial 10/18/24 Spanish Service Saturday Trial Released
+Plymouth 2245078 MA09426157 JPHC1J2403134 White Hispanic/Latino Pre-Trial 10/18/24 Spanish Service Saturday Trial Released
+Plymouth 3059035 MA10321536 HPHC1H2402825 Other/Unknown Unavailable Sentenced 10/18/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth 5383960 MA21146584 JPHC1J2403036 Black/African American Not Hispanic/Latino Pre-Trial 10/18/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2336291 MA10024284 JPHC1J2403073 White Not Hispanic/Latino Pre-Trial 10/18/24 Calvary Chapel Trial Saturday Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/21/24 AA - DN1 Thursday Participated
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 10/21/24 AA - DN1 Thursday Released
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 10/21/24 AA - DN1 Thursday Released
+Plymouth 2473978 MA10313775 JPHC0S2403266 Black/African American Not Hispanic/Latino Sentenced 10/21/24 Pare C1 P1 Aug 24 Released
+Plymouth 2159041 MA10159468 JPHC1J2403275 White Not Hispanic/Latino Pre-Trial 10/21/24 AA - Pathways to Recovery Released
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 10/21/24 AA - DN1 Thursday Participated
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 10/21/24 AA - Pathways to Recovery Released
+Plymouth 2760803 MA10638037 JPHC0S2402333 White Not Hispanic/Latino Sentenced 10/21/24 AA - DN1 Thursday Released
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/22/24 Dialectical Behav Intro DN1 w/Jenna Currently Enrolled
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 10/22/24 Coping Skills Released
+Plymouth 3059035 MA10321536 HPHC1H2402825 Other/Unknown Unavailable Sentenced 10/22/24 GED Sentenced Participated
+Plymouth 5279899 MA21001556 Black/African American Not Hispanic/Latino Sentenced 10/22/24 Muslim Service Trial Friday Participated
+Plymouth 5569806 MA21219579 JPHC1J2403278 Black/African American Not Hispanic/Latino Pre-Trial 10/22/24 Muslim Service Trial Friday Released
+Plymouth 3185133 MA21270630 JPHC1J2303179 White Not Hispanic/Latino Pre-Trial 10/23/24 GED Trial Deb Participated
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 10/23/24 RecoveryWritingSS Released
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 10/23/24 RecoveryWritingSS Participated
+Plymouth 2473978 MA10313775 JPHC0S2403266 Black/African American Not Hispanic/Latino Sentenced 10/23/24 C1LIFE Participated
+Plymouth 5025464 JPHC0T2402496 White Not Hispanic/Latino Pre-Trial 10/23/24 RecoveryWritingSS Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/23/24 Criminality and Thinking Errors Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/23/24 RecoveryWritingSS Released
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 10/23/24 RecoveryWritingSS Released
+Plymouth 5361578 MA21066358 JPHC1J2301450 Black/African American Not Hispanic/Latino Pre-Trial 10/23/24 Criminality and Thinking Errors Released
+Plymouth 5361578 MA21066358 JPHC1J2301450 Black/African American Not Hispanic/Latino Pre-Trial 10/23/24 RecoveryWritingSS Participated
+Plymouth 3114569 MA10342914 JPHC1J2400120 Black/African American Not Hispanic/Latino Pre-Trial 10/23/24 RecoveryWritingSS Released
+Plymouth 5609804 MA21290540 JPHC2J2402447 White Not Hispanic/Latino Pre-Trial 10/23/24 ESOL Trial Participated
+Plymouth 584739 MA00939896 JPHC1J2400661 White Not Hispanic/Latino Sentenced 10/23/24 RecoveryWritingSS Participated
+Plymouth 2322731 MA09753706 JPHC1J2400135 White Not Hispanic/Latino Pre-Trial 10/23/24 RecoveryWritingSS Participated
+Plymouth 5569806 MA21219579 JPHC1J2403278 Black/African American Not Hispanic/Latino Pre-Trial 10/23/24 GED Trial Deb Released
+Plymouth 5526889 MA21187498 HPHC3H2302385 White Hispanic/Latino Sentenced 10/24/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/24/24 Making Changes Book Club Participated
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 10/24/24 Refuge Recovery Released
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 10/25/24 Meditation/Mindfulness - Pathways Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 10/25/24 iTHIRST 1:30(1330) FS1 w/Paul K Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 10/28/24 Chaplain Bible Study Sentence Tues Participated
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 10/28/24 Chaplain Bible Study Sentence Tues Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 10/28/24 AA - Pathways to Recovery Participated
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 10/28/24 Psycho-Education Released
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 10/28/24 AA - DN1 Thursday Released
+Plymouth 1756868 MA21030723 JPHC2J2403111 White Not Hispanic/Latino Pre-Trial 10/28/24 Greek Class Trial Tuesday Released
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/28/24 AA - DN1 Thursday Released
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 10/29/24 Peace Educ Prog DN1 Currently Enrolled
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 10/29/24 Peace Educ Prog DN1 Currently Enrolled
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 10/29/24 Chaplains Bible Study Sentenced Wed Participated
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 10/29/24 Chaplains Bible Study Sentenced Wed Released
+Plymouth 2473978 MA10313775 JPHC0S2403266 Black/African American Not Hispanic/Latino Sentenced 10/29/24 CON RES ANHER MANAGEMENT C1 Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 10/29/24 Step Work Participated
+Plymouth 5345523 MA21063054 HPHC1H2401709 Other/Unknown Not Hispanic/Latino Sentenced 10/29/24 Peace Educ Prog DN1 Participated
+Plymouth 1939136 MA10471621 HPHC1H2402123 White Not Hispanic/Latino Sentenced 10/29/24 Peace Educ Prog DN1 Participated
+Plymouth 3093242 MA10379705 HPHC1H2402358 Black/African American Not Hispanic/Latino Sentenced 10/29/24 Peace Educ Prog DN1 Currently Enrolled
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 10/29/24 Peace Educ Prog DN1 Released
+Plymouth 3080830 MA10474532 JPHC1J2400431 White Hispanic/Latino Sentenced 10/29/24 CDL Prep Class DS1 w/Wayne Lane Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 10/30/24 RecoveryWritingSS Participated
+Plymouth 5279899 MA21001556 Black/African American Not Hispanic/Latino Sentenced 10/30/24 GED Sentenced Participated
+Plymouth 2147794 White Not Hispanic/Latino Sentenced 10/31/24 Verteran Group Trial Participated
+Plymouth 5492736 MA21160381 JPHC0S2403371 White Not Hispanic/Latino Sentenced 10/31/24 Verteran Group Trial Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 10/31/24 Psycho-Education Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 10/31/24 Refuge Recovery Participated
+Plymouth 3166993 JPHC0S230073 Black/African American Not Hispanic/Latino Sentenced 11/1/24 AA- C1 Released
+Plymouth 2527237 MA10180035 JPHC0S2400451 White Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 2147794 White Not Hispanic/Latino Sentenced 11/1/24 Catholic Mass Trial Sunday Participated
+Page 17 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 1827389 MA10285008 HPHC1H2401045 White Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 5235407 MA10621923 JPHC2J2403192 White Not Hispanic/Latino Pre-Trial 11/1/24 Catholic Mass Trial Sunday Participated
+Plymouth 2182138 MA09457135 JPHC2J2403252 White Not Hispanic/Latino Pre-Trial 11/1/24 Catholic Mass Trial Sunday Released
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 11/1/24 Community Meeting Released
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/1/24 Community Meeting Participated
+Plymouth 2388888 MA10001588 JPHC1J2300809 Black/African American Not Hispanic/Latino Sentenced 11/1/24 AA- C1 Released
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 11/1/24 Community Meeting Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/1/24 Calvary Chapel Trial Saturday Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/1/24 Community Meeting Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/1/24 Meditation/Mindfulness - Pathways Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/1/24 Process Group-Pathways to Recovery Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/1/24 Recovery and Spirituality Participated
+Plymouth 5655969 MA21287125 JPHC1J2401931 White Not Hispanic/Latino Pre-Trial 11/1/24 GED Trial Deb Participated
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 11/1/24 Community Meeting Released
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 11/1/24 Meditation/Mindfulness - Pathways Released
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 11/1/24 Recovery and Spirituality Released
+Plymouth 2251147 MA09835716 Other/Unknown Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 2708563 MA10099265 JPHC1J2403222 Other/Unknown Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 3114569 MA10342914 JPHC1J2400120 Black/African American Not Hispanic/Latino Pre-Trial 11/1/24 Community Meeting Released
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 403282 MA00784489 JPHC2J2401886 White Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 5279899 MA21001556 Black/African American Not Hispanic/Latino Sentenced 11/1/24 Muslim Services Sentenced Friday Participated
+Plymouth 5450902 MA21130979 JPHC1J2301837 White Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 11/1/24 Catholic Mass Sent Sunday Participated
+Plymouth 2805905 JPHC0S2403310 White Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 2835801 MA10380758 JPHC1J2403104 White Not Hispanic/Latino Pre-Trial 11/1/24 Calvary Chapel Trial Saturday Released
+Plymouth 2835801 MA10380758 JPHC1J2403104 White Not Hispanic/Latino Pre-Trial 11/1/24 Catholic Mass Trial Sunday Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/1/24 Calvary Chapel Trial Saturday Participated
+Plymouth 584739 MA00939896 JPHC1J2400661 White Not Hispanic/Latino Sentenced 11/1/24 Community Meeting Participated
+Plymouth 5525882 MA21258020 JPHC1J2400616 White Not Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 2322731 MA09753706 JPHC1J2400135 White Not Hispanic/Latino Pre-Trial 11/1/24 Community Meeting Participated
+Plymouth 5341307 Black/African American Not Hispanic/Latino Pre-Trial 11/1/24 Calvary Chapel Trial Saturday Participated
+Plymouth 3080830 MA10474532 JPHC1J2400431 White Hispanic/Latino Sentenced 11/1/24 OSHA Participated
+Plymouth 5411586 MA21099575 JPHC2J2402760 White Not Hispanic/Latino Pre-Trial 11/1/24 Calvary Chapel Trial Saturday Released
+Plymouth 2200470 MA09722722 JPHC1J2402462 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Chaplains Bible Study Trial Monday Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/4/24 Chaplains Bible Study Trial Monday Participated
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 11/4/24 Chaplains Bible Study Trial Monday Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 11/4/24 C1Art Participated
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 AA - Pathways to Recovery Released
+Plymouth 5341307 Black/African American Not Hispanic/Latino Pre-Trial 11/4/24 Chaplains Bible Study Trial Monday Participated
+Plymouth 5235407 MA10621923 JPHC2J2403192 White Not Hispanic/Latino Pre-Trial 11/5/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 3185133 MA21270630 JPHC1J2303179 White Not Hispanic/Latino Pre-Trial 11/5/24 EDU HISET EXAM Participated
+Plymouth MA10639887 HPHC1H2402705 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/5/24 Dialectical Behav Intro DN1 w/Jenna Participated
+Plymouth MA10639887 HPHC1H2402705 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/5/24 Dreams in Action DN1 Participated
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 11/5/24 Mindfulness and Eastern Philosophy Released
+Plymouth MA09205894 JPHC3J2401771 White Not Hispanic/Latino Sentenced 11/5/24 Chaplain Bible Study Sentence Tues Participated
+Plymouth MA09205894 JPHC3J2401771 White Not Hispanic/Latino Sentenced 11/5/24 Chaplains Bible Study Sentenced Wed Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/5/24 Coping Skills Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/5/24 Mindfulness and Eastern Philosophy Participated
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/5/24 Dialectical Behav Intro DN1 w/Jenna Released
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/5/24 Dreams in Action DN1 Released
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/5/24 MKGCHG M&I Released
+Plymouth 5367729 MA21070022 JPHC1J2402142 Black/African American Not Hispanic/Latino Pre-Trial 11/5/24 EDU HISET EXAM Participated
+Plymouth 2835801 MA10380758 JPHC1J2403104 White Not Hispanic/Latino Pre-Trial 11/5/24 Catholic Rosary Trial Wednesday Released
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/5/24 Dialectical Behav Intro DN1 w/Jenna Released
+Plymouth 5569806 MA21219579 JPHC1J2403278 Black/African American Not Hispanic/Latino Pre-Trial 11/5/24 EDU HISET EXAM Released
+Plymouth 484863 JPHCS2402636 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Con Res parenting 10/24 Released
+Plymouth 484863 JPHCS2402636 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Phase1Life Released
+Plymouth 484863 JPHCS2402636 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Victim Impact Phase 1 Participated
+Plymouth 484863 JPHCS2402636 Black/African American Not Hispanic/Latino Sentenced 11/6/24 conflict resolution AM Oct 24 Released
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 11/6/24 Con Res parenting 10/24 Participated
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 11/6/24 Phase1Life Participated
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 11/6/24 Recovery Writing 2 Participated
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 11/6/24 Victim Impact Phase 1 Participated
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 11/6/24 conflict resolution AM Oct 24 Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Con Res parenting 10/24 Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Phase1Life Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 11/6/24 Victim Impact Phase 1 Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 11/6/24 conflict resolution AM Oct 24 Participated
+Plymouth 3148450 MA10493082 JPHC2J2403226 Other/Unknown Not Hispanic/Latino Sentenced 11/6/24 Spanish Service Trial Thursday Participated
+Plymouth MA10639887 HPHC1H2402705 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/6/24 MKG CHG Coping Skills DN1 DP Participated
+Plymouth MA10639887 HPHC1H2402705 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/6/24 PARENTING Participated
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/6/24 Con Res parenting 10/24 Participated
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/6/24 Victim Impact Phase 1 Participated
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/6/24 conflict resolution AM Oct 24 Participated
+Plymouth 5548577 MA10004754 JPHC1J2403158 White Not Hispanic/Latino Sentenced 11/6/24 Mindfulness and Eastern Philosophy Released
+Plymouth 2708563 MA10099265 JPHC1J2403222 Other/Unknown Not Hispanic/Latino Sentenced 11/6/24 Con Res parenting 10/24 Participated
+Page 18 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 2708563 MA10099265 JPHC1J2403222 Other/Unknown Not Hispanic/Latino Sentenced 11/6/24 Phase1Life Participated
+Plymouth 2708563 MA10099265 JPHC1J2403222 Other/Unknown Not Hispanic/Latino Sentenced 11/6/24 Victim Impact Phase 1 Participated
+Plymouth 2708563 MA10099265 JPHC1J2403222 Other/Unknown Not Hispanic/Latino Sentenced 11/6/24 conflict resolution AM Oct 24 Participated
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/6/24 PARENTING Released
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 11/6/24 Con Res parenting 10/24 Participated
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 11/6/24 Victim Impact Phase 1 Participated
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 11/6/24 conflict resolution AM Oct 24 Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 11/6/24 Recovery Writing 2 Participated
+Plymouth MA10500957 White Not Hispanic/Latino Sentenced 11/6/24 Con Res parenting 10/24 Participated
+Plymouth MA10500957 White Not Hispanic/Latino Sentenced 11/6/24 Phase1Life Participated
+Plymouth MA10500957 White Not Hispanic/Latino Sentenced 11/6/24 Victim Impact Phase 1 Participated
+Plymouth MA10500957 White Not Hispanic/Latino Sentenced 11/6/24 conflict resolution AM Oct 24 Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/6/24 Con Res parenting 10/24 Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/6/24 Phase1Life Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/6/24 conflict resolution AM Oct 24 Participated
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/6/24 Dreams in Action DN1 Released
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/6/24 MKG CHG Coping Skills DN1 DP Released
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/6/24 PARENTING Released
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth 2324550 JHPC0S2402934 White Not Hispanic/Latino Sentenced 11/7/24 Veterans Group Sentenced Released
+Plymouth MA10639887 HPHC1H2402705 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/7/24 MG CHGs RESUMES DN1 Participated
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/7/24 OSHA Released
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/7/24 Phase1Life Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/7/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/7/24 Family Dynmaics Participated
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth 2251147 MA09835716 Other/Unknown Not Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth 2708563 MA10099265 JPHC1J2403222 Other/Unknown Not Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/7/24 MG CHGs RESUMES DN1 Participated
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 11/7/24 Phase1Life Participated
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 11/7/24 Recovery Writing 2 Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 11/7/24 Relapse Prevention Participated
+Plymouth 403282 MA00784489 JPHC2J2401886 White Not Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth 2805905 JPHC0S2403310 White Not Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth 5525882 MA21258020 JPHC1J2400616 White Not Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth 5341307 Black/African American Not Hispanic/Latino Pre-Trial 11/7/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 3080830 MA10474532 JPHC1J2400431 White Hispanic/Latino Sentenced 11/7/24 OSHA Participated
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/7/24 MG CHGs RESUMES DN1 Participated
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/7/24 Making Changes Book Club Participated
+Plymouth 5289058 MA21092484 Black/African American Not Hispanic/Latino Sentenced 11/8/24 Future Hope Pre-Apprenticeship Prog Currently Enrolled
+Plymouth 3198733 MA10616446 JPHC1J2202887 Black/African American Unavailable Sentenced 11/8/24 Future Hope Pre-Apprenticeship Prog Released
+Plymouth 5423400 MA21108671 JPHC1J2202315 White Hispanic/Latino Sentenced 11/8/24 MKG CHGS The Secret DN1 w/Michelle Participated
+Plymouth 2960119 MA10429710 JPHC2J2402890 White Not Hispanic/Latino Sentenced 11/8/24 AA - DN1 Thursday Released
+Plymouth 5562381 MA21272043 JPHC1J2403174 Black/African American Not Hispanic/Latino Sentenced 11/8/24 GED Sentenced Participated
+Plymouth 5296079 MA21099379 JPHC0S2401889 White Not Hispanic/Latino Sentenced 11/8/24 Future Hope Pre-Apprenticeship Prog Released
+Plymouth 2543848 MA10142783 JPHC0T2403004 Black/African American Not Hispanic/Latino Pre-Trial 11/8/24 Catholic Mass Trial Sunday Released
+Plymouth 3148450 MA10493082 JPHC2J2403226 Other/Unknown Not Hispanic/Latino Sentenced 11/8/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2994695 White Not Hispanic/Latino Pre-Trial 11/8/24 Catholic Mass Trial Sunday Participated
+Plymouth 2853905 MA10167143 JPHC1J2403438 White Hispanic/Latino Pre-Trial 11/8/24 Catholic Mass Trial Sunday Released
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 11/8/24 Future Hope Pre-Apprenticeship Prog Currently Enrolled
+Plymouth 5284188 MA21007602 HPHC1H2401935 White Not Hispanic/Latino Sentenced 11/8/24 Future Hope Pre-Apprenticeship Prog Currently Enrolled
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 11/8/24 Future Hope Pre-Apprenticeship Prog Currently Enrolled
+Plymouth 2301068 MA10018446 JPHC1J2403437 White Not Hispanic/Latino Pre-Trial 11/8/24 Catholic Mass Trial Sunday Released
+Plymouth 5550976 MA21197516 JPHC0T2402716 White Hispanic/Latino Pre-Trial 11/8/24 Catholic Mass Trial Sunday Participated
+Plymouth 5291854 MA21013049 JPHC1J2403420 White Not Hispanic/Latino Pre-Trial 11/8/24 Catholic Mass Trial Sunday Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/8/24 Catholic Mass Trial Sunday Participated
+Plymouth 2251147 MA09835716 Other/Unknown Not Hispanic/Latino Sentenced 11/8/24 Future Hope Pre-Apprenticeship Prog Participated
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 11/8/24 Catholic Mass Sent Sunday Participated
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/8/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 11/8/24 Dual Diagnosis Participated
+Plymouth 5187606 MA10568343 JPHC2J2403406 White Hispanic/Latino Pre-Trial 11/8/24 Spanish Service Saturday Trial Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/8/24 Catholic Mass Trial Sunday Released
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/8/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 2336291 MA10024284 JPHC1J2403073 White Not Hispanic/Latino Pre-Trial 11/8/24 Catholic Mass Trial Sunday Released
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 11/12/24 Chaplain Bible Study Sentence Tues Participated
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/12/24 MKGCHG M&I Released
+Plymouth 484863 JPHCS2402636 Black/African American Not Hispanic/Latino Sentenced 11/13/24 Future Hope Pre-Apprenticeship Prog Released
+Plymouth 5568641 MA21283241 HPHC1H2403507 Other/Unknown Unavailable Sentenced 11/13/24 SA-BS2 Released
+Plymouth 2543848 MA10142783 JPHC0T2403004 Black/African American Not Hispanic/Latino Pre-Trial 11/13/24 Catholic Rosary Trial Wednesday Released
+Plymouth 2988996 MA10263775 HPHC1H2403508 Other/Unknown Not Hispanic/Latino Sentenced 11/13/24 ANGER MANAGEMENT BS2 Released
+Plymouth 2988996 MA10263775 HPHC1H2403508 Other/Unknown Not Hispanic/Latino Sentenced 11/13/24 SA-BS2 Released
+Plymouth 2853905 MA10167143 JPHC1J2403438 White Hispanic/Latino Pre-Trial 11/13/24 Catholic Rosary Trial Wednesday Released
+Plymouth 5560595 MA21213264 HPHC1H2402122 White Hispanic/Latino Sentenced 11/13/24 Future Hope Pre-Apprenticeship Prog Released
+Plymouth 5630789 White Hispanic/Latino Sentenced 11/13/24 CDL Prep Class DS1 w/Wayne Lane Disciplinary
+Plymouth 5291854 MA21013049 JPHC1J2403420 White Not Hispanic/Latino Pre-Trial 11/13/24 Catholic Rosary Trial Wednesday Released
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/13/24 Future Hope Pre-Apprenticeship Prog Currently Enrolled
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/13/24 Catholic Rosary Trial Wednesday Participated
+Page 19 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 11/13/24 Chaplains Bible Study Sentenced Wed Participated
+Plymouth 5355623 JPHC0S2400283 White Not Hispanic/Latino Sentenced 11/13/24 Future Hope Pre-Apprenticeship Prog Participated
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/13/24 Making Changes Book Club Participated
+Plymouth 2909964 MA10198446 HPHC1H2403506 White Not Hispanic/Latino Sentenced 11/13/24 ANGER MANAGEMENT BS2 Released
+Plymouth 2909964 MA10198446 HPHC1H2403506 White Not Hispanic/Latino Sentenced 11/13/24 SA-BS2 Released
+Plymouth 403282 MA00784489 JPHC2J2401886 White Not Hispanic/Latino Sentenced 11/13/24 Future Hope Pre-Apprenticeship Prog Released
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/13/24 Future Hope Pre-Apprenticeship Prog Currently Enrolled
+Plymouth 3208568 White Not Hispanic/Latino Sentenced 11/13/24 ANGER MANAGEMENT BS2 Participated
+Plymouth 3208568 White Not Hispanic/Latino Sentenced 11/13/24 SA-BS2 Participated
+Plymouth 2805905 JPHC0S2403310 White Not Hispanic/Latino Sentenced 11/13/24 CDL Prep Class DS1 w/Wayne Lane Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/13/24 Catholic Rosary Trial Wednesday Released
+Plymouth 5583159 MA21229325 HPHC1H2403505 White Not Hispanic/Latino Sentenced 11/13/24 ANGER MANAGEMENT BS2 Released
+Plymouth 5583159 MA21229325 HPHC1H2403505 White Not Hispanic/Latino Sentenced 11/13/24 SA-BS2 Released
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Participated
+Plymouth 5423400 MA21108671 JPHC1J2202315 White Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 3148450 MA10493082 JPHC2J2403226 Other/Unknown Not Hispanic/Latino Sentenced 11/14/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 647938 MA00863418 JPHC0S2403532 Black/African American Not Hispanic/Latino Sentenced 11/14/24 Verteran Group Trial Released
+Plymouth 2703088 MA10125867 JPHC1J2301786 White Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Participated
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/14/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 5090738 MA10457133 HPHC1H2402245 White Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 5345523 MA21063054 HPHC1H2401709 Other/Unknown Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 5187606 MA10568343 JPHC2J2403406 White Hispanic/Latino Pre-Trial 11/14/24 Spanish Service Trial Thursday Released
+Plymouth 3093242 MA10379705 HPHC1H2402358 Black/African American Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/14/24 Victim Impact Phase 1 Participated
+Plymouth 1909249 MA09217285 JPHC1J2400415 White Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 2082726 MA21288052 JPHC1J2403527 White Not Hispanic/Latino Pre-Trial 11/14/24 Verteran Group Trial Released
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 2885500 MA21024100 JPHC0S2402335 White Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 5631974 MA21216034 JPHC2J2403499 Black/African American Not Hispanic/Latino Pre-Trial 11/14/24 GED Trial Deb Participated
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/14/24 Making Changes Anger Management Released
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 11/15/24 Catholic Mass Sent Sunday Participated
+Plymouth 5429630 MA21204155 JPHC0S2403606 Black/African American Not Hispanic/Latino Sentenced 11/15/24 Victim Impact Phase 2 Released
+Plymouth 3148450 MA10493082 JPHC2J2403226 Other/Unknown Not Hispanic/Latino Sentenced 11/15/24 Catholic Mass Trial Sunday Participated
+Plymouth 5622173 MA21293261 JPHC1J2402878 Black/African American Unavailable Pre-Trial 11/15/24 Catholic Mass Trial Sunday Participated
+Plymouth 5663232 MA21292616 JPHC1J2403022 White Not Hispanic/Latino Pre-Trial 11/15/24 Spanish Service Saturday Trial Released
+Plymouth 5492736 MA21160381 JPHC0S2403371 White Not Hispanic/Latino Sentenced 11/15/24 Catholic Mass Sent Sunday Released
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 11/15/24 Refuge Recovery Released
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/15/24 Refuge Recovery Participated
+Plymouth 2473978 MA10313775 JPHC0S2403266 Black/African American Not Hispanic/Latino Sentenced 11/15/24 Catholic Mass Sent Sunday Released
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 11/15/24 Refuge Recovery Released
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/15/24 Family Dynamics Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/15/24 Refuge Recovery Participated
+Plymouth 1847430 MA09801215 JPHC1J2401899 White Hispanic/Latino Pre-Trial 11/15/24 Calvary Chapel Trial Saturday Participated
+Plymouth 3114569 MA10342914 JPHC1J2400120 Black/African American Not Hispanic/Latino Pre-Trial 11/15/24 Refuge Recovery Released
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/15/24 Family Dynamics Participated
+Plymouth 1780257 MA09418407 JPHC3J2401944 White Not Hispanic/Latino Pre-Trial 11/15/24 Catholic Mass Trial Sunday Participated
+Plymouth 2889978 MA10368417 JPHC1J2401195 Other/Unknown Not Hispanic/Latino Pre-Trial 11/15/24 Catholic Mass Trial Sunday Released
+Plymouth 584739 MA00939896 JPHC1J2400661 White Not Hispanic/Latino Sentenced 11/15/24 Refuge Recovery Participated
+Plymouth 2322731 MA09753706 JPHC1J2400135 White Not Hispanic/Latino Pre-Trial 11/15/24 Refuge Recovery Participated
+Plymouth 1999973 MA10206242 JPHC1J2402563 White Not Hispanic/Latino Pre-Trial 11/15/24 Calvary Chapel Trial Saturday Released
+Plymouth 2768833 MA10567275 JPHC1J2402870 White Not Hispanic/Latino Pre-Trial 11/15/24 Catholic Mass Trial Sunday Released
+Plymouth 5631974 MA21216034 JPHC2J2403499 Black/African American Not Hispanic/Latino Pre-Trial 11/15/24 Calvary Chapel Trial Saturday Participated
+Plymouth 3101402 MA10418120 JPHC2J2403208 White Hispanic/Latino Sentenced 11/18/24 AA Meeting DS1 w/Dan Participated
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 11/18/24 Process Group Participated
+Plymouth 5423400 MA21108671 JPHC1J2202315 White Hispanic/Latino Sentenced 11/18/24 Process Group Disciplinary
+Plymouth 5429630 MA21204155 JPHC0S2403606 Black/African American Not Hispanic/Latino Sentenced 11/18/24 C1LIFE Participated
+Plymouth 5492736 MA21160381 JPHC0S2403371 White Not Hispanic/Latino Sentenced 11/18/24 AA Meeting DS1 w/Dan Participated
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/18/24 iTHIRST 1:30(1330) FS1 w/Paul K Participated
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/18/24 MKG CHG Coping Skills DN1 DP Released
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/18/24 Peace Educ Prog DN1 Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/18/24 iTHIRST (2:30) (1430) FS1 w/Paul K Participated
+Plymouth 5090738 MA10457133 HPHC1H2402245 White Not Hispanic/Latino Sentenced 11/18/24 Process Group Released
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 11/18/24 Process Group Released
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/18/24 MKG CHG Coping Skills DN1 DP Released
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 11/18/24 Peace Educ Prog DN1 Released
+Plymouth 1909249 MA09217285 JPHC1J2400415 White Not Hispanic/Latino Sentenced 11/18/24 Process Group Released
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 11/18/24 Process Group Released
+Plymouth 2885500 MA21024100 JPHC0S2402335 White Hispanic/Latino Sentenced 11/18/24 Process Group Released
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/18/24 Peace Educ Prog DN1 Released
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 11/19/24 Future Hope Pre-Apprenticeship Prog Disciplinary
+Plymouth 5569319 MA21219342 HPHC3H2302974 Black/African American Not Hispanic/Latino Sentenced 11/19/24 Future Hope Pre-Apprenticeship Prog Disciplinary
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/19/24 MKGCHG M&I Released
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 11/19/24 Future Hope Pre-Apprenticeship Prog Currently Enrolled
+Plymouth 3092601 MA10378539 JPHC1J2401288 Black/African American Not Hispanic/Latino Sentenced 11/19/24 Future Hope Pre-Apprenticeship Prog Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/19/24 Coping Skills Released
+Page 20 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 5429630 MA21204155 JPHC0S2403606 Black/African American Not Hispanic/Latino Sentenced 11/20/24 CON RES ANHER MANAGEMENT C1 Released
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/20/24 Relapse Prevention Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/20/24 Relapse Prevention Participated
+Plymouth 1780257 MA09418407 JPHC3J2401944 White Not Hispanic/Latino Pre-Trial 11/20/24 Catholic Rosary Trial Wednesday Released
+Plymouth 2889978 MA10368417 JPHC1J2401195 Other/Unknown Not Hispanic/Latino Pre-Trial 11/20/24 Catholic Rosary Trial Wednesday Released
+Plymouth 2768833 MA10567275 JPHC1J2402870 White Not Hispanic/Latino Pre-Trial 11/20/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 11/21/24 Future Hope Pre-Apprenticeship Prog Disciplinary
+Plymouth 5663232 MA21292616 JPHC1J2403022 White Not Hispanic/Latino Pre-Trial 11/21/24 Spanish Service Trial Thursday Participated
+Plymouth 5307363 JPHC0T2403343 White Hispanic/Latino Pre-Trial 11/21/24 Spanish Service Trial Thursday Participated
+Plymouth 5173182 MA10552826 JPHC1J2403634 White Not Hispanic/Latino Pre-Trial 11/21/24 Verteran Group Trial Released
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/21/24 Dialectical Behav Intro DN1 w/Jenna Released
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/21/24 Dreams in Action DN1 Released
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/21/24 PARENTING Released
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/21/24 Recovery Writing 2 Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/21/24 Recovery Writing 2 Participated
+Plymouth 5279899 MA21001556 Black/African American Not Hispanic/Latino Sentenced 11/21/24 Future Hope Pre-Apprenticeship Prog Currently Enrolled
+Plymouth 5668380 MA21296455 JPHC2J2403388 White Not Hispanic/Latino Pre-Trial 11/21/24 Verteran Group Trial Participated
+Plymouth 410323 MA21050360 JPHC0T2403589 White Not Hispanic/Latino Pre-Trial 11/21/24 Verteran Group Trial Released
+Plymouth 3087289 MA10644058 HPHC1H2403585 White Not Hispanic/Latino Sentenced 11/22/24 GED Sentenced Released
+Plymouth 5593622 MA21236838 HPHC1H2403421 White Hispanic/Latino Sentenced 11/22/24 GED Sentenced Participated
+Plymouth 5661405 MA21291314 JPHC1J2402556 White Unavailable Pre-Trial 11/22/24 Catholic Mass Trial Sunday Released
+Plymouth 5591074 MA21235127 JPHC1J2403496 Black/African American Not Hispanic/Latino Pre-Trial 11/22/24 Muslim Service Trial Friday Participated
+Plymouth 2110936 MA10360641 JPHC0T2403088 White Unavailable Pre-Trial 11/22/24 iTHIRST 2pm FS1 w/Paul K Released
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/22/24 Dual Diagnosis Participated
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/22/24 Mindfulness and Eastern Principles Participated
+Plymouth 5636897 MA21270798 JPHC1J2403509 Black/African American Not Hispanic/Latino Pre-Trial 11/22/24 Calvary Chapel Trial Saturday Released
+Plymouth 5636897 MA21270798 JPHC1J2403509 Black/African American Not Hispanic/Latino Pre-Trial 11/22/24 GED Trial Deb Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/22/24 Dual Diagnosis Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/22/24 Mindfulness and Eastern Principles Participated
+Plymouth 2889978 MA10368417 JPHC1J2401195 Other/Unknown Not Hispanic/Latino Pre-Trial 11/22/24 Calvary Chapel Trial Saturday Participated
+Plymouth 5349665 MA21129666 JPHC1J2403539 Black/African American Not Hispanic/Latino Pre-Trial 11/22/24 Chaplains Bible Study Trial Monday Participated
+Plymouth 5621575 MA21258300 JPHC1J2403021 White Not Hispanic/Latino Pre-Trial 11/22/24 Catholic Mass Trial Sunday Participated
+Plymouth 1796002 MA09104490 JPHC1J2400562 Black/African American Not Hispanic/Latino Sentenced 11/22/24 Catholic Mass Sent Sunday Participated
+Plymouth 903708 MA00847169 JPHC1J2403286 White Not Hispanic/Latino Sentenced 11/22/24 Catholic Mass Sent Sunday Participated
+Plymouth 5553616 MA21240715 JPHC2J2403530 White Hispanic/Latino Pre-Trial 11/22/24 GED Trial Deb Participated
+Plymouth 3167523 MA10624623 JPHC1J2402860 White Not Hispanic/Latino Pre-Trial 11/22/24 GED Trial Deb Participated
+Plymouth 1064304 MA09115959 JPHC1J2402507 Black/African American Not Hispanic/Latino Sentenced 11/22/24 Muslim Services Sentenced Friday Released
+Plymouth 996436 MA09119393 JPHC1J2300963 Black/African American Not Hispanic/Latino Pre-Trial 11/22/24 Calvary Chapel Trial Saturday Released
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 11/25/24 Process Group Participated
+Plymouth 2703088 MA10125867 JPHC1J2301786 White Not Hispanic/Latino Sentenced 11/25/24 Process Group Participated
+Plymouth MA10117400 Other/Unknown Not Hispanic/Latino Sentenced 11/25/24 AA - DN1 Thursday Participated
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 11/25/24 Process Group Released
+Plymouth 3093242 MA10379705 HPHC1H2402358 Black/African American Not Hispanic/Latino Sentenced 11/25/24 Process Group Participated
+Plymouth 2671511 White Not Hispanic/Latino Sentenced 11/25/24 AA - DN1 Thursday Participated
+Plymouth 2894643 MA10518099 HPHC1H2402827 White Not Hispanic/Latino Sentenced 11/25/24 Process Group Released
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 AA - Pathways to Recovery Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Community Meeting Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Coping Skills Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Criminality and Thinking Errors Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Family Dynmaics Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Meditation/Mindfulness - Pathways Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Mindfulness and Eastern Philosophy Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 NA Peer Group Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Opioid Overdose Prevention-Pathways Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Recovery Art Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Recovery and Spirituality Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 RecoveryWritingSS Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Refuge Recovery Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Refuge Recovery Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/26/24 Step Work Participated
+Plymouth 3087289 MA10644058 HPHC1H2403585 White Not Hispanic/Latino Sentenced 11/26/24 EDU HISET EXAM Released
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 11/26/24 Opioid Overdose Prevention-Pathways Released
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 11/26/24 Recovery Art Released
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/26/24 Recovery Art Participated
+Plymouth MA10639887 HPHC1H2402705 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/26/24 EDU HISET EXAM Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/26/24 Criminality and Thinking Errors Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/26/24 Opioid Overdose Prevention-Pathways Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/26/24 Recovery Art Participated
+Plymouth 3093242 MA10379705 HPHC1H2402358 Black/African American Not Hispanic/Latino Sentenced 11/26/24 EDU HISET EXAM Participated
+Plymouth 3059035 MA10321536 HPHC1H2402825 Other/Unknown Unavailable Sentenced 11/26/24 EDU HISET EXAM Participated
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Community Meeting Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Criminality and Thinking Errors Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Family Dynmaics Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Meditation/Mindfulness - Pathways Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Mindfulness and Eastern Philosophy Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 NA Peer Group Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Opioid Overdose Prevention-Pathways Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Recovery Art Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Recovery and Spirituality Released
+Page 21 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 RecoveryWritingSS Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Refuge Recovery Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Refuge Recovery Released
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/26/24 Step Work Released
+Plymouth 584739 MA00939896 JPHC1J2400661 White Not Hispanic/Latino Sentenced 11/26/24 Recovery Art Participated
+Plymouth 2322731 MA09753706 JPHC1J2400135 White Not Hispanic/Latino Pre-Trial 11/26/24 Recovery Art Participated
+Plymouth 903708 MA00847169 JPHC1J2403286 White Not Hispanic/Latino Sentenced 11/26/24 Chaplain Bible Study Sentence Tues Released
+Plymouth 2527237 MA10180035 JPHC0S2400451 White Not Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Participated
+Plymouth 5207859 MA10589901 JPHC2J2401575 White Not Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 11/27/24 Open Group Participated
+Plymouth 3093498 MA10399745 JPHC0S2400759 White Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Released
+Plymouth 5653010 MA21284796 JPHC1J2401638 Black/African American Not Hispanic/Latino Pre-Trial 11/27/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 5284188 MA21007602 HPHC1H2401935 White Not Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Participated
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 11/27/24 Open Group Released
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 11/27/24 Open Discussion Group Participated
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 11/27/24 Open Group Participated
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Released
+Plymouth 5550976 MA21197516 JPHC0T2402716 White Hispanic/Latino Pre-Trial 11/27/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 5560595 MA21213264 HPHC1H2402122 White Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Released
+Plymouth 5630789 White Hispanic/Latino Sentenced 11/27/24 GED Sentenced Participated
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 11/27/24 Open Group Participated
+Plymouth 3120233 MA21110485 JPHC1J2402027 White Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Released
+Plymouth 2251147 MA09835716 Other/Unknown Not Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Participated
+Plymouth 1756868 MA21030723 JPHC2J2403111 White Not Hispanic/Latino Pre-Trial 11/27/24 Protestant BS Trial Thursday Released
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 11/27/24 Open Discussion Group Participated
+Plymouth 868407 MA00958491 JPHC1J2403327 Black/African American Not Hispanic/Latino Pre-Trial 11/27/24 Open Group Released
+Plymouth 584739 MA00939896 JPHC1J2400661 White Not Hispanic/Latino Sentenced 11/27/24 Open Group Participated
+Plymouth 2322731 MA09753706 JPHC1J2400135 White Not Hispanic/Latino Pre-Trial 11/27/24 Open Group Participated
+Plymouth 903708 MA00847169 JPHC1J2403286 White Not Hispanic/Latino Sentenced 11/27/24 Chaplains Bible Study Sentenced Wed Participated
+Plymouth 5663232 MA21292616 JPHC1J2403022 White Not Hispanic/Latino Pre-Trial 11/29/24 Catholic Mass Trial Sunday Participated
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 11/29/24 Open Discussion Group Participated
+Plymouth 5658588 MA21261892 JPHC1J2402234 Black/African American Unavailable Pre-Trial 11/29/24 Catholic Mass Trial Sunday Participated
+Plymouth 2861710 MA10369817 JPHC2J2402290 Black/African American Not Hispanic/Latino Pre-Trial 11/29/24 Chaplains Bible Study Trial Monday Participated
+Plymouth 2956778 MA10410400 JPHC1J2403625 Black/African American Not Hispanic/Latino Pre-Trial 11/29/24 Muslim Service Trial Friday Released
+Plymouth 854767 MA00613527 JPHC0T2403662 Black/African American Not Hispanic/Latino Pre-Trial 11/29/24 Calvary Chapel Trial Saturday Released
+Plymouth 5307363 JPHC0T2403343 White Hispanic/Latino Pre-Trial 11/29/24 Catholic Mass Trial Sunday Participated
+Plymouth MA09205894 JPHC3J2401771 White Not Hispanic/Latino Sentenced 11/29/24 Open Discussion Group Participated
+Plymouth 5355623 JPHC0S2400283 White Not Hispanic/Latino Sentenced 11/29/24 Catholic Mass Sent Sunday Participated
+Plymouth 2692729 MA10054728 JPHC0T2403624 White Not Hispanic/Latino Pre-Trial 11/29/24 Catholic Mass Trial Sunday Released
+Plymouth 3155177 MA10592412 JPHC2J2400704 Black/African American Not Hispanic/Latino Pre-Trial 11/29/24 Catholic Mass Trial Sunday Participated
+Plymouth MA21146243 JPHC2J2402909 White Not Hispanic/Latino Sentenced 11/29/24 Catholic Mass Sent Sunday Participated
+Plymouth 903708 MA00847169 JPHC1J2403286 White Not Hispanic/Latino Sentenced 11/29/24 Calvary Chapel Trial Saturday Participated
+Plymouth 996436 MA09119393 JPHC1J2300963 Black/African American Not Hispanic/Latino Pre-Trial 11/29/24 Chaplains Bible Study Trial Monday Released
+Plymouth 5289058 MA21092484 Black/African American Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Participated
+Plymouth 484863 JPHCS2402636 Black/African American Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Released
+Plymouth MA09802989 HPHC1H2402706 White Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Participated
+Plymouth 3103563 MA10421017 TPHC202400083 Black/African American Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Participated
+Plymouth 5296079 MA21099379 JPHC0S2401889 White Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Released
+Plymouth 5429630 MA21204155 JPHC0S2403606 Black/African American Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Released
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Participated
+Plymouth 5284188 MA21007602 HPHC1H2401935 White Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Participated
+Plymouth MA21067756 White Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Participated
+Plymouth 5560595 MA21213264 HPHC1H2402122 White Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Released
+Plymouth MA10117400 Other/Unknown Not Hispanic/Latino Sentenced 12/2/24 CDL Prep Class DS1 w/Wayne Lane Participated
+Plymouth 2473978 MA10313775 JPHC0S2403266 Black/African American Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Released
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Participated
+Plymouth 2016004 MA00928347 JPHC1J2400384 White Not Hispanic/Latino Pre-Trial 12/2/24 Chaplains Bible Study G Thursday Participated
+Plymouth 1756868 MA21030723 JPHC2J2403111 White Not Hispanic/Latino Pre-Trial 12/2/24 Catholic Scripture Trial Monday Released
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Participated
+Plymouth 2705313 MA10071502 JPHC0T2101471 White Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Released
+Plymouth 403282 MA00784489 JPHC2J2401886 White Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Released
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Participated
+Plymouth 5450902 MA21130979 JPHC1J2301837 White Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Released
+Plymouth 3092601 MA10378539 JPHC1J2401288 Black/African American Not Hispanic/Latino Sentenced 12/2/24 Curiosity and Connections with cara Released
+Plymouth MA10140606 HPHC1H2403633 White Hispanic/Latino Sentenced 12/3/24 EDU HISET EXAM Participated
+Plymouth 2267249 MA09807148 JPHC1J2403027 White Not Hispanic/Latino Pre-Trial 12/4/24 BN2 Bible Study Thursday Released
+Plymouth 2393909 MA09809087 JPHC1J2402941 White Not Hispanic/Latino Pre-Trial 12/4/24 Chaplains Bible Study Sentenced Wed Participated
+Plymouth 2491764 MA09839386 JPHC1J2401191 White Not Hispanic/Latino Pre-Trial 12/4/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/4/24 Chaplains Bible Study Trial Monday Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/4/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/4/24 Protestant BS Trial Thursday Participated
+Plymouth 5435001 MA21252672 JPHC1J2300802 White Not Hispanic/Latino Pre-Trial 12/4/24 Spirituality and Addiction Released
+Plymouth 1988389 MA09806562 JPHC1J2403177 White Not Hispanic/Latino Pre-Trial 12/4/24 BN2 Bible Study Thursday Participated
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/5/24 Dialectical Behav Intro DN1 w/Jenna Currently Enrolled
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/5/24 Dreams in Action DN1 Currently Enrolled
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/5/24 MG CHGs RESUMES DN1 Currently Enrolled
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/5/24 MKGCHG M&I Participated
+Page 22 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/5/24 Process Group Participated
+Plymouth 3101402 MA10418120 JPHC2J2403208 White Hispanic/Latino Sentenced 12/5/24 GED Sentenced Unknown
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/5/24 Dialectical Behav Intro DN1 w/Jenna Released
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/5/24 Dreams in Action DN1 Released
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/5/24 MG CHGs RESUMES DN1 Released
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/5/24 MKGCHG M&I Released
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/5/24 Process Group Released
+Plymouth 854767 MA00613527 JPHC0T2403662 Black/African American Not Hispanic/Latino Pre-Trial 12/5/24 Protestant BS Trial Thursday Released
+Plymouth 407512 MA00716994 JPHC1J2403493 White Not Hispanic/Latino Pre-Trial 12/5/24 Verteran Group Trial Released
+Plymouth 2692729 MA10054728 JPHC0T2403624 White Not Hispanic/Latino Pre-Trial 12/5/24 Verteran Group Trial Released
+Plymouth 903708 MA00847169 JPHC1J2403286 White Not Hispanic/Latino Sentenced 12/5/24 Verteran Group Trial Participated
+Plymouth 996436 MA09119393 JPHC1J2300963 Black/African American Not Hispanic/Latino Pre-Trial 12/5/24 Protestant BS Trial Thursday Released
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/6/24 Community Meeting Participated
+Plymouth 2579530 MA10041564 JPHC1J2403529 Other/Unknown Not Hispanic/Latino Pre-Trial 12/6/24 Calvary Chapel Trial Saturday Released
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/6/24 Community Meeting Released
+Plymouth 5640444 MA21283422 JPHC0T2403763 Black/African American Unavailable Pre-Trial 12/6/24 Catholic Mass Trial Sunday Released
+Plymouth 3120233 MA21110485 JPHC1J2402027 White Hispanic/Latino Sentenced 12/6/24 Catholic Mass Sent Sunday Released
+Plymouth 407512 MA00716994 JPHC1J2403493 White Not Hispanic/Latino Pre-Trial 12/6/24 Catholic Mass Trial Sunday Participated
+Plymouth 3159379 MA21039422 JPHC1J2300884 Black/African American Not Hispanic/Latino Pre-Trial 12/6/24 Calvary Chapel Trial Saturday Participated
+Plymouth 5349665 MA21129666 JPHC1J2403539 Black/African American Not Hispanic/Latino Pre-Trial 12/6/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2980343 MA10286655 Black/African American Not Hispanic/Latino Sentenced 12/6/24 Catholic Mass Trial Sunday Participated
+Plymouth 2838322 JPHC0T2403765 White Not Hispanic/Latino Pre-Trial 12/6/24 Calvary Chapel Trial Saturday Released
+Plymouth 2838322 JPHC0T2403765 White Not Hispanic/Latino Pre-Trial 12/6/24 Catholic Mass Trial Sunday Participated
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/9/24 MKG CHG Coping Skills DN1 DP Participated
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/9/24 Peace Educ Prog DN1 Currently Enrolled
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/9/24 Recovery Art Participated
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/9/24 MKG CHG Coping Skills DN1 DP Released
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/9/24 Peace Educ Prog DN1 Released
+Plymouth 2200470 MA09722722 JPHC1J2402462 Black/African American Not Hispanic/Latino Pre-Trial 12/9/24 Catholic Scripture Trial Monday Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/9/24 Recovery Art Released
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/10/24 AA - Pathways to Recovery Participated
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/10/24 Mindfulness and Eastern Philosophy Participated
+Plymouth 2200470 MA09722722 JPHC1J2402462 Black/African American Not Hispanic/Latino Pre-Trial 12/10/24 Greek Class Trial Tuesday Participated
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/10/24 iTHIRST FN1 1:30 w/Paul K Participated
+Plymouth 5440759 MA21262425 JPHC2J2401136 Black/African American Unavailable Pre-Trial 12/10/24 iTHIRS T H1 2:30 w/Paul K Participated
+Plymouth MA10140606 HPHC1H2403633 White Hispanic/Latino Sentenced 12/10/24 Chaplain Bible Study Sentence Tues Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/10/24 AA - Pathways to Recovery Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/10/24 Mindfulness and Eastern Philosophy Participated
+Plymouth 1774190 MA09111196 JPHC0T2200240 White Not Hispanic/Latino Sentenced 12/10/24 Law & Order Participated
+Plymouth MA09205894 JPHC3J2401771 White Not Hispanic/Latino Sentenced 12/10/24 Mindfulness and Eastern Principles Participated
+Plymouth 5355623 JPHC0S2400283 White Not Hispanic/Latino Sentenced 12/10/24 Chaplain Bible Study Sentence Tues Participated
+Plymouth 3142457 MA10577562 JPHC1J2402324 White Hispanic/Latino Pre-Trial 12/10/24 iTHIRST H1 2:00 w/Paul K Released
+Plymouth MA10500957 White Not Hispanic/Latino Sentenced 12/10/24 Law & Order Participated
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/11/24 RecoveryWritingSS Participated
+Plymouth 2324550 MA10054311 White Not Hispanic/Latino Sentenced 12/11/24 Verteran Group Trial Participated
+Plymouth 1827389 MA10285008 HPHC1H2401045 White Not Hispanic/Latino Sentenced 12/11/24 AA - DN1 Thursday Participated
+Plymouth MA10140606 HPHC1H2403633 White Hispanic/Latino Sentenced 12/11/24 AA - DN1 Thursday Participated
+Plymouth MA10140606 HPHC1H2403633 White Hispanic/Latino Sentenced 12/11/24 Chaplains Bible Study Sentenced Wed Participated
+Plymouth 2925690 MA10545865 HPHC2H2403767 White Not Hispanic/Latino Sentenced 12/11/24 ANGER MANAGEMENT BS2 Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/11/24 RecoveryWritingSS Participated
+Plymouth 2746314 MA10131493 JPHC0S2403825 White Not Hispanic/Latino Sentenced 12/11/24 Verteran Group Trial Participated
+Plymouth MA09205894 JPHC3J2401771 White Not Hispanic/Latino Sentenced 12/11/24 Recovery Writing 2 Participated
+Plymouth 903708 MA00847169 JPHC1J2403286 White Not Hispanic/Latino Sentenced 12/11/24 Veterans Group Sentenced Released
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/12/24 MKG CHGS The Secret DN1 w/Michelle Currently Enrolled
+Plymouth 2527237 MA10180035 JPHC0S2400451 White Not Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Participated
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/12/24 Psycho-Education Participated
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/12/24 Recovery and Spirituality Participated
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/12/24 Refuge Recovery Participated
+Plymouth 5423400 MA21108671 JPHC1J2202315 White Hispanic/Latino Sentenced 12/12/24 MG CHGs RESUMES DN1 Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 12/12/24 Psycho-Education Participated
+Plymouth 3093498 MA10399745 JPHC0S2400759 White Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Released
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/12/24 MKG CHGS The Secret DN1 w/Michelle Released
+Plymouth 2169044 MA21203613 HPHC2H2400756 Black/African American Not Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Participated
+Plymouth 5284188 MA21007602 HPHC1H2401935 White Not Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Participated
+Plymouth 3177490 MA21119845 HPHC1H2400457 Black/African American Unavailable Sentenced 12/12/24 Mindfulness and Eastern Principles Participated
+Plymouth 2316505 MA10138440 JPHC1J2402392 White Not Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Released
+Plymouth 5560595 MA21213264 HPHC1H2402122 White Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Released
+Plymouth 3160288 MA10543280 JPHC1J2402257 White Not Hispanic/Latino Sentenced 12/12/24 MG CHGs RESUMES DN1 Released
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/12/24 Psycho-Education Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/12/24 Recovery and Spirituality Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/12/24 Refuge Recovery Participated
+Plymouth 1102996 MA09401160 JPHC1J2401105 White Not Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Participated
+Plymouth MA09205894 JPHC3J2401771 White Not Hispanic/Latino Sentenced 12/12/24 Dual Diagnosis Participated
+Plymouth MA09205894 JPHC3J2401771 White Not Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Participated
+Plymouth 3120233 MA21110485 JPHC1J2402027 White Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Released
+Plymouth 2251147 MA09835716 Other/Unknown Not Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Participated
+Plymouth 5638484 MA21271935 HPHC1H2402564 White Not Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Participated
+Plymouth MA09509849 HPHC1H2403167 White Not Hispanic/Latino Sentenced 12/12/24 Mindfulness and Eastern Principles Participated
+Plymouth 1648596 MA09200150 JPHC2J2403793 White Not Hispanic/Latino Pre-Trial 12/13/24 Catholic Mass Trial Sunday Participated
+Page 23 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 5562381 MA21272043 JPHC1J2403174 Black/African American Not Hispanic/Latino Sentenced 12/13/24 Catholic Mass Sent Sunday Participated
+Plymouth 5296079 MA21099379 JPHC0S2401889 White Not Hispanic/Latino Sentenced 12/13/24 Confirmation Released
+Plymouth 5072148 MA10441234 HPHC2H2302810 Black/African American Not Hispanic/Latino Sentenced 12/13/24 Catholic Mass Sent Sunday Participated
+Plymouth 2989869 MA10274226 JPHC1J2403135 Black/African American Not Hispanic/Latino Pre-Trial 12/13/24 Catholic Mass Trial Sunday Participated
+Plymouth 5358553 MA21097648 HPHC1H2403939 Black/African American Not Hispanic/Latino Sentenced 12/13/24 Muslim Services Sentenced Friday Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/13/24 MKG CHG Coping Skills DN1 DP Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/13/24 MKG CHGS The Secret DN1 w/Michelle Participated
+Plymouth 5514025 MA21231147 JPHC1J2403761 Black/African American Not Hispanic/Latino Pre-Trial 12/13/24 Catholic Mass Trial Sunday Participated
+Plymouth 1767851 MA09316117 JPHC1J2403799 White Not Hispanic/Latino Pre-Trial 12/13/24 Calvary Chapel Trial Saturday Released
+Plymouth 1767851 MA09316117 JPHC1J2403799 White Not Hispanic/Latino Pre-Trial 12/13/24 Catholic Mass Trial Sunday Participated
+Plymouth 1648596 MA09200150 JPHC2J2403793 White Not Hispanic/Latino Pre-Trial 12/16/24 Catholic Scripture Trial Monday Participated
+Plymouth 5542203 MA21179343 JPHC1J2403755 Black/African American Not Hispanic/Latino Pre-Trial 12/16/24 Muslim Service Trial Friday Participated
+Plymouth 2654544 White Not Hispanic/Latino Sentenced 12/16/24 AA - DN1 Thursday Participated
+Plymouth 2994695 White Not Hispanic/Latino Pre-Trial 12/16/24 Catholic Scripture Trial Monday Participated
+Plymouth 2989869 MA10274226 JPHC1J2403135 Black/African American Not Hispanic/Latino Pre-Trial 12/16/24 Catholic Scripture Trial Monday Released
+Plymouth MA10117400 Other/Unknown Not Hispanic/Latino Sentenced 12/16/24 AA Meeting DS1 w/Dan Participated
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 12/16/24 Process Group Participated
+Plymouth 407512 MA00716994 JPHC1J2403493 White Not Hispanic/Latino Pre-Trial 12/16/24 Catholic Scripture Trial Monday Released
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/16/24 AA - DN1 Thursday Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/16/24 Peace Educ Prog DN1 Currently Enrolled
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/16/24 Process Group Participated
+Plymouth 5345523 MA21063054 HPHC1H2401709 Other/Unknown Not Hispanic/Latino Sentenced 12/16/24 AA - DN1 Thursday Released
+Plymouth 2692729 MA10054728 JPHC0T2403624 White Not Hispanic/Latino Pre-Trial 12/16/24 Catholic Scripture Trial Monday Released
+Plymouth 2671511 White Not Hispanic/Latino Sentenced 12/16/24 AA Meeting DS1 w/Dan Participated
+Plymouth 5609804 MA21290540 JPHC2J2402447 White Not Hispanic/Latino Pre-Trial 12/16/24 Catholic Scripture Trial Monday Participated
+Plymouth 2889978 MA10368417 JPHC1J2401195 Other/Unknown Not Hispanic/Latino Pre-Trial 12/16/24 Catholic Scripture Trial Monday Released
+Plymouth 5514025 MA21231147 JPHC1J2403761 Black/African American Not Hispanic/Latino Pre-Trial 12/16/24 Catholic Scripture Trial Monday Participated
+Plymouth 1767851 MA09316117 JPHC1J2403799 White Not Hispanic/Latino Pre-Trial 12/16/24 Catholic Scripture Trial Monday Released
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/17/24 Coping Skills Participated
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/17/24 Relapse Prevention Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 12/17/24 Relapse Prevention Participated
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 12/17/24 Relapse Prevention Released
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/17/24 Relapse Prevention Participated
+Plymouth 2794333 MA10120110 JPHC1J2401751 White Not Hispanic/Latino Pre-Trial 12/17/24 Greek Class Trial Tuesday Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/17/24 Coping Skills Released
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/17/24 Relapse Prevention Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 12/17/24 Relapse Prevention Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/17/24 Dialectical Behav Intro DN1 w/Jenna Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/17/24 Dreams in Action DN1 Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/17/24 MKGCHG M&I Participated
+Plymouth 1796002 MA09104490 JPHC1J2400562 Black/African American Not Hispanic/Latino Sentenced 12/17/24 Chaplain Bible Study Sentence Tues Participated
+Plymouth 584739 MA00939896 JPHC1J2400661 White Not Hispanic/Latino Sentenced 12/17/24 Relapse Prevention Participated
+Plymouth MA21146243 JPHC2J2402909 White Not Hispanic/Latino Sentenced 12/17/24 Chaplain Bible Study Sentence Tues Participated
+Plymouth 2322731 MA09753706 JPHC1J2400135 White Not Hispanic/Latino Pre-Trial 12/17/24 Relapse Prevention Participated
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Participated
+Plymouth 2848383 MA10236185 HPHC2H2303294 Other/Unknown Not Hispanic/Latino Sentenced 12/18/24 Making Changes Anger Management Participated
+Plymouth 1648596 MA09200150 JPHC2J2403793 White Not Hispanic/Latino Pre-Trial 12/18/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 5616220 MA21254338 JPHC3J2402059 White Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Currently Enrolled
+Plymouth 5328909 MA21045432 Other/Unknown Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Participated
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/18/24 Communication Skills Participated
+Plymouth 5423400 MA21108671 JPHC1J2202315 White Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 12/18/24 Communication Skills Participated
+Plymouth 2531229 MA09900668 HPHC1H2403954 White Not Hispanic/Latino Sentenced 12/18/24 Chaplains Bible Study Sentenced Wed Released
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Released
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/18/24 Making Changes Anger Management Released
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 12/18/24 Communication Skills Released
+Plymouth 2989869 MA10274226 JPHC1J2403135 Black/African American Not Hispanic/Latino Pre-Trial 12/18/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 2703088 MA10125867 JPHC1J2301786 White Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Disciplinary
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/18/24 Communication Skills Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/18/24 Communication Skills Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 12/18/24 Communication Skills Participated
+Plymouth 2790753 MA10482532 HPHC1H2402377 Black/African American Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Released
+Plymouth 5505979 JPHC0S2403242 Black/African American Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Released
+Plymouth 407512 MA00716994 JPHC1J2403493 White Not Hispanic/Latino Pre-Trial 12/18/24 Catholic Rosary Trial Wednesday Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/18/24 MG CHGs RESUMES DN1 Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Participated
+Plymouth 2692729 MA10054728 JPHC0T2403624 White Not Hispanic/Latino Pre-Trial 12/18/24 Catholic Rosary Trial Wednesday Released
+Plymouth 3093242 MA10379705 HPHC1H2402358 Black/African American Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Participated
+Plymouth 1909249 MA09217285 JPHC1J2400415 White Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Released
+Plymouth 5514025 MA21231147 JPHC1J2403761 Black/African American Not Hispanic/Latino Pre-Trial 12/18/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 2580349 MA10207967 JPHC2J2402972 Black/African American Not Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Released
+Plymouth 2885500 MA21024100 JPHC0S2402335 White Hispanic/Latino Sentenced 12/18/24 MKGCHG Rel Prev DN1 w/Jason Released
+Plymouth 584739 MA00939896 JPHC1J2400661 White Not Hispanic/Latino Sentenced 12/18/24 Communication Skills Participated
+Plymouth MA21146243 JPHC2J2402909 White Not Hispanic/Latino Sentenced 12/18/24 Chaplains Bible Study Sentenced Wed Participated
+Plymouth 2322731 MA09753706 JPHC1J2400135 White Not Hispanic/Latino Pre-Trial 12/18/24 Communication Skills Participated
+Plymouth 1767851 MA09316117 JPHC1J2403799 White Not Hispanic/Latino Pre-Trial 12/18/24 Catholic Rosary Trial Wednesday Participated
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/19/24 Addiction Education Participated
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/19/24 Communication Skills Participated
+Plymouth 2324550 MA10054311 White Not Hispanic/Latino Sentenced 12/19/24 Protestant BS Trial Thursday Participated
+Page 24 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 12/19/24 Addiction Education Participated
+Plymouth 5055711 MA10366597 JPHC1J2401050 White Not Hispanic/Latino Pre-Trial 12/19/24 Communication Skills Participated
+Plymouth 5494173 MA21161708 Black/African American Not Hispanic/Latino Sentenced 12/19/24 GED Sentenced Participated
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 12/19/24 Addiction Education Released
+Plymouth 5622465 MA21292657 JPHC1J2402785 White Not Hispanic/Latino Pre-Trial 12/19/24 Communication Skills Released
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/19/24 Addiction Education Participated
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/19/24 Communication Skills Participated
+Plymouth 2794333 MA10120110 JPHC1J2401751 White Not Hispanic/Latino Pre-Trial 12/19/24 Protestant BS Trial Thursday Released
+Plymouth MA21228203 HPHC2H2402824 Black/African American Unavailable Sentenced 12/19/24 AA Meeting DS1 w/Dan Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/19/24 Addiction Education Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/19/24 Communication Skills Released
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 12/19/24 Addiction Education Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 12/19/24 Communication Skills Participated
+Plymouth MA10253757 White Not Hispanic/Latino Sentenced 12/19/24 Making Changes Anger Management Participated
+Plymouth MA21246723 HPHC1H2403268 White Unavailable Sentenced 12/19/24 AA Meeting DS1 w/Dan Participated
+Plymouth 584739 MA00939896 JPHC1J2400661 White Not Hispanic/Latino Sentenced 12/19/24 Addiction Education Participated
+Plymouth 584739 MA00939896 JPHC1J2400661 White Not Hispanic/Latino Sentenced 12/19/24 Communication Skills Participated
+Plymouth 2322731 MA09753706 JPHC1J2400135 White Not Hispanic/Latino Pre-Trial 12/19/24 Addiction Education Participated
+Plymouth 2322731 MA09753706 JPHC1J2400135 White Not Hispanic/Latino Pre-Trial 12/19/24 Communication Skills Participated
+Plymouth 1767851 MA09316117 JPHC1J2403799 White Not Hispanic/Latino Pre-Trial 12/19/24 Protestant BS Trial Thursday Participated
+Plymouth 1967131 MA09308160 JPHC1J2400357 White Not Hispanic/Latino Pre-Trial 12/20/24 SERVSAFE EXAM Released
+Plymouth MA21194505 HPHC1H2403267 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/20/24 Catholic Mass Sent Sunday Participated
+Plymouth 3101104 Other/Unknown Not Hispanic/Latino Pre-Trial 12/20/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2794333 MA10120110 JPHC1J2401751 White Not Hispanic/Latino Pre-Trial 12/20/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2794333 MA10120110 JPHC1J2401751 White Not Hispanic/Latino Pre-Trial 12/20/24 Catholic Mass Trial Sunday Participated
+Plymouth 5632712 JPHC0T2403980 Black/African American Not Hispanic/Latino Pre-Trial 12/20/24 Calvary Chapel Trial Saturday Released
+Plymouth 5632712 JPHC0T2403980 Black/African American Not Hispanic/Latino Pre-Trial 12/20/24 Spanish Service Saturday Trial Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/20/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/20/24 Catholic Mass Trial Sunday Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/20/24 Refuge Recovery Participated
+Plymouth MA09205894 JPHC3J2401771 White Not Hispanic/Latino Sentenced 12/20/24 Catholic Mass Sent Sunday Participated
+Plymouth 2769159 MA10102466 JPHC2J2403956 White Not Hispanic/Latino Pre-Trial 12/20/24 Calvary Chapel Trial Saturday Released
+Plymouth 5349665 MA21129666 JPHC1J2403539 Black/African American Not Hispanic/Latino Pre-Trial 12/20/24 Catholic Mass Trial Sunday Participated
+Plymouth 776176 MA00992357 JPHC1J2403619 White Hispanic/Latino Sentenced 12/20/24 Catholic Mass Sent Sunday Released
+Plymouth 3101104 Other/Unknown Not Hispanic/Latino Pre-Trial 12/23/24 Protestant BS Trial Thursday Participated
+Plymouth 2794333 MA10120110 JPHC1J2401751 White Not Hispanic/Latino Pre-Trial 12/23/24 Chaplains Bible Study Trial Monday Participated
+Plymouth 5632712 JPHC0T2403980 Black/African American Not Hispanic/Latino Pre-Trial 12/23/24 Protestant BS Trial Thursday Participated
+Plymouth 533285 MA08903149 JPHC2J2403328 White Not Hispanic/Latino Sentenced 12/23/24 Protestant BS Trial Thursday Participated
+Plymouth 2769159 MA10102466 JPHC2J2403956 White Not Hispanic/Latino Pre-Trial 12/23/24 Chaplains Bible Study Trial Monday Released
+Plymouth 2769159 MA10102466 JPHC2J2403956 White Not Hispanic/Latino Pre-Trial 12/23/24 Protestant BS Trial Thursday Released
+Plymouth 2889978 MA10368417 JPHC1J2401195 Other/Unknown Not Hispanic/Latino Pre-Trial 12/23/24 Protestant BS Trial Thursday Released
+Plymouth 5349665 MA21129666 JPHC1J2403539 Black/African American Not Hispanic/Latino Pre-Trial 12/23/24 Protestant BS Trial Thursday Participated
+Plymouth 2768833 MA10567275 JPHC1J2402870 White Not Hispanic/Latino Pre-Trial 12/23/24 Protestant BS Trial Thursday Released
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/24/24 Open Group Participated
+Plymouth 2213080 MA09900003 JPHC0S2403762 White Not Hispanic/Latino Sentenced 12/24/24 Open Group Participated
+Plymouth 5550350 MA21141979 JPHC1J2302746 Black/African American Not Hispanic/Latino Sentenced 12/26/24 CDL Prep Class A1 w/Wayne Lane Currently Enrolled
+Plymouth 2147794 White Not Hispanic/Latino Sentenced 12/26/24 Veterans Group Sentenced Participated
+Plymouth 5207859 MA10589901 JPHC2J2401575 White Not Hispanic/Latino Sentenced 12/26/24 CDL Prep Class A1 w/Wayne Lane Participated
+Plymouth 5500051 MA21225157 JPHC1J2300159 Black/African American Not Hispanic/Latino Sentenced 12/26/24 CDL Prep Class A1 w/Wayne Lane Participated
+Plymouth 2831815 MA10315319 JPHC1J2403034 White Not Hispanic/Latino Sentenced 12/26/24 CDL Prep Class A1 w/Wayne Lane Currently Enrolled
+Plymouth 1003892 MA00839693 JPHC1J2402967 White Not Hispanic/Latino Sentenced 12/26/24 Verteran Group Trial Participated
+Plymouth 5483277 MA21296529 JPHC1J2404063 White Not Hispanic/Latino Pre-Trial 12/26/24 Verteran Group Trial Participated
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 12/26/24 CDL Prep Class A1 w/Wayne Lane Participated
+Plymouth 2747809 MA10368591 White Hispanic/Latino Sentenced 12/26/24 Dual Diagnosis Participated
+Plymouth 3107039 MA10444674 JPHC1J2402501 White Not Hispanic/Latino Pre-Trial 12/26/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 2623269 MA10131837 White Hispanic/Latino Pre-Trial 12/26/24 Verteran Group Trial Participated
+Plymouth 2769159 MA10102466 JPHC2J2403956 White Not Hispanic/Latino Pre-Trial 12/26/24 Chaplains Bible Study Trial Thurs Released
+Plymouth 2124771 MA21077818 JPHC0T2100091 Other/Unknown Hispanic/Latino Pre-Trial 12/26/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 5046338 MA10401135 JPHC2J2402253 White Unavailable Sentenced 12/26/24 Dual Diagnosis Participated
+Plymouth 5349665 MA21129666 JPHC1J2403539 Black/African American Not Hispanic/Latino Pre-Trial 12/26/24 Chaplains Bible Study Trial Thurs Participated
+Plymouth 2218022 MA09740504 JPHC1J2400472 Other/Unknown Not Hispanic/Latino Sentenced 12/26/24 CDL Prep Class A1 w/Wayne Lane Participated
+Plymouth 1648596 MA09200150 JPHC2J2403793 White Not Hispanic/Latino Pre-Trial 12/27/24 Historys Mysteries Participated
+Plymouth 2267249 MA09807148 JPHC1J2403027 White Not Hispanic/Latino Pre-Trial 12/27/24 Indian Wars BN2 Released
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/27/24 Catholic Mass Sent Sunday Participated
+Plymouth 5658588 MA21261892 JPHC1J2402234 Black/African American Unavailable Pre-Trial 12/27/24 Historys Mysteries Participated
+Plymouth 3118031 MA21134544 JPHC1J2403150 White Not Hispanic/Latino Pre-Trial 12/27/24 Indian Wars BN2 Participated
+Plymouth 1083189 MA08909613 JPHC1J2402515 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/27/24 Historys Mysteries Unknown
+Plymouth 1765756 MA09762928 JPHC1J2403294 White Not Hispanic/Latino Sentenced 12/27/24 Open Discussion Group Participated
+Plymouth 5632712 JPHC0T2403980 Black/African American Not Hispanic/Latino Pre-Trial 12/27/24 Catholic Mass Trial Sunday Participated
+Plymouth 5632712 JPHC0T2403980 Black/African American Not Hispanic/Latino Pre-Trial 12/27/24 Historys Mysteries Released
+Plymouth 5591074 MA21235127 JPHC1J2403496 Black/African American Not Hispanic/Latino Pre-Trial 12/27/24 Historys Mysteries Participated
+Plymouth 5592255 MA21251434 JPHC1J2403604 Black/African American Not Hispanic/Latino Pre-Trial 12/27/24 BN2 Bible Study Thursday Participated
+Plymouth 2016004 MA00928347 JPHC1J2400384 White Not Hispanic/Latino Pre-Trial 12/27/24 Historys Mysteries Participated
+Plymouth 645486 MA00668007 JPHC0T2403364 White Not Hispanic/Latino Pre-Trial 12/27/24 Indian Wars BN2 Released
+Plymouth 5415253 MA21101803 JPHC0T2404026 Other/Unknown Not Hispanic/Latino Pre-Trial 12/27/24 Catholic Mass Trial Sunday Participated
+Plymouth 2760803 MA10638037 JPHC0S2402333 White Not Hispanic/Latino Sentenced 12/27/24 Catholic Mass Sent Sunday Participated
+Plymouth 407512 MA00716994 JPHC1J2403493 White Not Hispanic/Latino Pre-Trial 12/27/24 Calvary Chapel Trial Saturday Participated
+Plymouth 2623269 MA10131837 White Hispanic/Latino Pre-Trial 12/27/24 Catholic Mass Trial Sunday Participated
+Plymouth 2623269 MA10131837 White Hispanic/Latino Pre-Trial 12/27/24 Historys Mysteries Participated
+Page 25 of 26
+
+PROGRAMMING
+SHERIFF'S PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY ADMIT TYPE PROGRAM NAME
+OFFICE REGISTERED DATE STATUS
+Plymouth 2243810 MA10081115 JPHC1J2403925 White Unavailable Pre-Trial 12/27/24 Catholic Mass Trial Sunday Participated
+Plymouth 5046338 MA10401135 JPHC2J2402253 White Unavailable Sentenced 12/27/24 Open Discussion Group Participated
+Plymouth 2889978 MA10368417 JPHC1J2401195 Other/Unknown Not Hispanic/Latino Pre-Trial 12/27/24 Historys Mysteries Participated
+Plymouth 5668380 MA21296455 JPHC2J2403388 White Not Hispanic/Latino Pre-Trial 12/27/24 Indian Wars BN2 Participated
+Plymouth 1999973 MA10206242 JPHC0T2403839 White Not Hispanic/Latino Pre-Trial 12/27/24 Calvary Chapel Trial Saturday Released
+Plymouth 3217707 MA21029864 JPHC1J2403673 Black/African American Not Hispanic/Latino Pre-Trial 12/27/24 Historys Mysteries Participated
+Plymouth 2768833 MA10567275 JPHC1J2402870 White Not Hispanic/Latino Pre-Trial 12/27/24 Calvary Chapel Trial Saturday Released
+Plymouth 5401295 MA21097369 JPHC1J2403794 White Hispanic/Latino Pre-Trial 12/27/24 BN2 Bible Study Thursday Participated
+Plymouth 2271548 MA09622826 JPHC1J2404072 White Not Hispanic/Latino Pre-Trial 12/27/24 Catholic Mass Trial Sunday Released
+Plymouth 2268005 MA21122443 JPHC1J2403190 White Not Hispanic/Latino Sentenced 12/30/24 Refuge Recovery Participated
+Plymouth 5632712 JPHC0T2403980 Black/African American Not Hispanic/Latino Pre-Trial 12/30/24 Spanish Service Trial Thursday Participated
+Plymouth 2654544 White Not Hispanic/Latino Sentenced 12/31/24 Dialectical Behav Intro DN1 w/Jenna Disciplinary
+Plymouth 2654544 White Not Hispanic/Latino Sentenced 12/31/24 Dreams in Action DN1 Disciplinary
+Plymouth 2654544 White Not Hispanic/Latino Sentenced 12/31/24 MKGCHG Rel Prev DN1 w/Jason Participated
+Plymouth 3083013 MA10566809 JPHC0S2403175 White Not Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Plymouth 5284188 MA21007602 HPHC1H2401935 White Not Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Plymouth 5568641 MA21283241 HPHC1H2403507 Other/Unknown Not Hispanic/Latino Sentenced 12/31/24 Indian Wars BN2 Participated
+Plymouth 2859256 MA10259782 JPHC1J2403818 White Not Hispanic/Latino Pre-Trial 12/31/24 Relapse Prevention Released
+Plymouth MA10117400 Other/Unknown Not Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Plymouth MA10140606 HPHC1H2403633 White Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Plymouth 2251147 MA09835716 Other/Unknown Not Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Plymouth 5587462 MA21232253 White Not Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Plymouth 2760803 MA10638037 JPHC0S2402333 White Not Hispanic/Latino Sentenced 12/31/24 Dialectical Behav Intro DN1 w/Jenna Participated
+Plymouth 2760803 MA10638037 JPHC0S2402333 White Not Hispanic/Latino Sentenced 12/31/24 Dreams in Action DN1 Participated
+Plymouth 2760803 MA10638037 JPHC0S2402333 White Not Hispanic/Latino Sentenced 12/31/24 MKGCHG Rel Prev DN1 w/Jason Participated
+Plymouth 2671511 White Not Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Plymouth 5609804 MA21290540 JPHC2J2402447 White Not Hispanic/Latino Pre-Trial 12/31/24 ESOL E1 Participated
+Plymouth 3092601 MA10378539 JPHC1J2401288 Black/African American Not Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Plymouth MA21146243 JPHC2J2402909 White Not Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Plymouth 903708 MA00847169 JPHC1J2403286 White Not Hispanic/Latino Sentenced 12/31/24 Construction Drawing Participated
+Page 26 of 26

@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q2 2025
+Dukes County
+Sheriff's Office
+Page 1 of 4
+
+Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40:
+Recording and reporting of data on population of jails and houses of correction
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to
+a jail or house of correction: (i) probation central file number; (ii) fingerprint-based state identification
+number, if available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi)
+type of admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time;
+(x) program participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount
+or reason if no bail set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a
+quarterly report with the reported data covering the entire quarterly period. The reports prepared by
+the sheriff shall contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary
+of public safety and security, the house and senate chairs of the joint committee on the judiciary, the
+house and senate chairs of the joint committee on public safety and homeland security and the clerks
+of the house of representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by
+utilizing data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions & Disclaimer:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the
+Massachusetts Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint
+identification assigned to an individual by the Department of State Police through the Automated Fingerprint
+Identification System (AFIS). The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links
+the individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Disclaimer: The SID, PCF, and OBTN are generated during an individual’s first interaction with the criminal justice
+system. There is often a lag time before the FBI can produce these numbers and they are not immediately available
+during intake. Officers manually add this information once it is received, but some SIDs, PCFs, and OBTNs may not be
+included in this report due to when the data was extracted.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are
+unable to populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these
+metrics so that they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 4
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Dukes 3054893 MA10317957 JDSO2J2500090 White Not Hispanic/Latino 4/9/25 Pre-Trial
+Dukes 2213055 MA09509820 JDSO1J2500098 White Not Hispanic/Latino 4/15/25 Pre-Trial
+Dukes 3177439 MA10627008 JDSO2J2500115 White Not Hispanic/Latino 4/28/25 Pre-Trial
+Dukes 2932888 MA10211392 JDSO1J2500125 White Not Hispanic/Latino 5/6/25 Pre-Trial
+Dukes 1094938 White Not Hispanic/Latino 5/6/25 Pre-Trial
+Dukes 593226 MA09312137 TDSO1T2500127 White Not Hispanic/Latino 5/8/25 Pre-Trial
+Dukes 3150903 MA10575041 White Not Hispanic/Latino 5/9/25 Pre-Trial
+Dukes 5640061 MA21273808 JDSO1J2500140 Other/Unknown Hispanic/Latino 5/19/25 Pre-Trial
+Dukes 5602465 MA21231800 Black/African American Not Hispanic/Latino 5/21/25 Pre-Trial
+Dukes 5271375 MA10655016 Black/African American Not Hispanic/Latino 5/27/25 Pre-Trial
+Dukes 5640061 MA21273808 JDSO1H2500176 Other/Unknown Hispanic/Latino 6/6/25 Pre-Trial
+Dukes 5602465 MA21231800 JDSO1J2500187 Black/African American Not Hispanic/Latino 6/9/25 Pre-Trial
+Dukes MA30008062 JDSO1J2500188 White Not Hispanic/Latino 6/9/25 Pre-Trial
+Dukes 2213055 MA09509820 JDSO1J2500191 White Not Hispanic/Latino 6/12/25 Pre-Trial
+Dukes 2306190 MA09831139 White Not Hispanic/Latino 6/13/25 Pre-Trial
+Dukes MA10184660 JDSO2J2500203 White Not Hispanic/Latino 6/17/25 Pre-Trial
+Dukes 5187691 MA10568499 JDSO2J2500005 White Not Hispanic/Latino Pre-Trial 4/2/25
+Dukes 2932888 MA10211392 JDSO1J2500075 White Not Hispanic/Latino Pre-Trial 4/3/25
+Dukes 3177439 MA10627008 JDSO1J2500072 White Not Hispanic/Latino Pre-Trial 4/10/25
+Dukes 2566829 MA10266482 HDSO2H2400180 White Not Hispanic/Latino Sentenced 4/17/25 5 910
+Dukes 2512051 MA09998029 JDSO1J2400577 White Hispanic/Latino Sentenced 4/22/25 5 365 87
+Dukes 1094938 White Not Hispanic/Latino Pre-Trial 5/6/25
+Dukes 2932888 MA10211392 JDSO1J2500125 White Not Hispanic/Latino Pre-Trial 5/7/25
+Dukes 593226 MA09312137 TDSO1T2500127 White Not Hispanic/Latino Pre-Trial 5/8/25
+Dukes 3150903 MA10575041 JDSO1J2500068 White Not Hispanic/Latino Sentenced 5/9/25 90 86
+Dukes 3054893 MA10317957 JDSO2J2500090 White Not Hispanic/Latino Pre-Trial 5/15/25
+Dukes 3150903 MA10575041 White Not Hispanic/Latino Pre-Trial 5/19/25
+Dukes 5640061 MA21273808 JDSO1J2500140 Other/Unknown Hispanic/Latino Pre-Trial 5/19/25
+Dukes 2730188 MA10334836 White Not Hispanic/Latino Sentenced 5/23/25 15 730 82
+Dukes 3177439 MA10627008 JDSO2J2500115 White Not Hispanic/Latino Pre-Trial 5/27/25
+Dukes 5602465 MA21231800 Black/African American Not Hispanic/Latino Pre-Trial 5/27/25
+Dukes 2213055 MA09509820 JDSO1J2500098 White Not Hispanic/Latino Pre-Trial 5/31/25
+Dukes MA30008062 JDSO1J2500188 White Not Hispanic/Latino Pre-Trial 6/9/25
+Dukes MA10184660 JDSO2J2500203 White Not Hispanic/Latino Pre-Trial 6/18/25
+Page 3 of 4
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Dukes 3054893 MA10317957 JDSO2J2500090 White Not Hispanic/Latino Pre-Trial 4/17/25 Alcoholics Anonymous Released
+Dukes 5398060 MA21090660 White Not Hispanic/Latino Sentenced 5/10/25 Education Participated
+Page 4 of 4

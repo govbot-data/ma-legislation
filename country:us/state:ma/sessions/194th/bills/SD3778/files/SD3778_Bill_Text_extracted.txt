@@ -1,0 +1,537 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Feasibility of No-Cost Testing Requirements for
+Educator Candidates
+As required by Section 288 of Chapter 238 of the Acts of 2024: An Act Relative to
+Strengthening Massachusetts’ Economic Leadership, this report summarizes the
+feasibility of allowing certain educator candidates to complete the testing requirements
+pursuant to section 38G of chapter 70 of the General Laws at no cost to candidates and
+includes a description of The Department’s recent voucher systems designed to pay for
+licensure test fees.
+March 2026
+
+This document was prepared by the Massachusetts Department of Elementary and Secondary
+Education
+Pedro Martinez, Commissioner
+Board of Elementary and Secondary Education Members
+Ms. Katherine Craven, Chair, Brookline
+Mr. Matt Hills, Vice-Chair, Newton
+Ms. Isabella Chamberlain, Student Member, Hudson
+Dr. Ericka Fisher, Worcester
+Dr. Christina Grant, Cambridge
+Ms. Farzana Mohamed, Newton
+Ms. Dálida Rocha, Worcester
+Ms. Kristen Smidy, Westfield
+Ms. Mary Ann Stewart, Lexington
+Ms. Amy Kershaw, Interim Secretary of Education, Jamaica Plain
+Dr. Martin West, Newton
+Pedro Martinez, Commissioner
+Secretary to the Board
+The Massachusetts Department of Elementary and Secondary Education, an affirmative action
+employer, is committed to ensuring that all of its programs and facilities are accessible to all
+members of the public.
+We do not discriminate on the basis of age, color, disability, national origin, race, religion, sex,
+gender identity, or sexual orientation.
+Inquiries regarding the Department’s compliance with Title IX and other civil rights laws may be
+directed to the Human Resources Director, 135 Santilli Highway, Everett, MA 02149. Phone:
+781-338-6105.
+© 2026 Massachusetts Department of Elementary and Secondary Education
+Permission is hereby granted to copy any or all parts of this document for non-commercial
+educational purposes. Please credit the “Massachusetts Department of Elementary and
+Secondary Education.”
+This document printed on recycled paper.
+Massachusetts Department of Elementary and Secondary Education
+135 Santilli Highway, Everett, MA 02149
+Phone 781-338-3000 TTY: N.E.T. Relay 800-439-2370
+www.doe.mass.edu
+
+March 17, 2026
+Dear Members of the General Court:
+I am pleased to submit this report, Feasibility of No-Cost Testing Requirements for
+Educator Candidates, pursuant to Section 288 of Chapter 238: An Act Relative to
+Strengthening Massachusetts’ Economic Leadership.
+Within this report, you will find a summary of the feasibility of allowing educator
+candidates to complete the testing requirements pursuant to section 38G of chapter 70
+of the General Laws at no cost to candidates, as well as a description of the
+Department’s recent voucher systems designed to pay for licensure test fees.
+Sincerely,
+Pedro Martinez
+Commissioner of Elementary and Secondary Education
+
+Table of Contents
+Feasibility of No-Cost Testing Requirements for Educator Candidates ........................... 1
+Table of Contents ......................................................................................................... 4
+Introduction .................................................................................................................. 5
+Definitions .................................................................................................................... 6
+Program Feasibility ...................................................................................................... 7
+Recommendation ..................................................................................................... 7
+Estimating Participation and Cost .............................................................................. 10
+Estimating CLST and Subject Matter Test Attempts ............................................... 10
+Estimating Reattempt Rates .................................................................................. 12
+Estimating Scores within -1 SEM ........................................................................... 14
+Estimating MTEL Costs for Candidates .................................................................. 16
+Estimating Free MTEL Preparation ........................................................................ 18
+Estimating Wraparound Supports .......................................................................... 18
+Estimating Income-Based Testing Vouchers .......................................................... 18
+Recent Voucher Systems .......................................................................................... 19
+Educator Preparation Provider Vouchers ............................................................... 19
+DESE Vouchers ..................................................................................................... 19
+Estimating State Staff ............................................................................................. 19
+Considerations .......................................................................................................... 20
+4
+
+Introduction
+The Department of Elementary and Secondary Education (DESE; The Department)
+respectfully submits this Report to the Legislature: Feasibility of No-Cost Testing
+Requirements for Educator Candidates pursuant to Section 288 of Chapter 238: An Act
+Relative to Strengthening Massachusetts’ Economic Leadership:
+SECTION 288. (a) Notwithstanding any general or special law to the contrary, the
+Department of Elementary and Secondary Education shall study the feasibility of
+establishing a program that allows certain educator candidates to complete the
+testing requirements pursuant to section 38G of chapter 71 of the General Laws
+at no cost to candidates. Such program shall apply to candidates who are
+determined by the department to qualify for financial assistance, or have: (i)
+attempted to complete the testing requirements pursuant to said section 38G of
+said chapter 71; (ii) failed to meet the minimum score requirements established
+by the department; and (iii) earned a score or scores within 1 standard error of
+measurement of passing, as determined by the department. The study may
+include analysis of prior or existing voucher systems designed to pay for
+licensure test fees.
+(b) Not later than October 1, 2025, the department shall file a report, including
+any analysis or recommendations on the feasibility of the program with the clerks
+of the Senate and the House of Representatives and the joint committee on
+education.
+5
+
+Definitions
+Massachusetts Tests for Educator Licensure (MTEL):
+The Massachusetts Tests for Educator Licensure (MTEL) was initiated by the
+Massachusetts Department of Elementary and Secondary Education in 1998 as
+part of our statewide education reform initiative for educators seeking PreK to
+grade 12 academic licenses. The MTEL includes a test of communication and
+literacy skills as well as tests of subject matter knowledge. The tests are
+designed to help ensure that Massachusetts educators can communicate
+adequately with students, parents/guardians, and other educators and that they
+are knowledgeable in the subject matter of the license(s) sought. MTEL includes
+tests for candidates seeking vocational technical and adult basic education
+licenses.
+School Year:
+Teacher preparation programs follow the federal definition of an academic year
+that runs from September 1st through August 31st. At the time of writing this
+report, the most recent complete school year is SY2024: September 1st, 2023
+through August 31st, 2024.
+Dates included:
+This report includes testing data from September 2014 (SY2015) to June 2025
+(SY2025 YTD). Reporting on SY2025 will be incomplete as data from July and
+August 2025 were not available at the time of writing.
+6
+
+Program Feasibility
+A “program that allows certain educator candidates to complete the testing requirements
+pursuant to section 38G of chapter 71 of the General Laws at no cost to candidates” is
+feasible.
+All educator candidates are required to pass the Communications and Literacy Skills
+Test (CLST)1, and most are required to pass at least one subject matter knowledge
+MTEL1 in the licensure field being sought. The CLST MTEL costs $112, and the typical
+subject matter knowledge MTEL costs $1392.
+Estimated annual costs to provide MTEL vouchers range from $1.1 million (the cost of
+one CLST voucher per educator candidate) to $5.4 million (the cost of vouchers for all
+MTELs including first attempts and retakes). A more comprehensive version of a no-cost
+MTEL program would include a combination of testing vouchers, MTEL preparation,
+wraparound supports, and financial support for state staff (1 FTE) to fund program
+operation3. Providing one CLST voucher to every educator candidate with additional
+preparation and wraparound support would cost an estimated $2.5 million annually
+while providing vouchers for all MTELs administered each year along with associated
+supports would cost an estimated $6.8 million annually.
+Recommendation
+Based on the Department’s prior experience with testing vouchers and licensure
+support, the best value for cost would be $2.6 million annually, which funds retest
+vouchers for any educator candidate who is within -1 SEM (standard error of the mean)
+of passing an MTEL, free MTEL preparation courses for all educator candidates,
+wraparound testing and licensure supports for all interested educator candidates, and
+funding for state staff (1 FTE) to support the program.
+Historically, the Department has distributed vouchers broadly, regardless of candidate
+testing history; approximately one-third of these vouchers go unused. Analyses from
+research partners also show that vouchers are more likely to result in passing an MTEL
+when used by candidates who have taken an MTEL previously and are closer to the
+passing score (i.e., within -1 SEM). Based on this data, a program that covers the cost
+of all MTELs without taking into consideration candidate readiness may not be cost-
+effective nor result in licensure. We also know that candidate readiness improves with
+MTEL preparation and wraparound supports. Thus, this report’s recommendation is to
+make available test preparation and wraparound licensure supports for all educator
+1 or approved alternative.
+2 Test fees vary depending on the specific assessment. Current tests in the MTEL suite, including
+approved alternatives to the MTEL, range in cost from $49 to $156. Estimates in this report are based on
+the most frequently accessed tests.
+3 Historically, the development and administration of the MTEL program has been funded entirely through
+candidate test fees. No state funding is currently dedicated to the program or the staff who support it.
+7
+
+candidates and to provide MTEL vouchers to candidates who have attempted an MTEL
+at least once and earned a score within -1 SEM of the passing score.
+Table 1 summarizes the estimated costs of all testing combinations specified in the
+legislation:
+• (i) attempted to complete the testing requirements pursuant to said section 38G
+of said chapter 71;
+o All MTELs (first attempts and retakes)
+o 1 Communications and Literacy Skills test (CLST) + 1 subject matter test
+o 1 Communications and Literacy Skills test (CLST) only
+• (ii) failed to meet the minimum score requirements established by the
+department; and
+o All retakes
+• (iii) earned a score or scores within 1 standard error of measurement of passing,
+as determined by the department.
+o Retakes for 1 SEM below cut score
+Table 1 also includes projected costs for comprehensive MTEL supports available to all
+educator candidates, including the costs associated with developing free MTEL
+preparation courses for all licensure areas, wraparound licensure supports for individual
+candidates, and operational support for one FTE in the state agency.
+Table 2 details the cost of the recommended program, totaling $2.6 million annually.
+Table 1. Estimated annual cost for multiple versions of a program that supports no-cost
+testing requirements for educator candidates
+MTEL
+Annual Cost
+vouchers
+All MTELs (first attempts + retakes) 41,000 $5,429,000
+1 CLST & 1 subject matter test 20,000 $2,510,000
+MTEL voucher CLST only 10,000 $1,120,000
+combinations
+All retakes after first attempt 11,500 $1,589,500
+Retakes for -1 SEM only 8,600 $1,195,400
+Free MTEL preparation $750,000
+All interested
+Comprehensive candidates
+Wraparound supports $500,000
+MTEL support
+State staff (1 FTE) - $150,000
+8
+
+Table 2. Estimated annual cost for the recommended program that supports no-cost
+testing requirements for educator candidates
+Recommendation cost $2,595,400
+MTEL vouchers Retakes for -1 SEM only $1,195,400
+Free MTEL preparation $750,000
+Comprehensive MTEL support Wraparound supports $500,000
+State staff (1 FTE) $150,000
+9
+
+Estimating Participation and Cost
+This section describes the calculations and recent program experience used to
+determine the report’s recommendation and its associated estimates. The structure for
+these sections follows the order of the second column in Table 1.
+Estimating CLST and Subject Matter Test Attempts
+• On average, 41,000 MTELs are taken each year
+• On average, 10,000 unique educator candidates take an MTEL each year
+Table 3 describes the total and average number of MTELs taken as well as the number
+of candidates by calendar year. The total number of candidates across 2014-2025
+(196,879) is more than the total number of unique candidates (108,231,) as many
+candidates took an MTEL in multiple years.
+Table 3. MTEL attempts by year
+Number of MTELs Number of
+Calendar Year Taken Candidates
+June 2025 a 23,120 11,642
+2024 41,710 18,495
+2023 37,442 17,017
+2022 36,967 16,162
+2021 39,484 17,157
+2020 26,731 12,737
+2019 46,323 19,575
+2018 48,498 20,495
+2017 50,383 21,111
+2016 53,650 20,972
+2015 31,068 14,072
+September 2014 a 14,497 7,444
+MTELs Taken, total 449,873
+Average MTELs Taken, per year 41,226
+Unique Candidates, total 108,231
+Average Unique Candidates, per year 9,839
+a These partial calendar years are weighed in the annual average calculation, i.e. only September-
+December 2014 and January-June 2025 are included in the 2014 and 2025 calendar years, respectively,
+to align with school years.
+10
+
+Table 1 uses 10,000 educator candidates and 41,000 MTELs taken per year to estimate
+the cost of (1) vouchers for all MTELs taken in one year including retakes: 10,000 CLST
+and 31,000 subject matter tests at an estimated cost of $5.4 million, (2) every candidate
+receiving one CLST voucher: 10,000 CLST vouchers at an estimated cost of $1.1
+million, and (3) the cost of every candidate receiving one CLST and one subject matter
+test voucher: 10,000 CLST vouchers and 10,000 subject matter test vouchers at an
+estimated cost of $2.5 million.
+Figure 1 illustrates trends in the number of MTELs taken each month from September
+2014 through June 2025. More MTELs are taken in spring than fall, and both this
+pattern and the overall number of tests taken have been relatively consistent over these
+years - excluding a COVID-19 dip due to closed test centers. Thus, this report is justified
+in its use of estimates of participation based on averages across the included school
+years.
+Figure 1. MTEL attempts by month
+11
+
+Estimating Reattempt Rates
+• Across assessments and years, 74% of test takers have passed MTELs on their
+first attempt, and 89% have passed MTELs on any attempt.
+The Department has reported MTEL data, including pass rates, for the past decade
+using a variety of candidate background characteristics like educator preparation
+program, enrollment status, test subject, gender, ethnic/racial group, and primary
+language. Summary pass rate data are publicly accessible, and candidate-specific
+information is available behind security portals.
+Table 4. Sources for MTEL data reporting
+Source Description Link
+Annual Test Results https://www.doe.mass.edu/mtel/annual
+DESE Website
+Test Results by
+https://www.doe.mass.edu/mtel/results
+Administration
+https://profiles.doe.mass.edu/statereport/ep
+MTEL Data Report
+DESE Public ppmteldata.aspx
+Profiles Educator preparation
+example Profile page
+provider Profiles pages
+DESE reporting tool behind
+Edwin EP703 a security portal for
+Getting Started with Edwin
+Report educator preparation
+providers
+Evaluation Systems of
+Pearson reporting tool
+Understanding and Analyzing Program Data
+ResultsAnalyzer behind a security portal for
+DESE and educator
+preparation providers
+12
+
+Across assessments and years, 74% of test takers have passed MTELs on their first
+attempt. Pass rates increase to 89% when calculating candidates’ “best attempt”, i.e., if
+they ever pass a specific MTEL. Table 5 shows trends in both first and best attempt
+pass rates overall and by school year. Best attempt rates for recent years will be lower
+than prior years, as these candidates have had less time to reattempt an MTEL. Using
+the overall first attempt pass rate of 74% to estimate that 26% of test takers will not
+have passed an MTEL on their first attempt, approximately 11,000 assessments may be
+retaken each year. This matches the average across years in Table 5 of 11,532. Table 1
+uses a rounded value of 11,500 to estimate the number of potential MTEL retakes in
+future years.
+Table 5. MTEL pass rates by year and overall
+Pass Rate
+Year Retake Count First Attempt Best Attempt
+SY2025, YTD 8,332 73% -
+SY2024 8,675 72% 81%
+SY2023 9,767 69% 77%
+SY2022 10,244 70% 82%
+SY2021 10,137 73% 85%
+SY2020 8,445 74% 86%
+SY2019 13,201 74% 88%
+SY2018 14,029 74% 89%
+SY2017 13,863 74% 89%
+SY2016 13,673 74% 89%
+SY2015 13,285 74% 89%
+Overall 11,532 74% 88%
+13
+
+Estimating Scores within -1 SEM
+• Approximately 8,600 MTEL scores (about 20% of all scores) are within -1 SEM of
+the passing score each year.
+Scaled scores on the MTEL range from 100 to 300 points, and all tests require a scaled
+score of 240 to pass. Figure 2 shows the distribution of MTEL scaled scores from
+September 2014 (SY2015) through June 2025 (SY2025 YTD) and highlights in blue the
+scores within -1 SEM of passing. Table 6 counts the number of scaled scores, i.e., test
+attempts, within -1 SEM of passing by year. Table 1 uses 8,600 as the rounded average
+across these years to estimate how many future scores may be near passing.
+Figure 2. Distribution of MTEL scaled scores from SY2015 to SY2025YTD, highlighting
+those within 1 SEM of passing
+14
+
+Table 6. Count of scaled scores within -1 SEM of passing by year
+Year Count
+2014 2,927
+2015 6,189
+2016 11,021
+2017 10,539
+2018 10,144
+2019 9,844
+2020 5,530
+2021 8,416
+2022 8,113
+2023 7,871
+2024 8,465
+2025 YTD 4,755
+Total 93,814
+Average 8,613
+15
+
+Estimating MTEL Costs for Candidates
+Current tests in the MTEL suite, including approved alternatives to the MTEL, range in
+cost from $49 to $156. Table 7 details these costs for each assessment option.
+Cost estimates in Table 1 use the CLST cost of $112 and the subject test cost of $139.
+Retake estimates use the higher $139 test cost as subject matter tests have overall
+lower pass rates than CLST and may require additional attempts.
+Table 7. Assessment costs
+MTEL Type MTEL Subject Cost
+MTEL CLST Communication and Literacy Skills: Reading $ 69.50
+MTEL CLST Communication and Literacy Skills: Writing $ 69.50
+MTEL CLST Communication and Literacy Skills: Both Subtests $ 112.00
+MTEL CLST Vocational Technical Literacy Skills: Reading $ 69.50
+MTEL CLST Vocational Technical Literacy Skills: Writing $ 69.50
+MTEL CLST Vocational Technical Literacy Skills: Both Subtests $ 112.00
+MTEL Subject Test Early Childhood $ 139.00
+MTEL Subject Test Reading Specialist $ 139.00
+MTEL Subject Test General Science $ 139.00
+MTEL Subject Test Physics $ 139.00
+MTEL Subject Test Chemistry $ 139.00
+MTEL Subject Test Biology $ 139.00
+MTEL Subject Test Latin and Classical Humanities $ 139.00
+MTEL Subject Test Music $ 139.00
+MTEL Subject Test Visual Art $ 139.00
+MTEL Subject Test Business $ 139.00
+MTEL Subject Test Health/Family and Consumer Sciences $ 139.00
+MTEL Subject Test Physical Education $ 139.00
+MTEL Subject Test French $ 139.00
+MTEL Subject Test German $ 139.00
+MTEL Subject Test Spanish $ 139.00
+MTEL Subject Test Chinese (Mandarin) $ 139.00
+MTEL Subject Test Italian $ 139.00
+MTEL Subject Test Russian $ 139.00
+MTEL Subject Test Portuguese $ 139.00
+MTEL Subject Test Technology/Engineering $ 139.00
+MTEL Subject Test Speech $ 139.00
+MTEL Subject Test Theater $ 139.00
+MTEL Subject Test Dance $ 139.00
+MTEL Subject Test Middle School Humanities $ 139.00
+MTEL Subject Test Middle School Mathematics/Science $ 139.00
+16
+
+MTEL Type MTEL Subject Cost
+MTEL Subject Test Academically Advanced $ 139.00
+MTEL Subject Test Elementary Mathematics $ 139.00
+MTEL Subject Test English as a Second Language $ 139.00
+MTEL Subject Test Adult Basic Education $ 139.00
+MTEL Subject Test Sheltered English Immersion $ 166.00
+MTEL Subject Test English $ 139.00
+MTEL Subject Test Mathematics $ 139.00
+MTEL Subject Test Middle School Mathematics $ 139.00
+MTEL Subject Test Digital Literacy and Computer Science $ 139.00
+MTEL Subject Test History/Social Science $ 139.00
+MTEL Subject Test Earth and Space Science $ 139.00
+MTEL Subject Test Bilingual Education $ 139.00
+MTEL Subject Test Gen Curric Lang Arts and History/Social Science $ 69.50
+MTEL Subject Test Foundations of Reading $ 139.00
+MTEL Subject Test Gen Curric Math, Science, and Tech/Engineering $ 69.50
+MTEL CLST Alternative Indiana Core Academic Skills Assessment (CASA) $ 76.00
+MTEL CLST Alternative Missouri General Education Assessment (MoGEA) $ 50.00
+MTEL CLST Alternative National Evaluation Series (NES) Essential Academic Skills $ 75.00
+MTEL CLST Alternative Praxis Core $ 110.00
+MTEL CLST Alternative Washington Educator Skills Test-Basic (WEST-B) $ 64.00
+MTEL Flex English $ 69.00
+MTEL Flex English as a Second Language $ 69.00
+MTEL Flex Foundations of Reading $ 69.00
+MTEL Flex General Science $ 69.00
+MTEL Flex General Curriculum: Language Arts and History/Social Science $ 49.00
+MTEL Flex General Curriculum: Mathematics, Science, and $ 49.00
+Technology/Engineering
+MTEL Flex History/Social Science $ 69.00
+MTEL Flex Spanish $ 69.00
+MTEL Flex Mathematics (Middle School) $ 69.00
+MTEL Flex Mathematics (Secondary) $ 69.00
+MTEL Subject Test Alternative English to Speakers of Other Languages $ 130.00
+MTEL Subject Test Alternative Physical Education: Content and Design $ 156.00
+17
+
+Estimating Free MTEL Preparation
+The Department has already developed MTEL preparation support in several high-
+incidence licensure areas, including five recently developed free MTEL preparation
+courses focused on advancing content knowledge. The Department also contracts with
+two test preparation vendors who offer fee-based courses for a subset of MTEL areas,
+which some candidates have accessed using DESE-sponsored preparation vouchers.
+Testing tutorials and practice tests are also available for the majority of MTEL subjects
+through the Department’s contract with Evaluation Systems Group of Pearson.
+This report’s recommendation would expand free MTEL preparation courses from five to
+forty to cover all subjects and all potential educator candidates. Each course would cost
+an estimated $150,000 to develop, with five subjects developed each year. This cost
+would cover MTEL preparation for all subjects, including harder-to-staff licensure areas
+that do not currently have DESE-approved MTEL preparation (free or fee-based), such
+as Earth and Space Science, Technology/Engineering, or Mathematics. Table 1
+estimates an annual cost of $750,000 to develop and maintain free MTEL preparation
+for all educator candidates.
+Estimating Wraparound Supports
+Estimated costs for wraparound supports are based on a model of five regional centers
+established by the Department in 2024 to support working emergency license holders to
+transition to provisional or initial licensure. These centers were developed in response
+to input from emergency licensed teachers, educator preparation providers, and district
+leaders seeking additional licensure assistance. Regional licensure assistance centers
+provide locally accessible, individualized support to educator candidates that includes
+navigating the MTEL registration process, requesting alternative arrangements when
+needed, and understanding all assessment options for a specific licensure area. Over
+two-thirds of employed emergency licensed educators have been supported by their
+regional center. Due to the ongoing nature of these centers, licensure conversion and
+educator retention outcomes are not available at the time of writing this report.
+Continued funding for regional licensure assistance centers for all interested educator
+candidates in the state would cost an estimated $500,000 per year.
+Estimating Income-Based Testing Vouchers
+Neither the Department nor its testing vendors collect income information from test
+takers when they register for a licensure test or when they create an account in the
+Educator Licensure and Renewal (ELAR) system. The Department is thus unable to
+determine a threshold or estimation of how many candidates would qualify for income-
+based testing vouchers.
+18
+
+Recent Voucher Systems
+Educator Preparation Provider Vouchers
+Educator preparation providers receive MTEL vouchers as part of the Department’s
+MTEL contract with Evaluation Systems Group of Pearson. Since 2016, approximately
+5,000 vouchers have been made available to educator candidates via their educator
+preparation program. Educator preparation providers may also purchase additional
+vouchers to provide full or partial credit towards test fees or preparation resources.
+DESE Vouchers
+The Department has purchased MTEL vouchers as part of multiple initiatives, e.g.,
+InSPIRED Fellows and Teacher Diversification Grants. Most recently, the Department
+purchased vouchers to cover MTEL costs for all employed emergency licensed
+educators to aid these educators in obtaining their provisional or initial teacher licenses.
+In total, the Department has purchased over 4,000 vouchers that have been
+disseminated to educators through various mechanisms.
+Estimating State Staff
+The Department has experience supporting MTEL vouchers, preparation, and
+wraparound supports; however, the scale of the proposed program would require a
+significant increase in staff time dedicated to the MTEL portfolio. Table 1 includes
+$150,000 annually for 1 FTE to administer the program.
+19
+
+Considerations
+A “program that allows certain educator candidates to complete the testing requirements
+pursuant to section 38G of chapter 71 of the General Laws at no cost to candidates” is
+feasible, and DESE’s recommended version of the program is estimated to cost $2.6
+million annually.
+The Department has experience administering MTEL vouchers, preparation, and
+wraparound supports to assist educator candidates with licensure requirements, and
+evidence of these programs indicates that the return on investment for a voucher
+program varies depending on several factors. Historically, the Department has
+distributed vouchers broadly, regardless of candidate testing history; approximately one-
+third of these vouchers go unused. Analyses from research partners also show that
+vouchers are more likely to result in passing an MTEL when used by candidates who
+have taken an MTEL previously and are closer to the passing score (i.e., within -1
+SEM). Based on this data, a program that covers the cost of all MTELs without taking
+into consideration candidate readiness may not be cost-effective nor result in licensure.
+Thus, this report’s recommendation is to make available test preparation and
+wraparound licensure supports for all educator candidates and to provide MTEL
+vouchers to candidates who have attempted an MTEL at least once and earned a score
+within -1 SEM of the passing score.
+While the expansion of these programs could aid candidates in obtaining their educator
+licenses and, ultimately, working as effective educators in Massachusetts public
+schools, some considerations about the program’s scale remain. The scale of the
+program estimated in this report is based on historic data. Greatly expanding an MTEL
+voucher program may increase the overall number of educator candidates taking these
+assessments beyond prior years, a potential benefit for the educator pipeline and a
+detriment to its cost. The costs estimated in this report are also based on historical data.
+As seen in some prior government contracts, costs for services may increase when the
+state subsidizes those services. Fully funding vouchers for all MTEL takers may result in
+an overall increase in test fees that would impact the estimates included in this report.
+Additionally, the recent Mass Leads Act proposes changes to the state’s educator
+licensing system that would affect the estimates included here. For example, the option
+to waive a required MTEL would decrease the overall number of tests taken and,
+therefore, vouchers given. The recommendation of this report is based on best
+estimates using historic data and the most current licensure policy.
+20

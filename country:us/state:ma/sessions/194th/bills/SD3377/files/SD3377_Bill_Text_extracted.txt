@@ -1,0 +1,3666 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Descriptive Analysis of Risk Reduction Programs
+Massachusetts Department of Correction
+One-Year Recidivism Rates of Men and
+Women Released 2017 – 2022: A Multi-Year
+Descriptive Analysis of Risk Reduction
+Programs
+Executive Office of Public Safety and Security
+November 2025
+Maura T. Healey, Governor
+Susan W. Terrey, Interim Secretary of Public Safety and Security
+i
+
+Descriptive Analysis of Risk Reduction Programs
+Prepared by:
+Hollie A. Matthews, Interim Executive Director of Strategic Planning & Research
+Matthew J. Moniz, Director, Program Services and Reentry
+Kelly Paquin, Operations Analyst Manager, Office of Assistant Deputy
+Commissioner of Reentry
+Jiqiang Rong, Statistician, Research and Planning Division
+Hollie A. Matthews
+Interim Executive Director of Strategic Planning & Research
+Massachusetts Department of Correction
+Research and Planning Division
+50 Maple Street
+Milford, MA 01757
+Research@massmail.state.ma.us
+Acknowledgments
+The publication of this report would not be possible without the assistance of the following:
+Bernard Audette, Ed.D., Director of Inmate Training and Education,
+Massachusetts Department of Correction, Inmate Training and Education Division
+Massachusetts Department of Correction, Program Services Division
+Massachusetts Department of Correction, Research and Planning Division
+If you have any questions regarding this report, please contact the Research and Planning
+Division.
+ii
+
+Descriptive Analysis of Risk Reduction Programs
+Table of Contents
+Acknowledgments ..................................................................................................................... i
+Table of Contents ...................................................................................................................... ii
+Definition of Terms .................................................................................................................. 1
+Executive Summary .................................................................................................................. 4
+Key Findings ............................................................................................................................... 4
+Introduction................................................................................................................................ 5
+Methodology for Program Eligibility ................................................................................. 6
+Methodology for Recidivism Analysis ............................................................................... 7
+Women Data Findings: Criminogenic Need Programs ................................................ 8
+Men Data Findings: Criminogenic Need Programs .................................................... 11
+Men Multiple Need Cohorts ................................................................................................ 15
+Summary ................................................................................................................................... 17
+Appendices ............................................................................................................................... 19
+iii
+
+Descriptive Analysis of Risk Reduction Programs
+Definition of Terms
+Academic Education Services: Incarcerated individuals without a high school diploma or equivalency
+upon admission are identified as being eligible for Academic Education Services, which range from
+English as a Second Language (ESL) to Adult Secondary Education (ASE) and facilitates incarcerated
+individuals earning their high school equivalency.
+COMPAS: Correctional Offender Management Profiling for Alternative Sanctions is an automated
+risk/needs assessment tool utilized to inform the development of an incarcerated individuals
+personalized program plan. COMPAS has been normed and validated to the Massachusetts
+Department of Correction population.
+Correctional Recovery Academy (CRA): Is an intensive 6-month substance use program currently
+located at four institutions: Northeastern Correctional Center, MCI-Norfolk, MCI-Shirley, and North
+Central Correctional Institution (NCCI-Gardner). CRA targets relapse prevention and cognitive
+behavioral treatment. The program utilizes rolling admission and combines elements of a therapeutic
+community’s social learning approach with an advanced cognitive behavioral curriculum.
+Criminal Addictive Thinking Program (CT): Is an 8-week program designed to focus on altering the
+pro-criminal thinking patterns identified as separating those who are serious repeat incarcerated
+individuals from those who are not. The program focuses specifically on criminal sentiments and how
+to develop pro-social alternatives to pro-criminal activities and associates.
+Criminogenic Need: Factors which impact criminal behavior and can be altered over time with
+appropriate treatment and programming.
+High School Diploma or Equivalent (General Equivalency Diploma, High School Equivalency Test):
+Education level associated with incarcerated individuals with a verified High School Diploma or High
+School Equivalency Credential, or those who earned a High School Equivalency Credential during
+their current incarceration.
+Motivational Enhancement Program (MEP): A 4-week program that introduces participants to basic
+program concepts while encouraging positive behavioral change. The program is designed to
+motivate participants to participate in more intensive programs to address their broader
+criminogenic need areas.
+Need Met: Indicates an incarcerated individual who completed the core program for the
+corresponding criminogenic need area. For example, male incarcerated individuals with a substance
+use, anger, or criminal thinking need are recommended for the Correctional Recovery Academy
+(CRA), Violence Reduction Program (VR), or Criminal Addictive Thinking Program (CT), respectively.
+Need Not Met: Indicates the incarcerated individual who either did not enroll into a core program or
+enrolled and did not complete. Reasons for not completing a program include, but are not limited to,
+release, transfer, discipline process, voluntary withdrawal, and failure to meet program expectations.
+Override: As part of the Massachusetts Department of Correction case management model,
+incarcerated individuals who do not score moderate or high in a criminogenic need area based on
+their needs assessment, receive a program recommendation formulated by their Correctional
+Program Officer (CPO) due to documentary evidence the incarcerated individual can benefit from
+participating in such a program.
+1
+
+Descriptive Analysis of Risk Reduction Programs
+Pathway Program Continuum: For women, gender-responsive and trauma-informed approaches
+have been incorporated into the framework of treatment services for the incarcerated individuals.
+Each Pathway has a unique set of curricula designed to address each incarcerated individual’s specific
+pathway into the criminal justice system with the goal of reducing the likelihood of recidivism by
+addressing the unique issues associated with incarcerated individuals such as trauma, abuse,
+relationship dysfunction, substance abuse, and mental illness. The four Pathways are as follows: Life
+in Recovery, Building Positive Connections, Healthy Living Community, and Healing for the Future.
+The model of facilitation addresses multiple need areas within one week of instruction. While the
+incarcerated individual may be enrolled for the entirety of one’s sentence, program completion is
+achieved when the incarcerated individual participates in 26-weeks of each curriculum represented
+in the incarcerated individual’s Pathway Continuum.
+Pathway to Recovery (PTR): A non-residential substance abuse program that is 16 weeks in duration
+and meets three times per week for a total treatment dosage of 72 hours. Groups are psycho-
+educational in nature and consist of didactic lectures, group discussions, and skills practice. Upon
+completion of the program, participants are recommended to the Substance Abuse (SA) Graduate
+Maintenance Program. This program is intended to allow participants to remain engaged in their
+recovery and SA treatment for the duration of their sentence.
+Recidivist: For the purposes of this report, a recidivist is defined as any incarcerated individual in the
+study cohort who, within one year of one’s release to the community, is arraigned for an offense that
+ultimately results in a conviction. For this purpose, “conviction” is defined as any outcome involving
+a new criminal sentence, probation, suspended sentence, fine, or guilty finding. Additional follow-up
+time is necessary to collect data because of the time required for an incarcerated individual’s new
+criminal charge to reach a final resolution in the trial court. For example, if an incarcerated individual
+who was released on January 1, 2013, was arraigned for a new offense on March 1, 2013, and
+subsequently convicted and sentenced in February 2015, that incarcerated individual would be
+treated as having recidivated within the one-year period.
+Recidivism Rate: The recidivism rate is calculated by dividing the number of incarcerated individuals
+reconvicted within one year of release by the number of incarcerated individuals in the release
+cohort.
+Recidivism Risk Score: On intake to the prison system, each incarcerated individual is given
+assessments to establish their Intake/Criminal History/Risk Scale Set. Components of the scale set
+are the General and Violent Recidivism Risk Scores which may be used to predict recidivism risk. The
+risk scores are based on a COMPAS Core scale which is a standard decile scale with 1 corresponding
+to the lowest risk of recidivism and 10 corresponding to the highest risk. The amount of programming
+required for a given incarcerated individual is established by simplifying this scale to Low, Moderate,
+and High recidivism risk incarcerated individuals. Incarcerated individuals scoring a moderate to
+high risk to recidivate in either the general or the violent recidivism scale are administered a needs
+assessment, and the incarcerated individual is referred to programming. Please note recidivism risk
+score categories used in the analysis are based on the highest score from the general and violent
+recidivism risk scores. Due to the implementation of the COMPAS Assessment, incarcerated
+individuals who were incarcerated at the time of the roll-out were administered a Standing Risk
+Assessment as a proxy to the Initial Risk or Core Risk Assessment. Those assessment scales are used
+interchangeably in the analysis.
+2
+
+Descriptive Analysis of Risk Reduction Programs
+Typology Assessment: A trauma-informed gender-biased COMPAS assessment designed to apply
+further identification pertaining to an incarcerated individual’s specific criminogenic needs and to
+guide matching interventions.
+Violence Reduction (VR): Violence Reduction is an 8-week program that targets cognitions that
+contribute to violent behavior. The goal of this program is to decrease violent behavior and the
+likelihood of institutional disturbances. During the program, participants identify the specific
+cognitions which have led to their violent behavior. Once those cognitions are identified, participants
+are taught pro-social strategies and skills to diminish the likelihood of continued violence. Upon
+completion of the program, participants are recommended to the General Population Maintenance
+Program.
+Vocational Programming: Instructional programs focusing on the skills required for a specific job
+function or trade. Current vocational program opportunities include the following: automotive,
+barber training, building trades, culinary arts, food service training, small engine repair, welding, and
+wheelchair repair.
+3
+
+Descriptive Analysis of Risk Reduction Programs
+Executive Summary
+The purpose of this study is to analyze the recidivism rates1 of Massachusetts Department of
+Correction (MA DOC) criminally sentenced incarcerated individuals who completed programs to
+address their criminogenic need areas and were released to the community via expiration of sentence
+or parole from January 1, 2017 – December 31, 2022, to determine if expected reductions in
+recidivism were observed. The report is divided into two sections: one for female releases and one
+for male releases. For the female releases, the five programs examined were Pathways, General
+Population Services, Vocational Programming, Academic Education, and Motivational Enhancement
+Program (MEP)2. For male releases, the six programs examined were Criminal Thinking, Academic
+Education, Violence Reduction, Correctional Recovery Academy (CRA), Vocational Programming, and
+Pathway to Recovery (PTR) program.
+Key Findings
+• Program completion was associated with a lower rate of one-year recidivism for three of the
+five programs for female releases and all six programs for male releases.
+• For incarcerated individuals released to the community from January 1, 2017 to December
+31, 2022, the overall one-year recidivism rate was 10.6% for men and 11.4% for women.
+• Women who were released and completed a minimum of 26 weeks of Pathway programming
+had a significantly lower recidivism rate of 3.6% compared to 14.7% for those who
+participated but did not complete 26 weeks of the program and who did not participate in
+the program.
+• The recidivism rate for women released who were eligible for vocational programming and
+completed the certification was 0.0%, compared to 8.9% for those who did not earn a
+vocational certification.
+• The recidivism rate for women released who completed the MEP was 11.3%, compared with
+15.8% for those who did not complete the MEP.
+• The recidivism rate for men released who were eligible for substance use programming and
+completed the CRA was 7.1% compared to 14.9% for the incarcerated individuals who did
+not complete this program.
+• The recidivism rate for men released who were eligible for anger management programming
+and completed the Violence Reduction Program was 10.6% compared to 13.8% for those who
+did not complete this program.
+• The recidivism rate for men released who were eligible for criminal thinking programming
+and completed the Criminal Addictive Thinking Program was 11.1% compared to 13.3% for
+those who did not complete this program.
+• The recidivism rate for men released who were eligible for vocational programming and
+completed the certification was 5.2% compared to 11.6% for those who did not earn a
+vocational certification.
+1 The recidivism rate is based on reconviction within one year for criminally sentenced incarcerated individuals
+released to the community via expiration of sentence or parole from January 1, 2017 – December 31, 2022,
+whose first release occurred during this time-period. The reconviction date is based on the initial arraignment
+date associated with the reconviction. The recidivism rate is calculated by dividing the number of incarcerated
+individuals reconvicted by the number of incarcerated individuals in the release cohort.
+2 MEP has been added to this year’s report.
+4
+
+Descriptive Analysis of Risk Reduction Programs
+• The recidivism rate for men released who were eligible for academic programming and
+completed the education program was 9.0% compared to 11.4% for those who did not
+complete the program and earn their high school equivalency.
+The recidivism rate for men released who were eligible for PTR programming and
+completed the program was 7.4% compared to 11.8% for those who did not complete the
+program.
+• Analysis illustrating the completion of multiple programs and the associated recidivism rates
+suggests that completion of the CRA was driving the lower recidivism rate among male
+releases. This is evidenced by incarcerated individuals who completed Violence Reduction,
+Criminal Thinking, and Academic Education programs without completing the CRA
+recidivating at a higher rate.
+Introduction
+A primary objective of the MA DOC is to rehabilitate incarcerated individuals and prepare them for
+successful reentry to the community with the purpose of increasing the likelihood for them to
+become productive citizens. Incarcerated men are assessed through a risk/needs analysis and those
+identified as being at a moderate to high risk of recidivism are recommended to programs designed
+to target their specific criminogenic need areas, with the goal of eliminating future criminality.
+Although it is known that the incarcerated population is comprised of men with multiple
+criminogenic needs, the majority of this report examines the recidivism rate related to the
+completion of the program associated with a single need area. The model of facilitation for
+incarcerated men is designed to address one’s criminogenic need through corresponding
+programming. Incarcerated women are assessed through a typology assessment and are further
+delineated into one of four corresponding programming prescriptions termed Pathways. The
+Pathway model is a holistic approach and allows MA DOC to provide evidence-based treatment
+designed to address each woman’s criminogenic needs and streamline treatment services. The model
+of facilitation addresses multiple need areas within one week of instruction to include
+comprehensive Pathway specific programming and academic or vocational services. MEP is utilized
+to support the Pathways model by utilizing this program to motivate participants to engage in
+Pathways and other programming resources. To measure success, recidivism rates are used to
+determine an incarcerated individual’s ability to abstain from criminal behavior after being released
+from prison.
+How recidivism is conceptualized and how an incarcerated population is targeted can drastically
+influence a reported recidivism rate. Commonly used definitions for recidivism include: the
+recommitting of a crime; the reconviction of a crime; or the reincarceration to jail or prison after
+release to the community following an incarceration.
+For the purposes of this report, recidivism is based on criminally sentenced incarcerated individuals
+released to the community via expiration of sentence or parole from January 1, 2017 – December 31,
+2022, whose first release occurred during this time-period. Recidivism is defined as a reconviction
+based on an arraignment occurring within one year from the date of an incarcerated individual’s
+release to the community. Conviction types include a criminal sentence to a Massachusetts state or
+county facility, a term of probation, a suspended sentence, a split sentence, a fine, or a guilty finding.
+Due to the time it takes to prosecute a crime and reach final resolution of a charge, the initial
+arraignment date associated with the new conviction is used to determine the date of reconviction.
+This report is one example of the MA DOC’s data-driven approach to evidence-based decision making.
+5
+
+Descriptive Analysis of Risk Reduction Programs
+Methodology for Program Eligibility
+The goal of this analysis is to explore MA DOC recidivism rates with reference to risk reduction
+programs based on program recommendation eligibility, which is defined for each criminogenic need
+areas as follows:
+Programming for All Incarcerated Individuals-
+Academic Education Need:
+To identify an incarcerated individual’s educational need, staff record and verify an incarcerated
+individual’s self-reported level of completed education. Incarcerated individuals are further assessed
+through Tests for Adult Basic Education (TABE) administration. Incarcerated individuals without a
+verified high school diploma or equivalency were identified as having an academic education need
+and are recommended to the appropriate level of education as dictated by the TABE scores.
+Vocational Programming Need:
+The COMPAS vocational scale is categorized ranging from 1 to 10 based on decile cut points and then
+categorized as low (1-5), moderate (6-7), or high (8–10). Incarcerated individuals with a high school
+diploma equivalency who score moderate or high risk on the vocation need scale or have an override
+are considered eligible for vocational services.
+Programming for Incarcerated Women-
+Pathway Programming Need:
+All incarcerated women who are serving more than 90 days and complete a COMPAS Typology
+Assessment are eligible for Pathway Programming. It is intended that the incarcerated individual
+remain program engaged for the entirety of one’s sentence. Twenty-six weeks of participation equals
+one cycle of curricula and is considered program completion for this study; however, incarcerated
+individuals are encouraged to remain enrolled beyond the 26-week mark. Additionally, behavioral
+infractions will require re-enrollment into those components of the program which address the
+causal factors of the infraction.
+General Population Services (GPS) Programming:
+Through an Inter-departmental Service Agreement (ISA) with the Trial Court, funding was provided
+to the MA DOC to provide additional programming to the incarcerated population. The portion of
+these funds devoted to the men were utilized to increase the number of tracks available for the
+already established Criminal Thinking and Violence Reduction programs. The portion devoted to
+women in the population was utilized to initiate general population programming separate and apart
+from the continuous Pathway programming model.
+Unlike other programs highlighted in this report, General Population Services program eligibility is
+not based on criminogenic need; but rather due to placement in the Close Custody Unit (CCU) or
+Accountability Program (AP) and the subsequent expectation the incarcerated individual returns to
+Pathway programming. Prior to returning to Pathway programming, the incarcerated individual
+would participate in the GPS Program which focuses on criminal thinking, violence reduction, and
+substance use education to develop pro-social alternatives intended to maintain one’s presence in
+general population housing and Pathway programming. As the agency has progressed from an AP
+unit to a Secure Adjustment Unit model, MEP has been utilized to motivate incarcerated women to
+engage in Pathways Programming.
+6
+
+Descriptive Analysis of Risk Reduction Programs
+Programming for Incarcerated Men-
+CRA Need:
+The COMPAS substance abuse scale is categorized ranging from 1 to 10 based on decile cut points
+and then categorized as low (1-2), moderate (3-4), or high (5–10). The Texas Christian University
+Drug Screen II or V (TCUDS) is utilized as a secondary measurement to determine substance use
+treatment need. The TCUDS is administered to incarcerated individuals admitted to the reception
+centers and measures one’s recent schedule of use, withdrawal, and tolerance factors providing a low
+or high score (TCUDS-II); or a None, Mild Disorder, Moderate Disorder, Severe Disorder score
+(TCUDS-V). Incarcerated individuals who score moderate or high risk on the substance abuse scale,
+high on the TCUDS-II, Mild or above on the TCUDS-V, or have an override are considered eligible for
+substance use programming.
+Criminal Thinking (CT) Need:
+The COMPAS criminal thinking scale is categorized ranging from 1 to 10 based on decile cut points
+and then categorized as low (1-5), moderate (6-7), or high (8–10). Incarcerated individuals who
+score moderate to high risk on the criminal thinking need scale or have an override are considered
+eligible for criminal thinking programming.
+Violence Reduction Need:
+The COMPAS anger scale is categorized ranging from 1 to 10 based on decile cut points and then
+categorized as low (1-4), moderate (5-7), or high (8–10). Incarcerated individuals who score
+moderate to high risk on the anger need scale or have an override are considered eligible for anger
+management programming.
+Methodology for Recidivism Analysis
+One year reconviction rates were examined for a cohort of incarcerated individuals released to the
+community via parole or expiration of sentence. Cohort selection included men and women released
+to the community via expiration of sentence or parole during the years 2017 through 2022 whose
+first release occurred during the time-period. Overall, there were 7,874 men released and 1,268
+women released to the community. Recidivism information was gathered from the Massachusetts
+Board of Probation (BOP). Data is based on information available at the time of collection and is
+subject to change. The criminal activity of incarcerated individuals released to the community was
+tracked through the Massachusetts Criminal Justice Information System (CJIS) to determine any
+reconviction within one year of the incarcerated individual’s release to the community.
+7
+
+Descriptive Analysis of Risk Reduction Programs
+Women Data Findings
+Criminogenic Need Programs
+Graph 1
+Of the 1,268 incarcerated women released from the MA DOC between 2017 and 2022, 831 (65.5%)
+were identified as eligible for Pathway Programming, 338 (26.7%) were determined to have an
+academic program need, and 303 (23.9%) were recognized as having a vocational program need.
+(Graph 1)
+Graph 2
+For women eligible for Pathway programming, 33.6% completed a Pathway program, 59.0%
+participated but did not complete 26 weeks of the program, and the remaining 7.5% did not
+participate in the program. In contrast, among incarcerated individuals with an academic need,
+18.9% completed the program and earned their High School Equivalency (HSE), 31.7% participated
+8
+
+Descriptive Analysis of Risk Reduction Programs
+in the program but did not earn an HSE, and 49.4% were not involved in the program3. For the
+incarcerated individuals with a vocation need, 18.5% completed the program, 20.8% participated in
+the program, and the remaining 60.7% did not take part in the program. (Graph 2)
+Graph 3
+The recidivism rate was different for incarcerated individuals in each need group. Incarcerated
+individuals with academic need had the highest rate of recidivism at 12.1%, followed by incarcerated
+individuals eligible for Pathway programming at 11.0%, and for vocation programming at the lowest
+rate of 7.3%. The rate of recidivism for all incarcerated individuals released from 2017 to 2022 who
+had a program need was at 11.4%. (Graph 3)
+Table 1
+To investigate the association between whether the program need of an incarcerated individual was
+met and the corresponding recidivism rate, Table 1 shows that those who completed the
+corresponding program were associated with a lower rate of recidivism for three of the five program
+groups. Among women eligible for vocational programming, 0.0% recidivated if they completed the
+program compared with 8.9% of the incarcerated individuals who did not complete the program. The
+3 Incarcerated individuals assessed as having an academic education or vocational program need and/or
+deemed eligible for an academic or vocational program have the option to decline participation in the
+recommended program.
+9
+O
+V
+P
+A
+G
+M
+*
+n e - Y e a r R e c o n v ic
+P r o g r a m N a m
+o c a t io n a l P r o g r a m
+a t h w a y P r o g r a m *
+c a d e m ic P r o g r a m
+P S P r o g r a m
+E P P r o g r a m *
+d e n o te s p < .0 5 , * * d
+t
+e
+*
+e
+io
+*
+n o
+n R
+te s
+a t e
+p <
+s o f R
+N e
+P C T
+0 .0 %
+3 .6 %
+6 .3 %
+9 .6 %
+1 1 .3 %
+.0 1
+e
+e
+le
+d
+a
+M
+s e d W
+e t
+N
+5 6
+2 7 9
+6 4
+1 5 6
+6 8 0
+o m e n b y N
+N e e d
+P C T
+8 .9 %
+1 4 .7 %
+1 3 .5 %
+8 .6 %
+1 5 .8 %
+e
+N
+e d
+o
+M
+t M
+2
+5
+2
+1
+5
+e
+e
+N
+4
+5
+7
+8
+8
+t v
+t
+7
+2
+4
+7
+8
+s . N o t M e
+P C T
+7 .3 %
+1 1 .0 %
+1 2 .1 %
+9 .0 %
+1 3 .4 %
+t
+T O T A L
+1
+N
+3 0
+8 3
+3 3
+3 4
+,2
+3
+1
+8
+3
+6 8
+
+Descriptive Analysis of Risk Reduction Programs
+difference between meeting and not meeting the programming need was 3.6% vs. 14.7% for the
+Pathway program, and 11.3% vs. 15.8% for the Motivational Enhancement Program (MEP).
+Women releases who were eligible for academic programming and completed the education program
+was also associated with a lower rate of recidivism of 6.3% compared with 13.5% of those who did
+not complete the program. The difference, however, is not statistically significant at the 95%
+confidence level. 4
+Women who completed the GPS Program were associated with a higher rate of recidivism, though
+not statistically significant. Among women eligible for the GPS Program, 8.6% of them recidivated if
+they did not complete the program compared with 9.6% of the incarcerated individuals who
+completed the program. GPS program eligibility was established when one was removed from the
+general population and placed in the Close Custody Unit (CCU) or Accountability Program. The
+composition of the assessed5 cohort placed in CCU contained a majority of high-risk to recidivate
+individuals. While the program did not reduce overall recidivism, those high and medium risk
+incarcerated individuals who completed the program appeared to have a lower recidivism rate than
+those high and medium risk incarcerated individuals who did not complete the program (see
+Appendix D). It was among the eligible incarcerated individuals without risk assessment scores
+(N=140) where a much higher percentage of individuals who completed the GPS Program recidivated
+(28.6%) than the individuals who did not complete the program (9.2%).
+Table 2
+To break down the “Need Not Met” category in Table 1 into two participation groups, Table 2 shows
+participation in any of the five programs is associated with a lower rate of recidivism when compared
+with incarcerated individuals who did not participate in a program. Although a statistically
+significant difference between the two participation groups is only found in the MEP
+, the data flow of the other four programs exhibits encouraging signs that participating in a program
+could influence whether an incarcerated individual would recidivate in the future. The difference in
+the rate of recidivism between the two participation categories was 11.3% vs. 17.8% for the MEP,
+6.3% vs. 9.8% for vocational programming, 14.5% vs. 16.1% for the Pathway Program, 11.2% vs.
+15.O% for academic programming, and 7.0% vs. 11.9% for the GPS Program. In particular, the
+recidivism rate for the incarcerated individuals who participated in the GPS Program but did not
+complete were shown to have the lowest recidivism rate, at 7.0%, followed by those who completed
+the program (9.6%) and who did not participate in the program (11.9%), suggesting participation in
+4 Statistical significance refers to whether any differences observed between groups being studied are “real” or due
+to chance. In most sciences, results yielding a p-value of .05 or 95% confidence level are on the borderline of
+statistical significance. At this level or higher, we would conclude that the differences observed between groups are
+not due to chance.
+5 Due to shorter sentences of less than 90 days, 64% of those who did not complete the program and 14% of
+those who did complete the program were not administered the COMPAS Risk Assessment.
+10
+O
+V
+P
+A
+G
+M
+*
+n e - Y e a r R e c o n v ic t io n R
+P r o g r a m N a m e
+o c a t io n a l P r o g r a m *
+a t h w a y P r o g r a m * *
+c a d e m ic P r o g r a m
+P S P r o g r a m
+E P P r o g r a m * *
+d e n o te s p < .0 5 , * * d e n o te s
+a t e
+p <
+s o f R
+N e
+P C T
+0 .0 %
+3 .6 %
+6 .3 %
+9 .6 %
+1 1 .3 %
+.0 1
+e
+e
+le
+d
+a
+M
+s e d W
+e t
+N
+5 6
+2 7 9
+6 4
+1 5 6
+6 8 0
+o m e n b y P r o
+P a r t ic
+P C T
+6 .3 %
+1 4 .5 %
+1 1 .2 %
+7 .0 %
+1 1 .3 %
+g
+ip
+r a
+a
+m P
+t e d
+N
+6 3
+4 9 0
+1 0 7
+1 2 8
+1 7 7
+a r t ic ip
+D
+a t io n
+id N o
+P C T
+9 .8 %
+1 6 .1 %
+1 5 .0 %
+1 1 .9 %
+1 7 .8 %
+t P a r t ic ip a
+N
+1 8 4
+6 2
+1 6 7
+5 9
+4 1 1
+t e
+P C T
+7 .3 %
+1 1 .0 %
+1 2 .1 %
+9 .0 %
+1 3 .4 %
+T O T A L
+1
+N
+3 0
+8 3
+3 3
+3 4
+,2
+3
+1
+8
+3
+6 8
+
+Descriptive Analysis of Risk Reduction Programs
+or completion of a GPS Program could reduce the rate of recidivism than those who did not
+participate.
+In short, an investigation into the association between program completion and the rate of one-year
+recidivism shows that program completion was associated with a lower rate of recidivism for three
+of the five programs studied, namely for vocational programs, the Pathway Program and the MEP. It
+also suggests that participation in a program had potential for lowering the rate of recidivism for all
+five programs. Therefore, increasing the number of incarcerated individuals who complete (or at
+least participate in the program that they are eligible for) plays an important role in lowering the rate
+of recidivism.
+Men Data Findings
+Criminogenic Need Programs
+Graph 4
+The MA DOC released a total of 7,874 incarcerated men to the community via parole or expiration of
+sentence between 2017 and 2022. Most of the released incarcerated individuals were identified as
+having a Correctional Recovery Academy (CRA) need (78.4%), and/or Pathway to Recovery (PTR)
+need (75.9), and/or Violence Reduction (VR) need (63.5%), and/or a Criminal Thinking (CT) need
+(55.3%). Less than one-half of the released incarcerated individuals were determined to have an
+academic education need (44.6%), and/or a vocational program need (43.2%). (Graph 4)
+11
+
+Descriptive Analysis of Risk Reduction Programs
+Graph 5
+Most incarcerated individuals with a CT need or a VR need completed the corresponding CT program
+(63.8%) and the VR program (63.6%). Less than one in two incarcerated individuals completed the
+CRA program (44.6%), which was the program with the largest need. The rate of program completion
+dropped substantially to 23.1% for vocational programs, 22.5% for academic education program and
+4.7% for PTR Program.
+On the other hand, when looking at the category of participation (excludes those who completed a
+program) incarcerated individuals with an academic need had the highest participation rate of 36.6%
+followed by CRA (22.3%), vocation (17.0%), CT (14.7%), VR (12.5%) and PTR (1.4%) programs.
+The remaining incarcerated individuals with needs did not participate in the corresponding program,
+ranging from the highest non-participation rate of 93.9% for the PTR program6 to the lowest rate of
+21.5% for the CT program. (Graph 5)
+6 Incarcerated individuals assessed to have a substance use need are considered eligible for the CRA and the
+PTR program. The high instance of non-participation in the PTR program is due to many with a substance use
+need attending the CRA program for their substance use need. The PTR program is attended by individuals who
+have limited access to the CRA program due to their housing facility.
+12
+
+Descriptive Analysis of Risk Reduction Programs
+Graph 6
+Graph 6 shows the rate of one-year recidivism for incarcerated individuals in different need groups.
+Incarcerated individuals with a CT and/or a VR need had the highest recidivism rate of 11.9% and
+11.8% respectively, followed by incarcerated individuals with a PTR need (11.6%) a CRA need
+(11.4%), an academic need (10.9%), and a vocation need (10.1%). The overall rate of recidivism for
+incarcerated individuals with a need delineated above was 10.6%.
+Table 3
+One-Year Reconviction Rates of Released Men by Need Met vs. Not Met
+Program Name Need Met Need Not Met TOTAL
+PCT N PCT N PCT N
+Correctional Recovery Academy (CRA) ** 7.1% 2,758 14.9% 3,419 11.4% 6,177
+Pathway to Recovery (PTR)* 7.4% 283 11.8% 5,697 11.6% 5,980
+Criminal Addictive Thinking (CT)* 11.1% 2,776 13.3% 1,575 11.9% 4,351
+Violence Reduction (VR) ** 10.6% 3,179 13.8% 1,822 11.8% 5,001
+Academic Program* 9.0% 791 11.4% 2,718 10.9% 3,509
+Vocation Program** 5.2% 785 11.6% 2,617 10.1% 3,402
+* denotes p <.05, ** denotes p <.01
+Table 3 shows the association between whether the program need of an incarcerated individual was
+met and the corresponding recidivism rate. As shown, program completion (Need Met) was
+associated with a lower rate of recidivism for all six programs. Among incarcerated men eligible for
+the CRA, 7.1% recidivated if they had completed the CRA compared with 14.9% of the incarcerated
+individuals whose need was not met. The difference between the two ‘need met’ categories was 7.4%
+vs. 11.8% for the PTR program, 11.1% vs. 13.3% for the CT program, 10.6% vs. 13.8% for the VR
+program, 9.0% vs. 11.4% for the academic program, and 5.2% vs. 11.6% for the vocation program.
+The difference between the rate of recidivism and the two-need met categories for the CRA program
+was not only statistically significant in the total population, but also in 20 out of the 25 subgroups of
+13
+
+Descriptive Analysis of Risk Reduction Programs
+population tested (See Appendix E). Next to the CRA program, the subgroups with statistically
+significant difference between recidivism and the two-need met cohorts were 15 for the vocation
+program (Appendix I), 8 for the VR program (Appendix G), 5 for the PTR program (Appendix J), and
+3 for the CT program (Appendix F) and the academic program (Appendix H). The findings highlight
+the importance of the CRA program and its broad-based influence on lowering the rate of recidivism.
+Table 4
+To break down the “Need Not Met” category in Table 3 into participation and non-participation
+groups, Table 4 highlights the importance of meeting program needs to lower the rate of recidivism.
+In four out of six programs, participating in but not completing a program was not associated with a
+lower rate of recidivism when compared to incarcerated individuals in the non-participation groups.
+The CRA and vocation programs were the exceptions where 14.6% and 11.2% of incarcerated
+individuals in the participation group recidivated compared with 15.2% and 11.7% of those in the
+non-participation group respectively, though the differences were not statistically significant.
+For the four programs where the participation groups were associated with higher rates of
+recidivism than the non-participation groups, the differences in CT and academic programs were
+statistically significant. A further investigation into these two programs reveals that incarcerated
+individuals participated but did not complete the programs for a reason. Participants who did not
+complete these programs have higher recidivism risk scores, come from higher (medium or
+maximum) release security institutions, and tend to be younger than 35 years of age compared to
+their non-participation counterparts. Our past studies suggest that incarcerated individuals with
+these characteristics were more likely to recidivate than older individuals with lower recidivism
+scores and lower institution release security levels. The level of participation in these programs for
+non-completers can also vary widely. Participation in either CT or academic programs appeared to
+be unable to counterbalance the negative influences of these factors to reduce recidivism among
+program participants when compared with non-participants.
+14
+O
+CPCVAV
+*
+n e -Y e a r R e c o n v ic tio n R a te s o f R e le
+P ro g ra m N a m e
+o rre c tio n a l R e c o v e ry A c a d e m y (C R A
+a th w a y to R e c o v e ry (P T R )*
+rim in a l A d d ic tiv e T h in k in g (C T ) * *
+io le n c e R e d u c tio n (V R ) * *
+c a d e m ic P ro g ra m *
+o c a tio n P ro g ra m * *
+d e n o te s p < .0 5 , * * d e n o te s p < .0 1
+a s e d
+) * *
+M e n b y P
+N e e
+P C T
+7 .1 %
+7 .4 %
+1 1 .1 %
+1 0 .6 %
+9 .0 %
+5 .2 %
+ro g
+d M
+ra m P
+e tN
+2 ,7 5 8
+2 8 3
+2 ,7 7 6
+3 ,1 7 9
+7 9 1
+7 8 5
+a rtic ip a tio n
+P a rtic
+P C T
+1 4 .6 %
+1 5 .0 %
+1 6 .4 %
+1 5 .5 %
+1 2 .8 %
+1 1 .2 %
+ip a te dN
+1 ,3 7 8
+8 0
+6 4 1
+6 2 6
+1 ,2 8 6
+5 7 8
+D
+111111
+id N
+P C T
+5 .2 %
+1 .7 %
+1 .2 %
+3 .0 %
+0 .3 %
+1 .7 %
+o t P a rtic ip a te
+N
+2 ,0 4 1
+5 ,6 1 7
+9 3 4
+1 ,1 9 6
+1 ,4 3 2
+2 ,0 3 9
+111111
+P111100 C T
+.4 %
+.6 %
+.9 %
+.8 %
+.9 %
+.1 %
+T O T A L
+654533
+N,1,9,3,0,5,4
+785000 701192
+
+Descriptive Analysis of Risk Reduction Programs
+Men Multiple Need Cohort Data Findings
+Graph 7
+In addition to looking at incarcerated individuals with each individual program need, Graph 7 shows
+the share of incarcerated individuals with two needs, a CRA need plus a CT need, a VR need, an
+academic need, or a vocation need. As shown, most incarcerated individuals were identified as having
+both a CRA and a VR need (55.9%), close to one-half of incarcerated individuals as having a combined
+CRA and CT need (48.9%), and about one-third of incarcerated individuals as having both a CRA and
+a vocation need (35.5%), and both a CRA and an academic need (35.0%). It should be noted that the
+findings shown in Graph 7 do not mean that these incarcerated individuals had only two needs; an
+overwhelming majority of them were identified as having more than two needs.
+Table 5
+One-Year Reconviction Rates of Released Men with CRA and Other Program Need by Needs Met vs. Not Met
+Need Type Both Needs Met CRA Need Met The Other Need Met Neither Need Met Total
+PCT N PCT N PCT N PCT N PCT N
+Have Need for both CRA and CT** 6.5% 1,269 7.6% 435 16.3% 1,173 16.8% 974 12.2% 3,851
+Have Need for both CRA and VR** 7.1% 1,442 6.7% 566 15.2% 1,344 18.2% 1,051 12.2% 4,403
+Have Need for both CRA and Academic** 6.9% 275 7.0% 802 14.9% 315 14.9% 1,301 11.7% 2,693
+Have Need for both CRA and Vocation** 4.7% 295 7.9% 1,118 9.1% 242 17.0% 1,144 11.4% 2,799
+** denotes p <.01
+The association between incarcerated individuals with CRA plus other program needs and the rate
+of recidivism, as shown in Table 5, revealed the importance of meeting both needs or meeting the
+CRA need only in lowering the rate of recidivism. For three out of the four program combinations
+shown above, meeting both needs and meeting CRA need were associated with a lower rate of
+recidivism when compared with incarcerated individuals in the other two comparison groups, the
+other need met group, and neither need met group. The only exception is among incarcerated
+individuals having both a CRA and a vocation need where meeting both needs, the CRA need or the
+vocation need resulted in lower rate of recidivism when compared with the neither need met group.
+Specifically, meeting the CRA need and the vocation need was associated with the lowest rate of
+15
+
+Descriptive Analysis of Risk Reduction Programs
+recidivism of 4.7% and completing a CRA program reduced the rate of recidivism the most, to 6.7%
+for incarcerated individuals with a VR need. Despite the differences identified above, there was no
+statistically significant difference between meeting both needs and meeting CRA need only in
+reducing the rate of recidivism. Again, it is important to note that many of the incarcerated
+individuals discussed have more than two program area needs. This analysis is examining only CRA
+and one other identified need area.
+Furthermore, for incarcerated individuals with a VR or a vocation need in addition to a CRA need,
+meeting the VR or vocation need only was associated with a lower rate of recidivism of 15.2% and
+9.1% respectively compared with 18.2% and 17.0% of incarcerated individuals whose need was not
+met correspondingly. Both differences were statistically significant. Meeting the CT, or academic
+need alone, on the other hand, had no effect on reducing the rate of recidivism. However, among
+incarcerated individuals who had an academic need but not a CRA need (N=816), meeting the
+academic need was strongly associated with a lower rate of recidivism of 2.5% compared with 9.9%
+among those who did not meet their academic need. (Table 5)
+Graph 8
+To further investigate the effect of the vocational program on the reduction of recidivism, Graph 8
+shows the share of incarcerated individuals with a vocation need plus a CRA need, a VR need, and a
+CT need. As shown, about one-third of incarcerated individuals were identified as having both a
+vocation and a CRA need (35.5%) or as having a combined vocation and VR need (31.5%). A little
+over one-quarter of incarcerated individuals were found to have both a vocation and a CT need
+(27.9%).
+Table 6
+One-Year Reconviction Rates of Male Releases with Vocation and Other Program Need by Needs Met vs. Not Met
+Need Type Both Needs Met VOC Need Met The Other Need Met Neither Need Met Total
+PCT N PCT N PCT N PCT N PCT N
+Have Need for Vocation & CRA** 4.7% 295 9.1% 242 7.9% 1,118 17.0% 1,144 11.4% 2,799
+Have Need for Vocation & VR** 5.9% 393 10.2% 108 11.8% 1,305 13.1% 678 11.2% 2,484
+Have Need for Vocation & CT** 6.6% 346 5.3% 95 11.2% 1,166 15.1% 591 11.3% 2,198
+* denotes p <.05, ** denotes p <.01
+16
+
+Descriptive Analysis of Risk Reduction Programs
+The association between incarcerated individuals with vocation and other program needs and the
+rate of recidivism, as shown in Table 6, revealed the importance of meeting both needs or meeting
+the vocation need only in lowering the rate of recidivism. Meeting both vocation and CRA need or
+both vocation and VR need was associated with the lowest rate of recidivism of 4.7% and 5.9%,
+respectively, among the four comparison groups. As for the incarcerated individuals with both a
+vocation and a CT need, meeting vocation need alone was associated with the lowest rate of
+recidivism of 5.3%. Meeting both vocation and CT need was identified with the second lowest rate
+of recidivism of 6.6%.
+Summary
+In summary, most incarcerated women released from the MA DOC between 2017 and 2022 had a
+Pathway Programming need. About a quarter of them had an academic need and about one in five
+had a vocational program need. Of the incarcerated individuals with a program need, about one-third
+finished Pathway Programming and about one in five completed vocational and academic programs.
+The association between program completion and the rate of one-year recidivism shows that
+program completion was associated with a lower rate of recidivism for three of the five programs,
+especially for the Pathway program. It also suggests that participation in a program had potential for
+lowering the rate of recidivism for all five programs. Therefore, increasing the number of
+incarcerated individuals who complete (or at least participate in the program that they are eligible
+for) plays an important role in lowering the rate of recidivism.
+Most incarcerated men released between the years of 2017 and 2022 from the MA DOC were
+identified as having a need for CRA, PTR, VR, or CT programs. Close to one-half of the incarcerated
+individuals were found to qualify for an academic or vocation program. When it comes to meeting
+these needs, substantial differences exist. About three out of five incarcerated individuals met their
+CT and VR needs, about one-half of them met their CRA program need, about one in four met their
+vocation and academic program needs, and only a handful of them met their PTR program need7.
+An investigation into the association between program completion and the rate of one-year
+recidivism shows that program completion was associated with a lower rate of recidivism for all six
+programs. Participating in, but not completing, these programs was not found to influence a
+reduction in recidivism.
+As for incarcerated individuals with CRA and another need, meeting the CRA need alone or in
+combination with the other need produced the best result in lowering the rate of recidivism. Similar
+findings were seen for those with a vocation and another need, meeting vocation need alone or in
+combination with the other need is found to be associated with either the lowest or the second lowest
+rate of recidivism.
+The analysis within this report has shown that completion of programs addressing criminogenic
+needs was associated with a lower rate of recidivism. However, incarcerated individuals who
+7 The high instance of non-participation in the PTR program is due to many with a substance use need
+attending the CRA program for their substance use need. The PTR program is attended by individuals who
+have limited access to the CRA program due to their housing facility.
+17
+
+Descriptive Analysis of Risk Reduction Programs
+completed programs could be different from incarcerated individuals who did not complete the
+programs8, and these differences can affect recidivism rates.
+8 Incarcerated individuals assessed as having an academic education or vocational program need and/or
+deemed eligible for an academic or vocational program have the option to decline participation in the
+recommended program.
+18
+
+Descriptive Analysis of Risk Reduction Programs
+Appendices
+19
+A p p e n d ix A : R e c o n v ic t
+C o n t r o l V a r ia b le
+T o t a l
+R e c id iv is m R is k S c o r e
+R e le a s e In s t it u t io n
+S e c u r it y L e v e l
+P o s t R e le a s e
+S u p e r v is io n
+T im e S e r v e d
+G o v e r n in g O f f e n s e
+T y p e
+G o v e r n in g O f f e n s e
+R a c e / E t h n ic it y
+A g e a t R e le a s e
+* d e n o t e s p < .0 5 , * * d
+[1 ]In c lu d e s t h e r a c ia l c a
+io n R a t e s o f R e le a s e d W
+C a t e g o r y
+R e c o n v ic t io n * *
+H ig h * *
+M o d e r a t e
+L o w
+E L M O / P r e - r e le a s e
+M in im u m * *
+M e d iu m * *
+N o n - s u p e r v is e d *
+S u p e r v is e d * *
+L e s s t h a n 3 y r s * *
+3 t o le s s t h a n 6 y r s *
+6 o r m o r e y r s
+D r u g
+P e r s o n * *
+P r o p e r t y *
+S e x
+O t h e r C r im e s
+N o n - v io le n t * *
+V io le n t * *
+W h it e * *
+B la c k / A f r ic a n A m e r ic
+H is p a n ic
+[1 ] O t h e r
+L e s s t h a n 3 5 * *
+3 5 o r m o r e * *
+e n o t e s p < .0 1
+t e g o r ie s o f A m e r ic a n In
+o m
+a n
+d ia n
+e n
+o
+b y P a t h w a y N e e
+P a t h w a y N e e d M
+P C T N
+3 .6 % 2 7 9
+3 .2 % 9 4
+1 .9 % 5 3
+0 .8 % 1 2 0
+5 .1 % 9 9
+1 .0 % 1 0 0
+5 .0 % 8 0
+7 .7 % 5 2
+2 .6 % 2 2 7
+4 .7 % 1 9 1
+1 .5 % 6 7
+0 .0 % 2 1
+1 .5 % 6 8
+3 .6 % 1 3 7
+7 .1 % 4 2
+0 .0 % 9
+4 .3 % 2 3
+3 .8 % 1 3 3
+3 .4 % 1 4 6
+2 .4 % 1 6 8
+6 .3 % 4 8
+0 .0 % 3 0
+9 .1 % 3 3
+3 .8 % 1 0 5
+3 .4 % 1 7 4
+r A la s k a N a t iv e , A
+d
+e
+s
+M
+t
+ia n
+e t
+o
+v s . N o
+P a t h w
+P C T
+1 4 .7 %
+1 7 .7 %
+7 .9 %
+4 .5 %
+8 .0 %
+1 3 .1 %
+1 6 .7 %
+2 1 .5 %
+9 .5 %
+1 4 .8 %
+1 3 .3 %
+0 .0 %
+8 .3 %
+1 2 .9 %
+2 3 .6 %
+0 .0 %
+1 1 .5 %
+1 5 .8 %
+1 2 .4 %
+1 5 .4 %
+1 8 .6 %
+5 .0 %
+1 0 .8 %
+1 5 .8 %
+1 3 .5 %
+r P a c if
+t M e t w it h C
+a y N e e d N o
+M e t
+N
+5 5 2
+2 7 7
+1 0 1
+1 3 2
+2 5
+2 5 1
+2 7 6
+2 3 7
+3 1 5
+5 3 2
+1 55
+1 0 9
+1 7 0
+1 6 1
+8
+1 0 4
+3 7 4
+1 7 8
+4 1 6
+5 9
+4 0
+3 7
+2 7 8
+2 7 4
+ic Is la n d e r , a
+o n
+t
+n d
+t r
+U
+o
+n
+l V a r
+P C T
+1 1 .0 %
+1 4 .0 %
+5 .8 %
+2 .8 %
+5 .6 %
+9 .7 %
+1 4 .0 %
+1 9 .0 %
+6 .6 %
+1 2 .2 %
+3 .7 %
+0 .0 %
+5 .6 %
+8 .8 %
+2 0 .2 %
+0 .0 %
+1 0 .2 %
+1 2 .6 %
+8 .3 %
+1 1 .6 %
+1 3 .1 %
+2 .9 %
+1 0 .0 %
+1 2 .5 %
+9 .6 %
+k n o w
+ia
+T
+n
+b
+o
+.
+le
+t a
+s
+l
+N
+8 3 1
+3 7 1
+1 5 4
+2 5 2
+1 2 4
+3 5 1
+3 5 6
+2 8 9
+5 4 2
+7 2 3
+8 2
+2 6
+1 7 7
+3 0 7
+2 0 3
+1 7
+1 2 7
+5 0 7
+3 2 4
+5 8 4
+1 0 7
+7 0
+7 0
+3 8 3
+4 4 8
+
+Descriptive Analysis of Risk Reduction Programs
+20
+A p p e n d ix B : R e c o n v ic t
+C o n t r o l V a r ia b le
+T o t a l
+R e c id iv is m R is k S c o r e
+R e le a s e In s t it u t io n
+S e c u r it y L e v e l
+P o s t R e le a s e
+S u p e r v is io n
+T im e S e r v e d
+G o v e r n in g O f f e n s e
+T y p e
+G o v e r n in g O f f e n s e
+R a c e / E t h n ic it y
+A g e a t R e le a s e
+* d e n o t e s p < .0 5
+[1 ]In c lu d e s t h e r a c ia l c a
+io n
+R
+H
+M
+L
+E
+M
+M
+N
+S
+L
+3
+6
+D
+P
+P
+S
+O
+N
+V
+W
+B
+H
+O
+L
+3
+t e g
+R a t e s o f R e le a s e d W
+C a t e g o r y
+e c o n v ic t io n
+ig h *
+o d e r a t e
+o w
+L M O / P r e - r e le a s e
+in im u m
+e d iu m
+o n - s u p e r v is e d
+u p e r v is e d
+e s s t h a n 3 y r s
+t o le s s t h a n 6 y r s
+o r m o r e y r s
+r u g
+e r s o n
+r o p e r t y
+e x
+t h e r C r im e s
+o n - v io le n t
+io le n t
+h it e
+la c k / A f r ic a n A m e r ic
+is p a n ic
+[1 ] t h e r
+e s s t h a n 3 5
+5 o r m o r e
+o r ie s o f A m e r ic a n In
+o m
+a n
+d ia n
+e n b y A c a d e m
+A c a d e m ic N
+P C T
+6 .3 %
+0 .0 %
+7 .1 %
+0 .0 %
+1 0 .0 %
+4 .2 %
+6 .7 %
+5 .9 %
+6 .4 %
+8 .5 %
+0 .0 %
+0 .0 %
+6 .3 %
+8 .6 %
+0 .0 %
+0 .0 %
+0 .0 %
+3 .6 %
+8 .3 %
+7 .5 %
+0 .0 %
+0 .0 %
+1 0 .0 %
+7 .5 %
+4 .2 %
+o r A la s k a N a
+ic
+e e
+t iv
+N e e d M
+d M e t
+N
+6 4
+3 1
+1 4
+1 0
+1 0
+2 4
+3 0
+1 7
+4 7
+4 7
+1 2
+5
+1 6
+3 5
+7
+1
+5
+2 8
+3 6
+4 0
+1 0
+4
+1 0
+4 0
+2 4
+e , A s ia n
+e
+o
+t v s . N o t M
+A c a d e m ic
+M
+P C T
+1 3 .5 %
+1 4 .7 %
+1 0 .2 %
+2 .7 %
+3 .1 %
+1 0 .5 %
+1 8 .2 %
+2 3 .0 %
+5 .9 %
+1 4 .3 %
+5 .6 %
+0 .0 %
+8 .6 %
+1 3 .0 %
+1 8 .0 %
+0 .0 %
+1 6 .7 %
+1 4 .0 %
+1 2 .6 %
+1 5 .2 %
+1 4 .0 %
+5 .9 %
+1 2 .1 %
+1 7 .5 %
+1 0 .4 %
+r P a c if ic Is
+e t
+N e
+e t
+la n
+w it h C
+e d N o t
+N
+2 7 4
+1 1 6
+4 9
+7 3
+3 2
+1 0 5
+1 3 7
+1 2 2
+1 5 2
+2 5 2
+1 8
+4
+7 0
+9 2
+6 1
+3
+4 8
+1 7 9
+9 5
+1 6 4
+4 3
+3 4
+3 3
+1 2 0
+1 5 4
+d e r , a n
+o
+d
+n t
+U
+r
+n
+o l V a r ia b le
+T o t a
+P C T
+1 2 .1 %
+1 1 .6 %
+9 .5 %
+2 .4 %
+4 .8 %
+9 .3 %
+1 6 .2 %
+2 0 .9 %
+6 .0 %
+1 3 .4 %
+3 .3 %
+0 .0 %
+8 .1 %
+1 1 .8 %
+1 6 .2 %
+0 .0 %
+1 5 .1 %
+1 2 .6 %
+1 1 .5 %
+1 3 .7 %
+1 1 .3 %
+5 .3 %
+1 1 .6 %
+1 5 .0 %
+9 .6 %
+k n o w n .
+s
+l
+N
+3 3 8
+1 4 7
+6 3
+8 3
+4 2
+1 2 9
+1 6 7
+1 3 9
+1 9 9
+2 9 9
+3 0
+9
+8 6
+1 2 7
+6 8
+4
+5 3
+2 0 7
+1 3 1
+2 0 4
+5 3
+3 8
+4 3
+1 6 0
+1 7 8
+
+Descriptive Analysis of Risk Reduction Programs
+21
+A p p e n d ix C : R e c o n v ic t
+C o n t r o l V a r ia b le
+T o t a l
+R e c id iv is m R is k S c o r e
+R e le a s e In s t it u t io n
+S e c u r it y L e v e l
+P o s t R e le a s e
+S u p e r v is io n
+T im e S e r v e d
+G o v e r n in g O f f e n s e
+T y p e
+G o v e r n in g O f f e n s e
+R a c e / E t h n ic it y
+A g e a t R e le a s e
+* d e n o t e s p < .0 5
+[1 ]In c lu d e s t h e r a c ia l c a
+io n
+R
+H
+M
+L
+E
+M
+M
+N
+S
+L
+3
+6
+D
+P
+P
+S
+O
+N
+V
+W
+B
+H
+O
+L
+3
+t e g
+R a t e s o f R e le a s e d W
+C a t e g o r y
+e c o n v ic t io n *
+ig h
+o d e r a t e
+o w
+L M O / P r e - r e le a s e
+in im u m
+e d iu m
+o n - s u p e r v is e d
+u p e r v is e d
+e s s t h a n 3 y r s
+t o le s s t h a n 6 y r s
+o r m o r e y r s
+r u g
+e r s o n
+r o p e r t y
+e x
+t h e r C r im e s
+o n - v io le n t
+io le n t
+h it e
+la c k / A f r ic a n A m e r ic
+is p a n ic
+[1 ] t h e r
+e s s t h a n 3 5
+5 o r m o r e
+o r ie s o f A m e r ic a n In
+o m
+a n
+d ia n
+e n
+V
+o
+b y V o
+o c a t io
+P C T
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+0 .0 %
+r A la s k
+c a t io
+n a l N
+a N a
+n N e e
+e e d M
+N
+5 6
+2 1
+9
+2 4
+1 5
+1 9
+2 2
+7
+4 9
+1 7
+2 8
+1 1
+6
+3 9
+3
+6
+2
+1 1
+4 5
+2 6
+1 5
+6
+9
+2 7
+2 9
+t iv e , A
+d
+s
+M
+e t
+ia n
+e t v s . N o t M
+V o c a t io n a
+M
+P C T
+8 .9 %
+1 4 .0 %
+2 .6 %
+1 .6 %
+5 .9 %
+5 .8 %
+1 1 .8 %
+1 4 .8 %
+5 .7 %
+1 0 .0 %
+3 .6 %
+0 .0 %
+4 .4 %
+8 .1 %
+1 6 .4 %
+0 .0 %
+5 .9 %
+1 0 .3 %
+7 .7 %
+8 .4 %
+1 2 .9 %
+5 .9 %
+1 0 .0 %
+9 .2 %
+8 .6 %
+o r P a c if ic Is
+e t w it h C o n
+l N e e d N o t
+e t
+N
+2 4 7
+1 3 6
+3 9
+6 3
+3 4
+8 6
+1 2 7
+8 8
+1 5 9
+2 1 1
+2 8
+8
+4 5
+1 2 4
+5 5
+6
+1 7
+1 1 7
+1 3 0
+1 7 9
+3 1
+1 7
+2 0
+1 1 9
+1 2 8
+la n d e r , a n d
+t
+U
+r o l V a r
+P C T
+7 .3 %
+1 2 .1 %
+2 .1 %
+1 .1 %
+4 .1 %
+4 .8 %
+1 0 .1 %
+1 3 .7 %
+4 .3 %
+9 .2 %
+1 .8 %
+0 .0 %
+3 .9 %
+6 .1 %
+1 5 .5 %
+0 .0 %
+5 .3 %
+9 .4 %
+5 .7 %
+7 .3 %
+8 .7 %
+4 .3 %
+6 .9 %
+7 .5 %
+7 .0 %
+n k n o w
+ia
+T
+n
+b
+o
+.
+le
+t a
+s
+l
+N
+3 0 3
+1 5 7
+4 8
+8 7
+4 9
+1 0 5
+1 4 9
+9 5
+2 0 8
+2 2 8
+5 6
+1 9
+5 1
+1 6 3
+5 8
+1 2
+1 9
+1 2 8
+1 7 5
+2 0 5
+4 6
+2 3
+2 9
+1 4 6
+1 5 7
+
+Descriptive Analysis of Risk Reduction Programs
+22
+A p p e n d ix D : R e c o n v ic t
+C o n t r o l V a r ia b le
+T o t a l
+R e c id iv is m R is k S c o r e
+R e le a s e In s t it u t io n
+S e c u r it y L e v e l
+P o s t R e le a s e
+S u p e r v is io n
+T im e S e r v e d
+G o v e r n in g O f f e n s e
+T y p e
+G o v e r n in g O f f e n s e
+R a c e / E t h n ic it y
+A g e a t R e le a s e
+* d e n o t e s p < .0 5
+[1 ]In c lu d e s t h e r a c ia l c a
+io
+t e
+n
+R
+H
+M
+L
+E
+M
+M
+N
+S
+L
+3
+6
+D
+P
+P
+S
+O
+N
+V
+W
+B
+H
+O
+L
+3
+g
+R a t e s o f R e le a s e d W
+C a t e g o r y
+e c o n v ic t io n
+ig h
+o d e r a t e
+o w
+L M O / P r e - r e le a s e
+in im u m *
+e d iu m
+o n - s u p e r v is e d *
+u p e r v is e d
+e s s t h a n 3 y r s
+t o le s s t h a n 6 y r s
+o r m o r e y r s
+r u g
+e r s o n
+r o p e r t y
+e x
+t h e r C r im e s
+o n - v io le n t
+io le n t
+h it e
+la c k / A f r ic a n A m e r ic
+is p a n ic
+[1 ] t h e r
+e s s t h a n 3 5
+5 o r m o r e
+o r ie s o f A m e r ic a n In
+o m
+a n
+d ia n
+e n
+o
+b y G P S
+G P S N
+P C T
+9 .6 %
+6 .9 %
+4 .8 %
+7 .4 %
+0 .0 %
+0 .0 %
+1 3 .8 %
+1 9 .3 %
+4 .0 %
+1 0 .0 %
+8 .3 %
+0 .0 %
+1 1 .5 %
+4 .5 %
+1 3 .3 %
+0 .0 %
+1 5 .2 %
+1 3 .5 %
+4 .5 %
+1 1 .2 %
+4 .8 %
+0 .0 %
+1 8 .2 %
+9 .5 %
+9 .7 %
+r A la s k a
+N
+e
+N
+e
+e
+a
+e
+d
+t
+d M e
+M e t
+N
+1 5 6
+8 7
+2 1
+2 7
+7
+4 0
+1 0 9
+5 7
+9 9
+1 4 0
+1 2
+4
+2 6
+6 6
+3 0
+1
+3 3
+8 9
+6 7
+1 0 7
+2 1
+1 7
+1 1
+8 4
+7 2
+iv e , A
+t
+s
+v
+ia
+s
+n
+. N
+o
+o t M e
+G P S N
+P C T
+8 .6 %
+9 .4 %
+7 .7 %
+4 .3 %
+0 .0 %
+1 1 .5 %
+7 .4 %
+7 .5 %
+9 .6 %
+8 .7 %
+0 .0 %
+0 .0 %
+8 .9 %
+5 .3 %
+1 0 .4 %
+0 .0 %
+9 .3 %
+9 .5 %
+5 .0 %
+8 .7 %
+1 1 .8 %
+8 .3 %
+0 .0 %
+1 1 .5 %
+5 .5 %
+r P a c if
+t w it h
+e e d N
+ic Is la n
+C o n t r o
+o t M e t
+N
+1 8 7
+3 2
+1 3
+2 3
+4
+6 1
+1 2 2
+9 3
+9 4
+1 8 3
+3
+1
+4 5
+3 8
+4 8
+2
+5 4
+1 4 7
+4 0
+1 4 9
+1 7
+1 2
+9
+9 6
+9 1
+d e r , a n
+l V a
+d U
+r ia b le
+P C T
+9 .0 %
+7 .6 %
+5 .9 %
+6 .0 %
+0 .0 %
+6 .9 %
+1 0 .4 %
+1 2 .0 %
+6 .7 %
+9 .3 %
+6 .7 %
+0 .0 %
+9 .9 %
+4 .8 %
+1 1 .5 %
+0 .0 %
+1 1 .5 %
+1 1 .0 %
+4 .7 %
+9 .8 %
+7 .9 %
+3 .4 %
+1 0 .0 %
+1 0 .6 %
+7 .4 %
+n k n o w
+s
+T o
+n .
+t a l
+N
+3 4 3
+1 1 9
+3 4
+5 0
+1 1
+1 0 1
+2 3 1
+1 5 0
+1 9 3
+3 2 3
+1 5
+5
+7 1
+1 0 4
+7 8
+3
+8 7
+2 3 6
+1 0 7
+2 5 6
+3 8
+2 9
+2 0
+1 8 0
+1 6 3
+
+Descriptive Analysis of Risk Reduction Programs
+23
+A p p e n d ix E : R e c o n v ic
+C o n t r o l V a r ia b le
+T o t a l
+R e c id iv is m R is k S c o r e
+R e le a s e In s t it u t io n
+S e c u r it y L e v e l
+P o s t R e le a s e
+S u p e r v is io n
+T im e S e r v e d
+G o v e r n in g O f f e n s e
+T y p e
+G o v e r n in g O f f e n s e
+R a c e / E t h n ic it y
+A g e a t R e le a s e
+* d e n o t e s p < .0 5 , * * d
+[1 ]In c lu d e s t h e r a c ia l c
+t io n R a t e s o f R e le a s
+C a t e g o r y
+R e c o n v ic t io n *
+H ig h
+M o d e r a t e
+L o w
+E L M O / P r e - r e le a s e
+M in im u m *
+M e d iu m
+N o n - s u p e r v is e d *
+S u p e r v is e d
+L e s s t h a n 3 y r s *
+3 t o le s s t h a n 6 y r s
+6 o r m o r e y r s
+D r u g *
+P e r s o n
+P r o p e r t y
+S e x
+O t h e r C r im e s
+N o n - v io le n t *
+V io le n t
+W h it e
+B la c k / A f r ic a n A m e
+H is p a n ic * *
+[1 ] O t h e r
+L e s s t h a n 3 5
+3 5 o r m o r e
+e n o t e s p < .0 1
+a t e g o r ie s o f A m e r ic
+e d W
+r ic a n
+a n In
+o m
+d ia
+e n b y M
+M E P N
+P C T
+1 1 .3 %
+1 3 .6 %
+7 .5 %
+2 .2 %
+4 .5 %
+8 .0 %
+1 6 .1 %
+1 9 .0 %
+6 .8 %
+1 2 .3 %
+2 .0 %
+0 .0 %
+8 .1 %
+9 .4 %
+1 9 .7 %
+0 .0 %
+9 .2 %
+1 2 .6 %
+9 .1 %
+1 2 .1 %
+1 4 .3 %
+1 .6 %
+1 0 .2 %
+1 2 .5 %
+1 0 .4 %
+n o r A la s
+E
+e
+k
+P
+e
+a
+N e e d M
+d M e t
+N
+6 8 0
+2 8 0
+1 0 7
+1 7 8
+8 9
+2 7 4
+3 1 7
+2 5 3
+4 2 7
+6 1 6
+5 0
+1 4
+1 6 1
+2 3 3
+1 5 7
+1 0
+1 1 9
+4 3 7
+2 4 3
+4 7 9
+9 1
+6 1
+4 9
+3 0 5
+3 7 5
+N a t iv e , A
+e t v s . N o
+M E P N
+P C T
+1 5 .8 %
+1 5 .6 %
+1 .9 %
+4 .9 %
+8 .6 %
+1 5 .6 %
+1 6 .5 %
+1 9 .8 %
+1 0 .9 %
+1 6 .8 %
+6 .1 %
+0 .0 %
+1 6 .3 %
+1 1 .0 %
+1 9 .7 %
+0 .0 %
+1 7 .1 %
+1 7 .8 %
+1 0 .3 %
+1 6 .4 %
+9 .8 %
+2 0 .0 %
+1 3 .2 %
+1 7 .9 %
+1 3 .8 %
+s ia n o r P
+t M
+e e
+a c
+e t
+d N
+if ic
+w it h
+o t M
+N
+5 8 8
+1 0 9
+5 2
+8 1
+3 5
+1 4 7
+4 0 6
+3 2 3
+2 6 5
+5 4 2
+3 3
+1 3
+1 0 4
+1 4 5
+1 4 7
+1 1
+1 8 1
+4 3 2
+1 5 6
+4 6 9
+5 1
+3 0
+3 8
+2 9 1
+2 9 7
+Is la n
+C
+e
+d
+o
+t
+e
+n t r o l V a r ia b le
+T o t a
+P C T
+1 3 .4 %
+1 4 .1 %
+5 .7 %
+3 .1 %
+5 .6 %
+1 0 .7 %
+1 6 .3 %
+1 9 .4 %
+8 .4 %
+1 4 .4 %
+3 .6 %
+0 .0 %
+1 1 .3 %
+1 0 .1 %
+1 9 .7 %
+0 .0 %
+1 4 .0 %
+1 5 .2 %
+9 .5 %
+1 4 .2 %
+1 2 .7 %
+7 .7 %
+1 1 .5 %
+1 5 .1 %
+1 1 .9 %
+r , a n d U n k n o w
+s
+l
+N
+1 ,2 6
+3 8 9
+1 5 9
+2 5 9
+1 2 4
+4 2 1
+7 2 3
+5 7 6
+6 9 2
+1 ,1 5
+8 3
+2 7
+2 6 5
+3 7 8
+3 0 4
+2 1
+3 0 0
+8 6 9
+3 9 9
+9 4 8
+1 4 2
+9 1
+8 7
+5 9 6
+6 7 2
+n .
+8
+8
+
+Descriptive Analysis of Risk Reduction Programs
+24
+A p p e n d ix F : R e c o n v ic t io n R a t e s o f R e le a s e d M e n
+C o n t r o l V a r ia b le C a t e g o r y
+T o t a l R e c o n v ic t io n * *
+H ig h * *
+R e c id iv is m R is k S c o r e M o d e r a t e *
+L o w
+E L M O / P r e - r e le a s e
+R e le a s e In s t it u t io n M in im u m
+S e c u r it y L e v e l M e d iu m * *
+M a x im u m *
+P o s t R e le a s e N o n - s u p e r v is e d * *
+S u p e r v is io n S u p e r v is e d * *
+L e s s t h a n 3 y r s * *
+T im e S e r v e d 3 t o le s s t h a n 6 y r s * *
+6 o r m o r e y r s * *
+D r u g * *
+P e r s o n * *
+G o v e r n in g O f f e n s e
+P r o p e r t y * *
+T y p e
+S e x
+O t h e r C r im e s * *
+N o n - v io le n t * *
+G o v e r n in g O f f e n s e
+V io le n t * *
+W h it e * *
+B la c k / A f r ic a n A m e r ic a n * *
+R a c e / E t h n ic it y
+H is p a n ic * *
+[1 ] O t h e r
+L e s s t h a n 3 5 * *
+A g e a t R e le a s e
+3 5 o r m o r e * *
+* d e n o t e s p < .0 5 , * * d e n o t e s p < .0 1
+[1 ]In c lu d e s t h e r a c ia l c a t e g o r ie s o f A m e r ic a n In d ia
+b y
+n o
+C R A N e
+C R A N
+P C T
+7 .1 %
+9 .2 %
+4 .2 %
+2 .7 %
+4 .7 %
+6 .1 %
+9 .2 %
+9 .2 %
+9 .0 %
+6 .5 %
+7 .4 %
+7 .5 %
+5 .8 %
+7 .0 %
+6 .3 %
+1 1 .0 %
+8 .3 %
+6 .5 %
+7 .6 %
+6 .5 %
+6 .8 %
+6 .8 %
+7 .7 %
+1 1 .1 %
+7 .5 %
+6 .9 %
+r A la s k a
+e
+e
+N
+d
+e
+a
+M e t v
+d M e t
+N
+2 ,7 5 8
+1 ,6 7 6
+6 6 7
+4 0 6
+6 4 2
+9 2 0
+1 ,1 3 1
+6 5
+6 4 5
+2 ,1 1 3
+1 ,3 4 5
+8 6 5
+5 4 8
+8 0 0
+1 ,1 8 2
+2 9 0
+8 4
+4 0 2
+1 ,4 9 2
+1 ,2 6 6
+1 0 7 3
+8 2 8
+8 2 1
+3 6
+9 7 8
+1 ,7 8 0
+t iv e , A
+s . N
+s ia
+o t M e t w it h C o n t r o l V a r ia
+C R A N e e d N o t M e t
+P C T N
+1 4 .9 % 3 ,4 1 9
+1 8 .6 % 2 ,3 7 7
+7 .6 % 6 5 9
+3 .3 % 3 6 2
+5 .2 % 1 5 5
+8 .2 % 4 1 4
+1 4 .5 % 2 ,0 7 7
+2 1 .6 % 7 7 3
+1 8 .2 % 1 ,2 3 8
+1 3 .1 % 2 ,1 8 1
+1 6 .3 % 2 ,0 5 5
+1 3 .5 % 9 1 8
+1 1 .7 % 4 4 6
+1 1 .0 % 6 7 0
+1 5 .8 % 1 ,5 8 3
+2 3 .6 % 4 4 4
+8 .9 % 2 7 0
+1 2 .8 % 4 5 2
+1 5 .1 % 1 ,5 6 6
+1 4 .8 % 1 ,8 5 3
+1 6 .1 % 1 5 3 2
+1 6 .3 % 8 6 0
+1 2 .5 % 9 8 6
+4 .9 % 4 1
+1 6 .6 % 1 ,7 2 4
+1 3 .2 % 1 ,6 9 5
+n o r P a c if ic Is la n d e r , a n d U
+b le s
+P C T
+1 1 .4 %
+1 4 .7 %
+5 .9 %
+3 .0 %
+4 .8 %
+6 .7 %
+1 2 .7 %
+2 0 .6 %
+1 5 .0 %
+9 .9 %
+1 2 .8 %
+1 0 .6 %
+8 .5 %
+8 .8 %
+1 1 .8 %
+1 8 .7 %
+8 .8 %
+9 .8 %
+1 1 .5 %
+1 1 .4 %
+1 2 .2 %
+1 1 .6 %
+1 0 .3 %
+7 .8 %
+1 3 .3 %
+1 0 .0 %
+n k n o
+T
+w
+o t a
+n .
+l
+6
+4
+1
+1
+3
+1
+4
+3
+1
+1
+2
+3
+3
+2
+1
+1
+2
+3
+N
+,1 7
+,0 5
+,3 2
+7 6 8
+7 9 7
+,3 3
+,2 0
+8 3 8
+,8 8
+,2 9
+,4 0
+,7 8
+9 9 4
+,4 7
+,7 6
+7 3 4
+3 5 4
+8 5 4
+,0 5
+,1 1
+,6 0
+,6 8
+,8 0
+7 7
+,7 0
+,4 7
+7
+3
+6
+4
+8
+3
+4
+0
+3
+0
+5
+8
+9
+5
+8
+7
+2
+5
+
+Descriptive Analysis of Risk Reduction Programs
+25
+A p p e n d ix G : R e c o n
+C o n t r o l V a r ia b le
+T o t a l
+R e c id iv is m R is k S c o
+R e le a s e In s t it u t io
+S e c u r it y L e v e l
+P o s t R e le a s e
+S u p e r v is io n
+T im e S e r v e d
+G o v e r n in g O f f e n s
+T y p e
+G o v e r n in g O f f e n s
+R a c e / E t h n ic it y
+A g e a t R e le a s e
+* d e n o t e s p < .0 5
+[1 ]In c lu d e s t h e r a c ia
+v ic
+r e
+n
+e
+e
+l c a
+t io n R a t e s o f R e le a s e d M e
+C a t e g o r y
+R e c o n v ic t io n *
+H ig h *
+M o d e r a t e
+L o w
+E L M O / P r e - r e le a s e
+M in im u m
+M e d iu m
+M a x im u m
+N o n - s u p e r v is e d
+S u p e r v is e d *
+L e s s t h a n 3 y r s
+3 t o le s s t h a n 6 y r s
+6 o r m o r e y r s
+D r u g
+P e r s o n
+P r o p e r t y
+S e x
+O t h e r C r im e s
+N o n - v io le n t
+V io le n t
+W h it e
+B la c k / A f r ic a n A m e r ic a n *
+H is p a n ic
+[1 ] O t h e r
+L e s s t h a n 3 5
+3 5 o r m o r e
+t e g o r ie s o f A m e r ic a n In d ia
+n
+n
+b
+o
+y C T N e
+C T N
+P C T
+1 1 .1 %
+1 3 .4 %
+6 .0 %
+2 .2 %
+3 .8 %
+6 .5 %
+1 1 .9 %
+2 2 .6 %
+1 5 .5 %
+9 .5 %
+1 2 .6 %
+1 1 .0 %
+8 .4 %
+9 .7 %
+1 1 .3 %
+1 5 .0 %
+7 .8 %
+1 0 .3 %
+1 1 .1 %
+1 1 .1 %
+1 1 .7 %
+1 1 .0 %
+1 0 .5 %
+1 1 .9 %
+1 2 .7 %
+9 .7 %
+r A la s k
+e d
+e e
+a N
+M
+d
+a
+e t v s
+M e t
+N
+2 ,7 7 6
+1 ,9 8 4
+6 0 1
+1 8 5
+3 1 4
+6 1 8
+1 ,5 0 7
+3 3 7
+7 3 7
+2 ,0 3 9
+1 ,2 1 0
+9 3 7
+6 2 9
+5 4 5
+1 ,3 7 7
+2 9 3
+1 1 5
+4 4 6
+1 ,2 8 4
+1 ,4 9 2
+9 9 5
+9 3 9
+8 0 0
+4 2
+1 ,2 8 9
+1 ,4 8 7
+t iv e , A
+. N o
+s ia n
+t M e t w
+C T N
+P C T
+1 3 .3 %
+1 6 .3 %
+5 .7 %
+2 .1 %
+2 .9 %
+9 .1 %
+1 4 .1 %
+1 8 .5 %
+1 6 .1 %
+1 1 .9 %
+1 4 .6 %
+1 1 .1 %
+1 1 .3 %
+9 .5 %
+1 4 .0 %
+2 1 .2 %
+1 2 .1 %
+1 0 .8 %
+1 2 .9 %
+1 3 .8 %
+1 4 .2 %
+1 5 .1 %
+1 0 .6 %
+5 .3 %
+1 4 .9 %
+1 1 .7 %
+o r P a c
+it h C
+e e d N
+if ic Is
+o n t r o
+o t M
+N
+1 ,5 7
+1 ,1 5
+3 1 8
+9 4
+1 3 6
+2 6 4
+8 0 7
+3 6 8
+5 5 4
+1 ,0 2
+9 8 3
+4 1 5
+1 7 7
+3 4 9
+7 0 1
+2 0 3
+9 1
+2 3 1
+7 8 3
+7 9 2
+6 5 5
+4 5 8
+4 4 3
+1 9
+8 2 1
+7 5 4
+la n d e
+l V a r ia b
+e t
+5
+7
+1
+r , a n d U
+le s
+P C T
+1 1 .9 %
+1 4 .5 %
+5 .9 %
+2 .2 %
+3 .6 %
+7 .3 %
+1 2 .7 %
+2 0 .4 %
+1 5 .7 %
+1 0 .3 %
+1 3 .5 %
+1 1 .0 %
+9 .1 %
+9 .6 %
+1 2 .2 %
+1 7 .5 %
+9 .7 %
+1 0 .5 %
+1 1 .8 %
+1 2 .0 %
+1 2 .7 %
+1 2 .3 %
+1 0 .5 %
+9 .8 %
+1 3 .6 %
+1 0 .4 %
+n k n o
+T
+w
+o t a
+n .
+l
+4
+3
+2
+1
+3
+2
+1
+2
+2
+2
+1
+1
+1
+2
+2
+N
+,3 5
+,1 4
+9 1 9
+2 7 9
+4 5 0
+8 8 2
+,3 1
+7 0 5
+,2 9
+,0 6
+,1 9
+,3 5
+8 0 6
+8 9 4
+,0 7
+4 9 6
+2 0 6
+6 7 7
+,0 6
+,2 8
+,6 5
+,3 9
+,2 4
+6 1
+,1 1
+,2 4
+1
+1
+4
+1
+0
+3
+2
+8
+7
+4
+0
+7
+3
+0
+1
+
+Descriptive Analysis of Risk Reduction Programs
+26
+A p p e n d ix H : R e c o n v ic t io n R a t e s o f R e le a s e d M e n
+C o n t r o l V a r ia b le C a t e g o r y
+T o t a l R e c o n v ic t io n * *
+H ig h * *
+R e c id iv is m R is k S c o r e M o d e r a t e
+L o w
+E L M O / P r e - r e le a s e
+R e le a s e In s t it u t io n M in im u m
+S e c u r it y L e v e l M e d iu m
+M a x im u m
+P o s t R e le a s e N o n - s u p e r v is e d * *
+S u p e r v is io n S u p e r v is e d
+L e s s t h a n 3 y r s
+T im e S e r v e d 3 t o le s s t h a n 6 y r s *
+6 o r m o r e y r s
+D r u g
+P e r s o n * *
+G o v e r n in g O f f e n s e
+P r o p e r t y
+T y p e
+S e x
+O t h e r C r im e s
+N o n - v io le n t
+G o v e r n in g O f f e n s e
+V io le n t * *
+W h it e * *
+B la c k / A f r ic a n A m e r ic a n *
+R a c e / E t h n ic it y
+H is p a n ic
+[1 ] O t h e r
+L e s s t h a n 3 5 * *
+A g e a t R e le a s e
+3 5 o r m o r e
+* d e n o t e s p < .0 5 , * * d e n o t e s p < .0 1
+[1 ]In c lu d e s t h e r a c ia l c a t e g o r ie s o f A m e r ic a n In d ia n
+b
+o
+y V R N
+V R
+P C T
+1 0 .6 %
+1 3 .1 %
+4 .9 %
+2 .9 %
+3 .6 %
+6 .6 %
+1 2 .2 %
+1 8 .8 %
+1 3 .9 %
+9 .5 %
+1 2 .0 %
+1 0 .0 %
+8 .9 %
+8 .2 %
+1 0 .1 %
+2 0 .7 %
+5 .9 %
+9 .8 %
+1 1 .7 %
+9 .8 %
+1 1 .4 %
+1 0 .3 %
+1 0 .0 %
+1 0 .2 %
+1 2 .1 %
+9 .4 %
+r A la s
+e e d
+N e e
+k a N
+M e t v s
+d M e t
+N
+3 ,1 7 9
+2 ,2 5 2
+6 7 5
+2 4 4
+3 5 8
+7 4 3
+1 ,7 3 2
+3 4 6
+8 4 1
+2 ,3 3 8
+1 ,3 9 5
+1 0 9 1
+6 9 3
+5 8 2
+1 ,6 5 9
+3 2 9
+1 1 8
+4 9 1
+1 ,4 0 2
+1 ,7 7 7
+1 1 8 4
+1 ,0 4 8
+8 9 8
+4 9
+1 ,4 3 4
+1 ,7 4 5
+a t iv e , A
+. N
+s ia
+o
+n
+t M e t w
+V R N
+P C T
+1 3 .8 %
+1 7 .1 %
+6 .6 %
+0 .0 %
+5 .6 %
+8 .4 %
+1 4 .1 %
+2 1 .9 %
+1 8 .9 %
+1 1 .0 %
+1 4 .3 %
+1 4 .1 %
+1 0 .1 %
+1 1 .8 %
+1 5 .5 %
+1 9 .9 %
+1 0 .2 %
+9 .3 %
+1 2 .8 %
+1 4 .8 %
+1 5 .6 %
+1 4 .3 %
+1 1 .3 %
+0 .0 %
+1 6 .1 %
+1 1 .6 %
+o r P a c
+it h C o n t r o
+e e d N o t M
+N
+1 ,8 2
+1 ,3 2
+3 8 1
+1 0 9
+2 1 4
+3 3 4
+8 5 9
+4 1 5
+6 5 1
+1 ,1 7
+1 ,1 8
+4 5 3
+1 8 9
+4 3 2
+7 9 5
+2 0 6
+1 0 8
+2 8 1
+9 1 9
+9 0 3
+7 6 1
+5 1 6
+5 2 3
+2 2
+9 0 2
+9 2 0
+if ic Is la n d e
+l V
+e t
+2
+5
+1
+0
+r , a
+a
+n
+r ia b le s
+P C T
+1 1 .8 %
+1 4 .5 %
+5 .5 %
+2 .0 %
+4 .4 %
+7 .1 %
+1 2 .8 %
+2 0 .5 %
+1 6 .1 %
+1 0 .0 %
+1 3 .0 %
+1 1 .2 %
+9 .2 %
+9 .8 %
+1 1 .8 %
+2 0 .4 %
+8 .0 %
+9 .6 %
+1 2 .1 %
+1 1 .5 %
+1 3 .1 %
+1 1 .6 %
+1 0 .5 %
+7 .0 %
+1 3 .7 %
+1 0 .2 %
+d U n k n o
+T
+w
+o t a
+n .
+l
+N
+5 ,0 0 1
+3 ,5 7 7
+1 0 5 6
+3 5 3
+5 7 2
+1 0 7 7
+2 ,5 9 1
+7 6 1
+1 ,4 9 2
+3 ,5 0 9
+2 ,5 7 5
+1 ,5 4 4
+8 8 2
+1 0 1 4
+2 ,4 5 4
+5 3 5
+2 2 6
+7 7 2
+2 ,3 2 1
+2 ,6 8 0
+1 ,9 4 5
+1 ,5 6 4
+1 ,4 2 1
+7 1
+2 ,3 3 6
+2 ,6 6 5
+
+Descriptive Analysis of Risk Reduction Programs
+27
+A p p e n d ix I: R e c o n v ic
+C o n t r o l V a r ia b le
+T o t a l
+R e c id iv is m R is k S c o r e
+R e le a s e In s t it u t io n
+S e c u r it y L e v e l
+P o s t R e le a s e
+S u p e r v is io n
+T im e S e r v e d
+G o v e r n in g O f f e n s e
+T y p e
+G o v e r n in g O f f e n s e
+R a c e / E t h n ic it y
+A g e a t R e le a s e
+* d e n o t e s p < .0 5 , * * d
+[1 ]In c lu d e s t h e r a c ia l c
+t io n R a t e s o f R e le a s e d M e
+C a t e g o r y
+R e c o n v ic t io n *
+H ig h
+M o d e r a t e
+L o w
+E L M O / P r e - r e le a s e
+M in im u m
+M e d iu m
+M a x im u m
+N o n - s u p e r v is e d
+S u p e r v is e d
+L e s s t h a n 3 y r s
+3 t o le s s t h a n 6 y r s
+6 o r m o r e y r s *
+D r u g
+P e r s o n *
+P r o p e r t y
+S e x
+O t h e r C r im e s
+N o n - v io le n t
+V io le n t * *
+W h it e
+B la c k / A f r ic a n A m e r ic a n
+H is p a n ic
+[1 ] O t h e r
+L e s s t h a n 3 5
+3 5 o r m o r e *
+e n o t e s p < .0 1
+a t e g o r ie s o f A m e r ic a n In d
+n
+ia
+b
+n
+y A c a d e
+A c a d e m
+P C T
+9 .0 %
+1 3 .8 %
+4 .1 %
+1 .1 %
+3 .9 %
+6 .3 %
+9 .9 %
+1 6 .5 %
+1 1 .9 %
+8 .0 %
+1 5 .9 %
+1 0 .0 %
+4 .7 %
+9 .9 %
+9 .4 %
+1 1 .1 %
+2 .9 %
+1 1 .5 %
+1 0 .6 %
+8 .1 %
+9 .5 %
+9 .7 %
+8 .7 %
+0 .0 %
+1 2 .5 %
+6 .2 %
+o r A la s k
+m
+a
+ic N e e d M
+ic N e e d M
+N
+7 9 1
+4 5 7
+1 4 8
+1 7 8
+1 0 3
+1 8 9
+4 1 4
+8 5
+1 9 4
+5 9 7
+1 7 0
+2 7 9
+3 4 2
+1 3 1
+4 2 6
+3 6
+1 0 2
+9 6
+2 6 3
+5 2 8
+2 2 0
+2 4 8
+2 9 8
+2 5
+3 5 2
+4 3 9
+N a t iv e , A
+e
+s
+e
+t
+ia
+t v s . N o t M
+A c a d e m
+P C T
+1 1 .4 %
+1 5 .3 %
+5 .8 %
+3 .4 %
+3 .8 %
+6 .1 %
+1 3 .0 %
+2 0 .6 %
+1 3 .6 %
+1 0 .3 %
+1 2 .4 %
+9 .9 %
+9 .3 %
+7 .7 %
+1 4 .2 %
+1 8 .4 %
+7 .9 %
+8 .6 %
+1 0 .0 %
+1 3 .2 %
+1 2 .9 %
+1 3 .7 %
+9 .5 %
+2 .6 %
+1 4 .1 %
+9 .4 %
+n o r P a c if
+e t w
+ic N e
+M e t
+ic Is la
+it h C
+e d N
+N
+2 ,7 1 8
+1 ,6 6 2
+4 8 5
+5 0 3
+3 6 6
+5 8 7
+1 ,3 4 7
+4 1 8
+9 2 9
+1 ,7 8 9
+1 ,7 4 2
+6 7 4
+3 0 2
+8 2 7
+1 ,0 2 3
+2 9 4
+1 9 0
+3 8 4
+1 ,5 0 5
+1 ,2 1 3
+8 0 8
+6 7 9
+1 ,1 9 3
+3 8
+1 ,1 8 4
+1 ,5 3 4
+n d e r
+o n t
+o t
+, a n
+r o l V a r ia b
+T O
+P C T
+1 0 .9 %
+1 5 .0 %
+5 .4 %
+2 .8 %
+3 .8 %
+6 .2 %
+1 2 .3 %
+1 9 .9 %
+1 3 .3 %
+9 .8 %
+1 2 .7 %
+1 0 .0 %
+6 .8 %
+8 .0 %
+1 2 .8 %
+1 7 .6 %
+6 .2 %
+9 .2 %
+1 0 .1 %
+1 1 .7 %
+1 2 .2 %
+1 2 .6 %
+9 .3 %
+1 .6 %
+1 3 .7 %
+8 .7 %
+d U n k n o w
+le
+T
+n
+s
+A
+.
+L
+3
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+N
+,5 0
+,1 1
+6 3 3
+6 8 1
+4 6 9
+7 7 6
+,7 6
+5 0 3
+,1 2
+,3 8
+,9 1
+9 5 3
+6 4 4
+9 5 8
+,4 4
+3 3 0
+2 9 2
+4 8 0
+,7 6
+,7 4
+,0 2
+9 2 7
+,4 9
+6 3
+,5 3
+,9 7
+9
+9
+1
+3
+6
+2
+9
+8
+1
+8
+1
+6
+3
+
+Descriptive Analysis of Risk Reduction Programs
+28
+A p p e n d ix J : R e c o n v ic
+C o n t r o l V a r ia b le
+T o t a l
+R e c id iv is m R is k S c o r e
+R e le a s e In s t it u t io n
+S e c u r it y L e v e l
+P o s t R e le a s e
+S u p e r v is io n
+T im e S e r v e d
+G o v e r n in g O f f e n s e
+T y p e
+G o v e r n in g O f f e n s e
+R a c e / E t h n ic it y
+A g e a t R e le a s e
+* d e n o t e s p < .0 5 , * * d
+[1 ]In c lu d e s t h e r a c ia l c
+t io n R a t e s o f R e le a s e d M e n
+C a t e g o r y
+R e c o n v ic t io n * *
+H ig h *
+M o d e r a t e
+L o w
+E L M O / P r e - r e le a s e
+M in im u m
+M e d iu m * *
+M a x im u m
+N o n - s u p e r v is e d * *
+S u p e r v is e d * *
+L e s s t h a n 3 y r s *
+3 t o le s s t h a n 6 y r s * *
+6 o r m o r e y r s *
+D r u g
+P e r s o n * *
+P r o p e r t y
+S e x
+O t h e r C r im e s
+N o n - v io le n t *
+V io le n t * *
+W h it e * *
+B la c k / A f r ic a n A m e r ic a n *
+H is p a n ic * *
+[1 ] O t h e r
+L e s s t h a n 3 5 * *
+3 5 o r m o r e * *
+e n o t e s p < .0 1
+a t e g o r ie s o f A m e r ic a n In d ia
+b y V o c a t io n N e e d M
+V o c a t io n N e e d M
+P C T N
+5 .2 % 7 8 5
+8 .7 % 3 9 0
+3 .8 % 1 6 0
+0 .4 % 2 3 2
+3 .7 % 1 0 8
+3 .5 % 1 7 0
+5 .0 % 4 6 2
+1 7 .8 % 4 5
+5 .7 % 1 7 5
+5 .1 % 6 1 0
+6 .7 % 1 3 5
+5 .1 % 2 7 2
+4 .8 % 3 7 8
+5 .0 % 1 0 0
+5 .7 % 3 5 2
+1 1 .4 % 4 4
+2 .9 % 2 0 8
+6 .2 % 8 1
+6 .7 % 2 2 5
+4 .6 % 5 6 0
+5 .7 % 3 4 9
+5 .8 % 2 5 9
+3 .1 % 1 5 9
+5 .6 % 1 8
+5 .2 % 2 6 9
+5 .2 % 5 1 6
+n o r A la s k a N a t iv e , A
+e t
+e t
+s ia
+v
+n
+s . N o t M e
+V o c a t io n
+M
+P C T
+1 1 .6 %
+1 4 .7 %
+6 .2 %
+2 .6 %
+5 .3 %
+6 .7 %
+1 2 .7 %
+1 9 .1 %
+1 4 .8 %
+1 0 .3 %
+1 2 .8 %
+1 0 .8 %
+9 .2 %
+9 .0 %
+1 2 .1 %
+1 8 .9 %
+6 .7 %
+1 0 .3 %
+1 1 .8 %
+1 1 .4 %
+1 2 .3 %
+1 0 .4 %
+1 1 .7 %
+1 1 .4 %
+1 2 .9 %
+1 0 .5 %
+o r P a c if ic
+t w it h C o n
+N e e d N o t
+e t
+N
+2 ,6 1 7
+1 ,7 8 8
+5 1 5
+3 0 7
+3 0 2
+5 0 7
+1 ,4 4 6
+3 6 2
+7 6 5
+1 ,8 5 2
+1 ,3 5 8
+8 2 4
+4 3 5
+5 9 2
+1 ,1 2 2
+3 1 8
+1 7 9
+4 0 6
+1 ,3 1 6
+1 ,3 0 1
+1 2 0 3
+7 8 2
+5 9 7
+3 5
+1 1 6 9
+1 ,4 4 8
+Is la n d e r , a
+t r o
+n d
+l V a r ia b le s
+T o t a
+P C T
+1 0 .1 %
+1 3 .6 %
+5 .6 %
+1 .7 %
+4 .9 %
+5 .9 %
+1 0 .8 %
+1 8 .9 %
+1 3 .1 %
+9 .0 %
+1 2 .3 %
+9 .4 %
+7 .1 %
+8 .4 %
+1 0 .6 %
+1 8 .0 %
+4 .7 %
+9 .7 %
+1 1 .0 %
+9 .3 %
+1 0 .8 %
+9 .2 %
+9 .9 %
+9 .4 %
+1 1 .5 %
+9 .1 %
+U n k n o w n .
+l
+3
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+N
+,4 0
+,1 7
+6 7 5
+5 3 9
+4 1 0
+6 7 7
+,9 0
+4 0 7
+9 4 0
+,4 6
+,4 9
+,0 9
+8 1 3
+6 9 2
+,4 7
+3 6 2
+3 8 7
+4 8 7
+,5 4
+,8 6
+,5 5
+,0 4
+7 5 6
+5 3
+,4 3
+,9 6
+2
+8
+8
+2
+3
+6
+4
+1
+1
+2
+1
+8
+4
+
+Descriptive Analysis of Risk Reduction Programs
+29
+A p p e n d ix K : R e c o n
+C o n t r o l V a r ia b le
+T o t a l
+R e c id iv is m R is k S c o
+R e le a s e In s t it u t io
+S e c u r it y L e v e l
+P o s t R e le a s e
+S u p e r v is io n
+T im e S e r v e d
+G o v e r n in g O f f e n s
+T y p e
+G o v e r n in g O f f e n s
+R a c e / E t h n ic it y
+A g e a t R e le a s e
+* d e n o t e s p < .0 5
+[1 ]In c lu d e s t h e r a c ia
+v ic t io n R a t e s o f R e le a s e d M
+C a t e g o r y
+R e c o n v ic t io n *
+H ig h
+r e M o d e r a t e
+L o w
+E L M O / P r e - r e le a s e
+n M in im u m
+M e d iu m *
+M a x im u m
+N o n - s u p e r v is e d
+S u p e r v is e d *
+L e s s t h a n 3 y r s
+3 t o le s s t h a n 6 y r s *
+6 o r m o r e y r s
+D r u g
+P e r s o n
+e
+P r o p e r t y
+S e x
+O t h e r C r im e s
+N o n - v io le n t
+e
+V io le n t *
+W h it e
+B la c k / A f r ic a n A m e r ic a n
+H is p a n ic
+[1 ] O t h e r
+L e s s t h a n 3 5 *
+3 5 o r m o r e
+l c a t e g o r ie s o f A m e r ic a n In d
+e n b y P T R N e e d M e t v s . N o
+P a t h w a y t o R e c o v e r y
+N e e d M e t
+P C T N
+7 .4 % 2 8 3
+1 1 .0 % 1 5 5
+5 .6 % 7 2
+0 .0 % 5 6
+0 .0 % 4
+3 .6 % 2 8
+8 .1 % 2 4 7
+0 .0 % 4
+1 2 .2 % 7 4
+5 .7 % 2 0 9
+1 2 .5 % 1 1 2
+3 .1 % 9 7
+5 .4 % 7 4
+8 .0 % 2 5
+6 .3 % 8 0
+2 2 .2 % 1 8
+6 .7 % 1 3 4
+3 .8 % 2 6
+1 0 .1 % 6 9
+6 .5 % 2 1 4
+7 .7 % 1 4 3
+1 1 .1 % 7 2
+3 .4 % 5 8
+0 .0 % 1 0
+2 .3 % 8 8
+9 .7 % 1 9 5
+ia n o r A la s k a N a t iv e , A s ia n
+t
+P
+o
+M e t w it h C o n t r o l V a r
+a t h w a y t o R e c o v e r y
+N e e d N o t M e t
+P C T N
+1 1 .8 % 5 ,6 9 7
+1 4 .9 % 3 ,7 9 5
+5 .9 % 1 ,1 9 6
+3 .2 % 6 3 0
+5 .1 % 7 4 7
+7 .2 % 1 ,2 2 7
+1 2 .9 % 2 ,8 8 3
+2 0 .5 % 8 4 0
+1 5 .2 % 1 ,7 4 0
+1 0 .3 % 3 ,9 5 7
+1 2 .8 % 3 ,2 5 1
+1 1 .1 % 1 ,6 1 8
+9 .1 % 8 2 8
+9 .0 % 1 ,3 9 5
+1 2 .1 % 2 ,5 8 2
+1 8 .5 % 6 9 1
+9 .5 % 2 2 2
+1 0 .3 % 8 0 7
+1 1 .6 % 2 ,8 9 3
+1 1 .9 % 2 ,8 0 4
+1 2 .6 % 2 ,4 1 4
+1 1 .8 % 1 ,5 3 7
+1 0 .7 % 1 ,6 8 1
+9 .2 % 6 5
+1 3 .7 % 2 ,5 4 8
+1 0 .2 % 3 ,1 4 9
+r P a c if ic Is la n d e r , a n d
+ia
+U
+b le s
+P C T
+1 1 .6 %
+1 4 .7 %
+5 .8 %
+2 .9 %
+5 .1 %
+7 .1 %
+1 2 .5 %
+2 0 .4 %
+1 5 .0 %
+1 0 .0 %
+1 2 .8 %
+1 0 .7 %
+8 .8 %
+8 .9 %
+1 1 .9 %
+1 8 .6 %
+8 .4 %
+1 0 .1 %
+1 1 .6 %
+1 1 .5 %
+1 2 .3 %
+1 1 .7 %
+1 0 .5 %
+8 .0 %
+1 3 .4 %
+1 0 .1 %
+n k n o
+T
+w
+o t a
+n .
+l
+5
+3
+1
+1
+3
+1
+4
+3
+1
+1
+2
+2
+3
+2
+1
+1
+2
+3
+N
+,9 8
+,9 5
+,2 6
+6 8 6
+7 5 1
+,2 5
+,1 3
+8 4 4
+,8 1
+,1 6
+,3 6
+,7 1
+9 0 2
+,4 2
+,6 6
+7 0 9
+3 5 6
+8 3 3
+,9 6
+,0 1
+,5 5
+,6 0
+,7 3
+7 5
+,6 3
+,3 4
+0
+0
+8
+5
+0
+4
+6
+3
+5
+0
+2
+2
+8
+7
+9
+9
+6
+4

@@ -1,0 +1,1741 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q3 2025
+Barnstable County
+Sheriff's Office
+Page 1 of 23
+
+Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40:
+Recording and reporting of data on population of jails and houses of correction
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to
+a jail or house of correction: (i) probation central file number; (ii) fingerprint-based state identification
+number, if available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi)
+type of admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time;
+(x) program participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount
+or reason if no bail set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a
+quarterly report with the reported data covering the entire quarterly period. The reports prepared by the
+sheriff shall contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary
+of public safety and security, the house and senate chairs of the joint committee on the judiciary, the
+house and senate chairs of the joint committee on public safety and homeland security and the clerks
+of the house of representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by
+utilizing data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions & Disclaimer:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the
+Massachusetts Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint
+identification assigned to an individual by the Department of State Police through the Automated Fingerprint
+Identification System (AFIS). The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links
+the individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Disclaimer: The SID, PCF, and OBTN are generated during an individual’s first interaction with the criminal justice
+system. There is often a lag time before the FBI can produce these numbers and they are not immediately available
+during intake. Officers manually add this information once it is received, but some SIDs, PCFs, and OBTNs may not be
+included in this report due to when the data was extracted.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are
+unable to populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these
+metrics so that they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 5198337 MA10579631 JBS21J2509580 White Not Hispanic/Latino 7/1/25 Pre-Trial 8 90 43
+Barnstable 5381021 MA21121517 JBS21J2509579 White Not Hispanic/Latino 7/1/25 Pre-Trial
+Barnstable 5322602 MA21038051 JBS21J2509575 White Not Hispanic/Latino 7/1/25 Pre-Trial
+Barnstable 5509776 MA21173564 White Not Hispanic/Latino 7/1/25 Pre-Trial
+Barnstable 5235407 MA10621923 JBS21J2509583 White Not Hispanic/Latino 7/2/25 Pre-Trial
+Barnstable 5643761 MA21288839 White Not Hispanic/Latino 7/2/25 Pre-Trial
+Barnstable 2953908 MA10352671 JBS21J2509388 White Not Hispanic/Latino 7/2/25 Sentenced 23 240 43
+Barnstable 5469755 MA21155028 JBS21J2509585 White Not Hispanic/Latino 7/2/25 Pre-Trial
+Barnstable 5690764 MA30009670 JBS21J2509584 White Not Hispanic/Latino 7/2/25 Pre-Trial
+Barnstable 3003866 MA10279826 JBS21J2509578 Black/African American Not Hispanic/Latino 7/2/25 Pre-Trial
+Barnstable 5691260 MA30010200 JBS21J2509582 Black/African American Not Hispanic/Latino 7/2/25 Pre-Trial
+Barnstable 2810020 MA10192090 JBS21J2509524 White Not Hispanic/Latino 7/2/25 Sentenced 7 60 12
+Barnstable 2998978 MA30010259 JBS21J2509590 White Not Hispanic/Latino 7/3/25 Pre-Trial
+Barnstable 5494746 MA21162006 JBS21J2509587 White Not Hispanic/Latino 7/3/25 Pre-Trial
+Barnstable 2547626 MA10289349 JBS21J2509406 Black/African American Not Hispanic/Latino 7/3/25 Sentenced 15.5 365 37
+Barnstable 5690856 MA30009698 White Hispanic/Latino 7/3/25 Pre-Trial
+Barnstable 2755572 MA10290726 JBS21J2509591 White Not Hispanic/Latino 7/3/25 Pre-Trial 180 57
+Barnstable 5540135 MA21278865 JBS21J2509595 White Not Hispanic/Latino 7/5/25 Pre-Trial
+Barnstable 2661104 MA10067835 JBS21J2509600 White Not Hispanic/Latino 7/7/25 Pre-Trial
+Barnstable 5248846 MA10656885 JBS21J2509445 White Not Hispanic/Latino 7/7/25 Sentenced 90 82
+Barnstable 2802641 MA10377414 White Not Hispanic/Latino 7/7/25 Pre-Trial
+Barnstable 2023807 MA09431602 JBS21J2509599 White Not Hispanic/Latino 7/7/25 Pre-Trial
+Barnstable MA21035243 JBS21J2509601 White Hispanic/Latino 7/7/25 Pre-Trial
+Barnstable 2293840 MA10426680 JBS21J2509474 White Not Hispanic/Latino 7/8/25 Sentenced 480 155
+Barnstable 3178143 MA30010636 JBS21J2509603 White Not Hispanic/Latino 7/8/25 Pre-Trial
+Barnstable 1918246 MA09766573 JBS21J2509606 White Not Hispanic/Latino 7/8/25 Pre-Trial
+Barnstable 2484837 MA10138936 JBS21J2509602 White Not Hispanic/Latino 7/8/25 Pre-Trial
+Barnstable 3145623 MA21294839 Black/African American Not Hispanic/Latino 7/8/25 Pre-Trial
+Barnstable 3071322 MA10536312 JBS21J2509475 White Not Hispanic/Latino 7/8/25 Sentenced 26.5 693 408
+Barnstable 3062993 MA10414109 JBS21J2307157 White Not Hispanic/Latino 7/8/25 Sentenced 15 1820 611
+Barnstable 2046800 MA10059873 JBS21J2509607 White Not Hispanic/Latino 7/8/25 Pre-Trial
+Barnstable 2802653 MA10174836 JBS21J2509605 White Not Hispanic/Latino 7/8/25 Pre-Trial
+Barnstable 2046800 MA21007937 JBS21J2509609 White Not Hispanic/Latino 7/8/25 Pre-Trial
+Barnstable 2575227 MA10618953 White Not Hispanic/Latino 7/9/25 Pre-Trial
+Barnstable 5482630 MA21141742 JBS21J2509614 White Not Hispanic/Latino 7/9/25 Pre-Trial
+Barnstable 5488025 MA21293157 JBS21J2509610 White Not Hispanic/Latino 7/9/25 Pre-Trial
+Barnstable 3005317 MA10284111 HBS21H2509615 White Not Hispanic/Latino 7/9/25 Sentenced 180 1
+Barnstable 5350896 MA10130046 HBS21H2509616 White Hispanic/Latino 7/9/25 Sentenced 18 365 57
+Barnstable 5621087 MA21258073 JBS21J2509613 Black/African American Not Hispanic/Latino 7/9/25 Pre-Trial 155 125
+Barnstable 5642434 MA21276012 JBS21J2509611 White Not Hispanic/Latino 7/9/25 Pre-Trial
+Barnstable 5193580 MA10574481 White Not Hispanic/Latino 7/10/25 Pre-Trial
+Barnstable 5457755 MA21204622 JBS21J2509467 Black/African American Not Hispanic/Latino 7/10/25 Sentenced 2.5 90 56
+Barnstable 1058330 MA30002017 JBS21J2509618 White Not Hispanic/Latino 7/10/25 Pre-Trial
+Barnstable 2886837 MA10454808 JBS21J2509617 White Hispanic/Latino 7/10/25 Pre-Trial
+Barnstable 5237050 MA10623428 JBS21J2509619 Black/African American Not Hispanic/Latino 7/10/25 Pre-Trial
+Barnstable 3194833 MA21220820 JBS21J2509621 White Hispanic/Latino 7/10/25 Pre-Trial
+Barnstable 5590625 MA21234536 JBS21J2509628 Black/African American Not Hispanic/Latino 7/11/25 Pre-Trial
+Barnstable 2709962 MA10136674 JBS21J2509626 White Not Hispanic/Latino 7/11/25 Pre-Trial
+Barnstable 835598 MA10088991 JBS21J2509624 White Not Hispanic/Latino 7/11/25 Pre-Trial
+Barnstable 2375152 MA10452041 White Not Hispanic/Latino 7/11/25 Pre-Trial 74.5 732 278
+Barnstable 2375152 MA10452041 White Not Hispanic/Latino 7/11/25 Sentenced 74.5 732 278
+Barnstable 2540347 MA09993873 JBS21J2509625 White Not Hispanic/Latino 7/11/25 Pre-Trial
+Barnstable 5163143 MA30010871 JBS21J2509627 Black/African American Not Hispanic/Latino 7/11/25 Pre-Trial
+Barnstable 5222874 MA10606985 White Not Hispanic/Latino 7/14/25 Pre-Trial
+Barnstable 3009612 MA10284357 JBS21J2509629 White Not Hispanic/Latino 7/14/25 Pre-Trial
+Barnstable 5099903 MA10468765 JBS21J2509632 White Not Hispanic/Latino 7/14/25 Pre-Trial
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino 7/14/25 Sentenced 15 180 101
+Barnstable 5427545 MA21112934 HBS21H2509634 White Not Hispanic/Latino 7/14/25 Sentenced 180
+Barnstable 5372424 MA21185519 HBS21H2509637 Black/African American Not Hispanic/Latino 7/15/25 Sentenced 365 102
+Barnstable 2185211 MA09734974 JBS21J2509638 White Not Hispanic/Latino 7/15/25 Pre-Trial
+Barnstable 2575914 MA10073761 White Not Hispanic/Latino 7/15/25 Pre-Trial
+Barnstable 3018864 MA10291212 JBS21J2509639 Black/African American Not Hispanic/Latino 7/15/25 Pre-Trial
+Barnstable 5521109 MA30011293 JBS21J2509640 Black/African American Not Hispanic/Latino 7/16/25 Pre-Trial
+Barnstable 5436189 MA21120699 JBS21J2509643 White Not Hispanic/Latino 7/16/25 Pre-Trial
+Barnstable 5592111 MA21300634 JBS21J2509641 White Not Hispanic/Latino 7/16/25 Pre-Trial
+Barnstable 5248094 MA10636083 JBS21J2509646 White Not Hispanic/Latino 7/17/25 Pre-Trial
+Barnstable 5563297 MA21214997 White Not Hispanic/Latino 7/17/25 Pre-Trial
+Barnstable 5054318 MA10427375 JBS21J2509645 White Not Hispanic/Latino 7/17/25 Pre-Trial
+Barnstable 1112067 MA09600677 JBS21J2509650 White Not Hispanic/Latino 7/17/25 Pre-Trial
+Barnstable 2497547 MA30004620 JBS21J2509647 White Not Hispanic/Latino 7/17/25 Pre-Trial
+Barnstable White Not Hispanic/Latino 7/17/25 Pre-Trial
+Barnstable 818584 MA09841409 JBS21J2509653 White Not Hispanic/Latino 7/18/25 Pre-Trial
+Barnstable 5308959 MA21044262 White Not Hispanic/Latino 7/21/25 Sentenced 365 72
+Barnstable 5304442 MA21106371 JBS21J2509642 Black/African American Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 1944103 MA09621536 JBS21J2509654 Black/African American Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 375816 MA09911259 HBS21H2509664 White Not Hispanic/Latino 7/21/25 Sentenced 0.5 14
+Barnstable 5253768 MA10645837 JBS21J2509668 White Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 3174823 MA21142633 JBS21J2509670 White Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 5613374 MA21252353 JBS21J2509663 White Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 3183093 MA21067554 JBS21J2509665 White Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 5613374 White Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 2998463 MA10280461 JBS21J2509667 Black/African American Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 5485950 MA21155308 JBS21J2509666 White Not Hispanic/Latino 7/21/25 Pre-Trial
+Page 3 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 1440207 MA10326606 JBS21J2509656 White Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 5626653 MA21262983 JBS21J2509669 Black/African American Not Hispanic/Latino 7/21/25 Pre-Trial
+Barnstable 5386883 MA21082764 HBS21H2509672 White Not Hispanic/Latino 7/21/25 Sentenced 4.5 60
+Barnstable 2894678 MA10403991 JBS21J2509681 White Not Hispanic/Latino 7/22/25 Pre-Trial
+Barnstable 3050634 MA10434397 HBS21H2509674 White Not Hispanic/Latino 7/22/25 Pre-Trial 39.5 270 27
+Barnstable 2567692 MA10070016 JBS21J2509673 White Not Hispanic/Latino 7/22/25 Pre-Trial
+Barnstable 5550735 MA21234942 JBS21J2509671 Asian/Pacific Islander Not Hispanic/Latino 7/22/25 Pre-Trial
+Barnstable 571284 MA09016424 JBS21J2509675 Black/African American Not Hispanic/Latino 7/22/25 Pre-Trial
+Barnstable 1056830 MA21256542 White Not Hispanic/Latino 7/22/25 Pre-Trial
+Barnstable 2900107 MA10186736 JBS21J2509680 White Not Hispanic/Latino 7/22/25 Pre-Trial
+Barnstable 2238853 MA10387162 JBS21J2509522 White Not Hispanic/Latino 7/22/25 Sentenced 10 365 119
+Barnstable 3131356 MA10454015 White Not Hispanic/Latino 7/23/25 Pre-Trial
+Barnstable 5675594 MA21302010 White Not Hispanic/Latino 7/23/25 Pre-Trial
+Barnstable 5563297 MA21214997 JBS22J2509682 White Not Hispanic/Latino 7/23/25 Pre-Trial
+Barnstable 5500423 MA30005746 JBS21J2509685 White Not Hispanic/Latino 7/23/25 Pre-Trial
+Barnstable 5371597 MA21092816 JBS21J2509693 White Not Hispanic/Latino 7/24/25 Pre-Trial
+Barnstable 5156682 MA00922209 JBS21J2509690 Black/African American Not Hispanic/Latino 7/24/25 Pre-Trial 2 90 55
+Barnstable MA21235077 JBS21J2509691 Black/African American Not Hispanic/Latino 7/24/25 Pre-Trial
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino 7/24/25 Sentenced 20 422
+Barnstable 2810162 MA10316674 JBS21J2509692 White Not Hispanic/Latino 7/24/25 Pre-Trial 60
+Barnstable 5541675 MA21209094 JBS22J2509311 Black/African American Not Hispanic/Latino 7/24/25 Sentenced 22 730 80
+Barnstable 5166271 MA10545051 JBS21J2509694 White Not Hispanic/Latino 7/24/25 Pre-Trial
+Barnstable 2334777 MA10447864 JBS21J2509686 White Not Hispanic/Latino 7/24/25 Pre-Trial
+Barnstable 3180095 MA10615532 JBS21J2509698 White Not Hispanic/Latino 7/24/25 Pre-Trial
+Barnstable 2981814 MA10393729 JBS21J2509684 White Not Hispanic/Latino 7/24/25 Pre-Trial
+Barnstable 2680017 MA10514575 White Not Hispanic/Latino 7/24/25 Pre-Trial
+Barnstable 3077686 MA10441334 JBS21J2509687 White Not Hispanic/Latino 7/24/25 Pre-Trial
+Barnstable 5626219 MA21289566 JBS21J2509390 White Not Hispanic/Latino 7/25/25 Sentenced 90 64
+Barnstable 5440049 MA21126833 JBS21J2509683 White Not Hispanic/Latino 7/25/25 Pre-Trial
+Barnstable 5459791 MA21136716 TBS21T2509689 Black/African American Hispanic/Latino 7/25/25 Pre-Trial
+Barnstable 5368133 MA21070341 JBS21J2509699 White Not Hispanic/Latino 7/25/25 Pre-Trial
+Barnstable 2968544 MA10242565 JBS21J2509709 White Not Hispanic/Latino 7/28/25 Pre-Trial
+Barnstable 3038843 MA10409446 JBS21J2509711 White Not Hispanic/Latino 7/28/25 Pre-Trial 730 85
+Barnstable 709184 MA00839215 JBS21J2509701 White Not Hispanic/Latino 7/28/25 Pre-Trial
+Barnstable 2893547 MA10510960 JBS21J2509710 White Not Hispanic/Latino 7/28/25 Pre-Trial
+Barnstable 3050634 MA10434397 HBS21H2509674 White Not Hispanic/Latino 7/28/25 Sentenced 39.5 270 27
+Barnstable 1643598 MA10236849 JBS21J2509714 White Not Hispanic/Latino 7/28/25 Pre-Trial 7.5 180 25
+Barnstable 2387348 MA10374661 JBS22J2509708 White Not Hispanic/Latino 7/28/25 Pre-Trial
+Barnstable 2981814 MA10393729 JBS21J2509688 White Not Hispanic/Latino 7/28/25 Pre-Trial
+Barnstable 5040870 MA10472591 JBS21J2509707 White Hispanic/Latino 7/28/25 Pre-Trial
+Barnstable 5683141 MA30012242 JBS21J2509712 White Not Hispanic/Latino 7/28/25 Pre-Trial 270 75
+Barnstable 2755572 MA10290726 JBS21J2509591 White Not Hispanic/Latino 7/29/25 Sentenced 180 57
+Barnstable 5262810 MA10646923 White Not Hispanic/Latino 7/29/25 Pre-Trial
+Barnstable 5262810 MA10646923 JBS21J2509717 White Not Hispanic/Latino 7/29/25 Pre-Trial
+Barnstable 5600301 MA21297887 JBS21J2509718 White Not Hispanic/Latino 7/29/25 Pre-Trial
+Barnstable 5264482 MA21194786 JBS21J2509716 White Not Hispanic/Latino 7/29/25 Pre-Trial
+Barnstable 2519439 MA09999412 JBS21J2509713 White Not Hispanic/Latino 7/29/25 Pre-Trial
+Barnstable 5036981 MA10469999 JBS21J2509720 White Not Hispanic/Latino 7/30/25 Pre-Trial
+Barnstable 5556931 MA21243277 JBS21J2509722 Black/African American Not Hispanic/Latino 7/30/25 Pre-Trial
+Barnstable 5443925 MA21126085 JBS21J2509721 White Not Hispanic/Latino 7/30/25 Pre-Trial
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino 7/30/25 Pre-Trial 6.5 180 37
+Barnstable 3174220 MA10549067 JBS21J2509719 Black/African American Not Hispanic/Latino 7/30/25 Pre-Trial
+Barnstable 3080531 MA10352576 JBS21J2509725 White Not Hispanic/Latino 7/31/25 Pre-Trial
+Barnstable 644781 MA10370208 JBS21J2509724 White Not Hispanic/Latino 7/31/25 Pre-Trial
+Barnstable 687688 MA00958580 TBS21T2407570 White Not Hispanic/Latino 7/31/25 Sentenced 20 730 482
+Barnstable 5248239 MA10660398 JBS21J2509726 White Not Hispanic/Latino 7/31/25 Pre-Trial
+Barnstable White Unavailable 8/1/25 Pre-Trial
+Barnstable 2429265 MA09837761 JBS21J2509737 White Not Hispanic/Latino 8/1/25 Pre-Trial
+Barnstable 2491263 White Not Hispanic/Latino 8/1/25 Pre-Trial
+Barnstable 5529814 MA21296368 JBS21J2509740 White Not Hispanic/Latino 8/1/25 Pre-Trial
+Barnstable 5141727 MA10537707 JBS21J2509739 White Not Hispanic/Latino 8/1/25 Pre-Trial
+Barnstable 5677727 MA30012441 JBS21J2509728 White Not Hispanic/Latino 8/1/25 Pre-Trial
+Barnstable 2599876 MA10017518 JBS21J2509733 White Not Hispanic/Latino 8/1/25 Pre-Trial
+Barnstable 5354108 MA21089892 HBS21H2509734 Black/African American Not Hispanic/Latino 8/1/25 Sentenced 23.5 682 106
+Barnstable 375816 MA09911259 JBS21J2509732 White Not Hispanic/Latino 8/1/25 Pre-Trial
+Barnstable 2855484 MA10196478 JBS21J2509727 White Not Hispanic/Latino 8/1/25 Pre-Trial
+Barnstable 2519464 MA10577115 JBS21J2509746 White Not Hispanic/Latino 8/4/25 Pre-Trial
+Barnstable 2473456 MA10362973 JBS21J2509703 White Hispanic/Latino 8/4/25 Sentenced 30 9
+Barnstable 2174009 MA10047689 JBS22J2509731 White Not Hispanic/Latino 8/4/25 Pre-Trial
+Barnstable 2157776 MA09438216 JBS21J2509706 White Not Hispanic/Latino 8/4/25 Sentenced 10 270 35
+Barnstable 3091035 MA10505583 White Not Hispanic/Latino 8/4/25 Pre-Trial
+Barnstable 5501001 MA21266267 JBS22J2509745 White Not Hispanic/Latino 8/4/25 Pre-Trial
+Barnstable 2082273 MA10282328 JBS22J2509747 White Not Hispanic/Latino 8/4/25 Pre-Trial
+Barnstable 3136655 MA10550097 JBS21J2509749 White Not Hispanic/Latino 8/5/25 Pre-Trial
+Barnstable 5292770 MA21012909 TBS21T2509735 White Not Hispanic/Latino 8/5/25 Pre-Trial
+Barnstable 3136140 MA10499167 JBS21J2509748 White Not Hispanic/Latino 8/5/25 Pre-Trial
+Barnstable 2824393 MA10496361 JBS22J2509751 Black/African American Hispanic/Latino 8/5/25 Pre-Trial
+Barnstable 2672135 MA10143823 JBS22J2509755 White Not Hispanic/Latino 8/6/25 Pre-Trial
+Barnstable 5588885 MA21273195 JBS21J2509757 White Not Hispanic/Latino 8/6/25 Pre-Trial
+Barnstable 3141019 MA10376624 JBS21J2509758 Black/African American Not Hispanic/Latino 8/6/25 Pre-Trial
+Barnstable 5581553 MA21228101 JBS21J2509762 White Not Hispanic/Latino 8/6/25 Pre-Trial 6 120 20
+Barnstable 2952531 MA10303071 JBS21J2509756 Black/African American Not Hispanic/Latino 8/6/25 Pre-Trial
+Barnstable 3019635 MA10401918 JBS21J2408545 White Not Hispanic/Latino 8/6/25 Sentenced 730 265
+Page 4 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 2491263 MA10000064 JBS21J2509736 White Not Hispanic/Latino 8/6/25 Pre-Trial
+Barnstable 2721051 MA10238469 JBS21J2509760 White Not Hispanic/Latino 8/6/25 Pre-Trial
+Barnstable 3186469 MA21017211 HBS21H2509053 White Not Hispanic/Latino 8/7/25 Sentenced 15.5 540 279
+Barnstable 5648799 MA21281601 JBS21J2509766 White Not Hispanic/Latino 8/7/25 Pre-Trial 270 85
+Barnstable 2709889 MA10074451 White Not Hispanic/Latino 8/7/25 Pre-Trial 22 365 114
+Barnstable 1831397 MA00907669 JBS21J2509764 White Not Hispanic/Latino 8/7/25 Pre-Trial
+Barnstable MA10370439 JBS21J2509771 White Hispanic/Latino 8/8/25 Pre-Trial
+Barnstable 2880591 MA10171533 HBS21H2509763 White Not Hispanic/Latino 8/8/25 Sentenced 7
+Barnstable 5011536 MA10507590 JBS21J2509775 White Not Hispanic/Latino 8/8/25 Pre-Trial
+Barnstable 5661193 MA30001408 JBS21J2509773 White Not Hispanic/Latino 8/8/25 Pre-Trial
+Barnstable 5400744 MA21092483 JBS21J2509770 White Not Hispanic/Latino 8/8/25 Pre-Trial
+Barnstable 2923754 MA10507865 JBS21J2509769 White Not Hispanic/Latino 8/8/25 Pre-Trial
+Barnstable White Not Hispanic/Latino 8/9/25 Pre-Trial
+Barnstable 2938007 MA10294259 JBS21J2509774 White Hispanic/Latino 8/11/25 Pre-Trial
+Barnstable 1058330 MA30002017 JBS21J2509787 White Not Hispanic/Latino 8/11/25 Pre-Trial 180 77
+Barnstable 5141733 MA10527044 JBS21J2509555 White Not Hispanic/Latino 8/11/25 Sentenced 15 240 47
+Barnstable 2575914 MA10073761 White Not Hispanic/Latino 8/11/25 Pre-Trial
+Barnstable 5015903 MA10421218 JBS21J2509782 White Not Hispanic/Latino 8/11/25 Pre-Trial
+Barnstable 2762755 MA10387311 JBS21J2509776 White Not Hispanic/Latino 8/11/25 Pre-Trial
+Barnstable 2575227 MA10618953 JBS21J2509785 White Not Hispanic/Latino 8/11/25 Pre-Trial 120 53
+Barnstable 5135185 MA10509338 JBS21J2509772 White Not Hispanic/Latino 8/11/25 Pre-Trial
+Barnstable 2499481 MA21248951 JBS21J2509788 White Not Hispanic/Latino 8/11/25 Pre-Trial
+Barnstable 3104369 MA10368856 JBS21J2509794 Black/African American Not Hispanic/Latino 8/12/25 Pre-Trial
+Barnstable 5198337 MA10579631 JBS21J2509580 White Not Hispanic/Latino 8/12/25 Sentenced 8 90 43
+Barnstable 2826212 MA10139261 JBS21J2509792 White Not Hispanic/Latino 8/12/25 Pre-Trial
+Barnstable 3155435 MA21271440 JBS22J2509790 White Not Hispanic/Latino 8/12/25 Pre-Trial
+Barnstable 2644830 MA10018709 JBS21J2509789 White Not Hispanic/Latino 8/12/25 Pre-Trial
+Barnstable 2997950 MA10349830 JBS21J2509791 White Not Hispanic/Latino 8/12/25 Pre-Trial
+Barnstable 3194833 MA21220820 JBS21J2509793 White Hispanic/Latino 8/12/25 Pre-Trial
+Barnstable 5642796 MA21277593 JBS21J2509795 Other/Unknown Not Hispanic/Latino 8/13/25 Pre-Trial
+Barnstable 3190434 MA10608852 JBS21J2509798 White Not Hispanic/Latino 8/13/25 Pre-Trial
+Barnstable 2401986 MA10169768 JBS22J2509799 White Not Hispanic/Latino 8/13/25 Pre-Trial
+Barnstable MA30007060 JBS21J2509409 White Hispanic/Latino 8/13/25 Sentenced 1.5 730 77
+Barnstable 3074406 MA10340123 JBS22J2509801 White Not Hispanic/Latino 8/13/25 Pre-Trial
+Barnstable 957742 MA00996011 JBS21J2509804 White Not Hispanic/Latino 8/13/25 Pre-Trial
+Barnstable 5695208 MA30013427 JBS21J2509803 White Not Hispanic/Latino 8/13/25 Pre-Trial
+Barnstable 521952 MA10276387 JBS21J2509457 White Not Hispanic/Latino 8/13/25 Sentenced 11.5 738 136
+Barnstable 3155586 MA21083838 JBS21J2509802 Black/African American Not Hispanic/Latino 8/13/25 Pre-Trial 180 111
+Barnstable 3160197 MA21062892 JBS21J2509797 White Hispanic/Latino 8/13/25 Pre-Trial
+Barnstable 2990409 MA10278801 JBS21J2509808 White Not Hispanic/Latino 8/14/25 Pre-Trial
+Barnstable 5667661 MA21295963 JBS21J2509809 White Not Hispanic/Latino 8/14/25 Pre-Trial 6.5 910 297
+Barnstable 5053044 MA10418707 JBS21J2509807 White Not Hispanic/Latino 8/14/25 Pre-Trial
+Barnstable 2709889 MA10074451 White Not Hispanic/Latino 8/14/25 Sentenced 22 365 114
+Barnstable 2584291 MA10594525 JBS21J2509810 Black/African American Hispanic/Latino 8/14/25 Pre-Trial
+Barnstable 2248244 MA09905009 JBS21J2509806 Black/African American Not Hispanic/Latino 8/14/25 Pre-Trial
+Barnstable 2012726 MA09613359 JBS21J2509814 White Not Hispanic/Latino 8/15/25 Pre-Trial
+Barnstable 2865841 MA10411973 JBS21J2509812 White Not Hispanic/Latino 8/15/25 Pre-Trial
+Barnstable 2746915 MA10096152 JBS21J2509813 White Not Hispanic/Latino 8/15/25 Pre-Trial
+Barnstable 2314875 MA10131454 JBS21J2509822 White Not Hispanic/Latino 8/18/25 Pre-Trial
+Barnstable 2813116 MA10329694 JBS21J2509818 White Not Hispanic/Latino 8/18/25 Pre-Trial
+Barnstable 5248239 MA10660398 JBS21J2509824 White Not Hispanic/Latino 8/18/25 Pre-Trial 5.5 365 105
+Barnstable 5040870 MA10472591 JBS21J2509821 White Hispanic/Latino 8/18/25 Pre-Trial
+Barnstable 5592111 MA21300634 JBS22J2509820 White Not Hispanic/Latino 8/18/25 Pre-Trial 1.5 60 30
+Barnstable 5375952 MA21077559 JBS21J2509554 White Not Hispanic/Latino 8/18/25 Sentenced 365 53
+Barnstable 5453901 MA21133645 JBS21J2509819 Black/African American Not Hispanic/Latino 8/18/25 Pre-Trial
+Barnstable 3104139 MA21082520 JBS21J2509825 White Not Hispanic/Latino 8/18/25 Pre-Trial
+Barnstable 5042071 MA10418763 JBS21J2509823 White Not Hispanic/Latino 8/19/25 Pre-Trial
+Barnstable 1634473 MA10231070 JBS21J2509830 White Not Hispanic/Latino 8/19/25 Pre-Trial
+Barnstable 5163917 MA10619562 JBS21J2509829 White Not Hispanic/Latino 8/19/25 Pre-Trial
+Barnstable 1917962 MA09907006 White Not Hispanic/Latino 8/19/25 Sentenced 6.5 75 0
+Barnstable 3184217 MA21078961 JBS21J2509831 White Not Hispanic/Latino 8/20/25 Pre-Trial
+Barnstable 5352839 MA21150285 JBS21J2509828 Black/African American Not Hispanic/Latino 8/20/25 Pre-Trial
+Barnstable 5667661 MA21295963 JBS21J2509809 White Not Hispanic/Latino 8/21/25 Sentenced 6.5 910 297
+Barnstable 5392539 MA21086547 JBS21J2509838 Other/Unknown Not Hispanic/Latino 8/21/25 Pre-Trial
+Barnstable 3131356 MA10454015 White Not Hispanic/Latino 8/21/25 Pre-Trial
+Barnstable 5473369 MA21167025 JBS21J2509839 White Not Hispanic/Latino 8/21/25 Pre-Trial
+Barnstable 1643598 MA10236849 JBS21J2509714 White Not Hispanic/Latino 8/21/25 Sentenced 7.5 180 25
+Barnstable 1109948 MA09207729 JBS21J2509832 White Not Hispanic/Latino 8/21/25 Pre-Trial
+Barnstable 2945543 MA21049587 JBS21J2509833 White Not Hispanic/Latino 8/21/25 Pre-Trial
+Barnstable 2259534 MA09996709 JBS21J2509836 White Not Hispanic/Latino 8/21/25 Pre-Trial
+Barnstable 448734 MA21108857 JBS21J2509843 White Not Hispanic/Latino 8/22/25 Pre-Trial
+Barnstable 5017321 MA10381847 HBS21H2509847 Black/African American Not Hispanic/Latino 8/22/25 Sentenced 22.5 270 69
+Barnstable 5371314 MA21072381 JBS21J2509845 White Not Hispanic/Latino 8/22/25 Pre-Trial
+Barnstable 1263540 MA09120895 JBS21J2509779 White Not Hispanic/Latino 8/22/25 Sentenced 6.5 90 14
+Barnstable 2473456 MA10362973 JBS21J2509842 White Hispanic/Latino 8/22/25 Pre-Trial
+Barnstable 5689070 MA30008062 JBS22J2509844 White Not Hispanic/Latino 8/22/25 Pre-Trial
+Barnstable 5458929 MA21289156 JBS21J2509846 White Not Hispanic/Latino 8/22/25 Pre-Trial 6 448 166
+Barnstable 5492997 MA21161313 JBS21J2509853 White Not Hispanic/Latino 8/26/25 Pre-Trial
+Barnstable 5581553 MA21228101 JBS21J2509762 White Not Hispanic/Latino 8/26/25 Sentenced 6 120 20
+Barnstable 2096498 MA10313085 JBS21J2509858 White Not Hispanic/Latino 8/26/25 Pre-Trial
+Barnstable 2820427 MA10297469 JBS21J2509856 White Not Hispanic/Latino 8/26/25 Pre-Trial
+Barnstable 2795553 MA10552447 JBS21J2509859 White Hispanic/Latino 8/26/25 Pre-Trial
+Barnstable 2362123 MA10000870 JBS21J2509860 Black/African American Not Hispanic/Latino 8/26/25 Pre-Trial
+Page 5 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 3120394 MA10592451 JBS21J2509855 Other/Unknown Not Hispanic/Latino 8/26/25 Pre-Trial 59 33
+Barnstable 2743112 MA10206283 JBS21J2509865 White Not Hispanic/Latino 8/27/25 Pre-Trial
+Barnstable 2858420 MA10156562 JBS21J2509863 Black/African American Not Hispanic/Latino 8/27/25 Pre-Trial
+Barnstable 2462111 MA09926049 JBS21J2509866 White Not Hispanic/Latino 8/27/25 Pre-Trial
+Barnstable 5316584 MA21274350 JBS21J2509862 Black/African American Not Hispanic/Latino 8/27/25 Pre-Trial
+Barnstable 2657798 MA10315314 JBS21J2509867 White Not Hispanic/Latino 8/27/25 Pre-Trial
+Barnstable 3078176 MA10571232 JBS21J2509864 White Not Hispanic/Latino 8/27/25 Pre-Trial 1 540 22
+Barnstable 3181147 MA10621617 HBS21H2509869 Black/African American Not Hispanic/Latino 8/28/25 Sentenced 1819 130
+Barnstable 5350954 MA30012349 JBS21J2509872 White Not Hispanic/Latino 8/28/25 Pre-Trial
+Barnstable 2948241 MA21025261 JBS21J2509871 White Not Hispanic/Latino 8/28/25 Pre-Trial 90 29
+Barnstable 2937027 Black/African American Not Hispanic/Latino 8/28/25 Pre-Trial
+Barnstable 1044751 MA09812277 JBS21J2509873 White Not Hispanic/Latino 8/29/25 Pre-Trial
+Barnstable 5696746 MA30014743 JBS21J2509878 White Not Hispanic/Latino 8/29/25 Pre-Trial
+Barnstable 3018050 MA30005848 White Not Hispanic/Latino 8/29/25 Pre-Trial
+Barnstable 5458929 MA21289156 JBS21J2509846 White Not Hispanic/Latino 8/29/25 Sentenced 6 448 166
+Barnstable 2903618 MA10550570 JBS21J2509875 White Not Hispanic/Latino 8/29/25 Pre-Trial
+Barnstable 5670923 MA21298385 JBS21J2509877 White Not Hispanic/Latino 8/29/25 Pre-Trial
+Barnstable 3063791 MA10326405 JBS21J2509883 White Not Hispanic/Latino 9/2/25 Pre-Trial
+Barnstable 3198784 MA10636209 JBS21J2509882 White Not Hispanic/Latino 9/2/25 Pre-Trial
+Barnstable 389511 MA00903273 JBS21J2509879 White Not Hispanic/Latino 9/2/25 Pre-Trial
+Barnstable 5691812 MA30010687 JBS21J2509889 White Not Hispanic/Latino 9/2/25 Pre-Trial
+Barnstable 5410778 MA21223866 JBS21J2509887 White Not Hispanic/Latino 9/2/25 Pre-Trial 100 79
+Barnstable 1784440 MA10417874 JBS21J2509884 White Not Hispanic/Latino 9/2/25 Pre-Trial
+Barnstable 5564181 MA21217127 JBS21J2509886 Black/African American Not Hispanic/Latino 9/2/25 Pre-Trial
+Barnstable 3193387 MA10637272 JBS22J2509885 White Not Hispanic/Latino 9/2/25 Pre-Trial
+Barnstable 1909544 MA21135901 White Not Hispanic/Latino 9/2/25 Pre-Trial
+Barnstable 984510 MA00967463 JBS21J2509892 White Not Hispanic/Latino 9/3/25 Pre-Trial
+Barnstable 5274319 MA21019426 JBS21J2509890 Black/African American Not Hispanic/Latino 9/3/25 Pre-Trial
+Barnstable 1771436 MA09106978 JBS21J2509893 White Not Hispanic/Latino 9/4/25 Pre-Trial
+Barnstable 3071317 MA10366548 White Not Hispanic/Latino 9/4/25 Pre-Trial
+Barnstable 2755572 MA10290726 HBS22H2509895 White Not Hispanic/Latino 9/4/25 Sentenced 6 180 57
+Barnstable 5525754 MA30011159 JBS21J2509896 American Indian/Alaska Native Not Hispanic/Latino 9/4/25 Pre-Trial
+Barnstable 3167427 MA21010361 JBS21J2509897 White Not Hispanic/Latino 9/4/25 Pre-Trial
+Barnstable 5663722 MA30015159 JBS22J2509903 White Not Hispanic/Latino 9/4/25 Pre-Trial
+Barnstable 2386083 MA10076116 JBS21J2509900 White Not Hispanic/Latino 9/4/25 Pre-Trial
+Barnstable 3118679 MA10544998 JBS21J2509902 White Not Hispanic/Latino 9/4/25 Pre-Trial
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino 9/5/25 Sentenced 6.5 180 37
+Barnstable 464774 MA00914935 JBS21J2509904 White Not Hispanic/Latino 9/5/25 Pre-Trial
+Barnstable 5687552 MA30006560 White Hispanic/Latino 9/5/25 Pre-Trial
+Barnstable 2564163 MA30015427 JBS21J2509915 White Not Hispanic/Latino 9/8/25 Pre-Trial
+Barnstable 2940385 MA10228367 JBS21J2509911 Black/African American Not Hispanic/Latino 9/8/25 Pre-Trial
+Barnstable 5697359 MA30015290 JBS21J2509914 White Not Hispanic/Latino 9/8/25 Pre-Trial
+Barnstable 2720403 MA10069706 JBS21J2509913 White Not Hispanic/Latino 9/8/25 Pre-Trial
+Barnstable 5638523 MA21272216 JBS21J2509908 White Not Hispanic/Latino 9/8/25 Pre-Trial
+Barnstable 5672037 MA30015291 JBS21J2509917 White Not Hispanic/Latino 9/9/25 Pre-Trial
+Barnstable 5368133 MA21070341 JBS21J2509912 White Not Hispanic/Latino 9/9/25 Pre-Trial
+Barnstable 5248239 MA10660398 JBS21J2509824 White Not Hispanic/Latino 9/9/25 Sentenced 5.5 365 105
+Barnstable 2171391 MA10003661 HBS21H2509918 White Not Hispanic/Latino 9/9/25 Sentenced 5.5 60 3
+Barnstable 5688202 MA30007281 JBS21J2509919 White Not Hispanic/Latino 9/9/25 Pre-Trial
+Barnstable 5697495 MA30015609 JBS21J2509920 White Not Hispanic/Latino 9/9/25 Pre-Trial
+Barnstable 5029119 MA10397051 JBS21J2509922 White Not Hispanic/Latino 9/10/25 Pre-Trial
+Barnstable 3186566 MA21143554 JBS21J2509924 White Hispanic/Latino 9/10/25 Pre-Trial
+Barnstable 5400744 MA21092483 JBS21J2509921 White Not Hispanic/Latino 9/10/25 Pre-Trial
+Barnstable 3194833 MA21220820 HBS21H2509933 White Hispanic/Latino 9/11/25 Sentenced 5 365 54
+Barnstable 3116267 MA21021436 HBS21H2509928 White Not Hispanic/Latino 9/11/25 Sentenced 420 208
+Barnstable 5577999 MA21225901 JBS21J2509935 Black/African American Not Hispanic/Latino 9/11/25 Pre-Trial
+Barnstable 3207014 MA10647831 JBS21J2509934 Black/African American Not Hispanic/Latino 9/11/25 Pre-Trial
+Barnstable 5675899 MA30015643 JBS21J2509923 White Not Hispanic/Latino 9/11/25 Pre-Trial
+Barnstable 2296030 MA10108137 JBS21J2509936 White Hispanic/Latino 9/11/25 Pre-Trial
+Barnstable 3116267 MA21021436 White Not Hispanic/Latino 9/11/25 Sentenced
+Barnstable 2721051 MA10238469 JBS21J2509931 White Not Hispanic/Latino 9/11/25 Pre-Trial
+Barnstable 5304442 MA21106371 JBS21J2509930 Black/African American Not Hispanic/Latino 9/11/25 Pre-Trial
+Barnstable 1773115 MA09322184 JBS21J2509929 White Not Hispanic/Latino 9/11/25 Pre-Trial
+Barnstable 5659192 MA21291012 JBS21J2509939 White Not Hispanic/Latino 9/12/25 Pre-Trial
+Barnstable 3163230 MA21067756 JBS21J2509937 White Not Hispanic/Latino 9/12/25 Sentenced 365 55
+Barnstable 3163230 MA21067756 JBS21J2509937 White Not Hispanic/Latino 9/12/25 Pre-Trial 365 55
+Barnstable 5697830 MA30015722 JBS21J2509932 White Not Hispanic/Latino 9/12/25 Pre-Trial
+Barnstable 5046501 MA10541140 JBS21J2509938 White Not Hispanic/Latino 9/12/25 Pre-Trial
+Barnstable 3015619 MA10363040 JBS22J2508899 White Not Hispanic/Latino 9/12/25 Sentenced 4 545 224
+Barnstable 5657245 MA30016062 JBS21J2509943 White Not Hispanic/Latino 9/15/25 Pre-Trial
+Barnstable 3120394 MA10592451 JBS21J2509855 Other/Unknown Not Hispanic/Latino 9/15/25 Sentenced 59 33
+Barnstable 2895112 MA10250624 HBS21H2509942 White Not Hispanic/Latino 9/15/25 Sentenced 30 26
+Barnstable 5391085 MA21085672 HBS21H2509944 White Not Hispanic/Latino 9/15/25 Sentenced 4.5 180 113
+Barnstable 5618468 MA21297388 JBS23J2509941 White Not Hispanic/Latino 9/15/25 Pre-Trial 3 730 3
+Barnstable 5698174 MA30016012 JBS21J2509950 White Not Hispanic/Latino 9/16/25 Pre-Trial
+Barnstable 5402603 MA21093633 HBS21H2509951 Black/African American Hispanic/Latino 9/16/25 Sentenced 91.5 910 42
+Barnstable 2924437 MA10086222 JBS21J2509948 White Not Hispanic/Latino 9/16/25 Pre-Trial
+Barnstable 5687095 MA30006205 JBS22J2509947 White Not Hispanic/Latino 9/16/25 Pre-Trial
+Barnstable 3009214 MA10244855 JBS21J2509343 Unavailable Not Hispanic/Latino 9/16/25 Sentenced 130 127
+Barnstable 5156682 MA00922209 JBS21J2509690 Black/African American Not Hispanic/Latino 9/16/25 Sentenced 2 90 55
+Barnstable 5673713 MA21300500 JBS21J2509946 White Not Hispanic/Latino 9/16/25 Pre-Trial
+Barnstable 3063791 MA10326405 HBS21H2509952 White Not Hispanic/Latino 9/16/25 Sentenced 4.5 192 164
+Barnstable 5698111 MA30016069 JBS21J2509949 White Not Hispanic/Latino 9/16/25 Pre-Trial
+Page 6 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 5642879 MA21276474 HBS21H2509957 Other/Unknown Not Hispanic/Latino 9/17/25 Sentenced 3 180
+Barnstable 2678655 MA10081258 JBS21J2509954 White Not Hispanic/Latino 9/17/25 Pre-Trial
+Barnstable 545979 MA21147172 JBS21J2509959 White Not Hispanic/Latino 9/17/25 Pre-Trial
+Barnstable 3078176 MA10571232 JBS21J2509864 White Not Hispanic/Latino 9/17/25 Sentenced 1 540 22
+Barnstable 2423129 MA10096260 HBS21H2509956 White Not Hispanic/Latino 9/17/25 Sentenced 98.5 806 113
+Barnstable 839673 MA00952426 JBS21J2509955 White Not Hispanic/Latino 9/17/25 Pre-Trial
+Barnstable 2971655 MA10485715 JBS21J2509953 White Not Hispanic/Latino 9/17/25 Pre-Trial
+Barnstable 5327456 MA21042460 JBS21J2509958 White Not Hispanic/Latino 9/17/25 Pre-Trial
+Barnstable 5618468 MA21297388 JBS23J2509941 White Not Hispanic/Latino 9/17/25 Sentenced 3 730 3
+Barnstable 3136960 MA21094004 JBS21J2509962 White Not Hispanic/Latino 9/18/25 Pre-Trial
+Barnstable 5385597 MA21081828 JBS21J2509960 White Not Hispanic/Latino 9/18/25 Pre-Trial
+Barnstable 5295603 MA21015141 JBS21J2509961 Black/African American Not Hispanic/Latino 9/18/25 Pre-Trial
+Barnstable 3100981 MA10633612 JBS21J2509969 White Not Hispanic/Latino 9/19/25 Pre-Trial
+Barnstable 5620746 MA21257904 HBS21H2509966 White Not Hispanic/Latino 9/19/25 Sentenced 1 300
+Barnstable 5592111 MA21300634 JBS22J2509820 White Not Hispanic/Latino 9/19/25 Sentenced 1.5 60 30
+Barnstable 5569794 MA21219699 White Not Hispanic/Latino 9/19/25 Pre-Trial
+Barnstable 2686633 MA10301067 White Not Hispanic/Latino 9/19/25 Pre-Trial
+Barnstable 2522470 MA10160077 JBS21J2509978 Black/African American Hispanic/Latino 9/22/25 Pre-Trial
+Barnstable MA10228366 JBS21J2509971 White Not Hispanic/Latino 9/22/25 Pre-Trial
+Barnstable 2763060 MA10112608 JBS21J2509980 White Not Hispanic/Latino 9/22/25 Pre-Trial 180 72
+Barnstable 2985361 MA10372570 JBS21J2509905 Black/African American Not Hispanic/Latino 9/22/25 Sentenced 180 17
+Barnstable 3167998 MA21061178 JBS21J2509972 American Indian/Alaska Native Not Hispanic/Latino 9/22/25 Pre-Trial
+Barnstable 5569794 MA21219699 JBS21J2509975 White Not Hispanic/Latino 9/22/25 Pre-Trial
+Barnstable 206578 MA21052324 JBS21J2509979 White Not Hispanic/Latino 9/22/25 Pre-Trial
+Barnstable 5399608 MA21204079 HBS21H2509977 White Not Hispanic/Latino 9/22/25 Sentenced 50.5 1365 172
+Barnstable 5365731 MA21068723 JBS21J2509976 White Hispanic/Latino 9/22/25 Pre-Trial
+Barnstable 2453274 MA09824474 JBS21J2509984 Black/African American Not Hispanic/Latino 9/23/25 Pre-Trial 90 24
+Barnstable 5278957 MA21000863 JBS21J2509986 White Hispanic/Latino 9/23/25 Pre-Trial
+Barnstable 5400280 MA21122008 JBS21J2509988 White Not Hispanic/Latino 9/23/25 Pre-Trial 730 219
+Barnstable 2586007 MA10096668 HBS21H2509983 White Not Hispanic/Latino 9/23/25 Sentenced 1.5 180
+Barnstable White Unavailable 9/23/25 Pre-Trial
+Barnstable 504741 MA10512949 JBS21J2509985 White Not Hispanic/Latino 9/23/25 Pre-Trial
+Barnstable 5535281 MA21299337 JBS21J2509990 White Not Hispanic/Latino 9/24/25 Pre-Trial
+Barnstable 2810162 MA10316674 JBS21J2509692 White Not Hispanic/Latino 9/24/25 Sentenced 60
+Barnstable 5282509 MA21060692 JBS21J2509989 Black/African American Not Hispanic/Latino 9/24/25 Pre-Trial
+Barnstable 5103412 MA10098188 JBS21J2509993 White Not Hispanic/Latino 9/24/25 Pre-Trial 180 126
+Barnstable 1892794 MA09122704 JBS21J2509987 Black/African American Not Hispanic/Latino 9/24/25 Pre-Trial
+Barnstable 648138 MA00701139 JBS22J2509991 White Not Hispanic/Latino 9/24/25 Pre-Trial
+Barnstable 3071317 MA10366548 JBS21J2509998 White Not Hispanic/Latino 9/25/25 Pre-Trial
+Barnstable 5410778 MA21223866 JBS21J2509887 White Not Hispanic/Latino 9/25/25 Sentenced 100 79
+Barnstable 1024758 MA10132821 JBS21J2509992 Black/African American Not Hispanic/Latino 9/25/25 Pre-Trial
+Barnstable 5055216 MA10411742 HBS21H2509995 White Not Hispanic/Latino 9/25/25 Sentenced 30
+Barnstable 3103835 MA21235255 HBS21H2509997 White Hispanic/Latino 9/25/25 Sentenced 60
+Barnstable 5692555 MA30016722 JBS21J2509999 White Not Hispanic/Latino 9/25/25 Pre-Trial
+Barnstable 5516955 MA21179567 JBS21J2510005 White Not Hispanic/Latino 9/26/25 Pre-Trial
+Barnstable 2810162 MA10316674 JBS22J2510003 White Not Hispanic/Latino 9/26/25 Pre-Trial
+Barnstable 3148200 MA21069895 JBS22J2510007 White Not Hispanic/Latino 9/26/25 Pre-Trial
+Barnstable 3143405 MA10479527 JBS21J2510010 White Not Hispanic/Latino 9/26/25 Pre-Trial
+Barnstable MA10207895 JBS21J2510009 White Not Hispanic/Latino 9/26/25 Pre-Trial
+Barnstable 2948241 MA21025261 JBS21J2509871 White Not Hispanic/Latino 9/26/25 Sentenced 90 29
+Barnstable 2174583 MA09917728 JBS21J2510006 White Not Hispanic/Latino 9/26/25 Pre-Trial
+Barnstable MA30016805 JBS21J2510008 White Not Hispanic/Latino 9/26/25 Pre-Trial
+Barnstable 2985020 MA10584018 JBS21J2510020 White Not Hispanic/Latino 9/29/25 Pre-Trial
+Barnstable 2786757 MA10523383 JBS21J2510016 Black/African American Not Hispanic/Latino 9/29/25 Pre-Trial
+Barnstable MA30016785 JBS21J2510019 Asian/Pacific Islander Not Hispanic/Latino 9/29/25 Pre-Trial
+Barnstable 5564708 MA30015549 JBS21J2510017 White Not Hispanic/Latino 9/29/25 Pre-Trial
+Barnstable 5212652 MA10652501 White Not Hispanic/Latino 9/29/25 Pre-Trial
+Barnstable 545261 MA00982655 HBS21H2510012 White Not Hispanic/Latino 9/29/25 Sentenced 365 0
+Barnstable 3155586 MA21083838 JBS21J2509802 Black/African American Not Hispanic/Latino 9/30/25 Sentenced 180 111
+Barnstable 5575072 MA21223671 JBS21J2510021 Black/African American Not Hispanic/Latino 9/30/25 Pre-Trial
+Barnstable 5072641 MA10443725 JBS21J2510022 White Not Hispanic/Latino 9/30/25 Pre-Trial
+Barnstable 3057157 MA21273271 JBS21J2509432 White Hispanic/Latino Pre-Trial 7/1/25
+Barnstable 5397466 MA21090112 JBS21J2509428 White Not Hispanic/Latino Pre-Trial 7/1/25
+Barnstable 2857002 MA10266996 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 7/1/25
+Barnstable 2255728 MA10472814 JBS21J2508871 White Not Hispanic/Latino Sentenced 7/1/25 180 34
+Barnstable 5552104 MA21206565 JBS21J2509569 White Not Hispanic/Latino Pre-Trial 7/1/25
+Barnstable 5168043 MA21288761 JBS21J2509146 White Not Hispanic/Latino Sentenced 7/1/25 93 91
+Barnstable 3174220 MA10549067 JBS21J2509323 Black/African American Not Hispanic/Latino Pre-Trial 7/1/25
+Barnstable MA21305289 JBS21J2508985 White Hispanic/Latino Pre-Trial 7/2/25
+Barnstable 5328618 MA21008321 JBS21J2509371 White Not Hispanic/Latino Sentenced 7/2/25 180 58
+Barnstable 3011090 MA10314249 JBS21J2509567 White Not Hispanic/Latino Pre-Trial 7/2/25
+Barnstable 2696682 MA10224565 JBS21J2509563 Black/African American Not Hispanic/Latino Pre-Trial 7/2/25
+Barnstable 2205625 MA09993440 JBS21J2509530 White Not Hispanic/Latino Pre-Trial 7/2/25
+Barnstable 2939702 MA10462789 JBS21J2509544 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 7/2/25
+Barnstable 2953908 MA10352671 JBS21J2509388 White Not Hispanic/Latino Pre-Trial 7/2/25 23 240 43
+Barnstable 2800722 MA10511952 HBS21H2509341 White Not Hispanic/Latino Sentenced 7/3/25 180 24
+Barnstable 5469755 MA21155028 JBS21J2509585 White Not Hispanic/Latino Pre-Trial 7/3/25
+Barnstable 5466798 MA21233790 JBS21J2509363 White Not Hispanic/Latino Pre-Trial 7/3/25
+Barnstable 2547626 MA10289349 JBS21J2509406 Black/African American Not Hispanic/Latino Pre-Trial 7/3/25 15.5 365 37
+Barnstable 5690764 MA30009670 JBS21J2509584 White Not Hispanic/Latino Pre-Trial 7/3/25
+Barnstable 5691260 MA30010200 JBS21J2509582 Black/African American Not Hispanic/Latino Pre-Trial 7/3/25
+Barnstable 5540951 MA21177813 JBS21J2509178 Black/African American Not Hispanic/Latino Pre-Trial 7/3/25
+Barnstable 2401612 MA09713392 JBS21J2509531 White Not Hispanic/Latino Pre-Trial 7/3/25
+Page 7 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 2998978 MA30010259 JBS21J2509590 White Not Hispanic/Latino Pre-Trial 7/6/25
+Barnstable 3131356 MA10454015 JBS21J2509520 White Not Hispanic/Latino Pre-Trial 7/7/25
+Barnstable 2802641 MA10377414 JBS21J2509313 White Not Hispanic/Latino Sentenced 7/7/25 60 29
+Barnstable 2375152 MA10452041 JBS21J2408494 White Not Hispanic/Latino Sentenced 7/7/25 730 278
+Barnstable 5494746 MA21162006 JBS21J2509587 White Not Hispanic/Latino Pre-Trial 7/7/25
+Barnstable 602913 MA00852218 JBS22J2509176 White Not Hispanic/Latino Pre-Trial 7/8/25
+Barnstable 3071322 MA10536312 JBS21J2509475 White Not Hispanic/Latino Pre-Trial 7/8/25 26.5 693 408
+Barnstable 5235407 MA10621923 JBS21J2509583 White Not Hispanic/Latino Pre-Trial 7/8/25
+Barnstable 5346590 MA21055589 JBS21J2509559 White Hispanic/Latino Pre-Trial 7/8/25
+Barnstable 2293840 MA10426680 JBS21J2509474 White Not Hispanic/Latino Pre-Trial 7/8/25 480 155
+Barnstable 1892794 MA09122704 JBS21J2509517 Black/African American Not Hispanic/Latino Pre-Trial 7/8/25
+Barnstable MA21035243 JBS21J2509601 White Hispanic/Latino Pre-Trial 7/9/25
+Barnstable 1917765 MA09913518 JBS21J2509448 White Not Hispanic/Latino Sentenced 7/9/25 30 16
+Barnstable 5660151 MA21290379 JBS21J2509537 White Not Hispanic/Latino Pre-Trial 7/9/25
+Barnstable 2846435 MA10302690 JBS21J2509099 Black/African American Not Hispanic/Latino Sentenced 7/9/25 180 79
+Barnstable 5642434 MA21276012 JBS21J2407827 White Not Hispanic/Latino Sentenced 7/9/25 365 231
+Barnstable 5457755 MA21204622 JBS21J2509467 Black/African American Not Hispanic/Latino Pre-Trial 7/10/25 2.5 90 56
+Barnstable 5322602 MA21038051 JBS21J2509575 White Not Hispanic/Latino Pre-Trial 7/10/25
+Barnstable 2558248 MA10402482 JBS21J2509365 White Not Hispanic/Latino Pre-Trial 7/10/25
+Barnstable 1976251 MA09218158 JBS21J2509419 White Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 1088532 MA09717044 JBS21J2509020 Black/African American Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 3178143 MA30010636 JBS21J2509603 White Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 2802653 MA10174836 JBS21J2509605 White Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 2009934 MA09302195 JBS21J2509332 White Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 2678655 MA10081258 JBS21J2509430 White Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 2046800 MA21007937 JBS21J2509609 White Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 2401282 MA10009146 JBS21J2509539 White Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 2375152 MA10452041 White Not Hispanic/Latino Pre-Trial 7/11/25 74.5 732 278
+Barnstable 430202 MA00912099 HBS21H2509347 White Not Hispanic/Latino Sentenced 7/11/25 60
+Barnstable 5381021 MA21121517 JBS21J2509579 White Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 3084171 MA10379452 JBS21J2509299 American Indian/Alaska Native Not Hispanic/Latino Sentenced 7/11/25 90 16
+Barnstable 2575227 MA10618953 White Not Hispanic/Latino Pre-Trial 7/11/25
+Barnstable 5248846 MA10656885 JBS21J2509445 White Not Hispanic/Latino Sentenced 7/14/25 90 82
+Barnstable 5590625 MA21234536 JBS21J2509628 Black/African American Not Hispanic/Latino Pre-Trial 7/14/25
+Barnstable 2905414 MA10207094 JBS21J2509346 White Not Hispanic/Latino Pre-Trial 7/14/25
+Barnstable 5248239 MA10660398 JBS21J2509227 White Not Hispanic/Latino Pre-Trial 7/14/25
+Barnstable 3009612 MA10284357 JBS21J2509629 White Not Hispanic/Latino Pre-Trial 7/14/25
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Pre-Trial 7/14/25 15 180 101
+Barnstable 2709962 MA10136674 JBS21J2509626 White Not Hispanic/Latino Pre-Trial 7/15/25
+Barnstable 5186492 MA10602876 JBS21J2509440 White Not Hispanic/Latino Pre-Trial 7/15/25
+Barnstable 5052762 MA10408569 JBS21J2509366 White Not Hispanic/Latino Pre-Trial 7/15/25
+Barnstable 3191795 MA21095314 JBS21J2509546 White Not Hispanic/Latino Pre-Trial 7/15/25
+Barnstable 5540135 MA21278865 JBS21J2509595 White Not Hispanic/Latino Pre-Trial 7/15/25
+Barnstable 2185211 MA09734974 JBS21J2509638 White Not Hispanic/Latino Pre-Trial 7/15/25
+Barnstable 835598 MA10088991 JBS21J2509624 White Not Hispanic/Latino Pre-Trial 7/15/25
+Barnstable 5521109 MA30011293 JBS21J2509640 Black/African American Not Hispanic/Latino Pre-Trial 7/16/25
+Barnstable 3145623 MA21294839 Black/African American Not Hispanic/Latino Pre-Trial 7/16/25
+Barnstable 657024 MA00937929 White Not Hispanic/Latino Pre-Trial 7/16/25
+Barnstable 5512457 MA21188705 JBS21J2509574 White Not Hispanic/Latino Pre-Trial 7/16/25
+Barnstable 5325261 MA21040561 JBS21J2508863 Black/African American Not Hispanic/Latino Sentenced 7/16/25 365 181
+Barnstable 1058330 MA30002017 JBS21J2509618 White Not Hispanic/Latino Pre-Trial 7/16/25
+Barnstable 5482630 MA21141742 JBS21J2509614 White Not Hispanic/Latino Pre-Trial 7/17/25
+Barnstable 2980256 MA10305283 JBS22J2509500 White Not Hispanic/Latino Pre-Trial 7/17/25
+Barnstable White Not Hispanic/Latino Pre-Trial 7/17/25
+Barnstable 5563297 MA21214997 White Not Hispanic/Latino Pre-Trial 7/17/25
+Barnstable 5592111 MA21300634 JBS21J2509641 White Not Hispanic/Latino Pre-Trial 7/17/25
+Barnstable 2604052 MA10391741 White Not Hispanic/Latino Sentenced 7/18/25 4 509 72
+Barnstable 3176738 MA21084049 JBS21J2509392 White Not Hispanic/Latino Sentenced 7/18/25 59 35
+Barnstable 5310040 MA10605460 JBS21J2509322 White Not Hispanic/Latino Sentenced 7/18/25 5 112 4
+Barnstable 5540910 MA21198812 JBS21J2509382 Black/African American Not Hispanic/Latino Pre-Trial 7/18/25
+Barnstable 2633883 MA10160616 JBS21J2509488 White Not Hispanic/Latino Pre-Trial 7/18/25
+Barnstable 2686462 MA21290410 JBS21J2509532 White Not Hispanic/Latino Pre-Trial 7/21/25
+Barnstable 5308959 MA21044262 White Not Hispanic/Latino Sentenced 7/21/25 365 72
+Barnstable 818584 MA09841409 JBS21J2509653 White Not Hispanic/Latino Pre-Trial 7/21/25
+Barnstable 5308959 MA21044262 White Not Hispanic/Latino Pre-Trial 7/21/25 365 72
+Barnstable 5304442 MA21106371 JBS21J2509642 Black/African American Not Hispanic/Latino Pre-Trial 7/21/25
+Barnstable 3011951 MA21172276 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 7/21/25
+Barnstable 3161492 MA10594648 JBS21J2509184 White Not Hispanic/Latino Sentenced 7/21/25 180 63
+Barnstable 5054318 MA10427375 JBS21J2509645 White Not Hispanic/Latino Pre-Trial 7/21/25
+Barnstable 5613374 White Not Hispanic/Latino Pre-Trial 7/21/25
+Barnstable 3005317 MA10284111 HBS21H2509615 White Not Hispanic/Latino Sentenced 7/22/25 180 1
+Barnstable 2845001 MA10162870 JBS21J2509405 White Not Hispanic/Latino Pre-Trial 7/22/25
+Barnstable 5645957 MA21279175 JBS21J2509533 White Not Hispanic/Latino Pre-Trial 7/22/25
+Barnstable 5315696 MA21067615 JBS21J2509484 White Not Hispanic/Latino Pre-Trial 7/22/25
+Barnstable 571284 MA09016424 JBS21J2509396 Black/African American Not Hispanic/Latino Sentenced 7/22/25 1 64 21
+Barnstable 1056830 MA21256542 White Not Hispanic/Latino Pre-Trial 7/22/25
+Barnstable 5434461 MA21119291 JBS21J2509506 White Not Hispanic/Latino Pre-Trial 7/22/25
+Barnstable 1440207 MA10326606 JBS21J2509656 White Not Hispanic/Latino Pre-Trial 7/22/25
+Barnstable MA30005850 JBS21J2509348 White Not Hispanic/Latino Pre-Trial 7/22/25
+Barnstable 571284 MA09016424 JBS21J2509675 Black/African American Not Hispanic/Latino Pre-Trial 7/23/25
+Barnstable 5427545 MA21112934 HBS21H2509634 White Not Hispanic/Latino Sentenced 7/23/25 180
+Barnstable 5351653 MA21159051 HBS22H2508928 Other/Unknown Hispanic/Latino Sentenced 7/23/25 910 187
+Barnstable 3119616 MA10439139 JBS21J2509458 White Not Hispanic/Latino Pre-Trial 7/23/25
+Page 8 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 5253768 MA10645837 JBS21J2509668 White Not Hispanic/Latino Pre-Trial 7/23/25
+Barnstable 1086854 MA09225751 HBS21H2509319 White Not Hispanic/Latino Sentenced 7/23/25 730 2
+Barnstable 5248094 MA10636083 JBS21J2509646 White Not Hispanic/Latino Pre-Trial 7/23/25
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Pre-Trial 7/24/25 20 422
+Barnstable 5485950 MA21155308 JBS21J2509666 White Not Hispanic/Latino Pre-Trial 7/24/25
+Barnstable 5280331 MA21001801 JBS21J2509089 Black/African American Not Hispanic/Latino Sentenced 7/24/25 415 40
+Barnstable 2680017 MA10514575 White Not Hispanic/Latino Pre-Trial 7/24/25
+Barnstable 466094 MA00928411 JBS21J2509342 Black/African American Not Hispanic/Latino Pre-Trial 7/24/25
+Barnstable 2981814 MA10393729 JBS21J2509684 White Not Hispanic/Latino Pre-Trial 7/24/25
+Barnstable MA21235077 JBS21J2509691 Black/African American Not Hispanic/Latino Pre-Trial 7/24/25
+Barnstable 5541675 MA21209094 JBS22J2509311 Black/African American Not Hispanic/Latino Pre-Trial 7/24/25 22 730 80
+Barnstable 5626219 MA21289566 JBS21J2509390 White Not Hispanic/Latino Pre-Trial 7/25/25 90 64
+Barnstable 5163143 MA30010871 JBS21J2509627 Black/African American Not Hispanic/Latino Pre-Trial 7/25/25
+Barnstable 504741 MA10512949 HBS22H2509487 White Not Hispanic/Latino Sentenced 7/25/25 2 120 67
+Barnstable 5166271 MA10545051 JBS21J2509694 White Not Hispanic/Latino Pre-Trial 7/25/25
+Barnstable 2226458 MA10564275 White Not Hispanic/Latino Sentenced 7/25/25 4 90 30
+Barnstable 2900107 MA10186736 JBS21J2509680 White Not Hispanic/Latino Pre-Trial 7/26/25
+Barnstable 5371597 MA21092816 JBS21J2509693 White Not Hispanic/Latino Pre-Trial 7/28/25
+Barnstable 3181147 MA10621617 JBS21J2509289 Black/African American Not Hispanic/Latino Pre-Trial 7/28/25
+Barnstable 2888669 MA10216638 JBS21J2509384 White Not Hispanic/Latino Pre-Trial 7/28/25
+Barnstable 5099903 MA10468765 JBS21J2509632 White Not Hispanic/Latino Pre-Trial 7/28/25
+Barnstable 2300525 MA09602691 JBS21J2509279 White Not Hispanic/Latino Pre-Trial 7/28/25
+Barnstable 2894678 MA10403991 JBS21J2509681 White Not Hispanic/Latino Pre-Trial 7/28/25
+Barnstable 3050634 MA10434397 HBS21H2509674 White Not Hispanic/Latino Pre-Trial 7/28/25 39.5 270 27
+Barnstable 5262810 MA10646923 White Not Hispanic/Latino Pre-Trial 7/29/25
+Barnstable 5564668 MA21238519 JBS21J2509087 White Not Hispanic/Latino Pre-Trial 7/29/25
+Barnstable 2661104 MA10067835 JBS21J2509600 White Not Hispanic/Latino Pre-Trial 7/29/25
+Barnstable 2293840 MA10426680 JBS21J2509474 White Not Hispanic/Latino Sentenced 7/29/25 480 155
+Barnstable 2575914 MA10073761 White Not Hispanic/Latino Pre-Trial 7/29/25
+Barnstable 2766253 MA10198475 JBS21J2509360 White Hispanic/Latino Pre-Trial 7/29/25
+Barnstable 2755572 MA10290726 JBS21J2509591 White Not Hispanic/Latino Pre-Trial 7/29/25 180 57
+Barnstable 1962640 MA09727034 JBS21J2509424 Other/Unknown Not Hispanic/Latino Pre-Trial 7/29/25
+Barnstable 1009054 MA00786229 JBS21J2509414 White Not Hispanic/Latino Pre-Trial 7/29/25
+Barnstable 5436189 MA21120699 JBS21J2509643 White Not Hispanic/Latino Pre-Trial 7/30/25
+Barnstable 2347340 MA10274188 JBS21J2509380 Black/African American Hispanic/Latino Pre-Trial 7/30/25
+Barnstable 2990150 MA10267996 JBS21J2509454 White Not Hispanic/Latino Pre-Trial 7/30/25
+Barnstable 2088951 MA10228575 JBS21J2509558 White Not Hispanic/Latino Pre-Trial 7/30/25
+Barnstable 5453901 MA21133645 JBS21J2509255 Black/African American Not Hispanic/Latino Pre-Trial 7/30/25
+Barnstable 1490149 MA10299446 JBS21J2508926 White Not Hispanic/Latino Sentenced 7/31/25 180 96
+Barnstable 5675594 MA21302010 White Not Hispanic/Latino Pre-Trial 7/31/25
+Barnstable 5626653 MA21262983 JBS21J2509669 Black/African American Not Hispanic/Latino Pre-Trial 7/31/25
+Barnstable 2855484 MA10196478 JBS21J2509727 White Not Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 2469325 MA10189677 JBS21J2509439 White Not Hispanic/Latino Sentenced 8/1/25 1.5 90 48
+Barnstable 5040870 MA10472591 JBS21J2509707 White Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 5550920 MA21205869 JBS21J2509519 White Not Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 375816 MA09911259 HBS21H2509664 White Not Hispanic/Latino Sentenced 8/1/25 0.5 14
+Barnstable White Unavailable Pre-Trial 8/1/25
+Barnstable 5546461 MA21203060 JBS2201804672 Unavailable Not Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 5623236 MA21259616 JBS21J2509092 Black/African American Not Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 5659318 MA21289835 JBS21J2509570 White Not Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 5500423 MA30005746 JBS21J2509685 White Not Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 3131356 MA10454015 White Not Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 2358456 MA09759473 JBS21J2508853 Black/African American Not Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 2491263 White Not Hispanic/Latino Pre-Trial 8/1/25
+Barnstable 3080531 MA10352576 JBS21J2509725 White Not Hispanic/Latino Pre-Trial 8/4/25
+Barnstable 5677727 MA30012441 JBS21J2509728 White Not Hispanic/Latino Pre-Trial 8/4/25
+Barnstable 5531600 MA21215952 JBS21J2509264 White Not Hispanic/Latino Pre-Trial 8/4/25
+Barnstable 2599876 MA10017518 JBS21J2509733 White Not Hispanic/Latino Pre-Trial 8/4/25
+Barnstable 2519439 MA09999412 JBS21J2509713 White Not Hispanic/Latino Pre-Trial 8/4/25
+Barnstable 3050634 MA10434397 HBS21H2509674 White Not Hispanic/Latino Sentenced 8/5/25 39.5 270 27
+Barnstable 2756910 MA10103248 JBS2201805399 White Not Hispanic/Latino Sentenced 8/5/25 10 1640 165
+Barnstable 2802641 MA10377414 White Not Hispanic/Latino Pre-Trial 8/5/25
+Barnstable 3091035 MA10505583 White Not Hispanic/Latino Pre-Trial 8/5/25
+Barnstable 2940385 MA10228367 JBS21J2509314 Black/African American Not Hispanic/Latino Pre-Trial 8/5/25
+Barnstable 5262810 MA10646923 JBS21J2509717 White Not Hispanic/Latino Pre-Trial 8/5/25
+Barnstable 3174823 MA21142633 JBS21J2509670 White Not Hispanic/Latino Pre-Trial 8/6/25
+Barnstable 3019635 MA10401918 JBS21J2408545 White Not Hispanic/Latino Pre-Trial 8/6/25 730 265
+Barnstable 3136655 MA10550097 JBS21J2509749 White Not Hispanic/Latino Pre-Trial 8/6/25
+Barnstable 3194833 MA21220820 JBS21J2509621 White Hispanic/Latino Pre-Trial 8/6/25
+Barnstable 2491263 MA10000064 JBS21J2509736 White Not Hispanic/Latino Pre-Trial 8/6/25
+Barnstable 3071735 MA10600730 JBS21J2509466 White Not Hispanic/Latino Pre-Trial 8/6/25
+Barnstable 437466 MA00844609 JBS2201805667 White Not Hispanic/Latino Sentenced 8/6/25 10 2370 321
+Barnstable 2497547 MA30004620 JBS21J2509647 White Not Hispanic/Latino Pre-Trial 8/6/25
+Barnstable 3074812 MA10338931 JBS21J2509331 White Hispanic/Latino Pre-Trial 8/7/25
+Barnstable 2484837 MA10138936 JBS21J2509602 White Not Hispanic/Latino Pre-Trial 8/7/25
+Barnstable 5278538 MA21004474 JBS21J2509536 White Not Hispanic/Latino Pre-Trial 8/7/25
+Barnstable 3186469 MA21017211 HBS21H2509053 White Not Hispanic/Latino Pre-Trial 8/7/25 15.5 540 279
+Barnstable 2893547 MA10510960 JBS21J2509710 White Not Hispanic/Latino Pre-Trial 8/7/25
+Barnstable 5248239 MA10660398 JBS21J2509726 White Not Hispanic/Latino Pre-Trial 8/8/25
+Barnstable 2567692 MA10070016 JBS21J2509673 White Not Hispanic/Latino Pre-Trial 8/8/25
+Barnstable 2886837 MA10454808 JBS21J2509617 White Hispanic/Latino Pre-Trial 8/8/25
+Barnstable 2429265 MA09837761 JBS21J2509737 White Not Hispanic/Latino Pre-Trial 8/8/25
+Barnstable White Not Hispanic/Latino Pre-Trial 8/9/25
+Page 9 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 2902086 MA10216617 JBS22J2509303 White Not Hispanic/Latino Pre-Trial 8/11/25
+Barnstable 5141733 MA10527044 JBS21J2509555 White Not Hispanic/Latino Pre-Trial 8/11/25 15 240 47
+Barnstable 5588885 MA21273195 JBS21J2509757 White Not Hispanic/Latino Pre-Trial 8/11/25
+Barnstable 2174009 MA10047689 JBS22J2509731 White Not Hispanic/Latino Pre-Trial 8/11/25
+Barnstable 5505863 MA21170543 JBS21J2509552 White Not Hispanic/Latino Pre-Trial 8/11/25
+Barnstable 5459791 MA21136716 TBS21T2509689 Black/African American Hispanic/Latino Pre-Trial 8/11/25
+Barnstable 2810020 MA10192090 JBS21J2509524 White Not Hispanic/Latino Sentenced 8/11/25 7 60 12
+Barnstable 2023807 MA09431602 JBS21J2509599 White Not Hispanic/Latino Pre-Trial 8/11/25
+Barnstable 5400744 MA21092483 JBS21J2509770 White Not Hispanic/Latino Pre-Trial 8/11/25
+Barnstable 2952531 MA10303071 JBS21J2509756 Black/African American Not Hispanic/Latino Pre-Trial 8/11/25
+Barnstable 1530955 MA10651802 White Not Hispanic/Latino Pre-Trial 8/11/25
+Barnstable 2593229 MA10149779 JBS21J2509508 White Hispanic/Latino Pre-Trial 8/12/25
+Barnstable 5036981 MA10469999 JBS21J2509720 White Not Hispanic/Latino Pre-Trial 8/12/25
+Barnstable 5198337 MA10579631 JBS21J2509580 White Not Hispanic/Latino Pre-Trial 8/12/25 8 90 43
+Barnstable 5410778 MA21223866 JBS21J2509504 White Not Hispanic/Latino Pre-Trial 8/12/25
+Barnstable 5015903 MA10421218 JBS21J2509782 White Not Hispanic/Latino Pre-Trial 8/13/25
+Barnstable 5663437 MA21292950 JBS21J2408208 White Hispanic/Latino Pre-Trial 8/13/25
+Barnstable MA30007060 JBS21J2509409 White Hispanic/Latino Pre-Trial 8/13/25 1.5 730 77
+Barnstable 2755572 MA10290726 JBS21J2509591 White Not Hispanic/Latino Sentenced 8/13/25 180 57
+Barnstable 3104369 MA10368856 JBS21J2509794 Black/African American Not Hispanic/Latino Pre-Trial 8/13/25
+Barnstable 521952 MA10276387 JBS21J2509457 White Not Hispanic/Latino Pre-Trial 8/13/25 11.5 738 136
+Barnstable 2709889 MA10074451 White Not Hispanic/Latino Pre-Trial 8/14/25 22 365 114
+Barnstable 3116267 MA21021436 HBS21H2509492 White Not Hispanic/Latino Sentenced 8/14/25 420 208
+Barnstable 2880591 MA10171533 HBS21H2509763 White Not Hispanic/Latino Sentenced 8/14/25 7
+Barnstable 2129280 MA10020969 JBS21J2509148 White Not Hispanic/Latino Sentenced 8/15/25 15 180 10
+Barnstable 5675283 MA21301877 JBS21J2508761 White Not Hispanic/Latino Pre-Trial 8/15/25
+Barnstable 5509776 MA21173564 White Not Hispanic/Latino Pre-Trial 8/15/25
+Barnstable 2721051 MA10238469 JBS21J2509760 White Not Hispanic/Latino Pre-Trial 8/15/25
+Barnstable 2584291 MA10594525 JBS21J2509810 Black/African American Hispanic/Latino Pre-Trial 8/15/25
+Barnstable 1179460 MA09836274 JBS21J2509434 White Not Hispanic/Latino Pre-Trial 8/15/25
+Barnstable 5501001 MA21266267 JBS22J2509745 White Not Hispanic/Latino Pre-Trial 8/18/25
+Barnstable 5375952 MA21077559 JBS21J2509554 White Not Hispanic/Latino Pre-Trial 8/18/25 365 53
+Barnstable 644781 MA10370208 JBS21J2509724 White Not Hispanic/Latino Pre-Trial 8/18/25
+Barnstable 5222874 MA10606985 White Not Hispanic/Latino Pre-Trial 8/19/25
+Barnstable 5626219 MA21289566 JBS21J2509390 White Not Hispanic/Latino Sentenced 8/19/25 90 64
+Barnstable 5017321 MA10381847 HBS21H2509391 Black/African American Not Hispanic/Latino Sentenced 8/19/25 6 270 69
+Barnstable 3019635 MA10401918 JBS21J2408545 White Not Hispanic/Latino Sentenced 8/19/25 730 265
+Barnstable 5237050 MA10623428 JBS21J2509619 Black/African American Not Hispanic/Latino Pre-Trial 8/20/25
+Barnstable 2334777 MA10447864 JBS21J2509686 White Not Hispanic/Latino Pre-Trial 8/20/25
+Barnstable 2895476 MA10207457 JBS21J2509316 Black/African American Not Hispanic/Latino Pre-Trial 8/20/25
+Barnstable 2923754 MA10507865 JBS21J2509769 White Not Hispanic/Latino Pre-Trial 8/21/25
+Barnstable 5053044 MA10418707 JBS21J2509807 White Not Hispanic/Latino Pre-Trial 8/21/25
+Barnstable 1643598 MA10236849 JBS21J2509714 White Not Hispanic/Latino Pre-Trial 8/21/25 7.5 180 25
+Barnstable 5385597 MA21081828 JBS21J2307189 White Not Hispanic/Latino Pre-Trial 8/21/25
+Barnstable 5667661 MA21295963 JBS21J2509809 White Not Hispanic/Latino Pre-Trial 8/21/25 6.5 910 297
+Barnstable 3085922 MA10374880 JBS21J2509129 Black/African American Not Hispanic/Latino Pre-Trial 8/21/25
+Barnstable 2460673 MA10248790 JBS21J2509278 White Not Hispanic/Latino Pre-Trial 8/22/25
+Barnstable 2468415 MA09820042 JBS22J2407588 White Not Hispanic/Latino Pre-Trial 8/22/25
+Barnstable 2473456 MA10362973 JBS21J2509703 White Hispanic/Latino Sentenced 8/22/25 30 9
+Barnstable 2644830 MA10018709 JBS21J2509789 White Not Hispanic/Latino Pre-Trial 8/25/25
+Barnstable 5586966 MA21231970 JBS21J2509215 Black/African American Not Hispanic/Latino Pre-Trial 8/25/25
+Barnstable 5087706 MA21278356 JBS21J2407750 White Not Hispanic/Latino Pre-Trial 8/25/25
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino Sentenced 8/25/25 18 360 49
+Barnstable 2238853 MA10387162 JBS21J2509522 White Not Hispanic/Latino Sentenced 8/26/25 10 365 119
+Barnstable 2012726 MA09613359 JBS21J2509814 White Not Hispanic/Latino Pre-Trial 8/26/25
+Barnstable 2473456 MA10362973 JBS21J2509842 White Hispanic/Latino Pre-Trial 8/26/25
+Barnstable 3191043 MA21101031 JBS21J2509451 White Hispanic/Latino Pre-Trial 8/26/25
+Barnstable 2762755 MA10387311 JBS21J2509776 White Not Hispanic/Latino Pre-Trial 8/26/25
+Barnstable 5581553 MA21228101 JBS21J2509762 White Not Hispanic/Latino Pre-Trial 8/26/25 6 120 20
+Barnstable 2046800 MA10059873 JBS21J2509607 White Not Hispanic/Latino Pre-Trial 8/27/25
+Barnstable 5689070 MA30008062 JBS22J2509844 White Not Hispanic/Latino Pre-Trial 8/27/25
+Barnstable 3194833 MA21220820 JBS21J2509793 White Hispanic/Latino Pre-Trial 8/28/25
+Barnstable 3102571 MA21143899 JBS21J2509426 Black/African American Not Hispanic/Latino Pre-Trial 8/28/25
+Barnstable 2362123 MA10000870 JBS21J2509860 Black/African American Not Hispanic/Latino Pre-Trial 8/29/25
+Barnstable 2858420 MA10156562 JBS21J2509863 Black/African American Not Hispanic/Latino Pre-Trial 8/29/25
+Barnstable 5458929 MA21289156 JBS21J2509846 White Not Hispanic/Latino Pre-Trial 8/29/25 6 448 166
+Barnstable 1044751 MA09812277 JBS21J2509873 White Not Hispanic/Latino Pre-Trial 9/1/25
+Barnstable 3150398 MA21137193 JBS21J2509413 White Not Hispanic/Latino Pre-Trial 9/2/25
+Barnstable 5264482 MA21194786 JBS21J2509716 White Not Hispanic/Latino Pre-Trial 9/2/25
+Barnstable 3063791 MA10326405 JBS21J2509200 White Not Hispanic/Latino Sentenced 9/2/25 20 180 33
+Barnstable 5274319 MA21019426 JBS21J2509890 Black/African American Not Hispanic/Latino Pre-Trial 9/3/25
+Barnstable 375816 MA09911259 JBS21J2509732 White Not Hispanic/Latino Pre-Trial 9/3/25
+Barnstable 2826212 MA10139261 JBS21J2509792 White Not Hispanic/Latino Pre-Trial 9/3/25
+Barnstable 2945543 MA21049587 JBS21J2509833 White Not Hispanic/Latino Pre-Trial 9/3/25
+Barnstable 5457755 MA21204622 JBS21J2509467 Black/African American Not Hispanic/Latino Sentenced 9/4/25 2.5 90 56
+Barnstable 3136140 MA10499167 JBS21J2509748 White Not Hispanic/Latino Pre-Trial 9/5/25
+Barnstable 3077686 MA10441334 JBS21J2509687 White Not Hispanic/Latino Pre-Trial 9/5/25
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino Pre-Trial 9/5/25 6.5 180 37
+Barnstable 3063791 MA10326405 JBS21J2509883 White Not Hispanic/Latino Pre-Trial 9/5/25
+Barnstable 1909544 MA21135901 White Not Hispanic/Latino Pre-Trial 9/7/25
+Barnstable 5600301 MA21297887 JBS21J2509718 White Not Hispanic/Latino Pre-Trial 9/8/25
+Barnstable 5564181 MA21217127 JBS21J2509886 Black/African American Not Hispanic/Latino Pre-Trial 9/8/25
+Barnstable 3167427 MA21010361 JBS21J2509897 White Not Hispanic/Latino Pre-Trial 9/8/25
+Page 10 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 5368133 MA21070341 JBS21J2509699 White Not Hispanic/Latino Pre-Trial 9/8/25
+Barnstable 5669362 MA21297183 JBS22J2408492 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 9/8/25
+Barnstable 957742 MA00996011 JBS21J2509804 White Not Hispanic/Latino Pre-Trial 9/8/25
+Barnstable 5575898 MA21224233 JBS21J2509362 Black/African American Not Hispanic/Latino Pre-Trial 9/8/25
+Barnstable 5248239 MA10660398 JBS21J2509824 White Not Hispanic/Latino Pre-Trial 9/9/25 5.5 365 105
+Barnstable 2564163 MA30015427 JBS21J2509915 White Not Hispanic/Latino Pre-Trial 9/9/25
+Barnstable 2937027 Black/African American Not Hispanic/Latino Pre-Trial 9/9/25
+Barnstable 1918246 MA09766573 JBS21J2509606 White Not Hispanic/Latino Pre-Trial 9/9/25
+Barnstable 5492997 MA21161313 JBS21J2509853 White Not Hispanic/Latino Pre-Trial 9/9/25
+Barnstable 5400744 MA21092483 JBS21J2509921 White Not Hispanic/Latino Pre-Trial 9/10/25
+Barnstable 2547626 MA10289349 JBS21J2509406 Black/African American Not Hispanic/Latino Sentenced 9/10/25 15.5 365 37
+Barnstable 2499481 MA21248951 JBS21J2509788 White Not Hispanic/Latino Pre-Trial 9/10/25
+Barnstable 2259534 MA09996709 JBS21J2509836 White Not Hispanic/Latino Pre-Trial 9/10/25
+Barnstable 5666304 MA21294935 JBS21J2408351 White Hispanic/Latino Pre-Trial 9/10/25
+Barnstable 3018050 MA30005848 White Not Hispanic/Latino Pre-Trial 9/10/25
+Barnstable 464774 MA00914935 JBS21J2509904 White Not Hispanic/Latino Pre-Trial 9/11/25
+Barnstable 3116267 MA21021436 White Not Hispanic/Latino Sentenced 9/11/25
+Barnstable 5638523 MA21272216 JBS21J2509908 White Not Hispanic/Latino Pre-Trial 9/12/25
+Barnstable 5368133 MA21070341 JBS21J2509912 White Not Hispanic/Latino Pre-Trial 9/12/25
+Barnstable 5687552 MA30006560 White Hispanic/Latino Pre-Trial 9/12/25
+Barnstable 3015619 MA10363040 JBS22J2508899 White Not Hispanic/Latino Pre-Trial 9/12/25 4 545 224
+Barnstable 2386083 MA10076116 JBS21J2509900 White Not Hispanic/Latino Pre-Trial 9/12/25
+Barnstable 5386883 MA21082764 HBS21H2509672 White Not Hispanic/Latino Sentenced 9/12/25 4.5 60
+Barnstable 2743112 MA10206283 JBS21J2509865 White Not Hispanic/Latino Pre-Trial 9/14/25
+Barnstable 1944103 MA09621536 JBS21J2509654 Black/African American Not Hispanic/Latino Pre-Trial 9/15/25
+Barnstable 2296030 MA10108137 JBS21J2509936 White Hispanic/Latino Pre-Trial 9/15/25
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 9/15/25 15 180 101
+Barnstable 3120394 MA10592451 JBS21J2509855 Other/Unknown Not Hispanic/Latino Pre-Trial 9/15/25 59 33
+Barnstable 2806935 MA10126585 JBS21J2509370 White Hispanic/Latino Sentenced 9/15/25 8.5 180 90
+Barnstable 5672037 MA30015291 JBS21J2509917 White Not Hispanic/Latino Pre-Trial 9/15/25
+Barnstable 5272585 MA21016374 HBS21H2408270 Black/African American Not Hispanic/Latino Sentenced 9/15/25 10 365
+Barnstable 5266248 MA10650666 JBS21J2509237 White Not Hispanic/Latino Sentenced 9/16/25 11 270 75
+Barnstable 5350954 MA30012349 JBS21J2509872 White Not Hispanic/Latino Pre-Trial 9/16/25
+Barnstable 3009214 MA10244855 JBS21J2509343 Unavailable Not Hispanic/Latino Pre-Trial 9/16/25 130 127
+Barnstable 709184 MA00839215 JBS21J2509701 White Not Hispanic/Latino Pre-Trial 9/16/25
+Barnstable 5156682 MA00922209 JBS21J2509690 Black/African American Not Hispanic/Latino Pre-Trial 9/16/25 2 90 55
+Barnstable 3078176 MA10571232 JBS21J2509864 White Not Hispanic/Latino Pre-Trial 9/17/25 1 540 22
+Barnstable 1784440 MA10417874 JBS21J2509884 White Not Hispanic/Latino Pre-Trial 9/17/25
+Barnstable 5697830 MA30015722 JBS21J2509932 White Not Hispanic/Latino Pre-Trial 9/17/25
+Barnstable 5618468 MA21297388 JBS23J2509941 White Not Hispanic/Latino Pre-Trial 9/17/25 3 730 3
+Barnstable 5511244 MA21194162 White Not Hispanic/Latino Pre-Trial 9/17/25
+Barnstable 5675899 MA30015643 JBS21J2509923 White Not Hispanic/Latino Pre-Trial 9/17/25
+Barnstable 5375952 MA21077559 JBS21J2509554 White Not Hispanic/Latino Sentenced 9/17/25 365 53
+Barnstable 1933797 AZ16480169 White Not Hispanic/Latino Pre-Trial 9/17/25
+Barnstable MA10610092 JBS21J2508943 White Hispanic/Latino Pre-Trial 9/17/25
+Barnstable 3009214 MA10244855 JBS21J2509343 Unavailable Not Hispanic/Latino Sentenced 9/18/25 130 127
+Barnstable 1773115 MA09322184 JBS21J2509929 White Not Hispanic/Latino Pre-Trial 9/18/25
+Barnstable 2990409 MA10278801 JBS21J2509808 White Not Hispanic/Latino Pre-Trial 9/18/25
+Barnstable 2895112 MA10250624 HBS21H2509942 White Not Hispanic/Latino Sentenced 9/18/25 30 26
+Barnstable 3207014 MA10647831 JBS21J2509934 Black/African American Not Hispanic/Latino Pre-Trial 9/18/25
+Barnstable 2824393 MA10496361 JBS22J2509751 Black/African American Hispanic/Latino Pre-Trial 9/18/25
+Barnstable 3071317 MA10366548 White Not Hispanic/Latino Pre-Trial 9/18/25
+Barnstable 5550735 MA21234942 JBS21J2509671 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 9/19/25
+Barnstable 5592111 MA21300634 JBS22J2509820 White Not Hispanic/Latino Pre-Trial 9/19/25 1.5 60 30
+Barnstable 5357946 MA21123813 HBS21H2509223 White Not Hispanic/Latino Sentenced 9/19/25 22 270 26
+Barnstable 5198337 MA10579631 JBS21J2509580 White Not Hispanic/Latino Sentenced 9/19/25 8 90 43
+Barnstable 3053264 MA21077018 JBS21J2509480 White Not Hispanic/Latino Pre-Trial 9/19/25
+Barnstable 5327456 MA21042460 JBS21J2509958 White Not Hispanic/Latino Pre-Trial 9/19/25
+Barnstable 2438427 MA10004051 JBS21J2509529 White Not Hispanic/Latino Pre-Trial 9/19/25
+Barnstable 5477058 MA30003225 JBS22J2509541 White Not Hispanic/Latino Pre-Trial 9/19/25
+Barnstable 2720403 MA10069706 JBS21J2509913 White Not Hispanic/Latino Pre-Trial 9/22/25
+Barnstable 2866318 MA10194604 HBS21H2509543 White Not Hispanic/Latino Sentenced 9/22/25 12.5 170 1
+Barnstable 3141019 MA10376624 JBS21J2509758 Black/African American Not Hispanic/Latino Pre-Trial 9/22/25
+Barnstable MA10228366 JBS21J2509971 White Not Hispanic/Latino Pre-Trial 9/22/25
+Barnstable 5569794 MA21219699 White Not Hispanic/Latino Pre-Trial 9/22/25
+Barnstable 2795553 MA10552447 JBS21J2509859 White Hispanic/Latino Pre-Trial 9/23/25
+Barnstable 3022210 MA21099667 JBS21J2509420 White Not Hispanic/Latino Pre-Trial 9/23/25
+Barnstable 3018864 MA10291212 JBS21J2509639 Black/African American Not Hispanic/Latino Pre-Trial 9/23/25
+Barnstable 5563297 MA21214997 JBS22J2509682 White Not Hispanic/Latino Pre-Trial 9/23/25
+Barnstable White Unavailable Pre-Trial 9/23/25
+Barnstable 2672135 MA10143823 JBS22J2509755 White Not Hispanic/Latino Pre-Trial 9/23/25
+Barnstable 5577999 MA21225901 JBS21J2509935 Black/African American Not Hispanic/Latino Pre-Trial 9/23/25
+Barnstable 5581553 MA21228101 JBS21J2509762 White Not Hispanic/Latino Sentenced 9/23/25 6 120 20
+Barnstable 5046501 MA10541140 JBS21J2509938 White Not Hispanic/Latino Pre-Trial 9/24/25
+Barnstable 5042071 MA10418763 JBS21J2509823 White Not Hispanic/Latino Pre-Trial 9/24/25
+Barnstable 2810162 MA10316674 JBS21J2509692 White Not Hispanic/Latino Pre-Trial 9/24/25 60
+Barnstable 2813116 MA10329694 JBS21J2509818 White Not Hispanic/Latino Pre-Trial 9/25/25
+Barnstable 5605488 MA21258358 JBS21J2407574 White Not Hispanic/Latino Sentenced 9/25/25 18 540 118
+Barnstable 5644878 MA21278358 JBS21J2407742 White Not Hispanic/Latino Pre-Trial 9/25/25
+Barnstable 5410778 MA21223866 JBS21J2509887 White Not Hispanic/Latino Pre-Trial 9/25/25 100 79
+Barnstable 5473369 MA21167025 JBS21J2509839 White Not Hispanic/Latino Pre-Trial 9/25/25
+Barnstable 3164739 MA21206801 HBS21H2509411 White Not Hispanic/Latino Sentenced 9/25/25 10 270 29
+Barnstable 648138 MA00701139 JBS22J2509991 White Not Hispanic/Latino Pre-Trial 9/25/25
+Page 11 of 23
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Barnstable 5692555 MA30016722 JBS21J2509999 White Not Hispanic/Latino Pre-Trial 9/26/25
+Barnstable 5659192 MA21291012 JBS21J2509939 White Not Hispanic/Latino Pre-Trial 9/26/25
+Barnstable 5698174 MA30016012 JBS21J2509950 White Not Hispanic/Latino Pre-Trial 9/26/25
+Barnstable 2948241 MA21025261 JBS21J2509871 White Not Hispanic/Latino Pre-Trial 9/26/25 90 29
+Barnstable 1758000 MA09922831 HBS21H2407611 Other/Unknown Not Hispanic/Latino Sentenced 9/26/25 30 739 93
+Barnstable 2590524 MA21273900 JBS21J2509438 White Not Hispanic/Latino Pre-Trial 9/26/25
+Barnstable 2709889 MA10074451 White Not Hispanic/Latino Sentenced 9/26/25 22 365 114
+Barnstable 5691812 MA30010687 JBS21J2509889 White Not Hispanic/Latino Pre-Trial 9/26/25
+Barnstable 2401986 MA10169768 JBS22J2509799 White Not Hispanic/Latino Pre-Trial 9/26/25
+Barnstable 3010148 MA10512018 JBS21J2509351 White Not Hispanic/Latino Sentenced 9/26/25 12 231 92
+Barnstable 2,810,162 MA10316674 JBS21J2509692 White Not Hispanic/Latino Sentenced 9/26/25 60
+Barnstable 2810162 MA10316674 JBS22J2510003 White Not Hispanic/Latino Pre-Trial 9/27/25
+Barnstable 2940385 MA10228367 JBS21J2509911 Black/African American Not Hispanic/Latino Pre-Trial 9/29/25
+Barnstable 5690856 MA30009698 White Hispanic/Latino Pre-Trial 9/29/25
+Barnstable 2482204 MA09992658 JBS21J2508948 White Not Hispanic/Latino Pre-Trial 9/29/25
+Barnstable 448734 MA21108857 JBS21J2509843 White Not Hispanic/Latino Pre-Trial 9/29/25
+Barnstable 3155586 MA21083838 JBS21J2509802 Black/African American Not Hispanic/Latino Pre-Trial 9/30/25 180 111
+Barnstable 5391085 MA21085672 HBS21H2509944 White Not Hispanic/Latino Sentenced 9/30/25 4.5 180 113
+Barnstable 5642796 MA21277593 JBS21J2509795 Other/Unknown Not Hispanic/Latino Pre-Trial 9/30/25
+Barnstable 5657245 MA30016062 JBS21J2509943 White Not Hispanic/Latino Pre-Trial 9/30/25
+Barnstable 2314875 MA10131454 JBS21J2509822 White Not Hispanic/Latino Pre-Trial 9/30/25
+Page 12 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 3063791 MA10326405 JBS21J2509200 White Not Hispanic/Latino Sentenced 7/1/25 RECOVERY GROUP J POD Released
+Barnstable 2244523 MA09772035 JBS21J2508804 White Not Hispanic/Latino Sentenced 7/1/25 RECOVERY GROUP J POD Participated
+Barnstable 1933797 AZ16480169 White Not Hispanic/Latino Pre-Trial 7/1/25 RECOVERY GROUP J POD Participated
+Barnstable 1088532 MA09717044 JBS21J2509020 Black/African American Not Hispanic/Latino Pre-Trial 7/1/25 RECOVERY GROUP J POD Released
+Barnstable 1552600 MA09116743 JBS21J2206051 White Not Hispanic/Latino Pre-Trial 7/1/25 RECOVERY GROUP J POD Currently Enrolled
+Barnstable 3019635 MA10401918 JBS21J2408545 White Not Hispanic/Latino Pre-Trial 7/1/25 RECOVERY GROUP J POD Participated
+Barnstable 5087706 MA21278356 JBS21J2407750 White Not Hispanic/Latino Pre-Trial 7/1/25 RECOVERY GROUP J POD Released
+Barnstable 2903465 MA10398268 JBS21J2407360 White Not Hispanic/Latino Pre-Trial 7/2/25 EDU C POD GED TUTORING/IS Participated
+Barnstable 5575610 MA21224520 JBS21J2307254 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION H POD Currently Enrolled
+Barnstable 3109826 MA10611365 JBS21J2407674 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION H POD Currently Enrolled
+Barnstable 5332377 MA21279558 HBS21H2408231 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Currently Enrolled
+Barnstable 2358456 MA09759473 JBS21J2508853 Black/African American Not Hispanic/Latino Pre-Trial 7/2/25 EDU C POD GED TUTORING/IS Participated
+Barnstable 5520528 MA21195444 HBS21H2508935 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD GED TUTORING Currently Enrolled
+Barnstable 3107126 MA10412787 JBS21J2509228 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 5331705 MA21063796 HBS21H2508826 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD GED TUTORING Currently Enrolled
+Barnstable 5260525 MA10645051 HBS21H2509352 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 2756910 MA10103248 JBS2201805399 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Released
+Barnstable 3084171 MA10379452 JBS21J2509299 American Indian/Alaska Native Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Released
+Barnstable 5656675 MA21287705 JBS22J2407925 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD GED TUTORING Currently Enrolled
+Barnstable 2734258 MA10426238 JBS21J2508894 Black/African American Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION A POD Participated
+Barnstable 5533941 MA21194164 JBS21J2407524 White Hispanic/Latino Pre-Trial 7/2/25 EDUCATION M POD GED TUTORING Currently Enrolled
+Barnstable 5533941 MA21194164 JBS21J2407524 White Hispanic/Latino Pre-Trial 7/2/25 EDUCATION M POD Participated
+Barnstable 928046 MA00958003 HBS21H2508997 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Currently Enrolled
+Barnstable 2468415 MA09820042 JBS22J2407588 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION C POD Released
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 2680943 MA10129422 JBS21J2407963 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Participated
+Barnstable 2584381 MA10269469 HBS21H2509194 White Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD Currently Enrolled
+Barnstable 2380959 MA21061128 JBS21J2508990 White Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Participated
+Barnstable 2147518 MA09754937 JBS21J2509491 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 5564668 MA21238519 JBS21J2509087 White Not Hispanic/Latino Pre-Trial 7/2/25 EDU C POD GED TUTORING/IS Released
+Barnstable 5675283 MA21301877 JBS21J2508761 White Not Hispanic/Latino Pre-Trial 7/2/25 EDU C POD GED TUTORING/IS Participated
+Barnstable 353722 MA00735323 JBS21J2408711 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION M POD Released
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Currently Enrolled
+Barnstable 5596305 MA21086910 HBS21H2306611 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION H POD Released
+Barnstable 5525227 MA21216897 HBS21H2509082 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 1033098 MA09009193 JBS21J2509056 Black/African American Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION M POD Released
+Barnstable 3161492 MA10594648 JBS21J2509184 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Released
+Barnstable 5325261 MA21040561 JBS21J2508863 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD Released
+Barnstable 5036817 MA10406838 JBS21J2509369 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 2129280 MA10020969 JBS21J2509148 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD Released
+Barnstable 1758000 MA09922831 HBS21H2407611 Other/Unknown Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD GED TUTORING Released
+Barnstable 1758000 MA09922831 HBS21H2407611 Other/Unknown Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 2469325 MA10189677 JBS21J2509439 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Participated
+Barnstable 2800722 MA10511952 HBS21H2509341 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Released
+Barnstable 1977703 MA30009600 HBS21H2509545 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION H POD Released
+Barnstable 1933797 AZ16480169 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Released
+Barnstable 5600348 MA30003806 JBS21J2509230 White Hispanic/Latino Sentenced 7/2/25 EDUCATION H POD Released
+Barnstable 2846435 MA10302690 JBS21J2509099 Black/African American Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Released
+Barnstable 5605488 MA21258358 JBS21J2407574 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 5669362 MA21297183 JBS22J2408492 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Released
+Barnstable 2375152 MA10452041 JBS21J2408494 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD Released
+Barnstable 5642434 MA21276012 JBS21J2407827 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Released
+Barnstable 5050398 MA10514778 JBS21J2407506 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Released
+Barnstable 1552600 MA09116743 JBS21J2206051 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD GED TUTORING Currently Enrolled
+Barnstable 5612058 MA21251426 JBS21J2407714 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Participated
+Barnstable 5597446 MA21239714 JBS21J2509229 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Currently Enrolled
+Barnstable 5608715 MA21248859 JBS21J2508304 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Participated
+Barnstable 5675325 MA21301950 JBS21J2508768 White Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD GED TUTORING Currently Enrolled
+Barnstable 2718474 MA10401646 HBS21H2509345 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 5623236 MA21259616 JBS21J2509092 Black/African American Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Released
+Barnstable 2380959 MA21061128 JBS21J2508990 White Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD GED TUTORING Currently Enrolled
+Barnstable 3019635 MA10401918 JBS21J2408545 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Released
+Barnstable 5087706 MA21278356 JBS21J2407750 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Released
+Barnstable 5351653 MA21159051 HBS22H2508928 Other/Unknown Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Released
+Barnstable 5331705 MA21063796 HBS21H2508826 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 5658579 MA21289204 HBS21H2508946 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 3007803 MA10508060 HBS21H2508755 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION H POD Currently Enrolled
+Barnstable 437466 MA00844609 JBS2201805667 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 2806935 MA10126585 JBS21J2509370 White Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Released
+Barnstable 5634789 MA21268998 HBS21H2407965 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 5592949 MA21290961 HBS21H2408087 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD Released
+Barnstable 1552600 MA09116743 JBS21J2206051 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Participated
+Barnstable 5415765 MA21101924 JBS21J2407718 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Participated
+Barnstable 5502483 MA21167897 JBS21J2407711 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Currently Enrolled
+Barnstable 5656675 MA21287705 JBS22J2407925 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Participated
+Barnstable 5608715 MA21248859 JBS21J2508304 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD GED TUTORING Currently Enrolled
+Page 13 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 5675325 MA21301950 JBS21J2508768 White Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Participated
+Barnstable 2796309 MA21099733 JBS21J2306383 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Participated
+Barnstable 5673856 MA21300590 JBS21J2508737 White Hispanic/Latino Pre-Trial 7/2/25 EDUCATION C POD Participated
+Barnstable 3171847 MA10552582 JBS21J2508751 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD GED TUTORING Participated
+Barnstable 3171847 MA10552582 JBS21J2508751 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Currently Enrolled
+Barnstable 2244523 MA09772035 JBS21J2508804 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD Participated
+Barnstable 5380097 MA21300005 JBS21J2408666 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD Released
+Barnstable 5380097 MA21300005 JBS21J2408666 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD GED TUTORING Participated
+Barnstable 1086854 MA09225751 HBS21H2509319 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Participated
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD GED TUTORING Currently Enrolled
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 5283982 MA21016687 JBS21J2508978 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 562635 MA09015490 JBS21J2509232 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 5171847 MA21169417 JBS21J2509086 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Currently Enrolled
+Barnstable 5642540 MA21275883 JBS21J2407710 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD Currently Enrolled
+Barnstable 5520528 MA21195444 HBS21H2508935 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 1088532 MA09717044 JBS21J2509020 Black/African American Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Released
+Barnstable 5586966 MA21231970 JBS21J2509215 Black/African American Not Hispanic/Latino Pre-Trial 7/2/25 EDU C POD GED TUTORING/IS Participated
+Barnstable 607715 MA09211452 HBS21H2509478 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Participated
+Barnstable 5666304 MA21294935 JBS21J2408351 White Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Released
+Barnstable 5644878 MA21278358 JBS21J2407742 White Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION J POD Released
+Barnstable 1838931 MA09006035 HBS21H2408306 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION H POD Currently Enrolled
+Barnstable 5442380 MA21127016 HBS21H2306929 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 2496006 MA09831831 JBS21J2407891 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Participated
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD GED TUTORING Participated
+Barnstable 5541675 MA21209094 JBS22J2509311 Black/African American Not Hispanic/Latino Pre-Trial 7/2/25 EDUCATION M POD Currently Enrolled
+Barnstable 2064056 MA09902287 HBS21H2509327 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Released
+Barnstable 5310040 MA10605460 JBS21J2509322 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Released
+Barnstable 3063791 MA10326405 JBS21J2509200 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION J POD Released
+Barnstable 5280331 MA21001801 JBS21J2509089 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Released
+Barnstable 3176738 MA21084049 JBS21J2509392 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Released
+Barnstable 2226458 MA10564275 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Released
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino Sentenced 7/2/25 EDUCATION M POD Participated
+Barnstable 2866318 MA10194604 HBS21H2509543 White Not Hispanic/Latino Sentenced 7/2/25 HARM REDUCTION L POD Participated
+Barnstable 5272585 MA21016374 HBS21H2408270 Black/African American Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Released
+Barnstable 1490149 MA10299446 JBS21J2508926 White Not Hispanic/Latino Sentenced 7/2/25 EDUCATION A POD Released
+Barnstable 5638053 MA21271282 JBS21J2508869 Black/African American Not Hispanic/Latino Sentenced 7/7/25 EDUCATION M POD Currently Enrolled
+Barnstable 1592304 MA09613912 HBS22H2509470 White Not Hispanic/Latino Sentenced 7/7/25 EDUCATION M POD Participated
+Barnstable 3107126 MA10412787 JBS21J2509228 White Not Hispanic/Latino Sentenced 7/7/25 EDUCATION M POD Currently Enrolled
+Barnstable 1592304 MA09613912 HBS22H2509470 White Not Hispanic/Latino Sentenced 7/8/25 MTTP M POD Currently Enrolled
+Barnstable 5638053 MA21271282 JBS21J2508869 Black/African American Not Hispanic/Latino Sentenced 7/8/25 MTTP M POD Currently Enrolled
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 7/8/25 MTTP M POD Currently Enrolled
+Barnstable 3107126 MA10412787 JBS21J2509228 White Not Hispanic/Latino Sentenced 7/8/25 MTTP M POD Currently Enrolled
+Barnstable 1552600 MA09116743 JBS21J2206051 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION J POD Participated
+Barnstable 2512568 MA10004201 JBS21J2407945 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION A POD Participated
+Barnstable 5608538 MA21102351 HBS21H2408298 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Participated
+Barnstable 2584381 MA10269469 HBS21H2509194 White Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Currently Enrolled
+Barnstable 353722 MA00735323 JBS21J2408711 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION M POD Participated
+Barnstable 2604052 MA10391741 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 5457755 MA21204622 JBS21J2509467 Black/African American Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 2866318 MA10194604 HBS21H2509543 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Participated
+Barnstable 5531600 MA21215952 JBS21J2509264 White Not Hispanic/Latino Pre-Trial 7/9/25 EDUCATION A POD Participated
+Barnstable 3071322 MA10536312 JBS21J2509475 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 5608715 MA21248859 JBS21J2508304 White Not Hispanic/Latino Pre-Trial 7/9/25 BOOK CLUB Currently Enrolled
+Barnstable 5689769 MA30008799 JBS21J2509571 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 5673821 MA30008912 JBS21J2509512 Black/African American Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 3166041 MA10532808 JBS21J2509573 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 2023807 MA09431602 JBS21J2509599 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 2512568 MA10004201 JBS21J2407945 White Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP A POD Participated
+Barnstable 3171847 MA10552582 JBS21J2508751 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP M POD Currently Enrolled
+Barnstable 2547626 MA10289349 JBS21J2509406 Black/African American Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 5608538 MA21102351 HBS21H2408298 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION A POD Currently Enrolled
+Barnstable 2680943 MA10129422 JBS21J2407963 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Participated
+Barnstable 5575610 MA21224520 JBS21J2307254 Black/African American Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP H POD Participated
+Barnstable 1086854 MA09225751 HBS21H2509319 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 562635 MA09015490 JBS21J2509232 Black/African American Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Participated
+Barnstable 562635 MA09015490 JBS21J2509232 Black/African American Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION A POD Currently Enrolled
+Barnstable 5540135 MA21278865 JBS21J2509595 White Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 5642540 MA21275883 JBS21J2407710 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION J POD Participated
+Barnstable 2046800 MA21007937 JBS21J2509609 White Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 5644878 MA21278358 JBS21J2407742 White Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP J POD Participated
+Barnstable 2661104 MA10067835 JBS21J2509600 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 1838931 MA09006035 HBS21H2408306 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION H POD Currently Enrolled
+Barnstable 3118853 MA30006587 JBS21J2509383 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Participated
+Barnstable 2046800 MA10059873 JBS21J2509607 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 2046800 MA10059873 JBS21J2509607 White Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP L POD Participated
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP M POD Participated
+Page 14 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 5596305 MA21086910 HBS21H2306611 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP H POD Participated
+Barnstable 5596305 MA21086910 HBS21H2306611 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION H POD Participated
+Barnstable 2129280 MA10020969 JBS21J2509148 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP J POD Participated
+Barnstable 5310040 MA10605460 JBS21J2509322 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 2680605 MA10298838 HBS21H2508939 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Participated
+Barnstable 3010148 MA10512018 JBS21J2509351 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Participated
+Barnstable 3176738 MA21084049 JBS21J2509392 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 504741 MA10512949 HBS22H2509487 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 5260525 MA10645051 HBS21H2509352 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Participated
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP M POD Released
+Barnstable 5592949 MA21290961 HBS21H2408087 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION J POD Participated
+Barnstable 3084171 MA10379452 JBS21J2509299 American Indian/Alaska Native Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Released
+Barnstable 3018705 MA10317084 JBS21J2407913 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Released
+Barnstable 571284 MA09016424 JBS21J2509396 Black/African American Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Released
+Barnstable 2903465 MA10398268 JBS21J2407360 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION C POD Participated
+Barnstable 2081067 MA09604989 JBS21J2408690 White Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP C POD Currently Enrolled
+Barnstable 2718474 MA10401646 HBS21H2509345 Black/African American Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Participated
+Barnstable 5171847 MA21169417 JBS21J2509086 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Currently Enrolled
+Barnstable 3011951 MA21172276 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 2293840 MA10426680 JBS21J2509474 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 5658579 MA21289204 HBS21H2508946 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Participated
+Barnstable 5488025 MA21293157 JBS21J2509610 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION A POD Participated
+Barnstable 1033098 MA09009193 JBS21J2509056 Black/African American Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION M POD Released
+Barnstable 5357946 MA21123813 HBS21H2509223 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 1758000 MA09922831 HBS21H2407611 Other/Unknown Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP M POD Participated
+Barnstable 2469325 MA10189677 JBS21J2509439 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 2953908 MA10352671 JBS21J2509388 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 2088951 MA10228575 JBS21J2509558 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 2088951 MA10228575 JBS21J2509558 White Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 5612058 MA21251426 JBS21J2407714 White Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP J POD Participated
+Barnstable 5673856 MA21300590 JBS21J2508737 White Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP C POD Currently Enrolled
+Barnstable 5673821 MA30008912 JBS21J2509512 Black/African American Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP L POD Participated
+Barnstable 3171847 MA10552582 JBS21J2508751 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION M POD Currently Enrolled
+Barnstable 2484837 MA10138936 JBS21J2509602 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 2518667 MA10032808 JBS21J2407609 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Participated
+Barnstable 2584381 MA10269469 HBS21H2509194 White Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Currently Enrolled
+Barnstable 5575610 MA21224520 JBS21J2307254 Black/African American Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION H POD Participated
+Barnstable 2380959 MA21061128 JBS21J2508990 White Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP J POD Participated
+Barnstable 3164073 MA21102497 JBS21J2509225 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Currently Enrolled
+Barnstable 3164073 MA21102497 JBS21J2509225 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Currently Enrolled
+Barnstable 5381021 MA21121517 JBS21J2509579 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Released
+Barnstable 3011951 MA21172276 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Released
+Barnstable 5351653 MA21159051 HBS22H2508928 Other/Unknown Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION A POD Released
+Barnstable 2293840 MA10426680 JBS21J2509474 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 1838931 MA09006035 HBS21H2408306 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP H POD Participated
+Barnstable 3118853 MA30006587 JBS21J2509383 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 2496006 MA09831831 JBS21J2407891 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Participated
+Barnstable 2496006 MA09831831 JBS21J2407891 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION A POD Currently Enrolled
+Barnstable 3007803 MA10508060 HBS21H2508755 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION H POD Currently Enrolled
+Barnstable 5525227 MA21216897 HBS21H2509082 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION M POD Participated
+Barnstable 1033098 MA09009193 JBS21J2509056 Black/African American Not Hispanic/Latino Pre-Trial 7/9/25 RECOVERY GROUP M POD Released
+Barnstable 3161492 MA10594648 JBS21J2509184 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 5357946 MA21123813 HBS21H2509223 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 2680605 MA10298838 HBS21H2508939 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 504741 MA10512949 HBS22H2509487 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 2810020 MA10192090 JBS21J2509524 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Released
+Barnstable 5600348 MA30003806 JBS21J2509230 White Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION H POD Participated
+Barnstable 3164739 MA21206801 HBS21H2509411 White Not Hispanic/Latino Sentenced 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 1490149 MA10299446 JBS21J2508926 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP A POD Released
+Barnstable 3018705 MA10317084 JBS21J2407913 White Not Hispanic/Latino Sentenced 7/9/25 RECOVERY GROUP L POD Released
+Barnstable 5690856 MA30009698 White Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable MA10610092 JBS21J2508943 White Hispanic/Latino Pre-Trial 7/9/25 EDUCATION A POD Participated
+Barnstable 5505863 MA21170543 JBS21J2509552 White Not Hispanic/Latino Pre-Trial 7/9/25 HARM REDUCTION L POD Participated
+Barnstable 3109826 MA10611365 JBS21J2407674 White Not Hispanic/Latino Sentenced 7/10/25 RECOVERY GROUP H POD Participated
+Barnstable 1977703 MA30009600 HBS21H2509545 White Not Hispanic/Latino Sentenced 7/10/25 HARM REDUCTION H POD Participated
+Barnstable 1977703 MA30009600 HBS21H2509545 White Not Hispanic/Latino Sentenced 7/10/25 RECOVERY GROUP H POD Participated
+Barnstable 5600348 MA30003806 JBS21J2509230 White Hispanic/Latino Sentenced 7/10/25 RECOVERY GROUP H POD Participated
+Barnstable 3062993 MA10414109 JBS21J2307157 White Not Hispanic/Latino Sentenced 7/10/25 RECOVERY GROUP H POD Released
+Barnstable 3062993 MA10414109 JBS21J2307157 White Not Hispanic/Latino Sentenced 7/10/25 HARM REDUCTION H POD Released
+Barnstable 3166041 MA10532808 JBS21J2509573 White Not Hispanic/Latino Pre-Trial 7/11/25 RECOVERY GROUP L POD Participated
+Barnstable 5608538 MA21102351 HBS21H2408298 White Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Participated
+Barnstable 5017321 MA10381847 HBS21H2509391 Black/African American Not Hispanic/Latino Sentenced 7/11/25 RECOVERY GROUP L POD Released
+Barnstable 5596305 MA21086910 HBS21H2306611 White Not Hispanic/Latino Sentenced 7/11/25 CBT H POD Released
+Barnstable 2064056 MA09902287 HBS21H2509327 White Not Hispanic/Latino Sentenced 7/11/25 RECOVERY GROUP L POD Released
+Barnstable 2810020 MA10192090 JBS21J2509524 White Not Hispanic/Latino Sentenced 7/11/25 RECOVERY GROUP L POD Released
+Barnstable 3062993 MA10414109 JBS21J2307157 White Not Hispanic/Latino Sentenced 7/11/25 EDUCATION H POD Released
+Barnstable 5689769 MA30008799 JBS21J2509571 White Not Hispanic/Latino Pre-Trial 7/11/25 RECOVERY GROUP L POD Participated
+Page 15 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 5624834 MA21285285 JBS21J2407784 Black/African American Not Hispanic/Latino Pre-Trial 7/11/25 EDU C POD GED TUTORING/IS Participated
+Barnstable 5624834 MA21285285 JBS21J2407784 Black/African American Not Hispanic/Latino Pre-Trial 7/11/25 EDUCATION C POD Participated
+Barnstable 3109826 MA10611365 JBS21J2407674 White Not Hispanic/Latino Sentenced 7/11/25 CBT H POD Currently Enrolled
+Barnstable 5658579 MA21289204 HBS21H2508946 White Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Currently Enrolled
+Barnstable 1838931 MA09006035 HBS21H2408306 White Not Hispanic/Latino Sentenced 7/11/25 CBT H POD Currently Enrolled
+Barnstable 2496006 MA09831831 JBS21J2407891 White Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Currently Enrolled
+Barnstable 2064056 MA09902287 HBS21H2509327 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Released
+Barnstable 5036817 MA10406838 JBS21J2509369 White Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Participated
+Barnstable 5375952 MA21077559 JBS21J2509554 White Not Hispanic/Latino Pre-Trial 7/11/25 CBT L POD Released
+Barnstable 2226458 MA10564275 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Released
+Barnstable 2226458 MA10564275 White Not Hispanic/Latino Sentenced 7/11/25 RECOVERY GROUP L POD Released
+Barnstable 2810020 MA10192090 JBS21J2509524 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Released
+Barnstable 5600348 MA30003806 JBS21J2509230 White Hispanic/Latino Sentenced 7/11/25 CBT H POD Released
+Barnstable 3164739 MA21206801 HBS21H2509411 White Not Hispanic/Latino Sentenced 7/11/25 RECOVERY GROUP L POD Participated
+Barnstable 3062993 MA10414109 JBS21J2307157 White Not Hispanic/Latino Sentenced 7/11/25 CBT H POD Released
+Barnstable 5505863 MA21170543 JBS21J2509552 White Not Hispanic/Latino Pre-Trial 7/11/25 RECOVERY GROUP L POD Released
+Barnstable 3085922 MA10374880 JBS21J2509129 Black/African American Not Hispanic/Latino Pre-Trial 7/11/25 EDU C POD GED TUTORING/IS Participated
+Barnstable 3118853 MA30006587 JBS21J2509383 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Participated
+Barnstable 1977703 MA30009600 HBS21H2509545 White Not Hispanic/Latino Sentenced 7/11/25 CBT H POD Released
+Barnstable 5605488 MA21258358 JBS21J2407574 White Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Released
+Barnstable 5237050 MA10623428 JBS21J2509619 Black/African American Not Hispanic/Latino Pre-Trial 7/11/25 RECOVERY GROUP L POD Released
+Barnstable 571284 MA09016424 JBS21J2509396 Black/African American Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Released
+Barnstable 2547626 MA10289349 JBS21J2509406 Black/African American Not Hispanic/Latino Sentenced 7/11/25 RECOVERY GROUP L POD Participated
+Barnstable 5575898 MA21224233 JBS21J2509362 Black/African American Not Hispanic/Latino Pre-Trial 7/11/25 EDUCATION C POD Released
+Barnstable 5575898 MA21224233 JBS21J2509362 Black/African American Not Hispanic/Latino Pre-Trial 7/11/25 CBT C POD Released
+Barnstable 2718474 MA10401646 HBS21H2509345 Black/African American Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Participated
+Barnstable 3164073 MA21102497 JBS21J2509225 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Currently Enrolled
+Barnstable 1086854 MA09225751 HBS21H2509319 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Released
+Barnstable 562635 MA09015490 JBS21J2509232 Black/African American Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Currently Enrolled
+Barnstable 5171847 MA21169417 JBS21J2509086 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Participated
+Barnstable 5351653 MA21159051 HBS22H2508928 Other/Unknown Hispanic/Latino Sentenced 7/11/25 CBT A POD Released
+Barnstable 3007803 MA10508060 HBS21H2508755 White Not Hispanic/Latino Sentenced 7/11/25 CBT H POD Currently Enrolled
+Barnstable 5357946 MA21123813 HBS21H2509223 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Released
+Barnstable 2604052 MA10391741 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Released
+Barnstable 5310040 MA10605460 JBS21J2509322 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Released
+Barnstable 2469325 MA10189677 JBS21J2509439 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Released
+Barnstable 3010148 MA10512018 JBS21J2509351 White Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Released
+Barnstable 5260525 MA10645051 HBS21H2509352 White Not Hispanic/Latino Sentenced 7/11/25 CBT A POD Participated
+Barnstable 2953908 MA10352671 JBS21J2509388 White Not Hispanic/Latino Sentenced 7/11/25 RECOVERY GROUP L POD Participated
+Barnstable 2866318 MA10194604 HBS21H2509543 White Not Hispanic/Latino Sentenced 7/11/25 CBT L POD Released
+Barnstable 3071322 MA10536312 JBS21J2509475 White Not Hispanic/Latino Sentenced 7/11/25 RECOVERY GROUP L POD Participated
+Barnstable 2686462 MA21290410 JBS21J2509532 White Not Hispanic/Latino Pre-Trial 7/11/25 CBT L POD Released
+Barnstable 5550920 MA21205869 JBS21J2509519 White Not Hispanic/Latino Pre-Trial 7/15/25 EDUCATION A POD Released
+Barnstable 5464883 MA21258825 JBS21J2509422 White Not Hispanic/Latino Pre-Trial 7/15/25 HARM REDUCTION A POD Currently Enrolled
+Barnstable 1918246 MA09766573 JBS21J2509606 White Not Hispanic/Latino Pre-Trial 7/15/25 HARM REDUCTION A POD Released
+Barnstable 2718474 MA10401646 HBS21H2509345 Black/African American Not Hispanic/Latino Sentenced 7/15/25 HARM REDUCTION A POD Released
+Barnstable 5658579 MA21289204 HBS21H2508946 White Not Hispanic/Latino Sentenced 7/15/25 HARM REDUCTION A POD Currently Enrolled
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 7/15/25 HARM REDUCTION A POD Released
+Barnstable 5260525 MA10645051 HBS21H2509352 White Not Hispanic/Latino Sentenced 7/15/25 HARM REDUCTION A POD Released
+Barnstable 2518667 MA10032808 JBS21J2407609 White Not Hispanic/Latino Sentenced 7/15/25 MTTP M POD Currently Enrolled
+Barnstable 2147518 MA09754937 JBS21J2509491 Black/African American Not Hispanic/Latino Sentenced 7/15/25 HARM REDUCTION A POD Released
+Barnstable 2886837 MA10454808 JBS21J2509617 White Hispanic/Latino Pre-Trial 7/15/25 HARM REDUCTION A POD Released
+Barnstable 2980256 MA10305283 JBS22J2509500 White Not Hispanic/Latino Pre-Trial 7/15/25 HARM REDUCTION A POD Released
+Barnstable 5036817 MA10406838 JBS21J2509369 White Not Hispanic/Latino Sentenced 7/15/25 HARM REDUCTION A POD Released
+Barnstable 5621087 MA21258073 JBS21J2509613 Black/African American Not Hispanic/Latino Pre-Trial 7/15/25 HARM REDUCTION A POD Released
+Barnstable 3010148 MA10512018 JBS21J2509351 White Not Hispanic/Latino Sentenced 7/15/25 HARM REDUCTION A POD Released
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 7/15/25 EDUCATION A POD Participated
+Barnstable 571284 MA09016424 JBS21J2509396 Black/African American Not Hispanic/Latino Sentenced 7/15/25 HARM REDUCTION A POD Released
+Barnstable 1592304 MA09613912 HBS22H2509470 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5533941 MA21194164 JBS21J2407524 White Hispanic/Latino Pre-Trial 7/16/25 EDUCATION J POD Participated
+Barnstable 3171847 MA10552582 JBS21J2508751 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 7/16/25 EDUCATION M POD Currently Enrolled
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 2518667 MA10032808 JBS21J2407609 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION M POD Participated
+Barnstable 3107126 MA10412787 JBS21J2509228 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5541675 MA21209094 JBS22J2509311 Black/African American Not Hispanic/Latino Pre-Trial 7/16/25 EDUCATION J POD Participated
+Barnstable 1033098 MA09009193 JBS21J2509056 Black/African American Not Hispanic/Latino Pre-Trial 7/16/25 EDUCATION J POD Participated
+Barnstable 437466 MA00844609 JBS2201805667 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 1758000 MA09922831 HBS21H2407611 Other/Unknown Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 3095196 MA10416752 JBS21J2206234 White Not Hispanic/Latino Pre-Trial 7/16/25 EDUCATION M POD Participated
+Barnstable 5642434 MA21276012 JBS21J2509611 White Not Hispanic/Latino Pre-Trial 7/16/25 EDUCATION M POD Participated
+Barnstable 353722 MA00735323 JBS21J2408711 White Not Hispanic/Latino Pre-Trial 7/16/25 EDUCATION J POD Participated
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 2756910 MA10103248 JBS2201805399 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 3095196 MA10416752 JBS21J2206234 White Not Hispanic/Latino Pre-Trial 7/16/25 EDUCATION J POD Participated
+Barnstable 928046 MA00958003 HBS21H2508997 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Page 16 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 5332377 MA21279558 HBS21H2408231 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5283982 MA21016687 JBS21J2508978 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5520528 MA21195444 HBS21H2508935 Black/African American Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5331705 MA21063796 HBS21H2508826 Black/African American Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5442380 MA21127016 HBS21H2306929 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5525227 MA21216897 HBS21H2509082 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5280331 MA21001801 JBS21J2509089 Black/African American Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5050398 MA10514778 JBS21J2407506 White Not Hispanic/Latino Sentenced 7/16/25 EDUCATION J POD Participated
+Barnstable 5308959 MA21044262 White Not Hispanic/Latino Pre-Trial 7/17/25 HARM REDUCTION C POD Released
+Barnstable 2081067 MA09604989 JBS21J2408690 White Not Hispanic/Latino Pre-Trial 7/17/25 HARM REDUCTION C POD Currently Enrolled
+Barnstable 2300525 MA09602691 JBS21J2509279 White Not Hispanic/Latino Pre-Trial 7/17/25 HARM REDUCTION C POD Released
+Barnstable 2760902 MA10286476 JBS21J2508733 White Not Hispanic/Latino Pre-Trial 7/17/25 HARM REDUCTION C POD Participated
+Barnstable 3150398 MA21137193 JBS21J2509413 White Not Hispanic/Latino Pre-Trial 7/17/25 HARM REDUCTION C POD Released
+Barnstable 1530955 MA10651802 White Not Hispanic/Latino Pre-Trial 7/17/25 HARM REDUCTION C POD Released
+Barnstable 5099903 MA10468765 JBS21J2509632 White Not Hispanic/Latino Pre-Trial 7/18/25 RECOVERY GROUP L POD Released
+Barnstable 5350896 MA10130046 HBS21H2509616 White Hispanic/Latino Sentenced 7/18/25 RECOVERY GROUP L POD Participated
+Barnstable 2375152 MA10452041 White Not Hispanic/Latino Sentenced 7/18/25 RECOVERY GROUP L POD Released
+Barnstable 3005317 MA10284111 HBS21H2509615 White Not Hispanic/Latino Sentenced 7/18/25 RECOVERY GROUP L POD Released
+Barnstable 2293840 MA10426680 JBS21J2509474 White Not Hispanic/Latino Sentenced 7/21/25 HARM REDUCTION J POD Released
+Barnstable 2293840 MA10426680 JBS21J2509474 White Not Hispanic/Latino Sentenced 7/22/25 RECOVERY GROUP J POD Released
+Barnstable 5017321 MA10381847 HBS21H2509391 Black/African American Not Hispanic/Latino Sentenced 7/23/25 HARM REDUCTION L POD Participated
+Barnstable 3018864 MA10291212 JBS21J2509639 Black/African American Not Hispanic/Latino Pre-Trial 7/23/25 HARM REDUCTION L POD Participated
+Barnstable 2755572 MA10290726 JBS21J2509591 White Not Hispanic/Latino Pre-Trial 7/23/25 HARM REDUCTION L POD Released
+Barnstable 1112067 MA09600677 JBS21J2509650 White Not Hispanic/Latino Pre-Trial 7/23/25 CBT A POD Currently Enrolled
+Barnstable 5099903 MA10468765 JBS21J2509632 White Not Hispanic/Latino Pre-Trial 7/23/25 HARM REDUCTION L POD Participated
+Barnstable 1086854 MA09225751 HBS21H2509319 White Not Hispanic/Latino Sentenced 7/23/25 WTTP E POD Released
+Barnstable 5193580 MA10574481 White Not Hispanic/Latino Pre-Trial 7/23/25 HARM REDUCTION L POD Participated
+Barnstable 5237050 MA10623428 JBS21J2509619 Black/African American Not Hispanic/Latino Pre-Trial 7/23/25 HARM REDUCTION L POD Released
+Barnstable 2512568 MA10004201 JBS21J2407945 White Not Hispanic/Latino Pre-Trial 7/23/25 CBT A POD Currently Enrolled
+Barnstable 5235110 MA10621566 JBS21J2509550 White Not Hispanic/Latino Pre-Trial 7/23/25 HARM REDUCTION L POD Participated
+Barnstable 5266248 MA10650666 JBS21J2509237 White Not Hispanic/Latino Sentenced 7/23/25 HARM REDUCTION L POD Participated
+Barnstable 3071735 MA10600730 JBS21J2509466 White Not Hispanic/Latino Pre-Trial 7/23/25 WTTP E POD Released
+Barnstable 2293840 MA10426680 JBS21J2509474 White Not Hispanic/Latino Sentenced 7/23/25 WTTP E POD Released
+Barnstable 5163143 MA30010871 JBS21J2509627 Black/African American Not Hispanic/Latino Pre-Trial 7/23/25 HARM REDUCTION L POD Participated
+Barnstable 3118853 MA30006587 JBS21J2509383 White Not Hispanic/Latino Sentenced 7/23/25 WTTP E POD Currently Enrolled
+Barnstable 5350896 MA10130046 HBS21H2509616 White Hispanic/Latino Sentenced 7/23/25 HARM REDUCTION L POD Participated
+Barnstable 2375152 MA10452041 White Not Hispanic/Latino Sentenced 7/23/25 HARM REDUCTION L POD Released
+Barnstable 3071322 MA10536312 JBS21J2509475 White Not Hispanic/Latino Sentenced 7/23/25 WTTP E POD Released
+Barnstable 3071735 MA10600730 JBS21J2509466 White Not Hispanic/Latino Pre-Trial 7/24/25 EDUCATION J POD Released
+Barnstable 2547626 MA10289349 JBS21J2509406 Black/African American Not Hispanic/Latino Sentenced 7/24/25 CBT L POD Released
+Barnstable 5575610 MA21224520 JBS21J2307254 Black/African American Not Hispanic/Latino Sentenced 7/24/25 CBT H POD Currently Enrolled
+Barnstable 5350896 MA10130046 HBS21H2509616 White Hispanic/Latino Sentenced 7/24/25 CBT L POD Participated
+Barnstable 3071322 MA10536312 JBS21J2509475 White Not Hispanic/Latino Sentenced 7/24/25 EDUCATION J POD Released
+Barnstable 607715 MA09211452 HBS21H2509478 White Not Hispanic/Latino Sentenced 7/24/25 CBT L POD Participated
+Barnstable 3118853 MA30006587 JBS21J2509383 White Not Hispanic/Latino Sentenced 7/24/25 EDUCATION J POD Participated
+Barnstable 2147518 MA09754937 JBS21J2509491 Black/African American Not Hispanic/Latino Sentenced 7/25/25 CBT A POD Released
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Sentenced 7/25/25 CBT A POD Participated
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino Sentenced 7/25/25 CBT A POD Currently Enrolled
+Barnstable 2680605 MA10298838 HBS21H2508939 White Not Hispanic/Latino Sentenced 7/25/25 EDUCATION J POD GED TUTORING Released
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 7/25/25 CBT A POD Released
+Barnstable 375816 MA09911259 HBS21H2509664 White Not Hispanic/Latino Sentenced 7/25/25 CBT A POD Released
+Barnstable 1490149 MA10299446 JBS21J2508926 White Not Hispanic/Latino Sentenced 7/29/25 HARM REDUCTION A POD Released
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Sentenced 7/29/25 HARM REDUCTION A POD Currently Enrolled
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino Sentenced 7/29/25 HARM REDUCTION A POD Currently Enrolled
+Barnstable 5605488 MA21258358 JBS21J2407574 White Not Hispanic/Latino Sentenced 7/29/25 HARM REDUCTION A POD Released
+Barnstable 3180095 MA10615532 JBS21J2509698 White Not Hispanic/Latino Pre-Trial 7/30/25 HARM REDUCTION L POD Participated
+Barnstable 3071735 MA10600730 JBS21J2509466 White Not Hispanic/Latino Pre-Trial 7/31/25 EDUCATION J POD GED TUTORING Released
+Barnstable 5608715 MA21248859 JBS21J2508304 White Not Hispanic/Latino Pre-Trial 7/31/25 RECOVERY GROUP J POD Participated
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Sentenced 7/31/25 EDUCATION A POD Participated
+Barnstable 2375152 MA10452041 White Not Hispanic/Latino Sentenced 7/31/25 CBT L POD Released
+Barnstable 3164739 MA21206801 HBS21H2509411 White Not Hispanic/Latino Sentenced 7/31/25 CBT L POD Participated
+Barnstable 5266248 MA10650666 JBS21J2509237 White Not Hispanic/Latino Sentenced 7/31/25 CBT L POD Released
+Barnstable 5017321 MA10381847 HBS21H2509391 Black/African American Not Hispanic/Latino Sentenced 7/31/25 CBT L POD Released
+Barnstable 2238853 MA10387162 JBS21J2509522 White Not Hispanic/Latino Sentenced 7/31/25 CBT L POD Released
+Barnstable 5673821 MA30008912 JBS21J2509512 Black/African American Not Hispanic/Latino Pre-Trial 7/31/25 CBT L POD Participated
+Barnstable 2584381 MA10269469 HBS21H2509194 White Hispanic/Latino Sentenced 7/31/25 CBT L POD Currently Enrolled
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino Sentenced 7/31/25 EDUCATION A POD Participated
+Barnstable 5386883 MA21082764 HBS21H2509672 White Not Hispanic/Latino Sentenced 7/31/25 CBT L POD Released
+Barnstable 2968544 MA10242565 JBS21J2509709 White Not Hispanic/Latino Pre-Trial 8/1/25 CBT A POD Participated
+Barnstable 437466 MA00844609 JBS2201805667 White Not Hispanic/Latino Sentenced 8/4/25 EDUCATION M POD MONDAY GED/IS Released
+Barnstable 5283982 MA21016687 JBS21J2508978 White Not Hispanic/Latino Sentenced 8/4/25 EDUCATION M POD MONDAY GED/IS Participated
+Barnstable MA10610092 JBS21J2508943 White Hispanic/Latino Pre-Trial 8/4/25 EDUCATION A POD PRETRIAL Released
+Barnstable 5642434 MA21276012 JBS21J2509611 White Not Hispanic/Latino Pre-Trial 8/4/25 EDUCATION M POD MONDAY GED/IS Released
+Barnstable 5634789 MA21268998 HBS21H2407965 Black/African American Not Hispanic/Latino Sentenced 8/4/25 EDUCATION M POD MONDAY GED/IS Participated
+Barnstable 2806935 MA10126585 JBS21J2509370 White Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED GED/IS Released
+Barnstable 2866318 MA10194604 HBS21H2509543 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Participated
+Page 17 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 2473456 MA10362973 JBS21J2509703 White Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Released
+Barnstable 3018705 MA10317084 JBS21J2407913 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Released
+Barnstable 2547626 MA10289349 JBS21J2509406 Black/African American Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED GED/IS Participated
+Barnstable 5017321 MA10381847 HBS21H2509391 Black/African American Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED GED/IS Released
+Barnstable 2238853 MA10387162 JBS21J2509522 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Released
+Barnstable 607715 MA09211452 HBS21H2509478 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Participated
+Barnstable 5350896 MA10130046 HBS21H2509616 White Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED GED/IS Participated
+Barnstable 5357946 MA21123813 HBS21H2509223 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Released
+Barnstable 2064056 MA09902287 HBS21H2509327 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Released
+Barnstable 3164073 MA21102497 JBS21J2509225 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Participated
+Barnstable 2375152 MA10452041 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Released
+Barnstable 5608538 MA21102351 HBS21H2408298 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION A POD SENTENCED Participated
+Barnstable 5266248 MA10650666 JBS21J2509237 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Participated
+Barnstable 2806935 MA10126585 JBS21J2509370 White Hispanic/Latino Sentenced 8/5/25 CBT L POD Released
+Barnstable 2953908 MA10352671 JBS21J2509388 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Participated
+Barnstable 2953908 MA10352671 JBS21J2509388 White Not Hispanic/Latino Sentenced 8/5/25 CBT L POD Participated
+Barnstable 3164739 MA21206801 HBS21H2509411 White Not Hispanic/Latino Sentenced 8/5/25 EDUCATION L POD SENTENCED Participated
+Barnstable 3018705 MA10317084 JBS21J2407913 White Not Hispanic/Latino Sentenced 8/5/25 CBT L POD Released
+Barnstable 5520528 MA21195444 HBS21H2508935 Black/African American Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 1033098 MA09009193 JBS21J2509056 Black/African American Not Hispanic/Latino Pre-Trial 8/6/25 EDUCATION M POD WEDNESDAY Released
+Barnstable 1758000 MA09922831 HBS21H2407611 Other/Unknown Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY GED/IS Released
+Barnstable 5650164 MA21286410 JBS21J2408649 White Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Released
+Barnstable 5298553 MA21069781 JBS21J2408128 Black/African American Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 353722 MA00735323 JBS21J2408711 White Not Hispanic/Latino Pre-Trial 8/6/25 EDUCATION M POD WEDNESDAY Released
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5525227 MA21216897 HBS21H2509082 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5541675 MA21209094 JBS22J2509311 Black/African American Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 2518667 MA10032808 JBS21J2407609 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 5638053 MA21271282 JBS21J2508869 Black/African American Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 3107126 MA10412787 JBS21J2509228 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5331705 MA21063796 HBS21H2508826 Black/African American Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 5050398 MA10514778 JBS21J2407506 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Released
+Barnstable 3095196 MA10416752 JBS21J2206234 White Not Hispanic/Latino Pre-Trial 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5642434 MA21276012 JBS21J2509611 White Not Hispanic/Latino Pre-Trial 8/6/25 EDUCATION M POD WEDNESDAY GED/IS Released
+Barnstable 5533941 MA21194164 JBS21J2407524 White Hispanic/Latino Pre-Trial 8/6/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 3171847 MA10552582 JBS21J2508751 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5332377 MA21279558 HBS21H2408231 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5283982 MA21016687 JBS21J2508978 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 1592304 MA09613912 HBS22H2509470 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD MONDAY GED/IS Currently Enrolled
+Barnstable 687688 MA00958580 TBS21T2407570 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5442380 MA21127016 HBS21H2306929 White Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 3090828 MA10462391 HBS21H2408458 Black/African American Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 5634789 MA21268998 HBS21H2407965 Black/African American Not Hispanic/Latino Sentenced 8/6/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 5171847 MA21169417 JBS21J2509086 White Not Hispanic/Latino Sentenced 8/7/25 EDUCATION D POD Participated
+Barnstable 3154419 MA10550086 JBS21J2509485 Black/African American Not Hispanic/Latino Pre-Trial 8/7/25 HARM REDUCTION L POD Currently Enrolled
+Barnstable 3071322 MA10536312 JBS21J2509475 White Not Hispanic/Latino Sentenced 8/7/25 EDUCATION J POD GED TUTORING Participated
+Barnstable 5292770 MA21012909 TBS21T2509735 White Not Hispanic/Latino Pre-Trial 8/7/25 HARM REDUCTION L POD Participated
+Barnstable 5529814 MA21296368 JBS21J2509740 White Not Hispanic/Latino Pre-Trial 8/7/25 HARM REDUCTION L POD Participated
+Barnstable 2147518 MA09754937 JBS21J2509491 Black/African American Not Hispanic/Latino Sentenced 8/7/25 RECOVERY GROUP A POD Participated
+Barnstable 5036817 MA10406838 JBS21J2509369 White Not Hispanic/Latino Sentenced 8/7/25 RECOVERY GROUP A POD Participated
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 8/7/25 RECOVERY GROUP A POD Participated
+Barnstable 5248239 MA10660398 JBS21J2509726 White Not Hispanic/Latino Pre-Trial 8/7/25 HARM REDUCTION L POD Released
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Sentenced 8/7/25 RECOVERY GROUP A POD Participated
+Barnstable 2157776 MA09438216 JBS21J2509706 White Not Hispanic/Latino Sentenced 8/7/25 RECOVERY GROUP A POD Participated
+Barnstable 5556931 MA21243277 JBS21J2509722 Black/African American Not Hispanic/Latino Pre-Trial 8/7/25 HARM REDUCTION L POD Participated
+Barnstable 2824393 MA10496361 JBS22J2509751 Black/African American Hispanic/Latino Pre-Trial 8/7/25 HARM REDUCTION L POD Participated
+Barnstable 3118853 MA30006587 JBS21J2509383 White Not Hispanic/Latino Sentenced 8/7/25 EDUCATION J POD GED TUTORING Currently Enrolled
+Barnstable 5343744 MA21171850 JBS21J2408436 Black/African American Not Hispanic/Latino Sentenced 8/7/25 RECOVERY GROUP A POD Participated
+Barnstable 5457755 MA21204622 JBS21J2509467 Black/African American Not Hispanic/Latino Sentenced 8/7/25 EDUCATION D POD Released
+Barnstable 5626219 MA21289566 JBS21J2509390 White Not Hispanic/Latino Sentenced 8/7/25 RECOVERY GROUP A POD Released
+Barnstable 2473456 MA10362973 JBS21J2509703 White Hispanic/Latino Sentenced 8/7/25 HARM REDUCTION L POD Released
+Barnstable 3180095 MA10615532 JBS21J2509698 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Participated
+Barnstable 3022210 MA21099667 JBS21J2509420 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Released
+Barnstable MA30003672 JBS22J2509221 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Participated
+Barnstable 3151853 MA21043306 JBS21J2408543 White Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Participated
+Barnstable 3166041 MA10532808 JBS21J2509573 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD GED TUTORING/IS Released
+Barnstable 5266650 MA21024495 JBS21J2509511 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD GED TUTORING/IS Participated
+Barnstable 2590524 MA21273900 JBS21J2509438 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD GED TUTORING/IS Participated
+Barnstable 5434055 MA21138563 JBS21J2408611 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION J POD GED TUTORING Participated
+Barnstable 5375952 MA21077559 JBS21J2509554 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Participated
+Barnstable 5375952 MA21077559 JBS21J2509554 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD GED TUTORING/IS Participated
+Barnstable 1643598 MA10236849 JBS21J2509714 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Participated
+Barnstable 5237050 MA10623428 JBS21J2509619 Black/African American Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Released
+Barnstable 3003866 MA10279826 JBS21J2509578 Black/African American Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION A POD PRETRIAL Participated
+Barnstable 3051594 MA10507278 JBS21J2509226 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Participated
+Barnstable 3195616 MA21105639 JBS21J2509408 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Participated
+Page 18 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 2849722 MA10468015 JBS22J2509292 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD GED TUTORING/IS Participated
+Barnstable 1839197 MA09226228 JBS22J2509459 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Participated
+Barnstable 2902086 MA10216617 JBS22J2509303 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD GED TUTORING/IS Released
+Barnstable 5141733 MA10527044 JBS21J2509555 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD GED TUTORING/IS Participated
+Barnstable 5477058 MA30003225 JBS22J2509541 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Released
+Barnstable 2046800 MA10059873 JBS21J2509607 White Not Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD Released
+Barnstable 2593229 MA10149779 JBS21J2509508 White Hispanic/Latino Pre-Trial 8/8/25 EDUCATION K POD GED TUTORING/IS Released
+Barnstable 5533719 MA21211929 JBS21J2408379 Black/African American Not Hispanic/Latino Pre-Trial 8/11/25 EDUCATION H POD GED TUTORING Participated
+Barnstable 2157776 MA09438216 JBS21J2509706 White Not Hispanic/Latino Sentenced 8/11/25 CBT A POD Released
+Barnstable 5434055 MA21138563 JBS21J2408611 White Not Hispanic/Latino Pre-Trial 8/11/25 WTTP E POD Participated
+Barnstable 5676890 MA21302942 JBS21J2508846 White Hispanic/Latino Pre-Trial 8/11/25 EDUCATION H POD GED TUTORING Released
+Barnstable 1592304 MA09613912 HBS22H2509470 White Not Hispanic/Latino Sentenced 8/13/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 2953908 MA10352671 JBS21J2509388 White Not Hispanic/Latino Sentenced 8/15/25 WTTP E POD Released
+Barnstable 2108770 MA09745839 JBS21J2408713 Black/African American Not Hispanic/Latino Pre-Trial 8/15/25 CBT C POD Currently Enrolled
+Barnstable 2866318 MA10194604 HBS21H2509543 White Not Hispanic/Latino Sentenced 8/15/25 WTTP E POD Released
+Barnstable 3186469 MA21017211 HBS21H2509053 White Not Hispanic/Latino Sentenced 8/15/25 WTTP E POD Currently Enrolled
+Barnstable 5266248 MA10650666 JBS21J2509237 White Not Hispanic/Latino Sentenced 8/18/25 HARM REDUCTION J POD Released
+Barnstable 2866318 MA10194604 HBS21H2509543 White Not Hispanic/Latino Sentenced 8/18/25 HARM REDUCTION J POD Released
+Barnstable 2709889 MA10074451 White Not Hispanic/Latino Sentenced 8/18/25 EDUCATION A POD SENTENCED Participated
+Barnstable 3186469 MA21017211 HBS21H2509053 White Not Hispanic/Latino Sentenced 8/18/25 HARM REDUCTION J POD Currently Enrolled
+Barnstable 2680943 MA10129422 JBS21J2407963 White Not Hispanic/Latino Sentenced 8/18/25 EDUCATION L POD SENTENCED Participated
+Barnstable 2584381 MA10269469 HBS21H2509194 White Hispanic/Latino Sentenced 8/19/25 EDUCATION L POD SENTENCED Participated
+Barnstable 3186469 MA21017211 HBS21H2509053 White Not Hispanic/Latino Sentenced 8/19/25 EDUCATION J POD GED TUTORING Currently Enrolled
+Barnstable 521952 MA10276387 JBS21J2509457 White Not Hispanic/Latino Sentenced 8/19/25 EDUCATION L POD SENTENCED Participated
+Barnstable 5525227 MA21216897 HBS21H2509082 White Not Hispanic/Latino Sentenced 8/19/25 CCCC Freshman Seminar Participated
+Barnstable 5541675 MA21209094 JBS22J2509311 Black/African American Not Hispanic/Latino Sentenced 8/19/25 CCCC Freshman Seminar Participated
+Barnstable 5036817 MA10406838 JBS21J2509369 White Not Hispanic/Latino Sentenced 8/19/25 MTTP M POD Released
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 8/19/25 MTTP M POD Released
+Barnstable MA21303907 JBS21J2508907 White Not Hispanic/Latino Pre-Trial 8/19/25 CCCC Freshman Seminar Participated
+Barnstable 5525573 MA21186409 JBS21J2407410 Black/African American Not Hispanic/Latino Pre-Trial 8/19/25 CCCC Freshman Seminar Participated
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 8/19/25 CCCC Freshman Seminar Participated
+Barnstable 5556931 MA21243277 JBS21J2509722 Black/African American Not Hispanic/Latino Pre-Trial 8/19/25 EDUCATION K POD Participated
+Barnstable 5198337 MA10579631 JBS21J2509580 White Not Hispanic/Latino Sentenced 8/19/25 EDUCATION L POD SENTENCED Released
+Barnstable 2547626 MA10289349 JBS21J2509406 Black/African American Not Hispanic/Latino Sentenced 8/19/25 WTTP E POD Released
+Barnstable 2718474 MA10401646 HBS21H2509345 Black/African American Not Hispanic/Latino Sentenced 8/19/25 MTTP M POD Participated
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Sentenced 8/19/25 MTTP M POD Currently Enrolled
+Barnstable 3095196 MA10416752 JBS21J2206234 White Not Hispanic/Latino Pre-Trial 8/19/25 CCCC Freshman Seminar Participated
+Barnstable 2547626 MA10289349 JBS21J2509406 Black/African American Not Hispanic/Latino Sentenced 8/19/25 EDUCATION J POD GED TUTORING Released
+Barnstable 5266248 MA10650666 JBS21J2509237 White Not Hispanic/Latino Sentenced 8/19/25 EDUCATION J POD Released
+Barnstable 2147518 MA09754937 JBS21J2509491 Black/African American Not Hispanic/Latino Sentenced 8/19/25 MTTP M POD Released
+Barnstable 5141733 MA10527044 JBS21J2509555 White Not Hispanic/Latino Sentenced 8/19/25 WTTP E POD Currently Enrolled
+Barnstable 353722 MA00735323 JBS21J2408711 White Not Hispanic/Latino Pre-Trial 8/19/25 CCCC Freshman Seminar Participated
+Barnstable 5350896 MA10130046 HBS21H2509616 White Hispanic/Latino Sentenced 8/19/25 EDUCATION L POD SENTENCED Participated
+Barnstable 3010148 MA10512018 JBS21J2509351 White Not Hispanic/Latino Sentenced 8/19/25 MTTP M POD Released
+Barnstable 2953908 MA10352671 JBS21J2509388 White Not Hispanic/Latino Sentenced 8/19/25 EDUCATION J POD Participated
+Barnstable 2866318 MA10194604 HBS21H2509543 White Not Hispanic/Latino Sentenced 8/19/25 EDUCATION J POD Released
+Barnstable 2147518 MA09754937 JBS21J2509491 Black/African American Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5036817 MA10406838 JBS21J2509369 White Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 2760902 MA10286476 JBS21J2508733 White Not Hispanic/Latino Pre-Trial 8/20/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 2718474 MA10401646 HBS21H2509345 Black/African American Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD MONDAY Participated
+Barnstable 5036817 MA10406838 JBS21J2509369 White Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD MONDAY Released
+Barnstable 2760902 MA10286476 JBS21J2508733 White Not Hispanic/Latino Pre-Trial 8/20/25 EDUCATION M POD MONDAY Participated
+Barnstable 2718474 MA10401646 HBS21H2509345 Black/African American Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD WEDNESDAY GED/IS Released
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD MONDAY Participated
+Barnstable 2147518 MA09754937 JBS21J2509491 Black/African American Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD MONDAY Participated
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD MONDAY GED/IS Released
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 8/20/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5612058 MA21251426 JBS21J2407714 White Not Hispanic/Latino Pre-Trial 8/21/25 EDUCATION K POD Participated
+Barnstable 5443925 MA21126085 JBS21J2509721 White Not Hispanic/Latino Pre-Trial 8/21/25 EDUCATION K POD Released
+Barnstable 2082273 MA10282328 JBS22J2509747 White Not Hispanic/Latino Pre-Trial 8/21/25 EDUCATION K POD Participated
+Barnstable 5171847 MA21169417 JBS21J2509086 White Not Hispanic/Latino Sentenced 8/21/25 EDUCATION L POD SENTENCED Participated
+Barnstable 5141733 MA10527044 JBS21J2509555 White Not Hispanic/Latino Sentenced 8/21/25 EDUCATION J POD Currently Enrolled
+Barnstable 2519464 MA10577115 JBS21J2509746 White Not Hispanic/Latino Pre-Trial 8/22/25 EDUCATION K POD Released
+Barnstable 5375952 MA21077559 JBS21J2509554 White Not Hispanic/Latino Sentenced 8/22/25 EDUCATION L POD SENTENCED Released
+Barnstable 3183093 MA21067554 JBS21J2509665 White Not Hispanic/Latino Pre-Trial 8/22/25 CBT C POD Currently Enrolled
+Barnstable 3136140 MA10499167 JBS21J2509748 White Not Hispanic/Latino Pre-Trial 8/22/25 CBT C POD Released
+Barnstable 3010148 MA10512018 JBS21J2509351 White Not Hispanic/Latino Sentenced 8/25/25 EDUCATION M POD MONDAY Released
+Barnstable 2218242 MA10096420 JBS21J2509565 Black/African American Not Hispanic/Latino Sentenced 8/25/25 EDUCATION M POD MONDAY Released
+Barnstable 1917962 MA09907006 White Not Hispanic/Latino Sentenced 8/25/25 EDUCATION H POD Released
+Barnstable 687688 MA00958580 TBS21T2407570 White Not Hispanic/Latino Sentenced 8/26/25 HARM REDUCTION M POD Currently Enrolled
+Barnstable 1263540 MA09120895 JBS21J2509779 White Not Hispanic/Latino Sentenced 8/26/25 EDUCATION A POD SENTENCED Participated
+Barnstable 5141733 MA10527044 JBS21J2509555 White Not Hispanic/Latino Sentenced 8/26/25 RECOVERY GROUP J POD Participated
+Barnstable 2806935 MA10126585 JBS21J2509370 White Hispanic/Latino Sentenced 8/26/25 EDUCATION L POD SENTENCED Participated
+Barnstable 5017321 MA10381847 HBS21H2509847 Black/African American Not Hispanic/Latino Sentenced 8/26/25 EDUCATION L POD SENTENCED GED/IS Participated
+Barnstable 5667661 MA21295963 JBS21J2509809 White Not Hispanic/Latino Sentenced 8/26/25 EDUCATION L POD SENTENCED Participated
+Page 19 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 2157776 MA09438216 JBS21J2509706 White Not Hispanic/Latino Sentenced 8/26/25 EDUCATION A POD SENTENCED Participated
+Barnstable 5332377 MA21279558 HBS21H2408231 White Not Hispanic/Latino Sentenced 8/26/25 HARM REDUCTION M POD Participated
+Barnstable 5354108 MA21089892 HBS21H2509734 Black/African American Not Hispanic/Latino Sentenced 8/26/25 EDUCATION A POD SENTENCED Participated
+Barnstable 1978688 MA09301054 HBS21H2408463 Black/African American Not Hispanic/Latino Sentenced 8/26/25 HARM REDUCTION M POD Currently Enrolled
+Barnstable 3118853 MA30006587 JBS21J2509383 White Not Hispanic/Latino Sentenced 8/26/25 EDUCATION D POD Participated
+Barnstable 1643598 MA10236849 JBS21J2509714 White Not Hispanic/Latino Sentenced 8/26/25 EDUCATION D POD Participated
+Barnstable 607715 MA09211452 HBS21H2509478 White Not Hispanic/Latino Sentenced 8/27/25 RECOVERY GROUP L POD Participated
+Barnstable 5248239 MA10660398 JBS21J2509824 White Not Hispanic/Latino Pre-Trial 8/27/25 HARM REDUCTION L POD Participated
+Barnstable 5581553 MA21228101 JBS21J2509762 White Not Hispanic/Latino Sentenced 8/27/25 RECOVERY GROUP L POD Released
+Barnstable 5198337 MA10579631 JBS21J2509580 White Not Hispanic/Latino Sentenced 8/27/25 RECOVERY GROUP L POD Participated
+Barnstable 5667661 MA21295963 JBS21J2509809 White Not Hispanic/Latino Sentenced 8/27/25 RECOVERY GROUP L POD Released
+Barnstable 5695208 MA30013427 JBS21J2509803 White Not Hispanic/Latino Pre-Trial 8/27/25 HARM REDUCTION L POD Participated
+Barnstable 2990409 MA10278801 JBS21J2509808 White Not Hispanic/Latino Pre-Trial 8/27/25 HARM REDUCTION L POD Participated
+Barnstable 5642434 MA21276012 JBS21J2509611 White Not Hispanic/Latino Pre-Trial 8/28/25 MTTP M POD Released
+Barnstable 1917962 MA09907006 White Not Hispanic/Latino Sentenced 8/28/25 CBT H POD Released
+Barnstable 5198337 MA10579631 JBS21J2509580 White Not Hispanic/Latino Sentenced 8/29/25 CBT L POD Released
+Barnstable 2680943 MA10129422 JBS21J2407963 White Not Hispanic/Latino Sentenced 8/29/25 CBT L POD Participated
+Barnstable 521952 MA10276387 JBS21J2509457 White Not Hispanic/Latino Sentenced 8/29/25 CBT L POD Participated
+Barnstable 5017321 MA10381847 HBS21H2509847 Black/African American Not Hispanic/Latino Sentenced 8/29/25 CBT L POD Released
+Barnstable 5458929 MA21289156 JBS21J2509846 White Not Hispanic/Latino Sentenced 9/2/25 EDUCATION L POD SENTENCED Participated
+Barnstable 2746915 MA10096152 JBS21J2509813 White Not Hispanic/Latino Pre-Trial 9/2/25 RECOVERY GROUP A POD Participated
+Barnstable 5581553 MA21228101 JBS21J2509762 White Not Hispanic/Latino Sentenced 9/2/25 EDUCATION L POD SENTENCED Released
+Barnstable 2806935 MA10126585 JBS21J2509370 White Hispanic/Latino Sentenced 9/2/25 RECOVERY GROUP L POD Released
+Barnstable 5017321 MA10381847 HBS21H2509847 Black/African American Not Hispanic/Latino Sentenced 9/2/25 RECOVERY GROUP L POD Released
+Barnstable 5386883 MA21082764 HBS21H2509672 White Not Hispanic/Latino Sentenced 9/2/25 RECOVERY GROUP L POD Released
+Barnstable 3063791 MA10326405 JBS21J2509883 White Not Hispanic/Latino Pre-Trial 9/2/25 RECOVERY GROUP J POD Released
+Barnstable 521952 MA10276387 JBS21J2509457 White Not Hispanic/Latino Sentenced 9/3/25 HARM REDUCTION L POD Participated
+Barnstable 5458929 MA21289156 JBS21J2509846 White Not Hispanic/Latino Sentenced 9/3/25 HARM REDUCTION L POD Participated
+Barnstable 3181147 MA10621617 HBS21H2509869 Black/African American Not Hispanic/Latino Sentenced 9/3/25 CBT H POD Currently Enrolled
+Barnstable 5668684 MA21296561 JBS22J2408473 American Indian/Alaska Native Not Hispanic/Latino Pre-Trial 9/3/25 MTTP M POD Currently Enrolled
+Barnstable 5581553 MA21228101 JBS21J2509762 White Not Hispanic/Latino Sentenced 9/3/25 HARM REDUCTION L POD Participated
+Barnstable 5017321 MA10381847 HBS21H2509847 Black/African American Not Hispanic/Latino Sentenced 9/3/25 HARM REDUCTION L POD Released
+Barnstable 1643598 MA10236849 JBS21J2509714 White Not Hispanic/Latino Sentenced 9/3/25 HARM REDUCTION L POD Participated
+Barnstable 5667661 MA21295963 JBS21J2509809 White Not Hispanic/Latino Sentenced 9/3/25 HARM REDUCTION L POD Participated
+Barnstable 1643598 MA10236849 JBS21J2509714 White Not Hispanic/Latino Sentenced 9/5/25 EDUCATION L POD SENTENCED Participated
+Barnstable MA30007060 JBS21J2509409 White Hispanic/Latino Sentenced 9/5/25 CBT A POD Currently Enrolled
+Barnstable 3181147 MA10621617 HBS21H2509869 Black/African American Not Hispanic/Latino Sentenced 9/5/25 EDUCATION H POD Participated
+Barnstable 1263540 MA09120895 JBS21J2509779 White Not Hispanic/Latino Sentenced 9/5/25 CBT A POD Released
+Barnstable 3063791 MA10326405 JBS21J2509883 White Not Hispanic/Latino Pre-Trial 9/5/25 EDUCATION J POD Released
+Barnstable 5440049 MA21126833 JBS21J2509683 White Not Hispanic/Latino Pre-Trial 9/8/25 RECOVERY GROUP C POD Currently Enrolled
+Barnstable 5648799 MA21281601 JBS21J2509766 White Not Hispanic/Latino Pre-Trial 9/8/25 EDUCATION K POD Participated
+Barnstable 3155435 MA21271440 JBS22J2509790 White Not Hispanic/Latino Pre-Trial 9/8/25 EDUCATION K POD Released
+Barnstable 5668684 MA21296561 JBS22J2408473 American Indian/Alaska Native Not Hispanic/Latino Pre-Trial 9/8/25 EDUCATION M POD MONDAY Currently Enrolled
+Barnstable 5156682 MA00922209 JBS21J2509690 Black/African American Not Hispanic/Latino Pre-Trial 9/8/25 RECOVERY GROUP C POD Released
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino Sentenced 9/9/25 EDUCATION L POD SENTENCED Participated
+Barnstable 2760354 MA10280692 JBS21J2306769 Black/African American Not Hispanic/Latino Sentenced 9/9/25 HARM REDUCTION M POD Participated
+Barnstable 5331705 MA21063796 HBS21H2508826 Black/African American Not Hispanic/Latino Sentenced 9/9/25 HARM REDUCTION M POD Currently Enrolled
+Barnstable 2718474 MA10401646 HBS21H2509345 Black/African American Not Hispanic/Latino Sentenced 9/9/25 HARM REDUCTION M POD Participated
+Barnstable 2760902 MA10286476 JBS21J2508733 White Not Hispanic/Latino Pre-Trial 9/9/25 HARM REDUCTION M POD Participated
+Barnstable 5036817 MA10406838 JBS21J2509369 White Not Hispanic/Latino Sentenced 9/9/25 HARM REDUCTION M POD Released
+Barnstable 3010148 MA10512018 JBS21J2509351 White Not Hispanic/Latino Sentenced 9/9/25 HARM REDUCTION M POD Participated
+Barnstable 2755572 MA10290726 HBS22H2509895 White Not Hispanic/Latino Sentenced 9/9/25 EDUCATION L POD SENTENCED Participated
+Barnstable 2903465 MA10398268 JBS21J2407360 White Not Hispanic/Latino Pre-Trial 9/11/25 EDUCATION C POD Participated
+Barnstable 5525573 MA21186409 JBS21J2407410 Black/African American Not Hispanic/Latino Pre-Trial 9/11/25 EDUCATION C POD Currently Enrolled
+Barnstable 5350954 MA30012349 JBS21J2509872 White Not Hispanic/Latino Pre-Trial 9/11/25 EDUCATION K POD Released
+Barnstable 5440049 MA21126833 JBS21J2509683 White Not Hispanic/Latino Pre-Trial 9/11/25 EDUCATION C POD Currently Enrolled
+Barnstable 2387348 MA10374661 JBS22J2509708 White Not Hispanic/Latino Pre-Trial 9/11/25 EDUCATION C POD Released
+Barnstable 2998463 MA10280461 JBS21J2509667 Black/African American Not Hispanic/Latino Pre-Trial 9/11/25 EDUCATION C POD Participated
+Barnstable 3078176 MA10571232 JBS21J2509864 White Not Hispanic/Latino Pre-Trial 9/11/25 EDUCATION C POD Participated
+Barnstable 2672135 MA10143823 JBS22J2509755 White Not Hispanic/Latino Pre-Trial 9/11/25 EDUCATION C POD Released
+Barnstable 5592111 MA21300634 JBS22J2509820 White Not Hispanic/Latino Pre-Trial 9/11/25 EDU C POD GED TUTORING/IS Participated
+Barnstable 1058330 MA30002017 JBS21J2509787 White Not Hispanic/Latino Pre-Trial 9/12/25 EDUCATION K POD Participated
+Barnstable 5695208 MA30013427 JBS21J2509803 White Not Hispanic/Latino Pre-Trial 9/12/25 EDUCATION K POD Participated
+Barnstable 5511244 MA21194162 White Not Hispanic/Latino Pre-Trial 9/12/25 EDUCATION K POD Released
+Barnstable 2795553 MA10552447 JBS21J2509859 White Hispanic/Latino Pre-Trial 9/12/25 EDUCATION K POD Released
+Barnstable 5163917 MA10619562 JBS21J2509829 White Not Hispanic/Latino Pre-Trial 9/12/25 EDUCATION K POD Participated
+Barnstable 3074406 MA10340123 JBS22J2509801 White Not Hispanic/Latino Pre-Trial 9/12/25 EDUCATION K POD Released
+Barnstable 5354108 MA21089892 HBS21H2509734 Black/African American Not Hispanic/Latino Sentenced 9/15/25 MTTP M POD Currently Enrolled
+Barnstable 3160197 MA21062892 JBS21J2509797 White Hispanic/Latino Pre-Trial 9/15/25 CBT C POD Currently Enrolled
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino Sentenced 9/15/25 RECOVERY GROUP L POD Participated
+Barnstable 5354108 MA21089892 HBS21H2509734 Black/African American Not Hispanic/Latino Sentenced 9/15/25 EDUCATION M POD MONDAY GED/IS Currently Enrolled
+Barnstable 5,248,239 MA10660398 JBS21J2509824 White Not Hispanic/Latino Sentenced 9/15/25 RECOVERY GROUP L POD Participated
+Barnstable 5581553 MA21228101 JBS21J2509762 White Not Hispanic/Latino Sentenced 9/15/25 CBT L POD Released
+Barnstable 2755572 MA10290726 HBS22H2509895 White Not Hispanic/Latino Sentenced 9/15/25 RECOVERY GROUP L POD Participated
+Barnstable 1643598 MA10236849 JBS21J2509714 White Not Hispanic/Latino Sentenced 9/15/25 RECOVERY GROUP L POD Released
+Barnstable 5667661 MA21295963 JBS21J2509809 White Not Hispanic/Latino Sentenced 9/15/25 CBT L POD Released
+Barnstable 5458929 MA21289156 JBS21J2509846 White Not Hispanic/Latino Sentenced 9/15/25 CBT L POD Participated
+Page 20 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 5458929 MA21289156 JBS21J2509846 White Not Hispanic/Latino Sentenced 9/15/25 RECOVERY GROUP L POD Participated
+Barnstable 3174220 MA10549067 JBS21J2509719 Black/African American Not Hispanic/Latino Pre-Trial 9/15/25 MTTP M POD Currently Enrolled
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino Sentenced 9/15/25 HARM REDUCTION L POD Participated
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino Sentenced 9/15/25 CBT L POD Participated
+Barnstable 5248239 MA10660398 JBS21J2509824 White Not Hispanic/Latino Sentenced 9/15/25 CBT L POD Participated
+Barnstable 521952 MA10276387 JBS21J2509457 White Not Hispanic/Latino Sentenced 9/15/25 RECOVERY GROUP L POD Participated
+Barnstable 2171391 MA10003661 HBS21H2509918 White Not Hispanic/Latino Sentenced 9/15/25 HARM REDUCTION L POD Participated
+Barnstable 2171391 MA10003661 HBS21H2509918 White Not Hispanic/Latino Sentenced 9/15/25 RECOVERY GROUP L POD Released
+Barnstable 5260525 MA10645051 HBS21H2509352 White Not Hispanic/Latino Sentenced 9/15/25 MTTP M POD Released
+Barnstable 2948241 MA21025261 JBS21J2509871 White Not Hispanic/Latino Pre-Trial 9/15/25 CBT L POD Released
+Barnstable 2755572 MA10290726 HBS22H2509895 White Not Hispanic/Latino Sentenced 9/15/25 HARM REDUCTION L POD Participated
+Barnstable 1643598 MA10236849 JBS21J2509714 White Not Hispanic/Latino Sentenced 9/15/25 CBT L POD Participated
+Barnstable 984510 MA00967463 JBS21J2509892 White Not Hispanic/Latino Pre-Trial 9/15/25 CBT L POD Released
+Barnstable 3015619 MA10363040 JBS22J2508899 White Not Hispanic/Latino Sentenced 9/16/25 EDUCATION A POD SENTENCED Participated
+Barnstable 928046 MA00958003 HBS21H2508997 White Not Hispanic/Latino Sentenced 9/16/25 EDUCATION A POD SENTENCED Participated
+Barnstable 5248239 MA10660398 JBS21J2509824 White Not Hispanic/Latino Sentenced 9/16/25 EDUCATION L POD SENTENCED Participated
+Barnstable 5266650 MA21024495 JBS21J2509511 White Not Hispanic/Latino Pre-Trial 9/16/25 EDUCATION K POD Participated
+Barnstable 5634789 MA21268998 HBS21H2407965 Black/African American Not Hispanic/Latino Sentenced 9/16/25 EDUCATION A POD SENTENCED Participated
+Barnstable 3164739 MA21206801 HBS21H2509411 White Not Hispanic/Latino Sentenced 9/17/25 EDUCATION D POD Released
+Barnstable 2820427 MA10297469 JBS21J2509856 White Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Participated
+Barnstable 3186566 MA21143554 JBS21J2509924 White Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Participated
+Barnstable 3174220 MA10549067 JBS21J2509719 Black/African American Not Hispanic/Latino Pre-Trial 9/17/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5670923 MA21298385 JBS21J2509877 White Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Participated
+Barnstable 2940385 MA10228367 JBS21J2509911 Black/African American Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Released
+Barnstable 5354108 MA21089892 HBS21H2509734 Black/African American Not Hispanic/Latino Sentenced 9/17/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 5391085 MA21085672 HBS21H2509944 White Not Hispanic/Latino Sentenced 9/17/25 RECOVERY GROUP L POD Released
+Barnstable 5673713 MA21300500 JBS21J2509946 White Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Participated
+Barnstable 5488025 MA21293157 JBS21J2509610 White Not Hispanic/Latino Pre-Trial 9/17/25 EDUCATION C POD Released
+Barnstable 2496006 MA09831831 JBS21J2407891 White Not Hispanic/Latino Sentenced 9/17/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 5260525 MA10645051 HBS21H2509352 White Not Hispanic/Latino Sentenced 9/17/25 EDUCATION M POD WEDNESDAY Participated
+Barnstable 3071317 MA10366548 White Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Released
+Barnstable 5668684 MA21296561 JBS22J2408473 American Indian/Alaska Native Not Hispanic/Latino Pre-Trial 9/17/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 5198337 MA10579631 JBS21J2509580 White Not Hispanic/Latino Sentenced 9/17/25 HARM REDUCTION L POD Released
+Barnstable 5659192 MA21291012 JBS21J2509939 White Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Released
+Barnstable 5612058 MA21251426 JBS21J2407714 White Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Participated
+Barnstable 5663722 MA30015159 JBS22J2509903 White Not Hispanic/Latino Pre-Trial 9/17/25 RECOVERY GROUP L POD Participated
+Barnstable 3118679 MA10544998 JBS21J2509902 White Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Participated
+Barnstable 3155586 MA21083838 JBS21J2509802 Black/African American Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Released
+Barnstable 5375952 MA21077559 JBS21J2509554 White Not Hispanic/Latino Sentenced 9/17/25 HARM REDUCTION L POD Released
+Barnstable 2948241 MA21025261 JBS21J2509871 White Not Hispanic/Latino Pre-Trial 9/17/25 HARM REDUCTION L POD Released
+Barnstable 2895112 MA10250624 HBS21H2509942 White Not Hispanic/Latino Sentenced 9/17/25 RECOVERY GROUP L POD Released
+Barnstable 2865841 MA10411973 JBS21J2509812 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION C POD Participated
+Barnstable 3118679 MA10544998 JBS21J2509902 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5690856 MA30009698 White Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 3184217 MA21078961 JBS21J2509831 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5673821 MA30008912 JBS21J2509512 Black/African American Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 2849722 MA10468015 JBS22J2509292 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5392539 MA21086547 JBS21J2509838 Other/Unknown Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5235110 MA10621566 JBS21J2509550 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Released
+Barnstable 3104139 MA21082520 JBS21J2509825 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Released
+Barnstable 5011536 MA10507590 JBS21J2509775 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 2997950 MA10349830 JBS21J2509791 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 3053264 MA21077018 JBS21J2509480 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 2575227 MA10618953 JBS21J2509785 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 3071317 MA10366548 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Released
+Barnstable 3190434 MA10608852 JBS21J2509798 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION C POD Participated
+Barnstable 2657798 MA10315314 JBS21J2509867 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 984510 MA00967463 JBS21J2509892 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5529814 MA21296368 JBS21J2509740 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5670923 MA21298385 JBS21J2509877 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5193580 MA10574481 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5141727 MA10537707 JBS21J2509739 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Released
+Barnstable 2990409 MA10278801 JBS21J2509808 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 2820427 MA10297469 JBS21J2509856 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5163917 MA10619562 JBS21J2509829 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD GED TUTORING/IS Released
+Barnstable 1634473 MA10231070 JBS21J2509830 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5663722 MA30015159 JBS22J2509903 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5689769 MA30008799 JBS21J2509571 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 2938007 MA10294259 JBS21J2509774 White Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5135185 MA10509338 JBS21J2509772 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Released
+Barnstable 5371314 MA21072381 JBS21J2509845 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5691812 MA30010687 JBS21J2509889 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5689001 MA30008041 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 3131356 MA10454015 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION C POD Participated
+Barnstable 3063791 MA10326405 HBS21H2509952 White Not Hispanic/Latino Sentenced 9/18/25 EDUCATION J POD Released
+Barnstable 2948241 MA21025261 JBS21J2509871 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Participated
+Barnstable 5410778 MA21223866 JBS21J2509887 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION C POD Participated
+Page 21 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 5292770 MA21012909 TBS21T2509735 White Not Hispanic/Latino Pre-Trial 9/18/25 EDUCATION K POD Released
+Barnstable 5440049 MA21126833 JBS21J2509683 White Not Hispanic/Latino Pre-Trial 9/19/25 CBT C POD Currently Enrolled
+Barnstable 5434055 MA21138563 JBS21J2408611 White Not Hispanic/Latino Pre-Trial 9/19/25 EDUCATION J POD Released
+Barnstable 2865841 MA10411973 JBS21J2509812 White Not Hispanic/Latino Pre-Trial 9/19/25 CBT C POD Currently Enrolled
+Barnstable 2813116 MA10329694 JBS21J2509818 White Not Hispanic/Latino Pre-Trial 9/19/25 CBT C POD Released
+Barnstable 2968544 MA10242565 JBS21J2509709 White Not Hispanic/Latino Pre-Trial 9/19/25 CBT C POD Released
+Barnstable 3194833 MA21220820 HBS21H2509933 White Hispanic/Latino Sentenced 9/22/25 EDUCATION L POD SENTENCED Participated
+Barnstable 5156682 MA00922209 JBS21J2509690 Black/African American Not Hispanic/Latino Sentenced 9/22/25 CBT A POD Released
+Barnstable 5618468 MA21297388 JBS23J2509941 White Not Hispanic/Latino Sentenced 9/22/25 EDUCATION A POD SENTENCED Participated
+Barnstable 5683141 MA30012242 JBS21J2509712 White Not Hispanic/Latino Pre-Trial 9/22/25 EDU C POD GED TUTORING/IS Participated
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Sentenced 9/22/25 EDUCATION M POD MONDAY GED/IS Participated
+Barnstable 5618468 MA21297388 JBS23J2509941 White Not Hispanic/Latino Sentenced 9/22/25 CBT A POD Currently Enrolled
+Barnstable 5642879 MA21276474 HBS21H2509957 Other/Unknown Not Hispanic/Latino Sentenced 9/22/25 EDUCATION L POD SENTENCED Released
+Barnstable 5442380 MA21127016 HBS21H2306929 White Not Hispanic/Latino Sentenced 9/22/25 EDUCATION M POD MONDAY GED/IS Participated
+Barnstable 5391085 MA21085672 HBS21H2509944 White Not Hispanic/Latino Sentenced 9/23/25 EDUCATION L POD SENTENCED Released
+Barnstable 3063791 MA10326405 HBS21H2509952 White Not Hispanic/Latino Sentenced 9/23/25 RECOVERY GROUP J POD Participated
+Barnstable 2171391 MA10003661 HBS21H2509918 White Not Hispanic/Latino Sentenced 9/23/25 EDUCATION L POD SENTENCED Participated
+Barnstable 3194833 MA21220820 HBS21H2509933 White Hispanic/Latino Sentenced 9/23/25 RECOVERY GROUP L POD Currently Enrolled
+Barnstable 1917962 MA09907006 White Not Hispanic/Latino Sentenced 9/23/25 HARM REDUCTION H POD Released
+Barnstable 5657245 MA30016062 JBS21J2509943 White Not Hispanic/Latino Pre-Trial 9/24/25 HARM REDUCTION L POD Released
+Barnstable 5642879 MA21276474 HBS21H2509957 Other/Unknown Not Hispanic/Latino Sentenced 9/24/25 HARM REDUCTION L POD Participated
+Barnstable 5391085 MA21085672 HBS21H2509944 White Not Hispanic/Latino Sentenced 9/24/25 HARM REDUCTION L POD Participated
+Barnstable MA30003672 JBS22J2509221 White Not Hispanic/Latino Pre-Trial 9/24/25 WTTP E POD Currently Enrolled
+Barnstable 5473369 MA21167025 JBS21J2509839 White Not Hispanic/Latino Pre-Trial 9/24/25 HARM REDUCTION L POD Released
+Barnstable 2763060 MA10112608 JBS21J2509980 White Not Hispanic/Latino Pre-Trial 9/24/25 HARM REDUCTION L POD Participated
+Barnstable 2586007 MA10096668 HBS21H2509983 White Not Hispanic/Latino Sentenced 9/24/25 HARM REDUCTION L POD Participated
+Barnstable 5642879 MA21276474 HBS21H2509957 Other/Unknown Not Hispanic/Latino Sentenced 9/24/25 CBT L POD Released
+Barnstable 2940385 MA10228367 JBS21J2509911 Black/African American Not Hispanic/Latino Pre-Trial 9/24/25 CBT L POD Released
+Barnstable 206578 MA21052324 JBS21J2509979 White Not Hispanic/Latino Pre-Trial 9/24/25 HARM REDUCTION L POD Participated
+Barnstable 2590524 MA21273900 JBS21J2509438 White Not Hispanic/Latino Pre-Trial 9/24/25 WTTP E POD Released
+Barnstable 5612058 MA21251426 JBS21J2407714 White Not Hispanic/Latino Pre-Trial 9/24/25 CBT L POD Participated
+Barnstable 2849722 MA10468015 JBS22J2509292 White Not Hispanic/Latino Pre-Trial 9/24/25 WTTP E POD Currently Enrolled
+Barnstable 3051594 MA10507278 JBS21J2509226 White Not Hispanic/Latino Pre-Trial 9/24/25 WTTP E POD Released
+Barnstable 2642363 MA10039423 JBS21J2509404 White Not Hispanic/Latino Sentenced 9/24/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 3194833 MA21220820 HBS21H2509933 White Hispanic/Latino Sentenced 9/24/25 CBT L POD Participated
+Barnstable 3194833 MA21220820 HBS21H2509933 White Hispanic/Latino Sentenced 9/24/25 HARM REDUCTION L POD Currently Enrolled
+Barnstable 5592111 MA21300634 JBS22J2509820 White Not Hispanic/Latino Sentenced 9/24/25 EDUCATION M POD WEDNESDAY GED/IS Participated
+Barnstable 5592111 MA21300634 JBS22J2509820 White Not Hispanic/Latino Sentenced 9/24/25 EDUCATION A POD SENTENCED Released
+Barnstable 2755572 MA10290726 HBS22H2509895 White Not Hispanic/Latino Sentenced 9/24/25 CBT L POD Participated
+Barnstable 2387348 MA10374661 JBS22J2509708 White Not Hispanic/Latino Pre-Trial 9/25/25 HARM REDUCTION C POD Released
+Barnstable 3131356 MA10454015 White Not Hispanic/Latino Pre-Trial 9/25/25 SEEKING SAFETY C POD Released
+Barnstable 5410778 MA21223866 JBS21J2509887 White Not Hispanic/Latino Pre-Trial 9/25/25 HARM REDUCTION C POD Released
+Barnstable 2081067 MA09604989 JBS21J2408690 White Not Hispanic/Latino Pre-Trial 9/25/25 SEEKING SAFETY C POD Currently Enrolled
+Barnstable 1058330 MA30002017 JBS21J2509787 White Not Hispanic/Latino Pre-Trial 9/25/25 EDUCATION K POD GED TUTORING/IS Participated
+Barnstable 5410778 MA21223866 JBS21J2509887 White Not Hispanic/Latino Sentenced 9/25/25 SEEKING SAFETY C POD Released
+Barnstable MA30003672 JBS22J2509221 White Not Hispanic/Latino Pre-Trial 9/25/25 EDUCATION J POD Currently Enrolled
+Barnstable 3183093 MA21067554 JBS21J2509665 White Not Hispanic/Latino Pre-Trial 9/25/25 HARM REDUCTION C POD Currently Enrolled
+Barnstable 3183093 MA21067554 JBS21J2509665 White Not Hispanic/Latino Pre-Trial 9/25/25 SEEKING SAFETY C POD Currently Enrolled
+Barnstable 2849722 MA10468015 JBS22J2509292 White Not Hispanic/Latino Pre-Trial 9/25/25 EDUCATION J POD Currently Enrolled
+Barnstable 3051594 MA10507278 JBS21J2509226 White Not Hispanic/Latino Pre-Trial 9/25/25 EDUCATION J POD Released
+Barnstable 2746915 MA10096152 JBS21J2509813 White Not Hispanic/Latino Pre-Trial 9/25/25 HARM REDUCTION C POD Released
+Barnstable 2387348 MA10374661 JBS22J2509708 White Not Hispanic/Latino Pre-Trial 9/25/25 SEEKING SAFETY C POD Released
+Barnstable 2590524 MA21273900 JBS21J2509438 White Not Hispanic/Latino Pre-Trial 9/25/25 EDUCATION J POD Released
+Barnstable 3131356 MA10454015 White Not Hispanic/Latino Pre-Trial 9/25/25 HARM REDUCTION C POD Released
+Barnstable 5410778 MA21223866 JBS21J2509887 White Not Hispanic/Latino Pre-Trial 9/25/25 SEEKING SAFETY C POD Released
+Barnstable 5410778 MA21223866 JBS21J2509887 White Not Hispanic/Latino Sentenced 9/25/25 HARM REDUCTION C POD Released
+Barnstable 5464883 MA21258825 JBS21J2509422 White Not Hispanic/Latino Pre-Trial 9/26/25 CBT A POD Participated
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino Sentenced 9/26/25 WTTP E POD Released
+Barnstable 607715 MA09211452 HBS21H2509478 White Not Hispanic/Latino Sentenced 9/26/25 WTTP E POD Currently Enrolled
+Barnstable 5458929 MA21289156 JBS21J2509846 White Not Hispanic/Latino Sentenced 9/26/25 WTTP E POD Currently Enrolled
+Barnstable 5248239 MA10660398 JBS21J2509824 White Not Hispanic/Latino Sentenced 9/26/25 WTTP E POD Currently Enrolled
+Barnstable 2755572 MA10290726 HBS22H2509895 White Not Hispanic/Latino Sentenced 9/26/25 WTTP E POD Released
+Barnstable MA30003672 JBS22J2509221 White Not Hispanic/Latino Pre-Trial 9/29/25 HARM REDUCTION J POD Currently Enrolled
+Barnstable 2849722 MA10468015 JBS22J2509292 White Not Hispanic/Latino Pre-Trial 9/29/25 HARM REDUCTION J POD Currently Enrolled
+Barnstable 3181147 MA10621617 HBS21H2509869 Black/African American Not Hispanic/Latino Sentenced 9/29/25 HARM REDUCTION H POD Currently Enrolled
+Barnstable 3007803 MA10508060 HBS21H2508755 White Not Hispanic/Latino Sentenced 9/29/25 RECOVERY GROUP H POD Currently Enrolled
+Barnstable 5592111 MA21300634 JBS22J2509820 White Not Hispanic/Latino Sentenced 9/29/25 EDUCATION M POD MONDAY GED/IS Participated
+Barnstable 2755572 MA10290726 HBS22H2509895 White Not Hispanic/Latino Sentenced 9/29/25 HARM REDUCTION J POD Participated
+Barnstable 2586007 MA10096668 HBS21H2509983 White Not Hispanic/Latino Sentenced 9/29/25 RECOVERY GROUP L POD Currently Enrolled
+Barnstable 3078176 MA10571232 JBS21J2509864 White Not Hispanic/Latino Sentenced 9/29/25 EDUCATION A POD SENTENCED Participated
+Barnstable 5620746 MA21257904 HBS21H2509966 White Not Hispanic/Latino Sentenced 9/29/25 EDUCATION A POD SENTENCED Participated
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino Sentenced 9/29/25 HARM REDUCTION J POD Released
+Barnstable 5642879 MA21276474 HBS21H2509957 Other/Unknown Not Hispanic/Latino Sentenced 9/29/25 RECOVERY GROUP L POD Released
+Barnstable 3181147 MA10621617 HBS21H2509869 Black/African American Not Hispanic/Latino Sentenced 9/29/25 RECOVERY GROUP H POD Currently Enrolled
+Barnstable 607715 MA09211452 HBS21H2509478 White Not Hispanic/Latino Sentenced 9/29/25 HARM REDUCTION J POD Currently Enrolled
+Barnstable 1917962 MA09907006 White Not Hispanic/Latino Sentenced 9/29/25 RECOVERY GROUP H POD Released
+Barnstable 3198784 MA10636209 JBS21J2509882 White Not Hispanic/Latino Pre-Trial 9/29/25 EDU C POD GED TUTORING/IS Participated
+Page 22 of 23
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM PARTICIPANT
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME
+OFFICE TYPE REGISTERED DATE STATUS
+Barnstable 5525754 MA30011159 JBS21J2509896 American Indian/Alaska Native Not Hispanic/Latino Pre-Trial 9/29/25 EDU C POD GED TUTORING/IS Released
+Barnstable 607715 MA09211452 HBS21H2509478 White Not Hispanic/Latino Sentenced 9/30/25 RECOVERY GROUP J POD Currently Enrolled
+Barnstable 5242825 MA10629358 JBS21J2509723 White Not Hispanic/Latino Sentenced 9/30/25 RECOVERY GROUP J POD Released
+Barnstable 2586007 MA10096668 HBS21H2509983 White Not Hispanic/Latino Sentenced 9/30/25 EDUCATION L POD SENTENCED Participated
+Barnstable 2755572 MA10290726 HBS22H2509895 White Not Hispanic/Latino Sentenced 9/30/25 RECOVERY GROUP J POD Released
+Page 23 of 23

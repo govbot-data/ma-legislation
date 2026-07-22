@@ -1,0 +1,3482 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+EXECUTIVE OFFICE OF HEALTH AND HUMAN SERVICES
+COMMONWEALTH OF MASSACHUSETTS
+OFFICE OF MEDICAID
+ONE ASHBURTON PLACE, BOSTON, MA 02108
+MAURA T. HEALEY KIAME MAHANIAH, MD, MBA
+GOVERNOR SECRETARY
+KIMBERLEY DRISCOLL MIKE LEVINE
+LIEUTENANT GOVERNOR UNDERSECRETARY
+FOR MASSHEALTH
+December 22, 2025
+Chair, Michael J. Rodrigues Chair, Aaron Michlewitz
+Senate Committee on Ways and Means House Committee on Ways and Means
+State House, Room 212 State House, Room 243
+Boston, MA 02133 Boston, MA 02133
+Dear Chairs Rodrigues and Michlewitz,
+Line item 4000-0300 of Chapter 140 of the Acts of 2024 requires the Executive Office of Health
+and Human Services to submit a report to the House and Senate Committees on Ways and Means
+outlining the agency’s methodology for projecting caseload and utilization. To comply with this
+requirement, we describe below the methodology that has been employed for fiscal year 2025.
+MassHealth enrollment expanded dramatically from 2013 to 2015. During the 2014 launch of the
+Affordable Care Act, the Commonwealth's Health Insurance Exchange ("HIX") – the eligibility
+system serving both MassHealth and the Massachusetts Health Connector - failed, resulting in
+our inability to determine eligibility for most applicants to MassHealth. Temporary MassHealth
+eligibility was granted to all applicants in the period following this failure and enrollment surged
+to over 2 million members in December 2014. Since this time, MassHealth implemented a
+functioning HIX system and resumed annual redeterminations on all members. MassHealth has
+also implemented a series of eligibility integrity initiatives, including reducing HIX functionality
+defects, implementing new automated data matches with the Department of Revenue and other
+sources, and enforcing mandatory premium assistance for adults when other insurance (e.g.,
+employer health insurance) is available and cost-effective.
+In March 2020, MassHealth suspended eligibility redeterminations and began protecting
+members’ coverage, in response to the federal COVID-19 public health emergency and in
+accordance with federal maintenance of effort (MOE) requirements. MassHealth restarted the
+process of redeterminations in May 2021 but has been protecting members’ coverage if they are
+determined ineligible. As a result of the MOE, MassHealth membership grew by 650,000
+members from March 2020 to the peak of 2.4 million members in spring 2023. Regular
+
+redetermination processes started again in April 2023 in accordance with federal requirements.
+Since full MOE redeterminations resumed, MassHealth’s primary priority has been to right-size
+the caseload while ensuring individuals are in the appropriate coverage and minimizing
+administrative eligibility “churn” that results in health care coverage loss. MassHealth’s
+redetermination process occurred over a year-long period and concluded in May 2024. As of
+May 2024, MassHealth’s caseload was approximately 2.1 million members. MassHealth’s
+caseload remains at approximately 2.1 million members as of December 2024.
+Caseload Forecast Methodology
+In early 2013, MassHealth worked with Alan Clayton-Matthews, a professor at Northeastern
+University, to review our existing caseload forecasting methodology and to advise whether
+improved methodology was possible. Professor Clayton-Matthews tested two methodologies
+against the existing methodology (see attachment A for technical details of these models and the
+testing process) by feeding data from June 2006 to July 2009 into the models, using the models
+to forecast the caseload from July 2009 to June 2011, and comparing these forecasts to actual
+enrollment over the same period. Professor Clayton-Matthews found that both models presented
+a lower error rate than the existing methodology and recommended a switch. Based on these
+findings, MassHealth worked with Professor Clayton-Matthews to implement a new
+methodology, which is described below.
+The caseload forecast begins with historical snapshots of enrollment data. An enrollment
+snapshot is a report of member eligibility at the time/date the report is run. The eligibility data in
+a snapshot is broken down by month and population group (there are over 100 population groups
+which are broken down using program type, managed care status, and demographic factors).
+Some examples of these groups are “PCC (Primary Care Clinician) Non-Disabled Children”,
+“SCO (Senior Care Organization) Institutional”, and “Standard Non-Disabled Children-Premium
+Assistance.” A new enrollment snapshot is produced each month, adding the most recent
+month’s data and updating previous months to account for any enrollment changes. As an
+example, the snapshot produced in December 2023 contains data through November 30, 2023.
+Similarly, the snapshot produced in January 2024 will contain data through December 31, 2023.
+We use the snapshots to capture the pattern of enrollment for each population group over time
+and calculate completion factors. Completion factors are multipliers that address the issue of
+variance in eligibility data based on the effects of redeterminations, retroactive eligibility
+determinations, application verification eligibility appeals, and member movement among aid
+categories. See Step 1 of Attachment C for technical details about the completion process.
+Once completion factors have been applied, we begin our statistical analysis using STATA,
+which is a data analysis and statistical software package. This program uses statistical
+calculations (see page 2 of Attachment A) to find the trend level and builds a trend line off the
+most recent month of enrollment data, extending through the next fiscal year, for each population
+group. Next, we adjust for impacts that cannot be captured by the historical trends alone and
+confirm forecast is consistent with long-term trends reported by CHIA. Finally, we sum all
+population groups to project the overall MassHealth caseload.
+2
+
+Implementation of this methodology was completed in mid-2013, and we intend to return to
+using this methodology once the MOE redetermination period concludes. However, due to the
+unprecedented experience during the MOE period (March 2020 – April 2023), we could not rely
+on recent historical trends to inform FY25 caseload projections. For FY25, we developed
+projections based on the number of members going through redeterminations each month and
+assumed closure rates for different demographic groups. We also considered counts of members
+becoming newly eligible for MassHealth (i.e., no history of enrollment for 12+ months) and
+assumed reopening rates for different demographic groups (i.e., members re-enrolling within 12
+months of being disenrolled). We used a similar methodology to forecast caseload in FY24.
+Utilization and Price Methodology
+For MassHealth’s managed care capitation programs, MassHealth is mandated to develop
+actuarially sound capitation rates. MassHealth contracts with Mercer, a health care consulting
+firm, for this purpose. Mercer uses historical utilization and cost data from MassHealth and
+trends it forward into the current rate year. Mercer also makes various additional price and
+utilization adjustments (for example, an adjustment for the cost of new drug therapies coming to
+market). MassHealth then applies these rates to enrollment projections for each program to
+estimate total managed care spend for the fiscal year.
+MassHealth contracts with the Center for Health Information and Analysis (CHIA) for its Fee-
+for-Service rate-setting activities. These rates are developed using historical utilization and cost
+data. MassHealth uses historical spending and enrollment data to calculate historical utilization
+patterns for each provider type and population group. MassHealth then projects future utilization
+by applying a best fit trend line using the method of least squares. Additional adjustments are
+then incorporated to capture the impacts of rate, policy, and regulatory changes. This projected
+utilization is combined with our caseload forecast to project total spend for the fiscal year.
+I hope you find this report useful and informative. If you have any questions, please feel free to
+contact Sarah Nordberg at Sarah.Nordberg@mass.gov.
+Sincerely,
+Mike Levine
+cc: Kiame Mahaniah, MD, MBA
+3
+
+Attachment A
+Test of Three Methodologies for Forecasting MassHealth
+Caseloads
+This document describes:
+ Three methodologies for forecasting MassHealth caseloads;
+ A pseudo out-of-sample forecast test of the relative effectiveness of the methodologies;
+ Interpretation of the findings; and
+ Suggestions for proceeding.
+Three Modeling Methodologies
+The Existing Methodology, Method B
+The existing methodology, developed by the Center for Health Policy & Research at the University of
+Massachusetts Medical School in 2004, assumes that future caseload growth for each population group
+is best modeled as a continuation of recent growth. This very simple approach was settled on because
+caseloads did not – and still do not – appear to be statistically related to indicators of trends in either
+demographics or the economy. In fact, the total caseload in recent years has exhibited essentially
+constant linear growth, with only minor fluctuations around the trend which appear to be random.
+Although the total caseload has exhibited constant growth, individual population group caseloads have
+not. For most population groups, rates of growth change frequently, often with abrupt discontinuities.
+Therefore the critical strategy of the existing method involves selecting the most recent period of time
+for which growth rates were stable, using a method called compounded monthly growth rates (CMGRs)
+(Center for Health & Policy Analysis, 2004). The method involves a graphical analysis and a subjective
+choice of choosing the beginning month for the most recent period of stable growth. Although the
+choice is subjective, and can result in different choices by different analysts, our experience is that the
+differences between analysts’ choices are minor, usually a few months or less.
+Once the time period for estimation of the model has been chosen, the current methodology involves
+estimating a linear regression of the caseload on a time trend. The forecast of the caseload is simply the
+extrapolation of the estimated linear relationship.
+The Autoregressive Model, Method A
+An alternative strategy for estimating simple growth models is a time series autoregression. Since
+caseloads tend to grow over time, the autoregressive model is estimated on the first difference of the
+natural logarithm of the caseload. The key parameter in this model, the constant, is the trend growth
+1
+
+Attachment A
+rate. The autoregressive terms, if any, account for the dynamics of short-run deviations from the trend
+rate of growth. Autoregressive models produce forecasts in which the growth in the initial periods
+(initial months, in this context) of the forecast is influenced by recent deviations from the trend rate of
+growth. After several periods, growth returns to the estimated trend rate.
+As in the existing methodology, a key strategy in estimating the autoregressive model is to select the
+period of recent history for which the growth rate is estimated. In this case, we used the QLR test
+statistic to select the longest period of time for which the growth rate was statistically constant (Stock
+and Watson, section 14.7). This strategy typically resulted in selecting an historical period for estimation
+that was much longer than that selected using Method B.
+The autoregressive order of the model was chosen using the AIC and BIC criteria, as described in Stock
+and Watson, section 14.5.
+The Linear Model, Method C
+A second alternative strategy involves selecting the time period for estimation using the QLR statistic as
+in Method A, and then estimating a linear regression of caseload on time as in Method B. Like Method
+B, the forecast is constructed as a linear extrapolation of the estimated regression line, and the constant
+of the regression line is adjusted so that the extrapolation proceeds from the caseload level at the end
+of the estimation period.
+The Differences between the Methods
+The most important difference between the methods, based upon our analysis, was that the alternative
+methods A and C selected much longer time periods than the existing methodology, Method B.
+Methods A and C selected an average estimation period of 33 months over which to estimate the
+model, while method B only selected an average of 11 months.
+There are two differences between methods A and C. One is that Method A assumes that the best
+simple model for caseload growth is a constant growth rate – a result of using the logarithm of the
+caseload rather than the caseload itself, while Method C (and the existing methodology B) assumes that
+the best simple model for caseload growth is a constant change per period in the caseload. We would
+expect this to be a minor difference.
+The second difference is that Method A, because of its autoregressive structure, will produce forecasts
+whose rates of growth in the first several periods of the forecast may differ from the trend rate
+estimated by the model, while Method C (and the existing methodology B) will produce forecasts with
+constant changes throughout the forecast period. We would also expect these differences to be minor
+over the course of a two-year forecast, especially given the low-order of autoregressivity exhibited in
+2
+
+Attachment A
+the models. Twenty-eight of 58 population groups in our analysis did not exhibit any autoregressivity,
+and 21 of the remaining groups exhibited only first-order autoregressivity.1
+Comparing the Methods Using Pseudo Out-of-Sample Forecasts
+The relative effectiveness of the methodologies was compared using pseudo out-of-sample forecasts
+(Stock and Watson, pp. 561-563). The idea is to estimate the models over a period of history that ends
+in the past, say, at time T, and then to use the estimated models to forecast the “future” past, say from
+T+1 to T+24. Since the actual caseloads are known over this pseudo forecast period, the errors in the
+forecasts can be calculated and the competing methods can be compared. The extent to which a
+forecast is in error is summarized in a single number, the root mean squared forecast error (RMSFE).
+This is calculated by summing the squared deviations of each period’s forecast caseload from the actual
+caseload, taking the average of this sum, and then taking its square root. The RMSFE can be interpreted
+as the “average” or “typical” error in each period that can be expected in a forecast. In comparing two
+alternative models – or methodologies – the one with the lower RMSFE is preferred.
+In implementing this strategy, for “history” we used the period July 2006 – the earliest period for which
+caseload month data were available – to June 2009, so that T=June 2009. For each population group,
+we then estimated three models, one using Method A, one using the existing methodology B, and a
+third using Method C; and then used each to forecast caseload over the period July 2009 to June 2011.
+The RMSFE for each forecast was then computed. The results are displayed in Table 1.
+According to these out-of-sample forecasts, no methodology clearly dominates. Method A just barely
+out-performed the existing Method B, with a lower RMSFE than Method B in 30 of the 58 population
+groups. Method C’s advantage over Method B was somewhat larger, with a lower RMSFE in 35 of the
+58 population groups. In comparing Methods A and C against each other, each had a lower RMSFE than
+the other in 29 of the 58 population groups.
+Comparing the Forecast of the Total Caseload versus the Sum of the Forecasts of
+the Population Groups
+Once forecasts of the individual population groups are obtained, these can be summed to obtain a single
+forecast of the total MassHealth caseload. However, the forecast of the total caseload could also be
+obtained by estimating a model on the total caseload, and then by using the total caseload model to
+forecast total caseload. We have no a priori reason to prefer one method over the other in making a
+forecast of the total caseload, so we also performed pseudo out-of-sample forecasts for the total
+1 Three of MassHealth’s 61 population groups have very few or no members assigned to them. For this
+reason, only 58 of the population groups were included in this analysis.
+3
+
+Attachment A
+caseload by constructing a total caseload model using each methodology. We then constructed the
+RMSFE’s for each of these three total models and also calculated the RMSFE’s for the sum of the 58
+population group forecasts. The RMSFE’s are displayed in Table 2.
+Comparing the pseudo out-of-sample forecasts of the total caseload model versus the sum of
+population groups, the total caseload model performed better for both Methods A and C, but not for
+Method B. Among the three total caseload models, Method A had the lowest RMSFE, followed by
+Method C.
+Interpretation of these Findings
+The pseudo out-of-sample forecasts suggest a slight preference for either of the “new” Methods A or C
+over B, but the preference is slight. The primary finding is that all three methods performed badly in
+forecasting many of the population groups. In many cases, this is because the forecast period exhibited
+discontinuous changes. In some cases, this involved shifting of cases from one population group to
+another within the same budget group cluster. Using the QLR statistic to choose the beginning period of
+model estimation is helpful, but there were a few population groups in which the indicated estimation
+period appeared to contain a significant change in trend. In these cases expert judgment should be used
+in addition to the QLR statistic to choose the estimation period. There were also a few population
+groups in which the BIC and AIC criteria indicated a high autoregressive order. In two of the three cases,
+this appeared to result from a very short estimation period, and in those cases the BIC and AIC criteria
+should not be trusted. A zero-order autoregressive model should be estimated instead.
+The experience of this exercise suggests that the best procedure for estimating simple growth models
+would be to combine Methods A or C with expert judgment, and therefore to use the statistical
+diagnostics as guides rather than rigid rules.
+It is very likely that the total caseload model out-performed the sum of individual population groups in
+Method A and Method C because of large forecast errors in a few population groups for which expert
+judgment in the selection of the estimation period may have substantially improved the forecast. This
+means that a more definitive pseudo out-of-sample test would involve comparing the total caseload
+model against individual population group models estimated with a combination of expert judgment
+and Method A or Method C.
+For forecasting purposes, use of the total caseload model would still require the estimation of individual
+population group models in order to distribute the total caseload forecast to the individual population
+groups. The best procedure is probably to compare the total caseload forecast to the sum of the
+population groups to see if the forecasts are consistent with each other; and if not, to inspect the
+individual population group models to identify groups with suspect forecasts.
+4
+
+Attachment A
+The most striking observation from this exercise has been the instability of the trends of the individual
+population groups, even after accounting for shifting from one population group to another within
+budget group. One would expect caseload trends to respond gradually to changes in demographics,
+with changes around these trends that are coherent with cyclical changes in the economy. The changes
+in trend, however, appear to be too abrupt and too short in duration to be the result of demographic
+trends and business cycles. The changes in trend may be dominated by changes in policy and
+administrative actions, such as changes in rates of re-determinations and processing. These could
+account for the frequency and (lack of) duration of trends that we are observing, and also explain why
+the time series methodology, which happens to be suggesting longer estimation periods, tends to
+perform marginally better than the existing methodology.
+Suggestions for Proceeding
+What we have learned suggests two courses of action for improving caseload forecasts:
+1. Investigate what information is available about changes in rates of re-determinations and
+processing, and case openings and closings, and see if these help explain changes in caseloads.
+If these do, then it is possible that the caseloads adjusted for these administrative actions might
+correlate better with economic indicators.
+2. Use existing data sources, such as the American Community Survey, the Current Population
+Survey, national surveys of health, and information from the Division of Employment and
+Training and the Health Connector to estimate the size and characteristics of the eligible
+population and likely trends in the size of the eligible population. These may be very helpful in
+forecasting changes in the trend of caseload growth.
+Alan Clayton-Matthews , Susan Jureidini, and Mohamed Sesay
+March 7, 2013
+References
+Center for Health Policy & Research, University of Massachusetts Medical School. (2004). Stepwise
+Methodology for Creating the MassHealth Caseload Member Month Forecast.
+Stock, J. H., & Watson, Mark W. (2011). Introduction to Econometrics (3rd ed). Boston: Pearson
+Education, Addison Wesley.
+5
+
+Attachment A
+Table 1: Pseudo Out-of-Sample Forecast Results, Three Methods
+er
+d
+Or
+R
+A
+6
+111111111122222222223333333333444444455555555556
+0123456789012345678901234567890123456789012678901234567890
+T itle
+O th e r 0
+H M O D is a b le d C h ild re n 0
+H M O D is a b le d A d u lts 1
+P C C D is a b le d C h ild re n 0
+P C C D is a b le d A d u lts 1
+T P L D is a b le d C h ild re n 0
+T P L D is a b le d A d u lts 0
+F F S D is a b le d C h ild re n 0
+F F S D is a b le d A d u lts 2
+H M O N o n -D is a b le d C h ild re n 1
+H M O N o n -D is a b le d A d u lts 1
+P C C N o n -D is a b le d C h ild re n 1
+P C C N o n -D is a b le d A d u lts 1
+T P L N o n -D is a b le d C h ild re n 0
+T P L N o n -D is a b le d A d u lts 0
+F F S N o n -D is a b le d C h ild re n 1
+F F S N o n -D is a b le d A d u lts 1
+F F S N e w b o rn s 0
+C o m m u n ity S e n io rs 0
+In s titu tio n a l S e n io rs 2
+B u y-in (A g e d ) 0
+B u y-in (D is a b le d ) 6
+H M O B a s ic 1
+P C C B a s ic 0
+U n e n ro lle d B a s ic 0
+E A E D C 0
+B a s ic P re m iu m A s s is ta n c e 0
+C o m m o n H e a lth W o rk in g A d u lts 0
+C o m m o n H e a lth N o n -W o rk in g A d u lts 1
+C o m m o n H e a lth C h ild re n 0
+H M O F a m ily A s s is ta n c e C h ild re n 1
+H M O F a m ily A s s is ta n c e A d u lts 6
+P C C F a m ily A s s is ta n c e C h ild re n 1
+P C C F a m ily A s s is ta n c e A d u lts 1
+U n e n r F a m ily A s s is ta n c e C h ild re n 2
+U n e n r F a m ily A s s is ta n c e A d u lts 1
+F A IP P re m iu m A s s is ta n c e C h ild re n 0
+F A IP P re m iu m A s s is ta n c e A d u lts 6
+L im ite d C h ild re n 1
+L im ite d A d u lts 1
+P re n a ta l/P re s u m p tive E lig ib ility 1
+L T C < 6 5 3
+K a le ig h -M u llig a n /A 4 E A d o p tio n 1
+S ta n d a rd D is a b le d A d u lt - P re m . A s s is t. 0
+S ta n d a rd N o n -D is a b le d C h ild re n - P re m . 2
+S ta n d a rd N o n -D is a b le d A d u lt - P re m . 0
+C o m m o n h e a lth P re m iu m A s s is ta n c e 1
+P A E s s e n tia l 1
+P C C E s s e n tia l 1
+S C O C o m m u n ity 0
+S C O In s titu tio n a l 0
+M C O C o m m o n H e a lth W o rk in g A d u lt 0
+P C C C o m m o n H e a lth W o rk in g A d u lt 2
+M C O C o m m o n H e a lth N o n W o rk in g A d u lt 0
+P C C C o m m o n H e a lth N o n W o rk in g A d u lt 0
+M C O C o m m o n H e a lth C h ild re n 0
+P C C C o m m o n H e a lth C h ild re n 0
+M C O E s s e n tia l 0
+BDSMD2222222222222222222222222222222222222222222222222222222222 e g in n in g
+a te fo r
+ta b le
+e a n
+iffe re n c e
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 9
+0 0 6 m 8
+0 0 6 m 9
+0 0 6 m 8
+0 0 6 m 8
+0 0 8 m 7
+0 0 7 m 1
+0 0 6 m 9
+0 0 6 m 9
+0 0 6 m 9
+0 0 6 m 1 0
+0 0 6 m 1 0
+0 0 7 m 1 2
+0 0 6 m 9
+0 0 6 m 9
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 1 0
+0 0 6 m 8
+0 0 7 m 2
+0 0 6 m 9
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 1 1
+0 0 6 m 9
+0 0 6 m 8
+0 0 6 m 1 0
+0 0 8 m 7
+0 0 6 m 1 0
+0 0 6 m 9
+0 0 6 m 1 0
+0 0 6 m 9
+0 0 7 m 1 2
+0 0 8 m 1 0
+0 0 6 m 1 1
+0 0 6 m 1 1
+0 0 6 m 9
+0 0 6 m 1 1
+0 0 6 m 9
+0 0 6 m 8
+0 0 6 m 1 1
+0 0 6 m 8
+0 0 6 m 1 2
+0 0 6 m 9
+0 0 6 m 9
+0 0 8 m 5
+0 0 7 m 5
+0 0 6 m 8
+0 0 6 m 1 0
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 1 0
+-1-1-1-5-471
+1-134
+1
+-1
+-3
+-8-5-2
+-1
+-2
+-1
+-21
+6
+M e a n
+E rro r
+1 8 1 .1
+2 5 3 .0
+2 1 3 .7
+4 8 7 .3
+-4 5 5 .4
+-8 6 .9
+,1 5 2 .0
+,2 6 4 .0
+,7 5 9 .4
+,4 7 2 .4
+,3 7 1 .5
+,7 7 5 .0
+,6 1 0 .6
+9 2 5 .7
+,8 4 0 .6
+,0 8 8 .6
+,7 7 7 .7
+,3 5 4 .4
+-1 8 8 .9
+6 3 8 .0
+,0 6 4 .6
+4 8 4 .0
+,2 0 8 .4
+-6 3 3 .6
+,5 8 8 .8
+8 4 6 .7
+-6 .2
+8 0 .2
+-1 .8
+2 2 0 .4
+,8 0 3 .9
+,6 1 3 .3
+,0 4 2 .8
+-5 7 9 .6
+2 5 4 .7
+3 8 7 .1
+,2 8 5 .4
+-2 6 2 .8
+8 9 3 .9
+,6 9 0 .0
+-8 0 .4
+-5 7 .1
+-8 .4
+-1 .9
+,6 5 9 .9
+-7 2 9 .8
+-9 1 .1
+1 3 6 .1
+,5 9 0 .4
+,4 7 2 .9
+-9 3 9 .7
+1 7 8 .3
+-1 2 0 .4
+8 .2
+-9 .4
+-6 4 .1
+1 5 8 .0
+,8 7 3 .2
+1
+1
+1
+R
+1
+114658212244
+1
+1
+3
+932
+1
+13
+1
+011
+1
+M24,8571,2,6,0,7,6,2,0,3,4,0,3,426,24,27,69
+1
+2,6,7,1643,42,0,3
+,9811,3,6,033
+1,0
+S15903783059840399899797166
+2378795396940971
+25142491011776
+P s e
+F E
+4 .2
+2 .4
+0 .8
+6 .2
+6 .7
+3 .1
+9 .2
+1 .8
+0 .3
+0 .1
+6 .9
+4 .1
+2 .6
+8 .6
+7 .5
+0 .8
+9 .5
+8 .5
+0 .7
+9 .3
+0 .2
+1 .4
+2 .0
+6 .1
+2 .8
+7 .2
+6 .7
+5 .8
+0 .8
+4 .3
+8 .4
+6 .8
+4 .0
+9 .9
+9 .1
+1 .5
+9 .0
+7 .8
+5 .8
+5 .6
+2 .1
+9 .7
+3 .0
+5 .7
+7 .0
+5 .7
+9 .0
+4 .4
+5 .8
+6 .0
+5 .1
+9 .8
+2 .3
+8 .3
+9 .9
+0 .8
+5 .0
+1 .8
+u
+BDST2222222222222222222222222222222222222222222222222222222222
+d o O u t-o
+e g in
+a te fo r
+ta b le
+re n d
+0 0 8 m 1 0
+0 0 7 m 1 2
+0 0 8 m 1
+0 0 8 m 4
+0 0 8 m 9
+0 0 8 m 8
+0 0 8 m 6
+0 0 8 m 8
+0 0 8 m 1 0
+0 0 8 m 7
+0 0 8 m 7
+0 0 8 m 7
+0 0 8 m 1 1
+0 0 8 m 1 1
+0 0 8 m 8
+0 0 8 m 7
+0 0 8 m 7
+0 0 8 m 1 1
+0 0 8 m 1 1
+0 0 8 m 1 0
+0 0 8 m 4
+0 0 8 m 2
+0 0 8 m 1 1
+0 0 8 m 1 1
+0 0 8 m 7
+0 0 8 m 3
+0 0 8 m 7
+0 0 8 m 7
+0 0 8 m 8
+0 0 8 m 5
+0 0 8 m 8
+0 0 8 m 8
+0 0 8 m 8
+0 0 8 m 8
+0 0 8 m 8
+0 0 7 m 7
+0 0 7 m 1 1
+0 0 8 m 1 1
+0 0 8 m 1 1
+0 0 8 m 0 7
+0 0 8 m 0 7
+0 0 8 m 1 1
+0 0 8 m 1 0
+0 0 8 m 9
+0 0 8 m 9
+0 0 8 m 8
+0 0 8 m 1 0
+0 0 8 m 1 0
+0 0 8 m 1 1
+0 0 8 m 8
+0 0 8 m 1 1
+0 0 8 m 1 0
+0 0 8 m 1 0
+0 0 8 m 1 1
+0 0 8 m 1 0
+0 0 8 m 1 1
+0 0 8 m 1 0
+0 0 8 m 1 1
+f-S
+-1
+-1-1-2-2-1
+1 0322
+-432
+2
+-3
+-5
+-1
+-1
+1
+-1
+-51
+9
+a m p le F
+M e a n
+E rro r
+-1 1 4 .3
+7 0 1 .9
+5 1 1 .6
+5 7 7 .0
+,1 1 6 .0
+-7 0 .9
+,0 2 0 .3
+,3 3 4 .8
+,5 6 8 .4
+,4 4 0 .5
+,8 6 1 .7
+,0 6 7 .0
+,3 8 2 .5
+,7 3 1 .7
+,7 3 2 .7
+-8 2 7 .9
+,1 5 4 .2
+,9 4 9 .7
+,1 4 4 .1
+3 2 1 .0
+-4 6 5 .8
+,2 3 3 .1
+-8 2 0 .0
+-7 1 7 .7
+,7 3 3 .6
+9 2 1 .5
+-8 .8
+2 9 6 .1
+-1 3 0 .3
+2 0 7 .2
+,9 5 5 .3
+4 0 9 .3
+-8 4 6 .2
+6 8 .9
+,4 2 5 .6
+-2 9 4 .8
+,1 6 0 .7
+-1 8 4 .7
+2 4 8 .7
+,6 4 8 .8
+-3 0 9 .2
+-7 8 .9
+1 2 .4
+-5 .2
+,5 7 1 .3
+-5 9 5 .0
+7 5 .0
+1 0 7 .9
+,2 3 0 .0
+,8 1 4 .9
+-1 3 9 .3
+1 2 1 .3
+-3 2 4 .6
+-5 .0
+2 .8
+-6 4 .6
+1 6 4 .6
+,6 2 0 .8
+o re
+R
+2
+1
+11443
+1 03332442
+2
+31
+6
+1
+1
+1
+1
+1 22
+1 4
+c
+M19,16,21,1,7,6,2,5,7,8,3,4,5,1,0,435,587,8,0
+312,449
+,62,323,83
+,86
+1,1,0124
+1,8
+a s t
+S F E
+2 0 .9
+0 6 .4
+3 0 .2
+0 4 .9
+9 6 .1
+5 6 .6
+2 0 .2
+0 8 .4
+9 5 .1
+1 0 .8
+4 7 .9
+5 1 .2
+9 6 .0
+2 3 .2
+5 4 .9
+6 5 .1
+9 8 .0
+8 9 .9
+2 2 .8
+6 9 .9
+4 2 .8
+5 1 .6
+9 2 .5
+8 4 .7
+0 8 .1
+5 2 .7
+9 .6
+7 4 .2
+5 6 .3
+5 9 .5
+0 6 .6
+8 6 .1
+3 3 .8
+8 2 .8
+2 8 .5
+9 5 .6
+2 0 .3
+0 1 .6
+7 8 .0
+9 4 .6
+2 5 .6
+9 5 .6
+1 4 .6
+8 .7
+0 6 .8
+8 7 .1
+8 4 .0
+1 4 .6
+4 2 .1
+5 3 .2
+4 6 .8
+6 9 .8
+8 2 .4
+1 2 .3
+1 8 .3
+7 1 .4
+8 2 .6
+3 5 .1
+BT2222222222222222222222222222222222222222222222222222222222 re a k in
+re n d
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 8 m 7
+0 0 6 m 1
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 9
+0 0 6 m 1
+0 0 7 m 1
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 1
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 9
+0 0 8 m 1
+0 0 6 m 9
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 7 m 1
+0 0 8 m 4
+0 0 6 m 1
+0 0 6 m 1
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 9
+0 0 6 m 8
+0 0 6 m 1
+0 0 6 m 8
+0 0 6 m 8
+0 0 8 m 5
+0 0 7 m 5
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 8
+0 0 6 m 1
+1
+0
+1
+-1-1
+92
+2-3-54
+1
+-3
+-5
+-1
+-1
+1
+-1
+1
+9
+M e a n
+E rro r
+8 7 2 .8
+7 9 5 .4
+,0 8 9 .4
+5 5 2 .7
+2 2 .7
+-5 2 .9
+-7 8 6 .3
+,2 8 9 .8
+,8 2 1 .7
+7 6 8 .2
+9 8 3 .2
+,3 3 2 .6
+,2 3 3 .0
+9 6 3 .1
+,4 3 4 .3
+,5 1 2 .9
+,1 1 9 .1
+,5 1 8 .5
+-3 2 9 .9
+8 1 3 .4
+,3 6 2 .0
+4 3 1 .6
+-9 9 3 .7
+-4 1 3 .9
+,7 5 9 .1
+8 0 7 .3
+-5 .2
+3 8 4 .9
+3 0 .5
+2 2 9 .7
+,7 2 9 .8
+3 8 2 .1
+,1 9 3 .6
+-1 7 .8
+3 3 .7
+-3 1 8 .0
+,0 5 9 .8
+-5 4 .5
+,2 4 0 .9
+-9 9 1 .4
+-1 7 2 .1
+-3 6 .5
+-7 .2
+1 .0
+,1 0 2 .0
+-4 2 8 .6
+-9 0 .8
+1 7 6 .6
+-9 1 .6
+,7 7 5 .3
+-3 3 9 .9
+2 1 3 .3
+-8 9 .7
+7 .2
+8 0 .8
+-6 3 .9
+1 7 0 .3
+,5 3 3 .4 1
+R112
+14229213354
+1
+1
+3
+6
+1
+1
+11
+1
+82
+4
+M,0,0,55618,6,0,6,2,9,6,3,1,7,1,648,64,05,89
+4
+2,14,2
+33,2
+,3,61
+,2411,5,0332
+1,7
+S10573465152315297538095832
+7385589010784771
+79194065619784
+F E
+5 .4
+6 .3
+5 .7
+8 .0
+1 .6
+0 .8
+1 .2
+8 .7
+8 .0
+3 .1
+7 .2
+0 .7
+9 .9
+2 .1
+0 .3
+6 .3
+0 .3
+3 .1
+6 .1
+2 .9
+6 .3
+3 .3
+3 .3
+5 .4
+3 .9
+2 .4
+5 .6
+4 .3
+7 .6
+4 .9
+6 .2
+5 .2
+3 .4
+1 .0
+3 .1
+9 .4
+5 .5
+2 .2
+5 .7
+4 .5
+8 .3
+1 .6
+1 .1
+4 .3
+1 .8
+7 .8
+1 .3
+0 .2
+5 .0
+8 .0
+7 .2
+4 .6
+5 .8
+7 .6
+5 .8
+0 .7
+9 .2
+4 .5
+p
+u
+o Gr
+p
+o
+P
+M e th o d A M e th o d B M e th o d C
+
+Attachment A
+Table 2: RMSFEs of Individual Models and Total Caseload Models
+7
+MMM**
+5*
+eee85 th o
+th o
+th o
+s e
+8 g
+d A
+d B
+d C
+p a ra
+ro u p
+te fo
+s a d
+re
+d e
+cd
+R
+a s
+to
+M
+tsg
+S F
+m a
+e th e
+E o f In d iv id u
+1 9 ,6 7 9
+7 ,6 0 1
+1 4 ,9 7 5
+d e , e rro rs s
+r to m a k e o
+a
+un
+l M o d
+m m e d
+e to ta
+e ls *
+a c ro s s
+l c a s e lo
+R
+fo
+a d
+M
+re
+fo
+S
+c a
+re
+F
+sc
+E o f T o ta l C a s
+4 ,0 1 5
+1 3 ,1 5 7
+8 ,1 6 7
+ts to c a lc u la te
+a s t
+e lo
+o n
+a
+e
+d M
+rm
+o
+s
+d
+e
+e l* *
+
+ATTACHMENT B
+FINAL REPORT
+Medicaid Caseload Forecasting
+April 30, 2014
+Deborah Chollet
+Purvi Sevak
+Submitted to:
+Commonwealth of Massachusetts
+Executive Office for Administration and Finance
+State House Room 373
+Boston, MA 02133
+Project Officer: Julia Chabrier
+Submitted by:
+Mathematica Policy Research
+1100 1st Street, NE
+12th Floor
+Washington, DC 20001-4221
+Telephone: (202)-484-9220
+Facsimile: (202) 863-1763
+Project Director: Deborah Chollet
+Reference Number: 40343
+
+CONTENTS MATHEMATICA POLICY RESEARCH
+CONTENTS
+I INTRODUCTION AND SUMMARY ................................................................................................. 1
+II DECOMPOSITION OF ENROLLMENT CHANGES ........................................................................ 3
+A. Changes in enrollment .............................................................................................................. 3
+B. Changes in eligibility .................................................................................................................. 4
+B. Changes in take up .................................................................................................................... 6
+C. Decomposition of enrollment changes ...................................................................................... 7
+III MASSHEALTH ENROLLMENT PROJECTIONS .......................................................................... 11
+A. Projection methods .................................................................................................................. 11
+B. Comparing 2012 projected to actual enrollment ...................................................................... 11
+C. Projected eligiblity and enrollment ........................................................................................... 12
+D. Confidence intervals for 2014-2016 projected enrollment ....................................................... 16
+APPENDICES
+APPENDIX A: METHODS
+APPENDIX B: RULES FOR CODING 2009-2012 PROGRAM ELIGIBILITY
+APPENDIX C: RULES FOR CHANGING PROGRAM ELIGIBILITY IN 2014
+iii
+
+CONTENTS MATHEMATICA POLICY RESEARCH
+TABLES
+II.1 Change in MassHealth enrollment by population group and program cluster, 2009-2011 ............. 3
+II.2 Change in the estimated eligible population by population group and program cluster,
+2009-2011 ........................................................................................................................................ 4
+II.3 Estimated number of persons eligible for MassHealth by federal poverty level, 2009-2011 ........... 5
+II.4 Estimated take up by population group and program cluster, 2009-2011 ....................................... 7
+II.5 Decomposition of MassHealth enrollment change by program cluster and population
+group, 2009-2011 ........................................................................................................................... 10
+III.1 Actual and projected enrollment by population group and program cluster, 2012 ........................ 12
+III.2 Projected number of persons eligible for MassHealth by population group, 2014-2020 ............... 13
+III.3 Projected MassHealth enrollment by population group, 2014-2020 .............................................. 14
+III.4 Projected MassHealth enrollment by population group and program cluster, 2014-2020 ............. 15
+III.5 Confidence intervals for projected enrollment by population group, 2014-2016 ........................... 17
+FIGURES
+II.1 MassHealth enrollment as a percent of eligible children, adults, and seniors, 2009-2011 .............. 6
+II.2 Decomposition of the change in MassHealth enrollment by population group, 2009-2011 ............ 9
+III.1 Cumulative change in projected enrollment by population group and program cluster,
+2014-2020 ...................................................................................................................................... 16
+iv
+
+I. INTRODUCTION AND SUMMARY MATHEMATICA POLICY RESEARCH
+I. INTRODUCTION AND SUMMARY
+Historically, Massachusetts has operated 22 programs in Medicaid, each with different
+eligibility rules and some with different benefit designs. Most of these programs continue today.
+They include benefits for low-income children, adults, and seniors; for disabled and nondisabled
+children and adults; and for citizens and noncitizens. Eligibility for each program is limited by
+family income and by age; some programs also restrict eligibility by employment, firm size, or
+hours of employment; and some apply an asset test. With implementation of the Affordable Care
+Act (ACA), some of these programs (specifically, MassHealth Basic, Essential, Healthy Start,
+and Prenatal) were terminated as of January 2014, and some (CarePlus and Small Business
+Premium Assistance) were launched.
+Massachusetts contracted with Mathematica Policy Research (Mathematica) to estimate the
+number of individuals in Massachusetts who were eligible for each program historically, from
+2009 to 2011, and to identify the relative contribution to rising enrollment associated with two
+factors: (1) changes in the number of persons eligible for the programs; and (2) changes in the
+probability of enrollment when eligible. In addition, we were asked to project eligibility and
+enrollment in MassHealth programs from 2014 to 2020, and to develop confidence intervals
+around the 2014-2016 projections.
+In this report, we present historical estimates and projections of future enrollment and
+eligibility based on analysis of the Massachusetts sample of the American Community Survey
+(ACS), which relies on a large population sample (approximately 1 percent). The analysis uses
+pooled annual samples benchmarked to a single year, thus relying on a still larger population
+sample for each annual estimate. However, even the pooled samples are insufficient to estimate
+each of the smaller programs individually; in addition, the ACS does not ask about
+circumstances (such as disability or immigration status) in the same way as MassHealth
+considers them. To address these problems, we consider programs in clusters, first defined by the
+populations served (children, adults, and seniors) and then parsed into programs clusters for each
+population group.
+From analysis of enrollment changes from 2009 to 2011, we find that:
+ The changes in enrollment from 2009 to 2011 reflect changes in the estimated number of
+persons eligible for these programs and in particular, changes in the percentage of persons in
+each population group with very low income – less than 133 percent of the federal poverty
+level (FPL).
+ The proportion of eligible individuals enrolled in MassHealth grew steadily in each
+population group from 2009 to 2011, especially among children and seniors.
+ Across all population groups and program clusters, greater take up among the eligible
+population accounted for 61 percent of net enrollment from 2009 to 2011, while an increase
+in the number of persons eligible accounted for 39 percent.
+Based on the underlying analysis and projection of MassHealth enrollment from 2014 to 2020,
+we find that:
+1
+
+I. INTRODUCTION AND SUMMARY MATHEMATICA POLICY RESEARCH
+ Statistical (logit) models of enrollment among children, adults, and seniors (respectively)
+predict 94 percent of total enrollment, when tested against 2012 actual enrollment. The
+models perform equally well to predict 2012 enrollment in each population group and in
+most of the program clusters associated with children and seniors. For adults, the enrollment
+model performs less well overall and, in particular, when predicting enrollment in all but the
+largest program cluster (Standard and Common). Projections of 2014-2020 enrollment in
+CarePlus based on this modeling might be substantially low.
+ Across all populations, the number of persons eligible for any MassHealth program is
+projected to decline 2.3 percent from 2014 to 2020. The changes in eligibility differ by
+population group, with projected eligibility among children and adults declining 2.7 percent
+and 3.8 percent, respectively, while projected eligibility among seniors increases 8.4 percent.
+ Across all populations, the projected number of persons enrolled in MassHealth declines 5.8
+percent from 2014 to 2020, with MassHealth serving 2.4 percent fewer children and 10.1
+percent fewer adults in 2020 than in 2014. In contrast, the projected number of seniors
+enrolled in MassHealth grows more than 1 percent each year, cumulatively increasing 8.4
+percent from 2014 to 2020.
+ The changes in projected enrollment from 2014 to 2020 by population group are largely
+mirrored at the program level, when projected enrollment by population group is parsed into
+program clusters. Enrollment in every program cluster that serves children is projected to
+decline gradually each year. Among adults, the decline in projected enrollment is due largely
+to a relatively steep decline in Standard and Common and CarePlus enrollment, even as
+enrollment in Basic/Essential and Family Assistance is projected to rise. Enrollment among
+seniors is projected to grow in both program clusters that serve them, but more in the buy-in
+program than in Standard/Essential/Limited.
+These projection results represent efficient estimates at the population level—that is, the
+2014-2016 estimates for each population group are valid with 95 percent confidence within 1
+percentage point above or below the mean projection, and often within 0.3 percent. However, the
+models themselves explained 23-56 percent of the variation in enrollment in 2011, and they
+predicted enrollment in 2012 that was 94 percent of actual enrollment. Thus, the unexplained
+heterogeneity in the models is embedded in the projections, even if it is not apparent in the
+calculation of confidence intervals.
+Both phases of the analysis outlined above are presented in the following chapters. In
+Chapter II, we present the analysis decomposing the change in enrollment from 2009 to 2011 due
+to population change versus change in take up within each population group and by program
+cluster. In Chapter III, we present projections of eligibility and enrollment from 2014 to 2020,
+again by population group and program cluster. The data and methods used to support both
+analyses are described in Appendix A. The data elements and logic used to assign individuals to
+eligibility in each program cluster from 2009 to 2012 are reported in Appendix B. Modifications
+to that logic, for the purpose of projecting eligibility for each program cluster from 2014 to 2020,
+are reported in Appendix C.
+2
+
+II. DECOMPOSITION OF ENROLLMENT CHANGES MATHEMATICA POLICY RESEARCH
+II. DECOMPOSITION OF ENROLLMENT CHANGES
+In this chapter, changes in MassHealth enrollment and estimated eligibility among children
+(age 0-18), adults (age 19-64), and seniors (age 65 and older) from 2009 to 2011 are presented,
+in total and by program cluster. Changes in enrollment are decomposed by year, population
+group, and program cluster into two component parts: (1) the change in enrollment due to a
+change in the take up rate among the eligible population; and (2) the change in enrollment due to
+a change in the number of people eligible for the program.
+A. Changes in enrollment
+From 2009 to 2011, enrollment in MassHealth programs grew 8.3 percent—an increase of
+approximately 103,000 enrollees over the 3-year period (Table II.1). Adults accounted for 57.8
+percent of the total growth in MassHealth enrollment from 2009 to 2011; nearly 60,000 more
+adults were enrolled in 2011 than in 2009, about equally divided between the Standard and
+Common programs and Basic/Essential and Family Assistance programs.
+Table II.1. Change in MassHealth enrollment by population group and
+program cluster, 2009-2011
+Percent of
+Percent Total
+Change Change Enrollment
+2009- 2009- Change
+Population and Program Cluster 2009 2010 2011 2011 2011 2009-2011
+Total, all populations and programs 1,242,341 1,295,797 1,345,539 103,197 8.3% 100.0%
+Children 515,212 533,567 548,724 33,512 6.5% 32.5%
+Standard and Common 439,336 459,815 473,179 33,843 7.7% 32.8%
+Family Assistance 58,974 56,710 58,930 -45 -0.1% 0.0%
+Limited, CMSP 16,901 17,043 16,615 -286 -1.7% -0.3%
+Adults 584,024 614,181 643,670 59,647 10.2% 57.8%
+Standard and Common 434,620 447,828 460,790 26,170 6.0% 25.4%
+Basic/Essential and Family Assistance 98,064 110,851 126,347 28,282 28.8% 27.4%
+Limited, Prenatal 50,132 53,913 54,338 4,206 8.4% 4.1%
+Buy-in 1,208 1,590 2,196 988 81.9% 1.0%
+Seniors 143,106 148,049 153,144 10,038 7.0% 9.7%
+Standard, Essential and Limited 124,823 128,881 132,510 7,687 6.2% 7.4%
+Buy-in 18,283 19,168 20,634 2,351 12.9% 2.3%
+Source: Mathematica Policy Research analysis of 2009-2011 MassHealth data.
+Note: See Appendix A for definitions of population groups and program clusters.
+Enrollment among children and seniors grew more slowly than among adults. Children’s
+enrollment grew 6.5 percent, with larger growth in Standard and Common (7.7 percent) and
+declining enrollment in Family Assistance (-0.1 percent) and Limited/CMSP (-1.7 percent),
+Children accounted for 32.5 percent of enrollment growth across all MassHealth programs from
+2009 to 2011.
+3
+
+II. DECOMPOSITION OF ENROLLMENT CHANGES MATHEMATICA POLICY RESEARCH
+MassHealth enrollment among seniors grew at about the same pace as among children, by 7
+percent from 2009 to 2011, and about twice as fast (from a smaller base) in the Buy-in program
+as in the Standard, Essential, and Limited program cluster. Seniors accounted for 9.7 percent of
+the total increase in MassHealth enrollment from 2009 to 2011.
+B. Changes in eligibility
+The increase in total enrollment noted above corresponds to an increase in the total number
+of persons eligible for MassHealth programs. Estimated eligibility for one or more MassHealth
+programs increased 3.2 percent from 2009 to 2011, by more than 90,000 persons (Table II.2).
+Table II.2. Change in the estimated eligible population by population group
+and program cluster, 2009-2011
+Percent of
+Total
+Change in
+Estimated
+Summary: Change in Eligible
+Percent Percent Percent Number of Adults
+Change Change Change Estimated and
+Population and 2009- 2010- 2009- Eligibles Children
+Program Cluster 2009 2010 2011 2010 2011 2011 2009-2011 2009-2011
+Total, all populations 2,798,050 2,829,249 2,888,666 1.1% 2.1% 3.2% 90,616 n/a
+and programs
+Total, children and 2,479,991 2,515,072 2,577,480 1.4% 2.5% 3.9% 97,489 100.0%
+adults, all programs
+Children 757,404 758,669 766,604 0.2% 1.0% 1.2% 9,200 9.4%
+Standard and 594,961 598,193 607,520 0.5% 1.6% 2.1% 12,559 12.9%
+Common
+Family Assistance 128,907 123,399 123,915 -4.3% 0.4% -3.9% -4,991 -5.1%
+Limited, CMSP 37,855 41,076 38,629 8.5% -6.0% 2.0% 775 0.8%
+Adults 1,722,588 1,756,403 1,810,877 2.0% 3.1% 5.1% 88,289 90.6%
+Standard and 612,823 642,103 655,309 4.8% 2.1% 6.9% 42,485 43.6%
+Common
+Basic/Essential and 1,005,196 1,012,071 1,047,326 0.7% 3.5% 4.2% 42,130 43.2%
+Family Assistance
+Limited, Prenatal 88,916 87,530 87,693 -1.6% 0.2% -1.4% -1,223 -1.3%
+Buy-in 35,503 31,883 36,975 -10.2% 16.0% 4.1% 1,472 1.5%
+Seniors 318,058 314,177 311,186 -1.2% -1.0% -2.2% -6,873 n/a
+Standard, Essential 253,551 246,070 251,850 -3.0% 2.3% -0.7% -1,701 n/a
+and Limited
+Buy-in 64,508 68,106 59,336 5.6% -12.9% -8.0% -5,172 n/a
+Source: Mathematica Policy Research analysis of 2009-2011 American Community Survey data, Massachusetts population
+sample.
+Notes: See Appendix A for definitions of population groups and program clusters. Persons eligible for programs in more than
+one cluster are counted in each cluster. As a result, the number of persons in the program clusters may not sum to the
+population group totals.
+All of the increase in the eligible population was due to growth in the number of eligible
+adults and children. The number of adults eligible for MassHealth grew 5.1 percent from 2009 to
+4
+
+II. DECOMPOSITION OF ENROLLMENT CHANGES MATHEMATICA POLICY RESEARCH
+2011, with the increase about evenly divided between Standard and Common (where the number
+of eligible adults grew 6.9 percent, by approximately 42,000 adults) and Basic/Essential and
+Family Assistance (where the number of eligible adults grew 4.2 percent, also approximately
+42,000 persons). Adults accounted for 90.6 percent of the increase in the number of persons
+eligible for MassHealth from 2009 to 2011, net of the small decline in the estimated number of
+eligible seniors.
+The number of children eligible for MassHealth grew more slowly, by 1.2 percent from
+2009 to 2011. Nearly all of the increase was due to growth in eligibility for Standard and
+Common (where the number of eligible children grew 2.1 percent). Children eligible for
+Limited/CMSP also grew (by 2.0 percent), but from a very small base.
+In contrast, the number of seniors eligible for any MassHealth program declined 2.2 percent,
+mostly due to fewer seniors eligible for the buy-in programs. However, the number of seniors
+eligible for other MassHealth programs (Standard, Essential, and Limited) also declined slightly,
+by 0.7 percent.
+The change in the number of persons eligible for specific MassHealth programs is reflected
+in the changing income distribution among the population eligible for any MassHealth program
+from 2009 to 2011 (Table II.3). The number of eligible children in families with income below
+133 percent FPL grew 7.0 percent from 2009 to 2011, while the number of eligible adults with
+family income below 133 percent FPL grew 11.5 percent. The number of seniors eligible for any
+MassHealth program fell overall, but much faster among those with income above 133 percent
+FPL (- 4.6 percent) than among seniors with lower incomes (-0.2 percent).
+Table II.3. Estimated number of persons eligible for MassHealth by federal
+poverty level, 2009-2011
+Percent Percent Percent
+Change Change Change
+Population and Program 2009- 2010- 2009-
+Cluster 2009 2010 2011 2010 2011 2011
+Total 2,798,050 2,829,249 2,888,666 1.1% 2.1% 3.2%
+Children 757,404 758,669 766,604 0.2% 1.0% 1.2%
+0-133% FPL 323,421 339,960 346,156 5.1% 1.8% 7.0%
+Above 133% FPL 433,983 418,709 420,448 -3.5% 0.4% -3.1%
+Adults 1,722,588 1,756,403 1,810,877 2.0% 3.1% 5.1%
+0-133% FPL 560,404 613,713 624,858 9.5% 1.8% 11.5%
+Above 133% FPL 1,162,184 1,142,691 1,186,019 -1.7% 3.8% 2.1%
+Seniors 318,058 314,177 311,186 -1.2% -1.0% -2.2%
+0-133% FPL 183,436 179,953 183,158 -1.9% 1.8% -0.2%
+Above 133% FPL 134,622 134,224 128,028 -0.3% -4.6% -4.9%
+Source: Mathematica Policy Research analysis of 2009-2011 American Community Survey data, Massachusetts
+population sample.
+Notes: See Appendix A for definitions of population groups. For comparison with projections of eligibility and
+enrollment in 2014 through 2020, federal poverty levels are estimated as Modified Adjusted Gross Income
+(MAGI) divided by HHS-determined poverty income. The 5-percent FPL income disregard that the ACA
+requires as of 2014 is not applied.
+5
+
+II. DECOMPOSITION OF ENROLLMENT CHANGES MATHEMATICA POLICY RESEARCH
+C. Changes in take up
+The proportion of eligible individuals enrolled in MassHealth (take up) grew steadily in each
+population group from 2009 to 2011. Take up among children grew from 68.0 percent in 2009 to
+71.6 percent in 2011, while take up among seniors grew from 45.0 percent to 49.2 percent
+(Figure 1). Take up among adults grew more slowly, from 33.9 percent to 35.5 percent.
+Among eligible children, take up in the largest program cluster for children, Standard and
+Common, grew more than in other program clusters, rising from 73.8 percent of eligible children
+in 2009 to 77.9 percent in 2011 (Table II.4). Among adults, take up of Standard and Common
+(also the largest program cluster for adults) was about the same in 2009 (70.9 percent) as in 2011
+(70.3 percent), but take up in the smaller Basic/Essential program cluster increased from 9.8
+percent in 2009 to 12.1 percent in 2011. Among eligible seniors, take up in both program clusters
+increased, but faster in the relatively small buy-in programs, from 28.3 percent in 2009 to 34.8
+percent in 2011.
+Figure II.1. MassHealth enrollment as a percent of eligible children, adults,
+and seniors, 2009-2011
+80.0%
+71.6%
+70.3%
+Children
+68.0%
+70.0%
+60.0%
+49.2% Seniors
+50.0% 47.1%
+45.0%
+40.0%
+35.0% 35.5%
+33.9%
+Adults
+30.0%
+2009 2010 2011
+Source: Mathematica Policy Research analysis of 2009-2011 American Community Survey data, Massachusetts
+population sample.
+Note: See Appendix A for definitions of population groups and represented programs.
+6
+
+II. DECOMPOSITION OF ENROLLMENT CHANGES MATHEMATICA POLICY RESEARCH
+Table II.4. Estimated take up rates by population group and program cluster,
+2009-2011
+2009 2010 2011
+Population and Estimated Estimated Estimated
+Program Cluster Enrollment Take up Enrollment Take up Enrollment Take up
+Total 1,242,341 44.4% 1,295,797 45.8% 1,345,539 46.6%
+Children 515,212 68.0% 533,567 70.3% 548,724 71.6%
+Standard and Common 439,336 73.8% 459,815 76.9% 473,179 77.9%
+Family Assistance 58,974 45.7% 56,710 46.0% 58,930 47.6%
+Limited, CMSP 16,901 44.6% 17,043 41.5% 16,615 43.0%
+Adults 584,024 33.9% 614,181 35.0% 643,670 35.5%
+Standard and Common 434,620 70.9% 447,828 69.7% 460,790 70.3%
+Basic/Essential and
+Family Assistance 98,064 9.8% 110,851 11.0% 126,347 12.1%
+Limited, Prenatal 50,132 56.4% 53,913 61.6% 54,338 62.0%
+Buy-in 1,208 3.4% 1,590 5.0% 2,196 5.9%
+Seniors 143,106 45.0% 148,049 47.1% 153,144 49.2%
+Standard, Essential and
+Limited 124,823 49.2% 128,881 52.4% 132,510 52.6%
+Buy-in 18,283 28.3% 19,168 28.1% 20,634 34.8%
+Source: Mathematica Policy Research analysis of 2009-2011 program and American Community Survey data, Massachusetts
+population sample.
+Note: See Appendix A for definitions of population groups and program clusters.
+D. Decomposition of enrollment changes
+In this section, we present estimates of enrolment from 2009-2010 decomposed as (1) the
+change in enrollment due to a change in take up; and (2) the change in enrollment due to a
+change in the number of eligible persons. The change in enrollment from the base year due to a
+change in the rate of take up is calculated as the difference between enrollment in year t and the
+enrollment that would have occurred had the take up rate not changed from the base year b. That
+is, where E and L are the number of persons respectively enrolled and eligible in year t, the
+t t
+change in enrollment due to a change in the rate of take up r is:
+Δ = E – ( L * r )
+r t t b
+The change in enrollment due to a change in the number of people eligible is calculated as
+the residual, that is:
+Δ = E – E - Δ = (L - L) * r
+L t b r t b b
+The eligibility and take up components of the annual and 2-year change in MassHealth
+enrollment from 2009 to 2011 are shown by population group in Figure 2. Two aspects of these
+changes are noteworthy: First, the factors that drove change in each population group are
+different. Among children, increased take up accounted for most of the change each year, and for
+78 percent of the change in enrollment over two years. Among seniors, increased take up
+accounted for all of the increase in enrollment from 2009-2010 (as the estimated number of
+7
+
+II. DECOMPOSITION OF ENROLLMENT CHANGES MATHEMATICA POLICY RESEARCH
+eligible seniors declined) and 89 percent of increase in enrollment from 2010 to 2011. As shown
+in Table II.5, across all population groups and program clusters, greater take up accounted for 61
+percent of net enrollment from 2009 to 2011, and an increase in the eligible population
+accounted for 39 percent.
+Second, the changes in enrollment associated, respectively, with changes in take up and
+changes in the number of eligible people vary widely by program cluster. For example, the
+relatively large increase in children’s enrollment in Standard and Common from 2009 to 2010
+was predominantly due to an increase in take up (88.3 percent); while the smaller increase in
+enrollment from 2010 to 2011, was due to both to higher take up (46.4 percent) and larger
+numbers of eligible children (53.6 percent).
+Among adults, growth in the number of eligible adults accounted for all of the increase in
+enrollment in Standard and Common from 2009 to 2010, and 71.1 percent of the increase from
+2010 to 2011. Conversely, in Basic/Essential and Family Assistance, most of the increase in
+enrollment both 2010 and 2011 was due to increased take up. Over both years, greater take up
+accounted for 85.5 percent of the increase in the number of adults enrolled in Basic/Essential and
+Family Assistance.
+Similarly, greater take up accounted for all of the increase in MassHealth enrollment among
+seniors in both Standard/Essential/Limited and the buy-in program over the two-year period from
+2009-2011, as eligibility declined. However, from 2010 to 2011, both higher take up and growth
+in the size of the eligible population accounted for the one-year increase seniors’ enrollment in
+the larger Standard/Essential/Limited program cluster.
+8
+
+II. DECOMPOSITION OF ENROLLMENT CHANGES MATHEMATICA POLICY RESEARCH
+Figure II.2: Decomposition of the change in MassHealth enrollment by
+population group, 2009-2011
+Number of persons
+60,000
+50,000
+Change in enrollment
+due to a change in the
+56%
+40,000 number of eligible
+people
+30,000 22%
+68% 46%
+20,000 7%
+78% 44% Change un enrollment
+42% due to a change in the
+10,000 93% 54%
+32% 58% 11% 123% rate of take up
+154%
+89%
+0
+-54% -23%
+-10,000
+Children Adults Seniors Children Adults Seniors Children Adults Seniors
+2009-2010 2010-2011 Summary
+2009-2011
+Source: Mathematica Policy Research analysis of 2009-2011 American Community Survey data, Massachusetts
+population sample.
+Note: See Appendix A for definitions of population groups and represented programs.
+9
+
+II. DECOMPOSITION OF ENROLLMENT CHANGES MATHEMATICA POLICY RESEARCH
+Table II.5. Decomposition of MassHealth enrollment change by program cluster and population group,
+2009-2011
+2009-2010 2010-2011 Summary: 2009-2011
+Percent of Percent of Percent of
+Enrollment Change Enrollment Change Enrollment Change
+Due to: Due to: Due to:
+Change Change Change
+Change in Change in in
+Population and Program Change in in Take Number Change in in Take Number Change in Change in Number
+Cluster Enrollment Up Eligible Enrollment Up Eligible Enrollment Take Up Eligible
+Total 53,456 74.1% 25.9% 49,741 45.3% 54.7% 103,197 61.0% 39.0%
+Children 18,355 92.9% 7.1% 15,157 57.8% 42.2% 33,512 78.1% 21.9%
+Standard and Common 20,478 88.3% 11.7% 13,365 46.4% 53.6% 33,843 72.6% 27.4%
+Family Assistance -2,265 -11.3% 111.3% 2,220 89.3% 10.7% -45 -5023.6% 5123.6%
+Limited, CMSP 141 -917.2% 1017.2% -428 -137.4% 237.4% -286 220.9% -120.9%
+Adults 30,158 31.9% 68.1% 29,489 54.5% 45.5% 59,647 43.7% 56.3%
+Standard and Common 13,208 -57.2% 157.2% 12,962 28.9% 71.1% 26,170 -15.1% 115.1%
+Basic/ Essential and Family Assistance 12,787 94.8% 5.2% 15,495 75.1% 24.9% 28,282 85.5% 14.5%
+Limited, Prenatal 3,781 120.7% -20.7% 425 76.5% 23.5% 4,206 116.4% -16.4%
+Buy-in 382 132.2% -32.2% 607 58.2% 41.8% 988 94.9% 5.1%
+Seniors 4,943 153.9% -53.9% 5,095 89.0% 11.0% 10,038 122.9% -22.9%
+Standard, Essential and Limited 4,058 190.7% -90.7% 3,629 16.6% 83.4% 7,687 110.9% -10.9%
+Buy-in 885 -15.3% 115.3% 1,466 268.4% -168.4% 2,351 162.3% -62.3%
+Source: Mathematica Policy Research analysis of 2009-2011 program and American Community Survey data, Massachusetts population sample.
+Note: See Appendix A for definitions of population groups and program clusters.
+10
+
+III. MASSHEALTH ENROLLMENT PROJECTIONS MATHEMATICA POLICY RESEARCH
+III. MassHealth Enrollment Projections
+In this chapter, we report MassHealth enrollment projections from 2014 to 2020. In Section
+A, we summarize our projection methods; in Section B, estimates of enrollment in 2012 using
+those methods are presented and compared to actual 2012 enrollment. In Section C, projected
+enrollment from 2014 to 2020 is presented, inclusive of ACA effects on enrollment in current
+programs as well as in the new CarePlus program for low-income adults. Confidence intervals
+around the mean 2014-2016 enrollment projections for each population group are reported in
+Section D.
+A. Projection methods
+Our projection methods allow two sources of change in eligibility for MassHealth: (1)
+population changes (specifically, changes in the size and age of the population, as well as the
+occupational and industry mix of employment); and (2) changes in program eligibility. As
+described in Appendix A, we benchmarked the baseline population to reflect the population and
+employment projections in each forecast year, 2014-2020.
+To predict enrollment among the eligible population, we estimated three logit regression
+models on the 2011 ACS predicting enrollment among (respectively) children, adults, and
+seniors as a function of various personal and family characteristics. To support prediction of
+enrollment in CarePlus, we included adults eligible for Commonwealth Care in the model
+estimated for adults. The estimated coefficients for each model, when applied to individuals in
+the projected population data, generate a predicted probability of enrollment for each individual
+in each projected year, consistent with 2011 enrollment behavior.
+Once the ACA changes in program eligibility that occur in 2014 are assigned, only changes
+in the distribution of characteristics within the population groups—including their age and
+employment characteristics as well as changes in characteristics that correlate with age and
+employment, such as income—drive changes in projected enrollment. The rules used to assign
+eligibility in all years from 2014 to 2020 are listed in Appendix C.
+B. Comparing 2012 projected to actual enrollment
+To gauge the models’ ability to predict enrollment accurately, we projected 2012 enrollment
+and compared the results to administrative enrollment counts. Comparisons for each population
+group and program cluster are presented in Table III.1.
+On average, the models predict 94 percent of total enrollment, and they perform about
+equally well for each population group. They also perform about equally well—within 6
+percentage points—for most of the program clusters associated with children and seniors. For
+some program clusters (Family Assistance for children and the buy-in program for seniors), the
+models predicted within 3 percentage points.
+11
+
+III. MASSHEALTH ENROLLMENT PROJECTIONS MATHEMATICA POLICY RESEARCH
+Table III.1. Actual and projected enrollment by population group and program
+cluster, 2012
+Predicted Ratio of Predicted
+Population and program cluster Actual Enrollment Enrollment to Actual Enrollment
+Total, all populations and programs 1,636,304 1,536,665 0.94
+Children 562,064 535,022 0.95
+Standard and common 486,148 456,781 0.94
+Family assistance 59,649 60,013 1.01
+Limited, CMSP 16,267 18,228 1.12
+Adults 913,742 849,083 0.93
+Standard and common 476,080 447,340 0.94
+Basic/essential, family assistance 136,379 174,639 1.28
+Limited, prenatal 55,840 49,978 0.90
+Buy-in 2,639 7,236 2.74
+Commonwealth carea 242,804 169,890 0.70
+Seniors 160,498 152,559 0.95
+Standard, essential, and limited 138,998 130,389 0.94
+Buy-in 21,500 22,170 1.03
+a Enrollment in Commonwealth Care, which was not a MassHealth program and is discontinued as of 2014, was
+projected as an indicator of potential enrollment in HealthPlus.
+However, the take up model for adults performs less well overall (predicting 93 percent of
+actual enrollment, versus 95 percent for children and seniors), and it performs substantially less
+well when parsed into all but the largest program cluster (Standard and Common). The model
+predicts enrollment in the smallest program cluster (adult buy-in, with fewer than 3,000 actual
+enrollees in 2012) with the greatest error, predicting 2.74 times actual enrollment. Conversely, it
+underestimates enrollment in Commonwealth Care by 30 percent—suggesting that our
+projections of enrollment in CarePlus are substantially less than might actually occur.
+C. Projected eligibility and enrollment
+We projected eligibility within each population group from 2014 to 2020. Changes in the
+projected number of persons eligible are driven only by changes in the demographic and
+employment characteristics of the projected population. Consequently, they do not reflect a
+number of economic changes that are not measured by employment status—including, for
+example, potential changes in productivity due to technological change or projected changes in
+retirement income among seniors.
+Table III.2 presents projections by year and population group. We project that across all
+populations, the number of persons eligible for any MassHealth program will decline 2.3 percent
+between 2014 and 2020. However, the changes in eligibility differ by population group, with
+eligibility among seniors increasing 8.4 percent, eligibility among children declining 2.7 percent,
+and adult eligibility declining 3.8 percent. Approximately half of the change in eligibility among
+children (-1.4 percentage points) is projected to occur from 2014 to 2015.
+12
+
+III. MASSHEALTH ENROLLMENT PROJECTIONS MATHEMATICA POLICY RESEARCH
+Table III.2. Projected number of persons eligible for MassHealth by
+population group, 2014-2020
+Year Total Children Adults Seniors
+Average monthly eligible
+2014 3,280,562 725,176 2,214,183 341,204
+2015 3,277,668 714,826 2,216,470 346,372
+2016 3,260,178 712,835 2,196,755 350,588
+2017 3,244,290 710,902 2,178,351 355,037
+2018 3,230,013 709,029 2,161,248 359,737
+2019 3,217,362 707,219 2,145,435 364,708
+2020 3,206,350 705,473 2,130,903 369,974
+Annual change
+2014-2015 -0.1% -1. 4% 0.1% 1.5%
+2015-2016 -0.5% -0.3% -0.9% 1.2%
+2016-2017 -0.5% -0.3% -0.8% 1.3%
+2017-2018 -0.4% -0.3% -0.8% 1.3%
+2018-2019 -0.4% -0.3% -0.7% 1.4%
+2019-2020 -0.3% -0.2% -0.7% 1.4%
+Total change, 2014-2020 -2.3% -2.7% -3.8% 8.4%
+As described above, projected enrollment by population group is based on the enrollment
+models estimated for children, adults, and seniors, applied to the projected population in each
+year. Consistent with declining eligibility for MassHealth overall, total enrollment in
+MassHealth is projected to decline (-5.8 percent, from 2014 to 2020), due to fewer children and
+adults projected to enroll (Table III.3). The number of children and adults enrolled in
+MassHealth is projected to decline each year, with MassHealth serving 2.4 percent fewer
+children and 10.1 percent fewer adults in 2020 than in 2014. In contrast, the number of seniors
+projected to enroll in MassHealth increases by more than 1 percent each year, and cumulatively
+by 8.4 percent from 2014 to 2020.
+13
+
+III. MASSHEALTH ENROLLMENT PROJECTIONS MATHEMATICA POLICY RESEARCH
+Table III.3. Projected MassHealth enrollment by population group, 2014-2020
+Year Total Children Adults Seniors
+Average monthly enrollment
+2014 1,614 ,304 520, 615 932, 603 161, 086
+2015 1,600,612 513,640 923,175 163,798
+2016 1,582,086 512,410 903,942 165,735
+2017 1,564,820 511,224 885,821 167,775
+2018 1,548,816 510,083 868,804 169,928
+2019 1,534,075 508,990 852,880 172,205
+2020 1,520,599 507,945 838,038 174,616
+Annual change
+2014-2015 -0.8% -1.3 % -1.0 % 1.7 %
+2015-2016 -1.2% -0.2% -2.1% 1.2%
+2016-2017 -1.1% -0.2% -2.0% 1.2%
+2017-2018 -1.0% -0.2% -1.9% 1.3%
+2018-2019 -1.0% -0.2% -1.8% 1.3%
+2019-2020 -0.9% -0.2% -1.7% 1.4%
+Summary: 2014-2020 -5.8% -2.4% -10.1% 8.4%
+The changes in projected enrollment by population group are largely mirrored at the
+program level, when projected enrollment is parsed into program clusters. Enrollment in nearly
+every program cluster that serves children or adults is projected to fall each year from 2014 to
+2020. The largest decline in children’s enrollment is projected to occur in 2014-2015 (-1.3
+percent in Standard and Common, and -1.5 percent in Family Assistance and Limited/CMSP)
+(Table III.4). In all other years, from 2015 to 2020, children’s enrollment is projected to decline
+0.2 percent per year.
+Among adults, total enrollment is projected to decline faster from 2015 to 2020 than from
+2014 to 2015, driven by declining enrollment in two of the three largest program clusters that
+serve adults—Standard and Common, and CarePlus. From 2015 to 2020, adult enrollment in
+Standard and Common is projected to decline more than 2 percent per year, while enrollment in
+CarePlus is projected to decline more than 3 percent per year. Cumulatively, from 2014 to 2020,
+adult enrollment in Standard and Common is projected to decline 11.3 percent, while enrollment
+in CarePlus is projected to decline 17.5 percent (Figure III.1). That said, as noted in Section B,
+the enrollment model estimated for adults under-predicts enrollment in both programs, and
+especially in CarePlus; whether the model increasingly under-predicts over time (so as to predict
+steadily declining enrollment in these programs) might warrant further investigation. In contrast
+to all other MassHealth programs that serve adults, enrollment in Family Assistance or Small
+Business Premium Assistance (SBPA) program cluster is projected to maintain enrollment,
+increasing 1 percent from 2014 to 2015 and 0.3 percent each year from 2015 to 2020.
+14
+
+III. MASSHEALTH ENROLLMENT PROJECTIONS MATHEMATICA POLICY RESEARCH
+Table III.4. Projected MassHealth enrollment by population group and program cluster, 2014-2020
+2014 2015 2016 2017 2018 2019 2020
+Projected average monthly enrollm ent
+Total, all populations and programs 1,614,304 1,600,612 1,582,086 1,564,820 1,548,816 1,534,075 1,520,599
+Children 520,615 513,640 512,410 511,224 510,083 508,990 507,945
+Standard and Common 448,155 442,274 441,216 440,196 439,217 438,281 437,387
+Family Assistance 54,790 53,967 53,839 53,715 53,594 53,478 53,365
+Limited, CMSP 17,670 17,398 17,355 17,313 17,272 17,232 17,193
+Adults 932,603 923,175 903,942 885,821 868,804 852,880 838,038
+Standard and Common 477,239 470,635 459,959 449,881 440,395 431,495 423,175
+Family Assistance/SBPA 166,459 168,195 168,668 169,166 169,689 170,235 170,804
+Limited 46,650 46,114 45,534 44,995 44,499 44,045 43,633
+Buy-in 7,130 7,089 6,934 6,788 6,651 6,524 6,405
+Care Plus 235,124 231,142 222,848 214,991 207,570 200,581 194,021
+Seniors 161,086 163,798 165,735 167,775 169,928 172,205 174,616
+Standard and Limited 139,406 141,702 143,258 144,894 146,619 148,441 150,370
+Buy-In 21,680 22,096 22,477 22,881 23,310 23,764 24,247
+Annual percentage change in projected average monthly enrollment
+Total, all populations and programs -- -0.8% -1.2% -1.1% -1.0% -1.0% -0.9%
+Children -- -1.3% -0.2% -0.2% -0.2% -0.2% -0.2%
+Standard and Common -- -1.3% -0.2% -0.2% -0.2% -0.2% -0.2%
+Family Assistance -- -1.5% -0.2% -0.2% -0.2% -0.2% -0.2%
+Limited, CMSP -- -1.5% -0.2% -0.2% -0.2% -0.2% -0.2%
+Adults -- -1.0% -2.1% -2.0% -1.9% -1.8% -1.7%
+Standard and Common -- -1.4% -2.3% -2.2% -2.1% -2.0% -1.9%
+Family Assistance/SBPA -- 1.0% 0.3% 0.3% 0.3% 0.3% 0.3%
+Limited -- -1.1% -1.3% -1.2% -1.1% -1.0% -0.9%
+Buy-in -- -0.6% -2.2% -2.1% -2.0% -1.9% -1.8%
+Care Plus -- -1.7% -3.6% -3.5% -3.5% -3.4% -3.3%
+Seniors -- 1.7% 1.2% 1.2% 1.3% 1.3% 1.4%
+Standard and Limited -- 1.6% 1.1% 1.1% 1.2% 1.2% 1.3%
+Buy-In -- 1.9% 1.7% 1.8% 1.9% 1.9% 2.0%
+15
+
+III. MASSHEALTH ENROLLMENT PROJECTIONS MATHEMATICA POLICY RESEARCH
+In contrast to declining MassHealth enrollment among children and adults in nearly all
+program clusters, the number of seniors enrolled in MassHealth is projected to rise in both
+program clusters that serve them, and to rise faster in the buy-in program than in the
+Standard/Essential/Limited programs. The number of seniors enrolled in the buy-in programs is
+projected to increase 11.8 percent, compared with a 7.9 percent increase in seniors projected to
+enroll in the Standard/Essential/Limited programs (Figure III.1).
+Figure III.1. Cumulative change in projected enrollment by population group
+and program cluster, 2014-2020
+20.0%
+11.8%
+7.9%
+10.0%
+2.6%
+0.0%
+-2.4% -2.6% -2.7%
+-10.0%
+-6.5%
+-11.3% -10.2%
+-20.0%
+-17.5%
+n e P n A d n s d n
+o
+m m o C d n a
+d r a d
+c
+n a t s is s A y lim
+a F
+S
+M C ,d e t im iL
+o
+m m o C d n a
+d r a d
+P
+B S / e c n a t s is
+s A y
+e
+t im iL
+i-
+y u B
+u
+lP e r a C
+e
+t im iL d n a d
+r a d n
+I-
+y u B
+n
+a
+n
+a
+lim a
+t S
+t S t S a F
+Children Adults Seniors
+D. Confidence intervals for 2014-2016 projected enrollment
+We estimated confidence intervals around projected enrollment for each population
+subgroup in 2014, 2015, and 2016. In general, the confidence intervals for the estimates are
+narrow, reflecting specification of the enrollment models to include only highly predictive
+independent variables. The estimates for children are the most efficient: with 95 percent
+confidence, the estimates are within 0.2 percent of mean projected enrollment (Table III.5). The
+confidence intervals for adults are similarly narrow: within 0.3 percent of projected enrollment.
+The projections for seniors are the least efficient, but the enrollment projections for seniors are
+nevertheless within 0.9 percent of mean projected enrollment with 95 percent confidence.
+16
+
+III. MASSHEALTH ENROLLMENT PROJECTIONS MATHEMATICA POLICY RESEARCH
+Table III.5. Confidence intervals for projected enrollment by population
+group, 2014-2016
+2014 2015 2016
+95 Percent 95 Percent 95 Percent
+Projected Confidence Projected Confidence Projected Confidence
+Mean Interval Mean Interval Mean Interval
+Childr en 520,570 +/- 0.2% 513,588 +/- 0.2% 512,355 +/- 0.2%
+Adults 931,888 +/- 0.3% 922,463 +/- 0.3% 903,204 +/- 0.3%
+Seniors 161,795 +/- 0.9% 164,511 +/- 0.9% 166,451 +/- 0.9%
+The narrow confidence intervals around the projections reflect our effort to specify the
+underlying enrollment models (as documented in Appendix A) parsimoniously—rejecting
+potential explanatory variables that were marginally significant or insignificant, and that did not
+add appreciably to the overall goodness of fit. That said, the models explained just 23 to 56
+percent of variation in enrollment among the eligible populations in 2011 and, as described in
+Section B, they projected just 94 percent of actual 2012 enrollment. Thus, substantial
+unexplained heterogeneity is embedded in the projections and with it, the potential for larger
+error in the projections than may be apparent from the narrowness of the confidence intervals
+around the projected means.
+17
+
+APPENDIX A
+METHODS
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+APPENDIX A. METHODS
+In the sections below, we describe the data sources, preparation of the database to support
+the Phase 1 estimates, and development of the Phase 2 projections.
+A. Data sources
+The reported eligibility estimates and enrollment projections are derived from analysis of the
+American Community Survey (ACS), an annual survey of U.S. households conducted by the
+U.S. Census Bureau. The ACS obtains information about the demographic and socio-economic
+characteristics of individuals and households. The ACS household sample includes
+approximately 3.1 million individuals (1 percent of the U.S. population), more than any other
+survey conducted by the Census Bureau; it is representative at the state level and also
+representative for many metropolitan areas and counties.
+The analysis is based on respondents to the 2009, 2010, 2011, and 2012 ACS living in
+Massachusetts,1 as well as administrative data measuring monthly enrollment in MassHealth. In
+each year, the ACS had about 65,000 Massachusetts respondents. To increase the precision of
+our estimates, we pooled each ACS year with the next adjacent year and reweighted the data (as
+described in Section C below) to provide annual estimates.
+B. Preparation of the phase 1 database
+1. Assigning MassHealth eligibility
+During the 2009-2012period, MassHealth administered more than ten programs for low
+income residents. Eligibility for each program depended on personal characteristics (age,
+employment and hours of work, pregnancy and parental status, disability, Medicare or private
+health insurance coverage, and citizenship or immigration status) as well as family
+characteristics (income, family size, and spousal employment and hours of work). We abstracted
+the eligibility criteria for each program from the member booklets for each year, with
+consultation from MassHealth.
+a. Measurement of personal characteristics
+Some of the personal characteristics that define eligibility for the various MassHealth
+programs are not observable in the ACS or are reported differently than might be observed in an
+administrative process of eligibility determination. The eligibility algorithms developed for the
+analysis ultimately did not include criteria based on characteristics (e.g., breast cancer,
+HIV/AIDS status, or financial assets) that are not reported in the ACS. However, most of the
+MassHealth eligibility criteria for the various programs are reported in some manner in the ACS
+1
+These data were extracted from the integrated public-use microdata files made available through the
+University of Minnesota. See: Steven Ruggles, J. Trent Alexander, Katie Genadek, Ronald Goeken, Matthew B.
+Schroeder, and Matthew Sobek. Integrated Public Use Microdata Series: Version 5.0 [Machine-readable database],
+2014.
+A.21
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+and were included in the eligibility algorithms—although some are less specific than the criteria
+MassHealth uses for eligibility determination. For example:
+ The ACS asks respondents about their citizenship status and differentiates among immigrants
+by the year they entered the U.S. In contrast, MassHealth defines “qualified immigrants” as
+documented immigrants or “special status aliens.” To define eligibility for MassHealth, we
+included as qualified immigrants all immigrants living in Massachusetts who had been in the
+U.S. at least five years.
+ The ACS does not identify current pregnancy status, but does identify whether a woman gave
+birth to a child in the past year. We used this variable as a proxy for pregnancy in the prior
+year, which is the same time frame over which income is reported in the ACS.
+ The ACS does not measure disability in the same way as MassHealth does. The ACS
+includes a six-question sequence on functional limitations. While many studies have used
+this sequence of questions to identify the population with disabilities, it likely misidentifies
+many individuals with respect to determination of MassHealth eligibility. We coded
+individuals that report income from a Social Security disability program (SSI if younger than
+age 65, or SSDI if younger than age 62) as disabled. Because ACS does not separately report
+income for children under age 15, we used an affirmative response to one or more of the six
+functional limitation questions to identify disability among children younger than age 15.
+b. Measurement of family characteristics
+We constructed family units as they are defined for the purpose of determining MassHealth
+eligibility. For seniors (age 65 or older), a family unit is composed of the respondent and a
+spouse, if present. For adults under age 65 (age 19 to 64), the family unit is composed of the
+respondent and (if present in the household), a spouse and related children age 0-18. For
+children, the family unit is composed of the child and (if present in the household) a parent,
+foster parent, or caregiver (defined below); the spouse of the parent, foster parent, or caregiver;
+and other children age 0-18 related to the parent, foster parent, caregiver, or spouse.
+For children that live with neither parent, we defined the caregiver as a related adult in the
+household. Because only one adult in a household can be deemed a caregiver for purposes of
+determining program eligibility, we imposed a hierarchy to identify the caregiver in households
+with more than one adult. If there was a related adult man and woman, we selected the woman. If
+there were multiple women related to the child, we selected the woman whose age was nearest to
+the child’s age plus 20 years.
+We calculated family income as income from selected sources, summed across all adult
+family members. To approximate “current” income relevant to eligibility determination, we
+recoded the annual earnings reported in the ACS to zero for all adults who reported not working
+at the time of the survey. Children residing with a foster parent or caregiver are deemed eligible
+for MassHealth and were coded as having no family income.
+A.22
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+For seniors, MassHealth disregards some earned and unearned income when determining
+eligibility.2 We followed the programs’ “countable income” rules when calculating income for
+seniors. In addition, we presumed that seniors who reported difficulty in at least two of four areas
+(mobility, cognition, self-care, or independent living) would qualify for an additional income
+disregard for personal care attendant services to live at home.3
+Family size was measured as the number of family members (as defined earlier), and used to
+compare family income (considering sources of income as appropriate to each MassHealth
+program) with poverty thresholds set by the U.S. Department of Health and Human Services to
+calculate family income as a percent of poverty.4
+c. Eligibility assignment
+In light of the individual and family level characteristics that are observable in the ACS and
+the size of the population sample, we made a preliminary determination that it might be feasible
+to identify eligibility for any of nine MassHealth programs:5
+1. Standard
+2. Common
+3. Family Assistance
+4. Basic and Essential (taken together)
+5. Buy-in
+6. Limited
+7. CMSP
+8. Health Start Program
+9. Prenatal
+We developed eligibility algorithms reflecting the eligibility rules for each program and
+flagged whether the individual was eligible for each – allowing eligibility for more than one
+program. The program eligibility rules as reflected in these algorithms are described in Appendix
+A.
+2
+Countable income of seniors is the sum of 50 percent of monthly earned income after a $65 earnings
+disregard (or up to 85 dollars if unearned income is less than twenty dollars), and unearned income after a twenty
+dollar unearned income disregard.
+3
+For an individual who is in need of PCA services (indicated by completion of a PCA supplement through the
+application process), instead of the $20 unearned income disregard, MassHealth subtracts the “increased unearned
+income disregard” as described at 130 CMR 520.013(B). This increased unearned income disregard is equivalent to
+the difference between the MassHealth Income Standard and 133% FPL for the applicable family size.
+4
+U.S. Department of Health and Human Services, Assistant Secretary for Planning and Evaluation. Prior HHS
+Poverty Guidelines and Federal Register References. Accessed April 18, 2014.
+5
+For the purpose of benchmarking the ACS to administrative data, we also estimated eligibility for
+Commonwealth Care, although it is not administered by MassHealth.
+A.23
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+2. Coding program enrollment
+An individual was coded as enrolled in a particular MassHealth program if the individual
+was eligible for the program and reported being enrolled in Medicaid. Unlike eligibility,
+enrollment was coded hierarchically—so that individuals were flagged as enrolled only in the
+most generous program for which they were eligible. After examining the unweighted counts of
+individuals flagged eligible and enrolled in each MassHealth program, we grouped the
+populations and programs into nine clusters as shown in table A.1, aggregating programs for
+which it was apparent that either the variables we could observe inadequately discriminated or
+the ACS sample size (even when combining survey years, as described below) was inadequate to
+measure low levels of enrollment.
+Table A.1. Population groups and program clusters defined for analysis
+Cluster Definition Program Composition
+1 Full benefits, children Standard and Common, children
+2 Full benefits, adults Standard and Common, adults
+3 Moderate benefits, children Family Assistance, Children
+4 Moderate benefits, adults Family Assistance and Basic/Essential, Adults
+5 Limited benefits, children Limited, CMSP, Children
+6 Limited benefits, adults Limited, Prenatal, Adults
+7 Seniors – all non-buy-in programs Standard, Essential, and Limited, Seniors
+8 Buy in, non-seniors Buy-in
+9 Buy in, seniors Buy-in
+After organizing the monthly enrollment data provided by MassHealth into the nine
+population/program clusters, we discovered that our eligibility algorithms identified too few
+children and adults eligible for full benefits, and too many eligible for moderate benefits.6 To
+account for the monthly income volatility that MassHealth observed, but that is unobserved in
+the ACS (even after adjusting annual income for periods of not working), we randomly selected
+50 percent of children and 10 percent of adults that we had flagged as eligible for moderate
+benefits and re-flagged them as eligible for full benefits.
+3. Creating benchmarked annual files
+To conduct the Phase 1 analysis of take-up, we combine two adjacent years of ACS data in
+order to produce larger sample sizes (and, therefore, potentially more variation in population
+characteristics) for each year. We combined the 2009 and 2010 ACS to produce 2009 estimates,
+the 2010 and 2011 ACS to produce 2010 estimates, and the 2011 and 2012 to produce 2011
+6
+This result is consistent with the substantial income volatility known to occur among the low-income
+nonelderly population. See, for example: Shore-Sheppard, Lara. Income Dynamics and Coverage Transitions of
+Health Reform Expansion Populations. 2012 and Sommers et al., Medicaid And Marketplace Eligibility Changes
+Will Occur Often In All States, 2014.
+A.24
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+estimates. Using a conventional raking7 process, we generated new population weights for each
+pooled sample benchmarked to key socio-demographic characteristics that determine Medicaid
+eligibility. These benchmarking characteristics and their sources are documented in Table A.2.
+Table A.2. Benchmarks used to reweight the pooled 2009-2011 ACS
+population samples
+Benchmark Values Source
+Population age Number of individuals in 5-year age Census reports of MA population for
+intervals from 0-4 through 75-79. each target yeara
+Individuals age 80 or older are top
+coded.
+Family income as a percent of Number of individuals with estimated Benchmark distribution calculated
+poverty MAGI less than 100%, 100%-200%, from the ACS in the target year
+200%-300%, or more than 300% of
+the HHS poverty threshold
+Race and ethnicity Number of individuals who report Benchmark distribution calculated
+being of Hispanic descent (any race), from the ACS in the target year
+White only (non-Hispanic), Black
+only (non-Hispanic), and other non-
+Hispanic (including mixed race).
+Medicaid eligibility Number of individuals flagged as Benchmark distribution calculated
+eligibility for each of the 9 program from the ACS in the target year
+clusters or Commonwealth Care.
+Medicaid enrollment Number of individuals enrolled in MassHealth
+each of the nine clusters or
+Commonwealth Care.
+a U.S. Census Bureau, Population Division. Annual Estimates of the Resident Population for Selected Age Groups by Sex for the
+United States, States, Counties, and Puerto Rico Commonwealth and Municipios: April 1, 2010 to July 1, 2012, June 2013.
+C. Phase 2 projections
+1. Preparation of the forecasting data
+To generate the Phase 2 enrollment forecasts, we “aged” the 2011 database derived from the
+ACS and developed in Phase 1. This process involved reweighting the data to be representative
+of the Massachusetts population in sequential years 2014 to 2020. As in Phase 1, raking was used
+to generate new population weights for pooled 2-year samples benchmarked to demographic and
+employment forecasts.7
+The raking used population forecasts for 2015 and 2020 that were generated by the
+University of Massachusetts Donohue Institute.8 We linearly interpolated between 2012 and
+2015 to obtain a forecast for 2014, and between 2015 and 2020 to obtain forecasts for 2016-
+2019. Employment forecasts were generated by the Massachusetts Executive Office of Labor
+and Workforce Development. These forecasts include estimates of the number of workers by
+7
+See: Izrael, David, David C. Hoaglin, and Michael P. Battaglia. A SAS Macro for Balancing a Weighted
+Sample, 2000.
+8
+UMass Donahue Institute. Population Projections, December 2013.
+A.25
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+industry and occupation through 2020;9 taken together with the projected population, they also
+provide forecasts of the number of non-workers. The detailed benchmarking groups used to rake
+the data to each projection year are shown in Table A.3. Adjusting the population weights to
+approximate the future distribution of employment has the effect of adjusting the distribution of
+family income and poverty measures that correlate with employment measures. For children, we
+benchmarked the industry and occupation of the parent with higher earnings in order to, in effect,
+adjust their family income in step with projected employment changes.
+Table A.3. Benchmarks used to reweight the ACS population samples to 2020
+Benchmark Values Source
+Population age Number of individuals in 5-year age intervals from 0-4 through 75-79. University of
+by sex Individuals age 80 or older are top coded. Massachusetts
+Donohue Institute
+Number of Occupational groups: Massachusetts
+workers by Management Executive Office of
+occupation Business and Financial Operations Labor and Workforce
+Computer and Mathematical Operations Development
+Architecture and Engineer
+Life, Physical, and Social Science
+Community and Social Services
+Legal
+Education, Training, and Library
+Art, Design, Entertainment, Sports, and Media
+Healthcare Practitioners and Technical
+Healthcare Support
+Protective Services
+Food Preparations and Serving Related
+Building and Grounds Cleaning and Maintenance
+Personal Care and Service
+Sales and Related Office and Administrative
+Farming, Fishing, and Forestry Support
+Construction and Extraction
+Installation, Maintenance, and Repair
+Production
+Transportation and Materials Moving
+Military
+Non Workers
+Number of Industry groups: Massachusetts
+workers by Agriculture, Forestry, Fishing, Hunting and Mining Executive Office of
+industry Construction, Utilities, and Manufacturing Labor and Workforce
+Wholesale Development
+Retail
+Transportation, Information, Real Estate, Accommodations and Food
+Finance, Professional, Administration and Remediation
+Management of Companies and Education
+Health Care, Arts, Other Services
+Government
+Non Workers
+9
+Massachusetts Industry-Occupation Employment Matrix, 2010-2020. Massachusetts Executive Office of
+Labor and Workforce Development (http://lmi2.detma.org/lmi/projections.asp)
+A.26
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+The resulting population projections strictly reflect the external population and employment
+forecasts used to age the 2011 ACS; in effect, these forecasts drive the projected changes in
+eligibility and enrollment from 2014 to 2020. The projections do not reflect any factors that
+might vary the rate of workers per population, nor do they reflect factors that might vary the
+level or distribution of real income other than workers’ industry/occupational mix. For example,
+if the rate of employment does not improve according to forecasts, the ratio of workers to
+nonworkers will be less than projected; in turn, more adults and children would likely be eligible
+for MassHealth, and enrollment might be greater than projected. Alternatively, if productivity
+rises due to technological change, earnings might increase; in turn, fewer adults and children in
+working families might be eligible for MassHealth, and enrollment might be less than projected.
+Among seniors, the projections assume the same levels of real income (by age cohort and
+gender) that were observed among seniors in 2011, although many fewer seniors might have
+defined pension income or substantial retirement savings in 2020. These alternative scenarios,
+while feasible, are not reflected in current economic forecasts.
+2. Coding 2014 eligibility
+We coded additional eligibility variables to reflect the changes in eligibility in January 2014.
+These changes are listed in detail in Appendix C. Most importantly with respect to re-coding
+eligibility, we created a new income variable to approximate modified adjusted gross income
+(MAGI) that all states must use as of January 2014 to determine Medicaid eligibility for
+nondisabled children and adults. MAGI excludes income from SSI or TANF. In addition, we
+created CarePlus eligibility rules for childless adults. Adults eligible for CarePlus were included
+in a new Cluster 10, in addition to the 9 clusters described in Table A.1.
+3. Take up analysis
+Using the 2011 file prepared for the Phase 1 analysis, we estimated three models predicting
+take-up among (respectively) children, adults, and seniors using Logit regression. The model
+specifications were selected to maximize the predictive power of the models as measured by the
+pseudo R-square10 and the Hosmer-Lemeshow Test.11 The final specifications and logistic
+regression results are reported in Tables A.4 through A.6.
+10
+Institute for Digital Research and Education, University of California at Los Angeles. FAQ: What are
+pseudo R-squareds? Accessed April 18, 2014.
+11
+SAS Institute. The Hosmer-Lemeshow Goodness of Fit Test. SAS/STAT(R) 12.1 User's Guide. Accessed
+April 18, 2014.
+A.27
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+Table A.4. Logit regression estimates for children: dependent variable =
+enrolled in Medicaid, 2011
+Coefficient Level of
+Independent Variable (Dependent: Enrolled =1) Estimate Significance
+Eligible only for limited benefit -3.4792 <.0001
+Medicare coverage -3.615 <.0001
+Private or military insurance -4.4238 <.0001
+Private or military insurance interacted with FPLa 0.00236 <.0001
+Residence in institution or group quarters 1.3279 0.0189
+Has disability 1.1119 0.0006
+Has disability interacted with continuous agea 0.1211 <.0001
+SNAP receipt 0.6939 <.0001
+SSI receipt -1.4561 <.0001
+TANF receipt 2.9753 0.022
+Unmarried parents 0.5381 <.0001
+No parents in household 0.7978 <.0001
+FPL less than 100 1.6214 <.0001
+FPL 100 to 132 2.339 <.0001
+FPL 133-149 2.0409 <.0001
+FPL 150-199 1.6702 <.0001
+FPL 200-299 1.4491 <.0001
+Mother’s (or father’s when mother not present) race/ethnicity is
+Hispanic 0.702 <.0001
+Mother’s (or father’s when mother not present) race/ethnicity is
+Other Race (not White or Black) 0.3719 0.0006
+Highest educational attainment of parent is less than high school
+graduate 0.2426 0.1007
+Parent has Medicaid 6.6788 <.0001
+N = 14,573
+Model Fit Statistics:
+Pseudo r-square =0.5922
+Hosmer-Lemeshow: Chi-Square =741.38 (DF 8, Pr>ChiSq < 0.0001)
+aVariable is continuous; all other variables are categorical (0-1).
+A.28
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+Table A.5. Logit regression estimates for adults: dependent variable =
+enrolled in Medicaid, 2011
+Coefficient Level of
+Independent Variable (Dependent: Enrolled =1) Estimate Significance
+Eligible only for limited benefit 3.0122 <.0001
+Eligibility only for programs with premiums -0.1932 0.0048
+Eligible for Standard/Common 2.095 <.0001
+Eligible for Standard/Common without premiums -0.4922 <.0001
+Private or military insurance -3.0859 <.0001
+Age 19 to 26 -0.4007 <.0001
+Female 0.1773 <.0001
+Gave birth in past year 1.5044 <.0001
+Married -0.1558 0.0015
+Children in household 0.1278 0.0107
+FPL less than 100 0.9884 <.0001
+FPL 100 to 132 1.3729 <.0001
+FPL 133-149 1.248 <.0001
+FPL 150-199 1.0452 <.0001
+FPL 200-299 0.6018 <.0001
+Education is college graduate -0.2726 <.0001
+Number of disabilities a 0.0893 0.0046
+Number of disabilities interacted with age>50 a -0.2009 <.0001
+Self employed 0.3761 <.0001
+Unemployed 0.3279 <.0001
+Employed full time -1.4884 <.0001
+Employed part timeb -1.1176 <.0001
+SNAP receipt 0.8893 <.0001
+SSI receipt -0.1966 0.0029
+TANF receipt 1.6289 <.0001
+N = 39,795
+Model Fit Statistics:
+Pseudo r-square = 0.5387
+Hosmer-Lemeshow: Chi-Square = 1904.14 (DF 8, Pr>ChiSq < 0.0001)
+aVariable is ordinal, ranging from 0 to 6; all other variables are categorical (0-1).
+bMissing = not in labor force
+A.29
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+Table A.6. Logit regression estimates for seniors: dependent variable =
+enrolled in Medicaid, 2011
+Coefficient Level of
+Independent Variablea (Dependent: Enrolled =1) Estimate Significance
+Private or military insurance -0.8026 <.0001
+Age 65-69 0.4477 <.0001
+Age 70-74 0.176 0.0308
+Age 75-79 0.2915 0.0002
+Female -0.0135 0.8491
+Hispanic 0.6418 <.0001
+Black 0.4237 0.0002
+Other race (not White) 0.3604 0.0007
+Residence in institution or group quarters 1.1413 <.0001
+Married -0.2088 0.0392
+Married and female 0.1008 0.4562
+FPL less than 100 0.1285 0.1103
+FPL 100 to 200 0.2179 0.0027
+Education is less than high school graduate 0.214 0.0003
+Employed -0.5797 <.0001
+Self-employed -0.3353 0.0952
+Age 70+ interacted with cognitive limitation 0.133 0.0894
+Age 70+ interacted with physical limitation 0.00391 0.9612
+Age 70+ interacted with mobility limitation 0.0993 0.2539
+Age 70+ interacted with vision limitation 0.0595 0.5087
+Age 70+ interacted with hearing limitation -0.0121 0.8692
+Age 70+ interacted with self care limitation 0.2246 0.0126
+SNAP receipt 1.2633 <.0001
+SSI receipt -0.5672 <.0001
+TANF receipt 0.0456 0.7708
+Homeowner -0.4846 <.0001
+Nonparent caregiver 0.5599 0.1772
+N = 7,620
+Model Fit Statistics:
+Pseudo r-square = 0.2318
+Hosmer-Lemeshow: Chi-Square = 122.55 (DF 8, Pr>ChiSq < 0.0001)
+aAll variables are categorical (0-1).
+A.30
+
+APPENDIX A. METHODS MATHEMATICA POLICY RESEARCH
+4. Projecting enrollment from 2014 to 2020
+These estimates reported in Tables A.4 through A.6 were used to stochastically assign
+Medicaid enrollment among MassHealth-eligible children, adults, and seniors in each forecasting
+year. Specifically, we developed a stochastic model that calculated the predicted probability of
+enrollment for each individual as e(a + ∑bx)/(1+e(a + ∑bx)) where e is the exponential function and,
+for each population group, a is the estimated intercept term, b is the vector of estimated
+coefficients, and x is the vector of values of the independent variables. The predicted probability
+input was then compared with a random number between 0 and 1 generated for each individual.
+Individuals were assumed to enroll if their predicted probability of enrollment exceeded their
+random number—allowing for forecasts that included individuals likely to enroll as well as some
+individuals who were not likely to enroll. Using the adjusted population weights for each
+forecast years 2014-2020, we tabulated enrollment among each population group in each year,
+and then parsed forecasted enrollment into the 10 program clusters.
+To generate confidence intervals around the enrollment forecast for each population group
+in years 2014 to 2016, we re-ran the stochastic model described above, using values for b drawn
+from the 95 percent confidence intervals around each estimated coefficient to predict the
+probability of enrollment for each individual. We replicated this process 1,000 times to generate
+a distribution of predicted enrollment within a 95 percent confidence interval around the mean
+estimate.
+A.31
+
+APPENDIX B
+RULES FOR CODING PROGRAM 2009-2012 PROGRAM ELIGIBILITY
+
+APPENDIX B. RULES FOR CODING PROGRAM ELIGIBILITY MATHEMATICA POLICY RESEARCH
+APPENDIX B. RULES FOR CODING PROGRAM ELIGIBILITY
+A. Eligibility rules: under age 65
+1. Standard
+ Eligible if a citizen or qualified immigrant (U.S. born or immigrated at least 5 years prior to
+year of survey) and is
+- Pregnant in prior 12 months AND family income less than or equal to 200% FPL; or
+- Under one year of age with family income less than or equal to 200% FPL; or
+- Aged 1-18 with family income less than or equal to 150% of FPL; or
+- A parent or adult caregiver of a child age 18 or younger with family income less than or
+equal to 133% FPL; or
+- Identified to have a disability with family income less than or equal to 133% FPL.
+2. Buy-in
+ Eligible if not eligible for Standard, identified to have a disability, reports Medicare
+coverage, and is
+- Not married and has monthly “countable income” less than or equal to $1,277 in 2013,
+$1,277 in 2012, $1,246 in 2011, $1,239 in 2010, or $1,240 in 2009; or
+- Married and has monthly “countable income” less than or equal to $1,675 in 2013,
+$1,675 in 2012, $1,675 in 2011, $1,660 in 2010, or $1,661in 2009.
+3. CommonHealth
+ Eligible if not eligible for Standard or Buy-in, identified to have a disability, is a citizen or
+qualified immigrant (U.S. born or immigrated at least 5 years prior to year of survey), and is
+- aged 18 or younger; or
+- aged 19 or older with reported weekly hours worked of 10 or more; or
+- aged 19 to 64 and not working
+4. Family assistance
+ Eligible if not eligible for Standard or Common Health, is a citizen or qualified immigrant
+(U.S. born or immigrated at least 5 years prior to year of survey), and is
+- aged 18 and younger with family income less than or equal to 300% FPL; or
+- aged 19-64, working (or has a spouse who is working) and has family income less than
+or equal to 300% FPL
+B.3
+
+APPENDIX B. RULES FOR CODING PROGRAM ELIGIBILITY MATHEMATICA POLICY RESEARCH
+5. Basic & essential
+ Eligible if not eligible for Standard, Common Health, or Family Assistance, is a citizen or
+qualified immigrant (U.S. born or immigrated at least 5 years prior to year of survey), and is
+not working, has not worked in the past year, does not have a spouse that works more than 25
+hours per week, and has family income less than or equal to 100% FPL.
+6. MassHealth limited
+ Eligible if not eligible for Standard, Common Health, Family Assistance, Basic/Essential and
+is
+- Pregnant in prior 12 months, and has family income less than or equal to 200% FPL; or
+- Under one year of age with family income less than or equal to 200% FPL; or
+- Aged 1-18 and has family income less than or equal to 150% FPL; or
+- A parent or adult caregiver of a child age 0-18 and has family income less than or equal
+to 133% FPL; or
+- Identified as having a disability and has family income less than or equal to 133% FPL.
+7. Children’s medical security plan
+ Eligible if not eligible for Standard, Common Health, Family Assistance, or Basic/Essential;
+is aged 0-18; and has no source of coverage other than Medicaid
+8. MassHealth prenatal
+ Eligible if pregnant in the prior 12 months.
+9. Commonwealth care
+ Eligible if not eligible for Standard, Common Health, Family Assistance, Basic/Essential,
+Limited, or Prenatal, is a citizen or qualified immigrant (U.S. born or immigrated at least 5
+years prior to year of survey), is aged 19-64, and has family income less than or equal to
+300% FPL
+B. Eligibility Rules: Age 65 and Older.
+1. Standard/Essential
+ Eligible if a citizen or qualified immigrant (U.S. born or immigrated at least 5 years prior to
+year of survey) and is
+ Not married and has monthly countable income was less than or equal to $951in 2013, $951
+in 2012, $928 in 2011, $923 in 2010, or $923 in 2009; or
+ Married and has monthly countable income was less than or equal to $1,281 in 2013, $1,281
+in 2012, $1,246 in 2011, $1,235 in 2010, or $1,235 in 2009; or
+B.4
+
+APPENDIX B. RULES FOR CODING PROGRAM ELIGIBILITY MATHEMATICA POLICY RESEARCH
+ Not married and has a positive response to two or more of the ACS six disability questions,
+and countable income adjusted for personal care is less than or equal to $951 in 2013, $951
+in 2012, $928 in 2011, $923 in 2010, or $923 in 2009; or
+ Married and has a positive response to two or more of the ACS six disability questions, and
+countable income adjusted for personal care is less than or equal to $1,281 in 2013, $1,281 in
+2012, $1,246 in 2011, $1,235 in 2010, or $1,235 in 2009.
+2. Limited
+ Eligible if not eligible for Standard/Essential and
+- Not married and monthly countable income is less than or equal to $951 in 2013, $951 in
+2012, $928 in 2011, $923 in 2010, or $923 in 2009; or
+- Married and monthly countable income is less than or equal to $1,281 in 2013, $1,281 in
+2012, $1,246 in 2011, $1,235 in 2010, or $1,235 in 2009.
+3. Buy In
+ Eligible if not eligible for Standard/Essential, has Medicare, is a citizen or qualified
+immigrant (U.S. born or immigrated at least 5 years prior to year of survey) and is
+- Not married and monthly countable income is less than or equal to $1,277 in 2013,
+$1,277 in 2012, $1,246 in 2011, $1,239 in 2010, or $1,240 in 2009; or
+- Married and monthly countable income is less than or equal to $1,675 in 2013, $1,675 in
+2012, $1,675 in 2011, $1,660 in 2010, or $1,661 in 2009.
+B.5
+
+APPENDIX C
+RULES FOR CHANGING PROGRAM ELIGIBILITY IN 2014
+
+APPENDIX C. RULES FOR CHANGING PROGRAM ELIGIBILITY IN 2014 MATHEMATICA POLICY RESEARCH
+APPENDIX C. RULES FOR CHANGING PROGRAM ELIGIBILITY IN 2014
+A. Changes in eligibility rules: under age 65
+ Replace FPL with MAGI FPL (adjusted for the 5 percent FPL income disregard), other than
+for eligibility based on disability
+1. Standard
+ Age range for child eligibility changed from ages 1 to 18 to ages 1 to 20
+2. Buy-in
+ Income threshold changed to $1313 for non-married eligibility, and $1765 for married
+eligibility
+3. CommonHealth
+ Age range for child eligibility changed from ages 1 to 18 to 1 to 20.
+4. Family Assistance
+ An additional eligibility group added for ages 19 and 20, with MAGI FPL less than 150
+percent of poverty.
+5. Basic, Essential, Healthy Start Program, Prenatal, and Commonwealth
+Care
+ Removed, as the programs were eliminated
+6. CarePlus added as a new program
+ Eligible if not eligible for Standard
+ Are a citizen or immigrated prior to five years
+ MAGI FPL less than 133
+7. Small Business Premium Assistance added as a new program
+ Eligible if not eligible for Standard, CommonHealth, Family Assistance, or CarePlus
+ Age is between 19 and 64
+ FPL is greater than 133 but no more than 300
+ Employed
+ Are a citizen or immigrated prior to five years
+C.3
+
+APPENDIX C. RULES FOR CHANGING PROGRAM ELIGIBILITY IN 2014 MATHEMATICA POLICY RESEARCH
+8. Limited
+ Replace FPL with MAGI FPL in all eligibility rules, other than for eligibility based on
+disability.
+ Age range for child eligibility changed from ages 1 to 18 to ages 1 to 20
+B. Changes in Eligibility Rules: Age 65 and Over
+1. Standard and Limited
+ Income threshold changed to $978 for non-married eligibility and $1313 for married
+eligibility
+2. Buy-in
+ Income threshold changed to $1313 for non-married eligibility, and $1765 for married
+eligibility
+C.4
+
+www.mathematica-mpr.com
+Improving public well-being by conducting high
+quality,
+objective research and surveys
+Princeton, NJ ■ Ann Arbor, MI ■ Cam
+Mathematica® is a registered trademark
+of Mathematica Policy Research, Inc.
+
+Attachment C
+Table of Contents
+Introduction ......................................................................................................... 2
+Step 1: “Completing” the Most Recent Eligibility (member) Months ............. 2
+A. Calculating Completion Factors .............................................................. 3
+Step 2: The Establishment of the Historical Months to Forecast in each
+Budget Group ...................................................................................................... 5
+A. The Calculation and Utilization of CMGRs .............................................. 5
+B. Choosing the Historical Period to Forecast ............................................. 7
+C. Historical Period Choice in light of Policy Changes .............................. 12
+Step 3: Developing the Forecast for Each Budget Group ............................. 14
+A. Applying the Trend Forecast ................................................................. 15
+B. Modifying Trends for Policy Changes ................................................... 15
+Step 4: Cluster Level Forecasting ................................................................... 16
+Concluding Remarks ........................................................................................ 19
+Center for Health Policy & Research (chpr) 1
+University of Massachusetts Medical School
+
+Attachment C
+Stepwise Methodology for Creating the MassHealth
+Caseload Member Month Forecast
+Introduction
+The following narrative outlines the step by step process of caseload forecasting
+presented to MassHealth on March 15th 2004 and is a supplement to the
+“MassHealth Caseload and Expenditure Analysis: Final Caseload Analysis
+Deliverable,” to be presented to MassHealth budget personnel on August 2,
+2004. This methodology is dependent on a number of factors as outlined below.
+There are four primary steps in the proposed forecast methodology. The
+narrative will follow these incremental steps and each will be explained in detail.
+Examples will be provided so as to provide further understanding as to the
+complex assumptions analysts must employ.1 This is a draft for policy discussion
+only.
+Step 1: “Completing” the Most Recent Eligibility (member)
+Months
+Rationale: Step 1 explains the process by which “completion” factors are
+calculated for the most recent five months of eligibility data assuming that
+the sixth month is complete.
+Required Data: Eligibility days per month going back at least 12 months
+as seen in 12 consecutive months for each of the budget groups
+Tool: Completion Factors Worksheet
+Example: “Caseload Narrative Examples” Ex1
+The first step in the forecasting process is confirming the accuracy of the most
+recent data. This process, generally called “completion,” addresses the issue of
+variance in eligibility data based on the effects of redeterminations, retroactive
+eligibility, application verification, eligibility appeals and the movement among aid
+categories. The process utilizes past eligibility figures as seen in up to 12
+months to create multipliers that act to increase or decrease eligibility in each
+budget group based on the historical “completion” percentages.
+When creating trend-based eligibility projections, one of the most crucial issues is
+where to start the trend. As with any projection, the further into the future the
+forecast moves, the less reliable it becomes. This is magnified by inaccuracies in
+the starting point of the trend. If started in the wrong place, the forecast will only
+prove to be less and less accurate. Completion factors allow for a more accurate
+starting place to begin the forecast. By “completing” the most recent months of
+data (rather than simply disregarding them, as was previously done), this current/
+relevant data becomes accessible and will result in more accurate projections
+into the future.
+1 This narrative has been updated from the last version distributed to MassHealth on March 15,
+2004, to included the creation of completion factors.
+Center for Health Policy & Research (chpr) 2
+University of Massachusetts Medical School
+
+Attachment C
+A. Calculating Completion Factors
+The analyst must begin by organizing the eligibility days collected for each
+budget group going back 12 months, as seen in each of the twelve months,
+by group code, month, and “as of” date. This can be accomplished by
+employing the Excel “sort” function. An example of the organization of the
+data and the calculation of the completion factors can be found in Caseload
+Narrative Examples: Ex1. This organization provides the analyst with a list
+of eligibility days by month, and seen in up to 12 months.
+From this list there will be seven months from which there have been six “as
+of date” observations, as seen in Table 1.
+Table 1: Example of Data Required to Calculate Completion Factors
+As of Date Group Code Month Eligibility Multiplier
+Days (month 6/
+month ‘n’)
+Nov 2003 40 Nov 2003 13246 .846
+(month1)
+Dec 2003 40 Nov 2003 12248 .915
+(month 2)
+Jan 2004 40 Nov 2003 11340 .988
+(month 3)
+Feb 2004 40 Nov 2003 11090 1.01
+(month 4)
+Mar 2004 40 Nov 2003 11270 .995
+(month 5)
+Apr 2004 40 Nov 2003 11210 1.0
+(month 6)
+The calculation of completion factor multipliers requires the assumption that
+the 6th “as of date” observation is complete.2 The multipliers are developed
+by dividing the eligibility days of the sixth month by the eligibility days of
+each month previous to it (5th, 4th, 3rd, 2nd, and 1st). The resultant figures
+represent the factor by which each previous month differs from the 6th
+month observation (see Table 1). CHPR recommends that seven months
+(including 6 “as of dates” each) of data for each budget group (going back a
+total of 12 months from the current date) be used to calculate the
+completion factors.3
+2 CHPR found in its analysis that a 6 month completion time frame (event horizon) provided the
+sufficient level of completion for a quarterly forecasting period without over burdening the
+analysis. The average % completion of the 6 month completion factors for all budget groups was
+98%. There are some budget groups that continue to complete up to 18 months. For these
+budget groups, (FFS, TPL, and Other) the analyst needs to utilize historical knowledge of budget
+group behavior to assess the value of the completion factor.
+3 Utilizing more than 12 months of historical data may skew the completion factors based on
+policy and environmental conditions that predominated historically. As completion factors are
+calculated on a regular basis and data is conserved, MassHealth will have the ability to assess
+the consistency of the calculations over time and adjust the current factors accordingly.
+Center for Health Policy & Research (chpr) 3
+University of Massachusetts Medical School
+
+Attachment C
+The seven sets of factors developed for “month 1” through “month 5”
+(“month 6” will always equal one and therefore does not need to be
+included), need to be averaged. In addition the standard deviation and
+confidence interval need to be calculated. The formulas for these
+calculations are available in M.S. Excel. Once the confidence interval has
+been developed, the analyst can calculate the range (Low and High) by
+adding the confidence interval to the average for that month, respectively,
+see Table 2.
+Table 2: Completion Factor Calculation
+6 Month Completion Analysis Range of
+Confidence
+Average
+(“COMPLETION Std Confidence
+Monthly Multipliers FACTOR” Dev. Interval Low High
+Month1 0.801 0.771 0.788 0.837 0.853 0.855 0.846 0.822 0.034 0.025 0.796 0.847
+Month2 0.860 0.886 0.888 0.928 0.923 0.940 0.915 0.906 0.028 0.021 0.885 0.927
+Month3 0.975 0.975 0.990 1.003 1.002 1.001 0.989 0.991 0.012 0.009 0.982 1.000
+Month4 1.002 0.993 0.998 1.008 1.007 1.008 1.011 1.004 0.006 0.005 0.999 1.009
+Month5 1.000 0.996 1.002 1.008 0.999 1.017 0.995 1.002 0.008 0.006 0.997 1.008
+Month6 1 1 1 1 1 1 1 1.000 0
+Once the range of confidence is developed the analyst can then make the
+judgment as to which multipliers to include. If the value “1” is included in the
+range of confidence, then the difference between that month and the 6th
+month is not significant and therefore does not need to be “completed”.
+The analyst can utilize the range of confidence to make judgments on the
+level at which the most recent months of a particular budget group, are to be
+“completed”. The range of confidence represents the statistical range that
+the multiplier is expected to reside within. This provides the analyst the
+opportunity to adjust the multiplier, based on institutional knowledge of the
+budget group behavior. In the absence of this level of institutional
+knowledge, CHPR recommends that the “average” value of the seven
+month multipliers, be employed as the completion factor for that month of
+the budget group.
+To implement the “completion factors” the analyst must multiply the most
+recent months of eligibility data in the “Member Month” data set by the
+factors developed above. The resultant figures will represent “completed”
+member months that can then be utilized in the development of the eligibility
+forecast.
+Center for Health Policy & Research (chpr) 4
+University of Massachusetts Medical School
+
+Attachment C
+Step 2: The Establishment of the Historical Months to Forecast
+in each Budget Group
+Rationale: Step 2 outlines the methodology through which historical
+member month eligibility data is used to develop future forecast eligibility.
+This methodology presents the analyst a number of tools that expose the
+essential features of past eligibility patterns that will have an effect on
+future eligibility.
+Required Data: Most Recent “Member Month FY##Q#” Dataset
+Tool: Triangle Analysis Worksheet
+Example: “Caseload Narrative Examples” Ex2 and Ex3
+The second and most complex step in forecasting requires the establishment of
+the number of historical months to include in the forecast. The forecast is based
+on variations upon a historical trend, therefore the number of member months
+included within the forecast, both recent and past, can yield extremely different
+results. Therefore, the analyst must use caution and where available any internal
+information (such as past and present policy decisions, future policy changes,
+and the effects of similar changes on caseload numbers in the past) to augment
+the methodology presented within this narrative, and to make informed decisions
+upon the member months to be included within the current forecast.
+Based on CHPR analysis, it has been found that the calculation of Compounded
+Monthly Growth Rates (CMGRs) within each budget group is an excellent
+means, both mathematically and visually, by which to gain insight as to the
+behavior of caseload elligibility over time. CMGRs represent the weighted
+month-to-month growth percentage of a particular budget group as a function of
+the most recent member month included in the calculation. The usefulness of the
+calculation is in its ability to expose a linear extrapolation and visual
+representation of the growth of the particular budget group for particular months
+of analysis. From the comparison and analysis of the CMGR linear extrapolation
+of up to four of the most recent months, the analyst can identify specific historic
+points to be included within the forecast.
+The CMGRs are calculated for each month in every budget group according to
+the methodology presented below. These CMGRs are then graphed and utilized
+to choose a historical date at which to begin the trend function of the forecast.
+A. The Calculation and Utilization of CMGRs
+Utilizing data from the most recent “Mem Months ____” worksheet in the
+most recent “Member Month FY##Q#” dataset, calculate the sequential
+Compound Monthly Growth Rates (CMGR) for up to 32 months in each
+budget group (this number is based on the number of months available; as
+of FY04Q1 32 months were available). No less than 18 months should be
+calculated. The calculations are easily made in Microsoft Excel and the
+attached Triangle Analysis Worksheet (both text and electronic) have
+Center for Health Policy & Research (chpr) 5
+University of Massachusetts Medical School
+
+Attachment C
+been designed to assist in the development of this methodology. The
+formula for the CMGR calculation is as follows:
+o CMGR = [[X/X ]^(1/n)]-1 where X=member month, n=1…32 (number
+t t-n
+of time increments), and t=initial month
+This formula will be applied sequentially to the most recent member month
+eligibility data and all member months previous to it resulting in up to 32
+columns (equal to the number of months used in the data set) of growth
+rates.4 The most recent consisting of up to 32 growth rates, the next most
+recent consisting of up to 31 growth rates. See Table 1.
+Table 1. Example of Consecutive CMGR Calculation
+Month Mem- CMGRs March CMGRs April CMGRs May CMGRs June
+Months
+Jan 03 ff
+Feb 03 ee =[(aa/ff)^(1/5)]-1
+Mar 03 dd =[(bb/ff)^(1/4)]-1 =[(aa/ee)^(1/4)]-1
+Apr 03 cc =[(cc/ff)^(1/3)]-1 =[(bb/ee)^(1/3)]-1 =[(aa/dd)^(1/3)]-1
+May 03 bb =[(dd/ff)^(1/2)]-1 =[(cc/ee)^(1/2)]-1 =[(bb/dd)^(1/2)]-1 =[(aa/cc)^(1/2)]-1
+Jun 03 aa =[(dd/ee)^(1/1)]-1 =[(cc/dd)^(1/1)]-1 =[(bb/cc)^(1/1)]-1 =[(aa/bb)^(1/1)]-1
+These calculations will result in month to month growth percentages
+representing the compounded growth expected from the month analyzed to
+the most recent month data is available. Comparison of these growth rates
+allows for an understanding of the minute growth changes reflected by the
+month to month eligibility figures.
+The Triangle Analysis Worksheet includes all the formulas necessary to
+calculate 32 consecutive month CMGR columns. The data analyst must
+paste the date (Column A) and member month eligibility (Column B) into the
+worksheet making sure that the data is ordered top down from past to
+present with the most recent/current month data residing at the bottom of
+the Column (Row 36). If copied correctly, the table to the right will display
+the month-to-month sequential CMGR percentages for each of the dates
+analyzed in a separate column.
+The primary reason for making these calculations sequentially in columns is
+that it is the comparison of the sequential rates which allows for the choice
+of historical months to be included in the forecast.5
+4 In the absence of completion factors, the three most recent member months must be dropped
+from (not included in) the forecast due to a lack of completeness caused by retro-active eligibility
+and redetermination effects. There may be a need to drop/not include additional months based
+on the CMGR analysis. Further discussion on this topic is presented below.
+5 A methodology for assessing the completeness of the most recent member months based on
+CMGR analysis was included in the March 15th version of this document. As it is the CHPR
+recommendation that completion factor analysis be conducted (as it is more accurate), this
+section has been removed from this version of the document.
+Center for Health Policy & Research (chpr) 6
+University of Massachusetts Medical School
+
+Attachment C
+B. Choosing the Historical Period to Forecast
+From the sequential CMGR calculations, the most recent four months
+(entire columns) should be charted together with the date acting as the X
+axis, the growth percentage as the Y axis, and each of the Sequential
+CMGR columns acting as individual series. An example of this can be seen
+in Caseload Narrative Examples Ex2, Chart 1: Group 09 Consecutive
+CMGRs.6
+Utilizing the charted sequential CMGRs for four of the most recent
+consecutive months allows the analyst to view a linear extrapolation of each
+budget group in terms of its month-to-month growth. From this linear
+extrapolation the analyst must make a choice as to the extent to which
+historical months are included in the forecast. There are points in the past
+at which no drastic policy change was occurring, yet the behavior of the
+budget group changed substantially. This change will result in an obvious
+disruption in all four of the CMGR lines. This point is called a node of
+inflection.
+In a single CMGR chart there may be multiple nodes of inflection. In order
+to choose the most relevant point, CHPR recommends that analysts only
+consider nodes of inflection that go back six “completed” months or more.
+Due to the lack of reliability of the most recent data juxtaposed with its
+relevance for the trend start point, it was found that six months (in the
+absence of significant policy changes) was the minimum number of the
+most recent months to include within the trend function. 7 Caution is
+suggested when using a time period of eighteen months or more, because
+the distant eligibility figures will be weighted more heavily.8 Charts 1
+through 3 demonstrate nodes of inflection identified in previous forecasts
+and utilized as the historical date at which the forecast trend was started.
+Nodes of inflection offer a point at which a change occurred in the growth
+behavior of the budget group. Based upon this, if chosen correctly, the
+eligibility data more recent (to the right) of the node is a better predictor of
+the future than the data previous to it. The node represents the change
+point, however analysts can choose a point before or after the node to
+reflect their awareness of policies that may have been affecting the budget
+group, without changing the slope of the forecast trend substantially.
+6 If the most recent month(s) is considered “incomplete” and dropped from the forecast period, it
+should not be charted in as part of the historical period choice, as it will cause a drastic change in
+CMGR values and not allow for accurate historical period choice. See Caseload Narrative
+Examples Ex3.
+7 Often, in the case of recent policy changes, the analyst is forced to use less historical
+information. This will be discussed in more detail in Section D.
+8 When more than 18 previous months are used, actual eligibility for the forecast period should be
+charted and carefully scrutinized to assure consistency of the trend.
+Center for Health Policy & Research (chpr) 7
+University of Massachusetts Medical School
+
+Attachment C
+Mathematical models are available that can statistically determine the
+“change point” based on complex quangle analyses.9 Due to significant
+amount of time and effort required to produce such analyses, the relative
+accuracy of the procedure outlined above, and the request by MassHealth
+for operational tools that can easily be implemented into the forecast
+methodology, these models were not implemented during this analysis.
+Chart 1: Example of a Node of Inflection in a Sequential CMGR Chart 10
+Group 00 Consec CMGR
+7.0%
+6.0%
+5.0%
+4.0%
+3.0%
+Node of
+Inflection at
+2.0%
+March 2002
+1.0%
+0.0%
+-1.0%
+-2.0%
+-3.0%
+A /N 0 0 -g
+u A
+0 0 -tc
+O
+0 0 -c
+e D
+1 0 -b
+e F
+1 0 -rp
+A
+1 0 -n
+u J
+1 0 -g
+u A
+1 0 -tc
+O
+1 0 -c
+e D
+2 0 -b
+e F
+2 0 -rp
+A
+2 0 -n
+u J
+2 0 -g
+u A
+2 0 -tc
+O
+2 0 -c
+e D
+Month 1 Month 2 Month 3 Month 4
+9 Quangle analysis plots a range of data along a 360 degree axis. Although complex in
+calculation, this process is often used to determine change points.
+10
+All data from Member Month FY03Q3 and FY04Q1Data Sets, provided by Miguel Vargas-
+Ramirez and applied to CHPR methodology presented 3-15-04 in “Forecasting MassHealth
+Caseload – Comparative Analysis of Methodologies”.
+Center for Health Policy & Research (chpr) 8
+University of Massachusetts Medical School
+
+Attachment C
+Chart 2: Example of a Node of Inflection in a Sequential CMGR Chart
+Group 06 Consec CMGR
+0.3%
+0.2%
+Node of
+Inflection at
+0.1%
+December 2001
+0.0%
+-0.1%
+-0.2%
+-0.3%
+-0.4%
+-0.5%
+-0.6%
+A 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2
+/N 0 -g
+u A
+0 -tc
+O
+0 -c
+e D
+0 -b
+e F
+0 -rp
+A
+0 -n
+u J
+0 -g
+u A
+0 -tc
+O
+0 -c
+e D
+0 -b
+e F
+0 -rp
+A
+0 -n
+u J
+0 -g
+u A
+0 -tc
+O
+0 -c
+e D
+Month 1 Month 2 Month 3 Month 4
+Chart 3: Example of a Node of Inflection in a Sequential CMGR Chart
+Group 09 Consec CMGR
+6.0%
+5.0%
+4.0%
+Node of
+Inflection at
+May 2002
+3.0%
+2.0%
+1.0%
+0.0%
+-1.0%
+A 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2
+/N 0 -g
+u A
+0 -tc
+O
+0 -c
+e D
+0 -b
+e F
+0 -rp
+A
+0 -n
+u J
+0 -g
+u A
+0 -tc
+O
+0 -c
+e D
+0 -b
+e F
+0 -rp
+A
+0 -n
+u J
+0 -g
+u A
+0 -tc
+O
+0 -c
+e D
+Month 1 Month 2 Month 3 Month 4
+Center for Health Policy & Research (chpr) 9
+University of Massachusetts Medical School
+
+Attachment C
+The three examples above demonstrate the choice of a node of inflection
+based upon an apparent change in growth pattern. There are instances
+where there are ambiguous changes in the pattern of growth over time,
+therefore the analyst must make a subjective decision as to the most
+relevant historical date to begin the forecast. This subjective choice
+demonstrates the difficulty of the forecasting process and exemplifies the
+need for checks and balances
+Logical Consistency Check of Historical Month Choice
+Due to the fact that CMGRs are weighted month-to-month growth rates,
+they do not directly reflect the observed trend when the actual caseload
+member month eligibility is charted. Due to this fact, it is suggested that for
+all budget groups, the sequential CMGR chart be directly compared to a
+chart of actual member month eligibility for the same monthly period. From
+this comparison the logical consistency of the historical month choice can
+be assessed against both the weighted growth and raw caseload. An
+example of this comparison can be found in Charts 4 and 5. In this example
+there are a clear node of inflection and from the raw member month
+eligibility chart it can be seen that previous to this point the eligibility trend
+had a very different slope associated with it.
+Chart 4: Example of Consistency Check
+Group 09 Consec CMGR
+0.045
+0.04
+0.035
+0.03
+0.025
+Date of CMGR
+Inflection Dec-01
+0.02
+0.015
+0.01
+0.005
+0
+0 0 -g
+u A
+0 0 -p
+e S
+0 0 -tc
+O
+0 0 -v
+o N
+0 0 -c
+e D
+1 0 -n
+a J
+1 0 -b
+e F
+1 0 -ra
+M
+1 0 -rp
+A
+1 0 -y
+a M
+1 0 -n
+u J
+1 0 -lu
+J
+1 0 -g
+u A
+1 0 -p
+e S
+1 0 -tc
+O
+1 0 -v
+o N
+1 0 -c
+e D
+2 0 -n
+a J
+2 0 -b
+e F
+2 0 -ra
+M
+2 0 -rp
+A
+2 0 -y
+a M
+2 0 -n
+u J
+2 0 -lu
+J
+2 0 -g
+u A
+2 0 -p
+e S
+2 0 -tc
+O
+oct sep aug jul
+Center for Health Policy & Research (chpr) 10
+University of Massachusetts Medical School
+
+Attachment C
+Chart 5: Example of Consistency Check (Cont.)
+Group 09 Raw Caseload Enrollment
+140000
+120000
+Date of CMGR
+Inflection Dec-01
+100000
+80000
+60000
+40000
+0 0 -lu
+J
+0 0 -g
+u A
+0 0 -p
+e S
+0 0 -tc
+O
+0 0 -v
+o N
+0 0 -c
+e D
+1 0 -n
+a J
+1 0 -b
+e F
+1 0 -ra
+M
+1 0 -rp
+A
+1 0 -y
+a M
+1 0 -n
+u J
+1 0 -lu
+J
+1 0 -g
+u A
+1 0 -p
+e S
+1 0 -tc
+O
+1 0 -v
+o N
+1 0 -c
+e D
+2 0 -n
+a J
+2 0 -b
+e F
+2 0 -ra
+M
+2 0 -rp
+A
+2 0 -y
+a M
+2 0 -n
+u J
+2 0 -lu
+J
+2 0 -g
+u A
+2 0 -p
+e S
+2 0 -tc
+O
+Ambiguous growth is often seen in fee for service (FFS) and other groups
+not clearly defined by age, disability, or provider status. The chart below
+(Chart 6) demonstrates an ambiguous growth situation for Group 00 (Other),
+a catch-all group for MassHealth members not easily categorized into an
+age or disability grouping.
+Chart 6: Example of an Ambiguous CMGR Chart
+Group 00 Consec CMGR
+0.0%
+0 0 -g
+u A
+0 0 -p
+e S
+0 0 -tcO 0 0 -vo
+N
+0 0 -ce
+D
+1 0 -n
+a J
+1 0 -b
+e F
+1 0 -ra
+M
+1 0 -rp
+A
+1 0 -ya
+M
+1 0 -n
+u J
+1 0 -lu
+J
+1 0 -g
+u A
+1 0 -p
+e S
+1 0 -tcO 1 0 -vo
+N
+1 0 -ce
+D
+2 0 -n
+a J
+2 0 -b
+e F
+2 0 -ra
+M
+2 0 -rp
+A
+2 0 -ya
+M
+2 0 -n
+u J
+2 0 -lu
+J
+2 0 -g
+u A
+2 0 -p
+e S
+2 0 -tcO
+-1.0%
+-2.0%
+-3.0%
+-4.0%
+-5.0%
+-6.0%
+-7.0%
+oct sep aug jul
+Center for Health Policy & Research (chpr) 11
+University of Massachusetts Medical School
+
+Attachment C
+It is clear from this chart that although there is some seasonal variation in
+the growth rates, choosing an inflection point is rather difficult. The arrow
+represents a possible inflection point. Charting the actual eligibility data can
+help to determine the historical period (see Chart 7).
+Chart 7: Raw Caseload Chart Comparison
+Group 00 Raw Member Month Enrollment
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+00-luJ 00-guA 00-peS 00-tcO 00-voN 00-ceD 10-naJ 10-beF 10-raM 10-rpA 10-yaM 10-nuJ 10-luJ 10-guA 10-peS 10-tcO 10-voN 10-ceD 20-naJ 20-beF 20-raM 20-rpA 20-yaM 20-nuJ 20-luJ 20-guA 20-peS 20-tcO
+From Chart 7 it is clear that the growth rate is relatively stable going back to
+June of 2001. With the most recent data “completed”, the point of March of
+2002 seems to be the logical choice as it includes at least six months of
+eligibility data and reflects more accurately the current trend in budget group
+behavior, than if more historical data were to be included.
+This example demonstrates that when data supporting policy change is
+lacking, and there is ambiguity in the CMGR growth, that the historical
+behavior of the budget group becomes the most reliable predictor in the
+forecast. The tools presented here for the choice of historical dates to begin
+the forecasting period are meant to assist the analyst, yet they are all based
+upon historical eligibility figures. In cases where the value of these tools is
+decreased, the analyst is forced to make a subjective decision that requires
+that institutional knowledge bridge the gap.
+C. Historical Period Choice in light of Policy Changes
+Often, policy changes are made that have significant effects on caseload
+eligibility. However, many of these effects are short term, as in the case of
+redeterminations. Based on the analyst’s familiarity with the policy change
+and the particular group being analyzed, different methodologies can be
+employed. Whenever possible, historical data should be included within the
+forecast function. For example, when making the FY04Q1 forecast, it was
+Center for Health Policy & Research (chpr) 12
+University of Massachusetts Medical School
+
+Attachment C
+found that between November 2002 and January 2003 a new
+redetermination policy was substantially decreasing member month
+eligibility in some budget groups. Yet from January 2002 through March of
+2003, eligibility was increasing at a faster rate than before the policy change
+(Chart 7).
+In this instance the analyst expected (based upon similar results for this
+policy change in the past) that eligibility would increase to levels seen
+before the policy change. Therefore, when choosing historical months to
+forecast, the four sequential CMGRs occurring before the policy effects
+were charted (Jul, Aug, Sep, Oct; 2002), and utilized to determine a
+historical starting point. From this, the forecasted trend function was
+adjusted to allow the recent increase as well as the historical trend to have
+an affect. The methodology for creating forecast trends will be discussed in
+Step 2: Developing the Forecast.
+At times policy changes will occur, and the analyst has little information as
+to the potential effects on caseload eligibility. In this situation, it is
+suggested that a forum of key stakeholders discuss potential outcomes.
+Even in the event of policy changes, the forecast should utilize the tools
+available to assess past eligibility, and establish the relevant historical
+period. The benefits of generating the forecast in the absence of policy
+change lie in the forecast’s ability to capture the historical behavior of the
+budget group, and therefore preserve that historical behavior in the policy-
+adjusted forecast.
+Chart 8: Redetermination Effect on Raw Member Month Eligibility
+Group 01 Raw Member Month Enrollment
+3300
+3100
+2900
+2700
+2500
+2300
+2100
+1900
+1700
+1500
+1 0 -n
+a J
+1 0 -b
+e F
+1 0 -ra
+M
+1 0 -rp
+A
+1 0 -ya
+M
+1 0 -n
+u J
+1 0 -lu
+J
+1 0 -g
+u A
+1 0 -p
+e S
+1 0 -tcO 1 0 -vo
+N
+1 0 -ce
+D
+2 0 -n
+a J
+2 0 -b
+e F
+2 0 -ra
+M
+2 0 -rp
+A
+2 0 -ya
+M
+2 0 -n
+u J
+2 0 -lu
+J
+2 0 -g
+u A
+2 0 -p
+e S
+2 0 -tcO 2 0 -vo
+N
+2 0 -ce
+D
+3 0 -n
+a J
+3 0 -b
+e F
+3 0 -ra
+M
+Series1
+Center for Health Policy & Research (chpr) 13
+University of Massachusetts Medical School
+
+Attachment C
+Step 3: Developing the Forecast for Each Budget Group
+Rationale: Step 2 outlines the methodology for developing the individual
+budget group forecasts. Outlined are simple tools through which the
+analyst can utilize the historical information developed in Step 1 to create
+the expected eligibility for each budget group.
+Required Data: Most Recent “Member Month FY##Q#” Dataset,
+Historical Months Chosen in Step 1
+Tool: MS Excel: Trend Function
+MassHealth has traditionally utilized simple tools available in most spreadsheet
+programs to develop its short-term caseload forecast. These tools included least
+squared trending, fixed averages, and weighted averages. Often times these
+tools were augmented with growth factors calculated from past eligibility data or
+external environmental factors such as industry trends and unemployment.
+Based upon CHPR analysis it was found that the use of multiple mathematical
+formulas did not provide the benefits of additional accuracy between forecasted
+eligibility and actual eligibility figures. As past eligibility is the best predictor of
+future eligibility, CHPR has recommended that least squared trending and
+variations thereof, be the primary tools used to generate future caseload eligibility
+forecasts.
+The MassHealth forecast has traditionally been conducted within an MS Excel
+spreadsheet, and all the necessary sheets are currently designed to import
+caseload eligibility information (Member Month Data Sets). Utilizing these sheets
+with the historical dates chosen in Step 2, the analyst must then create the
+forecast function that generates the expected eligibility for the upcoming fiscal
+year.11 As stated above the primary tool through which the forecast is generated
+is the MS. Excel Trend function. This function fits a straight line to the known
+eligibility values (the member months chosen in Step 2), and returns the linear
+values for the selected future timeframe resulting in forecasted member month
+eligibility figures.
+MassHealth has made a policy decision of not allowing for downward trends in
+the future forecasts, in order to prevent under budgeting. Therefore where a
+downward trend was exhibited by actual eligibility figures, analysts have utilized
+averages to stabilize the trend and prevent it from continuing on its downward
+slope. Based upon this policy decision, CHPR has recommended steps in the
+forecasting process to streamline mathematical formulas and increase the
+accuracy of the forecast by allowing for downward trending where applicable.
+These steps are outlined below.
+11 Note: CHPR recommends caution when forecasting for more than 12 full months. As the
+extent of time forecasted increases the accuracy of the forecast decreases substantially.
+Center for Health Policy & Research (chpr) 14
+University of Massachusetts Medical School
+
+Attachment C
+A. Applying the Trend Forecast
+Once the historical period for the forecast is chosen, the MS Excel trend
+function should be applied to the member month eligibility for that period, for
+each budget group. The forecast projection period should be for 12 months,
+but may increase to 24 based upon the needs of MassHealth. Caution must
+be observed recommending budgetary requirements for distant future
+periods. The inaccuracy of the forecast projection increases as the length
+of time incorporated increases.
+In the Member Month Data Sheet, the analyst should apply the trend
+function directly below the actual eligibility figures for each budget group.12
+By designing the sheet in this manner, individual budget group forecasts
+can be charted and analyzed for consistency. In addition, the analyst
+should document the historical period used in the forecast along with the
+particular trend function used.
+Once the trend function is applied to each budget group for the specific time
+periods required (past and future), the forecasted figures must be analyzed
+for consistency. The manner in which this consistency is assessed is up to
+the analyst. The consistency should be assessed against institutional
+knowledge as to the policy changes affecting budget groups,
+stability/instability of eligibility per budget group, expected eligibility, and
+policy decisions on downward trending. The trend functions can be
+adjusted accordingly, based upon this consistency check.
+B. Modifying Trends for Policy Changes
+Often times a policy change will significantly affect caseload member month
+eligibility as demonstrated above in Step 2C. At this point the analyst must
+utilize all institutional information available to adjust the forecast for the
+upcoming period. A methodology for historical month choice was
+demonstrated above. Based upon the policy change and the information
+available to the analyst, utilizing historical member month eligibility data may
+or may not be advantageous.
+In the example presented above, redetermination had drastically decreased
+eligibility in particular budget groups during the months of November 2002
+and January 2003 (See Chart 8). The institutional knowledge available at
+the time of the FY04Q1 forecast presented the expectation that eligibility in
+the budget group would continue to increase to levels seen previous to the
+policy change and that eligibility behavior would be relatively similar to that
+observed in the past. From this information, the analyst was able to utilize
+the historical period chosen in Step 2C along with the current eligibility
+pattern to develop a modified trend function for the future forecast. Chart 8
+12 Electronic versions of the data sets will be provided with this document.
+Center for Health Policy & Research (chpr) 15
+University of Massachusetts Medical School
+
+Attachment C
+demonstrates an increase in member month eligibility from December 2002
+through the most recent month data was available; March 2003. Utilizing
+these figures, a trend function was developed and applied (Jan03-Mar03)
+until eligibility was equal to that observed before the policy change (October
+2002). At this point, the trend developed from the historical period chosen
+in Step 2C was applied to the subsequent dates in the forecast. See Chart
+9.
+Chart 9: Example of Policy Adjusted Forecast
+FY04Q1 Group 01 Forecast
+3500
+Trend Jan03 – Mar03
+3000
+Trend
+2500
+adjusted for
+historical
+2000 period
+1500
+Actual Member Forecast
+Month Eligibility Period
+1000
+500
+0
+2 0 -ra
+M
+2 0 -rp
+A
+2 0 -ya
+M
+2 0 -n
+u J
+2 0 -lu
+J
+2 0 -g
+u A
+2 0 -p
+e S
+2 0 -tcO 2 0 -vo
+N
+2 0 -ce
+D
+3 0 -n
+a J
+3 0 -b
+e F
+3 0 -ra
+M
+3 0 -rp
+A
+3 0 -ya
+M
+3 0 -n
+u J
+3 0 -lu
+J
+3 0 -g
+u A
+3 0 -p
+e S
+Member Months
+The above example demonstrates the use of both recent and historical
+information in the forecast. In this circumstance the analyst had information
+available to make an educated estimate of future eligibility and utilized all
+information available to adjust the resultant forecast. The amount of policy
+related information available to analysts for this forecast may not be
+available for all policy changes and therefore subjective adjustments will
+need to be made.
+Step 4: Cluster Level Forecasting
+Rationale: Step 3 addresses the movement within, between, and among
+budget groups. Through the use of specific grouping tools, the analyst is
+provided the ability to gain insight into the populations MassHealth serves
+as well as achieve greater forecast accuracy.
+Required Data: Most Recent “Member Month FY##Q#” Dataset and
+Individual Budget Group Forecasts
+Tool: MS Excel: Sum and Trend Functions
+CHPR recommends forecasting the MassHealth caseload eligibility in groups of
+age and disability related clusters. These will include disabled children, non-
+Center for Health Policy & Research (chpr) 16
+University of Massachusetts Medical School
+
+Attachment C
+disabled children, disabled adults, non-disabled adults, seniors, and other. The
+recommended clusters and budget groups therein are shown in Table 2. By
+grouping specific related budget groups into clusters, the analyst gains insight
+into system-wide eligibility patterns, and how individual budget group eligibility
+compares to the population of related individuals.
+Table 2: Budget Group Clusters
+Non-Disabled CHILDREN Disabled
+09 HMO 01 HMO
+11 PCC 03 PCC
+13 TPL 05 TPL
+15 FFS 07 FFS
+17 FFS Newborn 29 Common Health
+30 HMO Family Assistance
+32 PCC Family Assistance
+34 Unenrolled Family Assistance
+36 Premium Assistance
+38 Limited Children
+42 Adoption
+Non-Disabled ADULTS Disabled
+10 HMO 02 HMO
+12 PCC 04 PCC
+14 TPL 06 TPL
+16 FFS 08 FFS
+22 HMO Basic 27 CH Working Adults
+23 PCC Basic 28 CH Non-Working Adults
+24 Unenrolled 41 LTC < 65
+31 HMO Family Assistance
+33 PCC Family Assistance
+35 Unenrolled Family Assistance
+37 Premium Assistance
+39 Limited
+40 Prenatal
+SENIORS
+18 Community Senior
+19 Institutional Senior
+OTHER
+00 Other
+44 DMH Clients
+20 Buy-In
+21 Buy-In
+26 Basic Buy-In
+Center for Health Policy & Research (chpr) 17
+University of Massachusetts Medical School
+
+Attachment C
+In addition to offering a system-wide check and balance system, clustering allows
+the analyst to assess movements between budget groups and adjust the forecast
+accordingly. Therefore, CHPR has recommended allowing for trending down at
+the budget group level followed by an overall trend assessment and adjustment
+at the cluster level.
+To forecast at the cluster level the analyst must arrange the budget groups and
+their associated forecasted trends as developed in Step 3A, into the clusters
+designated in Table 2. Caseload Narrative Examples Ex8 provides an example
+of the FY03Q3 Cluster forecast worksheet developed in Microsoft Excel. After all
+the budget groups are arranged by cluster, the cluster forecast is developed by
+summing the member month eligibility for each budget group of the cluster in a
+new column within the worksheet entitled “Cluster Forecast”. Once the “Cluster
+Forecast” is developed for all clusters, the analyst must then assess the slope of
+the associated forecasts. If the trend of the forecast is increasing then that is the
+forecast member month eligibility that should be budgeted for. If the trend of the
+forecast is decreasing, then the forecast must be adjusted to prevent member
+month eligibility at the cluster level from decreasing.
+The budget groups with downward trends should be analyzed. It is at this point
+that the analyst must bring into the analysis any additional institutional knowledge
+that may allow for the understanding of the cluster level behavior. From this
+knowledge, the analyst must make the subjective judgment as to which budget
+group(s) needs to be adjusted to facilitate an increasing trend at the cluster level.
+For example, if the analyst were aware of specific budget groups from which a
+significant decrease in eligibility was trended for in Step 2 based upon a
+redetermination policy. The analyst may reassess which months are included in
+the historical trend for these particular budget groups or they may choose to
+employ the “Trend/pull” function developed in Step 2. The use of either of these
+methods is a subjective judgment and is based upon the specific knowledge the
+analyst has available at that time, and the projected impact of the change on the
+cluster level forecast.
+Center for Health Policy & Research (chpr) 18
+University of Massachusetts Medical School
+
+Attachment C
+Concluding Remarks
+The forecasting process is complex and has subjective components. It requires
+a substantial level of institutional knowledge and skill in the assessment of the
+behavior of individual budget group populations from a mathematical and a policy
+perspective. This narrative is designed to assist the analyst in the forecasting
+process and to add to the rationale developed in the “MassHealth Caseload and
+Expenditure Analysis: Final Caseload Analysis Deliverable,” presented to
+MassHealth on August 2, 2004.
+The methodologies outlined above were developed by the Center for Health
+Policy and Research (CHPR) to augment the current procedures for forecasting
+MassHealth caseload eligibility. Therefore the complex assumptions and
+caveats discussed above are also subject to the assumptions currently employed
+in the existing forecasting process. These recommendations for improvement
+are meant to add to the toolbox of the informed analyst and should not be used in
+a vacuum. Forecasting is a process of informed decision making and educated
+guessing. The mathematical process is a mechanism from which the analyst can
+gain the insight needed to make these decisions. Finally, these tools are meant
+to be fluid and adjusted as necessary as policy changes require or knowledge
+levels increase.
+Center for Health Policy & Research (chpr) 19
+University of Massachusetts Medical School

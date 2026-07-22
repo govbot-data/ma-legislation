@@ -1,0 +1,933 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Massachusetts Transitions from Acute
+Care to Post-Acute Care (TACPAC) Task Force
+Established by Section 25 of Chapter 197 of the Acts of 2024
+Submitted July 31, 2025
+
+Table of Contents
+I. Task Force: Purpose and Scope ........................................................................... 3
+II. The Landscape: Population and Providers ............................................................ 5
+III. The Challenge: Bottlenecks Across the Continuum ............................................... 9
+IV. Progress to Date: Ongoing and Emerging Efforts .................................................. 10
+V. Bridging the Gaps: Recommendations for Consideration ..................................... 12
+VI. A Path Forward: Strategic Alignment and Accountability ...................................... 23
+VII. Appendices ...................................................................................................... 24
+Appendix A – Full Text of the Task Force’s Charge ............................................. 24
+Appendix B – List of Task Force Members ........................................................ 26
+Appendix C – Relevant State Legislation Currently Under Review ...................... 27
+2
+
+I. Task Force: Purpose and Scope
+The Transitions from Acute Care to Post-Acute Care (TACPAC) Task Force was established under
+Section 25 of Chapter 197 of the Acts of 2024 to study and propose recommendations to address
+acute care hospital throughput challenges and the impact of persistent delays in discharging
+patients from acute to post-acute care settings. The work of the Task Force focused on identifying
+system barriers, advancing innovative solutions, and promoting timely, appropriate care transitions.
+Specifically, the Task Force was responsible for examining:
+i. hospital discharge planning and case management practices;
+ii. payer administrative barriers to discharge;
+iii. legal and regulatory barriers to discharge;
+iv. efforts to increase public awareness of health care proxies and the importance of
+designating a health care agent;
+v. post-acute care capacity constraints and additional opportunities to provide financial
+incentives to increase capacity;
+vi. administrative day rates and the cost to hospitals of discharge delays;
+vii. enhanced hospital case management practices and reimbursement for wraparound
+services;
+viii. the adequacy of post-acute care facility insurance networks and the establishment of an
+out-of-network rate for post-acute care facilities;
+ix. expanding MassHealth Limited coverage to include post-acute and long-term care services;
+x. the effectiveness of interagency coordination to resolve complex case discharges;
+xi. the adequacy of reimbursement rates of MassHealth and commercial carriers for
+nonemergency medical transportation;
+xii. opportunities to expand coverage and reimbursement for services delivered by mobile
+integrated health programs certified by the department of public health and by participating
+providers in the federal Centers for Medicare and Medicaid Services acute hospital care at
+home program;
+xiii. alternative transportation options for patients being discharged and transferred to post-
+acute care facilities or home health agencies; and
+xiv. the adequacy of state resources and infrastructure to place complex case discharges in
+appropriate post-acute care settings, including, but not limited to, patients with dementia
+diagnoses, geriatric patients with psychiatric diagnoses, patients with behavioral health
+diagnoses, patients with substance use disorder diagnoses, justice-involved patients and
+patients who have been unable to find an appropriate placement for post-acute care for 6
+months or longer.
+3
+
+The Task Force was chaired by Executive Office of Health and Human Services Assistant Secretary
+Joanne Marqusee, acting as the designee of the Secretary of Health and Human Services, and was
+comprised of a diverse panel of public health professionals, experts in health care administration
+and finance, and legal and law enforcement professionals (see full list in Appendix B).
+The Task Force met nine times from January through July 2025 and was required to submit its
+recommendations to the Clerks of the House of Representatives and Senate, the Joint Committee
+on Ways and Means, and the Joint Committee on Health Care Financing not later than July 31, 2025.
+All meetings were subject to the Open Meeting Law and minutes were taken and approved for each
+meeting. All materials considered by the Task Force as well as minutes of the Task Force’s meetings
+were posted on a publicly-available webpage: https://www.mass.gov/transitions-from-acute-care-
+to-post-acute-care-tacpac-task-force
+4
+
+II. The Landscape: Population and Providers
+Improving hospital throughput and transitions to post-acute care requires a clear understanding of
+who is served by the Massachusetts healthcare system, which providers support their care
+journeys, and what systemic barriers contribute to persistent discharge delays. The
+Commonwealth’s healthcare infrastructure serves a diverse and aging population with complex
+medical, behavioral, and social needs. Across this landscape, providers and payers face significant
+capacity constraints, administrative challenges, and workforce shortages that contribute to
+bottlenecks in care transitions.
+This section summarizes the key populations affected, the providers involved, and the core
+problems that have led to thousands of patients remaining in acute care beds despite being
+medically ready for discharge.
+The Population
+Massachusetts health care system serves a diverse and aging population with increasing post-
+acute care needs. Of the 6.5 million insured residents in Massachusetts, approximately 23% are in
+fully-insured commercial insurance plans; 23% are covered by Medicaid; 18% are covered by
+Medicare; and 36% are covered by employer self-insured plans.1 2
+Medicare
+18%
+Employer
+Self-Insured
+36%
+Fully-Insured
+Commercial
+23%
+Medicaid Medicare
+(MassHealth) Fully-Insured Commerical
+23% Medicaid (MassHealth)
+Employer Self-Insured
+1 Center for Health Information and Analysis. (2025, March 6). Enrollment in health insurance: Enrollment
+trends (through September 2024). Commonwealth of Massachusetts. Retrieved June 30, 2025, from
+https://www.chiamass.gov/enrollment-in-health-insurance/#enrollment-trends-interactive
+2 Health care costs for uninsured residents, including those who may be justice-involved, are paid from the
+State’s General Fund.
+5
+
+In thinking about the impact of recommendations that establish mandates on payers, it is relevant
+to note that state legislative or regulatory action on commercial insurance can only impact the
+fully-insured. Likewise, state legislative or regulatory action on public programs can only impact
+Medicaid. Thus, State mandates would at most apply to less than half of the insured population
+(i.e., 23% fully-insured and 23% Medicaid). To impact Medicare and/or self-insured plan policies
+would require federal action.
+Key sub-populations facing prolonged discharge delays include individuals experiencing one or
+more of the following, which may individually or collectively be contributing to delayed discharges:
+• Behavioral health needs
+• Dementia and cognitive impairment
+• Substance use disorders
+• Homelessness or housing instability
+• Justice involvement
+• End-of-life care needs
+The Providers
+The Massachusetts care continuum supporting transitions from acute to post-acute care includes:
+Acute Care
+• Acute Care Hospitals: Facilities that provide short-term, intensive medical care for
+individuals experiencing serious or emergent health conditions. They serve as the entry
+point for many patients into the healthcare system and coordinate care transitions to post-
+acute and community-based settings.
+Post-Acute Care
+• Skilled Nursing Facilities (SNFs): Residential healthcare providers that deliver 24-hour
+nursing care, rehabilitation services, and support for individuals who require ongoing
+medical supervision and assistance with daily living after an acute hospital stay.
+• Long-Term Acute Care Hospitals (LTACHs) and Inpatient Rehabilitation Facilities (IRFs):
+Specialized hospitals that offer extended medical care for patients with complex medical
+needs, such as prolonged ventilator use or intensive rehabilitation following serious injury,
+illness.
+• Home Health Agencies and Community Providers: Organizations that deliver medical care,
+personal care, and supportive services directly in a patient’s home or community,
+facilitating recovery and promoting independent living outside of institutional settings.
+6
+
+• Behavioral Health and Specialty Providers: Providers that offer targeted care for individuals
+with mental health conditions, substance use disorders, cognitive impairments, and other
+specialized medical needs. They play a critical role in managing complex, chronic, or co-
+occurring conditions.
+Navigating the Health Care Continuum
+Key Metrics:
+• Massachusetts acute care hospitals oversee approximately 740,000 – 800,000 inpatient
+discharges annually, based on CHIA data through federal fiscal year (CY) 2023.3
+• On average, more than 2,000 patients statewide remain hospitalized each day despite being
+medically ready for discharge.4
+• Some patients experience discharge delays exceeding 30 days, particularly those with
+complex medical, behavioral, or social needs. Based on recent CHIA data, 9% of patients’
+3 Center for Health Information and Analysis. (2025, February 27). Massachusetts acute care hospital
+inpatient discharge reporting. CHIA. https://www.chiamass.gov/massachusetts-acute-care-hospital-
+inpatient-discharge-reporting/#dashboard
+4 Massachusetts Health & Hospital Association. (n.d.). Monthly throughput survey reports. Retrieved June 30,
+2025, from https://www.mhalink.org/throughputreports/
+7
+
+stays lasted 30 days or more and 2% lasted 120 days or more (double the comparable data
+in 2017).5
+• Delays disproportionately affect individuals with complex care needs, behavioral health
+needs, dementia, substance use disorders, housing instability, justice involvement, or end-
+of-life care requirements. For example, of the 9% of patients’ stays that lasted 30+ days, 3 of
+the 5 most common conditions impacting those stays were mental health-related.
+• The problem is multi-faceted and often driven by one or more of the following: legal and
+decision-making challenges, post-acute care capacity constraints, payer-related
+complexities, fragmented care coordination, complex needs, and non-emergency
+transportation challenges.
+5 Massachusetts Health Policy Commission (HPC). Health Care Cost Trends Hearing presentation (November
+2024). Available on the HPC website: https://masshpc.gov/sites/default/files/2024-
+11/2024%20CTH%20Presentation.pdf
+8
+
+III. The Challenge: Bottlenecks Across the Continuum
+Hospitals across Massachusetts are experiencing challenges discharging patients who are
+medically ready to transition to post-acute care (PAC) settings. These delays contribute to hospital
+crowding and suboptimal care transitions, underscoring the need for better coordination,
+infrastructure, and system accountability. Key barriers include:
+1. Legal and Decision-Making Barriers
+Many patients lack a legally authorized decision-maker—such as a Health Care Proxy (HCP) or
+other advance directive—which can delay care planning and discharge. When no proxy is available
+or activated, hospitals must often pursue time-consuming guardianship proceedings that vary by
+county. Additionally, the lack of a statutory "next of kin" surrogate decision-making authority and
+supported decision-making authority compound these delays.
+2. Post-Acute Care Capacity Constraints
+More than 2,000 individuals remain in acute settings daily despite being clinically ready for
+discharge, with some waiting over 30 days. Delays stem from workforce shortages in SNFs and
+HCBS settings, lack of weekend and off-hour discharge readiness, limited availability for patients
+with complex needs (e.g., high-acuity rehab, co-occurring behavioral and medical conditions,
+insurance complexity, coverage variability), and the need for more flexible service models such as
+Hospital-at-Home, mobile integrated health, remote patient monitoring, telehealth, or co-located
+care options.
+3. Payer and Coverage Complexities
+Discharge delays are also driven by payer-related challenges, including the administrative burden
+associated with prior authorizations, difficulties arranging timely out-of-network placements, and
+issues related to Medicaid long-term care (LTC) eligibility processing. Chapter 197 (2024) includes
+many important provisions aimed at addressing these challenges, and the Task Force identified
+other possible recommendations that could further mitigate challenges.
+4. Fragmentation Across the Care Continuum
+Transitions between hospitals, SNFs, and home- and community-based providers, and other post-
+acute settings are often hindered by program variability, lack of standardized tools, insurance
+complexity, coverage variability and unclear roles in discharge planning creating confusion and
+inefficiencies.
+5. Delays for Individuals with Complex Needs
+People experiencing behavioral health needs, homelessness, dementia, or justice involvement face
+additional obstacles due to limited availability of specialized programs like medical-psychiatric
+facilities, group living environments, bariatric equipment and training, and secure post-acute beds.
+Transportation bottlenecks, coordination breakdowns, and provider documentation that may
+include subjective or stigmatizing language can also contribute further extend the length of stay.
+6. Non-Emergency Medical Transportation (NEMT) Arrangements
+Even when a post-acute placement is secured, delays in arranging timely, reliable transportation—
+especially on weekends for behavioral health transfers or for complex transfers—can result in
+missed discharge windows and prolonged acute care hospital stays.
+9
+
+IV. Progress to Date: Ongoing and Emerging Efforts
+Massachusetts agencies and partners have initiated several efforts to improve hospital discharge
+and transitions of care:
+Effort Description Targeted Barrier
+MHA / Honoring • Promotes HCP completion across care settings. Legal/Decision-
+Choices Making Gaps
+Massachusetts /
+DPH “Simple
+Step” Campaign
+Chapter 197 of • Establishes a two-year pilot program that requires Payer Admin
+2024 (Prior Group Insurance Commission (GIC) plans, MassHealth
+Authorization) and fully-insured commercial plans licensed in
+Massachusetts to approve or deny requests for prior
+authorization for post-acute care services by the next
+business day following receipt by the payer of all
+necessary and complete information to establish the
+medical necessity of the requested post-acute care
+services (home care, SNF care, post-acute hospital
+care).
+• Directs the Division of Insurance to develop and
+implement a uniform prior authorization form for the
+admission of patients from an acute care hospital to
+post-acute care settings to be used by all insurers,
+including MassHealth.
+• Requires weekend approvals within one (1) calendar
+day or a waiver of prior authorization on weekends, with
+concurrent review beginning on the next business day.
+Chapter 197 of • Review and study improving the eligibility Payer Admin
+2024 determination process, including establishing a
+(MassHealth LTC rebuttable presumption of eligibility; guaranteeing
+Eligibility) payment for LTC services for up to one year while
+eligibility is resolved; expanding undue hardship waiver
+criteria to reduce financial barriers.
+Chapter 197 of • Requires DPH to study and report, by July 31, 2025, on Legal/Decision-
+2024 the feasibility of having qualified professional Making Gaps
+(Public guardians give informed medical consent for indigent
+Guardianship persons and whether such guardians would reduce
+Program) hospital discharge issues.
+Chapter 197 of • Creates a fund to recruit and retain a dedicated long- Workforce
+2024 term care workforce, including grants to develop new
+(LTC Workforce Certified Nursing Assistants (CNAs), career ladder
+Fund) grants for direct care workers to train to become
+10
+
+Effort Description Targeted Barrier
+Licensed Practical Nurses (LPNs), along with
+leadership and supervisory training for nursing home
+leaders. However, to date, there has been no funding
+authorized for this account.
+Streamlining • Launch of DMH Nursing Facility Transition (NFT) Team Care Continuum
+Nursing Facility to assist individuals able to transition to community Fragmentation
+Transitions settings.
+• Development by DMH of two Enhanced Medical Group
+Living Environments (EMGLE) to facilitate transitions to
+lower levels of care settings and prevent hospitalization
+or nursing facility admissions.
+• Creation of the Community Transition Liaison Program
+(CTLP) to support nursing-facility residents (age 22+) in
+returning to community living, regardless of insurance
+status.
+EOHHS • A statewide resource launched in 2021 to assist Complex Cases
+Discharge hospitals with complex, delayed discharges. Discharge
+Support Support (DS) provides case-specific troubleshooting,
+identifies appropriate state agency contacts, and
+connects hospitals to resources not previously
+engaged in the discharge process. DS supports
+hospitals after all internal discharge efforts have been
+exhausted, and routinely collaborates with
+MassHealth, DMH, DDS, ASAPs, ILCs, the VA, and
+housing agencies. DS also addresses barriers for
+individuals facing homelessness, justice involvement,
+long-term care eligibility challenges, and multi-agency
+coordination delays.
+Integrate POLST • Piloting ePOLST Registry integration into hospital EHRs Legal/Decision-
+Registry into by 2027 for automatic access to end-of-life orders. Making Gaps
+EHRs
+Improve • Project was launched by the TACPAC Task Force to Complex Cases
+Throughput and improve coordination among DPH, the Department of
+Access for Correction (DOC) and Houses of Correction (HOC), as
+Justice-Involved well as standardize operating procedures for admission
+Patients requests to the Lemuel Shattuck Hospital for justice-
+Needing involved patients requiring higher levels of care. It is
+Inpatient anticipated that new processes, procedures, and
+Services communication approaches will be agreed to in
+summer 2025 and rolled out shortly thereafter.
+11
+
+V. Bridging the Gaps: Recommendations for Consideration
+The Task Force developed the following package of recommendations based on its deliberations, as
+well as the presentations and resources shared with the group. While efforts were made to reach
+broad consensus amongst the Task Force’s membership, on one of the proposed
+recommendations below, the group was unable to reach full agreement and the varying opinions
+are noted.
+As noted in several of the recommendations, there are legislative proposals in the 194th
+Massachusetts General Court that include provisions consistent with the recommendation(s).
+Appendix C includes the references to those legislative proposals. While the Task Force is not
+necessarily advocating for a specific legislative proposal, we wanted to share where our
+recommendations overlapped with provisions in legislative proposals that are being considered.
+Additionally, it is important to note that the work of the Task Force was conducted prior to the
+passage of federal legislation signed into law on July 4, 2025, which includes certain provisions that
+may significantly impact access and barriers to healthcare, e.g., introducing penalties for insuring
+individuals with documentation issues, retroactively reducing coverage from 90 days to 60 days,
+etc. These federal changes are likely to exacerbate the problem of patients being delayed in
+transitioning from acute to post-acute care settings.
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+1. Legal & Decision-Making Considerations
+1.1 Advance • Support passage of legislation to Provides a legally iii, vi
+“Next of Kin” or establish a default surrogate recognized fallback
+“Surrogate” hierarchy for patients lacking decision-maker to prevent
+Decision-Making capacity and without an discharge delays, reduce
+legislation appointed Health Care Proxy (e.g., emergency guardianship
+appointing surrogate vs. relying on filings, and enable timely
+highest-ranked available next of care decisions for
+kin, clarify definitions, clarify incapacitated individuals.
+scope and duration of next of
+kin/surrogate, address handling of
+family disagreement). The majority
+of these concepts are contained in
+provisions included in various bills
+currently under review; please see
+Appendix C.
+• Convene key stakeholders from
+the hospital, legal, and post-acute
+care communities to ensure that
+12
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+proposed and adopted statutory
+language includes the necessary
+clarifications and protections to
+effectively address the problem.
+1.2 Expand • Scale and routinize the MHA / Reduces reliance on i, iii, iv, v
+Health Care Honoring Choices Massachusetts emergency guardianship,
+Proxy (HCP) / DPH “Simple Step” Campaign prevents discharge delays
+education and statewide to increase awareness due to lack of legal
+execution and completion rates with special decision-maker,
+focus on multilingual and increases early/timely
+culturally appropriate content. planning especially for
+• Integrate HCP education and patients at risk of
+documentation into hospital incapacity, reducing
+intake, COAs, ASAPs, and PCP avoidable guardianship
+practices. filings and institutional
+• Endorse standard plain-language, discharges.
+multilingual HCP forms.
+1.3 Modify MGL • Amend the law to require just one Streamlines the process iii, vi
+201D to witness who may witness via of executing and
+Modernize Health audio-video and electronically activating health care
+Care Proxy sign the proxy document. proxies.
+Requirements • Statutorily change the law to make
+it clear that Advanced Practice
+Providers (APP) with proper
+training are authorized to make
+incapacity determinations and
+invoke health care proxies.
+1.4 Explore • Assess feasibility and value of Streamlines filing and ii, iii, vi
+hospital-based funding Court Navigator positions communication with
+court liaison within hospital systems to Probate and Family
+roles manage and expedite Courts, reduces variation
+guardianship / conservatorship in process across
+filings and court communication. counties, and shortens
+legal wait times.
+1.5 Promote • Support legislation to establish Reduces need for i, iii, v
+Supported legal recognition of Supported guardianship; preserves
+Decision-Making Decision-Making (SDM) in autonomy while
+Massachusetts (reflected in supporting timely
+provisions included in various bills discharge decisions for
+currently under review; please see adults with retained
+Appendix C). decision-making
+capacity.
+13
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+• Conduct statewide training for
+providers and families to ensure
+consistent understanding and
+application.
+1.6 Expand • Support the expansion and Expanding public iii, vi
+Public Guardian funding of the Public Guardian guardian programs and
+Programs and Pilot Program and align with recruiting volunteers
+Volunteer forthcoming Department of Public addresses the persistent
+Recruitment Health (DPH) recommendations shortage of available
+to strengthen guardianship guardians, which
+capacity statewide. contributes to discharge
+• Support legislation that would delays and prolonged
+fund public awareness campaigns hospital stays for
+to recruit retired healthcare individuals without
+providers and other qualified decision-makers.
+individuals to serve as volunteer
+guardians (reflected in provisions
+included in various bills currently
+under review; please see
+Appendix C).
+2. Post-Acute Capacity & Referral Pathways
+2.1 Program to • Through pilot programs and Hospitals continue to v, xiv
+Enhance hospital-nursing home have more than 340
+Capacity of partnerships, investigate the patients per month who
+Skilled Nursing feasibility, costs to nursing are waiting for long-term
+Facilities to facilities and hospitals, and care beds in nursing
+Accept Long- patient outcomes of programs to homes; Increases
+Term Custodial expand capacity for patients capacity and throughput
+Care Patients requiring long-term care custodial by freeing-up beds in
+beds in skilled nursing facilities hospitals and creating
+with appropriate workforce capacity for hospital-
+supports and investment, ready discharges.
+particularly for specialized
+populations.
+2.2 Standardize • Convene key stakeholders Reduces unnecessary i, vii
+discharge referral representing hospital and post- delays caused by
+packets and acute care providers to explore incomplete or
+promote virtual impact of mandating uniform inconsistent discharge
+screening referral packets for hospital documentation.
+discharge and pre-admission
+clinical in-person or virtual
+14
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+screenings and warm hand-offs to
+post-acute care providers.
+2.3 Develop a • Explore the feasibility and cost of Enables data-driven i, v, vi
+real-time post- developing, governing and coordination and reduces
+acute care maintaining a real-time statewide inefficient referrals and
+system platform for post-acute care bed delays.
+dashboard and service availability, referral,
+acceptance status, discharge
+delays, and real-time coordination
+tools.
+2.4 Promote • Establish hospital targets to Initiating hospital i, v, vi
+accelerated initiate hospital transfers to post- transfers to post-acute
+discharge acute care earlier in the day (8:00 care earlier in the day
+programs a.m. to 11:00 a.m.). improves hospital
+• Adopt and scale models like “10 throughput, reduces
+Before 10” or similar discharge avoidable administrative
+acceleration models in high- days, allows for flattening
+volume hospitals to encourage of transportation
+earlier discharge of patients demands, and enhances
+requiring ambulance transfer to care continuity and
+reduce constraints on ambulance patient safety by aligning
+capacity late in the day. discharge timing with PAC
+facility intake workflows,
+ambulance availability
+and care team
+coordination.
+2.5 Expand SNF • Improve weekend and off-hour Unlocks hospital capacity i, v, vi
+weekend intake transitions, piloting “weekend- and prevents weekend
+and transport ready” discharge programs backlogs.
+readiness including designated PAC
+signatory staff, standard weekend
+prior authorization rules across
+those insurance companies over
+which the state has regulatory
+authority, and dedicated transport
+slots, (e.g., pre-scheduled PT-1s
+with weekend overrides).
+2.6 Expedited • Establish expedited pathways Delays in discharge for I, vi
+Discharge for (including prior authorization) for hospice and end-of-life
+Hospice and End- hospital discharge and post-acute patients can cause
+of-Life Care care coordination for hospice and avoidable suffering and
+end-of-life patients to minimize misalignment with care
+15
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+unnecessary delays, ensure goals. Expedited
+timely access to appropriate care processes are essential to
+settings, and uphold patient support timely transitions
+dignity and care preferences at that prioritize patient
+the end of life. comfort and family needs.
+3. Payer & Coverage Administrative Considerations
+3.1 Monitor and • Monitor utilization and collect Ensures that ii, vii
+evaluate prior data on Chapter 197 (2024) administrative
+authorization requirement, including: streamlining under
+reforms under o Timeliness of prior Chapter 197 is properly
+Chapter 197 authorization decisions, implemented,
+specifically the next business consistently applied, and
+day response standard for achieves the intended
+post-acute care and transport benefits without causing
+authorizations; unintended
+o Utilization of the waiver consequences such as
+provision for non-business inappropriate admissions
+day submissions; or member
+o Voluntary efforts by dissatisfaction.
+commercial insurers, GIC
+plans, MassHealth, and
+Medicare Advantage to further
+waive or streamline prior
+authorization requirements;
+o Reviewing prior authorization
+trends among commercial
+insurers licensed in the state
+compiled by the Division of
+Insurance; and
+o Impact on hospital
+throughput, inappropriate
+placements, and member
+satisfaction.
+• Support the development of
+mutually agreed-upon minimum
+covered stay periods through
+private negotiation between
+health plans and post-acute care
+providers, informed by ongoing
+monitoring and evaluation, to help
+provide greater clarity and
+predictability around payment.
+16
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+• The Task Force discussed
+minimum covered stay periods in
+post-acute settings to help
+facilitate faster discharges and
+decrease post-acute providers’
+risk of accepting patients without
+payor coverage. However, there
+were differences of opinion
+among Task Force members
+regarding the best approach.
+o Providers suggest a
+standardized minimum
+stay coverage for all
+insurers over which the
+state has authority.
+o Payors suggest
+development of mutually
+agreed-upon minimum
+covered stay periods
+through private
+negotiation between
+health plans and post-
+acute care providers.
+3.2 Advocate for • Partner with federal and state Delays in Medicare ii, vii
+Medicare stakeholders to advocate for Advantage prior
+Advantage Prior national alignment of prior authorization create
+Authorization authorization turn-around times to discharge backlogs and
+Alignment expedite post-acute care care coordination
+transitions. challenges; aligning
+• Advocate for federal government response times improves
+to align Medicare and Medicare throughput and patient
+Advantage prior authorization experience.
+response times for post-acute
+care services with recent
+Massachusetts standards.
+3.3 Explore out- • Convene stakeholders to explore Support timely discharge viii, vi
+of-network potential strategies to support and ensures member
+reimbursement timely access to care when no in- access to care when
+processes network provider is available. capacity is strained.
+• Strategies may include—but are
+not limited to—streamlining out-
+of-network (OON) payment
+processes or developing shared
+17
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+principles to guide timely
+negotiation in urgent situations.
+• Prioritize solutions that balance
+the need to expedite patient
+access, reduce discharge delays,
+preserve the ability for private
+negotiation, and promote insurer
+network adequacy and
+transparency.
+3.4 Explore • Evaluate the feasibility, billing Support proactive
+Enhanced operations, and cost- discharge planning and
+Hospital Case effectiveness of enhanced social needs support to
+Management and hospital-based case management help reduce discharge
+Wrap-Around and wrap-around service models delays, improve care
+Service (e.g., CHART-style teams) through transitions, and ensure
+pilot programs. home- and community-
+based services (HCBS)
+are in place to prevent
+readmissions.
+4. Home & Community-Based Supports (HCBS) Care Continuum
+4.1 Make • Explore feasibility of making the Direct HCBS coordination i, iii, v
+Hospital to Home Hospital to Home Partnership at the point of care
+Partnership Program (HHPP) permanent, and reduces unnecessary SNF
+Program (HHPP) based on feasibility encourage placement and enables
+permanent and fund programs that enable all faster, safer discharges to
+hospitals to embed liaison roles the community.
+from their local ASAPs for home
+and community-based care
+coordination.
+4.2 Develop an • Explore feasibility of developing a Reduces manual i, ii
+HCBS referral universal hospital-to-HCBS handoffs, ensures faster
+portal integrated broadcast referral tool to connect referrals, and improves
+with EMRs ASAPs, ILCs, and home care visibility across providers
+agencies through secure, and allows ASAPs to
+automated platforms. anticipate potential wrap-
+around services to
+support discharge to the
+community prior to
+discharge from SNF care.
+18
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+4.3 Expand • Expand reimbursement pathways CHIA’s June 20256 review i, v, vi
+Mobile Integrated for MIH through defining found that expanding MIH
+Healthcare (MIH) standardized billing codes for MIH would have minimal
+and Hospital-at- and clarifying scope of practice insurance premium
+Home models and credentialing pathways for impact ($0.03–$0.12
+MIH (reflected in provisions PMPM) while reducing
+included in various bills currently emergency use, hospital
+under review; see Appendix C). readmissions, and
+• Sustain CMS Hospital-at-Home improving access and
+waivers through federal outcomes, especially for
+legislation, 1115 waivers, state underserved populations.
+plan amendments, and/or state Expanding MIH and
+legislation (reflected in provisions Hospital-at-Home
+included in various bills currently programs enable earlier
+under review; see Appendix C). discharge, reduces
+• Establish structured referral hospital crowding, and
+pathways with standardized maintains care quality in
+protocols for hospital, ED, PCP, alternative care settings.
+and 9-1-1 referrals to MIH
+providers.
+• Develop sustainable
+reimbursement models, including
+MassHealth adoption of
+community paramedicine
+CPT/HCPCS codes and
+transitioning current MIH
+coverage into the State Plan when
+federal waivers expire.
+• Invest in EMS workforce
+development, including expanded
+paramedic scope of practice,
+training in chronic disease
+management, and vehicle/staffing
+resources as programs scale.
+• Foster strong partnerships among
+primary ambulance services,
+ACOs, home-health agencies,
+ASAPs, and hospital leadership to
+integrate MIH into broader care
+networks and EMR systems.
+6 Massachusetts Center for Health Information and Analysis (CHIA), Mandated Benefit Review of House Bill
+1154 and Senate Bill 726: An Act Advancing Mobile Integrated Health and Emergency Response, June 2025.
+Available at: https://www.chiamass.gov/assets/docs/r/pubs/mandates/Mobile-Integrated-Health-MBR.pdf.
+19
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+4.4 Support • Continue bolstering and providing Addresses the most cited v, vi
+workforce funding for programs that create cause of discharge
+pipelines for PAC career ladders, as well as tuition delays: workforce
+and HCBS support, credentialing tracks, and shortages.
+wage incentives for home care,
+SNF, and paramedicine workers.
+4.5 Simplify and • Develop an easy-to-use, Simplifies navigation x, xiv
+promote multilingual – ideally interactive – across fragmented
+enhanced public service guide and web portal (e.g., services, reduces
+education on an enhanced MassOptions.org) to confusion about eligibility
+HCBS and streamline referral for HCBS and and referrals, and helps
+community community resources in an effort reduce unnecessary
+resources to demystify services, eligibility, institutional placements.
+referrals, coverage, and
+transitions for patients, families,
+hospitals, and providers.
+• Launch targeted education
+campaigns in multiple languages
+to strengthen education about
+community-based resources
+(ASAPs, SCO, PACE, OneCare)
+and develop targeted campaigns
+for healthcare providers, patients
+and caregivers.
+5. Complex Needs & Populations
+5.1 Explore • Assess current barriers and Supports timely discharge i, ii, vi
+discharge identify existing community- for individuals who are
+planning based, charitable, safety net, or medically stable but face
+strategies for other supports and funding that challenges due to limited
+certain could assist with post-acute care coverage, without
+MassHealth and discharge planning for requiring benefit
+populations individuals with no post-acute expansion.
+care coverage.
+5.2 Scale • Explore the impact and value of Facilitates discharge for i, iv, v, vii
+Enhanced supporting regional EMGLE complex behavioral and
+Medical Group programs. medical patients unsuited
+Living • Formalize NFT discharge for SNFs.
+Environment protocols across hospitals, SNFs,
+(EMGLE) and IRFs/LTACHs, BH and group home
+Nursing Facility providers including but not limited
+Transition (NFT) to patients with acute & traumatic
+team models
+20
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+brain injuries, spinal cord injuries
+and quadriplegia.
+5.3 Develop clear • Develop standard discharge Reduces discharge delays i, iii, v
+referral pathways planning forms and referral for returning to group
+and procedures protocols specific to DMH and homes, especially on
+for discharges DDS group home settings. weekends, and improves
+back to DMH & • Explore or pilot a model that coordination between
+DDS group assists with patient discharges on hospitals and state-
+homes Fridays, Saturdays and Sundays operated or contracted
+when group homes are not residential settings.
+typically staffed with admissions
+nurses and the discharge is not
+medically complex.
+5.4 Develop • Develop SOPs and/or clear Improves patient flow, i, iii, v
+Standard referral pathways for hospitals reduces unnecessary
+Operating discharging patients who are hospitalizations, and
+Procedures justice-involved or are on sex enhances awareness of
+(SOPs) for offender registries. safe and appropriate
+justice-involved • Develop clear referral pathways, discharge options.
+patient supports eligibility criteria, and process
+and discharges ownership for hospital discharges
+to Department of Correction
+(DOC)-secured medical beds.
+• Develop clear referral pathways
+for access by DOC / House of
+Correction (HOC) to post-acute
+care beds.
+5.5 Explore co- • Expand existing and pilot new Supports timely access to i, ii, v, vi
+located service models like co-location and care, reduces reliance on
+models transport support utilizing acute care settings, and
+telehealth and/or remote addresses transportation
+monitoring to meet patient needs, and site-of-care barriers
+building a system that is more for medically complex
+flexible and efficient (e.g., co- patients.
+location of high-frequency
+services such as dialysis dens
+within SNF settings, methadone
+medication units, bariatric
+support, BH supports, etc.).
+5.6 Enhance • Develop and standardize Building consistent SNF xiv
+supports for statewide policies and procedures bariatric care capacity
+regarding equipment (e.g., will help reduce discharge
+21
+
+Recommendation Action Justification Task Force
+Charge(s)
+Addressed
+bariatric bariatric beds, lifts, and mobility delays, improve access to
+population supports) and staffing for safely appropriate care, and
+supporting residents with bariatric enhance resident safety
+care needs at SNFs. and quality.
+6. Non-Emergency Medical Transportation (NEMT)
+6.1 Require early • Mandate documentation of Eliminates last-minute i, ii, vi
+PT-1 submission transport needs and PT-1 delays caused by
+in discharge submission during discharge order uncoordinated or late-
+workflows entry. arranged NEMT.
+6.2 Create • Explore feasibility, governance and Enables real-time i, v, vii
+regional cost of developing real-time matching and proactive
+discharge and coordination tools, like statewide problem-solving in
+transport or regional “Open Table” discharge planning.
+coordination transportation coordination tool
+portals that could integrate PT-1 status,
+post-acute care, facility or service
+capacity, and transport availability
+in one shared tool.
+6.3 Explore • Explore feasibility and funding for Expands transportation i, v, vi
+Behavioral Health implementation of alternative options for individuals in
+Transportation behavioral health transportation behavioral health crisis,
+Models models, including studying reducing reliance on
+models in place in Colorado and police or ambulance
+Virginia (reflected in provisions transport, improving
+included in various bills currently patient experience, and
+under review). enhancing safety.
+• Promote piloting BH
+transportation alternatives
+focused on safety, patient-
+centered care, and cost-
+effectiveness.
+• Develop monitoring and
+evaluation frameworks for new
+transportation models.
+22
+
+VI. A Path Forward: Strategic Alignment and Accountability
+Massachusetts has launched a range of promising efforts to improve hospital throughput and
+transitions to post-acute care. Building on this momentum will require a trained, skilled workforce
+and deliberate alignment across agencies, providers, and payers to ensure these efforts translate
+into sustained, system-level change.
+To move forward effectively, state partners can:
+• Scale what works. Time-limited pilots and embedded staffing models are already showing
+value. Promising innovations should be assessed for long-term sustainability and
+opportunities to support statewide adoption.
+• Strengthen infrastructure for coordination. Durable tools, workflows, and data systems
+that support real-time discharge planning, referral management, and transport readiness
+can help streamline transitions and reduce delays across the continuum.
+• Clarify roles and accountability. Shared expectations, standard operating procedures,
+and clear lines of responsibility—across hospitals, post-acute providers, transportation
+brokers, and community-based organizations—can reduce fragmentation and improve
+outcomes.
+• Ensure ongoing performance monitoring. Implementation of recent reforms, including
+those under Chapter 197 of 2024, should be closely monitored to ensure intended
+outcomes and to identify opportunities for course correction.
+• Advance equity. Populations with complex needs—including those with behavioral health
+conditions, disabilities, or limited insurance coverage—continue to face disproportionate
+discharge delays. Targeted strategies must ensure equitable access to timely, appropriate
+care transitions.
+23
+
+VII. Appendices
+Appendix A – Full Text of the Task Force’s Charge
+Link: https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter197
+CHAPTER 197, SECTION 25
+(a) There shall be a task force to study and propose recommendations to address acute care
+hospital throughput challenges and the impact of persistent delays in discharging patients from
+acute to post-acute care settings. The task force shall examine: (i) hospital discharge planning and
+case management practices; (ii) payer administrative barriers to discharge; (iii) legal and regulatory
+barriers to discharge; (iv) efforts to increase public awareness of health care proxies and the
+importance of designating a health care agent; (v) post-acute care capacity constraints and
+additional opportunities to provide financial incentives to increase capacity; (vi) administrative day
+rates and the cost to hospitals of discharge delays; (vii) enhanced hospital case management
+practices and reimbursement for wraparound services; (viii) the adequacy of post-acute care
+facility insurance networks and the establishment of an out-of-network rate for post-acute care
+facilities; (ix) expanding MassHealth Limited coverage to include post-acute and long-term care
+services; (x) the effectiveness of interagency coordination to resolve complex case discharges; (xi)
+the adequacy of reimbursement rates of MassHealth and commercial carriers for nonemergency
+medical transportation; (xii) opportunities to expand coverage and reimbursement for services
+delivered by mobile integrated health programs certified by the department of public health and by
+participating providers in the federal Centers for Medicare and Medicaid Services acute hospital
+care at home program; (xiii) alternative transportation options for patients being discharged and
+transferred to post-acute care facilities or home health agencies; and (xiv) the adequacy of state
+resources and infrastructure to place complex case discharges in appropriate post-acute care
+settings, including, but not limited to, patients with dementia diagnoses, geriatric patients with
+psychiatric diagnoses, patients with behavioral health diagnoses, patients with substance use
+disorder diagnoses, justice-involved patients and patients who have been unable to find an
+appropriate placement for post-acute care for 6 months or longer.
+(b) The task force shall consist of: the secretary of health and human services, or a designee, who
+shall serve as chair; the assistant secretary for MassHealth, or a designee; the commissioner of
+mental health, or a designee; the attorney general, or a designee; the commissioner of correction,
+or a designee; 1 sheriff appointed by the Massachusetts Sheriffs’ Association, Inc.; 1 member
+representing the division of the probate and family court department of the trial court to be
+appointed by the chief justice of said division; and 10 members to be appointed by the chair, 1 of
+whom shall be a representative of the Massachusetts Hospital Association, Inc., 1 of whom shall be
+a representative of the Massachusetts Senior Care Association, Inc., 1 of whom shall be a
+24
+
+representative of the Home Care Alliance of Massachusetts, Inc., 1 of whom shall be a
+representative of the Massachusetts Academy of Elder Law Attorneys, 1 of whom shall be a
+representative from the Massachusetts Ambulance Association, Incorporated, 1 of whom shall be a
+representative from the Massachusetts Association of Health Plans, Inc., 1 of whom shall be a
+representative from Blue Cross and Blue Shield of Massachusetts, Inc., 1 of whom shall be a
+representative from an academic medical center located in Worcester county, 1 of whom shall be a
+representative of an acute care hospital located in Suffolk county and 1 of whom shall be a
+representative from an acute care hospital designated by the health policy commission as an
+independent community hospital for the purposes of 105 CMR 100.715(B)(2)(b).
+(c) Not later than July 31, 2025, the task force shall submit its report, including its
+recommendations or any proposed legislation necessary to carry out its recommendations, to the
+clerks of the house of representatives and the senate, the house and senate committees on ways
+and means and the joint committee on health care financing.
+25
+
+Appendix B – List of Task Force Members
+Name Seat
+Joanne Marqusee Chair and Designee of the Secretary of Health and Human Services
+Carminda Andrade Designee of the Commissioner of the Department of Mental Health (DMH)
+Donna Buckley Appointee of the Massachusetts Sheriffs’ Association
+Samantha Canica Appointee of the Chief Justice of the Trial Court representing the Division of
+the Probate and Family Court Department
+Leslie Darcy Designee of the Assistant Secretary for MassHealth
+Adam Delmolino Appointee of the Chair, representing the Massachusetts Health & Hospital
+Association (MHA)
+Shauna Dube Appointee of the Chair, representing an academic medical center located in
+Worcester County (UMass Memorial Medical Center)
+Jeff Fisher Designee of the Commissioner of the Department of Correction (DOC)
+Valerie Frias Designee of the Attorney General
+Tara Gregorio Appointee of the Chair, representing the Massachusetts Senior Care
+Association (MSCA)
+Jake Krilovich Appointee of the Chair, representing the Home Care Alliance of
+Massachusetts
+Liz Leahy Appointee of the Chair, representing the Massachusetts Association of
+Health Plans (MAHP)
+Tracy Lee Appointee of the Chair, representing an acute care hospital located in Suffolk
+County (Beth Israel Deaconess Medical Center)
+Mary McClintock Appointee of the Chair, representing an acute care hospital designated by the
+Health Policy Commission as an independent community hospital (South
+Shore Hospital)
+Richard Raymond Appointee of the Chair, representing the Massachusetts Ambulance
+Association
+Clarence Richardson Appointee of the Chair, representing the Massachusetts Chapter of the
+National Academy of Elder Law Attorneys
+Deborah Vona Appointee of the Chair, representing Blue Cross and Blue Shield of
+Massachusetts
+26
+
+Appendix C – Relevant State Legislation Currently Under Review
+State Legislation Currently Under Review (by Task Force Recommendation)
+1.1 Advance “Next of Kin” or “Surrogate” Decision-Making Legislation
+• HB 1692 / HB 1874 / SB 1047
+1.5 Promote Supported Decision-Making
+• HB 261 / HB 264 / SB 155
+1.6 Expand Public Guardian Programs and Volunteer Recruitment
+• HB1412 / SB903
+4.3 Expand Mobile Integrated Healthcare (MIH) and Hospital-at-Home models
+• HB 1154 / SB 726 – Mobile Integrated Health
+• HB 1141 / SB 806 – Hospital at Home
+6.3 Explore Behavioral Health Transportation Models
+• HB 2234 / SB 1397
+27

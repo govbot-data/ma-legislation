@@ -167,64 +167,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:12Z"
       }
-    },
-    {
-      "description": "Committee reported that the matter be placed in the Orders of the Day for the next session",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:20Z"
-      }
-    },
-    {
-      "description": "Rules suspended",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:20Z"
-      }
-    },
-    {
-      "description": "Read second, ordered to a third reading, read third and passed to be engrossed",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "reading-2",
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:20Z"
-      }
-    },
-    {
-      "description": "Enacted",
-      "date": "2026-07-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:20Z"
-      }
-    },
-    {
-      "description": "Enacted and laid before the Governor",
-      "date": "2026-07-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:20Z"
-      }
     }
   ],
   "sponsorships": [
@@ -273,7 +215,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z",
+    "logs_latest_update": "2026-07-22T12:22:44Z",
     "text_extraction_latest_update": "2026-07-22T02:50:40.018168Z"
   }
 }

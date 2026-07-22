@@ -154,96 +154,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:17Z"
       }
-    },
-    {
-      "description": "Committee reported that the matter be placed in the Orders of the Day for the next session",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:25Z"
-      }
-    },
-    {
-      "description": "Rules suspended",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:25Z"
-      }
-    },
-    {
-      "description": "Read second and ordered to a third reading",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:25Z"
-      }
-    },
-    {
-      "description": "Read third (title changed)",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:25Z"
-      }
-    },
-    {
-      "description": "Bills in the Third Reading report (consolidated with S545) accepted",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:25Z"
-      }
-    },
-    {
-      "description": "Passed to be engrossed",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:25Z"
-      }
-    },
-    {
-      "description": "Enacted",
-      "date": "2026-07-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:25Z"
-      }
-    },
-    {
-      "description": "Enacted and laid before the Governor",
-      "date": "2026-07-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:25Z"
-      }
     }
   ],
   "sponsorships": [
@@ -292,7 +202,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
+    "logs_latest_update": "2026-07-22T12:22:44Z",
     "text_extraction_latest_update": "2026-07-22T05:16:33.035413Z"
   }
 }

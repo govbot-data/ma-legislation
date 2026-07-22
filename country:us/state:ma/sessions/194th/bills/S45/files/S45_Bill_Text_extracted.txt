@@ -1,0 +1,1456 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+SENATE DOCKET, NO. 267 FILED ON: 1/10/2025
+SENATE . . . . . . . . . . . . . . No. 45
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Michael O. Moore
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act establishing the Massachusetts Data Privacy Act.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS:
+Michael O. Moore Second Worcester
+Joanne M. Comerford Hampshire, Franklin and Worcester 1/28/2025
+Rebecca L. Rausch Norfolk, Worcester and Middlesex 1/30/2025
+James B. Eldridge Middlesex and Worcester 2/11/2025
+Julian Cyr Cape and Islands 2/19/2025
+Bradley H. Jones, Jr. 20th Middlesex 4/3/2025
+1 of 1
+
+SENATE DOCKET, NO. 267 FILED ON: 1/10/2025
+SENATE . . . . . . . . . . . . . . No. 45
+By Mr. Moore, a petition (accompanied by bill, Senate, No. 45) of Michael O. Moore, Joanne M.
+Comerford, Rebecca L. Rausch, James B. Eldridge and others for legislation to establish the
+Massachusetts Data Privacy Protection Act. Advanced Information Technology, the Internet and
+Cybersecurity.
+[SIMILAR MATTER FILED IN PREVIOUS SESSION
+SEE SENATE, NO. 2770 OF 2023-2024.]
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act establishing the Massachusetts Data Privacy Act.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws, as appearing in the 2022 Official Edition, are hereby
+2 amended by inserting after chapter 93L the following chapter:
+3 Chapter 93M. Massachusetts Data Privacy Act
+4 Section 1. Definitions
+5 (a) As used in this chapter, the following words shall, unless the context clearly
+6 requires otherwise, have the following meanings:
+7 (1) “authentication”, the process of verifying an individual or entity for security
+8 purposes.
+1 of 64
+
+9 (2) “biometric data”, data generated from the technological processing of an
+10 individual’s unique biological, physical, or physiological characteristics that is linked or
+11 reasonably linkable to an individual, including but not limited to retina or iris scans, fingerprint,
+12 voiceprint, map or scan of hand or face geometry, vein pattern, gait pattern; provided, however,
+13 that “biometric information” shall not include:
+14 (i) a digital or physical photograph;
+15 (ii) an audio or video recording; or
+16 (iii) data generated from a digital or physical photograph, or an audio or video
+17 recording, unless such data is generated to identify a specific individual.
+18 (3) "chapter”, this chapter of the General Laws, as from time to time may be
+19 amended, and any regulations promulgated under said chapter.
+20 (4) “collect” and “collection”, buying, renting, licensing, gathering, obtaining,
+21 receiving, accessing, or otherwise acquiring covered data by any means. This includes receiving
+22 information from the consumer either actively, through interactions such as user registration, or
+23 passively, by observing the consumer’s behavior.
+24 (5) “consent”, a clear affirmative act signifying an individual’s freely given, specific,
+25 informed, and unambiguous agreement to allow the processing of specific categories of personal
+26 information relating to the individual for a narrowly defined particular purpose after having been
+27 informed, in response to a specific request from a covered entity that meets the requirements of
+28 this chapter; provided, however, that “consent” may include a written statement, including a
+2 of 64
+
+29 statement written by electronic means, or any other unambiguous affirmative action; and
+30 provided further, that the following shall not constitute “consent”:
+31 (i) acceptance of a general or broad terms of use or similar document that contains
+32 descriptions of personal information processing along with other, unrelated information;
+33 (ii) hovering over, muting, pausing, or closing a given piece of content; or
+34 (iii) agreement obtained through dark patterns or a false, fictitious, fraudulent, or
+35 materially misleading statement or representation.
+36 (6) “control”, with respect to an entity:
+37 (i) ownership of, or the power to vote, more than 50 percent of the outstanding shares
+38 of any class of voting security of the entity;
+39 (ii) control over the election of a majority of the directors of the entity (or of
+40 individuals exercising similar functions); or
+41 (iii) the power to exercise a controlling influence over the management of the entity.
+42 (7) “covered data”, information, including derived data, inferences, and unique
+43 persistent identifiers, that identifies or is linked or reasonably linkable, alone or in combination
+44 with other information, to an individual or a device that identifies or is linked or reasonably
+45 linkable to an individual. However, the term “covered data” does not include de-identified data
+46 or publicly available information.
+3 of 64
+
+47 (8) “covered entity”, any entity or any person, other than an individual acting in a
+48 non-commercial context, that alone or jointly with others determines the purposes and means of
+49 collecting, processing, or transferring covered data.
+50 The term “covered entity” does not include:
+51 (i) government agencies or service providers to government agencies that exclusively
+52 and solely process information provided by government entities;
+53 (ii) any entity or person that meets the following criteria for the period of the 3
+54 preceding calendar years (or for the period during which the covered entity or service provider
+55 has been in existence if such period is less than 3 years):
+56 (A) the entity or person’s average annual gross revenues during the period did not
+57 exceed $20,000,000;
+58 (B) the entity or person, on average, did not annually collect or process the covered
+59 data of more than 25,000 individuals during the period, other than for the purpose of initiating,
+60 rendering, billing for, finalizing, completing, or otherwise collecting payment for a requested
+61 service or product, so long as all covered data for such purpose was deleted or de-identified
+62 within 90 days, except when necessary to investigate fraud or as consistent with a covered
+63 entity’s return policy; and
+64 (C) no component of its revenue comes from transferring covered data during any
+65 year (or part of a year if the covered entity has been in existence for less than 1 year) that occurs
+66 during the period.
+4 of 64
+
+67 (iii) a national securities association that is registered under 15 U.S.C. 78o-3 of the
+68 Securities Exchange Act of 1934.and is operating solely for purposes under that act.
+69 (iv) a nonprofit organization that is established to detect and prevent fraudulent acts in
+70 connection with insurance and is operating solely for that purpose.
+71 (9) “covered high-impact social media company”, a covered entity that provides any
+72 internet-accessible platform where:
+73 (i) such covered entity generates $3,000,000,000 or more in annual revenue;
+74 (ii) such platform has 300,000,000 or more monthly active users for not fewer than 3
+75 of the preceding 12 months on the online product or service of such covered entity; and
+76 (iii) such platform constitutes an online product or service that is primarily used by
+77 users to access or share user-generated content.
+78 (10) “dark pattern or deceptive design”, a user interface that is designed, modified, or
+79 manipulated with the purpose or substantial effect of obscuring, subverting, or impairing a
+80 reasonable individual’s autonomy, decision-making, or choice, including, but not limited to, any
+81 practice the Federal Trade Commission refers to as a “dark pattern.”
+82 (11) “data broker”, a covered entity whose principal source of revenue is derived from
+83 processing or transferring covered data that the covered entity did not collect directly from the
+84 individuals linked or linkable to the covered data. This term does not include a covered entity
+85 insofar as such entity processes employee data collected by and received from a third party
+86 concerning any individual who is an employee of the third party for the sole purpose of such
+5 of 64
+
+87 third-party providing benefits to the employee. An entity may not be considered to be a data
+88 broker for purposes of this chapter if the entity is acting as a service provider.
+89 (12) “de-identified data”, information that does not identify and is not linked or
+90 reasonably linkable to a distinct individual or a device, regardless of whether the information is
+91 aggregated, and if the covered entity or service provider:
+92 (i) takes technical measures to ensure that the information cannot, at any point, be
+93 used to re-identify any individual or device that identifies or is linked or reasonably linkable to
+94 an individual;
+95 (ii) publicly commits in a clear and conspicuous manner:
+96 (A) to process and transfer the information solely in a de-identified form without any
+97 reasonable means for re-identification; and
+98 (B) to not attempt to re-identify the information with any individual or device that
+99 identifies or is linked or reasonably linkable to an individual; and
+100 (iii) contractually obligates any person or entity that receives the information from the
+101 covered entity or service provider:
+102 (A) to comply with all the provisions of this paragraph with respect to the
+103 information; and
+104 (B) to require that such contractual obligations be included contractually in all
+105 subsequent instances for which the data may be received.
+6 of 64
+
+106 (13) “derived data”, covered data that is created by the derivation of information, data,
+107 assumptions, correlations, inferences, predictions, or conclusions from facts, evidence, or another
+108 source of information or data about an individual or an individual’s device.
+109 (14) “device”, any electronic equipment capable of collecting, processing, or
+110 transferring data that is used by one or more individuals or households.
+111 (15) “genetic information”, any covered data, regardless of its format, that concerns an
+112 individual’s genetic characteristics, including but not limited to:
+113 (i) raw sequence data that results from the sequencing of the complete, or a portion
+114 of the, extracted deoxyribonucleic acid (DNA) of an individual; or
+115 (ii) genotypic and phenotypic information that results from analyzing raw sequence
+116 data described in subparagraph (i).
+117 (16) “homepage”, the introductory page of an internet website and any internet web
+118 page where personal information is collected; provided, however, that in the case of an online
+119 service, such as a mobile application, “homepage” shall include:
+120 (i) the application’s platform page or download page;
+121 (ii) a link within the application, such as from the application configuration, “About,”
+122 “Information,” or settings page; and
+123 (iii) any other location that allows individuals to review the notices required by this
+124 chapter, including, but not limited to, before downloading the application.
+7 of 64
+
+125 (17) “individual”, a natural person who is a Massachusetts resident or is present in
+126 Massachusetts.
+127 (18) “knowledge”,
+128 (i)with respect to a covered entity that is a covered high-impact social media company,
+129 the entity knew or should have known the individual was a minor;
+130 (ii)with respect to a covered entity or service provider that is a large data holder, and
+131 otherwise is not a covered high-impact social media company, that the covered entity knew or
+132 acted in willful disregard of the fact that the individual was a minor; and
+133 (iii)with respect to a covered entity or service provider that does not meet the
+134 requirements of clause (i) or (ii), actual knowledge.
+135 (19) “large data holder”, a covered entity or service provider that in the most recent
+136 calendar year:
+137 (i)had annual gross revenues of $200,000,000 or more; and
+138 (ii)collected, processed, or transferred the covered data of more than 2,000,000
+139 individuals or devices that identify or are linked or reasonably linkable to one or more
+140 individuals, excluding covered data collected and processed solely for the purpose of initiating,
+141 rendering, billing for, finalizing, completing, or otherwise collecting payment for a requested
+142 product or service; or the sensitive covered data of more than 200,000 individuals or devices that
+143 identify or are linked or reasonably linkable to one or more individuals.
+144 The term “large data holder” does not include any instance in which the covered entity or
+145 service provider would qualify as a large data holder solely on the basis of collecting or
+8 of 64
+
+146 processing personal email addresses, personal telephone numbers, or log-in information of an
+147 individual or device to allow the individual or device to log in to an account administered by the
+148 covered entity or service provider.
+149 (20) “material”, with respect to an act, practice, or representation of a covered entity
+150 (including a representation made by the covered entity in a privacy policy or similar disclosure to
+151 individuals) involving the collection, processing, or transfer of covered data, that such act,
+152 practice, or representation is likely to affect a reasonable individual’s decision or conduct
+153 regarding a product or service
+154 (21) “minor”, an individual under the age of 18.
+155 (22) “OCABR”, the Office of Consumer Affairs and Business Regulation.
+156 (23) “precise geolocation information,” information derived from a device or from
+157 interactions between devices, with or without the knowledge of the user and regardless of the
+158 technological method used, that pertains to or directly or indirectly reveals the present or past
+159 geographical location of an individual or device within the Commonwealth of Massachusetts
+160 with sufficient precision to identify street-level location information within a range of 1,850 feet
+161 or less.
+162 (24) “process”, any operation or set of operations performed on information or on sets
+163 of information, whether or not by automated means, including but not limited to the use, storage,
+164 analysis, deletion, or modification of information.
+165 (25) “processing purpose”, a reason for which a covered entity or service provider
+166 collects, processes, or transfers covered data that is specific and granular enough for a reasonable
+9 of 64
+
+167 individual to understand the material facts of how and why the covered entity or service provider
+168 collects, processes, or transfers the covered data.
+169 (26) "profiling", any form of automated processing performed on personal data to
+170 evaluate, analyze or predict personal aspects related to an identified or identifiable individual's
+171 economic situation, health, personal preferences, interests, reliability, behavior, location or
+172 movements.
+173 (27) “publicly available information”, any information that a covered entity or service
+174 provider has a reasonable basis to believe has been lawfully made available to the general public
+175 from:
+176 (i) federal, state, or local government records, if the covered entity collects,
+177 processes, and transfers such information in accordance with any restrictions or terms of use
+178 placed on the information by the relevant government entity;
+179 (ii) widely distributed media;
+180 (iii) a website or online service made available to all members of the public, for free or
+181 for a fee, including where all members of the public, for free or for a fee, can log in to the
+182 website or online service;
+183 (iv) a disclosure that has been made to the general public as required by federal, state,
+184 or local law; or
+185 (v) the visual observation of the physical presence of an individual or a device in a
+186 public place, not including data collected by a device in the individual’s possession.
+10 of 64
+
+187 For purposes of this paragraph, information from a website or online service is not
+188 available to all members of the public if the individual who made the information available via
+189 the website or online service has either restricted the information to a specific audience or
+190 reasonably expects that the information will not be distributed to so many persons as to become a
+191 matter of public knowledge.
+192 The term “publicly available information” does not include:
+193 (i) any obscene visual depiction, as defined in 18 U.S.C. section 1460;
+194 (ii) any inference made exclusively from multiple independent sources of publicly
+195 available information that reveals sensitive covered data with respect to an individual;
+196 (iii) biometric information;
+197 (iv) publicly available information that has been combined with covered data;
+198 (v) genetic information, unless otherwise made available by the individual to whom
+199 the information pertains:
+200 (vi) intimate images known to have been created or shared without consent.
+201 (28) “reasonably understandable”, of length and complexity such that an individual
+202 with an eighth-grade reading level, as established by the department of elementary and secondary
+203 education, can read and comprehend.
+204 (29) “sensitive covered data”, a form of coved data, including:
+205 (i) an individual’s precise geolocation information;
+11 of 64
+
+206 (ii) biometric or genetic information;
+207 (iii) the covered data of an individual when a covered entity or service provider has
+208 knowledge the individual is a minor;
+209 (iv) covered data that reveals an individual’s:
+210 (A) race, color, ethnicity, or national origin;
+211 (B) sex or gender identity;
+212 (C) religious beliefs;
+213 (D) citizenship or immigration status;
+214 (E) military service; or
+215 (F) status as a victim of a crime.
+216 (v) covered data processed concerning an individual’s past, present or future mental
+217 or physical health condition, disability, diagnosis or treatment, including pregnancy and cosmetic
+218 treatment;
+219 (vi) covered data processed concerning an individual’s sexual orientation, sex life or
+220 reproductive health, including, but not limited to, the use or purchase of contraceptives, birth
+221 control, abortifacients or other medication, products or services related to reproductive health;
+222 (vii) covered data that reveals an individual’s philosophical beliefs or union
+223 membership;
+12 of 64
+
+224 (viii) covered data that reveals an individual’s government-issued identifier, including
+225 but not limited to, social security number, driver’s license number, military identification
+226 number, passport number or state-issued identification card number but does not include a
+227 government-issued identifier required by law to be displayed in public;
+228 (ix) covered data that reveals an individual’s financial account number, or credit or
+229 debit card number, with or without any required security code, access code, personal
+230 identification number or password, that would permit access to an individual’s financial account,
+231 or information that describes or reveals the income level or bank account balances of an
+232 individual;
+233 (x) covered data that reveals account or device log-in credentials, or security or
+234 access codes for an account or device;
+235 (xi) covered data that reveals an individual’s private communications such as
+236 voicemails, emails, texts, direct messages, or mail, or information identifying the parties to such
+237 communications, voice communications, video communications, and any information that
+238 pertains to the transmission of such communications, including telephone numbers called,
+239 telephone numbers from which calls were placed, the time calls were made, call duration, and
+240 location information of the parties to the call, unless the covered entity or a service provider
+241 acting on behalf of the covered entity is the sender or an intended recipient of the
+242 communication. Communications are not private for purposes of this clause if such
+243 communications are made from or to a device provided by an employer to an employee insofar
+244 as such employer provides conspicuous notice that such employer may access such
+245 communications;
+13 of 64
+
+246 (xii) covered data that reveals calendar information, address book information, phone
+247 or text logs, photos, audio recordings, or videos, maintained for private use by an individual,
+248 regardless of whether such information is stored on the individual’s device or is accessible from
+249 that device and is backed up in a separate location. Such information is not sensitive for purposes
+250 of this paragraph if such information is sent from or to a device provided by an employer to an
+251 employee insofar as such employer provides conspicuous notice that it may access such
+252 information.
+253 (xiii) a photograph, film, video recording, or other similar medium that shows the
+254 naked or undergarment-clad private area of an individual;
+255 (xiv) covered data that reveals the video content requested or selected by an individual
+256 collected by a covered entity. This clause does not include covered data used solely for transfers
+257 for independent video measurement.
+258 (xv) covered data that reveals an individual’s online activities over time and across
+259 third-party websites or online services.
+260 (xvi) any other covered data collected, processed, or transferred for the purpose of
+261 identifying the types of covered data listed in clauses (i) through (xv), inclusive.
+262 (30) “service provider”, a person or entity that:
+263 (i) collects, processes, or transfers covered data on behalf of, and at the direction of,
+264 a covered entity or a government agency; and
+265 (ii) receives covered data from or on behalf of a covered entity or a government
+266 agency.
+14 of 64
+
+267 A service provider that receives service provider data from another service provider as
+268 permitted under this chapter shall be treated as a service provider under this chapter with respect
+269 to such data.
+270 (31) “service provider data”, covered data that is collected or processed by or has been
+271 transferred to a service provider by or on behalf of a covered entity or a government agency or
+272 another service provider for the purpose of allowing the service provider to whom such covered
+273 data is transferred to perform a service or function on behalf of, and at the direction of, such
+274 covered entity or government agency.
+275 (32) “targeted advertising”, presenting to an individual or device identified by a unique
+276 identifier, or groups of individuals or devices identified by unique identifiers, an online
+277 advertisement that is selected based on known or predicted preferences, characteristics, or
+278 interests associated with the individual or a device identified by a unique identifier; provided,
+279 however, that “targeted advertising” does not include:
+280 (i) advertising or marketing to an individual or an individual’s device in response to
+281 the individual’s specific request for information or feedback;
+282 (ii) contextual advertising, which is when an advertisement is displayed based on the
+283 content with or in which the advertisement appears and does not vary based on who is viewing
+284 the advertisement; or
+285 (iii) processing covered data strictly necessary for the sole purpose of measuring or
+286 reporting advertising or content performance, reach, or frequency, including independent
+287 measurement.
+15 of 64
+
+288 (33) “third party”, any person or entity, including a covered entity, that
+289 (i) collects, processes, or transfers covered data and is not a consumer-facing
+290 business with which the individual linked or reasonably linkable to such covered data expects
+291 and intends to interact; and
+292 (ii) is not a service provider with respect to such data.
+293 This term does not include a person or entity that collects covered data from another
+294 entity if the two entities are related by common ownership or corporate control, but only if a
+295 reasonable consumer’s reasonable expectation would be that such entities share information.
+296 (34) “third party data”, covered data that has been transferred to a third party.
+297 (35) “transfer”, to disclose, sell, release, disseminate, make available, license, rent, or
+298 share covered data orally, in writing, electronically, or by any other means.
+299 (36) “unique identifier”, an identifier to the extent that such identifier is reasonably
+300 linkable to an individual or device that identifies or is linked or reasonably linkable to 1 or more
+301 individuals, including a device identifier, Internet Protocol address, cookie, beacon, pixel tag,
+302 mobile ad identifier, or similar technology, customer number, unique pseudonym, user alias,
+303 telephone number, or other form of persistent or probabilistic identifier that is linked or
+304 reasonably linkable to an individual or device. This term does not include an identifier assigned
+305 by a covered entity for the specific purpose of giving effect to an individual’s exercise of consent
+306 or opt-outs of the collection, processing, and transfer of covered data pursuant to this chapter or
+307 otherwise limiting the collection, processing, or transfer of such information.
+16 of 64
+
+308 (37) “widely distributed media”, information that is available to the general public,
+309 including information from a telephone book or online directory, a television, internet, or radio
+310 program, the news media, or an internet site that is available to the general public on an
+311 unrestricted basis, but does not include an obscene visual depiction, as defined in 18 U.S.C.
+312 section 1460.
+313 Section 2. Duty of Loyalty
+314 (a) A covered entity or service provider may not collect, process, or transfer covered data
+315 unless the collection, processing, or transfer is limited to what is reasonably necessary and
+316 proportionate to carry out one of the following purposes:
+317 (1) provide or maintain a specific product or service requested by the individual to whom
+318 the data pertains;
+319 (2) initiate, manage, complete a transaction, or fulfill an order for specific products or
+320 services requested by an individual, including any associated routine administrative, operational,
+321 and account-servicing activity such as billing, shipping, delivery, storage, and accounting;
+322 (3) authenticate users of a product or service;
+323 (4) fulfill a product or service warranty;
+324 (5) prevent, detect, protect against, or respond to a security incident. For purposes of this
+325 paragraph, security is defined as network security and physical security and life safety, including
+326 an intrusion or trespass, medical alerts, fire alarms, and access control security;
+327 (6) to prevent, detect, protect against, or respond to fraud, harassment, or illegal activity
+328 targeted at or involving the covered entity or its services. For purposes of this paragraph, the
+17 of 64
+
+329 term “illegal activity”, a violation of a federal, state, or local law punishable as a felony or
+330 misdemeanor that can directly harm;
+331 (7) comply with a legal obligation imposed by state or federal law, or to investigate,
+332 establish, prepare for, exercise, or defend legal claims involving the covered entity or service
+333 provider;
+334 (8) effectuate a product recall pursuant to state or federal law;
+335 (9) conduct a public or peer-reviewed scientific, historical, or statistical research project
+336 that:
+337 (i) is in the public interest; and
+338 (ii) adheres to all relevant laws and regulations governing such research, including
+339 regulations for the protection of human subjects, or is excluded from criteria of the institutional
+340 review board;
+341 (10) deliver a communication that is not an advertisement to an individual, if the
+342 communication is reasonably anticipated by the individual within the context of the individual’s
+343 interactions with the covered entity;
+344 (11) deliver a communication at the direction of an individual between such individual
+345 and one or more individuals or entities;
+346 (12) ensure the data security and integrity of covered data in accordance with chapter
+347 93H; or
+18 of 64
+
+348 (13) transfer assets to a third party in the context of a merger, acquisition, bankruptcy, or
+349 similar transaction when the third party assumes control, in whole or in part, of the covered
+350 entity’s assets, only if the covered entity, in a reasonable time prior to such transfer, provides
+351 each affected individual with:
+352 (i) a notice describing such transfer, including the name of the entity or entities receiving
+353 the individual’s covered data and their privacy policies; and
+354 (ii) a reasonable opportunity to withdraw any previously given consents related to the
+355 individual’s covered data and a reasonable opportunity to request the deletion of the individual’s
+356 covered data.
+357 (b) A covered entity or service provider may, with respect to covered data previously
+358 collected in accordance with the previous subsection, process such data:
+359 (1) as necessary to provide advertising or marketing of products or services provided by
+360 the covered entity to an individual who is not a minor or device by electronic or non-electronic
+361 means, provided that the delivery of such advertising or marketing complies with the
+362 requirements of this chapter;
+363 (2) process such data as necessary to perform system maintenance or diagnostics;
+364 (3) develop, maintain, repair, or enhance a product or service for which such data was
+365 collected;
+366 (4) to conduct internal research or analytics to improve a product or service for which
+367 such data was collected;
+368 (5) perform inventory management or reasonable network management;
+19 of 64
+
+369 (6) protect against spam; or
+370 (7) debug or repair errors that impair the functionality of a service or product for which
+371 such data was collected.
+372 (c) A covered entity or service provider shall not:
+373 (1) engage in deceptive advertising or marketing with respect to a product or service
+374 offered to an individual; or
+375 (2) draw an individual into signing up for or acquiring a product or service through:—
+376 (i) the use of any false, fictitious, fraudulent, or materially misleading statement or
+377 representation; or
+378 (ii) the use of a dark pattern or deceptive design.
+379 (d) Nothing in this chapter shall be construed or interpreted to:
+380 (1) limit or diminish free speech rights of covered entities guaranteed under the First
+381 Amendment to the Constitution of the United States or under Article 16 of Massachusetts
+382 Declaration of Rights; or
+383 (2) imply any purpose that is not enumerated in subsections (a) and (b), when applicable.
+384 Section 3. Sensitive Covered Data
+385 (a) A covered entity or service provider shall not:
+386 (1) collect, process, or transfer a Social Security number, except when necessary to
+387 facilitate an extension of credit, authentication, fraud and identity fraud detection and prevention,
+20 of 64
+
+388 the payment or collection of taxes, the enforcement of a contract between parties, or the
+389 prevention, investigation, or prosecution of fraud or illegal activity, or as otherwise required by
+390 state or federal law;
+391 (2) collect or process sensitive covered data, except where such collection or processing
+392 is strictly necessary to provide or maintain a specific product or service requested by the
+393 individual to whom the covered data pertains or is strictly necessary to effect a purpose
+394 enumerated in paragraphs (1), (2), (3), (5), (7), (9), (10), (11), (13), of subsection (a) of section 2,
+395 and such data is only used for that purposes;
+396 (3) transfer an individual’s sensitive covered data to a third party, unless:
+397 (i) the transfer is made pursuant to the consent of the individual, given before each
+398 specific transfer takes place;
+399 (ii) the transfer is necessary to comply with a legal obligation imposed by state or federal
+400 law, so long as such obligation preexisted the collection and previous notice of such obligation
+401 was provided to the individual to whom the data pertains;
+402 (iii) the transfer is necessary to prevent an individual from imminent injury where the
+403 covered entity believes in good faith that the individual is at risk of death, serious physical
+404 injury, or serious health risk;
+405 (iv) in the case of the transfer of a password, the transfer is necessary to use a designated
+406 password manager or is to a covered entity for the exclusive purpose of identifying passwords
+407 that are being reused across sites or accounts;
+21 of 64
+
+408 (v) in the case of the transfer of genetic information, the transfer is necessary to perform a
+409 medical diagnosis or medical treatment specifically requested by an individual, or to conduct
+410 medical research in accordance with federal and state law; or
+411 (vi) in the case of transfer assets in case of a merger, if the transfer is made in accordance
+412 with paragraph (13) of subsection (a) of section (2); or
+413 (4) process sensitive covered data for the purposes of targeted advertising.
+414 Section 4. Data Subject Rights
+415 (a) A covered entity shall provide an individual, after receiving a verified request from
+416 the individual, with the right to:
+417 (1) access:
+418 (i) in a human-readable format that a reasonable individual can understand and download
+419 from the internet and transmit freely, the covered data (except covered data in a back-up or
+420 archival system) of the individual making the request that is collected, processed, or transferred
+421 by the covered entity or any service provider of the covered entity within the 12 months
+422 preceding the request;
+423 (ii) the categories of any third party or service provider, if applicable, and an option for
+424 consumers to obtain the names of any such third party as well as and the categories of any
+425 service providers to whom the covered entity has transferred the covered data of the individual,
+426 as well as the categories of sources from which the covered data was collected; and
+427 (iii) a description of the purpose for which the covered entity transferred the covered data
+428 of the individual to a third party or service provider;
+22 of 64
+
+429 (2) correct any verifiable substantial inaccuracy or substantially incomplete information
+430 with respect to the covered data of the individual that is processed by the covered entity and
+431 instruct the covered entity to make reasonable efforts to notify all third parties or service
+432 providers to which the covered entity transferred such covered data of the corrected information;
+433 (3) delete covered data of the individual that is processed by the covered entity and
+434 instruct the covered entity to make reasonable efforts to notify all third parties or service
+435 provider to which the covered entity transferred such covered data of the individual’s deletion
+436 request; and
+437 (4) to the extent technically feasible, export to the individual or directly to another entity
+438 the covered data of the individual that is processed by the covered entity, including inferences
+439 linked or reasonably linkable to the individual but not including other derived data, without
+440 licensing restrictions that limit such transfers in:
+441 (i) a human-readable format that a reasonable individual can understand and download
+442 from the internet and transmit freely; and
+443 (ii) a portable, structured, interoperable, and machine-readable format.
+444 (b) A covered entity may not condition, effectively condition, attempt to condition, or
+445 attempt to effectively condition the exercise of a right described in subsection (a) through:
+446 (1) the use of any false, fictitious, fraudulent, or materially misleading statement or
+447 representation; or
+448 (2) the use of any dark pattern or deceptive design.
+23 of 64
+
+449 (c) Subject to subsections (d) and (e), each request under subsection (a) shall be
+450 completed within 45 days of such request from an individual, unless it is demonstrably
+451 impracticable or impracticably costly to verify such individual’s request.
+452 (d)A response period set forth in this subsection may be extended once by 20 additional
+453 days when reasonably necessary, considering the complexity and number of the individual’s
+454 requests, so long as the covered entity informs the individual of any such extension within the
+455 initial 45-day response period, together with the reason for the extension.
+456 (e) A covered entity:
+457 (1) shall provide an individual with the opportunity to exercise each of the rights
+458 described in subsection (a) and with respect to:
+459 (i) the first two times that an individual exercises any right described in subsection (a) in
+460 any 12-month period, shall allow the individual to exercise such right free of charge; and
+461 (ii) any time beyond the initial two times described in subparagraph (i), may allow the
+462 individual to exercise such right for a reasonable fee for each request.
+463 (f) A covered entity may not permit an individual to exercise a right described in
+464 subsection (a), in whole or in part, if the covered entity:
+465 (1) cannot reasonably verify that the individual making the request to exercise the right is
+466 the individual whose covered data is the subject of the request or an agent authorized to make
+467 such a request on the individual’s behalf;
+468 (2) reasonably believes that the request is made to interfere with a contract between the
+469 covered entity and another individual;
+24 of 64
+
+470 (3) determines that the exercise of the right would require access to or correction of
+471 another individual’s sensitive covered data;
+472 (4) reasonably believes that the exercise of the right would require the covered entity to
+473 engage in an unfair or deceptive practice under state law; or
+474 (5) reasonably believes that the request is made to further fraud, support criminal activity,
+475 or the exercise of the right presents a data security threat.
+476 (g) If a covered entity cannot reasonably verify that a request to exercise a right described
+477 in subsection (a) is made by the individual whose covered data is the subject of the request, the
+478 covered entity:
+479 (1) may request that the individual making the request to exercise the right provide any
+480 additional information necessary for the sole purpose of verifying the identity of the individual;
+481 and
+482 (2) may not process or transfer such additional information for any other purpose.
+483 (h) A covered entity may decline, with adequate explanation to the individual, to comply
+484 with a request to exercise a right described in subsection (a), in whole or in part, that would:
+485 (1) require the covered entity to retain any covered data collected for a single, one-time
+486 transaction, if such covered data is not processed or transferred by the covered entity for any
+487 purpose other than completing such transaction;
+488 (2) be demonstrably impracticable or prohibitively costly to comply with, and the
+489 covered entity shall provide a description to the requestor detailing the inability to comply with
+490 the request;
+25 of 64
+
+491 (3) require the covered entity to attempt to re-identify any de-identified data;
+492 (4) require the covered entity to either maintain covered data in an identifiable form or to
+493 collect, retain, or access any data in order to be capable of associating a verified individual
+494 request with covered data of such individual;
+495 (5) result in the release of trade secrets or other privileged or confidential business
+496 information;
+497 (6) require the covered entity to correct any covered data that cannot be reasonably
+498 verified as being inaccurate or incomplete;
+499 (7) interfere with law enforcement, judicial proceedings, investigations, or reasonable
+500 efforts to guard against, detect, prevent, or investigate fraudulent, malicious, or unlawful activity,
+501 or enforce valid contracts;
+502 (8) violate state or federal law or the rights and freedoms of another individual, including
+503 under the Constitution of the United States and Massachusetts Declaration of Rights;
+504 (9) prevent a covered entity from being able to maintain a confidential record of deletion
+505 requests, maintained solely for the purpose of preventing covered data of an individual from
+506 being recollected after the individual submitted a deletion request and requested that the covered
+507 entity no longer collect, process, or transfer such data; or
+508 (10) endanger the source of the data if such data could only have been obtained from a
+509 single identified source.
+510 (i) A covered entity may decline, with adequate explanation to the individual, to comply
+511 with a request for deletion pursuant to paragraph (3) of subsection (a) if such request:
+26 of 64
+
+512 (1) unreasonably interferes with the provision of products or services by the covered
+513 entity to another person it currently serves;
+514 (2) requests to delete covered data that relates to (A) a public figure, public official, or
+515 limited-purpose public figure; or (B) any other individual that has no reasonable expectation of
+516 privacy with respect to such data;
+517 (3) requests to delete covered data reasonably necessary to perform a contract between
+518 the covered entity and the individual;
+519 (4) requests to delete covered data that the covered entity needs to retain in order to
+520 comply with professional ethical obligations;
+521 (5) requests to delete covered data that the covered entity reasonably believes may be
+522 evidence of unlawful activity or an abuse of the covered entity’s products or service; or
+523 (6) is directed to a consumer reporting agency, as defined in 15 U.S.C. 1681a(f) and
+524 targets covered data that is used for the purpose of evaluating a consumer’s creditworthiness,
+525 credit standing, credit capacity, character, general reputation, personal characteristics or mode of
+526 living, subject to and strictly maintained in accordance with, the provisions of the Fair Credit
+527 Reporting Act, 15 U.S.C. 1681 et seq.
+528 (j) In a circumstance that would allow a denial pursuant to this section, a covered entity
+529 shall partially comply with the remainder of the request if it is possible and not unduly
+530 burdensome to do so.
+531 (k) The receipt of a large number of verified requests, on its own, may not be considered
+532 to render compliance with a request demonstrably impracticable.
+27 of 64
+
+533 (l) A covered entity shall facilitate the ability of individuals to make requests under
+534 subsection (a) in any language in which the covered entity provides a product or service. The
+535 mechanisms by which a covered entity enables individuals to make requests under subsection (a)
+536 shall be readily accessible and usable by individuals with disabilities. Such mechanisms shall, at
+537 a minimum, be accessible in the same or a similar location as the privacy policies required by
+538 section 9 of this chapter.
+539 Section 5. Consent Practices
+540 (a) The requirements of this chapter with respect to a request for consent from a covered
+541 entity or service provider to an individual are the following:
+542 (1) The request for consent shall be provided to the individual in a clear and conspicuous
+543 standalone disclosure made through the primary medium used to offer the covered entity’s
+544 product or service, or, in the case that the product or service is not offered in a medium that does
+545 permits the making of the request under this paragraph, another medium regularly used in
+546 conjunction with the covered entity’s product or service;
+547 (2) The request includes a description of the processing purpose for which the
+548 individual’s consent is sought by:
+549 (i) clearly stating the specific categories of covered data that the covered entity shall
+550 collect, process, and transfer necessary to effectuate the processing purpose; and
+551 (ii) including a prominent heading and is reasonably understandable so that an individual
+552 can identify and understand the processing purpose for which consent is sought and the covered
+553 data to be collected, processed, or transferred by the covered entity for such processing purpose;
+28 of 64
+
+554 (3) The request clearly explains the individual’s applicable rights related to consent;
+555 (4) The request is made in a manner reasonably accessible to and usable by individuals
+556 with disabilities;
+557 (5) The request is made available to the individual in each covered language in which the
+558 covered entity provides a product or service for which authorization is sought;
+559 (6) The option to refuse consent shall be at least as prominent as the option to accept, and
+560 the option to refuse consent shall take the same number of steps or fewer as the option to accept;
+561 (7)Processing or transferring any covered data collected pursuant to consent for a
+562 different processing purpose than that for which consent was obtained shall require consent for
+563 the subsequent processing purpose;
+564 (8)The request for consent must be displayed at or before the point of collection; and
+565 (9) The request must be accompanied by a copy of the covered entity’s or service
+566 provider’s privacy policy subject to the requirements of section 9, which may be included with
+567 the request as a hyperlink, and, if the covered entity is a large data holder, shall also include the
+568 short form privacy policy as required by subsection (h) of section 9.
+569 (b) A covered entity shall not infer that an individual has provided consent to a practice
+570 from the inaction of the individual or the individual’s continued use of a service or product
+571 provided by the covered entity.
+572 (c)A covered entity shall not obtain or attempt to obtain the consent of an individual
+573 through:
+29 of 64
+
+574 (1) the use of any false, fictitious, fraudulent, or materially misleading statement or
+575 representation;
+576 (2) the use of any dark pattern or deceptive design; or
+577 (3) conditioning or limiting access to an individual’s account.
+578 Section 6. Privacy by Design
+579 (a) A covered entity or service provider shall establish, implement, and maintain
+580 reasonable policies, practices, and procedures that reflect the role of the covered entity or service
+581 provider in the collection, processing, and transferring of covered data and that:
+582 (1 ) consider applicable federal and state laws, rules, or regulations related to covered
+583 data the covered entity or service provider collects, processes, or transfers;
+584 (2) identify, assess, and mitigate privacy risks related to minors;
+585 (3) mitigate privacy risks related to the products and services of the covered entity or the
+586 service provider, including in the design, development, and implementation of such products and
+587 services, considering the role of the covered entity or service provider and the information
+588 available to it;
+589 (4) evaluate the length of time that covered data shall be retained and circumstances
+590 under which covered data shall be deleted, de-identified, or otherwise modified with respect to
+591 the purposes for which it was collected or processed and the sensitivity of the covered data; and
+592 (5) implement reasonable training and safeguards within the covered entity and service
+593 provider to promote compliance with all privacy laws applicable to covered data the covered
+30 of 64
+
+594 entity collects, processes, or transfers or covered data the service provider collects, processes, or
+595 transfers on behalf of the covered entity and mitigate privacy risks taking into account the role of
+596 the covered entity or service provider and the information available to it.
+597 (b)The policies, practices, and procedures established by a covered entity or service
+598 provider under subsection (a), shall correspond with, as applicable:
+599 (1) the size of the covered entity or the service provider and the nature, scope, and
+600 complexity of the activities engaged in by the covered entity or service provider, including
+601 whether the covered entity or service provider is a large data holder, nonprofit organization,
+602 small business, third party, or data broker, considering the role of the covered entity or service
+603 provider and the information available to it;
+604 (2) the sensitivity of the covered data collected, processed, or transferred by the covered
+605 entity or service provider;
+606 (3)the volume of covered data collected, processed, or transferred by the covered entity
+607 or service provider;
+608 (4)the number of individuals and devices to which the covered data collected, processed,
+609 or transferred by the covered entity or service provider relates; and
+610 (5)the cost of implementing such policies, practices, and procedures in relation to the
+611 risks and nature of the covered data.
+612 Section 7. Pricing
+613 (a) A covered entity may not retaliate against an individual for:
+31 of 64
+
+614 (1) exercising any of the rights guaranteed by this chapter, or any regulations
+615 promulgated under this chapter; or
+616 (2) refusing to agree to collection or processing of covered data for a separate product or
+617 service, including denying goods or services, charging different prices or rates for goods or
+618 services, or providing a different level of quality of goods or services.
+619 (b) Nothing in subsection (a) shall be construed to:
+620 (1) prohibit the relation of the price of a service or the level of service provided to an
+621 individual to the provision, by the individual, of financial information that is necessarily
+622 collected and processed only for the purpose of initiating, rendering, billing for, or collecting
+623 payment for a service or product requested by the individual;
+624 (2) prohibit a covered entity from offering a different price, rate, level, quality or
+625 selection of goods or services to an individual, including offering goods or services for no fee, if
+626 the offering is in connection with an individual’s voluntary participation in a bona fide loyalty,
+627 rewards, premium features, discount or club card program, provided, that the covered entity may
+628 not sell covered data to a third-party as part of such a program unless:
+629 (i) the sale is reasonably necessary to enable the third party to provide a benefit to which
+630 the consumer is entitled;
+631 (ii) the sale of personal data to third parties is clearly disclosed in the terms of the
+632 program; and
+32 of 64
+
+633 (iii) the third party uses the personal data only for purposes of facilitating such a benefit
+634 to which the consumer is entitled and does not retain or otherwise use or disclose the personal
+635 data for any other purpose;
+636 (3) require a covered entity to provide a bona fide loyalty program that would require the
+637 covered entity to collect, process, or transfer covered data that the covered entity otherwise
+638 would not collect, process, or transfer;
+639 (4) prohibit a covered entity from offering a financial incentive or other consideration to
+640 an individual for participation in market research;
+641 (5)prohibit a covered entity from offering different types of pricing or functionalities with
+642 respect to a product or service based on an individual’s exercise of a right to delete; or
+643 (6)prohibit a covered entity from declining to provide a product or service insofar as the
+644 collection and processing of covered data is strictly necessary for such product or service.
+645 (c) Notwithstanding the provisions in this section, no covered entity may offer different
+646 types of pricing that are unjust, unreasonable, coercive, or usurious in nature.
+647 Section 8. Civil Rights Protections
+648 (a) A covered entity or a service provider may not collect, process, or transfer covered
+649 data or publicly available data in a manner that discriminates in or otherwise makes unavailable
+650 the equal enjoyment of goods or services (i.e., has a disparate impact) on the basis of race, color,
+651 religion, national origin, sex, sexual orientation, gender identity, disability, genetic information,
+652 pregnancy or a condition related to said pregnancy including, but not limited to, lactation or the
+33 of 64
+
+653 need to express breast milk for a nursing child, ancestry or status as a veteran, or any other basis
+654 protected by chapter 151B.
+655 (b) This subsection shall not apply to:
+656 (1) the collection, processing, or transfer of covered data for the purpose of:
+657 (i) covered entity’s or a service provider’s self-testing to prevent or mitigate unlawful
+658 discrimination; or
+659 (ii) diversifying an applicant, participant, or customer pool; or
+660 (2) any private club or group not open to the public, as described in section 201(e) of the
+661 Civil Rights Act of 1964, 42 U.S.C. section 2000a(e).
+662 (c) Whenever the Attorney General obtains information that a covered entity or service
+663 provider may have collected, processed, or transferred covered data in violation of subsection
+664 (a), the Attorney General shall initiate enforcement actions relating to such violation in
+665 accordance with section 12 of this chapter.
+666 (1) Not later than 3 years after the date of enactment of this chapter, and annually no
+667 later than December 31 of each year thereafter, the Attorney General shall submit to the joint
+668 committee on ways and means, the joint committee on racial equity, civil rights, and inclusion,
+669 and the joint committee on advanced information technology, the internet and cybersecurity a
+670 report that includes a summary of the enforcement actions taken under this subsection.
+671 Section 9. Privacy Policy
+34 of 64
+
+672 (a) Each covered entity or service provider shall make publicly available, in a clear and
+673 conspicuous location on its homepage, a reasonably understandable and not misleading privacy
+674 policy that provides a detailed and accurate representation of the data collection, processing, and
+675 transfer activities of the covered entity or service provider.
+676 (b)The privacy policy must be provided in a manner that is reasonably accessible to and
+677 usable by individuals with disabilities. The policy shall be made available to the public in each
+678 covered language in which the covered entity or service provider provides a product or service
+679 that is subject to the privacy policy; or carries out activities related to such product or service.
+680 (c) The privacy policy must include, at a minimum:
+681 (1) The identity and the contact information of:
+682 (i) the covered entity or service provider to which the privacy policy applies, including
+683 the covered entity’s or service provider’s points of contact and generic electronic mail addresses,
+684 as applicable for privacy and data security inquiries;
+685 (ii) any other entity within the same corporate structure as the covered entity or service
+686 provider to which covered data is transferred by the covered entity;
+687 (2) the categories of covered data the covered entity or service provider collects or
+688 processes;
+689 (3) the processing purposes for each category of covered data the covered entity or
+690 service provider collects or processes;
+691 (4) whether the covered entity or service provider transfers covered data and, if so, each
+692 category of service provider and third party to which the covered entity or service provider
+35 of 64
+
+693 transfers covered data, the name of each data broker to which the covered entity or service
+694 provider transfers covered data, and the purposes for which such data is transferred to such
+695 categories of service providers and third parties or third-party collecting entities, except for a
+696 transfer to a governmental entity pursuant to a court order or law that prohibits the covered entity
+697 or service provider from disclosing such transfer;
+698 (5) The length of time the covered entity or service provider intends to retain each
+699 category of covered data, including sensitive covered data, or, if it is not possible to identify that
+700 timeframe, the criteria used to determine the length of time the covered entity or service provider
+701 intends to retain categories of covered data;
+702 (6) A prominent, clear, and reasonably understandable description of how an individual
+703 can exercise the rights described in this chapter;
+704 (7) A general description of the covered entity’s or service provider’s data security
+705 practices; and
+706 (8) The effective date of the privacy policy.
+707 (d) If a covered entity or service provider makes a material change to its privacy policy or
+708 practices, the covered entity or service provider shall notify each individual affected by such
+709 material change before implementing the material change with respect to any prospectively
+710 collected covered data and, except as provided in paragraphs (1) through (13) of section 2,
+711 subsection (a), provide a reasonable opportunity for each individual to withdraw consent to any
+712 further materially different collection, processing, or transfer of previously collected covered
+713 data under the changed policy.
+36 of 64
+
+714 (e) A covered entity or service provider shall take all reasonable electronic measures to
+715 provide direct notification regarding material changes to the privacy policy to each affected
+716 individual, in each covered language in which the privacy policy is made available, and taking
+717 into account available technology and the nature of the relationship.
+718 (f) Nothing in this section shall be construed to affect the requirements for covered
+719 entities or service providers under other sections of this chapter.
+720 (g) Each large data holder shall retain copies of previous versions of its privacy policy for
+721 at least 10 years beginning after the date of enactment of this chapter and publish them on its
+722 website. Such large data holder shall make publicly available, in a clear, conspicuous, and
+723 readily accessible manner, a log describing the date and nature of each material change to its
+724 privacy policy over the past 10 years. The descriptions shall be sufficient for a reasonable
+725 individual to understand the material effect of each material change. The obligations in this
+726 paragraph shall not apply to any previous versions of a large data holder’s privacy policy, or any
+727 material changes to such policy, that precede the date of enactment of this Act.
+728 (h) In addition to the privacy policy required under subsection (a), a large data holder that
+729 is a covered entity shall provide a short form notice of no more than 500 words in length that
+730 includes the main features of their data practices.
+731 (i) Each covered entity or service provider that collects, processes, or transfers biometric
+732 data shall provide a separate privacy policy detailing the collection, processing, and transfer of
+733 such biometric data, subject to the provisions of subsections (a) through (h) of this section.
+734 (j)Each covered entity or service provider that collects, processes, or transfers specific
+735 precise geolocation information shall provide a separate privacy policy detailing the collection,
+37 of 64
+
+736 processing, and transfer of such precise geolocation information, subject to the provisions of
+737 subsections (a) through (h) of this section.
+738 Section 10. Advanced Data Rights
+739 (a) A covered entity or service provider shall provide an individual with a clear and
+740 conspicuous, easy-to-execute means to withdraw consent. Those means shall be at least as easy
+741 to execute by an individual as the means to provide consent and shall, at a minimum, be
+742 accessible in the same or a substantially similar location as the privacy policies required by
+743 section 9.
+744 (b) Right to opt out of covered data transfers. A covered entity:
+745 (1) may not transfer or direct the transfer of the covered data of an individual to a
+746 third party if the individual or an agent authorized to make such a request on the individual’s
+747 behalf objects to the transfer; and
+748 (2) shall allow an individual to object to such a transfer through an opt out
+749 mechanism, at a minimum, accessible in the same or a substantially similar location as the
+750 privacy policies required by section 9.
+751 (c) Right to opt out of targeted advertising. A covered entity or service provider that
+752 directly delivers a targeted advertisement shall:
+753 (1) prior to engaging in targeted advertising to an individual or device and at all
+754 times, thereafter, provide such individual with a clear and conspicuous means to opt out of
+755 targeted advertising;
+38 of 64
+
+756 (2) abide by any opt out designation by an individual or an agent authorized to make
+757 such a request on the individual’s behalf with respect to targeted advertising and notify the
+758 covered entity that directed the service provider to deliver the targeted advertisement of the opt
+759 out decision; and
+760 (3) allow an individual to make an opt out designation with respect to targeted
+761 advertising through an opt out mechanism, at a minimum, accessible in the same or a
+762 substantially similar location as the privacy policies required by section 9.
+763 (d) Right to opt out of profiling. A covered entity or service provider that engages in
+764 profiling in furtherance of automated decisions that produce legal or similarly significant effects
+765 on an individual shall:
+766 (1) provide such individual with a clear and conspicuous means to opt out of such
+767 profiling; and
+768 (2) allow an individual to object to such profiling through an opt out mechanism, at a
+769 minimum, accessible in the same or a substantially similar location as the privacy policies
+770 required by section 9.
+771 (e) A covered entity or service provider that receives an opt out notification pursuant
+772 to this section shall abide by such opt out designations in a commercially reasonable timeframe.
+773 Such covered entity or service provider shall notify any other person that directed the covered
+774 entity or service provider to either serve, deliver, or otherwise process targeted advertisements or
+775 to engage in profiling in furtherance of automated decisions of the individual's opt out decision
+776 within a commercially reasonable timeframe.
+39 of 64
+
+777 (f) A covered entity or service provider may not condition, effectively condition,
+778 attempt to condition, or attempt to effectively condition the exercise of any individual right under
+779 this section through:
+780 (1) the use of any false, fictitious, fraudulent, or materially misleading statement or
+781 representation; or
+782 (2) the use of a dark pattern or deceptive design.
+783 (g) A covered entity shall notify third parties who had access to an individual’s
+784 covered data when the individual exercises any of the rights established in this section. The third
+785 party shall comply with the request to opt out of sale or data transfer forwarded to them from a
+786 covered entity that provided, made available, or authorized the collection of the individual’s
+787 covered data. The third party shall comply with the request in the same way a covered entity is
+788 required to comply with the request. The third party shall no longer retain, use, or disclose the
+789 personal information unless the third party becomes a service provider or a covered entity in the
+790 terms of this chapter.
+791 (h) A covered entity that communicates an individual’s opt out request to a third
+792 party or service provider pursuant to this section shall not be liable under this chapter if the third
+793 party or service provider receiving the opt-out request violates the restrictions set forth in this
+794 chapter; provided, however, that at the time of communicating the opt-out request, the covered
+795 entity does not know or should not reasonably know that the third party or service provider
+796 intends to commit such a violation.
+797 (i) If an individual decides to opt out of the processing of the individual’s covered
+798 data for the purposes specified in subsections (b), (c), or (d) and such decision conflicts with the
+40 of 64
+
+799 individual’s existing, voluntary participation in a covered entity’s bona fide loyalty, rewards,
+800 premium features, discounts or club card program, the covered entity shall comply with the
+801 individual’s opt out preference signal but may notify the individual of the conflict and provide
+802 the individual with the choice to opt back into such processing for participation in such a
+803 program; provided, however, that the controller shall not use dark patterns or deceptive design to
+804 coerce the individual to opt back into such processing related to that individual’s participation in
+805 such program.
+806 (j) A covered entity or service provider shall not require an individual to create an
+807 account for the purposes of exercising any right under this chapter.
+808 Section 11. Service Providers
+809 (a)A service provider:
+810 (1)shall adhere to the instructions of a covered entity and only collect, process, and
+811 transfer service provider data to the extent necessary and proportionate to provide a service
+812 requested by the covered entity, as set out in the contract required by subsection (b), and this
+813 paragraph does not require a service provider to collect, process, or transfer covered data if the
+814 service provider would not otherwise do so;
+815 (2)may not collect, process, or transfer service provider data if the service provider has
+816 actual knowledge that a covered entity violated this chapter with respect to such data;
+817 (3)shall assist a covered entity in responding to a request made by an individual under
+818 this chapter, by either:
+41 of 64
+
+819 (i)providing appropriate technical and organizational measures, considering the nature of
+820 the processing and the information reasonably available to the service provider, for the covered
+821 entity to comply with such request for service provider data; or
+822 (ii)fulfilling a request by a covered entity to execute an individual rights request that the
+823 covered entity has determined should be complied with, by either:
+824 (A)complying with the request pursuant to the covered entity’s instructions; or
+825 (B)providing written verification to the covered entity that it does not hold covered data
+826 related to the request, that complying with the request would be inconsistent with its legal
+827 obligations, or that the request falls within an exception under this chapter;
+828 (4)may engage another service provider for purposes of processing service provider data
+829 on behalf of a covered entity only after providing that covered entity with notice and pursuant to
+830 a written contract that requires such other service provider to satisfy the obligations of the
+831 service provider with respect to such service provider data, including that the other service
+832 provider be treated as a service provider under this chapter;
+833 (5)shall, upon the reasonable request of the covered entity, make available to the covered
+834 entity information necessary to demonstrate the compliance of the service provider with the
+835 requirements of this chapter, which may include making available a report of an independent
+836 assessment arranged by the service provider on terms agreed to by the service provider and the
+837 covered entity or providing information necessary to enable the covered entity to conduct and
+838 document a privacy impact assessment;
+42 of 64
+
+839 (6)shall, at the covered entity’s direction, delete or return all covered data to the covered
+840 entity as requested at the end of the provision of services, unless retention of the covered data is
+841 required by law;
+842 (7)shall develop, implement, and maintain reasonable administrative, technical, and
+843 physical safeguards that are designed to protect the security and confidentiality of covered data
+844 the service provider processes consistent with chapter 93H of the general laws; and
+845 (8)shall allow and cooperate with reasonable assessments by the covered entity or the
+846 covered entity’s designated assessor. Alternatively, the service provider may arrange for a
+847 qualified and independent assessor to conduct an assessment of the service provider’s policies
+848 and technical and organizational measures in support of the obligations under this chapter using
+849 an appropriate and accepted control standard or framework and assessment procedure for such
+850 assessments. The service provider shall provide a report of such assessment to the covered entity
+851 upon request.
+852 (b)A person or entity may only act as a service provider pursuant to a written contract
+853 between the covered entity and the service provider, or a written contract between one service
+854 provider and a second service provider as described under paragraph (4) of subsection (a), if the
+855 contract:
+856 (1)sets forth the data processing procedures of the service provider with respect to
+857 collection, processing, or transfer performed on behalf of the covered entity or service provider;
+858 (2)clearly sets forth:
+859 (i)instructions for collecting, processing, or transferring data;
+43 of 64
+
+860 (ii)the nature and purpose of collecting, processing, or transferring;
+861 (iii)the type of data subject to collecting, processing, or transferring;
+862 (iv)the duration of processing; and
+863 (v)the rights and obligations of both parties, including a method by which the service
+864 provider shall notify the covered entity of material changes to its privacy practices;
+865 (3)does not relieve a covered entity or a service provider of any requirement or liability
+866 imposed on such covered entity or service provider under this chapter; and
+867 (4)prohibits:
+868 (i)collecting, processing, or transferring covered data in contravention to subsection (a);
+869 and
+870 (ii)combining service provider data with covered data which the service provider receives
+871 from or on behalf of another person or persons or collects from the interaction of the service
+872 provider with an individual, provided that such combining is not necessary to effectuate a
+873 purpose described in paragraphs (1) through (13) of section 2(a) and is otherwise permitted under
+874 the contract required by this subsection.
+875 (c)Each service provider shall retain copies of previous contracts entered into in
+876 compliance with this subsection with each covered entity to which it provides requested products
+877 or services.
+44 of 64
+
+878 (d)The classification of a person or entity as a covered entity or as a service provider and
+879 the relationship between covered entities and service providers are regulated by the following
+880 provisions:
+881 (1)Determining whether a person is acting as a covered entity or service provider with
+882 respect to a specific processing of covered data is a fact-based determination that depends upon
+883 the context in which such data is processed.
+884 (2)A person or entity that is not limited in its processing of covered data pursuant to the
+885 instructions of a covered entity, or that fails to adhere to such instructions, is a covered entity and
+886 not a service provider with respect to a specific processing of covered data. A service provider
+887 that continues to adhere to the instructions of a covered entity with respect to a specific
+888 processing of covered data remains a service provider. If a service provider begins, alone or
+889 jointly with others, determining the purposes and means of the processing of covered data, it is a
+890 covered entity and not a service provider with respect to the processing of such data.
+891 (3)A covered entity that transfers covered data to a service provider or a service provider
+892 that transfers covered data to a covered entity or another service provider, in compliance with the
+893 requirements of this chapter, is not liable for a violation of this chapter by the service provider or
+894 covered entity to whom such covered data was transferred, if at the time of transferring such
+895 covered data, the covered entity or service provider did not have actual knowledge that the
+896 service provider or covered entity would violate this chapter.
+897 (4)A covered entity or service provider that receives covered data in compliance with the
+898 requirements of this chapter is not in violation of this chapter as a result of a violation by a
+899 covered entity or service provider from which such data was received.
+45 of 64
+
+900 (e)A third party:
+901 (1)shall not process third party data for a processing purpose other than the processing
+902 purpose for which
+903 (i)the individual gave consent or to effect a purpose enumerated in paragraph (2), (3), or
+904 (5) of subsection (a) of section 2 in the case of sensitive covered data; or
+905 (ii)the covered entity made a disclosure pursuant to their privacy policy and in the case of
+906 data that is not sensitive covered data; and
+907 (2)may reasonably rely on representations made by the covered entity that transferred the
+908 third-party data if the third party conducts reasonable due diligence on the representations of the
+909 covered entity and finds those representations to be credible.
+910 (f)Solely for the purposes of this section, the requirements for service providers to
+911 contract with, assist, and follow the instructions of covered entities shall be read to include
+912 requirements to contract with, assist, and follow the instructions of a government entity if the
+913 service provider is providing a service to a government entity.
+914 Section 12. Enforcement
+915 (a) A violation of this chapter constitutes an injury to that individual and shall be deemed
+916 an unfair or deceptive act or practice in the conduct of trade or commerce under chapter 93A,
+917 provided that if the court finds for any petitioner, subject to section 9, paragraph (3) of such
+918 chapter, recovery under such chapter shall be in the amount of actual damages or $5,000,
+919 whichever is higher.
+46 of 64
+
+920 (b) Private right of action. Any individual alleging a violation of this chapter by a covered
+921 entity, service provider, or third party that is a large data holder may bring a civil action in the
+922 superior court or any court of competent jurisdiction.
+923 (c) An individual protected by this chapter may not be required, as a condition of service
+924 or otherwise, to file an administrative complaint with the attorney general or to accept mandatory
+925 arbitration of a claim under this chapter.
+926 (d) The civil action shall be directed to the covered entity, service provider, and third-
+927 parties alleged to have committed the violation.
+928 (e) In a civil action in which the plaintiff prevails, the court may award:
+929 (1)liquidated damages of not less than 0.15% of the annual global revenue of the covered
+930 entity or $15,000 per violation, whichever is greater;
+931 (2)punitive damages; and
+932 (3)any other relief, including but not limited to an injunction, that the court deems to be
+933 appropriate.
+934 (f) In addition to any relief awarded pursuant to the previous paragraph, the court shall
+935 award reasonable attorney’s fees and costs to any prevailing plaintiff.
+936 (g) The Attorney General may bring an action pursuant to section 4 of chapter 93A
+937 against a covered entity, service provider, or third party to remedy violations of this chapter and
+938 for other relief, including but not limited to an injunction, that may be appropriate, subject to the
+939 following:
+47 of 64
+
+940 (1) If the court finds that the defendant has employed any method, act, or practice
+941 which they knew or should have known to be in violation of this chapter, the court may require
+942 the defendant to pay to the commonwealth a civil penalty of:
+943 (i) not less than 0.15% of the annual global revenue or $15,000, whichever is greater, per
+944 violation; and
+945 (ii) not more than 4% of the annual global revenue of the covered entity, service provider,
+946 or third-party or $20,000,000, whichever is greater, per action if such action includes multiple
+947 violations to multiple individuals;
+948 (2) If the court finds that a defendant has engaged in flagrant, willful and repeat
+949 violations of this chapter, the court may issue an order to suspend or prohibit a covered entity,
+950 service provider, or third party from operating in the commonwealth or collecting, processing,
+951 and transferring covered data and any other relief, including but not limited to an injunction, that
+952 the court deems to be appropriate.
+953 (3) In addition to any penalty or relief awarded under this subsection, a defendant
+954 violating this chapter shall also be liable to the commonwealth for the reasonable costs of
+955 investigation and litigation of such violation, including reasonable attorneys’ fees and reasonable
+956 expert fees.
+957 (h) When calculating awards and civil penalties in all the actions in this section, the court
+958 shall consider:
+959 (1) the number of affected individuals;
+960 (2) the severity of the violation or noncompliance;
+48 of 64
+
+961 (3) the risks caused by the violation or noncompliance;
+962 (4) whether the violation or noncompliance was part of a pattern of noncompliance
+963 and violations and not an isolated instance;
+964 (5) whether the violation or noncompliance was willful and not the result of error;
+965 (6) the precautions taken by the defendant to prevent a violation;
+966 (7) the number of administrative actions, lawsuits, settlements, and consent-decrees
+967 under this chapter involving the defendant;
+968 (8) the number of administrative actions, lawsuits, settlements, and consent-decrees
+969 involving the defendant in other states and at the federal level in issues involving information
+970 privacy; and
+971 (9) the international record of the defendant when it comes to information privacy
+972 issues.
+973 (i) It is a violation of this chapter for a covered entity or anyone else acting on behalf of a
+974 covered entity to retaliate against an individual who makes a good-faith complaint that there has
+975 been a failure to comply with any part of this chapter.
+976 (1) An injured individual by a violation of the previous paragraph may bring a civil
+977 action for monetary damages and injunctive relief in any court of competent jurisdiction.
+978 (j) Any provision of a contract or agreement of any kind, including a covered entity’s
+979 terms of service or a privacy policy, including the short-form privacy notice required under
+980 section 9 subsection (h) that purports to waive or limit in any way an individual’s rights under
+49 of 64
+
+981 this chapter, including but not limited to any right to a remedy or means of enforcement shall be
+982 deemed contrary to public policy and shall be void and unenforceable.
+983 (k) No private or government action brought pursuant to this chapter shall preclude any
+984 other action under this chapter.
+985 Section 13. Information Non-applicability
+986 (a) This chapter shall not apply to only the following specific types of information:
+987 (1) personal information captured from a patient by a health care provider or health
+988 care facility or biometric information collected, processed, used, or stored exclusively for
+989 medical education or research, public health or epidemiological purposes, health care treatment,
+990 insurance, payment, or operations under the federal Health Insurance Portability and
+991 Accountability Act of 1996, or to X-ray, roentgen process, computed tomography, MRI, PET
+992 scan, mammography, or other image or film of the human anatomy used exclusively to diagnose,
+993 prognose, or treat an illness or other medical condition or to further validate scientific testing or
+994 screening;
+995 (2) nonpublic personal information that is processed by a financial institution subject
+996 to, and in compliance with, the Gramm-Leach-Bliley Act, 15 U.S.C. 6801 et seq., as amended
+997 from time to time;
+998 (3) personal information regulated by the federal Family Educational Rights and
+999 Privacy Act, 20 U.S.C. 1232g et seq., as amended from time to time;
+1000 (4) individuals sharing their personal contact information such as email addresses
+1001 with other individuals in the workplace, or other social, political, or similar settings where the
+50 of 64
+
+1002 purpose of the information is to facilitate communication among such individuals, provided that
+1003 this chapter shall cover any processing of such contact information beyond interpersonal
+1004 communication; or
+1005 (5) covered entities’ publication of entity-based member or employee contact
+1006 information where such publication is intended to allow members of the public to contact such
+1007 member or employee in the ordinary course of the entity’s operations.
+1008 (b) For the purpose of this section, the burden of proving that information is exempt
+1009 from the provisions of this chapter shall be upon the party claiming the exemption.
+1010 Section 14. Implementation
+1011 (a) The Attorney General shall adopt rules and regulations for the implementation,
+1012 administration, and enforcement of this chapter and may from time to time amend or repeal said
+1013 regulations. The rules and regulations shall include but are not limited to:
+1014 (1) establishing or adopting baseline technical requirements that determine if a given
+1015 dataset has been or can be considered sufficiently de-identified;
+1016 (2) establishing reasonable policies, practices, and procedures that satisfy the
+1017 requirements set forward in Section 6;
+1018 (3) establishing a nonexclusive list of practices that constitute deceptive designs or dark
+1019 patterns or otherwise violate the requirements set forward in Section 5; and
+1020 (4) further defining when a covered entity is a data broker and additional compliance
+1021 requirements for data brokers under this chapter.
+51 of 64
+
+1022 (b) The Attorney General may:
+1023 (1)gather facts and information applicable to the Attorney General’s obligation to enforce
+1024 this chapter and ensure its compliance, consistent with the provisions of section 4 of chapter
+1025 93A;
+1026 (2) conduct investigations for possible violations of this chapter; and
+1027 (3) refer cases for civil enforcement or criminal prosecution to the appropriate federal,
+1028 state, or local authorities.
+1029 (c) The Attorney General shall, within one year after the effective date of chapter, create
+1030 an official internet website that outlines the provisions of this chapter and provides individuals
+1031 with a form or other mechanism to report violations of this chapter to the Office of the Attorney
+1032 General. The Attorney General shall update the website at least annually. The website shall
+1033 include statistics on the Attorney General’s enforcement actions undertaken under this chapter,
+1034 broken down by fiscal year, including but not limited to:
+1035 (1) number of complaints received;
+1036 (2) number of open investigations;
+1037 (3) number of closed investigations; and
+1038 (4) a summary of case dispositions in which a violation of this chapter occurred.
+1039 Section 15. Authorized Agents
+1040 (a) An individual may designate another person to serve as the individual’s
+1041 authorized agent to exercise the individual’s rights under section 4, to withdraw consent under
+52 of 64
+
+1042 section 10, or opt out of the processing of such individual's covered data for one or more of the
+1043 purposes specified in section 10.
+1044 (b) An individual may designate an authorized agent as provided in subsection (a) by
+1045 technological means, including, but not limited to, an Internet link or a browser setting, browser
+1046 extension or global device setting that indicates the individual’s intent to opt out processing for
+1047 one or more of the purposes specified in section 10.
+1048 (c) A covered entity or service provider shall comply with a request received from an
+1049 authorized agent if the covered entity or service provider is able to verify the identity of the
+1050 individual and the authorized agent's authority to act on such individual’s behalf by the same
+1051 means and subject to the same restrictions as a covered entity under section 4(g).
+1052 (d) In the case of covered data concerning an individual known to be a child as
+1053 defined by the Children’s Online Privacy Protection Act, 15 U.S.C. 6501, the parent or legal
+1054 guardian of such child may exercise the rights provided under this chapter on the child's behalf.
+1055 (e) In the case of covered data concerning an individual subject to a guardianship,
+1056 conservatorship or other protective arrangement, the guardian or the conservator of the
+1057 individual may exercise the rights provided under this chapter on the individual's behalf.
+1058 Section 16. Advertising to Minors
+1059 (a) A covered entity or service provider may not engage in targeted advertising to any
+1060 individual if the covered entity has knowledge that the individual is a minor.
+1061 Section 17. Data Brokers
+53 of 64
+
+1062 (a)Each data broker shall place a clear, conspicuous, not misleading, and readily
+1063 accessible notice on the website or mobile application of the data broker (if the data broker
+1064 maintains such a website or mobile application) that:
+1065 (1)notifies individuals that the entity is a data broker;
+1066 (2)includes a link to the data broker registry website; and
+1067 (3)is reasonably accessible to and usable by individuals with disabilities.
+1068 (b)Data broker registration. Not later than January 31 of each calendar year that follows a
+1069 calendar year during which a covered entity acted as a data broker, data brokers shall register
+1070 with the OCABR in accordance with this subsection.
+1071 (1)In registering with the OCABR, a data broker shall do the following:
+1072 (i)Pay to the OCABR a registration fee of $100;
+1073 (ii)Provide the OCABR with the following information:
+1074 (A)The legal name and primary physical, email, and internet addresses of the data broker;
+1075 (B)A description of the categories of covered data the data broker processes and
+1076 transfers;
+1077 (C) The contact information of the data broker, including a contact person, a telephone
+1078 number, an e-mail address, a website, and a physical mailing address; and
+1079 (D) A link to a website through which an individual may easily exercise the rights
+1080 provided under this subsection.
+54 of 64
+
+1081 (c)The OCABR shall establish and maintain on a website a searchable, publicly available,
+1082 central registry of third-party collecting entities that are registered with the OCABR under this
+1083 subsection that includes a listing of all registered data brokers and a search feature that allows
+1084 members of the public to identify individual data brokers and access to the registration
+1085 information provided under subsection (b).
+1086 (d)Penalties. A data broker that fails to register or provide the notice as required under
+1087 this section shall be subject to enforcement proceedings under section 12.
+1088 Section 18. Severability and Relationship to Other Laws
+1089 (a) Should any provision of this chapter or part hereof be held under any
+1090 circumstances in any court of competent jurisdiction to be invalid or unenforceable, such
+1091 invalidity or unenforceability shall not affect the validity or enforceability of any other provision
+1092 of this or other parts of this chapter.
+1093 (b) Nothing in this chapter shall diminish any individual’s rights or obligations under
+1094 chapters 66A, 93A, 93H, or under sections 1B or 3B of chapter 214.
+1095 SECTION 2. The General Laws, as appearing in the 2022 Official Edition, are hereby
+1096 further amended by inserting after chapter 93M the following chapter:
+1097 Chapter 93N. Privacy Protections for Location Information Derived from Electronic
+1098 Devices
+1099 Section 1. Definitions
+1100 (a) As used in this chapter, the following words shall, unless the context clearly
+1101 requires otherwise, have the following meanings:
+55 of 64
+
+1102 (1) “Application”, a software program that runs on the operating system of a device.
+1103 (2) “Collect”, to obtain, infer, generate, create, receive, or access an individual’s
+1104 location information.
+1105 (3) “Consent”, freely given, specific, informed, unambiguous, opt-in consent. This
+1106 term does not include either of the following: (i) agreement secured without first providing to the
+1107 individual a clear and conspicuous disclosure of all information material to the provision of
+1108 consent, apart from any privacy policy, terms of service, terms of use, general release, user
+1109 agreement, or other similar document; or (ii) agreement obtained through the use of a user
+1110 interface designed or manipulated with the substantial effect of subverting or impairing user
+1111 autonomy, decision making, or choice.
+1112 (4) “Covered entity”, any individual, partnership, corporation, limited liability
+1113 company, association, or other group, however organized. A covered entity does not include a
+1114 state or local government agency, or any court of Massachusetts, a clerk of the court, or a judge
+1115 or justice thereof. A covered entity does not include an individual acting in a non-commercial
+1116 context. A covered entity includes all agents of the entity.
+1117 (5) “Device”, a mobile telephone, as defined in section 1 of chapter 90 of the general
+1118 laws, or any other electronic device that is or may commonly be carried by or on an individual
+1119 and is capable of connecting to a cellular, bluetooth, or other wireless network.
+1120 (6) “Disclose”, to make location information available to a third party, including but
+1121 not limited to by sharing, publishing, releasing, transferring, disseminating, providing access to,
+1122 or otherwise communicating such location information orally, in writing, electronically, or by
+1123 any other means.
+56 of 64
+
+1124 (7) “Individual”, a person located in the Commonwealth of Massachusetts.
+1125 (8) “Location information”, information derived from a device or from interactions
+1126 between devices, with or without the knowledge of the user and regardless of the technological
+1127 method used, that pertains to or directly or indirectly reveals the present or past geographical
+1128 location of an individual or device within the Commonwealth of Massachusetts with sufficient
+1129 precision to identify street-level location information within a range of 1,850 feet or less.
+1130 Location information includes but is not limited to (i) an internet protocol address capable of
+1131 revealing the physical or geographical location of an individual; (ii) Global Positioning System
+1132 (GPS) coordinates; and (iii) cell-site location information. This term does not include location
+1133 information identifiable or derived solely from the visual content of a legally obtained image,
+1134 including the location of the device that captured such image, or publicly posted words.
+1135 (9) “Location Privacy Policy”, a description of the policies, practices, and procedures
+1136 controlling a covered entity’s collection, processing, management, storage, retention, and
+1137 deletion of location information.
+1138 (10) “Monetize”, to collect, process, or disclose an individual’s location information
+1139 for profit or in exchange for monetary or other consideration. This term includes but is not
+1140 limited to selling, renting, trading, or leasing location information.
+1141 (11) “Person”, any natural person.
+1142 (12) “Permissible purpose”, one of the following purposes: (i) provision of a product,
+1143 service, or service feature to the individual to whom the location information pertains when that
+1144 individual requested the provision of such product, service, or service feature by subscribing to,
+1145 creating an account, or otherwise contracting with a covered entity; (ii) initiation, management,
+57 of 64
+
+1146 execution, or completion of a financial or commercial transaction or fulfill an order for specific
+1147 products or services requested by an individual, including any associated routine administrative,
+1148 operational, and account-servicing activity such as billing, shipping, delivery, storage, and
+1149 accounting; (iii) compliance with an obligation under federal or state law; or (iv) response to an
+1150 emergency service agency, an emergency alert, a 911 communication, or any other
+1151 communication reporting an imminent threat to human life.
+1152 (13) “Process”, to perform any action or set of actions on or with location information,
+1153 including but not limited to collecting, accessing, using, storing, retaining, analyzing, creating,
+1154 generating, aggregating, altering, correlating, operating on, recording, modifying, organizing,
+1155 structuring, disposing of, destroying, de-identifying, or otherwise manipulating location
+1156 information. This term does not include disclosing location information.
+1157 (14) “Reasonably understandable”, of length and complexity such that an individual
+1158 with an eighth-grade reading level, as established by the department of elementary and secondary
+1159 education, can read and comprehend.
+1160 (15) “Service feature”, a discrete aspect of a service provided by a covered entity,
+1161 including but not limited to real-time directions, real-time weather, and identity authentication.
+1162 (16) "Service provider”, an individual, partnership, corporation, limited liability
+1163 company, association, or other group, however organized, that collects, processes, or transfers
+1164 location information for the sole purpose of, and only to the extent that such service provider is,
+1165 conducting business activities on behalf of, for the benefit of, at the direction of, and under
+1166 contractual agreement with a covered entity.
+58 of 64
+
+1167 (17) “Third party”, any covered entity or person other than (i) a covered entity that
+1168 collected or processed location information in accordance with this chapter or its service
+1169 providers, or (ii) the individual to whom the location information pertains. This term does not
+1170 include government entities.
+1171 Section 2. Protection of location information
+1172 (a) It shall be unlawful for a covered entity to collect or process an individual’s
+1173 location information except for a permissible purpose. Prior to collecting or processing an
+1174 individual’s location information for one of those permissible purposes, a covered entity shall
+1175 provide the individual with a copy of the Location Privacy Policy and obtain consent from that
+1176 individual; provided, however, that this shall not be required when the collection and processing
+1177 is done in (1) compliance with an obligation under federal or state law or (2) in response to an
+1178 emergency service agency, an emergency alert, a 911 communication, or any other
+1179 communication reporting an imminent threat to human life.
+1180 (b) If a covered entity collects location information for the provision of multiple
+1181 permissible purposes, it shall be mentioned in the Location Privacy Policy and individuals shall
+1182 provide discrete consent for each purpose; provided, however, that this shall not be required for
+1183 the purpose of collecting and processing location information to comply with an obligation under
+1184 federal or state law or to respond to an emergency service agency, an emergency alert, a 911
+1185 communication, or any other communication reporting an imminent threat to human life.
+1186 (c) A covered entity that directly delivers targeted advertisements as part of its product or
+1187 services shall provide individuals with a clear, conspicuous, and simple means to opt out of the
+59 of 64
+
+1188 processing of their location information for purposes of selecting and delivering targeted
+1189 advertisements.
+1190 (d) Consent provided under this section shall expire (1) after one year, (2) when the initial
+1191 purpose for processing the information has been satisfied, or (3) when the individual revokes
+1192 consent, whichever occurs first, provided that consent may be renewed pursuant to the same
+1193 procedures. Upon expiration of consent, any location information possessed by a covered entity
+1194 shall be permanently destroyed.
+1195 (e) It shall be unlawful for a covered entity or service provider that lawfully collects and
+1196 processes location information to:
+1197 (1) collect more precise location information than necessary to carry out the
+1198 permissible purpose;
+1199 (2) retain location information longer than necessary to carry out the permissible
+1200 purpose;
+1201 (3) sell, rent, trade, or lease location information to third parties; or
+1202 (4) derive or infer from location information any data that is not necessary to carry
+1203 out a permissible purpose.
+1204 (5) disclose, cause to disclose, or assist with or facilitate the disclosure of an
+1205 individual’s location information to third parties, unless such disclosure is (i) necessary to carry
+1206 out the permissible purpose for which the information was collected, or (ii) requested by the
+1207 individual to whom the location data pertains.
+60 of 64
+
+1208 (f) It shall be unlawful for a covered entity or service providers to disclose location
+1209 information to any federal, state, or local government agency or official unless (1) the agency or
+1210 official serves the covered entity or service provider with a valid warrant or establishes the
+1211 existence of exigent circumstances that make it impracticable to obtain a warrant, (2) disclosure
+1212 is mandated under federal or state law, including in response to a court order or lawfully issued
+1213 and properly served subpoena or civil investigative demand under state or federal law, or (3) the
+1214 data subject requests such disclosure.
+1215 (g) A covered entity shall maintain and make available to the data subject a Location
+1216 Privacy Policy, which shall include, at a minimum, the following:
+1217 (1) the permissible purpose for which the covered entity is collecting, processing, or
+1218 disclosing any location information;
+1219 (2) the type of location information collected, including the precision of the data;
+1220 (3) the identities of service providers with which the covered entity contracts with
+1221 respect to location data;
+1222 (4) any disclosures of location data necessary to carry out a permissible purpose and
+1223 the identities of the third parties to whom the location information could be disclosed;
+1224 (5) whether the covered entity’s practices include the internal use of location
+1225 information for purposes of targeted advertisement;
+1226 (6) the data management and data security policies governing location information;
+1227 and
+61 of 64
+
+1228 (7) the retention schedule and guidelines for permanently deleting location
+1229 information.
+1230 (h) A covered entity in lawful possession of location information shall provide notice to
+1231 individuals to whom that information pertains of any change to its Location Privacy Policy at
+1232 least 20 business days before the change goes into effect, and shall request and obtain consent
+1233 before collecting or processing location information in accordance with the new Location
+1234 Privacy Policy.
+1235 (i) It shall be unlawful for a government entity to monetize location information.
+1236 Section 3: Prohibition Against Retaliation
+1237 A covered entity shall not take adverse action against an individual because the
+1238 individual exercised or refused to waive any of such individual’s rights under this chapter, unless
+1239 location data is essential to the provision of the good, service, or service feature that the
+1240 individual requests, and then only to the extent that such data is essential. This prohibition
+1241 includes but is not limited to:
+1242 (1) refusing to provide a good or service to the individual;
+1243 (2) charging different prices or rates for goods or services, including through the use
+1244 of discounts or other benefits or imposing penalties; or
+1245 (3) providing a different level or quality of goods or services to the individual.
+1246 Section 4. Enforcement
+62 of 64
+
+1247 (a) A violation of this chapter or a regulation promulgated under this chapter
+1248 regarding an individual’s location information constitutes an injury to that individual and shall be
+1249 deemed an unfair or deceptive act or practice in the conduct of trade or commerce under chapter
+1250 93A.
+1251 (b) Any individual alleging a violation of this chapter by a covered entity or service
+1252 provider may bring a civil action in the superior court or any court of competent jurisdiction;
+1253 provided that, venue in the superior court shall be proper in the county in which the plaintiff
+1254 resides or was located at the time of any violation.
+1255 (c) An individual protected by this chapter shall not be required, as a condition of service
+1256 or otherwise, to file an administrative complaint with the attorney general or to accept mandatory
+1257 arbitration of a claim arising under this chapter.
+1258 (d) In a civil action in which the plaintiff prevails, the court may award (1) actual
+1259 damages, including damages for emotional distress, or $5,000 per violation, whichever is greater,
+1260 (2) punitive damages; and (3) any other relief, including but not limited to an injunction or
+1261 declaratory judgment, that the court deems to be appropriate. The court shall consider each
+1262 instance in which a covered entity or service provider collects, processes, or discloses location
+1263 information in a manner prohibited by this chapter or a regulation promulgated under this chapter
+1264 as constituting a separate violation of this chapter or regulation promulgated under this chapter.
+1265 In addition to any relief awarded, the court shall award reasonable attorney’s fees and costs to
+1266 any prevailing plaintiff.
+63 of 64
+
+1267 (e) The attorney general may bring an action pursuant to section 4 of chapter 93A against
+1268 a covered entity or service provider to remedy violations of this chapter and for other relief that
+1269 may be appropriate.
+1270 (f) Any provision of a contract or agreement of any kind, including a covered entity’s
+1271 terms of service or policies, including but not limited to the Location Privacy Policy, that
+1272 purports to waive or limit in any way an individual’s rights under this chapter, including but not
+1273 limited to any right to a remedy or means of enforcement, shall be deemed contrary to state law
+1274 and shall be void and unenforceable.
+1275 (g) No private or government action brought pursuant to this chapter shall preclude any
+1276 other action under this chapter.
+1277 Section 5. Implementation
+1278 The Attorney General may adopt, amend or repeal rules and regulations for the
+1279 implementation, administration, and enforcement of this chapter.
+1280 SECTION 3. Location Information Collected Before Effective Date
+1281 Location information collected, processed, and stored prior to the effective date of this
+1282 Act shall be subject to subsections 2(e)(3), 2(e)(5), and 2(f) of Chapter 93N.
+1283 SECTION 4. Effective Date
+1284 This Act shall take effect 1 year after enactment.
+64 of 64

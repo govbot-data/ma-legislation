@@ -1,0 +1,533 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE DOCKET, NO. 2692 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 1106
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Daniel Cahill
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to home investments.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Daniel Cahill 10th Essex 1/16/2025
+1 of 1
+
+HOUSE DOCKET, NO. 2692 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 1106
+By Representative Cahill of Lynn, a petition (accompanied by bill, House, No. 1106) of Daniel
+Cahill relative to home investments. Financial Services.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to home investments.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1: The General Laws are hereby amended by inserting after chapter 255F the
+2 following new chapter:-
+3 Chapter 255G: Shared Equity Investments
+4 Section 1: Definitions
+5 Section 1. As used in this chapter the following words shall, unless the context otherwise
+6 requires, have the following meanings:-
+7 "Agreed home value" means the value of the residential property at the time of
+8 origination, as agreed to by both the homeowner and the shared equity investor and does not
+9 include any discount or risk adjustment.
+1 of 23
+
+10 "Annualized cost" means the annualized cost of a shared equity investment, expressed as
+11 a percentage and calculated as follows: (((settlement payment / investment amount)^(365 / term
+12 days))-1).
+13 “Beginning home equity" means the unencumbered equity in a homeowner's residential
+14 property after the shared equity investment is consummated, expressed as a percentage and
+15 calculated as follows: (1-((senior secured debt + investment amount)/ agreed home value)).
+16 “Commissioner” means the Massachusetts commissioner of banks.
+17 “Control Person” means each member, director, principal officer, and office manager,
+18 controlling shareholder owning, directly or indirectly, at least twenty-five (25%) of a legal entity,
+19 and any other person with the authority to direct the management of the legal entity.
+20 “Instrumentality created by the United States or any state” means a federal, state,
+21 municipal government, quasi-governmental entity or a nonprofit agency or corporation
+22 incorporated under the laws of the commonwealth that has a tax exempt status granted under the
+23 provisions of section 501(c)(3) of the federal Internal Revenue Code, which exclusively makes
+24 home equity investments on residential property to be financed with public funds, or negotiates,
+25 places, assists in the placement of, finds, or offers to negotiate, place, assist in the placement of
+26 or find home equity investments on residential property to be financed with public funds only
+27 under a contract with a federal, state, or municipal government, any instrumentality thereof or
+28 any quasi-governmental entity as determined by the Commissioner. The making of a home
+29 equity investment shall include being named as the investor on the investment agreement or
+30 other investment documents.
+2 of 23
+
+31 “Homeowner” means the owner of the property that applies for or enters into a shared
+32 equity investment.
+33 "Investment amount" means the gross proceeds of a shared equity investment that is
+34 provided to the homeowner, before any deduction of third-party fees or amounts charged by the
+35 shared equity investor.
+36 “Multi-state licensing system” means a system involving 1 or more states, the District of
+37 Columbia, or the Commonwealth of Puerto Rico for the sharing of regulatory information and
+38 the licensing and application processes, by electronic or other means, for home equity investors.
+39 “Residential property” means real property located in the commonwealth containing a
+40 dwelling house with accommodations for four or less separate households and occupied in whole
+41 or in part by either the homeowner who obtained the shared equity investment, or a renter who
+42 pays rent directly to the homeowner.
+43 "Senior secured debt" means any obligation secured by a lien on the residential property
+44 that would be senior to the lien securing obligations under the shared equity investment after
+45 application of any proceeds from the shared equity investment at closing to reduce the amount of
+46 any such senior obligations.
+47 "Settle" or "settlement" means the process by which a homeowner terminates a shared
+48 equity investment, as set out in the terms of the shared equity investment.
+49 "Settlement payment" means the dollar amount that the homeowner will pay to settle a
+50 shared equity investment, excluding any amounts paid by the homeowner pursuant to the terms
+51 of the shared equity investment as (i) reimbursement for payments made on behalf of the
+3 of 23
+
+52 homeowner, (ii) administrative fees charged to the homeowner during the term of the shared
+53 equity investment, or (iii) interest required that is not otherwise prohibited by law.
+54 “Shared equity investment” means a non-recourse transaction whereby a shared equity
+55 investor grants an outright sum of money to a homeowner in exchange for an equity interest in
+56 the homeowner’s residential property or a future obligation to pay a sum upon the occurrence of
+57 one or more conditions subsequent. A shared equity investment is not a mortgage loan or other
+58 form of loan as defined in section 3 of chapter 167E.
+59 “Shared equity investor” means any person or legal entity engaged in the business of
+60 making or servicing shared equity investments. The term shall not include: (i) a shared equity
+61 investment holder; or (ii) a person or entity that purchases or invests solely in an interest in real
+62 estate other than a shared equity investment.
+63 "Shared equity investment application" means the submission of a homeowner's financial
+64 and property information for purposes of entering a shared equity investment.
+65 "Shared equity investment holder" means a person or entity that purchases and passively
+66 holds a pre-existing shared equity investment, or interest therein, which is serviced by a third-
+67 party shared equity investor who is licensed under this chapter.
+68 "Term days" means the exact number of days that passed between the date on which the
+69 investment amount is disbursed to the homeowner and the settlement date of the shared equity
+70 investment.
+71 Section 2: Shared equity investor license requirement; exempted entities
+4 of 23
+
+72 (a) License Required. No person shall act as a shared equity investor with respect to
+73 residential property unless first obtaining a license from the Commissioner.
+74 (b) Exemptions. The following persons shall be exempt from the requirements of this
+75 chapter:
+76 (i) any person who is employed by or associated with a licensed shared equity investor
+77 and acting under the direction of said licensed shared equity investor shall not be required to
+78 obtain such license.
+79 (ii) any shared equity investor making twelve or fewer shared equity investments within
+80 any period of twelve consecutive months; provided, however, that in computing the number of
+81 shared equity investments, there shall be counted in the shared equity investments of more than
+82 one partnership, association, trust or corporation, the majority interest of which are owned or
+83 controlled directly or indirectly by the same person or persons, partnerships, associations, trusts
+84 or corporations and including in the loans of a partnership or company not incorporated the loans
+85 of the several members thereof.
+86 (iii) a bank as defined in section one of chapter one hundred and sixty-seven, a national
+87 banking association, a federally chartered credit union, a federal savings and loan association, a
+88 federal savings bank, or any subsidiary or affiliate of the above, insurance company, or to any
+89 bank, trust company, savings bank, savings and loan association, credit union or insurance
+90 company organized under the laws of any other state; provided, however, that except as provided
+91 herein, such provisions shall apply to any subsidiary or affiliate, as defined by the
+92 Commissioner, of any such exempted entity and of a bank holding company established in
+93 accordance with state or federal law;
+5 of 23
+
+94 (iv) any instrumentality created by the United States or any state or to any nonprofit,
+95 public or independent post-secondary educational institution within the commonwealth
+96 authorized by law to grant degrees by the commonwealth, or by any agency or instrumentality
+97 thereof, for shared equity investments made by any such educational institution to its faculty or
+98 staff, or to any charitable organization originally created by a last will and testament before
+99 January first, nineteen hundred and fifty which makes no more than twelve shared equity
+100 investments during a twelve month period;
+101 (v) a real estate broker or real estate salesman as defined in section eighty-seven PP of
+102 chapter one hundred and twelve who, in connection with services performed in a prospective real
+103 estate transaction, provides shared equity investment information or assistance to a buyer if such
+104 real estate broker or real estate salesman is not compensated for the same in addition to the
+105 compensation received from the seller for such real estate services.
+106 Section 3: License application; multi-state licensing system
+107 The application for a license shall be in a form prescribed by the Commissioner. Such
+108 application shall include the name and addresses where the business of the applicant is located,
+109 and if the applicant is a legal entity, the names and addresses of each Control Person. The
+110 Commissioner may require a background investigation of each applicant for a shared equity
+111 investment license, and each Control Person of an applicant, by means of fingerprint checks by
+112 the department of criminal justice information services pursuant to section 172 of chapter 6, and
+113 the Federal Bureau of Investigation for state and national criminal history record checks. Receipt
+114 of criminal history record information by a private entity shall be prohibited. Each application
+6 of 23
+
+115 for a license shall be accompanied by an investigation fee. Investigation and license fees shall be
+116 determined annually by the Commissioner of administration under section 3B of chapter 7.
+117 The Commissioner may participate in a multi-state licensing system for shared equity
+118 investors. The Commissioner may establish requirements for participation by an applicant in a
+119 multi-state licensing system which may vary from the provisions set out in sections 3 and 5. The
+120 applicant shall pay directly to such multi-state licensing system any additional fee relating to
+121 participation in such multi-state licensing system. The Commissioner shall ensure that the multi-
+122 state licensing system adopts appropriate privacy, data security and security breach notification
+123 policies. Upon written request, the Commissioner shall make available within 30 days, a copy of
+124 the contract between the division and the multi-state licensing system that satisfies this section.
+125 Section 4: Issuance of license by Commissioner; notice of license denial; appeal
+126 Upon the filing of an application for a license, if the Commissioner finds that the
+127 financial responsibility, character, reputation, integrity and general fitness of the applicant, and
+128 of the partners or members thereof if the applicant is a partnership or association, and of the
+129 officers, directors and principal employees if the applicant is a corporation, are such as to
+130 warrant belief that the business will be operated honestly, fairly, soundly and efficiently in the
+131 public interest consistent with the purposes of this chapter, he shall thereupon issue the applicant
+132 a license to engage in the business of a shared equity investor. If the Commissioner shall not so
+133 find, he shall not issue a license and he shall notify the applicant of the denial. Within twenty
+134 days thereafter, he shall enter upon his records a written decision and findings containing the
+135 reasons supporting the denial and shall forthwith give written notice thereof by registered mail to
+136 the applicant. Within thirty days after the date of such notice, the applicant may appeal from such
+7 of 23
+
+137 denial to the superior court for Suffolk county, sitting in equity. The court shall hear all pertinent
+138 evidence and determine the facts and upon the facts as so determined, review said denial and, as
+139 justice and equity may require, affirm the same or order the Commissioner to issue such license.
+140 The Commissioner shall approve or deny every application for a license within ninety days after
+141 the filing thereof, but any failure of the Commissioner to act within such period shall not be
+142 deemed to be an approval of any such application.
+143 Section 5: Information on license; changes; notice requirements
+144 Each license shall state the address at which the business is to be conducted and shall
+145 state the name of the licensee. Business shall at all times be conducted in the name of the
+146 licensee as it appears on the license. A copy of such license or license number shall be posted on
+147 the licensee’s website.
+148 Such license shall not be transferable or assignable and shall expire annually on a date
+149 determined by the Commissioner.
+150 Any change of location or closing of a place of business of the licensee, either at the
+151 address stated on the license or at a place other than said address stated on the license, shall
+152 require prior written notice thereof to the Commissioner. Such notice shall be in writing setting
+153 forth the reason therefor and shall be filed with the Commissioner at least thirty days prior to any
+154 such relocation or closing.
+155 If there shall be any change among the Control Persons of any licensee, the licensee shall
+156 notify the Commissioner in a timely manner of the name, address and occupation of each new
+157 member, officer, partner or director, and provide such other information as the Commissioner
+158 may require.
+8 of 23
+
+159 Section 6: License suspension or revocation; notice and hearing
+160 The Commissioner may suspend or revoke any license issued pursuant to this chapter if
+161 said Commissioner finds that:
+162 (i) the licensee has violated any provision of this chapter or any rule or regulation
+163 adopted hereunder, or any other law applicable to the conduct of its business; or
+164 (ii) any fact or condition exists which, if it had existed at the time of the original
+165 application for such license, would have warranted the Commissioner in refusing to issue such
+166 license.
+167 Except as provided in section seven, no license shall be revoked or suspended except
+168 after notice and a hearing thereon pursuant to chapter thirty A.
+169 A licensee may surrender a license by delivering to the Commissioner written notice that
+170 it thereby surrenders such license, but such surrender shall not affect the civil or criminal liability
+171 of the licensee for acts committed before such surrender.
+172 No revocation, suspension or surrender of any license shall impair or affect the obligation
+173 of any pre-existing lawful contract between the licensee and any person.
+174 Section 7: Commissioner’s order to cease and desist from unlawful act or practice; prior
+175 notice and opportunity for hearing; temporary order
+176 (a) If the Commissioner determines, after giving notice of and opportunity for a hearing,
+177 that a licensee has engaged in or is about to engage in an act or practice constituting a violation
+178 of a provision of this chapter or a rule, regulation or order hereunder, he may order such licensee
+9 of 23
+
+179 to cease and desist from such unlawful act or practice and take such affirmative action as in his
+180 judgment will effect the purposes of this chapter.
+181 (b) If the Commissioner makes written findings of fact that the public interest will be
+182 irreparably harmed by delay in issuing an order under subsection (a) he may issue a temporary
+183 cease and desist order. Upon the entry of a temporary cease and desist order, the Commissioner
+184 shall promptly notify, in writing, the licensee affected thereby that such order has been so
+185 entered, the reasons therefor, and that within twenty days after the receipt of a written request
+186 from such licensee, the matter will be scheduled for hearing to determine whether or not such
+187 temporary order shall become permanent and final. If no such hearing is requested and none is
+188 ordered by the Commissioner, the order shall remain in effect until it is modified or vacated by
+189 the Commissioner. If a hearing is requested or ordered, the Commissioner, after giving notice of
+190 and opportunity for a hearing to the licensee subject to said order, shall, by written finding of
+191 facts and conclusions of law, vacate, modify or make permanent the order.
+192 (c) No order under this section, except an order issued pursuant to subsection (b), may be
+193 entered without prior notice of and opportunity for a hearing. The Commissioner may vacate or
+194 modify an order under this section upon finding that the conditions which required such an order
+195 have changed and that it is in the public interest to so vacate or modify.
+196 Any order issued pursuant to this section shall be subject to review as provided in chapter
+197 thirty A.
+198 Section 8: Annual report; examination of business records
+199 (a) Annual Report. Each licensee shall annually, on or before a date determined by the
+200 Commissioner, file a report with the Commissioner containing such information as said
+10 of 23
+
+201 Commissioner may require concerning the business and operations conducted by the licensee in
+202 the commonwealth during the preceding calendar year.
+203 (b) Recordkeeping. A licensee shall keep and use such business records in such form and
+204 at such location as said Commissioner shall, by regulation, determine, which shall enable said
+205 Commissioner to determine whether such licensee is complying with the provisions of this
+206 chapter and any rules or regulations promulgated hereunder by said Commissioner and any other
+207 law, rule or regulation applicable to the conduct of the business for which it is licensed under this
+208 chapter. Nothing in this section shall be construed to permit any such licensee to destroy original
+209 records or documents. Each such licensee shall preserve all such business records for a minimum
+210 of three (3) years, or such longer period as the Commissioner may prescribe by regulation.
+211 Notwithstanding the provisions of any general or special law or the Massachusetts Rules of Civil
+212 Procedure to the contrary, service of a subpoena for business records upon a licensee, delivered
+213 to an office of such licensee located within the commonwealth shall be deemed to have been
+214 served at the location, whether within or outside the commonwealth, where the original business
+215 records or documents are kept or maintained.
+216 (c) Examinations. The Commissioner shall inspect a licensee’s relevant records and
+217 evidence of compliance with the provisions of this chapter or any rule or regulation issued
+218 hereunder and with any other law, rule or regulation applicable to the conduct of the business for
+219 which it is licensed under this chapter. For the purposes of such inspection, the Commissioner or
+220 a representative of the Commissioner shall have access to the offices and place of business,
+221 books, accounts, papers, records and files of all such licensees. The Commissioner, and any
+222 person designated by him, may require the attendance and testimony of any person whom the
+223 Commissioner deems necessary relative to the conduct and operation of such business. The total
+11 of 23
+
+224 cost for any such inspection, which shall be paid by the licensee within 30 days after the receipt
+225 of an invoice therefore, shall be in accordance with fees determined annually by the
+226 Commissioner of administration pursuant to section 3B of chapter 7, including expenses for
+227 necessary travel outside the commonwealth for the purposes of conducting such inspections.
+228 During the course of such inspection, a shared equity investor that has entered into 50 or
+229 more shared equity investments in the last calendar year shall be examined for its compliance
+230 with applicable anti-discrimination laws and laws prohibiting unfair, deceptive, or abusive acts
+231 or practices in consumer financial products or services. Such examination shall also include an
+232 evaluation of such shared equity investor’s: (a) origination of shared equity investments and
+233 consistency with safe and sound business practices; (b) efforts working with homeowners to
+234 resolve performance defaults; and (c) disclosure and education of homeowners about the terms
+235 of shared equity investment products. The Commissioner may make rules prescribing additional
+236 factors for measuring a licensee’s performance.
+237 Upon the completion of such examination, the Commissioner shall prepare a written
+238 evaluation of such shared equity investor’s record of performance, which shall be open to public
+239 inspection upon request, and said written evaluation shall include: (a) the assessment factors
+240 utilized to determine the shared equity investor’s descriptive rating; (b) the Commissioner’s
+241 conclusions with respect to each such assessment factor; (c) a discussion of the facts supporting
+242 such conclusions; and (d) the shared equity investor’s descriptive rating and the basis therefor.
+243 Based upon such examination, the shared equity investor shall be assigned 1 of the
+244 following descriptive ratings: (a) outstanding record of performance; (b) high satisfactory record
+12 of 23
+
+245 of performance; (c) satisfactory record of performance; (d) needs to improve record of
+246 performance; or (e) substantial noncompliance.
+247 In considering an application from a licensed shared equity investor for a renewal of a
+248 license issued pursuant to this chapter, the Commissioner shall consider, but not be limited to,
+249 the record of performance of any such shared equity investor in accordance with this section.
+250 Said record of performance may provide the basis for the denial of any such renewal application.
+251 The Commissioner shall adopt regulations implementing the requirements of this section.
+252 The Commissioner shall preserve a full record of each such examination of a licensee,
+253 including a statement of its condition. All records of investigation and reports of examination by
+254 the commissioner, including work papers, information derived from such reports or in response
+255 to such reports, and any copies thereof in the possession of any licensee under the supervision of
+256 the commissioner, shall be confidential and privileged communications, shall not be subject to
+257 subpoena and shall not be a public record under clause Twenty-sixth of section 7 of chapter 4.
+258 For the purpose of this paragraph, records of investigation and reports of examinations shall
+259 include records of investigation and reports of examinations conducted by any financial
+260 institution regulatory agency of the federal government and any other state, and of any foreign
+261 government which are considered confidential by such agency or foreign government and which
+262 are in possession of the Commissioner. In any proceeding before a court, the court may issue a
+263 protective order to seal the record protecting the confidentiality of any such record, other than
+264 any such record on file with the court or filed in connection with the court proceeding, and the
+265 court may exclude the public from any portion of a proceeding at which any such record may be
+266 disclosed. Copies of such reports of examination shall be furnished to a licensee for its use only
+13 of 23
+
+267 and shall not be exhibited to any other person, organization or agency without prior written
+268 approval by the Commissioner. The Commissioner may, in his discretion, furnish to regulatory
+269 agencies of the federal government, of other states, or of foreign countries and any law
+270 enforcement agency, such information, reports, inspections and statements relating to the
+271 licensees under his supervision.
+272 Section 9: Shared equity investor obligations
+273 (a) Recission period. A shared equity investor shall provide at least three business days in
+274 which the homeowner may rescind their acceptance of the shared equity investment before such
+275 shared equity investment becomes effective and binding for the homeowner. The homeowner
+276 shall submit the rescission notice in writing to the shared equity investor within such designated
+277 rescission period.
+278 (b) Except in connection with a home purchase transaction, the homeowner's beginning
+279 home equity must be equal to or greater than 10 percent. For purposes of this provision, if any
+280 portion of the investment amount will be used to pay down existing obligations secured by the
+281 residential property, the homeowner’s beginning home equity will be calculated after application
+282 of the investment amount to pay down such obligations.
+283 (c) All appraisals or other valuation reports used to determine the agreed home value
+284 must meet industry standards and be conducted by an independent third party, unless an
+285 affiliated appraisal or valuation is disclosed and consented to in writing by the homeowner.
+286 Copies of all valuation reports must be provided to the homeowner.
+287 (d) The annualized cost of a shared equity investment may not exceed 20 percent.
+14 of 23
+
+288 Section 10: Disclosure requirements
+289 (a) Prior to entering into a shared equity investment, a shared equity investor shall
+290 provide a disclosure to the homeowner in a form prescribed by the Commissioner. The
+291 disclosure shall contain at least the following information:
+292 (i) A clear and conspicuous statement that (1) by entering into the shared equity
+293 investment, a lien will be placed on the property and that failure to comply with the terms of the
+294 shared equity investment or an inability to settle the shared equity investment may result in the
+295 homeowner losing their property, and (2) that the homeowner should obtain the advice of an
+296 attorney before proceeding with the transaction.
+297 (ii) A summary of the terms of the shared equity investment including:
+298 (1) The investment amount;
+299 (2) An itemization of any charges and payments to third parties and any fees paid to the
+300 shared equity investor which are deducted from the investment amount;
+301 (3) The net proceeds to be delivered to the homeowner after the expiration of the
+302 recission period;
+303 (4) The maximum term of the shared equity investment;
+304 (5) How the homeowner can settle the shared equity investment together with an
+305 explanation of how the settlement payment will be calculated; and
+306 (6) A summary of the types of fees that may be charged in connection with settling the
+307 shared equity investment.
+15 of 23
+
+308 (iii)(1) The agreed home value without adjustment and the method used to determine the
+309 agreed home value; and (2) if the agreed home value is adjusted for any discounts, risk
+310 adjustments, or enhancements for purposes of the shared equity investment, the amount of such
+311 adjustments and the value of the property used for purposes of calculating the shared equity
+312 investor’s equity interest in the property;
+313 (iv) The method of determining the final value of the property that is the subject of the
+314 shared equity investment upon settlement of the shared equity investment;
+315 (v) The maximum equity interest in the property that the shared equity investor may
+316 receive under the terms of the shared equity investment or an explanation of any other limits on
+317 the amount that the shared equity investor may receive under the shared equity investment;
+318 (vi) Any other amounts charged in connection with the shared equity investment;
+319 (vii) Settlement examples for the shared equity investment after three years, five years,
+320 10 years, 15 years, and 30 years, in each case up to the maximum term of the applicable shared
+321 equity investment.
+322 (1) For each settlement time frame, examples shall be provided based on:
+323 (A) No change in the value of the property;
+324 (B) A total depreciation of 10 percent;
+325 (C) Annual appreciation of three and one half percent;
+326 (D) Annual appreciation of five and one half percent; and
+16 of 23
+
+327 (E) The actual annualized change in value of residential real property in Massachusetts
+328 over the prior five year period, measured from the most recent available data point in the All-
+329 Transactions House Price Index as published by the Federal Reserve Bank of St. Louis.
+330 (2) For each combination of settlement time frame and property change in value specified
+331 in subsection (vii)(1) of this section, the homeowner shall be provided with:
+332 (A) The projected final value of the property;
+333 (B) The equity interest that the shared equity investor would be entitled to receive,
+334 expressed as a percentage of projected final property value;
+335 (C) The dollar value of such equity interest, and if any cap applies, the capped dollar
+336 value required to settle the shared equity investment; and
+337 (D) An annual percentage rate equivalent based on the investment amount, the gross
+338 estimated settlement cost, and the number of days from the disbursement of the investment
+339 amount to settlement.
+340 (b) Shared equity investors may provide homeowners with additional disclosures
+341 provided that the form disclosure prescribed by the Commissioner is used and there is no
+342 inconsistency between such disclosures.
+343 Section 11: Prohibited acts
+344 A shared equity investor is prohibited from engaging in any of the following:
+345 (a) Charging any penalty for settling a shared equity investment before the end of the
+346 shared equity investment’s specified term;
+17 of 23
+
+347 (b) Preventing the homeowner from renting or using the property as the homeowner
+348 chooses, provided that such use complies with applicable law. Nothing in this subsection
+349 prohibits a shared equity investment from:
+350 (1) Requiring that the homeowner notify the shared equity investor of a change in use;
+351 (2) Requiring the homeowner to obtain commercially appropriate property insurance in
+352 connection with any use of the property; or
+353 (3) Imposing risk-based pricing adjustments on properties that are not the homeowner’s
+354 primary residence;
+355 (c) Requiring the use of an appraisal or valuation report prepared or managed by an
+356 appraiser, appraisal management company, or other valuation service provider affiliated with the
+357 shared equity investor except the homeowner and shared equity investor may agree to the use of
+358 an affiliated appraiser or appraisal management company to the extent that such affiliation is
+359 disclosed and consented to in writing by the homeowner;
+360 (d) Agreeing to a valuation that differs from the value obtained by the appraisal or other
+361 third-party means unless:
+362 (1) At least one third-party valuation report is obtained and shared with the homeowner to
+363 provide an indication of market value; and
+364 (2) The value that differs from the appraisal or third-party valuation report is fully
+365 disclosed to the homeowner and the homeowner agrees to the alternative value in writing;
+18 of 23
+
+366 (e) Including provisions in the shared equity investment that prohibit the homeowner
+367 from refinancing a mortgage or lien on a property that is the homeowner’s primary residence,
+368 provided that:
+369 (i) Nothing in this subsection obligates a shared equity investor or shared equity
+370 investment holder to subordinate their lien to any other lien holder; and
+371 (ii) If the homeowner is seeking a cash out refinancing, the shared equity investment may
+372 require that the proceeds of such refinancing be used to settle the shared equity investment; and
+373 (f) Charging an amount to settle a shared equity investment that exceeds the amount
+374 permitted under Section 9(d) of this chapter, plus reimbursement for payments made on behalf of
+375 the homeowner or administrative fees charged to the homeowner during the term of the shared
+376 equity investment.
+377 Section 12: Civil actions filed by Commissioner
+378 The Commissioner may enforce the provisions of this chapter, or restrain any violations
+379 thereof, by filing a civil action in any court of competent jurisdiction.
+380 Section 13: Penalties
+381 Whoever violates section 2 or any rule or regulation promulgated thereunder shall be
+382 punished by a fine of not more than $2,000 or by imprisonment in the house of correction for not
+383 more than 2 1/2 years or by imprisonment in state prison for not more than 5 years, or both such
+384 fine and imprisonment. Each day such violation occurs or continues shall be deemed a separate
+385 offense. The penalty provision of this section shall be in addition to, and not in lieu of, any other
+19 of 23
+
+386 law applicable to a licensee or other person for violating section 2 or any rule or regulation made
+387 thereunder.
+388 Section 14: Penalties; no limitation on civil action; review
+389 (a) Whenever the Commissioner finds that any licensee or exempt person under section 2
+390 has violated this chapter or any rule or regulation adopted thereunder, or any other law of the
+391 commonwealth applicable to the conduct of the business of making home equity investments on
+392 residential property in the commonwealth, the Commissioner may, by order, in addition to any
+393 other action authorized under this chapter or any rule or regulation made thereunder, impose a
+394 penalty upon the person which shall not exceed $5,000 for each violation, up to a maximum of
+395 $100,000 for such violation plus the costs of investigation. The Commissioner may impose a
+396 penalty which shall not exceed $5,000 for each violation of this chapter, or any rule or regulation
+397 adopted thereunder, by a person other than a licensee or exempt person under section 2, plus the
+398 costs of investigation.
+399 (b) Nothing in this section shall limit the right of any individual or entity who has been
+400 injured as a result of any violation of this chapter by a licensee, or any person other than a
+401 licensee or exempt person under section 2, to bring an action to recover damages or restitution in
+402 a court of competent jurisdiction.
+403 (c) Any findings or order issued by the Commissioner pursuant to this section shall be
+404 subject to review as provided in chapter 30A.
+405 Section 15: Written notice of intention to prohibit; statement of facts; order of
+406 prohibition; service
+20 of 23
+
+407 (a) Whenever the Commissioner determines that any person has, directly or indirectly,
+408 violated any section of this chapter or any rule or regulation adopted thereunder, applicable to the
+409 conduct of the business of making shared equity investments in the commonwealth, or any order
+410 issued by the Commissioner under this chapter or any written agreement entered between the
+411 licensee and the Commissioner, the Commissioner may serve upon that person a written notice
+412 of intention:
+413 (1) to prohibit the person from performing in the capacity of a principal employee on
+414 behalf of any licensee for a period of time that the Commissioner considers necessary to cure the
+415 condition giving rise to the Commissioner’s action;
+416 (2) to prohibit the person from applying for or obtaining a license from the Commissioner
+417 for a period up to 36 months following the effective date of an order issued under subsection (b)
+418 or (c); or
+419 (3) to prohibit the person from any further participation, in any manner, in the conduct of
+420 the affairs of a shared equity investor in Massachusetts or to prohibit the person from being
+421 employed by, an agent of, or operating on behalf of a licensee under this chapter or any other
+422 business which requires a license from the Commissioner.
+423 (b) A written notice issued under subsection (a) shall contain a written statement of the
+424 facts that support the prohibition and shall give notice of an opportunity for a hearing to be held
+425 thereon. The hearing shall be fixed for a date not more than 30 days after the date of service upon
+426 the Commissioner of the request for a hearing. If the person fails to submit a request for a
+427 hearing within 20 days of service of notice under subsection (a), or otherwise fails to appear in
+21 of 23
+
+428 person or by a duly authorized representative, the party shall be considered to have consented to
+429 the issuance of an order of prohibition in accordance with the notice.
+430 (c) In the event of the consent under subsection (b), or if after a hearing the
+431 Commissioner finds that any of the grounds specified in the notice have been established, the
+432 Commissioner may issue an order of prohibition in accordance with subsection (a) as the
+433 Commissioner finds appropriate.
+434 (d) An order issued under subsection (b) or (c) shall be effective upon service upon the
+435 person. The Commissioner shall also serve a copy of the order upon the licensee of which the
+436 person is an employee or on whose behalf the person is performing. The order shall remain in
+437 effect and enforceable until it is modified, terminated, suspended, or set aside by the
+438 Commissioner or a court of competent jurisdiction.
+439 (e) Except as consented to in writing by the Commissioner, any person who, pursuant to
+440 an order issued under subsection (b) or (c), has been prohibited from participating in whole or in
+441 part in the conduct of the affairs of a shared equity investor in Massachusetts may not, while the
+442 order is in effect, continue or commence to perform in the capacity of a principal employee, or
+443 otherwise participate in any manner, if so prohibited by order of the Commissioner, in the
+444 conduct of the affairs of:—
+445 (1) any licensee under this chapter;
+446 (2) any other business which requires a license from the Commissioner; or
+447 (3) any bank, as defined under section 1 of chapter 167 or any subsidiary thereof.
+448 Section 16: Rulemaking
+22 of 23
+
+449 The Commissioner may adopt, amend or repeal rules and regulations to prescribe safe
+450 and sound operating standards for licensees, the forms and process used for the license
+451 application process, and consumer protections, and to aid in the administration and enforcement
+452 of this chapter.
+23 of 23

@@ -1,0 +1,788 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Honorable Brendan Crighton Honorable Michael J. Rodrigues
+Chair, Joint Committee on Transportation Chair, Senate Committee on Ways & Means
+State House, Room 109-C State House, Room 212
+24 Beacon Street 24 Beacon Street
+Boston, MA 02133 Boston, MA 02133
+Honorable James Arciero Honorable Aaron Michlewitz
+Chair, Joint Committee on Transportation Chair, House Committee on Ways & Means
+State House, Room 146 State House, Room 243
+24 Beacon Street 24 Beacon Street
+Boston, MA 02133 Boston, MA 02133
+April 2, 2025
+Dear Chairs Crighton, Arciero, Rodrigues and Michlewitz,
+Pursuant to FY25 Budget please find the enclosed report providing a cost analysis of fare-free bus.
+Sincerely,
+Lynsey M. Heffernan
+Chief of Policy and Strategic Planning
+Massachusetts Bay Transportation Authority
+Ten Park Plaza, Boston, MA 02116
+mbta.com
+
+FY 2025 MBTA Fare-Free Bus Report
+March 2025
+
+1 Introduction .................................................................................................................................................. 3
+2 Fare-Free Bus Feasibility Study ...................................................................................................................... 4
+2.1 Paratransit Implications of Fare-Free Bus .................................................................................................... 4
+2.2 Examples of MBTA Fare-Free Bus Service .................................................................................................... 5
+City of Boston Routes 23, 28, and 29 .................................................................................................................... 5
+Massport Logan Terminal SL1 ............................................................................................................................... 6
+2.3 FTA Fare Change Regulations and Restrictions on Pilots ............................................................................. 6
+2.4 Fare-Free Bus Costs ...................................................................................................................................... 7
+2.4.1 Methodology of Costing .......................................................................................................................... 8
+2.4.2 Previous Systemwide Cost Estimates .................................................................................................... 11
+2.4.3 Updated Systemwide Cost Estimate for Today’s Conditions ................................................................. 12
+2.5 Challenges Inherent with Limited Route Fare-Free Bus ............................................................................. 13
+Utility of Additional Pilots ................................................................................................................................... 14
+Geographic Equity ............................................................................................................................................... 14
+Rider Communication and Consistency of Rider Experience .............................................................................. 14
+Termination of Temporary Fare Reductions ....................................................................................................... 15
+Role of the MBTA as a State Authority ............................................................................................................... 15
+2.6 MBTA Conclusion on Fare-Free Bus Pilot Feasibility .................................................................................. 16
+3 Pilot Program Implementation Design ......................................................................................................... 17
+3.1 Data Collection and Cost Reimbursement ................................................................................................. 17
+4 Potential Evaluative Criteria ........................................................................................................................ 18
+Relevance of Evaluative Criteria to Systemwide Fare-Free Bus .............................................................................. 18
+Opportunities for Increased Ridership ............................................................................................................... 18
+Increased Service Accessibility to Low-Income Individuals ................................................................................ 19
+Opportunities for Increased Reliability of On-Time Performance Due to Dual-Door Boarding ......................... 19
+Opportunities to Reduce or Eliminate Rider and Driver Altercations................................................................. 19
+Cost Savings from Elimination of Contracted Fare Collection Equipment and Enforcement Personnel ............ 20
+5 Community Advocacy Organization Consultation ........................................................................................ 21
+2
+
+1 Introduction
+This FY 2025 MBTA Fare Free Bus Report is a product of the MBTA’s Policy and Strategic Planning team – written in
+consultation with representatives of several community advocacy organizations – intended to satisfy the below
+requirement included in the Massachusetts FY 2025 Final Budget (1595-6369):
+[....] the authority shall conduct a feasibility study of implementing year-round fare free bus pilot programs
+including, but not limited to, in areas outside of the city of Boston;
+provided further, that the authority shall submit a proposed design for establishing said programs,
+including methods for data collection;
+provided further, that the authority may establish evaluative criteria for potential route selection
+including, but not limited to:
+(a) whether a municipality has identified a route for a fare free pilot program;
+(b) opportunities for increased ridership;
+(c) increased service accessibility to low-income individuals;
+(d) opportunities for increased reliability of on-time performance due to dual-door boarding;
+(e) potential cost savings arising from elimination of contracted farebox equipment and
+enforcement personnel;
+(f) opportunities to reduce or eliminate rider and driver altercations; and
+(g) geographic equity;
+provided further, that the authority, in developing the study and report, shall consult with community
+advocacy organizations including, but not limited to, LivableStreets Alliance and Transportation for
+Massachusetts; and
+provided further, that not later than March 1, 2025, the authority shall submit a report to the joint
+committee on transportation and the house and senate committees on ways and means detailing findings
+related to the feasibility of such programs [….]1
+Section 2 of this report presents a feasibility study of implementing fare-free bus service in the MBTA service area,
+both on limited route and full systemwide bases. Section 3 discusses a potential design template for establishing
+fare-free bus programs. Section 4 addresses potential evaluative criteria for fare-free bus route selection, and also
+speaks to the merits of such criteria for evaluating a systemwide fare-free bus initiative. Section 5 details the
+consultation process the MBTA undertook with community advocacy organizations in the generation of this report.
+A key finding of this report, stated in Section 2.6 is that limited route-specific fare-free bus programs are
+geographically inequitable, difficult to communicate, and work against MBTA goals of providing equitable and
+consistent transportation across the Authority’s entire service area. These limited “pilot programs” are
+unsustainable and are not recommended by the Authority as an initiative to pursue. Any future fare-free bus
+service expansions – to the extent additional funding is available to cover their costs – should be designed and
+implemented to serve the entire bus network, at a cost of $72M to $121M annually, not limited routes chosen by
+municipal boundaries or other similar bases.
+1 Massachusetts FY 2025 Final Budget at 1595-6369. https://malegislature.gov/Budget/FY2025/FinalBudget
+3
+
+2 Fare-Free Bus Feasibility Study
+This Section presents a feasibility study for expanding fare-free bus service in the MBTA service area, both on a
+route-by-route basis and on a systemwide basis. Section 2.1 describes the paratransit implications of fare-free bus
+initiatives. Section 2.2 explores the recent history of fare-free service on the MBTA, most notably on bus Routes
+23, 28, and 29 and on Silver Line 1 service from the Logan Terminals. Section 2.3 describes FTA fare change
+regulations and the requirements they impose for any fare change lasting longer than 6 months. Section 2.4 details
+cost estimates for fare-free bus service, presenting both estimates generated in recent years and an updated cost
+estimate as of March 2025. Section 2.5 describes challenges inherent with limited-duration route-specific fare-free
+service programs. Finally, Section 2.6 concludes the feasibility study with a finding that route-specific fare-free bus
+service is not sustainable, and a recommendation that future fare-free bus efforts be applied on a systemwide
+basis and accompanied by additional dedicated funding sources to cover their costs.
+2.1 Paratransit Implications of Fare-Free Bus
+An important but sometimes overlooked aspect of a fare-free bus program is that, per Americans with Disabilities
+Act (ADA) requirements, fare-free bus service necessitates fare-free paratransit service as well. Section 37.131 of
+the ADA details service criteria for complementary paratransit services including required paratransit service areas
+and fares, specifying:
+(a) Service Area
+(1) Bus.
+(i) The entity shall provide complementary paratransit service to origins and destinations
+within corridors with a width of three-fourths of a mile on each side of each fixed route.
+The corridor shall include an area with a three-fourths of a mile radius at the ends of
+each fixed route.
+(ii) Within the core service area, the entity also shall provide service to small areas not
+inside any of the corridors but which are surrounded by corridors.
+(iii) Outside the core service area, the entity may designate corridors with widths from
+three-fourths of a mile up to one and one half miles on each side of a fixed route, based
+on local circumstances.
+(iv) For purposes of this paragraph, the core service area is that area in which corridors
+with a width of three-fourths of a mile on each side of each fixed route merge together
+such that, with few and small exceptions, all origins and destinations within the area
+would be served.
+(2) Rail.
+(i) For rail systems, the service area shall consist of a circle with a radius of 3/4 of a mile
+around each station.
+(ii) At end stations and other stations in outlying areas, the entity may designate circles
+with radii of up to 1 1/2 miles as part of its service area, based on local circumstances.
+[…]
+and
+4
+
+(c) Fares. The fare for a trip charged to an ADA paratransit eligible user of the complementary paratransit
+service shall not exceed twice the fare that would be charged to an individual paying full fare (i.e., without
+regard to discounts) for a trip of similar length, at a similar time of day, on the entity's fixed route system.
+(1) In calculating the full fare that would be paid by an individual using the fixed route system, the
+entity may include transfer and premium charges applicable to a trip of similar length, at a similar
+time of day, on the fixed route system.
+(2) The fares for individuals accompanying ADA paratransit eligible individuals, who are provided
+service under Sec. 37.123 (f) of this part, shall be the same as for the ADA paratransit eligible
+individuals they are accompanying.
+(3) A personal care attendant shall not be charged for complementary paratransit service.
+(4) The entity may charge a fare higher than otherwise permitted by this paragraph to a social
+service agency or other organization for agency trips (i.e., trips guaranteed to the organization).2
+Consistent with these ADA requirements, the MBTA provides paratransit service through The RIDE for trips with
+origins and destinations within ¾ of a mile of all its fixed route bus and rail stops for an ADA fare of $3.35, which is
+less than two times the current full fare bus fare ($1.70). In situations where MBTA bus or rail service is provided
+for free as a matter of fare policy – including but not limited to MBTA bus Routes 28, 28, and 29; Logan Terminal
+Silver Line service; and fare-free mitigations for service disruptions such as those associated with the Sumner
+Tunnel closures in the summers of 2023 and 2024 – the MBTA provides ADA service on The RIDE on a fare-free
+basis as well.
+Following this legislative requirement and established MBTA policy, an expansion of fare-free bus service – either
+on a route-specific or systemwide basis – would also necessitate fare-free paratransit service. This requirement
+impacts the MBTA financially both through (i) the loss of paratransit fare revenue, and (ii) additional operating
+costs to serve paratransit trips “induced” by the decrease in fares to $0. The magnitudes of these paratransit-
+associated costs are discussed Section 2.4.
+2.2 Examples of MBTA Fare-Free Bus Service
+City of Boston Routes 23, 28, and 29
+In partnership with the City of Boston, the MBTA began running fare-free service on bus Route 28 in August 2021.
+This fare-free Route 28 program was initially conducted as a pilot program and intended to run through February
+2022. In March 2022, the City of Boston and the MBTA expanded their fare-free bus partnership to also include
+Routes 23 and 29 in addition to Route 28. This 23 / 28 / 29 program was intended to run through February 2024
+but was extended in early-2024 to run through February 2026. Consistent with the ADA requirements discussed in
+the previous section, the fare-free bus programs also provide fare-free RIDE paratransit trips for journeys that start
+and end within ¾ of a mile of the three routes. Fare-free service on Routes 23, 28, and 29 was added to the MBTA
+tariff as official fare policy in 2022 following a vote of the MBTA Board of Directors.
+The City of Boston has predominately funded these fare-free bus programs by using American Rescue Plan Act
+(ARPA) federal funding to reimburse the T for lost fare revenue and additional operating expenses incurred.3
+2 49 CFR § 37.131 - Service criteria for complementary paratransit. https://www.transit.dot.gov/regulations-and-
+guidance/civil-rights-ada/part-37-transportation-services-individuals-disabilities#sec.37.131
+3 See Section 3.1 for more detail on the reimbursement arrangement between the City of Boston and the MBTA.
+5
+
+The City of Boston has published two fare-free bus pilot evaluation reports, the first focused on Route 28 in March
+20224 and the second evaluating all three fare-free routes in March 2023.5 Per the findings of these reports as of
+October 2022, 42% of riders on the fare-free routes saved money as a result of the fare-free bus service while 58%
+of riders did not; 26% of riders reported saving more than $20 per month. The three fare-free bus routes
+collectively reported greater increases in ridership from Fall 2021 to Fall 2022 than the bus system as a whole, and
+use of The RIDE within the program area also grew faster than The RIDE system ridership as a whole. With respect
+to speed, dwell time per passenger decreased but the number of passengers on the busses increased, resulting in
+no material change in overall travel time. As of October 2022, 75% of passengers on the fare-free routes reported
+that they still would have been riding the bus were it not free. Of the remaining 25% of passengers who would not
+have been riding the bus, 6% of passengers would have taken a different MBTA service, 13% would have walked or
+biked, 4% would have taken a car, and 2% would not have made the trip at all. Generally, the pilot evaluation
+reports show increases in program effect over time from data collected in October 2021 to data collected in May
+2022 and October 2022.
+Massport Logan Terminal SL1
+In addition to the fare-free bus routes operated in partnership with the City of Boston, the MBTA also provides
+fare-free Silver Line 1 (SL1) service from the Logan Airport Terminals operated in partnership with Massport.
+Massport and the MBTA have been partners in providing SL1 service to Logan Airport since the launch of the route
+in 2004, and Massport has funded free fares on SL1 from the Logan Terminals since 2012. These free fares are
+intended to ease parking and traffic congestion pressures at the airport and to facilitate ground travel for
+passengers landing at the airport who may not be familiar with the MBTA’s fare payment systems.
+Like the agreement between the City of Boston and the MBTA, Massport pays the MBTA a reimbursement for free
+Silver Line 1 boardings at the Logan Terminals as well as for free RIDE trips originating from the airport and
+terminating within ¾ of a mile of an MBTA subway station. The Massport agreement also includes more
+complicated elements such as reimbursement for purchases of bus vehicles and operating and maintenance cost
+subsidies for SL1 service, incorporating payments between the MBTA and Massport that go in both directions.
+2.3 FTA Fare Change Regulations and Restrictions on Pilots
+All public transit fare changes, whether fare increases or decreases, are subject to federal regulation under Title VI
+of the Civil Rights Act of 1964, as detailed in FTA Circular 4702.1B Title VI Requirements and Guidelines for Federal
+Transit Administration Recipients.6,7 At a high level, Circular 4702.1B specifies that all fare changes require public
+engagement, equity analysis, and board approval.
+With respect to the required equity analysis, the MBTA must ensure that any fare change package does not have a
+disparate impact on riders of color nor impose a disproportionate burden on riders with low-income. This means
+that for a fare increase, the MBTA must show that that fares do not increase materially more for riders of color or
+for low-income riders than they increase for riders as a whole; for a fare decrease, fares must not decrease
+materially less for riders of color or for low-income riders than they decrease for riders as a whole.
+Circular 4702.1B is clear that any pilot program exempt from these public outreach, equity analysis, and board
+approval requirements cannot last longer than six months:
+4 https://www.boston.gov/sites/default/files/file/2022/03/Route28_Report_FINAL.pdf
+5 https://www.boston.gov/sites/default/files/file/2023/03/Fare%20Free%20Mid%20Program%20Report.pdf
+6 FTA Circular 4702.1B. https://www.transit.dot.gov/sites/fta.dot.gov/files/docs/FTA_Title_VI_FINAL.pdf
+7 Note that smaller transit agencies such as Regional Transit Administrations (RTAs) are subject to different
+regulation than larger transit authorities such as the MBTA under Circular 4702.1B.
+6
+
+b. Fare Equity Analysis
+(1) Fare Changes. The fare equity analysis requirement applies to all fare changes regardless of the
+amount of increase or decrease. As with the service equity analysis, FTA requires transit providers to
+evaluate the effects of fare changes on low-income populations in addition to Title VI-protected
+populations.
+(a) Exceptions.
+(i) “Spare the air days” or other instances when a local municipality or transit agency has
+declared that all passengers ride free.
+(ii) Temporary fare reductions that are mitigating measures for other actions. For
+example, construction activities may close a segment of a rail system for a period of time
+and require passengers to alter their travel patterns. A reduced fare for these impacted
+passengers is a mitigating measure and does not require a fare equity analysis.
+(iii) Promotional fare reductions. If a promotional or temporary fare reduction lasts
+longer than six months, then FTA considers the fare reduction permanent and the transit
+provider must conduct a fare equity analysis.8
+As such, a potential year-long fare-free bus pilot would be considered a permanent fare change by the FTA,
+requiring it to be incorporated in the official MBTA tariff through a process of public comment, equity analysis, and
+board approval. The MBTA followed this framework following the launch of fare-free service on bus Routes 23, 28,
+and 29 in 2021 and 2022, finalizing public outreach, equity analysis, and board approval in 2022.9 Fare-free service
+on Routes 23, 28, and 29 is now listed as official fare policy in the MBTA tariff10 even though funding for that fare-
+free service is scheduled to end in early-2026.
+The ending of a fare-free bus program, meaning the resumption of fare collection for riders, after more than 6
+months of operations also requires public comment, equity approval, and board approval. Given that MBTA bus
+routes generally have a higher percentage of riders of color and riders with low-income than the system as a
+whole, the creation of a fare-free bus program is likely to “pass” an equity analysis.11 However, if and when fare-
+free service is to end on those routes, the required equity analysis will likely return a failing result absent
+significant mitigation. In short, the requirement for equity analysis of any fare change lasting longer than six
+months makes fare-free bus programs relatively easy to begin but hard for the MBTA to end.
+2.4 Fare-Free Bus Costs
+It is important to fully understand the additional costs that expanded fare-free bus service would impose on the
+MBTA.
+8 FTA Circular 4702.1B, Chap IV-19.
+https://www.transit.dot.gov/sites/fta.dot.gov/files/docs/FTA_Title_VI_FINAL.pdf
+9 See https://cdn.mbta.com/sites/default/files/2022-07/Free-Bus-Fare-Equity-Analysis-June-22.pdf
+10 https://cdn.mbta.com/sites/default/files/2024-08/2024-08-01-MBTA-Tariff.pdf
+11 For example, the Title VI equity analysis conducted for the 23 / 28 / 29 program found that fares decreased for
+riders of color and low-income riders 3.7 and 3.9 times more, respectively, than for riders overall as a result of free
+service on those routes. See https://cdn.mbta.com/sites/default/files/2022-07/Free-Bus-Fare-Equity-Analysis-
+June-22.pdf
+7
+
+2.4.1 Methodology of Costing
+When evaluating the cost of running fare-free bus service, the MBTA considers four primary channels of financial
+impact:
+• Fixed route fare revenue loss
+• Additional bus operations costs
+• Paratransit fare revenue loss
+• Additional paratransit operation costs
+The approach the MBTA uses to quantify these impacts is detailed below.
+Fixed Route Fare Revenue Loss
+Perhaps the most obvious financial impact of a fare-free bus program is bus fare revenue loss. However, the
+calculation of fare revenue lost resulting from a fare-free bus program is not as simple as summing up the value of
+all cash and “stored value” fares paid on bus vehicles. Considerations must be made, for instance, to address the
+impacts of pass-purchasing and of likely rider behavior changes. A simplistic approach to the calculation could both
+overstate and understate certain components of fare revenue loss. Rather, the MBTA employs a methodology that
+calculates:
+1. Pay-per-ride revenue loss from bus-only journeys
+2. Local Bus pass revenue loss
+3. Revenue lost through shifts from LinkPasses to pay-per-ride rapid transit
+4. Revenue lost through shifts from pay-per-ride rapid transit to free bus
+Each of these four “channels” of fixed route fare revenue loss are detailed below.
+Pay-per-ride Revenue from Bus-Only Trips
+MBTA fare policy provides “step-up transfer” rules for certain journeys consisting of multiple legs,
+wherein the total fare for a multi-leg journey is the cost of the single most expensive leg of that journey.
+Current MBTA subway fares ($2.40 full fare / $1.10 reduced fare) are higher than current MBTA Local Bus
+fares ($1.70 full fare / $0.85 reduced fare). Therefore, under “step-up transfer” rules, the total cost of a
+“bus-subway-bus” three-leg journey, for example, is equal to only the cost of one subway fare. A full-fare
+rider taking such a journey would pay $1.70 for their first bus leg, $0.70 for the “step-up transfer” to their
+subway leg (i.e., $2.40 minus $1.70), and $0 for their final bus leg. In the event that bus service became
+fare-free, this journey would still cost $2.40; however, rather than $1.70 being collected on bus and $0.70
+being collected on subway, all $2.40 would be collected on subway.
+Given these policy rules, a fare-free bus policy only saves money for riders – or results in fare revenue loss
+to the agency – for bus trips that are not part of journeys that connect to higher-priced modes where
+step-up transfers apply. Accordingly, fare-free bus pay-per-ride revenue loss must exclude fares paid for
+bus trips that connect to other more expensive transit modes.
+Local Bus Pass Revenue
+One of the fare products that the MBTA offers is a monthly pass valid only on Local Bus routes (currently
+priced at $55). In FY24 the MBTA sold nearly 81,000 of these monthly passes, generating more than $4.4
+million in revenue. As this product is not valid on any mode other than Local Bus, revenue from this
+product would go to zero if bus service were to provided fare-free.
+8
+
+Shift from LinkPass to Pay-per-ride
+The first two “channels” of fare revenue loss consider only bus pay-per-ride and bus pass revenue for bus-
+only travel; however, a fare-free bus policy would also be expected to have broader fare revenue impacts.
+The MBTA’s most popular and highest-selling pass product is the LinkPass, which provides for unlimited
+travel on both Local Bus and subway and is available in monthly ($90 full fare / $30 reduced fare), 7-Day
+($22.50 full fare / $10 reduced fare), and 1-Day ($11) varieties. The typical LinkPass purchaser uses that
+product on a mixture of routes and services, including both subway and Local Bus. If bus service were to
+be provided fare-free, this would decrease the value proposition of purchasing a LinkPass.
+For example, a full-fare rider who may make 32 subway journeys and 10 bus journeys in a month would
+rationally find it “worth it” to buy a LinkPass under current pricing. However, if bus service were to be
+provided fare-free, this same rider may rationally give up their $90 per month LinkPass and instead spend
+approximately $77 per month for their subway journeys on a pay-per-ride basis.
+An MBTA card-level analysis of LinkPass usage found that approximately 19% of LinkPass purchasers may
+rationally choose to switch to paying per-ride if bus service were to be provided fare-free. These “pass
+switchers” would then pay back a portion of the value they formerly spent on their passes in the form of
+pay-per-ride fares, resulting in about 7.5% of overall LinkPass revenue being lost as a net result of this
+switch in purchasing behavior.
+Shift from Pay-per-ride Rapid Transit to Free Bus
+The final “channel” of fare revenue loss results from riders shifting their mode of travel from subway to
+bus in the event that bus service is provided fare-free. Some examples of routes where this may occur
+include Routes 39 and 43 which both generally follow the Orange Line corridor, with the 39 running from
+Forest Hills to Back Bay and the 43 running from Ruggles to Park Street. Under a pricing structure where
+full fare subway costs $2.40 and full fare bus costs $1.70, a rider traveling from, for example, Ruggles to
+Downtown Crossing may find it “worth” the extra $0.70 for faster subway service as opposed to bus
+service in mixed traffic. However, if bus service were to provided fare-free, the fare premium for subway
+over bus would rise from $0.70 to $2.40 and that same rider may now elect to take the free bus instead.
+This mode shift would save the rider money but would result in less efficient use of transportation
+resources and lead to lost subway fare revenue.
+The City of Boston’s March 2023 evaluation of its fare free program on Routes 23, 28, and 29 documents
+this mode shifting occurring, estimating that approximately 20% to 35% of new riders on the fare-free
+routes would have taken a different MBTA service had the bus routes not been fare-free.12
+MBTA modelling estimates that approximately 36% of MBTA subway trips are “replaceable” by an
+alternative Local Bus. If between 10% and 20% of riders who take these “bus replaceable” subway trips
+were to shift to fare-free bus, this could decrease pay-per-ride subway fare revenue by approximately 4%
+to 7%.
+Additional Bus Operations Costs
+Bus ridership would be expected to increase if bus service were to be provided fare-free. This is consistent with
+economic theory, the “channels” of fare revenue loss discussed above, and the findings of the City of Boston’s fare
+free bus program on Routes 23, 28, and 29. In some situations – and especially on routes that are already crowded
+– this increase in ridership could overwhelm existing service and require additional trips to be run to keep up with
+12 https://www.boston.gov/sites/default/files/file/2023/03/Fare%20Free%20Mid%20Program%20Report.pdf, slide
+31 of 33.
+9
+
+demand and avoid passengers being “left behind” on the curb. These additional trips would not generate
+additional revenue under a fare-free service model but would incur additional operational costs to the Authority.
+Paratransit Fare Revenue
+As discussed in Section 2.1, fare-free bus service would necessitate fare-free paratransit service. Accordingly, all
+RIDE revenue for ADA-mandated trips would be expected to go to zero if bus service were to provided fare-free on
+a systemwide basis. Note that “Premium” trips on The RIDE – defined as trips that serve origins or destinations
+more than ¾ of a mile from fixed route service – would not be required to be fare-free by law, but the MBTA
+would expect them to also become fare-free as a practical matter.
+Additional Paratransit Operations Costs
+As is the case for bus service, paratransit demand would also be expected to increase if trips on The RIDE were to
+be provided fare-free. However, while fixed route service is relatively “scalable” and capable of absorbing some
+amount of increased demand without necessitating increased service, paratransit service is delivered on a one-to-
+one basis.
+As a paratransit service that serves people who cannot use bus, subway, or trolley due a disability, The RIDE is a
+personalized service. The RIDE provides door-to-door transportation in smaller vehicles (cars or vans) dispatched
+to serve passengers at specific times. This nature of the paratransit mode makes total costs highly variable and tied
+to ridership, resulting in a high costs on a per-passenger basis. Each additional trip on The RIDE costs upwards of
+$50 to provide, while the costs of additional bus trips per-passenger are only a small fraction comparably.
+Additionally, the MBTA has legal obligations under the Americans with Disabilities Act to ensure adequate and
+timely paratransit service to a degree that does not apply on the T’s fixed route modes. If a bus rider cannot board
+a vehicle due to crowding and gets left behind at the curb, that is an unfortunate and unacceptable failure of
+service. However, if a paratransit customer is not served by The RIDE and gets left behind at the curb, that is a
+much more severe violation of federal civil rights law.
+While it is generally the case that a fare-free bus policy would be expected to lead to greater fare revenue loss
+than additional operating costs on the fixed routes, the opposite is true for The RIDE.
+Additional Notes: Elasticity and Induced Demand
+One of the greatest sources of uncertainty with respect to the financial impact of any fare change is the elasticity
+of demand for travel, or the degree to which the quantity of travel demanded changes with a change in price. The
+MBTA generally applies estimates of elasticity derived from the Fare Elasticity, Ridership, and Revenue Estimation
+Tool (FERRET) model prepared by the Central Transportation Planning Staff (CTPS). This model finds price
+elasticities of demand for MBTA services generally range from -5% to -45%, depending on the mode, rider type,
+and method of payment.13 CTPS estimates that the price elasticity of demand for full fare bus travel ranges from -
+15% to -35%, implying that a 10% decrease in bus fares would be expected to increase bus ridership by between
+1.5% and 3.5%. However, economic theory teaches that demand curves are not straight and thus elasticities are
+not fixed along the entire range of potential prices. Accordingly, it would be expected that the price elasticity of
+demand would be different for a small price change than for one that brings prices all the way down to zero.
+13 See Table 1, https://cdn.mbta.com/sites/default/files/fares/fare-proposal-2019/equity-anlaysis-sfy20-fare-
+changes-march2019-FINAL.pdf
+10
+
+The inherent unknowns around the application of elasticity will always introduce uncertainty to the overall cost
+estimates of a price change, and that is especially true with respect to the estimation of additional operating costs
+in the current study.
+Additional Notes: Express Bus
+While this report generally refers to “bus” as one mode at one price point, the MBTA does in fact have three
+distinct categories of price points for what could be considered “bus” service.14 For the purposes of this study, only
+Local Bus routes are considered as potential fare-free routes. Accordingly, all estimates of the costs of fare-free
+bus assume that Express Bus routes and Silver Line 1, 2, 3, and W do not provide fare-free service.
+2.4.2 Previous Systemwide Cost Estimates
+The MBTA Fare Policy team has on two occasions in recent years presented estimates to the Board of the cost to
+the Authority of a systemwide fare-free bus policy, first in May 2021 (using pre-COVID ridership and revenue
+numbers) and again in October 2022 (using modeled FY24 post-COVID ridership and revenue). Those previous
+estimates are summarized below.
+May 2021 Cost Estimate
+The cost estimates below were estimated in Spring 2021 using historic pre-COVID ridership and revenue levels as a
+baseline. Results were presented at the Fiscal and Management Control Board Meeting on May 10, 2021.15
+Table 1: 2021 Fare-Free Bus Cost Estimate (Pre-COVID Ridership)
+Low Estimate High Estimate
+Fixed Route Fare Revenue Loss $56 million $70 million
+$24 million $53 million
+Additional Bus Operating Costs (+ $160 million year one and $6 million (+ $433 million year one and $13 million
+annually recurring capital costs) annually recurring capital costs)
+Paratransit Fare Revenue Loss $5 million $5 million
+$25 million $44 million
+Additional Paratransit Operating Costs (+ $10 million year one and $1 million (+ $17 million year one and $3 million
+annually recurring capital costs) annually recurring capital costs)
+$110 million $172 million
+Total Annual Costs
+(+ $170 million year one and $7 million (+ $460 million year one and $16
+(+ capital expenses)
+annually recurring capital costs) million annually recurring capital costs)
+A notable element of the 2021 cost estimates is the significant capital expense related to bus operating costs.
+These estimates employed pre-COVID ridership as a baseline, when the bus network lacked excess capacity and
+conditions were often crowded. Accordingly, these estimates include potential costs of significant expansion of the
+bus fleet and related bus facilities.
+14 The vast majority of MBTA bus routes (140+) are “Local Bus” ($1.70 full fare / $0.85 reduced fare). Seven MBTA
+bus routes are “Express Bus” ($4.25 full fare / $2.10 reduced fare) and three of these seven Express Bus routes
+have portions or stops where Local Bus fares are charged. Four Silver Line bus rapid transit routes (SL 1, 2, 3, and
+W) charge subway fares ($2.40 full fare / $1.10 reduced fare), while two Silver Line bus routes (SL 4 and 5) accept
+Local Bus fares ($1.70 full fare / $0.85 reduced fare).
+15 https://cdn.mbta.com/sites/default/files/2021-05/2021-05-10-fmcb-I-fare-policy-update_0.pdf
+11
+
+October 2022 Cost Estimate
+The cost estimates below were estimated in Fall 2022 using modelled post-COVID FY24 ridership and revenue
+projections. Results were presented at the meeting of the MBTA Board of Directors on October 27, 2022.16
+Table 2: 2022 Fare-Free Bus Cost Estimate (FY24 Projected Ridership)
+Low Estimate High Estimate
+Fixed Route Fare Revenue Loss $40 million $49 million
+Additional Bus Operations Costs $4.9 million $16 million
+Paratransit Fare Revenue Loss $3.9 million $3.9 million
+$72 million
+Additional Paratransit Operations Costs $45 million
+(+ $9 million vehicle capital costs)
+Total Annual Costs $141 million
+$94 million
+(+ capital expenses) (+ $9 million vehicle capital costs)
+Estimates of fixed route fare revenue loss, bus operations costs, and RIDE fare revenue costs all decreased
+materially from the 2021 to 2022 estimates, primarily driven by decreases in baseline fare revenue, ridership, and
+bus crowding from pre-COVID to post-COVID patterns. However, estimates of RIDE operations costs increased due
+to higher costs expectations for fuel and personnel, updated induced demand expectations using methodologies
+better aligned with other MBTA analyses, and the inclusion of various RIDE cost components omitted in the 2021
+analysis. Capital costs projected in the 2022 estimates were limited to potential purchases of vehicles for the RIDE,
+as an expansion of the bus fleet and related facilities was no longer considered necessary due to excess bus
+capacity in the post-COVID environment.
+2.4.3 Updated Systemwide Cost Estimate for Today’s Conditions
+The MBTA’s ridership and fare revenue landscape has changed in two material ways since the 2022 cost estimates.
+1. Ridership and revenue have stabilized following the uncertainty of the post-pandemic years
+The future state of MBTA ridership was still highly uncertain in 2022 when the last cost estimates of fare-free bus
+were conducted. At that time, projections of ridership and revenue for FY24 were employed as baseline. In the
+nearly two-and-a-half years since, MBTA ridership and revenue has stabilized, and the Authority is now more
+confident as to what “new normal” rider demand looks like. With FY26 starting in fewer than four months, the
+updated cost estimates summarized below employ projected FY27 ridership and revenue as their “baseline.”
+2. The MBTA has expanded Reduced Fares
+The MBTA materially expanded the availability and applicability of Reduced Fares in 2024. Across the fixed route
+modes, the MBTA expanded Reduced Fares to Income-Eligible riders. This expansion grants riders of any age with
+incomes at or below 200% of the Federal Poverty Level (as evidenced by enrollment in other social support
+programs such as MassHealth or SNAP) access to the same Reduced Fare discounts of 50% or more that had
+previously been available to Seniors, riders with disabilities, students, and young adults with low income. The
+MBTA also expanded Reduced Fares to The RIDE for the first time, lowering fares by approximately 50% for Senior
+RIDE users and RIDE users with low income. These expansions of Reduced Fares intersect with the potential cost of
+fare-free bus service in numerous ways.
+16 https://cdn.mbta.com/sites/default/files/2022-
+10/Fare%20Affordabilty%20Board%20Slides%20October%202022%20vF.pdf
+12
+
+i. Lower Reduced Fares, especially on bus and paratransit, decrease the baseline level of fare revenue that
+stands to be potentially lost under a fare-free model of bus service.
+ii. Riders with access to Reduced Fares are relatively more likely to purchase LinkPasses, as they provide a
+greater discount off full fare levels than is available on a pay-per-ride basis. For example, the reduced
+Local Bus fare is 50% of full fare levels while the Reduced Fare monthly LinkPass costs 33% of the full fare
+equivalent. Additionally, the Reduced Fare LinkPass (which covers both bus and subway) costs 45% less
+than the Local Bus pass (which is not offered in a Reduced Fare variety). These dynamics are expected to
+change the makeup of pass purchasing decisions, incentivizing more riders towards LinkPasses and away
+from bus-specific fares and passes.
+iii. Expanded Reduced Fares are also expected to induce travel on bus and paratransit, “eating into” some of
+the induced demand that fare-free bus and paratransit had the potential to generate.
+Full enrollment in and uptake of the Reduced Fares expanded in 2024 is expected to take up to 5 years. However,
+in the interest of providing conservative cost estimates for fare-free bus, the estimates below assume that the
+“ramp up” in expanded Reduced Fares enrollment is complete by FY2027.
+A Note on Fare-Free 23 / 28 / 29 Service
+A baseline projection of FY2027 ridership and revenue assumes fare-free service on Routes 23, 28, and 29 as a
+continuation of current MBTA policy. However, the agreement between the City of Boston and the MBTA only runs
+through February 2026, terminating before the start of FY27. In calendar year 2024, the City of Boston paid the
+MBTA more than $4.3 million to reimburse the costs of fare-free service on those three bus routes and in the
+associated RIDE service area.
+Accordingly, the numbers presented below in Table 3 include $4.3 million per year to reflect the cost of continuing
+fare-free service on Routes 23, 28, and 29 in order to capture the full cost of systemwide fare-free bus service.
+Table 3: 2025 Fare-Free Bus Cost Estimate (FY27 Projected Ridership with Full Ramp-Up of Expanded Reduced Fares)
+Low Estimate High Estimate
+Fixed Route Fare Revenue Loss $41 million $50 million
+Additional Bus Operations Costs $2 million $15 million
+Paratransit Fare Revenue Loss $2.2 million $2.2 million
+$54 million
+Additional Paratransit Operations Costs $27 million
+(+ $9 million vehicle capital costs)
+Total Annual Costs $121 million
+$72 million
+(+ capital expenses) (+ $9 million vehicle capital costs)
+2.5 Challenges Inherent with Limited Route Fare-Free Bus
+As detailed in the prior sections, the systemwide provision of fare-free bus services has potential to deliver positive
+impacts for MBTA riders. However, as noted in the previous section, the costs associated with such a policy are
+significant, currently estimated at between $72 and $121 million per year. The MBTA does not have the funding to
+bear these costs in its current fiscal situation, and the institution of a systemwide fare-free bus policy would
+require a long-term commitment of regularly recurring additional funding to the operations budget.
+The provision of fare-free bus service on a limited route-by-route basis – either on a “FTA pilot” basis of shorter
+than six months or on a slightly longer-term basis – is less beneficial to riders than a systemwide policy and
+introduces additional complexities and challenges, as described in the following subsections.
+13
+
+Utility of Additional Pilots
+The MBTA and City of Boston fare-free bus program on Routes 23, 28, and 29 has been in operation in various
+formats for more than three-and-a-half years. This program has received national attention17 and has clearly
+demonstrated the potential impacts that the provision of fare-free bus service can have on key measures of
+transportation access such as ridership, affordability, travel time, and passenger experience. The City of Boston has
+published two program reports analyzing these impacts and plans to publish additional analyses when the program
+concludes.18
+Given the extensive time and resources devoted to the 23 / 28 / 29 program and the findings gathered from the
+experience, the utility of additional limited-duration pilots selected on a route-by-route basis is up to debate. What
+additional questions or new areas of research are not addressed or explored by the 23 / 28 / 29 program but
+would be addressed by new fare-free bus pilots in the MBTA service area? Would additional “pilots” be designed
+as tests of a new idea or functionality before rolling it out more broadly, or would they operate as a method of
+delivering the benefits of fare-free bus to additional riders on more bus routes without a novel research purpose?
+If the former, it is not clear what utility additional pilots would serve above-and-beyond the value of the existing 23
+/ 28 / 29 program. If the latter, then additional fare-free bus routes would not be “pilots” in the traditional transit
+planning sense of the term, and would amount more to a partial step in the direction of systemwide fare-free bus
+service.
+Geographic Equity
+The City of Boston has funded the 23 / 28 / 29 program using federal ARPA dollars, reimbursing the MBTA a total
+of more than $10.9 million for service from March 2022 through January 2025. In a time of constrained fiscal
+resources in the post-COVID era, especially at the local government level, many municipalities do not have this
+level of funding available to fund fare-free bus routes.
+A significant issue with providing fare-free bus service on a route-by-route basis is the geographic equity challenges
+that such a practice raises. No matter what organization is funding a particular fare-free route – be it a municipality
+or business group or anything else – the localized nature of bus routes means that geography will be the
+determining factor as to which bus riders benefit and which do not. One given municipality may have the funding
+available to sponsor a fare-free route within its borders while another municipality – potentially one with a higher
+share of bus riders or low-income riders or riders of color – may not have this funding. This risks creating an
+inequitable situation where otherwise similar bus riders in different parts of the MBTA service area are expected to
+pay different fares due to reasons other than the characteristics of the trip or mode itself.
+Rider Communication and Consistency of Rider Experience
+The MBTA strives for consistency in its application of policy and communications to its riders. This includes the
+establishment and application of a consistent and easy-to-understand fare structure. Recent fare policy changes of
+the last five years have pursued a goal of fare tariff simplification, and further simplifications are being pursued
+through the transition to a new fare payment collection system that is envisioned to work across all modes.
+Further pursuing a fare policy in which some number of bus routes are fare-free but the majority are not risks
+confusing riders and complicating the collection of fares across the broader system. This is especially true in areas
+17 See, e.g., https://freakonomics.com/podcast/should-public-transit-be-free/
+18 https://www.boston.gov/sites/default/files/file/2022/03/Route28_Report_FINAL.pdf and
+https://www.boston.gov/sites/default/files/file/2023/03/Fare%20Free%20Mid%20Program%20Report.pdf
+14
+
+that may be served by both fare-free and regular fare bus routes, and for riders who may encounter both types of
+bus route across their travels. With each new fare-free route added, the challenge of communicating the bus fare
+structure to riders becomes increasingly difficult. And from a rider point-of-view, confusion can arise as to why
+they may be expected to pay on one route when they are not expected to pay on another. This undercuts the goal
+of a consistent rider experience across routes and poses challenges to enforcing fare collection on the routes that
+are not designated as fare-free.
+Termination of Temporary Fare Reductions
+As discussed in Section 2.3, the introduction of a new fare-free bus route is likely to “pass” an FTA-required equity
+analysis due to the demographic nature of bus ridership. Additional fare-free routes are also likely to be popular,
+especially if dedicated funding is provided. However, if the dedicated funding is not provided on a permanent basis
+and the fare-free service is planned to end, the actual termination of the program raises numerous challenges. As
+discussed in Section 2.3, any fare-free bus route that has run for more than 6 months must undergo and “pass” an
+equity analysis, be voted on and approved by the board, and be added to the MBTA tariff. The same steps are also
+required to end a fare-free bus program that has lasted more than 6 months. From an FTA regulatory perspective,
+the termination of a fare-free bus program is likely to be found to impose a disparate impact on riders of color
+and/or impose a disproportionate burden on riders with low-income and “fail” an equity analysis. Politically, it is
+difficult to remove a service feature that is popular to a segment of riders, no matter the cost of continuing to
+provide the feature. And from a rider experience and fare compliance perspective, the MBTA anticipates that it will
+be operationally challenging to reintroduce fares on a route that was previously fare-free and expect a high level of
+fare compliance.
+Each of these challenges remains unresolved. The City of Boston, for instance, has the funding necessary to fund
+the 23 / 28 / 29 program through February 2026. When this program must end, the MBTA may learn how realistic
+and feasible it is to reintroduce fares on routes which were fare-free.
+Role of the MBTA as a State Authority
+As a public state agency of the Commonwealth of Massachusetts and a provider of regional transit services, the
+MBTA seeks to not consider municipal boundaries in its provision of service and determination of fares. The T
+serves more than 170 cities and towns across its bus, subway, ferry, Commuter Rail, and paratransit services, and
+also overlaps with and connects to the service areas of multiple Regional Transit Authorities. The MBTA charges
+fares for each of its respective modes across multiple municipalities, and no fares are tied directly to municipal
+boundaries.19
+The MBTA’s Fare Policy20 is not tied to municipal boundaries to avoid issues of geographic inequity. The addition of
+more fare-free bus routes with prices potentially set by the coincidence of what municipalities they run through
+would erode this principle, and work against the greater regional mission of the MBTA as a state authority and
+regional transit provider.
+19 MBTA’s Commuter Rail pricing is distance-based. The City of Boston, for example, has some Commuter Rail
+stations far enough from the urban core that they fall outside of Zone 1A while neighboring cities such as
+Cambridge, Medford, Malden, and Chelsea have Commuter Rail stations close enough in to downtown that they
+are categorized as Zone 1A. Municipalities such as Newton, Quincy, and Braintree are home to light and heavy rail
+stations that charge subway fares as well as Commuter Rail stations that are far enough out to fall outside of Zone
+1A.
+20 MBTA Fare Policy, https://cdn.mbta.com/sites/default/files/2017-
+09/About%20the%20T/MBTAFarePolicy12_21_2015.pdf
+15
+
+2.6 MBTA Conclusion on Fare-Free Bus Pilot Feasibility
+In consideration of all the information provided above, it is the MBTA’s conclusion that:
+1. Systemwide fare-free bus service has the potential to provide several material benefits to riders,
+improving transit accessibility, increasing ridership, and reducing congestion; and
+2. Route-specific and limited-time fare-free bus “pilot programs” are unsustainable and not recommended
+by the Authority as an initiative to pursue.
+Route-specific pilot programs are geographically inequitable, difficult to communicate, and work against MBTA
+goals of providing equitable and consistent transportation across the Authority’s entire service area. The intended
+short-term nature of fixed-duration programs also generates challenges when the time comes for the programs to
+end, risking the creation of unfunded initiatives that remain costly beyond the programs’ intended sunset dates.
+Any future fare-free bus service expansions should be designed and implemented to serve the entire bus network,
+not limited to specific routes chosen on a municipality-by-municipality or similar basis. Additionally, given the cost
+of systemwide fare-free bus services (approximately $72 - $121 million per year) and the limited funding sources
+available to the MBTA, any additional expansions of fare-free bus service should be accompanied by permanent,
+dedicated funding that avoids the risk of leaving the MBTA with unfunded service commitments in the future.
+16
+
+3 Pilot Program Implementation Design
+As concluded in the previous section, the MBTA’s view is that limited route-specific fare-free bus programs are
+unsustainable and are not recommended as an initiative to pursue. Efforts to sponsor fare-free bus service, to the
+extent additional funding is available, are recommended to be applied on a systemwide basis.
+However, in the event additional fare-free bus routes are established, these programs could follow the template of
+the City of Boston’s program for bus Routes 23, 28, and 29 with respect to data collection and MBTA cost
+reimbursement.
+3.1 Data Collection and Cost Reimbursement
+All MBTA bus vehicles are equipped with legacy CharlieCard and cash fareboxes, new next-generation Charlie fare
+validators, GPS tracking, and additional data collection technologies. All but the oldest bus vehicles in the MBTA
+fleet are equipped with Automated Passenger Counters (APC) that use optical sensors to count and log vehicle
+boardings and alightings. Collectively, these technologies continuously track fare payments, passenger boardings,
+vehicle location, travel time, and other metrics.
+The MBTA is also continuously collecting records of all trips taken on The RIDE, including origin and destination,
+amount paid, and other data fields.
+The agreements between the City of Boston and the MBTA for fare-free service on Routes 23, 28, and 29 leverage
+this continuously collected data to calculate reimbursement payments from the City of Boston to the MBTA to
+sponsor fare-free travel. Historic farebox, transfer, and APC data was analyzed to calculate average $-per-boarding
+fare paid by passengers on the three respective bus routes. On the RIDE, a “baseline” of projected RIDE trips in the
+service areas of the three bus routes was established to project future RIDE usage assuming that fares continued
+to be charged.
+Building on these calculations, the MBTA bills the City of Boston each month for free trips provided on Routes 23,
+28, and 29, and for free RIDE service provided in the catchment area of the bus routes. These bills include the
+following cost categories:
+1) Bus Fare Revenue Loss: Free boardings by bus route (as measured by APCs) multiplied by the calculated
+historic average $ per boarding by bus route.
+2) RIDE Fare Revenue Loss: Standard ADA RIDE fares multiplied by the “baseline” expected RIDE trips
+provided fare-free in the affected service areas.
+3) RIDE Induced Operating Cost: Induced RIDE trips (actual trips minus baseline trips) multiplied by average
+RIDE trip length (in hours) and average $-per-hour marginal cost of providing RIDE service.
+4) Administration Costs: Fixed monthly cost of MBTA data analysis, processing, and other administrative
+expenses.
+Note that change in bus operating expenses for fare-free Routes 23, 28, and 29 are considered to be de minimis for
+those specific routes and are excluded from the City of Boston’s reimbursement payments.
+This data collection, cost calculation, and reimbursement approach could potentially serve as a template to be
+applied to other bus routes.
+In the event that a fare-free route crosses municipal boundaries and multiple municipalities wish to share the costs
+of that route, the MBTA could provide municipality-specific bus passenger boarding and RIDE data. This would
+allow each municipality to pay for the portion of trips along the route that start within its boundaries.
+17
+
+4 Potential Evaluative Criteria
+The Massachusetts FY 2025 Final Budget includes seven different “evaluative criteria for potential [fare-free] route
+selection,” listed below:
+(a) whether a municipality has identified a route for a fare free pilot program;
+(b) opportunities for increased ridership;
+(c) increased service accessibility to low-income individuals;
+(d) opportunities for increased reliability of on-time performance due to dual-door boarding;
+(e) potential cost savings arising from elimination of contracted farebox equipment and enforcement
+personnel;
+(f) opportunities to reduce or eliminate rider and driver altercations; and
+(g) geographic equity;21
+As detailed in Section 2.6, a conclusion of this report’s fare-free bus feasibility study is that it is the MBTA’s view is
+that limited route-specific fare-free bus programs are unsustainable and are not recommended as an initiative to
+pursue.
+However, if the MBTA were to pursue additional fare-free routes, the seven evaluative criteria listed above could
+potentially be informative to varying degrees. Other additional potential evaluative criteria include:
+a) Cost of providing fare-free service (e.g., along the four cost channels as described in Section 2.4); and
+b) Transfer behavior exhibited by riders (i.e., the likelihood that riders on a route will transfer to rapid transit
+or another bus route).
+Relevance of Evaluative Criteria to Systemwide Fare-Free Bus
+In addition to potentially informing fare-free route selection on a route-by-route basis, many of the proposed
+evaluative criteria could also potentially inform the merits of fare-free bus service on a systemwide basis. An
+analysis of the costs and benefits of fare-free bus service would be incomplete, for example, without
+acknowledgement of the cost of fare collection on bus vehicles.
+The following sub-sections explore and address the evaluative criteria that are relevant to the merits of fare-free
+bus on a systemwide level and explore the extent to which they are informative of such a policy.
+Opportunities for Increased Ridership
+A decrease in the price of bus transportation is expected to lead to greater demand for the service, and this is
+especially the case when a fare goes to zero. However, given the constrained resources available to public transit
+agencies such as the MBTA on both the capital and operating budgets, it is important to weigh the ridership
+benefits of fare-free bus service against the potential ridership benefits of spending the same funding in an
+alternative manner. While a thorough examination of the potential ridership benefits of alternative funding
+priorities is outside of the scope of the current study, it is well established that riders respond to other factors such
+as trip frequency, crowding, reliability, and transit facilities and amenities in addition to cost.22
+21 Massachusetts FY 2025 Final Budget at 1595-6369. https://malegislature.gov/Budget/FY2025/FinalBudget
+22 See, e.g., https://transitcenter.org/wp-content/uploads/2019/02/TC_WhosOnBoard_Final_digital-1-1.pdf
+document pages 49 – 63.
+18
+
+Increased Service Accessibility to Low-Income Individuals
+Potential fare-free bus policies do increase service accessibility for low-income individuals on bus trips that do not
+include transfers to rapid transit. However, such policies do not increase service accessibility for bus trips that do
+include transfers to rapid transit, or for public transit trips taken on any other mode. The MBTA prioritizes a
+“people-based” approach to fare affordability over a “location-based” or “mode-based” approach, favoring
+delivering fare reductions to riders as determined by their individual need rather than by the vehicle or route that
+they ride.
+The MBTA’s commitment to this approach is evidenced by the expansion of Reduced Fares to Income-Eligible
+riders that was launched in Fall 2024. This Reduced Fares expansion – alongside previously existing Reduced Fares
+for riders with disabilities, seniors, and students – provides riders at or below 200% of the Federal Poverty Level
+with credentials that provide discounts of at least 50% off full fare for all MBTA modes, including bus but also
+subway, commuter rail, and ferry. The 2024 expansion of Reduced Fares also applied to paratransit for the first
+time, providing Senior and Income-Eligible users of The RIDE with Reduced Fares on that mode.
+A “people-based” approach to fare affordability has the potential to deliver greater savings to the riders who need
+it most while maintaining a consistent and uniform fare structure across modes, allowing the savings to be utilized
+along the entirety of a rider’s journey, agnostic of the mode of travel.
+Opportunities for Increased Reliability of On-Time Performance Due to Dual-Door
+Boarding
+As described in Section 2.2, City of Boston research shows that fare-free bus service on Routes 23, 28, and 29
+resulted in minimal vehicle speed changes, as faster boarding and shorter dwells on fare-free routes were offset by
+more frequent stops and dwells.
+Additionally, the MBTA is in the process of moving to a new fare collection system that will significantly change the
+way riders interact with fare payment technology. Rather than all riders boarding at the front door of the bus and
+queuing to pay their fares one-at-a-time at a single farebox, the future system will include multiple fare readers
+mounted at each door, with all doors opening for passenger alightings and boardings at all stops. This future
+system also accepts contactless payments – eliminating some of the need to “top up” CharlieCards – and includes
+plans for an expansion of retail locations and curbside vending machines where riders can load cash onto fare
+media, allowing cash payment to move offboard of the vehicle. These fare collection technology improvements are
+designed to achieve all-door boarding and shorten dwells while still maintaining fare collection.
+Opportunities to Reduce or Eliminate Rider and Driver Altercations
+Another change planned alongside the MBTA’s move to all-door boarding (as discussed above) is a shift in the
+responsibility for fare enforcement from the bus operator to a new team of Fare Engagement Representatives.
+This will take drivers out of the business of enforcing fares, allowing them to focus on operating their vehicles
+without having to worry about rider payment. The Fare Engagement Representatives who will take over the role of
+encouraging fare compliance are trained in areas such as youth engagement, de-escalation tactics, and cultural
+sensitivity. While perhaps the primary benefit of the move to all-door boarding will be faster trip times and shorter
+dwells, this change in operator duties is also designed to reduce or eliminate rider and driver altercations and shift
+that risk to a dedicated team better trained and positioned to handle any potential conflicts.
+19
+
+Cost Savings from Elimination of Contracted Fare Collection Equipment and
+Enforcement Personnel
+In the very long-run, the elimination of fare collection from bus vehicles would result in material cost savings with
+respect to fare collection technology and equipment. However, due to the contractual structure of the MBTA’s fare
+collection technology and the agreements the Authority has with its vendors, stopping the collection of fares on
+buses would lead to only minimal fare savings in the near or medium terms. The MBTA has entered into
+contractual commitments for its fare collection vendors to install, operate, and maintain fare collection equipment
+at MBTA stations and on vehicles into the 2030s, with additional contractual measures in place to potentially
+continue the maintenance of this installed equipment even further into the future. Every light rail and bus vehicle
+in the MBTA fleet already has new validators installed. The costs to design the new system have also already been
+spent or are contractually committed to be spent. Uninstalling existing equipment or “pulling the plug” on a
+system that the MBTA has committed to pay to for would amount to throwing out the good after the bad with
+respect to the relationship between upfront costs and return on investment over time.
+Unlike the costs of the MBTA’s fare collection equipment, the cost of the new Fare Engagement Representatives
+slated to take over the responsibility for fare inspection and compliance are not “sunk.” A systemwide fare-free
+bus program would allow the Fare Engagement Representatives already hired to focus their efforts on the Green
+Line and would prevent the need for future Fare Engagement Representatives to be hired. A curtailment of future
+hiring of this manner could save the MBTA approximately $2.9 million per year for each 16-person cohort of Fare
+Engagement Representatives not hired in the future.
+20
+
+5 Community Advocacy Organization Consultation
+In preparing this report, MBTA staff members actively consulted with members of the community advocacy
+organizations listed below:
+• Action for Equity
+• Allston-Brighton Health Collaborative
+• Boston Center for Independent Living
+• Conservation Law Foundation (CLF)
+• Fenway Community Development Corporation
+• LivableStreets Alliance
+• Massachusetts Budget and Policy Center (MassBudget)
+• TransitMatters
+• Transportation for Massachusetts (T4MA)
+MBTA staff held three Community Advocacy Organization Consultation sessions to discuss this study, share
+updates, and solicit feedback. A rich variety of topics, concerns, and suggestions were raised by participants of
+these three consultation sessions. These points have either been addressed and incorporated23 into the previous
+sections of this report or are outside the scope24 of the present study. The MBTA is deeply appreciative of the time
+and effort of our partners in this work, and the staff thank them for the time and energy put into guiding this work
+product.
+23 E.g., addressing the cost of fare collection technology, or recommending methods for how municipalities could
+share the costs of a free route.
+24 E.g., addressing the climate impacts of fare-free bus, or determining where the funding could originate to
+support a fare-free system.
+21

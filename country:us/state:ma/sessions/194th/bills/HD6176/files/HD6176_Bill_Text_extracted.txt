@@ -1,0 +1,3898 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Annual Report on the Regional
+Transit Authority Performance
+Management Program
+Submitted Pursuant to the Massachusetts
+Budget Act of 2025 Chapter 140, Outside
+Section 230
+Prepared By:
+MassDOT Rail & Transit Division
+March 2026
+
+Table of Contents
+.................................................................................................................................................... 4
+EXECUTIVE SUMMARY
+RIDERSHIP PERFORMANCE TAKEAWAYS ................................................................................................................. 4
+FINANCIAL PERFORMANCE TAKEAWAYS ................................................................................................................. 5
+ASSET MANAGEMENT PERFORMANCE TAKEAWAYS ................................................................................................ 5
+SAFETY KEY TAKEAWAYS ....................................................................................................................................... 6
+CONCLUSIONS ...................................................................................................................................................... 6
+.................................................................................................................................................. 7
+LEGISLATIVE DIRECTIVE
+................................................................................................................................................ 8
+REPORT ORGANIZATION
+........................................................................................................... 9
+TRENDS IN RTA RIDERSHIP AND FINANCES
+RIDERSHIP TRENDS ................................................................................................................................................ 9
+FINANCIAL TRENDS .............................................................................................................................................. 11
+CONCLUSIONS .................................................................................................................................................... 14
+................................................................................................... 16
+DETAILED PERFORMANCE METRIC ANALYSIS
+UNLINKED PASSENGER TRIPS (UPT) .................................................................................................................... 16
+UPT / VEHICLE REVENUE MILE (VRM) ................................................................................................................ 19
+UPT / VEHICLE REVENUE HOUR (VRH) .............................................................................................................. 22
+ON-TIME PERFORMANCE (OTP) ........................................................................................................................ 25
+SCHEDULED TRIPS OPERATED (STO) .................................................................................................................. 28
+FAREBOX RECOVERY RATIO (FRR) ...................................................................................................................... 31
+OPERATING EXPENSES / VEHICLE REVENUE MILE (VRM) ..................................................................................... 34
+OPERATING EXPENSES / VEHICLE REVENUE HOUR (VRH) .................................................................................... 37
+OPERATING EXPENSES / UNLINKED PASSENGER TRIPS (UPT)............................................................................... 40
+............................................................................ 1
+ASSET MANAGEMENT PERFORMANCE METRIC ANALYSIS
+ROLLING STOCK .................................................................................................................................................... 1
+EQUIPMENT ........................................................................................................................................................... 4
+FACILITIES ............................................................................................................................................................. 6
+.......................................................................................................... 8
+SAFETY PERFORMANCE METRIC ANALYSIS
+FATALITIES ............................................................................................................................................................. 8
+INJURIES ................................................................................................................................................................ 8
+SAFETY EVENTS ..................................................................................................................................................... 9
+PREVENTABLE ACCIDENTS PER 100,000 VEHICLE REVENUE MILES (VRM)........................................................... 10
+........................................................................................................................................... 11
+SUMMARY & NEXT STEPS
+......................................................................................................................................................................... 1
+APPENDICES
+........................................................................................... 2
+APPENDIX A – RTA BACKGROUND INFORMATION
+REPORT BACKGROUND ........................................................................................................................................ 6
+PERFORMANCE ANALYSIS & REPORTING BACKGROUND ..................................................................................... 6
+
+................. 9
+APPENDIX B - PERFORMANCE MANAGEMENT PROGRAM HISTORY AND OPERATIONS
+MEMORANDA OF UNDERSTANDING ........................................................................................................................ 9
+PERFORMANCE DATA COLLECTION ...................................................................................................................... 11
+PERFORMANCE DATA ANALYSIS .......................................................................................................................... 11
+PERFORMANCE DATA REPORTING ........................................................................................................................ 12
+ASSET MANAGEMENT DATA COLLECTION & REPORTING ...................................................................................... 13
+SAFETY DATA COLLECTION & REPORTING ........................................................................................................... 14
+........................................................................................................................................... 16
+APPENDIX C - GLOSSARY
+.................................................................................................................................... 19
+APPENDIX D – RTA PROFILES
+BERKSHIRE REGIONAL TRANSIT AUTHORITY (BRTA) ............................................................................................ 20
+BROCKTON AREA TRANSIT AUTHORITY (BAT) .................................................................................................... 22
+CAPE ANN TRANSPORTATION AUTHORITY (CATA) ............................................................................................ 24
+CAPE COD REGIONAL TRANSIT AUTHORITY (CCRTA) ....................................................................................... 27
+FRANKLIN REGIONAL TRANSIT AUTHORITY (FRTA) .............................................................................................. 30
+GREATER ATTLEBORO-TAUNTON REGIONAL TRANSIT AUTHORITY (GATRA) ....................................................... 33
+LOWELL REGIONAL TRANSIT AUTHORITY (LRTA) ................................................................................................. 36
+MARTHA’S VINEYARD TRANSIT AUTHORITY (VTA) .............................................................................................. 38
+MERRIMACK VALLEY REGIONAL TRANSIT AUTHORITY (MEVA) ............................................................................ 40
+METROWEST REGIONAL TRANSIT AUTHORITY (MWRTA) ................................................................................... 42
+MONTACHUSETT REGIONAL TRANSIT AUTHORITY (MART) ............................................................... 44
+NANTUCKET REGIONAL TRANSIT AUTHORITY (NRTA) ......................................................................................... 47
+PIONEER VALLEY TRANSIT AUTHORITY (PVTA) .................................................................................................... 49
+SOUTHEASTERN REGIONAL TRANSIT AUTHORITY (SRTA) .................................................................................... 51
+WORCESTER REGIONAL TRANSIT AUTHORITY (WRTA) ....................................................................................... 53
+iii
+
+Executive Summary
+The Massachusetts Regional Transit Authorities (RTAs) achieved strong growth in FY25.
+These key performance takeaways demonstrate progress in ridership, financial health,
+asset management and safety.
+Ridership Performance Takeaways
+RTAs continue to build strong ridership, surpassing pre-pandemic unlinked passenger
+trips (28.9M in FY19) in FY25 with ridership of 32.7 million (Figure 1). RTAs worked hard to
+gain riders and improve rider experience, while expanding night and weekend service
+hours. Approximately half of the RTAs exceeded their
+pre-pandemic ridership, and several more RTAs
+came close to recovering to FY19 levels. Fourteen
+RTAs saw year over year ridership growth compared
+to FY241, and RTA ridership has now more than
+doubled since FY21.
+35.0 32.8
+28.9
+30.0 27.0
+25.0 23.0 22.5
+18.8 20.0
+13.8
+15.0
+10.0
+5.0
+-
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Figure 1. Systemwide, annual ridership totals from FY19 to FY25.
+Ridership has grown more quickly for fixed route service (Figure 2). At its lowest point at
+the start of the pandemic, RTAs lost approximately 80% of their ridership across modes. By
+then end of FY25, RTAs had regained most of
+this ridership for demand response service (10%
+less than FY19) and exceeded FY19 ridership by
+nearly 30% for fixed route service.
+1 CATA did not experience overall ridership growth in FY25 because of unusually high ridership in FY24. The high
+ridership in FY24 was partially attributable to an added shuttle service CATA ran for MBTA in FY24.
+4
+)TPU(
+spirT
+regnessaP
+deknilnU
+snoilliM
+RTAs exceeded pre-pandemic
+ridership for the first time in FY25:
+28.9M UPT (FY19) vs. 32.7M UPT (FY25)
+Total Annual Ridership
+Total RTA ridership across all modes has
+more than doubled since FY21.
+
+40.00%
+20.00%
+0.00%
+-20.00%
+-40.00%
+-60.00%
+-80.00%
+-100.00%
+Jul OctJanApr Jul OctJanApr Jul OctJanApr Jul OctJanApr Jul OctJanApr Jul OctJanApr
+2020 2021 2022 2023 2024 2025
+FR % Change from FY19 DR % Change from FY19
+Figure 2. Percent change in FY20-FY25 annual modal RTA ridership.
+Financial Performance Takeaways
+RTAs received significant increases in state funding in the past few years, including
+significant expansions from the Fair Share Tax, including one-time grants for both capital
+and operational expenses as well as service pilots. Since 2020, total funding provided to all
+RTAs through State Contract Assistance has nearly doubled from $87M to $160M. Service
+expansion from this funding has focused on later hours in the evenings and on weekends,
+as well as new routes connecting RTA service areas. RTAs also won multiple Federal
+grants, enhancing their ability to modernize
+fleets and facilities. Expansion of fare free
+Since 2020, total funding provided to all RTAs
+funding ($15M in FY24 to $30M in FY25) through State Contract Assistance has nearly
+produced a direct and expected negative doubled from $87M to $160M
+impact on farebox recovery ratios (FRR) while
+expanding access for low-income riders.
+Operating expenses per vehicle revenue mile increased in FY25, in line with national
+trends. While some RTAs met their performance targets overall, the group did not meet
+financial efficiency targets set for the FY25 year, and operational costs increased. In some
+cases, cost efficiency has suffered as ridership and service offerings have grown,
+necessitating new capital expenditures.
+Asset Management Performance Takeaways
+RTAs have continued to invest in the assets they own, maintaining good transit asset
+management practices. RTA assets are generally in a state of good repair, with progress
+being made toward fleet replacement goals and asset maintenance. RTA buses are
+5
+
+generally in a better state of repair than cutaways and service vehicles, and facilities were
+generally in a state of good repair. As ridership increases, the demand to expand or
+replace fleet vehicles may increase capital costs.
+Safety Key Takeaways
+In calendar 2024, RTAs targeted and achieved zero fatalities on RTA systems across all
+modes. RTAs continue to apply principles from FTA’s Public Transportation Agency Safety
+Plans (PTASP) to ensure risks mitigated to improve the safety of transit staff and riders.
+RTAs set and achieved a target of zero fatalities on RTA systems in CY2024.
+Conclusions
+RTA performance continued to show strong ridership growth and overall progress toward
+performance metrics across categories.
+•
+FY25 ridership metrics show strong growth and surpassed pre-pandemic levels
+for the first time. RTA ridership has more than doubled since FY21. This can be
+attributed to the RTAs’ efforts to boost ridership by providing efficient service and
+exploring pilot programs to offer fare free service through increased state funding.
+•
+The Commonwealth’s significant increase in funding enabled RTAs to expand
+service through new routes and more hours and increase financial accessibility
+of transit, improving ridership metrics. RTAs maximized funding to expand and
+extend hours of service to better meet the needs of their customers and attract
+additional “choice” riders. The increase in frequency, new routes and added
+weekend service RTAs provided also contributed to ridership growth.
+•
+RTAs have continued projects to decarbonize their fleets by purchasing low
+emission vehicles and upgrading their maintenance facilities to reduce
+emissions. MassDOT RTD has continued to support the RTAs on climate change
+goals through the Battery Electric Bus Phase II Study, which has assisted many RTAs
+in planning for and implementing electrification projects. RTAs proactively sought
+FTA’s Low/No Emissions Grant and Bus and Bus Facilities Grants to modernize their
+fleets and reduce carbon emissions.
+Over the last five years, the RTAs have continued to demonstrate steady, disciplined
+leadership and a willingness to maximize available resources and think creatively about
+how to provide the best possible services to their riders. The strong ridership growth in
+FY25 demonstrates the effectiveness of these efforts.
+6
+
+Legislative Directive
+The Massachusetts Department of Transportation (MassDOT) is submitting this report to
+the Massachusetts State Legislature in accordance with the requirements of the
+Commonwealth of Massachusetts Fiscal Year 2025 Budget Chapter 140 of the Acts of
+2024, Outside Section 230. The Act states that:
+The department may require each regional transit authority to provide data on ridership,
+customer service and satisfaction, asset management and financial performance,
+including farebox recovery, and shall include any such collected data in a report on the
+performance of regional transit authorities, detailing each authority’s progress towards
+meeting the performance metrics established in each memorandum of understanding.
+Since 2020, MassDOT and each of the Regional Transit Authorities (RTAs) have negotiated
+and executed five two-year term bilateral Memoranda of Understanding (MOU) since
+FY20. This report presents performance results for FY25, under the FY24-FY25 MOU. RTAs
+submit data regularly to MassDOT RTD for performance analysis.
+7
+
+Report Organization
+This report organizes the agreed upon metrics into two main categories: (1) key
+performance metrics and (2) annually reported metrics. The key performance metrics are
+common performance indicators frequently used
+by the transit industry to determine the health Table 6. Color coded formatting used
+and vitality of a transit system. These metrics are for the performance metric analysis.
+trackable over time and use data that is widely
+available to transit agencies. 2 3 Use of these
+metrics allows for comparisons and analyses to
+identify best practices and policies across the
+RTAs, enhancing peer learning across the
+Commonwealth. Trends can be better
+understood, both individually and statewide, and
+can point to which policies or initiatives helped
+increase ridership, reduced costs, and/or
+increased customer satisfaction. The
+Performance Metric Analysis section is organized
+in tables by metric and mode of operation (Fixed
+Route, Demand Response, Demand Taxi and
+Commuter Bus). Definitions of each metric are
+provided, as well as graphical representations of hour
+average RTA performance in relation to the
+identified targets. Summary text is included to
+highlight the key takeaways on overall RTA
+performance. Color-coded formatting of the value comparisons provides an easy
+reference for determining whether an RTA has met an identified target (Table 6).
+Individually, the annually reported metrics enable each RTA to tell their story through
+specific goals and values. By comparing an RTA’s progress to a self-identified target, each
+authority’s performance is directly tied to agency defined goals and to customer
+satisfaction.4 5 Each agency’s annual reported metrics are included in Appendix B – RTA
+2 International Transit Studies Program. 2010. Performance measures and outcomes. Transit Cooperative Research Program Synthesis 94. pgs.
+1-56.
+3Jenks, C.W. (n.d.). A summary of TCRP Report 88: A guidebook for developing a transit performance measurement system. Transit
+Cooperative Research Program. pgs. 1-24.
+4International Transit Studies Program. 2010. Performance measures and outcomes. Transit Cooperative Research Program Synthesis 94. pgs.
+1-56.
+5Jenks, C.W. (n.d.). A summary of TCRP Report 88: A guidebook for developing a transit performance measurement system. Transit
+Cooperative Research Program. pgs. 1-24.
+8
+
+Profiles. The additional performance metric data has been organized in a similar manner
+to the universal performance metrics.
+Trends in RTA Ridership and Finances
+Ridership Trends
+RTAs continue to build strong ridership as they recover from pandemic impacts on
+ridership, surpassing pre-pandemic ridership for the first time in FY25 (Figure 7).
+35.0 32.7
+28.9
+30.0
+27.0
+25.0 23.0 22.5
+18.8
+20.0
+13.8
+15.0
+10.0
+5.0
+-
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Figure 3. Systemwide annual ridership totals from FY19-FY25
+In FY25, ridership growth was driven in part by a continued increase in state operating
+assistance and the new funding received due to the Fair Share Act for free service. These
+two initiatives resulted in RTAs across the Commonwealth continuing to add new services
+and expand existing services, especially with service hours later into the nights and on
+weekends.
+Of note, in FY25, approximately half of the RTAs exceeded pre-pandemic (FY19) ridership
+levels (including BAT, BRA, FRTA, MeVa, NRTA, SRTA and WRTA). Several RTAs came close to
+recovering to FY19 levels, and fourteen RTAs saw year over year ridership growth
+compared to FY24. Figure 8 displays the percent change in annual modal RTA ridership
+relative to the pre-pandemic levels in FY19. At its lowest point at the start of the pandemic,
+RTA fixed route and demand response ridership dropped to approximately -77% and -78%
+9
+)TPU(
+spirT
+regnessaP
+deknilnU
+snoilliM
+Total FR and DR Ridership
+
+of FY19 ridership levels, respectively. At the close of FY25, demand response ridership
+rebounded to within approximately -10% of pre-pandemic numbers, and fixed route
+ridership exceeded pre-pandemic ridership by 29.5%.
+40.00%
+20.00%
+0.00%
+-20.00%
+-40.00%
+-60.00%
+-80.00%
+-100.00%
+Figure 4. Percent change in FY20-FY25 annual modal RTA ridership relative to pre-
+pandemic levels.
+Figure 9 and Figure 10 display the RTAs’ success in reaching their ridership targets in FY25.
+The RTAs continued a multi-year trend of success in reaching these targets, with thirteen
+out of fifteen RTAs exceeding their fixed route target, and thirteen out of fifteen exceeding
+their demand response target.
+10
+luJ tcO naJ rpA luJ tcO naJ rpA luJ tcO naJ rpA luJ tcO naJ rpA luJ tcO naJ rpA luJ tcO naJ rpA
+Percent Change Annual Modal Ridership
+2020 2021 2022 2023 2024 2025
+FR % Change from FY19 DR % Change from FY19
+Average Distance from Target (% Accumulation) Fixed Route UPT
+250.00% 229.07%
+216.10%
+204.38%
+200.00%
+165.96%
+155.77%
+147.13%
+150.00%
+108.50%
+99.48%
+89.92%
+100.00%
+39.30%
+50.00% 27.16%
+13.41%
+0.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+
+Figure 5. Average distance from target (percent accumulation) for fixed route ridership
+in FY25.
+Average Distance from Target (% Accumulation)
+UPT
+250.00%
+218.12%
+207.37%
+196.40%
+200.00%
+153.41%
+142.27%
+150.00% 132.33%
+90.57%
+100.00% 80.64%
+70.87%
+50.00% 29.73%
+19.83%
+9.97%
+0.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+Figure 6. Average distance from target (percent accumulation) for demand response
+ridership in FY25.
+Financial Trends
+RTAs have seen a significant increase in funding from Commonwealth sources since 2020,
+including an expansion of fare free funding. In FY25, state appropriations included $160M in
+funding for RTAs as state contract assistance, a significant increase from FY24 and
+continuation of an upward trend in RTA state funding.
+Starting in FY20, RTA fare revenues
+were dramatically impacted by the RTAs have seen a significant increase in funding
+from Commonwealth sources in the past few
+COVID-19 pandemic, and policy
+years, including an expansion of fare free funding.
+decisions have been made by both
+RTAs and MassDOT to address those
+impacts. Part of this expansion was a
+doubling of the funding available for fare free programs passed through the legislature -
+this has had a direct and expected impact on farebox recovery ratios (FRR) (Figure 11).
+11
+
+Average Fare Recovery Ratios
+14.00%
+12.00%
+10.00%
+8.00%
+6.00%
+4.00%
+2.00%
+0.00%
+Jul SepNov JanMarMay Jul SepNov JanMarMay Jul SepNov JanMarMay Jul SepNov JanMarMay
+FY22 FY23 FY24 FY25
+Average FR FRR Average DR FRR
+Figure 11. RTA Average Fixed Route & Demand Response FY23-FY25 FRR.
+SCA has increased in recent years, helping the RTAs offset lower fare revenue. The FY25
+state budget also included $30 million for fare free pilot programs – double the amount
+appropriated in FY24. This increase will spur continued gains in ridership. RTAs continue to
+pursue federal grants as well, to complement state funding sources. Multiple RTAs were
+awarded FFY25 funds (announced during FFY26) toward replacement vehicles and
+facilities (Table 7).
+Table 1: FTA Grants Received for Multiple Programs
+Agency Grant program Description Amount
+Berkshire Regional Low-No The Berkshire Regional Transit Authority will receive $5,381,341
+Transit Authority Emissions funding to buy new hybrid buses to replace older
+buses that have reached their useful life.
+Berkshire Regional Bus and Bus The Berkshire Regional Transit Authority (BRTA) will $3,000,000
+Transit Authority Facilities receive funding to rehabilitate its operations and
+maintenance facility.
+Lowell Regional Low-No The Lowell Regional Transit Authority will receive $7,158,564
+Transit Authority Emissions funding to purchase new hybrid buses to replace
+older buses that have reached their useful life.
+Merrimack Valley Low-No The Merrimack Valley Regional Transit Authority $7,194,360
+Regional Transit Emissions will receive funding to purchase new buses that
+Authority will augment its fleet and improve service.
+Pioneer Valley Bus and Bus The Pioneer Valley Transit Authority, serving 24 $4,475,955
+Transit Authority Facilities communities in Hampden and Hampshire
+Counties in Western Massachusetts, will receive
+funding to rehabilitate its Northampton bus
+garage.
+12
+
+The RTAs also took advantage of multiple grant programs in the state budget to
+implement new, innovative services, and continued to pursue competitive federal grant
+dollars (Table 8). Since the Education and Transportation Fund (ETF) funding became
+available through the state budgeting process, legislators have created several new or
+expanded transit grant programs using these funds, including those listed in the table
+below.
+Table 2 Massachusetts Grant Programs FY24-20256.
+Fiscal Year ETF-Funded Grant Program Total Eligible Amount Granted
+Amount Applicants to RTAs
+FY24 Regional Transit Innovation Grant $15M All transit $12,326,510
+providers
+FY24 Community Transit Grant Program Expansion $4M All transit $1,564,838
+providers
+FY25 Transit Connectivity Grant $10M RTAs only $10,000,000
+FY25 Community Transit Grant Program Expansion $4M All transit $1,690,686
+providers
+While the grant dollars are small compared to the SCA dollars, they play an important role.
+Grants offer RTAs the opportunity to expand and experiment, allowing RTAs to pilot new
+services that address gaps identified through customer requests and needs assessments,
+and to test new operational techniques to see if they can provide better outcomes by
+doing things a different way. Since grants offer RTAs the opportunity to do something
+special – outside of their usual operation – they often require a planning period after the
+grant is announced, before the new service hits the street.
+In FY25, multiple services funded and planned in FY24 were deployed, including the
+following:
+Table 9 RTA Pilot and Expansion Programs
+Fiscal Project Summary Amount
+Year Granted
+FY24 SRTA 9x Express A new express service between New Bedford and Fall River, $1,112,800
+connecting 2 cities within SRTA's service area for a faster ride than
+the regular route
+6 For more information on grant programs, please see https://www.mass.gov/info-details/funding-for-community-
+transportation
+13
+
+FY24 SRTA Microtransit A new microtransit pilot for local connections to South Coast $694,944
+Rail
+FY24 LRTA immigrant/refugee A new assistance program to enhance outreach to new non- $222,000
+ridership videos English speaking and underserved populations in the greater
+Lowell region – especially newly arrived immigrants - and aid
+their integration into the community. And the creation of
+accessible information through educational videos on existing
+transit services.
+FY24 FRTA Shutesbury & An expansion of FRTA Access areas and a new transportation $404,112
+Sunderland connection to Shutesbury that provides connections for the
+South County Senior Center to both the FRTA and PVTA service
+areas.
+FY24 MeVa Routes 11 & 14 An extension of the existing #14 fixed-route bus service $1,900,000
+connecting Lawrence with Haverhill via Route 125 in North
+Andover, and a new #11 fixed-route bus service to connect the
+cities of Lawrence, Methuen, and Haverhill with the City of
+Newburyport.
+FY24 PVTA Amherst Regional Transit Innovation Grant route that provides direct $188,008
+Greenfield Route connections from Amherst to Greenfield and adds fixed route
+service to Leverett. The route operates on weekdays with three
+round trips daily. Also includes a micro-transit service,
+connecting Individuals to Employment that provides trips
+outside the service area and connects individuals experiencing
+homelessness to employment with dedicated demand response
+trips.
+Conclusions
+The demographics of the RTAs’ customer base generally consists of durable riders who
+rely on mass transit daily for essential trips to work, the grocery store, medical and
+educational institutions. Coupled with a continued historic increase in the
+Commonwealth’s investment in RTAs, FY25 ridership metrics have surpassed pre-
+pandemic figures, showing robust growth. The Commonwealth’s sizeable increase in fare
+free funding also enabled the RTAs to expand the financial accessibility of transit services
+for all, supporting improved ridership metrics.
+Although RTAs face challenges due to rising costs of operations, they have continued to
+make progress toward their targets for efficiency and provide quality service to riders, with
+most meeting their scheduled trips operated goals. RTAs met their goal of zero deaths
+across all systems in the Commonwealth, a significant step toward reducing safety risks
+and enhancing risk mitigation using tools like the PTASP program. RTA assets are generally
+in a state of good repair, with progress being made toward fleet replacement goals and
+asset maintenance. RTA buses are generally in a better state of repair than cutaways and
+14
+
+service vehicles, and facilities were generally in a state of good repair. As ridership
+increases, the demand to expand or replace fleet vehicles may increase capital costs.
+In FY25, RTAs once again proved themselves to be adaptable and reliable in the face of
+changing norms and expectations around transit service. With the rising and uncertain
+nature of tariff impacts on vehicle procurements, RTAs worked together to mitigate the
+impacts of additional costs through including contingency funds in joint grant
+applications. RTAs have also continued to deploy more flexible transit services, such as
+varied vehicle sizes and microtransit services to complement traditional services. The RTA
+Transit Connectivity grant program provided in FY25 supported these efforts to expand
+service and provide more connectivity across systems.
+In addition, the RTAs have continued projects to decarbonize their fleets, purchasing low
+emission vehicles and upgrading their maintenance facilities to reduce emissions.
+MassDOT RTD has continued to support the RTAs on climate change goals through the
+Battery Electric Bus Phase II Study, which has assisted many RTAs in planning for and
+implementing electrification projects. The BEB Phase II Study will help each RTA execute
+strategies that best meet their unique needs, while supporting the Commonwealth’s
+climate change goals. RTAs proactively sought additional funding sources to modernize
+their fleets, continuing to prepare for future moves toward reducing carbon emissions
+through FTA’s Low/No Emissions Grant and Bus and Bus Facilities Grant programs.
+15
+
+Detailed Performance Metric Analysis
+Unlinked Passenger Trips (UPT)
+Unlinked Passenger Trips (UPT): this metric represents the total passenger boardings
+across an agency’s operations, no matter how many vehicles the person may have used
+to travel from origin to destination. UPT is critical to understanding ridership trends and
+travel demand. Because the target value for UPT is reported as accumulation (accum.)
+over the fiscal year, the year-to-date actual UPT values were compared against their
+respective target values. Those UPT values that were calculated to be less than 100% of
+the target value were formatted black, and those UPT values that were calculated to be
+more than 100% of the target value were formatted in green.
+FY25 Fixed Route Unlinked Passenger Trips (UPT) | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Accum.
+BAT 1,372,594 974,685 890,539 854,662 922,210 3,642,096 2,089,450 174.31%
+BRTA 419,635 154,908 139,338 137,574 181,588 613,408 509,232 120.46%
+CATA 181,151 34,114 31,940 40,733 46,923 153,710 190,320 80.76%
+CCRTA 449,598 231,323 129,757 97,362 135,526 593,968 488,403 121.61%
+FRTA 56,774 44,277 38,356 36,332 39,159 158,124 108,150 146.21%
+GATRA 383,375 124,194 138,471 130,725 134,666 528,056 644,619 81.92%
+LRTA 703,350 209,206 261,599 281,185 300,944 1,052,934 724,610 145.31%
+MART 297,794 107,940 134,114 130,199 131,151 503,404 429,908 117.10%
+MeVa 1,198,037 819,899 699,875 612,357 733,923 2,866,054 2,154,138 133.05%
+MWRTA 209,304 117,226 134,958 122,060 148,035 522,279 382,103 136.69%
+NRTA 226,951 244,247 44,790 21,431 123,938 434,406 262,097 165.74%
+PVTA 6,079,372 2,195,554 2,521,108 2,365,546 2,389,925 9,472,133 7,500,000 126.30%
+SRTA 2,016,128 949,963 983,902 924,398 993,592 3,851,855 2,305,452 167.08%
+VTA 772,214 523,308 144,721 106,244 353,435 1,127,708 815,000 138.37%
+WRTA 3,064,750 1,319,069 1,204,997 1,060,768 1,258,688 4,843,522 3,775,000 128.31%
+Average Distance from Target (% Accumulation) Fixed Route UPT
+250.00% 229.07%
+216.10%
+204.38%
+200.00%
+165.96%
+155.77%
+147.13%
+150.00%
+108.50%
+99.48%
+89.92%
+100.00%
+39.30%
+50.00% 27.16%
+13.41%
+0.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+16
+
+FY25 Demand Response Unlinked Passenger Trips (UPT) | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Accum.
+BAT 101,025 29,971 31,191 31,514 36,187 128,863 88,051 146.35%
+BRTA 15,465 7,349 7,723 8,399 8,852 32,323 22,950 140.84%
+CATA 36,402 15,217 13,674 13,669 14,393 56,953 38,245 148.92%
+CCRTA 154,109 52,448 53,707 53,859 57,853 217,867 167,956 129.72%
+FRTA 24,356 7,274 8,496 9,046 8,826 33,642 38,325 87.78%
+GATRA 214,179 70,682 71,659 72,110 74,544 288,995 367,312 78.68%
+LRTA 72,507 18,244 18,969 19,934 20,472 77,619 74,700 103.91%
+MART 227,029 72,150 77,223 77,256 77,398 304,027 252,074 120.61%
+MeVa 62,767 27,064 30,024 29,855 31,344 118,287 99,795 118.53%
+MWRTA 116,387 40,317 50,417 50,241 52,800 193,775 184,377 105.10%
+NRTA 1,254 1,332 1,353 1,450 1,459 5,594 2,503 223.49%
+PVTA 150,074 50,759 52,769 53,195 54,520 211,243 191,500 110.31%
+SRTA 83,014 29,766 30,686 30,458 33,424 124,334 92,325 134.67%
+VTA 7,976 2,469 2,675 2,645 2,490 10,279 8,100 126.90%
+WRTA 97,779 37,532 38,173 38,435 39,295 153,435 143,000 107.30%
+Average Distance from Target (% Accumulation)
+UPT
+250.00%
+218.12%
+207.37%
+196.40%
+200.00%
+153.41%
+142.27%
+150.00% 132.33%
+90.57%
+100.00% 80.64%
+70.87%
+50.00% 29.73%
+19.83%
+9.97%
+0.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+FY25 Demand Taxi Unlinked Passenger Trips (UPT) | 2 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Accum.
+MART 233,948 78,694 80,289 80,234 88,341 327,558 317,490 103.17%
+WRTA 43,494 17,901 18,995 17,755 19,885 74,536 53,000 141.63%
+17
+
+RTAs were very successful in reaching their ridership targets by the close of the fiscal year,
+continuing positive trends from the last three years. Thirteen out of 15 systems exceeded
+their fixed route target for UPT, and thirteen out of 15 exceeded their demand response
+target. Ridership has now surpassed pre-pandemic baselines across most RTAs.
+Fixed Route UPT Actual vs. Target
+10,000,000
+9,000,000
+8,000,000
+7,000,000
+6,000,000
+5,000,000
+4,000,000
+3,000,000
+2,000,000
+1,000,000
+0
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+Demand Response UPT Actual vs. Target
+400,000
+350,000
+300,000
+250,000
+200,000
+150,000
+100,000
+50,000
+0
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+18
+
+UPT / Vehicle Revenue Mile (VRM)
+Unlinked Passenger Trips per Revenue Mile (UPT / VRM): This metric is a measure of
+productivity and is helpful to understand ridership activity on a per mile basis and is
+calculated by dividing the total number of revenue miles (the total number of miles a
+vehicle is in revenue service) into the total UPT. Systems that operate longer mileage
+routes in less dense, rural environments typically perform well on a per mile basis. The
+actual and target values were compared by calculating the % difference (variance) of
+the actual versus the milestone/target. The calculated values were formatted black for
+negative variance and green for positive variance.
+FY25 Fixed Route UPT/VRM | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+BAT 1.22 2.60 2.32 2.30 2.52 2.43 1.51 61.07%
+BRTA 0.47 0.67 0.64 0.63 0.79 0.68 0.55 24.38%
+CATA 0.46 0.51 0.47 0.56 0.61 0.54 0.51 6.12%
+CCRTA 0.27 0.39 0.30 0.23 0.29 0.31 0.28 11.16%
+FRTA 0.18 0.38 0.32 0.29 0.31 0.32 0.26 23.45%
+GATRA 0.34 0.37 0.48 0.41 0.39 0.41 0.58 -29.42%
+LRTA 0.64 0.71 0.89 0.94 0.99 0.89 0.69 28.27%
+MART 0.36 0.32 0.49 0.46 0.44 0.42 0.47 -10.29%
+MeVa 0.84 1.85 1.57 1.40 1.65 1.62 1.52 6.19%
+MWRTA 0.21 0.35 0.39 0.35 0.41 0.38 0.38 -1.88%
+NRTA 0.72 1.57 0.65 0.32 0.94 1.03 0.85 20.89%
+PVTA 1.29 1.92 1.88 1.78 1.78 1.84 1.45 26.75%
+SRTA 1.21 2.27 2.33 2.03 2.19 2.20 1.53 44.43%
+VTA 0.79 1.29 0.68 0.53 0.98 0.96 0.85 12.47%
+WRTA 1.52 2.54 2.35 2.04 2.40 2.33 1.75 33.25%
+Average Distance from Target (% Accumulation) Fixed Route UPT
+250.00% 229.07%
+216.10%
+204.38%
+200.00%
+165.96%
+155.77%
+147.13%
+150.00%
+108.50%
+99.48%
+89.92%
+100.00%
+39.30%
+50.00% 27.16%
+13.41%
+0.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+19
+
+FY25 Demand Response UPT/VRM | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+BAT 0.22 0.23 0.23 0.23 0.24 0.23 0.23 1.26%
+BRTA 0.11 0.10 0.10 0.10 0.10 0.10 0.10 2.04%
+CATA 0.19 0.24 0.23 0.24 0.23 0.23 0.23 1.14%
+CCRTA 0.14 0.14 0.16 0.16 0.16 0.16 0.15 4.24%
+FRTA 0.12 0.10 0.11 0.13 0.12 0.12 0.18 -34.92%
+GATRA 0.14 0.14 0.14 0.13 0.13 0.14 0.20 -31.86%
+LRTA 0.17 0.19 0.18 0.18 0.18 0.18 0.19 -4.84%
+MART 0.14 0.15 0.16 0.16 0.15 0.15 0.21 -26.83%
+MeVa 0.10 0.10 0.11 0.11 0.11 0.11 0.11 -4.24%
+MWRTA 0.15 0.14 0.16 0.16 0.16 0.16 0.20 -20.39%
+NRTA 0.16 0.25 0.31 0.33 0.30 0.30 0.21 40.49%
+PVTA 0.09 0.10 0.10 0.10 0.09 0.10 0.10 0.98%
+SRTA 0.13 0.13 0.13 0.14 0.13 0.13 0.13 0.10%
+VTA 0.12 0.14 0.16 0.17 0.14 0.15 0.16 -5.12%
+WRTA 0.14 0.15 0.16 0.16 0.16 0.16 0.15 4.05%
+Average Distance from Demand Response Target (% Variation)
+UPT/VRM
+0.00%
+-1.00%
+-0.80% -0.60%
+-2.00% -1.12%
+-3.00%
+-2.83%
+-4.00%
+-3.87%
+-5.00% -4.24%
+-4.51%
+-6.00%
+-7.00% -6.24% -6.04%
+-8.00%
+-9.00% -8.06% -7.88%
+-8.89%
+-10.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+FY25 Demand Taxi UPT/VRM | 2 RTAs Reporting
+0.08 0.07 0.07 0.07 0.07 0.07 0.11 -39.02%
+MART
+0.00 0.16 0.16 0.16 0.17 0.16 0.15 7.82%
+WRTA
+Fixed route productivity in relation to vehicle revenue miles operated displays typical
+seasonal trends in ridership behavior. Average productivity increased at the beginning of
+Q2, with the arrival of college students on campus, but then decreased in the later part of
+Q2 and Q3, attributed to seasonal decreases in ridership due to colder months and
+inclement weather. Despite these trends, twelve of the fifteen RTAs exceeded their fixed
+route targets for UPT/VRM. Demand response productivity is more elastic than fixed route,
+but also more relative as it is dependent on trip length.
+20
+
+Demand Response UPT/VRM Actual vs. Target
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+Fixed Route UPT/VRM Actual vs. Target
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+21
+
+UPT / Vehicle Revenue Hour (VRH)
+Unlinked Passenger Trips per Revenue Hour (UPT / VRH): This metric is a measure of
+productivity and is helpful to understand how intense ridership activity is on a per unit of
+time basis and is calculated by dividing the total number of revenue hours (the total
+number of hours a vehicle is in revenue service) into the UPT. Systems that operate shorter
+mileage routes in more compact, urban environments typically perform well on a per hour
+basis. The actual and target values were compared by calculating the % difference
+(variance) of the actual against the milestone/target value, formatted black for
+negative variance and green for positive variance.
+FY25 Fixed Route UPT/VRH | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+BAT 15.79 26.41 23.19 23.06 25.25 24.46 17.53 39.54%
+BRTA 8.22 12.30 11.76 11.48 14.40 12.51 10.41 20.18%
+CATA 6.15 7.44 7.48 9.03 9.62 8.43 6.46 30.42%
+CCRTA 5.09 6.97 5.48 4.13 4.68 5.43 5.32 1.97%
+FRTA 4.06 10.12 8.65 8.09 8.54 8.84 6.67 32.59%
+GATRA 6.29 7.49 7.14 6.74 6.37 6.90 10.61 -34.97%
+LRTA 9.31 10.62 13.43 14.11 3.50 7.26 10.10 -28.17%
+MART 5.72 5.77 8.55 8.19 8.05 7.56 7.67 -1.49%
+MeVa 9.28 21.08 18.96 16.81 19.91 19.22 16.95 13.37%
+MWRTA 2.96 4.76 5.44 4.86 5.56 5.16 5.46 -5.42%
+NRTA 7.92 15.44 6.15 4.34 9.33 10.51 9.16 14.76%
+PVTA 17.65 28.54 29.15 28.27 28.51 28.62 22.00 30.10%
+SRTA 15.99 27.33 27.99 25.33 27.43 27.01 25.98 3.96%
+VTA 12.62 20.86 12.01 8.97 16.16 15.92 12.00 32.64%
+WRTA 17.96 30.66 28.85 25.16 30.19 28.72 21.50 33.58%
+Average Distance from Fixed Route Target (% Variation)
+UPT/VRH
+30.00% 27.87%
+25.00% 22.30%
+20.63% 21.21% 21.35%
+18.51%
+20.00%
+15.07%
+15.00%
+11.19%
+9.43%
+10.00%
+5.00%
+1.41%
+0.00%
+-0.72%
+-5.00%
+-3.70%
+-10.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+22
+
+FY25 Demand Response UPT/VRH | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+BAT 1.98 2.14 2.05 1.84 1.96 1.99 2.32 -14.38%
+BRTA 1.01 1.31 1.36 1.39 1.43 1.37 1.23 11.63%
+CATA 2.66 3.49 3.59 3.59 3.30 3.49 2.90 20.29%
+CCRTA 1.75 2.18 1.96 2.09 2.26 2.12 1.89 12.00%
+FRTA 1.60 1.63 1.73 1.85 1.72 1.74 2.63 -33.91%
+GATRA 1.78 1.70 1.73 2.02 2.05 1.87 2.76 -32.43%
+LRTA 2.21 2.52 2.54 2.51 2.30 2.46 2.28 7.90%
+MART 2.27 2.43 2.66 2.57 2.48 2.53 2.68 -5.54%
+MeVa 1.65 1.72 1.85 1.79 1.81 1.79 1.91 -6.13%
+MWRTA 1.91 1.87 2.25 2.21 2.25 2.15 2.49 -13.72%
+NRTA 1.48 1.43 1.53 1.53 1.49 1.49 1.58 -5.44%
+PVTA 1.36 1.53 1.51 1.48 1.52 1.51 1.40 7.64%
+SRTA 2.04 2.08 2.11 2.06 2.09 2.08 1.95 6.93%
+VTA 1.66 1.85 2.10 2.31 2.04 2.07 1.80 14.79%
+WRTA 2.12 2.36 2.46 2.43 2.43 2.42 2.35 2.97%
+Average Distance from Demand Response Target (% Variation)
+UPT/VRH
+1.51%
+2.00%
+1.02%
+1.00% 0.19% 0.46%
+0.00%
+-1.00% -0.18%
+-0.74%
+-2.00% -1.35%
+-1.97%
+-3.00%
+-2.55%
+-4.00%
+-5.00%
+-4.54%
+-4.99%
+-6.00%
+-7.00% -6.21%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+FY25 Demand Taxi UPT/VRH | 2 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+MART 3.34 1.52 1.72 1.65 1.57 1.61 3.55 -54.62%
+WRTA 0.00 2.31 2.24 2.31 2.34 2.30 2.30 0.05%
+Fixed route productivity in relation to vehicle revenue hours closely mirrored expected
+trends in overall seasonal ridership. Demand response productivity was, as in recent years,
+more elastic in its variability than fixed route. The lack of predictable, consistent trip length
+in terms of both miles and hours is the main driving force behind this variability. Eleven of
+the fifteen RTAs met or exceeded their fixed route UPT/VRH targets.
+23
+
+Fixed Route UPT/VRH Actual vs. Target
+35.00
+30.00
+25.00
+20.00
+15.00
+10.00
+5.00
+0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+Demand Response UPT/VRH Actual vs. Target
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+24
+
+On-Time Performance (OTP)
+On-time Performance: This metric is defined as the percentage of time that a transit
+vehicle arrives at a stop or other location within a prescribed time range of its schedule
+and helps to convey how vehicles meet their scheduled time points on routes. OTP is a
+reliability and service quality measure that helps to assess the passenger’s day-to-day
+experience with a transit agency. The actual and target OTP values were compared by
+calculating the percent difference (variance) between the two values. Black values
+indicate on-time performance values that are lower than the target value while green
+values indicate on-time performance values that are higher than the target value.
+FY25 Fixed Route OTP | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+BAT 99.75% 99.36% 98.98% 99.73% 99.38% 99.36% 98.75% 0.61%
+BRTA 80.84% 83.27% 80.90% 84.57% 81.53% 82.57% 83.00% -0.43%
+CATA 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+CCRTA 89.69% 88.07% 90.97% 93.57% 90.23% 90.71% 90.20% 0.51%
+FRTA 0.00% 97.35% 97.16% 96.94% 95.68% 96.79% 90.00% 6.79%
+GATRA7 0.00% 0.00% 0.00% 28.00%* 81.00% 27.25%* 90.00% -62.75%*
+LRTA 87.64% 96.20% 95.13% 95.10% 93.57% 95.00% 87.64% 7.36%
+MART 0.00% 98.65% 98.67% 99.49% 99.97% 99.20% 98.00% 1.20%
+MeVa 78.75% 72.57% 67.53% 75.50% 73.50% 72.28% 80.00% -7.73%
+MWRTA 0.00% 98.67% 99.00% 98.00% 97.67% 98.33% 97.00% 1.33%
+NRTA 97.08% 93.33% 96.33% 93.33% 92.00% 93.75% 100.00% -6.25%
+PVTA 75.03% 67.67% 69.70% 71.00% 70.31% 69.67% 75.00% -5.33%
+SRTA 84.04% 89.67% 87.67% 91.00% 89.00% 89.33% 85.00% 4.33%
+VTA 96.50% 93.33% 98.17% 98.33% 88.67% 94.63% 88.00% 6.63%
+WRTA 79.83% 50.87% 51.23% 56.03% 60.83% 54.74% 79.80% -25.06%
+Average Distance from Fixed Route Target (% Difference)
+OTP
+0.50% 0.14%
+0.00%
+-0.50%
+-0.48%
+-1.00%
+-1.50% -1.18% -1.17% -1.22%
+-2.00%
+-1.81%
+-2.50% -2.11% -2.02%
+-2.33%
+-2.50%
+-3.00%
+-2.82%
+-3.50%
+-4.00% -3.58%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+7 GATRA’s Fixed Route AVL system was out of commission for the entirety of FY24 and will resume in FY25. GATRA’s Demand Response AVL
+system was out of commission through Q1 and Q2 but resumed in Q3.
+25
+
+FY25 Demand Response OTP | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+BAT 90.09% 92.13% 92.40% 94.43% 93.39% 93.09% 90.00% 3.09%
+BRTA 94.59% 90.17% 89.70% 90.23% 91.33% 90.36% 94.70% -4.34%
+CATA 100.00% 100.00% 93.67% 94.67% 94.67% 95.75% 100.00% -4.25%
+CCRTA 93.34% 91.68% 93.84% 97.07% 93.54% 94.03% 93.90% 0.13%
+FRTA 88.67% 92.03% 91.88% 91.70% 92.94% 92.14% 90.00% 2.14%
+GATRA 97.58% 94.67% 96.12% 97.32% 95.42% 95.88% 90.00% 5.88%
+LRTA 95.39% 94.77% 95.13% 96.04% 96.63% 95.64% 95.39% 0.26%
+MART 98.79% 82.35% 81.25% 80.65% 82.97% 81.80% 98.00% -16.20%
+MeVa 97.50% 95.67% 94.28% 95.17% 94.37% 94.87% 95.00% -0.13%
+MWRTA 97.10% 96.33% 94.33% 96.33% 96.17% 95.79% 97.00% -1.21%
+NRTA 99.67% 95.33% 92.67% 84.67% 65.67% 84.58% 100.00% -15.42%
+PVTA 95.25% 96.27% 97.03% 97.60% 97.15% 97.01% 95.00% 2.01%
+SRTA 95.47% 94.67% 95.33% 96.33% 95.33% 95.42% 98.00% -2.58%
+VTA 91.48% 81.00% 83.27% 85.43% 82.73% 83.11% 91.00% -7.89%
+WRTA 89.17% 88.67% 89.00% 89.67% 89.00% 89.08% 90.00% -0.92%
+Average Distance from Demand Response Target (% Difference)
+OTP
+0.00%
+-0.50%
+-1.00%
+-1.50%
+-2.00%
+-1.74%
+-2.50% -2.17%
+-3.00% -2.54% -2.51% -2.57%
+-2.86%
+-3.50% -3.14%
+-4.00%
+-3.77%
+-4.50% -4.22% -4.16%
+-4.40%
+-5.00%
+-4.75%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+FY25 Demand Taxi OTP | 2 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+MART 0.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+WRTA 84.75% 91.00% 88.33% 88.00% 89.00% 89.08% 86.00% 3.08%
+Fixed route and demand response on time performance declined in FY25, with fixed route
+OTP dropping more than 2% below the target for many months and particularly dropping
+in March, possibly due to weather impacts. Demand response OTP showed a similar
+decline in performance from last year. Notably, GATRA’s OTP data was collected for the
+first time starting in March 2025, resulting in a very low overall performance due to missing
+data and not reflective of their actual OTP.
+26
+
+Fixed Route OTP Actual vs. Target
+100.00%
+90.00%
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+Demand Response OTP Actual vs. Target
+100.00%
+90.00%
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+27
+
+Scheduled Trips Operated (STO)
+Schedule Trips Operated: STO is defined as the percentage of trips from the pre-
+determined system schedule that are completed by the operator. For fixed routes, a
+scheduled trip is a single trip that is identified for a certain route. Each route makes
+multiple trips per day, based on the schedule. For demand response, a scheduled trip is
+one booked by a qualifying customer and is based on the specified pick-up and drop-off
+location. STO is a reliability and service quality measure that helps to assess the
+passenger’s day-to-day experience with a transit agency. The actual and target STO
+values were compared by calculating the percent difference (variance) between the two
+values. Black values indicate OTP values that are lower than the target value while
+green values indicate OTP values that are higher than the target value.
+FY25 Fixed Route STO | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+BAT 99.98% 99.99% 99.97% 100.00% 99.98% 99.99% 99.90% 0.09%
+BRTA 99.85% 99.53% 98.95% 97.36% 98.64% 98.62% 99.85% -1.23%
+CATA 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+CCRTA 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+FRTA 80.20% 86.95% 91.34% 93.65% 93.76% 91.42% 95.00% -3.58%
+GATRA 98.63% 100.00% 99.99% 99.97% 99.94% 99.98% 100.00% -0.02%
+LRTA 99.85% 99.83% 99.99% 100.00% 100.00% 99.95% 99.85% 0.10%
+MART 100.00% 100.00% 99.43% 99.70% 100.00% 99.78% 100.00% -0.22%
+MeVa 99.46% 99.89% 99.87% 99.92% 99.86% 99.89% 96.00% 3.88%
+MWRTA 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 97.00% 2.00%
+NRTA 99.92% 100.00% 99.67% 100.00% 100.00% 99.92% 100.00% -0.08%
+PVTA 99.89% 99.85% 99.90% 99.90% 99.95% 99.90% 100.00% -0.10%
+SRTA 99.49% 99.90% 99.43% 99.78% 99.79% 99.72% 99.00% 0.72%
+VTA 86.78% 90.67% 97.97% 99.27% 90.33% 94.56% 87.50% 7.06%
+WRTA 98.75% 98.75% 99.05% 99.68% 99.75% 99.31% 99.00% 0.31%
+Average Distance from Fixed Route Target (% Difference)
+STO
+1.13%
+1.20%
+1.04%
+1.00%
+1.00% 0.85% 0.85%
+0.80% 0.69% 0.70%
+0.60%
+0.60%
+0.41%
+0.40%
+0.20%
+0.03%
+0.00%
+-0.20% -0.06% -0.10%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+28
+
+FY25 Demand Response STO | 15 RTAs Reporting
+RTA Baseline Q1 Q2 Q3 Q4 Actual Target Variance
+BAT 99.99% 100.00% 100.00% 100.00% 100.00% 100.00% 99.99% 0.01%
+BRTA 97.58% 98.02% 97.46% 97.88% 98.11% 97.87% 97.60% 0.27%
+CATA 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+CCRTA 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+FRTA 90.44% 93.07% 93.10% 92.87% 93.42% 93.12% 92.50% 0.61%
+GATRA 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+LRTA 99.98% 100.00% 100.00% 100.00% 100.00% 100.00% 99.98% 0.02%
+MART 97.43% 96.13% 95.20% 95.07% 95.63% 95.51% 98.00% -2.49%
+MeVa 95.18% 93.18% 92.34% 91.07% 91.67% 92.07% 96.50% -4.43%
+MWRTA 99.85% 99.00% 99.00% 99.00% 99.00% 99.00% 97.00% 2.00%
+NRTA 99.83% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+PVTA 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+SRTA 99.66% 99.55% 99.62% 99.72% 99.74% 99.66% 99.90% -0.24%
+VTA 98.00% 81.33% 80.00% 79.07% 81.90% 80.58% 95.50% -14.93%
+WRTA 100.00% 99.98% 99.97% 99.99% 99.98% 99.98% 99.99% -0.01%
+Average Distance from Demand Response Target (% Difference)
+STO
+0.00%
+-0.50%
+-1.00% -0.79%
+-1.01%
+-1.07%
+-1.19% -1.14% -1.16% -1.12% -1.22%
+-1.50% -1.34%
+-1.66%
+-1.73%
+-2.00%
+-1.92%
+-2.50%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+FY25 Demand Taxi STO | 15 RTAs Reporting
+MART 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+WRTA 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+29
+
+For FY25, the average percentage of scheduled trips operated for fixed route service
+consistently exceeded the monthly targets. Most RTAs met their annual targets, and
+those that did not exceed their targets missed by an average of about 1%. Potential
+reasons for a trip not to run as scheduled include maintenance issues or inclement
+weather.
+Fixed Route STO Actuals vs. Target
+100.00%
+90.00%
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+Demand Response STO Actuals vs. Target
+100.00%
+90.00%
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+30
+
+Farebox Recovery Ratio (FRR)
+Farebox Recovery Ratio (FRR): This metric relays the proportion of operating expenses
+that are paid for by fare revenues and is a measure of cost effectiveness. Nearly all transit
+agencies’ farebox recovery ratios are well under 100%, as other revenue streams in
+addition to fares are used to cover operations costs. The actual and target FRR values
+were compared by calculating the percent difference (variance) between the two values.
+Black values indicate farebox recovery ratios that are lower than the target value while
+green values indicate farebox recovery ratios that are higher than the target value.
+FY25 Fixed Route FRR | 15 RTAs Reporting
+RTA Baseline Actual Target Variance
+BAT 13.39% 0.00% 14.46% -14.46%
+BRTA 7.10% 3.35% 8.32% -4.97%
+CATA 2.56% 2.31% 8.41% -6.10%
+CCRTA 5.91% 2.35% 4.85% -2.50%
+FRTA 0.03% 0.00% 0.00% 0.00%
+GATRA 5.90% 5.09% 6.20% -1.11%
+LRTA 8.91% 3.33% 9.10% -5.77%
+MART 7.44% 4.25% 12.00% -7.75%
+MeVa 3.38% 0.00% 0.00% 0.00%
+MWRTA 0.00% 0.16% 6.00% -5.84%
+NRTA 23.22% 0.00% 25.00% -25.00%
+PVTA 10.00% 4.58% 11.50% -6.92%
+SRTA 8.77% 0.00% 8.08% -8.08%
+VTA 29.71% 12.87% 29.15% -16.28%
+WRTA 0.00% 0.00% 0.00% 0.00%
+Average Distance from Fixed Route Target (% Difference)
+FRR
+0.00%
+-1.00%
+-2.00%
+-3.00%
+-4.00%
+-5.00% -4.23%
+-4.89%
+-6.00%
+-5.59% -5.54%
+-7.00%
+-6.80%
+-8.00%
+-7.58%
+-9.00% -8.38% -8.32%
+-8.91% -8.77% -8.66% -8.59%
+-10.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+31
+
+FY25 Demand Response FRR | 15 RTAs Reporting
+RTA Baseline Actual Target Variance
+BAT 23.76% 23.62% 24.62% -1.00%
+BRTA 6.45% 1.99% 6.64% -4.65%
+CATA 5.43% 4.07% 5.75% -1.68%
+CCRTA 5.78% 6.94% 7.44% -0.51%
+FRTA 4.08% 3.98% 4.46% -0.48%
+GATRA 4.13% 4.55% 4.35% 0.20%
+LRTA 3.55% 1.12% 3.57% -2.45%
+MART 20.32% 26.17% 21.25% 4.92%
+MeVa 3.76% 0.00% 0.00% 0.00%
+MWRTA 0.02% -0.07% 4.00% -4.07%
+NRTA 0.55% 0.00% 2.30% -2.30%
+PVTA 6.84% 0.79% 6.80% -6.01%
+SRTA 3.60% 0.00% 2.77% -2.77%
+VTA 20.94% 0.95% 7.25% -6.30%
+WRTA 0.00% 0.70% 0.00% 0.70%
+Average Distance from Demand Response Target (% Difference)
+FRR
+0.50%
+0.05%
+0.00%
+-0.50%
+-0.66%
+-1.00%
+-0.99%
+-1.10%
+-1.50%
+-1.54%
+-2.00%
+-2.00%
+-2.13% -2.14%
+-2.50%
+-2.42% -2.39%
+-2.55% -2.59%
+-3.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+FY25 Demand Taxi FRR | 2 RTAs Reporting
+RTA Baseline Actual Target Variance
+MART 0.68% 0.72% 0.82% -0.10%
+WRTA 0.00% 0.00% 0.00% 0.00%
+While farebox recovery ratio has been considered a consistent indicator of the financial
+health of a given system, it is important to note that FY25 continued a trend of significant
+increases in state funding to the RTAs for expanded fare free service. The drop in FRR in
+32
+
+FY25 can be directly attributed to the continuation of pilot fare free operations and the
+RTAs subsequently collecting fewer fares. While not all RTAs will offer fare free service
+year-round or systemwide, and some still include fares for premium services like micro
+transit and service beyond ADA requirements, the use of this metric to measure financial
+health is impacted by the expansion of fare free services and will become less reliable in
+FY26 when all systems are required by legislative mandate to operate fare free service
+year-round subject to appropriations.
+Fixed Route FRR Actuals vs. Target
+25.00%
+20.00%
+15.00%
+10.00%
+5.00%
+0.00%
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+Demand Respone FRR Actual vs. Target
+30.00%
+25.00%
+20.00%
+15.00%
+10.00%
+5.00%
+0.00%
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+33
+
+Operating Expenses / Vehicle Revenue Mile (VRM)
+Operating Expense per Vehicle Revenue Mile: This metric is a cost efficiency measure
+that gives context to operational efficiency on a per mile basis and is calculated by
+dividing the total number of revenue miles (the total number of miles a vehicle is in
+revenue service) into the total operating cost for a given mode of operations for a specific
+agency. Systems that operate longer mileage routes in less dense, rural environments
+typically perform well on a per mile basis. The actual and target values were compared by
+calculating the % difference (variance), formatted black for positive variance and green
+for negative variance.
+FY25 Fixed Route OPEX/VRM | 15 RTAs Reporting
+RTA Baseline Actual Target Variance
+BAT $10.11 $11.07 $10.44 6.04%
+BRTA $7.64 $7.48 $8.18 -8.51%
+CATA $8.11 $9.19 $11.48 -19.91%
+CCRTA $4.44 $6.56 $5.32 23.31%
+FRTA $5.01 $6.38 $4.97 28.56%
+GATRA $5.97 $6.94 $7.08 -1.97%
+LRTA $7.57 $9.08 $9.41 -3.56%
+MART $8.44 $5.66 $7.28 -22.24%
+MeVa $10.12 $11.93 $16.31 -26.84%
+MWRTA $5.52 $6.48 $6.84 -5.17%
+NRTA $7.52 $9.96 $8.07 23.48%
+PVTA $8.45 $8.71 $8.30 4.93%
+SRTA $10.22 $12.36 $11.25 9.87%
+VTA $5.48 $6.24 $6.05 3.09%
+WRTA $11.21 $13.03 $12.78 1.94%
+Average Distance from Fixed Route Target (% Variation)
+OPEX/VRM
+30.00%
+25.61%
+25.00% 22.85%
+21.53%
+20.39%
+20.00% 17.90%
+16.94%
+14.29% 13.95%
+15.00% 12.57%
+11.70% 11.40%
+10.00% 7.18%
+5.00%
+0.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+34
+
+FY25 Demand Response OPEX/VRM | 15 RTAs Reporting
+RTA Baseline Actual Target Variance
+BAT $7.65 $8.34 $7.36 13.37%
+BRTA $4.81 $6.04 $5.14 17.43%
+CATA $5.24 $5.52 $5.53 -0.15%
+CCRTA $6.02 $5.44 $6.38 -14.80%
+FRTA $6.35 $6.72 $6.29 6.82%
+GATRA $5.93 $5.40 $5.44 -0.70%
+LRTA $5.03 $5.76 $5.88 -1.96%
+MART $6.55 $6.27 $6.08 3.13%
+MeVa $3.40 $4.21 $4.14 1.78%
+MWRTA $6.92 $6.77 $8.25 -18.01%
+NRTA $17.41 $19.07 $12.86 48.32%
+PVTA $4.28 $4.70 $4.98 -5.56%
+SRTA $8.06 $9.02 $10.03 -10.06%
+VTA $8.38 $10.46 $8.50 23.10%
+WRTA $8.44 $7.49 $8.12 -7.75%
+Average Distance from Demand Response Target (% Variation)
+OPEX/VRM
+10.00%
+8.78% 8.67%
+7.52%
+8.00% 6.94%
+5.55%
+6.00% 5.06% 5.14%
+3.73%
+4.00%
+2.49%
+2.00% 1.32%
+0.00%
+-0.62%
+-2.00%
+-1.53%
+-4.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+FY25 Demand Taxi OPEX/VRM | 2 RTAs Reporting
+RTA Baseline Actual Target Variance
+MART $2.73 $3.07 $3.15 -2.48%
+WRTA $2.26 $2.57 $2.32 10.86%
+RTA performance declined for operating expenses per vehicle revenue mile in FY25,
+reflecting a larger national trend toward increases in many basic costs, including
+transit service, as well as service expansion. While some RTAs met their performance
+benchmarks, overall, the group did not meet targets set in FY23 for FY25 and show
+35
+
+increased costs of operation. Demand response costs vary more by month to month than
+fixed route costs, but most of the year saw increases in operational costs.
+Fixed Route OPEX/VRM Actuals vs. Target
+$14.00
+$12.00
+$10.00
+$8.00
+$6.00
+$4.00
+$2.00
+$0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+Demand Response OPEX/VRM Actuals vs. Target
+$25.00
+$20.00
+$15.00
+$10.00
+$5.00
+$0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+36
+
+Operating Expenses / Vehicle Revenue Hour (VRH)
+Operating Expense per Vehicle Revenue Hour: This metric is a cost efficiency measure
+and helps to understand operational efficiency on a per hour basis and is calculated by
+dividing the total number of revenue hours (the total number of hours a vehicle is in
+revenue service) into the total operating cost for a given mode of operations for a specific
+agency. Systems that operate shorter mileage routes in more compact, urban
+environments typically perform well on a per hour basis. The actual and target values
+were compared by calculating their % difference (variance), formatted black for positive
+variance and green for negative variance.
+FY25 Fixed Route OPEX/VRH | 15 RTAs Reporting
+RTA Baseline Actual Target Variance
+BAT $131.40 $111.34 $109.85 1.36%
+BRTA $134.39 $136.87 $153.61 -10.90%
+CATA $109.28 $143.13 $117.00 22.33%
+CCRTA $84.45 $114.70 $101.45 13.06%
+FRTA $112.73 $174.19 $122.70 41.96%
+GATRA $110.75 $116.96 $128.76 -9.16%
+LRTA $110.98 $74.39 $143.50 -48.16%
+MART $133.10 $101.06 $113.54 -10.99%
+MeVa $112.06 $141.77 $73.13 93.86%
+MWRTA $77.49 $89.00 $97.37 -8.60%
+NRTA $82.38 $101.94 $87.55 16.44%
+PVTA $116.10 $135.64 $115.28 17.66%
+SRTA $134.66 $151.54 $142.15 6.61%
+VTA $87.98 $103.85 $97.10 6.95%
+WRTA $132.68 $160.43 $156.09 2.78%
+Average Distance from Fixed Route Target (% Variation)
+OPEX/VRH
+25.00%
+22.39%
+19.45% 18.98%
+20.00%
+17.05%
+15.33%
+15.00% 13.28%
+11.32%
+10.76%
+9.72%
+10.00% 8.69%
+6.95%
+5.00% 3.33%
+0.00%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+37
+
+FY25 Demand Response OPEX/VRH | 15 RTAs Reporting
+RTA Baseline Actual Target Variance
+BAT $68.98 $71.17 $76.03 -6.39%
+BRTA $45.67 $81.22 $63.38 28.15%
+CATA $74.75 $82.81 $79.43 4.25%
+CCRTA $75.55 $73.59 $78.21 -5.90%
+FRTA $87.51 $100.32 $95.10 5.49%
+GATRA $75.17 $73.92 $74.95 -1.38%
+LRTA $66.98 $78.45 $76.76 2.20%
+MART $102.67 $103.31 $102.54 0.75%
+MeVa $58.28 $70.14 $70.32 -0.26%
+MWRTA $88.25 $93.41 $105.11 -11.13%
+NRTA $163.18 $96.60 $98.83 -2.26%
+PVTA $63.34 $73.88 $73.07 1.10%
+SRTA $128.98 $143.05 $153.63 -6.89%
+VTA $120.02 $142.41 $126.00 13.02%
+WRTA $128.15 $116.19 $124.57 -6.72%
+Average Distance from Demand Response Target (% Variation)
+OPEX/VRH
+6.00% 5.29%
+5.05%
+5.00%
+3.84%
+4.00%
+3.00%
+1.92% 2.01%
+1.72%
+2.00% 1.48%
+1.08%
+1.00%
+0.00%
+-1.00%
+-0.45%
+-2.00% -1.12%
+-3.00% -2.35% -2.30%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+FY25 Demand Taxi OPEX/VRH | 2 RTAs Reporting
+RTA Baseline Actual Target Variance
+MART $113.95 $73.79 $131.45 -43.87%
+WRTA $32.90 $36.55 $33.98 7.55%
+Across both fixed route and demand response service, RTAs had difficulty meeting targets
+for operating expenses per vehicle revenue hour. As seen in other metrics, the costs of
+operations have increased in recent years as labor prices increase, and inflation impacts
+the costs of many services.
+38
+
+Fixed Route OPEX/VRH Actuals vs. Target
+$180.00
+$160.00
+$140.00
+$120.00
+$100.00
+$80.00
+$60.00
+$40.00
+$20.00
+$0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+Demand Response OPEX/VRH Actuals vs. Target
+$180.00
+$160.00
+$140.00
+$120.00
+$100.00
+$80.00
+$60.00
+$40.00
+$20.00
+$0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+39
+
+Operating Expenses / Unlinked Passenger Trips (UPT)
+Operating Expense per Unlinked Passenger Trip: This metric is a cost efficiency measure
+and helps to understand operational efficiency on a per passenger basis and is
+calculated by dividing the total number of revenue hours (the total number of hours a
+vehicle is in revenue service) into the total operating cost for a given mode of operations
+for a specific agency. The actual and target values were compared by calculating their %
+difference (variance), formatted black for positive variance and green for negative
+variance.
+FY25 Fixed Route OPEX/UPT | 15 RTAs Reporting
+RTA Baseline Actual Target Variance
+BAT $8.32 $4.55 $6.66 -31.65%
+BRTA $16.35 $10.94 $14.76 -25.88%
+CATA $17.78 $16.99 $27.30 -37.77%
+CCRTA $16.60 $21.13 $19.06 10.86%
+FRTA $27.75 $19.70 $19.30 2.09%
+GATRA $17.42 $16.95 $12.14 39.65%
+LRTA $11.92 $10.25 $12.37 -17.11%
+MART $23.29 $13.37 $18.49 -27.69%
+MeVa $12.08 $7.38 $41.99 -82.43%
+MWRTA $26.17 $17.24 $17.84 -3.36%
+NRTA $10.40 $9.70 $9.55 1.54%
+PVTA $6.58 $4.74 $5.67 -16.42%
+SRTA $8.42 $5.61 $7.70 -27.12%
+VTA $6.97 $6.52 $10.80 -39.59%
+WRTA $7.39 $5.59 $7.28 -23.24%
+Average Distance from Target (% Variation)
+OPEX/UPT
+30.00% 26.90%
+20.00% 16.39%
+13.89%
+10.00% 4.51%
+0.00%
+-10.00%
+-7.85%
+-10.21%
+-20.00% -15.30%
+-17.24% -18.09% -17.91%
+-30.00% -25.60% -25.93%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+40
+
+FY25 Demand Response OPEX/UPT | 15 RTAs Reporting
+RTA Baseline Actual Target Variance
+BAT $34.90 $35.83 $32.94 8.76%
+BRTA $45.44 $59.16 $51.62 14.60%
+CATA $28.14 $23.74 $29.63 -19.89%
+CCRTA $43.23 $34.77 $41.46 -16.15%
+FRTA $54.88 $57.83 $38.03 52.06%
+GATRA $41.32 $39.64 $27.11 46.21%
+LRTA $30.37 $31.89 $35.61 -10.46%
+MART $45.19 $40.81 $44.24 -7.75%
+MeVa $35.40 $39.12 $38.17 2.49%
+MWRTA $46.20 $43.45 $42.19 3.00%
+NRTA $110.22 $64.65 $62.70 3.11%
+PVTA $46.48 $49.02 $52.15 -5.99%
+SRTA $63.10 $68.63 $76.35 -10.11%
+VTA $72.24 $68.93 $76.00 -9.31%
+WRTA $60.38 $48.02 $52.92 -9.26%
+Average Distance from Target (% Difference)
+OPEX/UPT
+9.39%
+10.00%
+7.71%
+8.00% 7.19%
+6.12%
+6.00%
+4.74%
+4.00%
+2.81%
+2.19% 2.11%
+2.00%
+0.09%
+0.00%
+-0.48%
+-2.00% -1.11% -1.23%
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+FY25 Demand Taxi OPEX/UPT | 2 RTAs Reporting
+RTA Baseline Actual Target Variance
+MART $34.09 $45.80 $37.21 23.09%
+WRTA $15.17 $15.90 $14.75 7.80%
+Unlike the previous metric, increased ridership from new and expanded service resulted in
+RTAs continuing to hit their targets - eleven of fifteen RTAs met or exceeded their
+operating expenses per unlinked passenger trip target. Fixed route was more impacted
+41
+
+by seasonal ridership changes as RTAs kept service on the road despite lower ridership in
+the winter months, whereas demand response once again showed consistent variability
+from month to month.
+Fixed Route OPEX/UPT Actual vs. Target
+$25.00
+$20.00
+$15.00
+$10.00
+$5.00
+$0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+Demand Response OPEX/UPT Actual vs. Target
+$90.00
+$80.00
+$70.00
+$60.00
+$50.00
+$40.00
+$30.00
+$20.00
+$10.00
+$0.00
+BAT BRTA CATA CCRTA FRTA GATRA LRTA MART MeVa MWRTA NRTA PVTA SRTA VTA WRTA
+Actual Target
+42
+
+Asset Management Performance Metric Analysis
+Rolling Stock
+Rolling Stock: Revenue transit vehicles include vehicles such as buses, vans, cars,
+railcars, locomotives, trolley cars and buses, and ferry boats.8 On average, RTA rolling
+stock fleets consist of buses, cutaways, vans, and minivans. RTA rolling stock fleets
+are generally in a state of good repair (SGR), despite RTA reported delays in vehicle
+deliveries because of pandemic related supply shortages. With a few exceptions,
+most of the reported rolling stock that is beyond useful life is under 30%. Lower
+performance percentages are representative of a better SGR. Based on the FY25
+performance, RTAs should prioritize capital replacement of cutaway, bus, and van
+fleets.
+Rolling Stock: Bus (BU) | 14 RTAs Reporting Bus (BU): A rubber-tired
+FY25 passenger vehicle
+FY25 Target
+RTA Performance Difference
+(%) powered by diesel,
+(%)
+gasoline, battery, or
+BAT 12.06% 12.96% -0.90%
+alternative fuel engines
+BRTA 9.09% 10.00% -0.91%
+CATA 30.00% 36.00% -6.00% contained within the
+CCRTA vehicle. Vehicles in this
+28.57% 28.57% 0.00%
+category do not include
+FRTA* 0.00% 0% 0.00%
+GATRA 8.33% 36.11% -27.78% school buses or
+LRTA 0.00% 13.64% -13.64% cutaways.9
+MART 10.00% 11.11% -1.11%
+MeVa 0.00% 0.00% 0.00%
+MWRTA**
+NRTA 37.50% 62.50% -25.00%
+PVTA 30.00% 28.00% 2.00%
+SRTA 25.00% 14.49% 10.51%
+VTA 17.00% 6.52% 10.48%
+WRTA 27.27% 39.62% -12.35%
+*FRTA’s targets are representative of the MassDOT Group TAM Plan, which includes FRTA and
+the Mashpee Wampanoag Tribe. The Tribe does not submit asset data until April, so the
+current performance is reflective of FRTA’s assets only.
+**MWRTA Does not operate buses and therefore does not have data for this category.
+8 National Transit Database (NTD) Glossary (https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary)
+9 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting. Pgs. 1-
+296.
+1
+
+Cutaway (CU): A transit vehicle that Rolling Stock: Cutaway (CU) | 14 RTAs Reporting
+is built on a van or truck chassis by a FY25
+FY25 Target
+RTA Performance Difference
+second stage manufacturer. The (%)
+(%)
+chassis is purchased by the body
+BAT 25.00% 25.00% 0.00%
+builder, a framework is built for the
+BRTA 23.08% 37.04% -13.96%
+body, and then the body is finished CATA 17.00% 29.00% -12.00%
+for a complete vehicle. For example, CCRTA 0.00% 0.00% 0.00%
+FRTA* 14.00% 0.00% 14.00%
+a truck chassis may be used as the
+GATRA 3.23% 4.81% -1.58%
+base for a small transit bus.10
+LRTA 39.58% 47.92% -8.34%
+MART 10.00% 18.57% -8.57%
+MeVa 0.00% 10.00% -10.00%
+MWRTA 29.20% 42.99% -13.79%
+NRTA
+PVTA 80.00% 74.00% 6.00%
+SRTA 25.00% 50.00% -25.00%
+VTA 100.00% 100.00% 0.00%
+WRTA 12.28% 35.09% -22.81%
+Minivan (MV): A light duty vehicle having a typical seating capacity of up to seven
+passengers plus a driver. A minivan is smaller, lower, and more streamlined than a
+full-sized van, but it is typically taller and has a higher floor than a passenger car.
+Minivans normally cannot accommodate standing passengers.11
+Rolling Stock: Minivan (MV) | 4 RTAs Reporting
+FY25
+FY25 Target
+RTA Performance Difference
+(%)
+(%)
+BAT
+BRTA
+CATA
+CCRTA 0.00% 12.50% -12.50%
+FRTA* 0.00% 0.00% 0.00%
+GATRA
+LRTA 50.00% 33.33% 16.67%
+MART
+MeVa
+MWRTA
+NRTA
+PVTA
+SRTA
+VTA 0.00% 100.00% -100.00%
+WRTA
+10 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting. Pgs. 1-
+296.
+11 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting. Pgs. 1-
+296.
+2
+
+Van (VN): An enclosed vehicle
+Rolling Stock: Van (VN) | 6 RTAs Reporting
+having a typical seating capacity
+FY25
+FY25 Target
+of eight to eighteen passengers RTA Performance Difference
+(%)
+and a driver. A van is typically (%)
+taller and with a higher floor than BAT 39.62% 37.74% 1.88%
+BRTA
+a passenger car, such as a
+CATA
+hatchback or station wagon. Vans
+CCRTA 0.00% 0.00% 0.00%
+normally cannot accommodate FRTA* 68.00% 92.30% 68.00%
+standing passengers.12 GATRA
+LRTA
+MART
+MeVa
+MWRTA 0.00% 0.00% 0.00%
+NRTA 50.00% 100.00% -50.00%
+PVTA
+SRTA
+VTA 100.00% 33.33% 66.67%
+WRTA
+Automobile (AO): A passenger car up
+Rolling Stock: Automobile (AO) | 1 RTA Reporting
+to and including station wagons in size.
+FY25 FY25
+Excludes minivans and anything
+RTA Target Performance Difference
+(%) (%) larger.13
+BAT
+BRTA
+CATA
+CCRTA
+FRTA*
+GATRA
+LRTA
+MART
+MeVa
+MWRTA 100.00% 100.00% 0.00%
+NRTA
+PVTA
+SRTA
+VTA
+WRTA
+12 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting.
+Pgs. 1-296.
+13 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting.
+Pgs. 1-296.
+3
+
+Articulated Bus (AB): An extra-long (54 ft. to 60 ft.) bus with two connected
+passenger compartments. The rear body section is connected to the main body by a
+joint mechanism that allows the vehicles to bend when in operation for sharp turns
+and curves and yet have a continuous interior.14
+Rolling Stock: Articulated Bus (AB) | 1 RTA
+Reporting
+FY25 FY25
+RTA Target Performance Difference
+(%) (%)
+BAT
+BRTA
+CATA
+CCRTA
+FRTA*
+GATRA
+LRTA
+MART
+MeVa
+MWRTA
+NRTA
+PVTA 0.00% 100% -100%
+SRTA
+VTA
+WRTA
+Equipment
+Equipment: Non-revenue support service vehicles such as automobiles, trucks, or
+steel wheel vehicles used by supervisors or maintenance staff.15 On average, RTA
+support fleets consist of automobiles, trucks, and other rubber tile vehicles. With a
+few exceptions, most of the reported automobile equipment that is beyond useful life
+is over 50%. Trucks and other rubber tire vehicle equipment are slightly in a better
+state of good repair (SGR), though nearly half of this equipment is beyond useful life
+of over 30%. Support fleet SGR performance ranges between 0% and 100% beyond the
+useful life benchmark. Lower performance percentages are representative of a
+better SGR. Based on the FY25 performance, RTAs should prioritize capital
+replacement of service automobiles.
+14 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting.
+Pgs. 1-296.
+15 National Transit Database (NTD) Glossary (https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary)
+4
+
+Notes: FRTA’s targets are representative of the MassDOT Group TAM Plan, which includes FRTA
+and the Mashpee Wampanoag Tribe. The Tribe does not submit asset data until April, so the
+current performance is reflective of FRTA’s assets only.
+Automobiles: Passenger cars, including station wagons. Excludes SUVs (crossovers
+and traditional SUVs), vans, minivans, and pickup trucks.16
+Trucks and Other Rubber Tire Vehicles: A self-propelled motor vehicle designed for
+the transportation of property or special purpose equipment or passengers. This
+vehicle category includes heavy-duty rubber-tired vehicles as well as pickup trucks,
+vans, SUVs (crossovers and traditional SUVs), and minivans.17
+Equipment: Trucks and Other Rubber Tire
+Equipment: Automobiles | 14 RTAs Reporting
+Vehicles | 14 RTAs Reporting
+FY25 FY25 FY25
+FY25
+RTA Performan Difference RTA Target Performan Difference
+Target (%)
+ce (%) (%) ce (%)
+BAT 100.00% 100.00% 0.00% BAT 33.33% 37.50% -4.17%
+BRTA 100.00% 100.00% 0.00% BRTA 81.80% 84.62% -2.82%
+CATA CATA 75.00% 75.00% 0.00%
+CCRTA 0.00% 0.00% 0.00% CCRTA 0.00% 0.00% 0.00%
+FRTA* 0.00% 100.00% 0.00% FRTA* 25.00% 14.28% 25.00%
+GATRA 0.00% 20.00% -20.00% GATRA 42.86% 14.29% 28.57%
+LRTA 50.00% 33.33% 16.67% LRTA 22.22% 12.50% 9.72%
+MART MART 12.00% 16.13% -4.13%
+MeVa 100.00% 100.00% 0.00% MeVa 100.00% 100.00% 0.00%
+MWRTA MWRTA 40.00% 35.71% 4.29%
+NRTA 50.00% 100.00% -50.00% NRTA 0.00% 50.00% -50.00%
+PVTA 50.00% 76.00% -26.00% PVTA 50.00% 67.00% -17.00%
+SRTA 50.00% 100.00% -50.00% SRTA 50.00% 35.00% 15.00%
+VTA 0.00% 71.43% -71.43% VTA
+WRTA 0.00% 0.00% 0.00% WRTA 75.00% 87.50% -12.50%
+16 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting.
+Pgs. 1-296.
+17 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting.
+Pgs. 1-296.
+5
+
+Facilities
+Facilities: All passenger facilities used in revenue service as well as administrative
+and maintenance facilities for which the agency has a capital responsibility.18 While
+all RTAs have at least one administrative and/or maintenance facility, not all RTAs
+have a stand-alone passenger facility. RTA facilities are generally in a SGR. With two
+exceptions, all reported facilities are above 3.0 on the TERM Scale. Lower performance
+percentages are representative of a better SGR.
+Notes: FRTA’s targets are representative of the MassDOT Group TAM Plan, which includes FRTA
+and the Mashpee Wampanoag Tribe. The Tribe does not submit asset data until April, so the
+current performance is reflective of FRTA’s assets only.
+Passenger / Parking Facilities: Passenger and parking facilities that passengers use
+in revenue service. Parking facilities include park & ride lots as well as parking
+garages and are immediately adjacent to passenger facilities.19
+Facilities: Passenger / Parking Facilities | 11 RTAs
+Reporting
+FY25 FY25
+RTA Target Performance Difference
+(%) (%)
+BAT 0.00% 0.00% 0.00%
+BRTA 0.00% 0.00% 0.00%
+CATA
+CCRTA 0.00% 0.00% 0.00%
+FRTA*
+GATRA 0.00% 0.00% 0.00%
+LRTA 0.00% 0.00% 0.00%
+MART 0.00% 0.00% 0.00%
+MeVa 0.00% 0.00% 0.00%
+MWRTA
+NRTA
+PVTA 80.00% 20.00% 60.00%
+SRTA 0.00% 0.00% 0.00%
+VTA 0.00% 0.00% 0.00%
+WRTA 0.00% 0.00% 0.00%
+Administrative / Maintenance Facilities: Facilities that house the administrative
+offices owned by a transit agency and/or are those where routine maintenance and
+repairs, heavy maintenance or unit rebuilds are conducted. Administrative facilities
+also include separate buildings for customer information or ticket sales that are not
+18 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting.
+Pgs. 1-296.
+19 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting.
+Pgs. 1-296.
+6
+
+part of passenger stations. Administrative and maintenance facilities are reportable
+only if the agency has capital responsibility and transit use is more than incidental.20
+Facilities: Administrative / Maintenance Facilities | 15
+RTAs Reporting
+FY25
+FY25 Target
+RTA Performance Difference
+(%)
+(%)
+BAT 0.00% 0.00% 0.00%
+BRTA 0.00% 0.00% 0.00%
+CATA 0.00% 0.00% 0.00%
+CCRTA 0.00% 0.00% 0.00%
+FRTA* 0.00% 0.00% 0.00%
+GATRA 0.00% 0.00% 0.00%
+LRTA 0.00% 0.00% 0.00%
+MART 0.00% 0.00% 0.00%
+MeVa 0.00% 0.00% 0.00%
+MWRTA 0.00% 0.00% 0.00%
+NRTA 0.00% 0.00% 0.00%
+PVTA 80.00% 20.00% 60.00%
+SRTA 0.00% 50.00% -50.00%
+VTA 0.00% 0.00% 0.00%
+WRTA 0.00% 0.00% 0.00%
+20 Federal Transit Administration Office of Budget and Policy. 2020. National Transit Database 2020 Policy Manual: Full Reporting.
+Pgs. 1-296.
+7
+
+Safety Performance Metric Analysis
+Fatalities
+Fatalities: A reportable event that occurs at a transit revenue facility, maintenance
+facility, or rail yard, on transit right-of-way or infrastructure during a transit-related
+maintenance activity; or involves a transit revenue vehicle that results in a fatality.21
+Fatalities that occur because of illnesses, drug overdoses, or other natural causes
+are not reportable.22 In CY2024, all RTAs set targets of zero fatalities on their
+systems, and all met their targets of eliminating fatalities.
+Injuries
+Injuries: A reportable event that occurs at a transit revenue facility, maintenance
+facility, or rail yard, on transit right-of-way or infrastructure during a transit-related
+maintenance activity; or involves a transit revenue vehicle that results in any
+damage or harm to persons that requires immediate medical attention away from
+the scene. Illnesses (e.g., seizure, heart attack) that require immediate medical
+attention away from the scene are not reportable.23 The vast majority of RTAs CY2024
+performance met goals of reducing injuries below even targeted reductions.
+Note: This metric is only reported by Section 5307 recipient RTAs. PVTA assigns targets and
+reports this metric systemwide and not by mode; MeVa does not have a rate target.
+CY24 Fixed Route Injuries CY24 Demand Response Injuries
+RTA Target Actual % Variance RTA Target Actual % Variance
+BAT 10 2 -80.00% BAT 4 0 -100.00%
+BRTA 4 0 -100.00% BRTA 0 0 0.00%
+CATA 1 0 -100.00% CATA 1 0 -100.00%
+CCRTA 8 0 -100.00% CCRTA 4 0 -100.00%
+GATRA 3 0 -100.00% GATRA 2 4 100.00%
+LRTA 3 0 -100.00% LRTA 1 0 -100.00%
+MART 5 2 -60.00% MART 4 0 -100.00%
+MeVa 4 1 -75.00% MeVa 3 0 -100.00%
+MWRTA 9 0 -100.00% MWRTA 7 0 -100.00%
+PVTA 16 PVTA 0
+SRTA 8 4 -50.00% SRTA 1 0 -100.00%
+WRTA 20 2 -90.00% WRTA 4 0 -100.00%
+21 FTA Office of Budget and Policy. February 2024. National Transit Database: Safety & Security Policy Manual.
+(https://www.transit.dot.gov/sites/fta.dot.gov/files/2024-02/2024-Safety-and-Security-Policy-Manual_1-0.pdf)
+22 FTA Office of Budget and Policy. February 2024. National Transit Database: Safety & Security Policy Manual.
+(https://www.transit.dot.gov/sites/fta.dot.gov/files/2024-02/2024-Safety-and-Security-Policy-Manual_1-0.pdf)
+23 FTA Office of Budget and Policy. February 2024. National Transit Database: Safety & Security Policy Manual.
+(https://www.transit.dot.gov/sites/fta.dot.gov/files/2024-02/2024-Safety-and-Security-Policy-Manual_1-0.pdf)
+8
+
+CY24 Demand Response Injury Rate (per 1M
+CY24 Fixed Route Injury Rate (per 1M VRM)
+VRM)
+RTA Target Actual % Variance RTA Target Actual % Variance
+BAT 7.60 2.84 -62.67% BAT 5.90 0.00 -100.00%
+BRTA 4.20 0.00 -100.00% BRTA 0.00 0.00 0.00%
+CATA 0.50 0.00 -100.00% CATA 0.50 0.00 -100.00%
+CCRTA 0.60 0.00 -100.00% CCRTA 0.10 0.00 -100.00%
+GATRA 2.60 0.00 -100.00% GATRA 1.10 2.02 83.91%
+LRTA 1.50 0.00 -100.00% LRTA 3.00 0.00 -100.00%
+MART 1.67 1.14 -31.63% MART 1.33 0.00 -100.00%
+MeVa 0.80 MeVa 0.00
+MWRTA 1.00 0.00 -100.00% MWRTA 1.00 0.00 -100.00%
+PVTA 3.21 PVTA 0.00
+SRTA 5.20 2.40 -53.83% SRTA 1.90 0.00 -100.00%
+WRTA 2.10 0.97 -53.75% WRTA 0.80 0.00 -100.00%
+Safety Events
+Safety Events: A reportable event that occurs at a transit revenue facility,
+maintenance facility, or rail yard, on transit right-of-way or infrastructure during a
+transit-related maintenance activity; or involves a transit revenue vehicle that is
+inclusive of the following event types24:
+•
+Collisions (i.e., an impact of a transit vehicle with another vehicle or object)
+•
+Unsuppressed fires
+•
+Hazardous material spills
+•
+Acts of God (e.g., natural catastrophes, such as earthquakes, floods,
+hurricanes, tornados, other high winds, lightning, snow, and ice storms)
+For the most part, RTAs’ CY2024 performance was well below the target for
+reportable safety events.
+Note: This metric is only reported by Section 5307 recipient RTAs.
+CY24 Fixed Route Safety Events CY24 Demand Response Safety Events
+RTA Target Actual % Variance RTA Target Actual % Variance
+BAT 6.00 3.00 -50.00% BAT 4.00 0.00 -100.00%
+BRTA 3.00 2.00 -33.33% BRTA 0.00 2.00 100.00%
+CATA 2.50 0.00 -100.00% CATA 1.50 0.00 -100.00%
+CCRTA 16.00 1.00 -93.75% CCRTA 8.00 2.00 -75.00%
+GATRA 3.00 1.00 -66.67% GATRA 2.00 3.00 50.00%
+LRTA 2.00 1.00 -50.00% LRTA 1.00 0.00 -100.00%
+24 FTA Office of Budget and Policy. February 2024. National Transit Database: Safety & Security Policy Manual.
+(https://www.transit.dot.gov/sites/fta.dot.gov/files/2024-02/2024-Safety-and-Security-Policy-Manual_1-0.pdf)
+9
+
+MART 1.00 2.00 100.00% MART 1.00 0.00 -100.00%
+MeVa 4.00 0.00 -100.00% MeVa 3.00 0.00 -100.00%
+MWRT 15.00 0.00 -100.00% 10.00 0.00 -100.00%
+MWRTA
+A
+PVTA 44.00 PVTA 0.00
+SRTA 8.00 2.00 -75.00% SRTA 1.00 1.00 0.00%
+WRTA 14.00 11.00 -21.43% WRTA 8.00 6.00 -25.00%
+CY24 Fixed Route Safety Event Rate (per 1M CY24 Demand Response Safety Event Rate
+VRM) (per 1M VRM)
+RTA Target Actual % Variance RTA Target Actual % Variance
+BAT 4.60 1.42 -69.16% BAT 5.90 0.00 -100.00%
+BRTA 3.20 0.00 -100.00% BRTA 0.00 0.00 -100.00%
+CATA 1.50 0.00 -100.00% CATA 1.00 0.00 -100.00%
+CCRTA 1.20 0.00 -100.00% CCRTA 0.20 0.00 -100.00%
+GATRA 2.60 0.75 -71.24% GATRA 1.10 1.01 -8.04%
+LRTA 1.50 0.00 -100.00% LRTA 3.00 0.00 -100.00%
+MART 0.34 1.14 235.81% MART 0.34 0.00 -100.00%
+MeVa 0.80 MeVa 0.00
+MWRT 1.25 0.00 -100.00% 1.25 0.00 -100.00%
+MWRTA
+A
+PVTA 1.20 PVTA 0.00
+SRTA 5.20 0.60 -88.46% SRTA 1.90 0.00 -100.00%
+WRTA 1.50 0.97 -35.24% WRTA 1.50 1.05 -29.91%
+Preventable Accidents per 100,000 Vehicle Revenue Miles (VRM)
+Preventable Accidents / 100K VRM: The number of preventable accidents for every
+100,000 revenue miles operated. A preventable accident is defined as an accident in
+which the transit personnel did not do everything reasonably expected to prevent
+the accident from occurring. RTAs’ FY25 performance was well below the target for
+preventable accidents for demand-response service but fell short of targets for
+fixed-route service.
+Note: This metric is only reported by Section 5311 subrecipient RTAs.
+FY24 Demand Response Preventable Accident
+FY24 Fixed Route Preventable Accidents / 100K VRM
+/ 100K VRM
+RTA Baseline Actual Target Variance RTA Baseline Actual Target Variance
+1.91 2.59 1.45 78.62% 0.44 0 1.2 -
+FRTA FRTA
+100.00%
+NRTA 0 2.6 0 NRTA 0 0 0
+VTA 0 0.53 3.25 -83.69% VTA 0 0.76 1 -24.00%
+10
+
+Summary & Next Steps
+This FY25 progress report provides a description of the system of performance
+metrics bilaterally agreed to by MassDOT RTD and the RTAs and includes analysis of
+individual performance results, as required by the Act. The data underscores the
+individual characteristics of each RTA and demonstrates a consistent trend of
+growth in ridership now surpassing pre-pandemic data, as well as rising costs for
+transit operations due to inflation. As shown in Figure 11, the RTAs on average
+exceeded ridership targets for both modes.
+Demand Response
+Fixed Route
+0.00% 20.00% 40.00% 60.00% 80.00% 100.00% 120.00%
+Average Distance from Target UPT
+Figure 117. Average year-to-date (YTD) distance from the identified target for
+unlinked passenger trips.
+Average YTD Distance from Target
+20.00% 17.12%
+14.49%
+15.00% 12.20%
+9.01%
+10.00%
+3.66% 2.75%
+5.00% 0.94% 0.60%
+0.00%
+-5.00% -1.83% -1.76% -2.21% -1.28%
+-3.24%
+-4.93%
+-10.00% -6.98%
+-15.00%
+-20.00%
+-18.54%
+-25.00%
+UPT/VRM UPT/VRH FRR OPEX/VRM OPEX/VRH OPEX/UPT OTP STO
+Fixed Route Demand Response
+Figure 128: Average year-to-date (YTD) distance from the identified target by
+metric, not including unlinked passenger trips.
+RTD required the RTAs to include a recovery baseline of SFYFY19 data used to monitor
+the RTAs gradual recovery from the pandemic. Analysis of the recovery baselines
+show that ridership and overall productivity, particularly for fixed route services,
+have largely recovered and surpassed pre-pandemic baselines (Figure 13).
+11
+
+However, costs of operations have risen, negatively impacting performance in
+financial metrics. RTAs continue to see an expected decline in their Farebox recovery
+due to expansion of fare free operations.
+Average YTD Distance from Recovery Baseline
+200.00% 179.75%
+168.39%
+150.00%
+100.00%
+50.00% 47.98%
+50.00%
+13.44% 13.25% 14.7 6 3 . % 96% 12.66% 9.48% 5.93% 1.35%
+0.00%
+-5.8-72%.29% -3.56% -3.03% -1.34%
+-21.05%
+-50.00%
+UPT UPT/VRM UPT/VRH FRR OPEX/VRMOPEX/VRH OPEX/UPT OTP STO
+Fixed Route Demand Response
+Figure 13 9: Average year-to-date (YTD) distance from the identified recovery
+baseline (FY19) by metric.
+MassDOT RTD expects that the results of the performance management program will
+continue to prove to be a valuable tool in identifying continued progress, best
+practices, and innovative adaptations to challenges the RTAs face. The program
+encourages data-driven decision making and agency transparency to the general
+public, which is particularly relevant as the RTAs work to rebuild customers’
+confidence in the safety, accessibility, and availability of riding public transit.
+MassDOT RTD will continue to deliver this report annually with updated actual and
+target values derived from the MOU process. Continuing to collect actual and target
+values over time will allow for longitudinal analyses that highlight trends, best
+practices, and successful innovative policies, as well as the impact of external
+factors, including the COVID-19 pandemic. Details on the annually collected metrics
+and supplemental information on each RTA’s system can be found in Appendix B.
+12
+
+Appendices
+APPENDIX A – RTA BACKGROUND INFORMATION
+APPENDIX B – PERFORMANCE MANAGEMENT
+PROGRAM HISTORY
+APPENDIX C - GLOSSARY
+APPENDIX D - RTA PROFILES
+1
+
+Appendix A – RTA Background Information
+In Massachusetts, there are 15 RTAs outside of the Greater Boston Area (Figure 14).
+Each RTA is locally governed by an Advisory Board and provides a combination of
+fixed route and demand response transit services, including ADA paratransit, to their
+member communities. Some RTAs opt to provide additional modes of service,
+including demand taxi and commuter bus. These services, while managed by the
+RTA’s administrative staff, are provided through contracted operators. In FY25, the
+RTAs supplied 32,829,557 in unlinked passenger trips across all modes.25
+Figure 10: Map of the RTAs in Massachusetts, including the Massachusetts Bay
+Transportation Authority (MBTA) bus system.
+The RTAs are funded through five sources of revenue: farebox revenue, own-source
+revenue (e.g., revenues generated from advertising, parking, etc.), local assessments,
+and state and Federal funding. The Commonwealth provides the RTAs with operating
+funds in the form of State Contract Assistance (SCA), which is passed through the
+25 BlackCat Monthly Service Data Reports
+2
+
+Massachusetts Department of Transportation (MassDOT) (Figure 15). SCA is
+distributed by MassDOT among the RTAs based on a long-standing allocation
+formula. In FY2014, the Legislature forward funded the RTAs, meaning that SCA is
+provided during the current fiscal year, rather than as a reimbursement for service
+provided in the previous year. Beginning in FY19, the RTAs were also allocated an
+additional sum of operating funds to be used for a competitive discretionary grant
+program. The competitive Discretionary Grant Program enabled the RTAs to test new
+and innovative service models, such as deploying microtransit pilots, marketing and
+outreach campaigns, and gathering data on local demand for evening and
+weekend service through pilot programs. This allocation ended in FY21. The FY23
+budget included $2.5 million to be used on grants for means-tested, discounted or
+fare-free pilot programs to be administered by the RTAs, and this funding was
+increased to $15 million in FY24. In FY25, the RTAs received an additional $10 million in
+SCA funding, as well as $30 million for fare free programs, among other grant
+programs.
+$180.0 $160
+$150
+$160.0
+$140.0
+$120.0
+$87 $91 $94 $94 $100.0 $80 $82 $82 $80 $82
+$80.0 $58 $58 $64 $59 $59 $67 $68
+$51
+$60.0
+$40.0
+$20.0
+$0.0
+Figure 11: Total SCA allocation (in millions) for all RTAs (FY2007-FY25).
+Although they have similar service goals, the RTAs serve diverse areas throughout
+Massachusetts, including many rural areas, much of suburban Boston, college towns
+as well as suburban and urban colleges and universities, other large and small
+urbanized areas, and areas where ridership is significantly affected by seasonal
+tourism. While some RTAs are predominantly defined by their seasonal tourism
+service or college and university service, many RTAs serve commuters, tourists,
+students for a variety of trip purposes, which speaks to the flexibility they must
+employ. RTA ridership began to decline in FY2017, mirroring national trends (Figure
+16). This trend was exacerbated by the COVID-19 pandemic, but the RTAs have made
+significant, continued progress in recovering lost ridership in each of the last three
+fiscal years.
+3
+ni
+)$(
+ecnatsissA
+tcartnoC
+etatS
+snoillim
+RTA State Contract Assistance (FY07-FY25)
+
+Figure 12: Total ridership (in millions) for all RTAs (FY2007-FY25).
+The RTAs’ operating budgets are funded through four main sources of revenue:
+directly generated revenue (farebox and own-source revenue), local assessments,
+and state and Federal funding (Figure 18). Operating funds (SCA) provided by the
+Commonwealth are typically used for payroll and administration. In FY24, RTAs
+received a greater proportion of their revenue from the state than from Federal
+sources, marking a shift in operating funding sources. Capital funding sources
+remained stable, with a little more than half of capital funding coming from Federal
+sources.
+Figure 13: Sources of operating funds expended during FY2326
+The RTAs’ capital programs are funded through two main sources: state and Federal
+funds (Figure 18). Capital funds provided by the Commonwealth are primarily
+programmed to keep RTA fleets in a state of good repair, as well as for various
+technical assistance support. State capital funding is also traditionally provided as
+the required 20% local match to leverage an 80% federal match.
+Figure 18 Sources of capital funds expended during FY24
+26 2023 and 2024 Funding Sources, National Transit Database ()
+4
+
+Sources of Capital Funds Expended (NTD FY24)
+Fares and Other
+Federal
+Directly Generated
+$55,000,247
+$25,417
+55%
+0%
+Local
+$317,134
+0%
+State
+$44,534,928
+45%
+j
+Figure 1914: Sources of capital funds expended during FY24.27
+27 2023 Funding Sources, National Transit Database ()
+5
+
+Report Background
+The Massachusetts Department of Transportation (MassDOT) submits this report to
+the Massachusetts State Legislature pursuant to the Massachusetts Budget Act of
+2025 Chapter 140, Outside Section 230. The report provides a review of performance
+data collected for the Fiscal Year 2025 term of the FY24-25 Bilateral Performance
+Management Memoranda of Understanding (MOUs) between the 15 Regional Transit
+Authorities (RTAs) and MassDOT.
+The Commonwealth provides the RTAs with State Contract Assistance (SCA) each
+State Fiscal Year (FY) based on an agreed-to distribution formula. RTAs primarily use
+SCA to fund operating needs. The MassDOT Rail and Transit Division (RTD) oversees
+and collaborates with its RTA partners to maximize investment and enhance
+accountability and transparency. Through the bilateral MOU process and resulting
+performance management program, MassDOT Rail and Transit Division (MassDOT
+RTD) and the RTAs ensure that SCA advances the goals and targets established by
+each system. The MOUs include performance metrics and targets for the legislatively
+defined categories of ridership, customer service and satisfaction, asset
+management and financial performance, as well as RTA established baselines and
+timelines for implementation. The program encourages data-driven decision
+making and is a valuable tool to identify progress, best practices, and innovative
+solutions to challenges facing the RTAs. The program is particularly relevant as the
+RTAs continue managing post-pandemic ridership recovery and the transition to a
+fare free system.
+Performance Analysis & Reporting Background
+The performance metrics collected and analyzed from each RTA include universal
+industry measures: ridership, customer service and satisfaction, asset management,
+and financial performance, as well as the additional key area of safety performance
+(Table 1). Each agency’s State Fiscal Year (FY) 2025 performance data is summarized
+in the Performance Metric Analysis, Asset Management Performance Metric Analysis
+and Safety Performance Metric Analysis sections of this report. These metrics are
+common key performance indicators that are frequently used by transit
+professionals to determine the health and vitality of a transit system, are trackable
+over time, and use data that is widely available to transit agencies and operators.28
+29 Supplementary data collected includes annually reported metrics on external
+28 International Transit Studies Program. 2010. Performance measures and outcomes. Transit Cooperative Research Program
+Synthesis 94. pgs. 1-56.
+29 Jenks, C.W. (n.d.). A summary of TCRP Report 88: A guidebook for developing a transit performance measurement system. Transit
+Cooperative Research Program. pgs. 1-24.
+6
+
+partnerships, fleet composition and system-specific metrics that highlight key
+initiatives or system-identified performance indicators (Table 2) and are included in
+Appendix B – RTA Profiles.
+Category Performance Metrics
+Unlinked passenger trips (UPT)
+Ridership UPT/Vehicle revenue mile (VRM)
+UPT/Vehicle revenue hour (VRH)
+Customer On-time performance (OTP)
+Service &
+Scheduled trips operated (STO)
+Satisfaction
+Federal Transit Administration (FTA) reportable revenue vehicle asset class
+meeting Transit Asset Management (TAM) Useful Life Benchmark (ULB)
+Asset
+targets
+Management1
+FTA reportable equipment asset class meeting TAM ULB targets
+FTA reportable facilities asset class meeting TAM ULB targets
+Farebox recovery ratio (FRR)
+Financial Operating expenses/VRM
+Performance Operating expenses/VRH
+Operating expenses/UPT
+FTA reportable major and non-major Preventable accidents
+Safety2 OR
+event data (events, injuries and fatalities) per 100,000 miles
+Table 3. List of performance metrics agreed to by all RTAs.
+1For the asset management category, each RTA is to report whether they achieved the TAM plan targets.
+2For the safety category, each RTA that is subject to the National Transit Database (NTD) Safety &
+Security reporting requirement is to provide all reportable data. If the RTA is not subject to the
+requirement, that RTA is to report preventable accident data.
+Metric Definition
+Number of partnerships with private or other public entities, such as
+External
+relationships with local businesses, public universities, another public
+Partnerships
+authority, Councils on Aging (COAs), or non-profit organizations
+Percentage of overall RTA fleet composition based on fuel type; fuel types
+Fleet
+included in this metric include Electric, Hybrid Electric, Compressed Natural
+Composition
+Gas (CNG), Diesel, and Gasoline
+RTA Choice
+A metric or initiative that is based on a recommendation from the RTA’s
+Metric Tied
+recently completed Comprehensive Regional Transit Plan (CRTP)
+to CRTP
+RTA Choice A metric of the RTA’s choosing that is relevant to each system’s goals or
+Metric priorities
+Table 4. List of annual reported performance metrics.
+7
+
+Much of this report focuses on the performance measures identified in Table 1, as
+they enable comparisons and analyses across RTAs to identify and share best
+practices among peers, and pinpoint which strategies increase ridership, provide
+operating efficiencies, and increase customer satisfaction and reliability.
+The Ridership and Customer Service & Satisfaction data is summarized into analysis
+tables that display quarterly subtotals and the year-to-date (YTD) actuals. The
+Financial Performance data displays only the YTD actuals. Due to accrual-based
+accounting methods, revenue and expense figures can exhibit variability from
+month-to-month, and YTD actuals provide a normalized representation of RTA
+performance.
+The Asset Management and Safety data are aggregated based on each RTA’s
+annual submittal to the NTD, which includes the target, the actual performance, and
+the resulting difference for each category as defined by the Federal Transit
+Administration (FTA). This report also provides graphical representations of average
+RTA performance. Text is included to highlight the key takeaways on overall RTA
+performance. Comparative bar charts have been added for selected metrics.
+8
+
+Appendix B - Performance Management Program
+History and Operations
+Based on the MOUs, MassDOT RTD designed a performance management program,
+which includes:
+1. Data collection
+2. Data analysis
+3. Data reporting
+Memoranda of Understanding
+This report provides performance results for FY25 which is governed by the terms of
+the FY24-2025 MOU. The bilateral MOUs are based performance metrics established
+by MassDOT and incorporate Performance Targets most relevant to each RTA’s
+system in the categories of Ridership, Customer Service and Satisfaction, Asset
+Management, and Financial Performance, including Farebox Recovery. The MOUs are
+not punitive and thus do not impose penalties for not meeting metrics and targets.
+MassDOT and the RTAs have agreed to measure the MOU metrics against RTA
+established baselines, including agreed upon timelines for implementation.
+The Commonwealth provides the RTAs with state operating funds called State
+Contract Assistance (SCA), which is administered by the MassDOT Rail & Transit
+Division (RTD) each budget cycle. In addition to the distribution of SCA based on an
+agreed-to allocation formula, RTD oversees and collaborates with its RTA partners to
+maximize investment and provide the highest levels of transparency and impact.
+Through the bilateral MOU process and resulting performance management
+program, RTD and the RTAs can ensure that SCA is spent advancing the goals and
+targets established by each system.
+The bilateral MOUs have encouraged data-driven decision making and agency
+transparency to the public, which is particularly relevant as the RTAs continue to
+grow public transit ridership and identify services that meet evolving rider
+preferences. The MOUs are valuable for identifying best practices and innovative
+solutions to challenges facing the RTAs.
+The final agreement included standardized performance metric collection, the
+collection of transit safety data, financial planning documentation, and agreed upon
+reporting deadlines to better allow for RTAs to collect and review data prior to
+submission. Each MOU generally adheres to the principles below:
+9
+
+
+Performance metrics in the four key areas of ridership, customer service &
+satisfaction, asset management, and financial performance, as well as the
+key area of safety (Table 3). Data collected includes, but is not limited to:
+o a subset of metrics already reported annually to the National Transit
+Database (NTD)30,
+o each RTA’s Transit Asset Management (TAM) plan targets, and
+o each RTA’s NTD Safety & Security reports, if applicable.
+
+Annually reported metrics on external partnerships, fleet composition and
+system-specific metrics that highlight key initiatives or system-identified
+performance indicators (Table 4).
+
+Mutually agreed upon baselines, interim milestones, and targets for each
+performance metric.
+Category Performance Metrics
+Unlinked passenger trips (UPT)
+Ridership UPT/Vehicle revenue mile (VRM)
+UPT/Vehicle revenue hour (VRH)
+Customer On-time performance (OTP)
+Service &
+Scheduled trips operated (STO)
+Satisfaction
+FTA reportable revenue vehicle asset class meeting TAM Useful Life
+Asset Benchmark (ULB) targets
+Management1 FTA reportable equipment asset class meeting TAM ULB targets
+FTA reportable facilities asset class meeting TAM ULB targets
+Farebox recovery ratio (FRR)
+Financial Operating expenses/VRM
+Performance Operating expenses/VRH
+Operating expenses/UPT
+Preventable
+FTA reportable major and non-major
+Safety2 OR accidents per
+event data (events, injuries and fatalities)
+100,000 miles
+Table 5. List of Performance Metrics agreed to by all RTAs.
+1For the asset management category, each RTA is to report whether they achieved or did not achieve
+their TAM plan targets.
+2For the safety category, each RTA that is subject to the NTD Safety & Security reporting requirement is to
+provide all reportable data. If the RTA is not subject to the requirement, that RTA is to report preventable
+accident data.
+30 As stated on the National Transit Database website [https://www.transit.dot.gov/ntd], the NTD is a “…repository of data about the
+financial, operating and asset conditions of American transit systems. The NTD records the financial, operating, and asset condition of
+transit systems helping to keep track of the industry and provide public information and statistics. The NTD is designed to support
+local, state and regional planning efforts and help governments and other decision-makers make multi-year comparisons and
+perform trend analyses.”
+10
+
+Metric Definition
+Number of partnerships with private or other public entities, such as
+External
+relationships with local businesses, public universities, another public
+Partnerships
+authority, Councils on Aging (COAs), or non-profit organizations
+Percentage of overall RTA fleet composition based on fuel type; fuel
+Fleet
+types included in this metric include Electric, Hybrid Electric,
+Composition
+Compressed Natural Gas (CNG), Diesel, and Gasoline
+RTA Choice
+A metric or initiative that is based on a recommendation from the RTA’s
+Metric Tied to
+recently completed Comprehensive Regional Transit Plan (CRTP)
+CRTP
+RTA Choice A metric of the RTA’s choosing that is relevant to each system’s goals or
+Metric priorities
+Table 6. List of Annually Reported Performance Metrics.
+The target setting process for the FY24-FY25 MOU consisted of annual targets in FY24
+and FY25 for the financial and asset management categories, and a two-year target
+(FY25) with an interim milestone (FY24) for the ridership and customer service
+categories. Annually reported metrics consist of annual targets for FY24 and FY25.
+Over the course of the two-year term, the RTAs provide quarterly reports to MassDOT
+RTD containing monthly data on progress in meeting the performance targets in
+their MOUs. Each quarterly report is required to be submitted 60 days following the
+close of the quarter to allow each RTA adequate time for data collection and review.
+Performance Data Collection
+Each RTA is provided with a reporting template to capture their system’s
+performance metrics for each month of each quarter, as well as any individual
+performance metrics an RTA chose to include in their MOU.
+Performance Data Analysis
+Each quarter, the quarterly subtotal is calculated based on the raw monthly data
+provided. Calculating the quarterly subtotals throughout the fiscal year helps identify
+seasonal variations. The raw monthly data is used to calculate year-to-date (YTD)
+actual values, which is compared against the identified target values by calculating
+the percent difference between the actual and target value, as detailed in Table 5.
+Progress Metric Type Metrics Analytical Use
+Indicator
+% of Reported as Unlinked Passenger Trips Examines the
+milestone/target cumulative at year (UPT) level of
+reached end
+11
+
+accumulation
+toward a target
+% variance from Reported as a ratio - UPT / Vehicle Revenue Hours Examines
+milestone/target or a percentage (VRH) whether progress
+- UPT / Vehicle Revenue Miles is trending higher
+(VRM) or lower than a
+- Operating Expense / VRH target
+- Operating Expense / VRM
+- Operating Expense / UPT
+- Farebox Recovery Ratio
+- On-Time Performance Ratio
+- Scheduled Trips Operated
+Table 7. An overview of the percentage change calculations used to track RTA
+progress.
+Performance Data Reporting
+All analyses are included in this progress report, which covers the data collected for
+FY25, or year two, of the FY24-2025 bilaterally negotiated MOUs. The performance
+management analysis and reporting process is summarized in Figure 6.
+Interim Milestone /
+Identfied Baseline Raw Monthly Data Progress Indicator
+Target
+Based on historical service Quarterly subtotals to
+Allows for the direct % of target reached
+data display seasonal variation
+comparison to year-to-date
+actuals
+Year-to-date actuals to
+% variance from target
+display overall progress
+Figure 15. Performance target reporting and data analysis process.
+For the Ridership and Customer Service & Satisfaction metric categories, the data
+displays the quarterly and the YTD actuals. For the Financial Performance metric
+category, the data displays only the YTD actual. Due to the accrual-based
+accounting method used by all transit agencies that report data to NTD, expenses
+and income are reported in the month incurred or received. This can result in
+variability from month-to-month, especially for systems that allow for bulk purchase
+of fare media by partnering organizations. The YTD actual provides a normalized
+representation of each RTA’s progress towards achieving the financial metric targets.
+This report also includes a simple analysis of the Asset Management and Safety
+metric categories, the data for which was collected in mid-November 2025, after the
+RTAs submitted their NTD reported TAM Plan asset inventory data. The asset
+12
+
+management and safety data are, respectively, discussed in greater detail in the
+“Asset Management Data Collection & Reporting” and “Safety Data Collection &
+Reporting” subsections.
+Asset Management Data Collection & Reporting
+FTA requires that every agency develop a TAM plan for capital assets used to provide
+public transportation and submit an asset inventory, performance targets, and a
+narrative report to NTD as part of the yearly reporting process. The performance
+targets identified in the TAM plans are for the following asset categories: rolling stock,
+equipment, and facilities (Table 6).31 Each target looks at the percentage of each
+asset category that is not in state of good repair (SGR). Lower performance
+percentages indicate a fleet or facility that has a better SGR. All public transportation
+vehicles, be it revenue service rolling stock or non-revenue equipment, are evaluated
+based on an established useful life benchmark (ULB), or the expected lifecycle (age)
+for a particular vehicle.32 Facilities are evaluated using the Transit Economic
+Requirements Model (TERM) scale. The TERM scale grades facility condition on a
+scale of 1.0 to 5.0, with 1.0 representing a facility that is “critically damaged or in need
+of immediate repair [and/or is] well past useful life” and 5.0 representing a facility
+that has “no visible defects [and/or is in] new or near new condition.”33
+Asset Category FTA Established Performance Target
+Rolling Stock % of revenue vehicles exceeding ULB
+Equipment % of non-revenue vehicles exceeding ULB
+Facilities % of facilities rated under 3.0 on the TERM scale
+Table 8. FTA established performance target definitions by asset category.
+Of the fifteen RTAs, twelve are Tier I public transit providers under the TAM Plan Rule,
+meaning that they are a direct recipient of federal funding and own or operate at
+least one hundred and one (101) vehicles in revenue service.34 FRTA, NRTA and VTA
+are recognized as Tier II providers by the TAM Plan Rule, meaning that they are sub-
+recipients of funding through MassDOT. In FY24, fourteen RTAs completed individual
+TAM plans. FRTA opted to be included in MassDOT’s Group Plan along with the
+Mashpee Wampanoag Tribe, therefore all targets in the three asset categories are
+inclusive of both systems’ asset inventories. The Tribe does not submit the asset
+inventory data to NTD until April of each year, so the performance measures included
+in this report only include FRTA’s assets.
+31 Federal Transit Administration (https://www.transit.dot.gov/PerformanceManagement)
+32 Federal Transit Administration (https://www.transit.dot.gov/PerformanceManagement)
+33 Federal Transit Administration (https://www.transit.dot.gov/PerformanceManagement)
+34 Federal Transit Administration (https://www.transit.dot.gov/TAM/gettingstarted/TierI-II_workflow)
+13
+
+As required by the MOU, each RTA reports once per year if they met or did not meet
+the targets identified in the respective TAM plans by providing a copy of the Asset
+Inventory Module (AIM) reports as submitted to NTD. The data is aggregated and
+included in the Asset Management Performance Metric Analysis section of this
+report. The aggregated data includes the target for the fiscal year, the actual
+performance, and the resulting difference for each asset class within the three asset
+categories. In a similar manner to the Performance Metric Analysis, color-coded
+formatting provides easy reference for determining whether an RTA has met a TAM
+Plan identified target.
+It is important to note that the asset management data in this progress report is still
+under review with NTD. NTD undergoes an extensive post-submission validation
+process, resulting in many agencies receiving final approval on their submitted
+reports as late as April or May of the following year. Therefore, the performance data
+is subject to change before publication by NTD.
+Safety Data Collection & Reporting
+Under the FTA’s Public Transportation Agency Safety Plan (PTASP) Final Rule, certain
+public transportation operators are required to develop a safety plan that includes
+processes and procedures to implement a Safety Management System (SMS) and
+safety performance targets.35 The rule applies to all agencies who are recipients or
+sub-recipients of Section 5307 Urbanized Area Formula Program funds, and does not
+apply to those who receive only Section 5310 Enhanced Mobility of Seniors and
+Individuals with Disabilities Formula Program funds and/or Section 5311 Rural Area
+Formula Program funds.36 For the RTAs, the PTASP rule applies to twelve out of the
+fifteen systems. Each agency uses the PTASP as a guide for proactive safety policy
+and as a comprehensive approach to safety management. The plans are reviewed,
+and updated if needed, on an annual basis.
+Each PTASP must include safety performance measures for the categories of
+fatalities, injuries, and safety events. Targets are developed for both the raw number
+of instances of each category and as a rate per 1,000,000 vehicle revenue miles
+(VRM). For the twelve Section 5037 recipient RTAs, safety data is reported to the NTD
+through the Safety & Security (S&S) Module. Major events are reported to the NTD no
+later than thirty days after the date of the event and are aggregated based on a
+calendar year.37
+35 Federal Transit Administration. “Public Transportation Agency Safety Plans.” (https://www.transit.dot.gov/PTASP)
+36 Federal Transit Administration. “Public Transportation Agency Safety Plans.” (https://www.transit.dot.gov/PTASP)
+37 FTA Office of Budget and Policy. January 2022. National Transit Database: Safety & Security Policy Manual.
+(https://www.transit.dot.gov/sites/fta.dot.gov/files/2022-
+02/2022%20Safety%20and%20Security%20Policy%20Manual%20Version%201.0_0.pdf)
+14
+
+As required by the MOU, each RTA provides MassDOT with any report submitted to
+FTA as part of the PTASP rule. As such, each of the twelve systems subject to this rule
+submit a copy of their S&S reports. The data is collected on a calendar year, then
+aggregated and included in the Safety Performance Metric Analysis section of this
+progress report. The aggregated data includes the target for the calendar year, the
+actual performance, and the resulting difference for each performance measure
+category by mode. In a similar manner to the Performance Metric Analysis, color-
+coded formatting provides easy reference for determining whether an RTA has met a
+PTASP identified target.
+For the three Section 5311 recipient RTAs that are not subject to the PTASP rule,
+MassDOT required that an additional target for preventable accidents per 100,000
+VRM be included in the MOU. This is a historically collected performance metric that
+provides a simplified, but comprehensive, measure of safety events. This data is
+reported through the same methodology as the performance data described in the
+Performance Data Collection section, collected on a fiscal year, and is aggregated
+and included in the Safety Performance Metric Analysis section of this progress
+report. The aggregated data includes the baseline, the target for the fiscal year, the
+actual performance, and the percent variation for each mode. Again, color-coded
+formatting provides easy reference for determining whether an RTA has met an
+identified target.
+15
+
+Appendix C - Glossary
+ADA paratransit = the Americans with Disabilities Act of 1990 requires public transit
+agencies that provide fixed-route service to provide “complementary paratransit”
+service along those routes; agencies may choose to provide additional paratransit
+service to persons with disabilities beyond this required area
+BAT = Brockton Area Transit Authority
+BRTA = Berkshire Regional Transit Authority
+CATA = Cape Ann Transportation Authority
+CCRTA = Cape Cod Regional Transit Authority
+CIP = Capital Investment Program
+Commuter bus (CB) = a type of fixed route transit service that primarily connects
+outlying areas with a central city and is characterized by a motorcoach (aka over-
+the-road-bus), multiple trip tickets, and multiple stops in outlying areas with limited
+stops in the central city
+Demand response (DR) = transit service where vehicles do not follow a fixed route,
+but rather follow an optimized route within a certain geographic area, based on rider
+requests
+Demand taxi (DT) = a type of demand-based service that is operated through
+taxicab providers with a system in place to facilitate ride sharing; demand taxi
+services do not use dedicated vehicles
+Federal Fiscal Year (FFY)
+Fixed route (FR) = transit service where vehicles run on regular, scheduled routes with
+fixed stop locations, typically with a fixed schedule
+FRTA = Franklin Regional Transit Authority
+FTA = Federal Transit Administration
+FRR = farebox recovery ratio; the percentage of operating costs covered by fares
+collected, calculated by the fares collected divided by the cost to operate the route38
+38 National Transit Database (NTD) Glossary (https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary)
+16
+
+LRTA = Lowell Regional Transit Authority
+MBTA = Massachusetts Bay Transportation Authority
+MART = Montachusett Regional Transit Authority
+MassDOT = Massachusetts Department of Transportation
+RTD = MassDOT’s Rail & Transit Division
+MeVa = Merrimack Valley Regional Transit Authority (previously MVRTA)
+MWRTA = MetroWest Regional Transit Authority
+NRTA = Nantucket Regional Transit Authority
+NTD = National Transit Database
+OTP = on-time performance; definitions vary by RTA
+PTASP = Public Transportation Agency Safety Plans
+PVTA = Pioneer Valley Transit Authority
+RTA = regional transit authority; an authority established by section three or section
+fourteen of Chapter 161B of the Massachusetts General Laws39
+State Fiscal Year (FY)
+SRTA = Southeastern Regional Transit Authority
+STIP = Statewide Transportation Improvement Program
+STO = scheduled trips operated; the percentage of trips that were successfully
+operated once scheduled
+Systemwide (SW) = Operations from all of an agency’s modes of operation
+TAM plan = Transit Asset Management plan, as required by FTA
+TERM Scale = Transit Economic Requirements Model Scale that assigns number
+ratings to facilities based on condition40
+39 The 191st General Court of the Commonwealth of Massachusetts
+(https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter161B/Section1)
+40 Federal Transit Administration (https://www.transit.dot.gov/PerformanceManagement)
+17
+
+ULB = useful life benchmark; the expected lifecycle of a capital asset for a particular
+transit provider’s operating environment, or the acceptable period of use in service
+for a particular transit provider’s operating environment41
+UPT = unlinked passenger trips; the number of passengers who board public
+transportation vehicles; passengers are counted each time the board vehicles no
+matter how many vehicles they use to travel from their origin to their destination42
+VRM = vehicle revenue mile; the miles that vehicles are scheduled to or actually
+travel while in revenue service, including layover or recovery time, but not including
+deadhead, operator training, vehicle maintenance testing and school bus and
+charter services43
+VRH = vehicle revenue hour; the hours that vehicles are scheduled to or actually
+travel while in revenue service, including layover or recovery time, but not including
+deadhead, operator training, vehicle maintenance testing and school bus and
+charter services44
+VTA = Martha’s Vineyard Transit Authority
+WRTA = Worcester Regional Transit Authority
+41 Federal Transit Administration (https://www.transit.dot.gov/PerformanceManagement)
+42 National Transit Database (NTD) Glossary (https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary)
+43 National Transit Database (NTD) Glossary (https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary)
+44 National Transit Database (NTD) Glossary (https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary)
+18
+
+Appendix D – RTA Profiles
+Appendix B provides an overview of each regional transit authority and includes the following:
+SUMMARY PROFILES
+The summary statistics for each RTA were extracted from the data submitted to MassDOT by the RTAs over the course of FY25, as well as the agencies’ websites. These summaries provide a high-
+level overview of the RTAs’ history, administration, recent operations, and jurisdictions served.
+PERFORMANCE METRICS
+For each RTA, a series of charts are included that provide an overview of all performance metrics and targets for each RTA, as identified in the FY24-2025 MOUs. The charts include the same values
+that were reported by metric in the Performance Metrics section and are now grouped by RTA.
+ASSET MANAGEMENT METRICS
+For each RTA, the NTD reported asset management metrics have been summarized by asset category. These are the same values that were reported by metric in the Asset Management
+Performance Metrics section and are now grouped by RTA. The performance report should be viewed as draft, as the data is under review by NTD.
+SAFETY PERFORMANCE METRICS
+For each RTA, the NTD reported safety metrics have been summarized by event type and rate. These are the same values that were reported by metric in the Safety Performance Metrics section
+and are now grouped by RTA. This data is reported on a calendar year, rather than a fiscal year.
+ANNUALLY REPORTED PERFORMANCE METRICS
+The Annually Reported Metrics reflect the unique measures that each RTA tracks and finds relevant to their system. Since these metrics are specific to each RTA, this section does not include
+comparative interpretation or analysis. Each RTA reports on fleet composition based on fuel type, the number of external partnerships established, and two metrics of choice. The first “choice”
+metric, defined as the CRTP Choice Metric, is tied to a recommendation from each system’s Comprehensive Regional Transit Plan, a regional planning document completed in 2020. The second
+“choice” metric is the RTA’s choice, defined as the Free Choice Metric, and represents a goal or value that is particularly important to both the system and its rider.
+19
+
+Berkshire Regional Transit Authority (BRTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+1 Columbus Avenue, Suite 201 Robert Malnati www.berkshirerta.com
+Pittsfield, MA 01201
+Agency Information Ridership Information (FY25)
+Year Founded 1974 Fixed Route 613,408 unlinked passenger trips
+Mon-Fri: 5:30 AM – 11:12 PM
+Service Hours Sat: 6:30 AM – 9:25 PM Demand Response 32,323 unlinked passenger trips
+Sun: No Service
+Municipalities Served (30)
+Adams Cheshire Egremont Hancock Lee Mount Washington Otis Richmond Washington
+Alford Clarksburg Florida Hinsdale Lenox New Ashford Peru Savoy West Stockbridge
+Becket Dalton Great Barrington Lanesborough Monterey New Marlborough Pittsfield Sheffield Williamstown
+North Adams Stockbridge Windsor
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 419,635 58,485 50,855 45,568 154,908 51,307 44,254 43,777 139,338 44,844 41,835 50,895 137,574 57,385 62,849 120.46%
+UPT/VRM 0.47 0.75 0.63 0.64 0.67 0.72 0.63 0.59 0.64 0.61 0.60 0.67 0.63 0.74 0.79 24.38%
+UPT/VRH 8.22 13.70 11.53 11.65 12.30 13.15 11.48 10.69 11.76 11.13 11.10 12.18 11.48 13.54 14.98 20.18%
+-4.97%
+FRR 7.10% 78,078 80,680 71,560 230,318 71,281 70,477 74,826 216,584 73,689 69,276 76,275 219,240 77,503 79,796
+-8.51%
+OPEX/VRM $7.64 4,268 4,410 3,912 12,590 3,902 3,856 4,094 11,852 4,030 3,770 4,180 11,980 4,238 4,196
+-10.90%
+OPEX/VRH $134.39 $539,347 $637,102 $538,131 $1,714,580 $583,507 $511,375 $603,193 $1,698,075 $528,197 $518,356 $565,802 $1,612,355 $609,630 $529,708
+-25.88%
+OPEX/UPT $16.35 $214 $63,168 $58,361 $121,742 $58,454 $44,815 $24 $103,293 $2 $0 $0 $2 $0 $10
+-0.43%
+OTP 80.84% 0.04% 9.91% 10.85% 7.10% 10.02% 8.76% 0.00% 6.08% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00%
+-1.23%
+STO 99.85% $6.91 $7.90 $7.52 $7.44 $8.19 $7.26 $8.06 $7.84 $7.17 $7.48 $7.42 $7.35 $7.87 $6.64
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 15,465 2,592 2,405 2,352 2,708 2,418 2,597 2,741 2,559 3,099 3,086 2,890 2,876 32,323 22,950 140.84%
+UPT/VRM 0.11 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.11 0.10 0.10 0.10 0.10 0.10 2.04%
+UPT/VRH 1.01 1.35 1.20 1.39 1.39 1.36 1.32 1.33 1.33 1.52 1.46 1.43 1.39 1.37 1.23 11.63%
+FRR 6.45% 0.86% 4.75% 5.56% 5.07% 5.86% 0.44% 0.36% 0.35% 0.36% 0.04% 0.04% 0.00% 1.99% 6.64% -4.65%
+OPEX/VRM $4.81 $5.97 $7.57 $6.28 $6.94 $5.79 $6.42 $5.86 $5.68 $5.69 $5.96 $5.03 $5.53 $6.04 $5.14 17.43%
+OPEX/VRH $45.67 $76.80 $88.56 $86.66 $95.81 $79.02 $87.21 $77.47 $75.84 $80.40 $84.05 $69.71 $74.26 $81.22 $63.38 28.15%
+OPEX/UPT $45.44 $57.01 $73.94 $62.16 $68.81 $57.94 $65.95 $58.45 $57.20 $52.77 $57.47 $48.92 $53.45 $59.16 $51.62 14.60%
+OTP 94.59% 89.20% 88.10% 93.20% 87.90% 92.80% 88.40% 92.80% 82.40% 95.50% 89.10% 93.60% 91.30% 90.36% 94.70% -4.34%
+STO 97.58% 97.86% 97.80% 98.41% 97.66% 97.34% 97.38% 97.78% 97.26% 98.60% 98.09% 97.87% 98.36% 97.87% 97.60% 0.27%
+20
+
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Target Difference
+(%) (%) (%) (%) (%)
+(%)
+Bus (BU) 9.09% 10.00% -0.91% Automobiles 100.00% 100.00% 0.00% Passenger/Parking 0.00% 0.00% 0.00%
+Cutaway 23.08% 37.04% -13.96% Trucks/Other Rubber 81.80% 84.62% -2.82%
+Administrative/Maintenance 0.00% 0.00% 0.00%
+(CU) Tires
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+4 0
+Fixed Route 0.00 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route -100.00%
+Demand Demand Demand
+0.00 0.00 0.00% 0.00 0.00 0.00% 0.00 0.00 0.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 4.20 0.00 -100.00% Fixed Route 3.00 2.00 -33.33% Fixed Route 3.20 0.00 -100.00%
+Demand Demand Demand
+0.00 0.00 0.00% 0.00 2.00 100.00% 0.00 0.00 0.00%
+Response Response Response
+ANNUAL PERFORMANCE METRICS
+Fleet Composition Fixed Route Demand Response
+Electric 0% 0%
+Hybrid 32% 0%
+CNG 0% 0%
+Diesel 26% 0%
+Gasoline 42% 100%
+External
+12 14
+Partnerships
+21
+
+Brockton Area Transit Authority (BAT)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+155 Court Street Michael Lambert www.ridebat.com
+Brockton, MA 02302
+Agency Information Ridership Information (FY25)
+Year Founded 1974 Fixed Route 3,642,096 unlinked passenger trips
+Mon-Fri: 4:50 AM – 12:20 AM
+Service Hours Sat: 5:05 AM – 11:45 PM Demand Response 128,863 unlinked passenger trips
+Sun: 7:20 AM– 7:40 PM
+Municipalities Served (11)
+Abington Bridgewater East Bridgewater Hanson Stoughton Whitman
+Avon Brockton Easton Rockland West Bridgewater
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 1,372,594 303,651 330,575 340,459 276,217 324,764 289,558 272,143 265,033 317,486 314,951 311,130 296,129 3,642,096 2,089,450 174.31%
+UPT/VRM 1.21 2.45 2.60 2.74 2.04 2.63 2.32 2.19 2.23 2.46 2.54 2.54 2.48 2.43 1.51 61.07%
+UPT/VRH 15.79 25.48 27.04 26.66 20.22 26.29 23.39 22.28 22.15 24.64 24.57 25.42 25.81 24.46 17.53 39.54%
+FRR 13.39% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 14.46% -14.46%
+OPEX/VRM $10.11 $9.51 $9.96 $10.29 $9.91 $10.55 $10.76 $11.79 $10.38 $9.62 $11.08 $17.09 $12.21 $11.07 $10.44 6.04%
+OPEX/VRH $131.40 $98.93 $103.63 $100.20 $98.40 $105.36 $108.49 $119.99 $103.17 $96.50 $107.15 $170.92 $126.85 $111.34 $109.85 1.36%
+OPEX/UPT $8.32 $3.88 $3.83 $3.76 $4.87 $4.01 $4.64 $5.38 $4.66 $3.92 $4.36 $6.72 $4.92 $4.55 $6.66 -31.65%
+OTP 99.75% 99.83% 99.85% 98.41% 99.20% 98.64% 99.09% 99.71% 99.75% 99.73% 99.72% 99.09% 99.32% 99.36% 98.75% 0.61%
+STO 99.98% 99.99% 100.00% 99.98% 100.00% 100.00% 99.92% 100.00% 100.00% 99.99% 100.00% 99.98% 99.97% 99.99% 99.90% 0.09%
+Demand Response - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 101,025 10,181 9,831 9,959 11,461 9,656 10,074 10,398 9,489 11,627 11,977 12,355 11,855 128,863 88,051 146.35%
+UPT/VRM 0.22 0.23 0.23 0.23 0.23 0.22 0.23 0.22 0.22 0.24 0.24 0.25 0.25 0.23 0.23 1.26%
+UPT/VRH 1.98 2.08 2.17 2.18 2.16 2.01 1.96 1.82 1.81 1.87 1.84 1.95 2.09 1.99 2.32 -14.38%
+FRR 23.76% 26.86% 27.43% 25.64% 25.88% 22.40% 24.75% 22.53% 21.93% 24.55% 23.34% 22.38% 18.19% 23.62% 24.62% -1.00%
+OPEX/VRM $7.65 $8.22 $7.93 $7.97 $7.66 $8.59 $8.31 $8.36 $8.90 $7.79 $8.12 $8.29 $10.03 $8.34 $7.36 13.37%
+OPEX/VRH $68.98 $73.03 $74.91 $74.20 $70.90 $77.06 $71.87 $69.64 $73.73 $61.29 $62.88 $65.85 $84.17 $71.17 $76.03 -6.39%
+OPEX/UPT $34.90 $35.08 $34.54 $34.08 $32.88 $38.29 $36.68 $38.24 $40.63 $32.70 $34.08 $33.69 $40.22 $35.83 $32.94 8.76%
+OTP 90.09% 91.70% 92.50% 92.20% 90.20% 93.30% 93.70% 94.50% 94.30% 94.50% 93.88% 93.15% 93.15% 93.09% 90.00% 3.09%
+STO 99.99% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 99.99% 100.00% 99.99% 0.01%
+22
+
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+Bus (BU) 12.06% 12.96% -0.90% Automobiles 100.00% 100.00% 0.00% Passenger/Parking 0.00% 0.00% 0.00%
+Cutaway Trucks/Other Rubber 33.33% 37.50% -4.17% Administrative/Maintenanc
+25.00% 25.00% 0.00% 0.00% 0.00% 0.00%
+(CU) Tires e
+Van (VN) 39.62% 37.74% 1.88%
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 10 2 -80%
+Demand Demand Demand 4 0 -100.00%
+0.00 0.00 0.00% 0.00 0.00 0.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 7.60 2.84 -62.67% Fixed Route 6.00 3.00 -50.00% Fixed Route 4.60 1.42 -69.16%
+Demand 5.90 0.00 -100.00% Demand 4.00 0.00 -100.00% Demand 5.90 0.00 -100.00%
+Response Response Response
+ANNUAL REPORTING PERFORMANCE METRICS
+Fleet Composition Fixed Route Demand Response
+Electric 10% 0%
+Hybrid 10% 0%
+CNG 0% 0%
+Diesel 80% 0%
+Gasoline 0% 100%
+External Partnerships 20 0
+23
+
+Cape Ann Transportation Authority (CATA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+3 Pond Road Felicia Webb www.canntran.com
+Gloucester, MA 01930
+Agency Information Ridership Information (FY25)
+Year Founded 1974 Fixed Route 153,710 unlinked passenger trips
+Mon-Fri: 5:50 AM – 6:55 PM
+Demand Response 56,953 unlinked passenger trips
+Sat: 7:45 AM – 6:12 PM
+Service Hours
+Sun: Seasonal for Rockport, Gloucester, Ipswich, and Essex
+Commuter Bus 475 unlinked passenger trips
+10:00am - 6:53pm
+Municipalities Served (6)
+Essex Gloucester Hamilton Ipswich Manchester-by-the-Sea * Rockport
+PERFORMANCE METRICS
+Fixed Route - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 181,151 10,957 10,499 12,658 12,363 7,309 12,268 13,743 11,989 15,001 14,298 16,501 16,124 153,710 190,320 80.76%
+UPT/VRM 0.46 0.50 0.44 0.60 0.51 0.41 0.48 0.58 0.55 0.56 0.62 0.64 0.57 0.54 0.51 6.12%
+UPT/VRH 6.14 6.76 6.62 9.19 8.00 6.62 7.57 9.50 9.01 8.65 10.39 9.43 9.19 8.43 6.46 30.42%
+FRR 2.56% 3.22% 8.16% 6.45% 4.02% 2.42% 0.07% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 2.31% 8.41% -6.10%
+OPEX/VRM $8.11 $14.08 $11.18 $11.43 $8.77 $10.12 $7.27 $8.87 $9.83 $7.12 $10.11 $6.90 $6.63 $9.19 $11.48 -19.91%
+OPEX/VRH $109.28 $192.02 $166.72 $176.22 $138.47 $162.07 $114.57 $145.28 $162.26 $109.00 $169.68 $102.33 $106.54 $143.13 $117.00 22.33%
+OPEX/UPT $17.78 $28.39 $25.19 $19.18 $17.32 $24.48 $15.13 $15.29 $18.00 $12.61 $16.33 $10.85 $11.59 $16.99 $27.30 -37.77%
+OTP 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+STO 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+Demand Response - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 36,402 5,138 5,364 4,715 5,022 4,253 4,399 4,590 4,313 4,766 4,767 4,898 4,728 56,953 38,245 148.92%
+UPT/VRM 0.19 0.24 0.24 0.23 0.23 0.23 0.24 0.23 0.24 0.24 0.20 0.24 0.25 0.23 0.23 1.14%
+UPT/VRH 2.66 3.38 3.61 3.49 3.40 4.04 3.44 3.45 3.72 3.62 2.94 3.49 3.54 3.49 2.90 20.29%
+FRR 5.43% 7.15% 8.75% 7.88% 4.21% 4.42% 1.39% 3.77% 4.39% 2.61% 3.05% 2.47% 2.75% 4.07% 5.75% -1.68%
+OPEX/VRM $5.24 $4.58 $3.79 $3.75 $6.63 $6.53 $6.82 $4.59 $4.47 $6.99 $4.77 $7.02 $6.83 $5.52 $5.53 -0.15%
+OPEX/VRH $74.75 $64.82 $57.03 $57.95 $98.41 $115.83 $98.44 $68.71 $68.79 $105.17 $71.43 $102.73 $95.90 $82.81 $79.43 4.25%
+OPEX/UPT $28.14 $19.16 $15.80 $16.59 $28.92 $28.65 $28.58 $19.94 $18.49 $29.04 $24.26 $29.45 $27.10 $23.74 $29.63 -19.89%
+OTP 100.00% 100.00% 100.00% 100.00% 95.00% 92.00% 94.00% 100.00% 92.00% 92.00% 92.00% 92.00% 100.00% 95.75% 100.00% -4.25%
+STO 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+24
+
+Commuter Bus - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+0 47 37 32 50 70 29 30 39 36 32 38 35 475 0
+UPT
+0.00 0.06 0.04 0.04 0.06 0.10 0.04 0.04 0.05 0.05 0.04 0.05 0.04 0.05 0.00
+UPT/VRM
+0.00 1.68 1.32 1.28 1.85 2.92 1.12 1.03 1.63 1.38 1.14 1.46 1.35 1.50 0.00
+UPT/VRH
+FRR
+0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00%
+$0.00 $6.42 $5.57 $5.89 $4.63 $5.42 $3.83 $5.21 $5.42 $3.64 $5.67 $3.42 $3.56 $4.89 $0.00
+OPEX/VRM
+$0.00 $188.65 $163.80 $176.22 $141.04 $160.25 $115.69 $144.00 $160.54 $110.04 $166.72 $103.33 $107.55 $145.04 $0.00
+OPEX/VRH
+$0.00 $112.39 $123.95 $137.67 $76.16 $54.94 $103.72 $139.20 $98.79 $79.47 $145.88 $70.70 $79.89 $96.79 $0.00
+OPEX/UPT
+OTP
+0.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00% 100.00%
+STO
+0.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00% 100.00%
+* Manchester by the Sea became a municipality served by CATA in 2025
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY24 Target FY25 Performance FY24 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class FY25 Target (%) Difference Asset Class Difference
+(%) (%) (%) (%) (%)
+30.00% 36.00% -6.00% Trucks/Other Rubber Administrative/Maintenanc
+Bus (BU) 75.00% 75.00% 0.00% 0.00% 0.00% 0.00%
+Tires e
+Cutaway 17.00% 29.00% -12.00%
+(CU)
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 1.00 0.00 -100.00%
+Demand Demand Demand
+0.00 0.00 0.00% 0.00 0.00 0.00% 1.00 0.00 -100.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.50 0.00 -100.00% Fixed Route 2.50 0.00 -100.00% Fixed Route 1.50 0.00 -100.00%
+Demand Demand Demand
+0.50 0.00 -100.00% 1.50 0.00 -100.00% 1.00 0.00 -100.00%
+Response Response Response
+25
+
+ANNUAL REPORTING PERFORMANCE METRICS
+Demand Commuter
+Fleet Composition Fixed Route
+Response Bus
+0%
+Electric 0% 15%
+0%
+Hybrid 13% 0%
+CNG 0% 0% 0%
+Diesel 87% 0% 100%
+Gasoline 0% 185% 0%
+External Demand-
+Fixed-Route
+Partnerships Response
+16 16
+26
+
+Cape Cod Regional Transit Authority (CCRTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+215 Iyannough Road, PO Box 1988 John Kennedy www.capecodtransit.org
+Hyannis, MA 02601
+Agency Information Ridership Information (FY25)
+Year Fixed
+1976 593,968 unlinked passenger trips
+Founded Route
+Demand
+Fall, Winter, and Spring Service Mon-Sat: 5:45 AM – 10:25 PM 217,867 unlinked passenger trips
+Service Response
+Summer Service Sun-Sat: 4:30 AM – 2:40 AM
+Hours Demand
+Shoulder Season Summer Shuttle: 6:02 AM - 1:28 AM 2,729 unlinked passenger trips
+Taxi
+Municipalities Served (15)
+Barnstable Brewster Dennis Falmouth Mashpee Provincetown Truro Wellfleet Yarmouth
+Bourne Chatham Eastham Harwich Orleans Sandwich
+PERFORMANCE METRICS
+Fixed Route - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 449,598 87,229 88,067 56,027 50,154 41,630 37,973 34,930 27,904 34,528 35,606 44,966 54,954 593,968 488,403 121.61%
+UPT/VRM 0.27 0.40 0.41 0.36 0.33 0.30 0.27 0.24 0.22 0.24 0.25 0.28 0.32 0.31 0.28 11.16%
+UPT/VRH 5.09 7.16 7.03 6.58 6.14 5.40 4.87 4.26 3.82 4.29 4.33 4.66 4.94 5.43 5.32 1.97%
+FRR 5.91% 5.40% 5.77% 2.85% 1.46% 1.10% 0.77% 1.12% 1.29% 1.59% 1.55% 1.93% 2.09% 2.35% 4.85% -2.50%
+OPEX/VRM $4.44 $6.24 $5.39 $5.77 $7.00 $6.71 $8.68 $7.40 $7.24 $7.05 $6.77 $5.93 $5.66 $6.56 $5.32 23.31%
+OPEX/VRH $84.45 $111.09 $93.32 $104.36 $130.36 $121.86 $158.59 $132.16 $128.41 $124.03 $116.66 $97.43 $88.29 $114.70 $101.45 13.06%
+OPEX/UPT $16.60 $15.51 $13.27 $15.86 $21.22 $22.58 $32.54 $31.02 $33.66 $28.89 $26.92 $20.92 $17.86 $21.13 $19.06 10.86%
+OTP 89.69% 85.20% 87.40% 91.60% 90.80% 91.00% 91.10% 93.40% 96.20% 91.10% 91.10% 90.80% 88.80% 90.71% 90.20% 0.51%
+STO 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+Demand Response - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 154,109 16,661 17,446 18,341 20,101 17,108 16,498 17,644 16,935 19,280 19,937 20,047 17,869 217,867 167,956 129.72%
+UPT/VRM 0.14 0.15 0.13 0.15 0.16 0.16 0.16 0.16 0.16 0.16 0.16 0.16 0.16 0.16 0.15 4.24%
+UPT/VRH 1.75 2.11 2.21 2.21 2.05 2.13 1.72 2.09 1.96 2.23 2.29 2.21 2.28 2.12 1.89 12.00%
+FRR 5.78% 9.29% 9.07% 9.01% 5.83% 6.44% 4.55% 7.26% 6.97% 6.66% 6.07% 7.03% 7.08% 6.94% 7.44% -0.51%
+OPEX/VRM $6.02 $4.77 $3.34 $5.01 $6.11 $5.04 $7.40 $4.82 $5.42 $5.43 $6.69 $5.61 $6.02 $5.44 $6.38 -14.80%
+OPEX/VRH $75.55 $68.11 $57.61 $71.85 $78.17 $68.13 $79.07 $62.81 $66.10 $75.71 $93.36 $75.89 $83.11 $73.59 $78.21 -5.90%
+OPEX/UPT $43.23 $32.32 $26.01 $32.47 $38.09 $32.02 $46.09 $30.09 $33.80 $33.92 $40.84 $34.37 $36.50 $34.77 $41.46 -16.15%
+OTP 93.34% 90.68% 91.27% 93.08% 93.00% 92.10% 96.42% 96.91% 97.40% 96.91% 96.42% 92.10% 92.10% 94.03% 93.90% 0.13%
+STO 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+27
+
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class FY25 Target (%) Difference Asset Class Difference
+(%) (%) (%) (%) (%)
+Bus (BU) 28.57% 28.57% 0.00% Automobiles 0.00% 0.00% 0.00% Passenger/Parking 0.00% 0.00% 0.00%
+Cutaway Trucks/Other Rubber 0.00% 0.00% 0.00%
+Administrative/Maintenance 0.00% 0.00% 0.00%
+(CU) 0.00% 0.00% 0.00% Tires
+Minivan (MV) 0.00% 12.50% -12.50% Steel Wheel Vehicles 0.00% 0.00% 0.00%
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00% 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 8 0 -100.00%
+Demand Demand Demand 4 0 -100.00%
+0.00% 0.00 0.00% 0.00 0.00 0.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.60 0.00 -100.00% Fixed Route 16.00 1.00 -93.75% Fixed Route 1.20 0.00 -100.00%
+Demand 0.10 0.00 -100.00% Demand 8.00 2.00 -75.00% Demand 0.20 0.00 -100.00%
+Response Response Response
+28
+
+ANNUAL REPORTING PERFORMANCE METRICS
+Fixed Demand Demand
+Fleet Composition
+Route Response Taxi
+0%
+Electric 0% 15%
+0%
+Hybrid 0% 0%
+0%
+CNG 0% 0%
+Diesel 59% 0% 0%
+Gasoline 41% 85% 100%
+Fixed Demand Demand Commuter Bus
+Route Response Taxi
+External 22 4 2 1
+Partnerships
+29
+
+Franklin Regional Transit Authority (FRTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+12 Olive Street Tina Cote www.frta.org
+Greenfield, MA 01301
+Agency Information Ridership Information (FY25)
+Year Founded 1978 Fixed Route 158,124 unlinked passenger trips
+Mon – Fri: 5:00 AM – 7:30 PM
+Service Hours Demand Response 33,642 unlinked passenger trips
+Sat – Sun: 9:30 AM – 5:25 PM
+Municipalities Served (42)
+Ashfield Chester Deerfield Greenfield Leyden Northfield Rowe Southwick Whatley
+Bernardston Chesterfield Erving Hatfield Middlefield Orange Russel Tolland Worthington
+Blandford Colrain Gill Hawley Montague Petersham Shelburne Warwick *Also
+Buckland Conway Goshen Heath Montgomery Phillipston* Shutesbury Wendell served by
+Charlemont Cummington Granville Huntington New Salem Plainfield Southampton Westhampton MART
+PERFORMANCE METRICS
+Fixed Route - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 56,774 11,639 12,363 20,275 14,216 12,868 11,272 11,373 11,483 13,476 13,404 13,292 12,463 158,124 108,150 146.21%
+UPT/VRM 0.18 0.30 0.33 0.51 0.36 0.33 0.27 0.27 0.29 0.32 0.31 0.32 0.31 0.32 0.26 23.45%
+UPT/VRH 4.06 7.97 8.30 14.24 9.24 9.37 7.40 7.27 8.27 8.74 8.59 8.77 8.26 8.84 6.67 32.59%
+FRR 0.03% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00%
+OPEX/VRM $5.01 $9.59 $7.22 $6.03 $7.09 $7.09 $6.80 $6.49 $6.85 $4.77 $4.89 $5.54 $4.62 $6.38 $4.97 28.56%
+OPEX/VRH $112.73 $257.90 $184.16 $169.76 $184.16 $201.98 $189.19 $175.85 $194.50 $132.27 $137.47 $149.95 $121.63 $174.19 $122.70 41.96%
+OPEX/UPT $27.75 $32.35 $22.20 $11.92 $19.92 $21.57 $25.56 $24.18 $23.51 $15.12 $16.00 $17.09 $14.73 $19.70 $19.30 2.09%
+OTP 0.00% 97.84% 97.11% 97.10% 97.10% 97.50% 96.89% 97.33% 97.00% 96.50% 95.50% 95.25% 96.30% 96.79% 90.00% 6.79%
+STO 80.20% 87.34% 87.27% 86.25% 88.57% 91.01% 94.43% 94.32% 92.36% 94.26% 94.06% 93.90% 93.31% 91.42% 95.00% -3.58%
+30
+
+Demand Response - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 24,356 2,811 3,062 3,152 3,455 3,441 3,484 2,985 2,813 2,809 2,670 2,630 2,196 35,508 36,500 97.28%
+UPT/VRM 24,356 2,295 2,451 2,528 2,944 2,696 2,856 2,975 2,768 3,303 3,245 2,978 2,603 33,642 38,325 87.78%
+UPT/VRH 0.12 0.11 0.11 0.10 0.11 0.11 0.12 0.13 0.14 0.13 0.12 0.11 0.12 0.12 0.18 -34.92%
+FRR 1.59 1.54 1.65 1.70 1.66 1.74 1.79 1.85 1.84 1.87 1.83 1.66 1.66 1.73 2.63 -33.91%
+OPEX/VRM 4.08% 3.76% 3.80% 4.88% 5.77% 6.11% 4.59% 4.15% 3.79% 3.92% 2.08% 3.18% 2.84% 3.98% 4.46% -0.48%
+OPEX/VRH $6.35 $10.10 $8.48 $7.02 $5.74 $4.28 $5.72 $6.27 $6.60 $6.41 $6.53 $6.86 $7.17 $6.72 $6.29 6.82%
+OPEX/UPT $87.51 $147.87 $131.77 $117.67 $90.64 $65.26 $87.57 $91.66 $89.08 $92.73 $97.48 $100.77 $98.39 $100.32 $95.10 5.49%
+OTP $54.88 $95.81 $79.94 $69.26 $54.59 $37.52 $48.82 $49.57 $48.47 $49.55 $53.38 $60.67 $59.19 $57.83 $38.03 52.06%
+STO 88.67% 93.74% 91.53% 90.83% 90.72% 92.66% 92.25% 94.35% 92.22% 88.53% 92.72% 93.29% 92.80% 92.14% 90.00% 2.14%
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+Bus (BU) 0.00% 0.00% 0.00% Automobiles 0.00% 0.00% 0.00% Passenger/Parking 0.00% 0.00% 0.00%
+Cutaway 14.00% 42.8% -28.8% Trucks/Other Rubber 25.00% 20.00% 5.00%
+Administrative/Maintenance
+(CU) Tires 0.00% 0.00% 0.00%
+Van (VN) 68.00% 38% 30%
+Note: FRTA’s targets are representative of the MassDOT Group TAM Plan, which includes FRTA and the Mashpee Wampanoag Tribe. The Tribe does not submit asset data until April, so the current performance is reflective
+of FRTA’s assets only. FRTA’s demand taxi service ended in January 2024 due to grant expiration.
+SAFETY PERFORMANCE METRICS
+Preventable Accidents / 100K VRM
+Mode Baseline Actual Target Variance
+1.91 2.59 1.45 78.62%
+Fixed Route
+Demand Response
+0.44 0 1.2 -100.00%
+ANNUAL REPORTING PERFORMANCE METRICS
+Fixed Demand
+Fleet Composition
+Route Response
+Electric 0% 11%
+Hybrid 0% 0%
+CNG 0% 0%
+Diesel 60% 0%
+Gasoline 40% 89%
+31
+
+Fixed Demand Demand Commuter Bus
+Route Response Taxi
+External 0 6 0
+Partnerships
+32
+
+Greater Attleboro-Taunton Regional Transit Authority (GATRA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+10 Oak Street Mary Ellen DeFrias www.gatra.org
+Taunton, MA 02780
+Agency Information Ridership Information (FY25)
+Year Founded 1976 Fixed Route 528,056 unlinked passenger trips
+Mon-Fri: 5:00 AM – 7:31 PM
+Sat: 7:25 AM-6:44 PM
+Service Hours Demand Response 288,995 unlinked passenger trips
+Sunday service (Oct 15-Feb 4) 8:00 AM-6:19 PM
+Sunday service (Feb 5-Mar 31) 7:25 AM-6:24 PM
+Municipalities Served (30)
+Attleboro Dighton Hanover Marshfield North Attleboro Plymouth Scituate
+Bellingham Duxbury Halifax Medway Norton Plympton Seekonk
+Berkley Foxborough Kingston Middleborough Pembroke Raynham Taunton
+Carver Franklin Lakeville Norfolk Plainville Rehoboth Wareham
+Mansfield Wrentham
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 383,375 37,750 40,804 45,640 50,057 43,511 44,903 39,661 43,867 47,197 41,995 48,209 44,462 528,056 644,619 81.92%
+UPT/VRM 0.34 0.33 0.35 0.43 0.51 0.47 0.45 0.35 0.41 0.49 0.36 0.42 0.39 0.41 0.58 -29.42%
+UPT/VRH 6.29 6.67 7.13 8.77 7.87 6.91 6.65 5.65 6.69 8.10 5.83 6.84 6.45 6.90 10.61 -34.97%
+FRR 5.90% 4.94% 3.78% 5.15% 7.34% 6.61% 2.43% 4.36% 4.59% 6.17% 5.76% 5.36% 5.06% 5.09% 6.20% -1.11%
+OPEX/VRM $5.97 $6.08 $6.61 $7.32 $7.77 $6.93 $8.20 $7.39 $6.55 $7.95 $5.98 $6.78 $6.21 $6.94 $7.08 -1.97%
+OPEX/VRH $110.75 $123.59 $134.16 $148.37 $120.97 $101.95 $120.12 $119.72 $106.88 $131.19 $98.10 $109.87 $102.18 $116.96 $128.76 -9.16%
+OPEX/UPT $17.42 $18.54 $18.81 $16.91 $15.36 $14.76 $18.06 $21.18 $15.98 $16.21 $16.82 $16.06 $15.84 $16.95 $12.14 39.65%
+OTP 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 84.00% 83.00% 80.00% 80.00% 27.25% 90.00% -62.75%
+STO 98.63% 100.00% 100.00% 100.00% 99.97% 99.99% 100.00% 100.00% 99.98% 99.94% 99.94% 99.98% 99.91% 99.98% 100.00% -0.02%
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 214,179 23,778 24,224 22,680 24,834 23,182 23,643 24,951 22,601 24,558 23,836 26,489 24,219 288,995 367,312 78.68%
+UPT/VRM 0.14 0.14 0.14 0.14 0.14 0.14 0.14 0.14 0.14 0.13 0.12 0.14 0.13 0.14 0.20 -31.86%
+UPT/VRH 1.78 1.71 1.72 1.67 1.74 1.75 1.70 2.04 2.04 1.99 1.95 2.16 2.03 1.86 2.76 -32.43%
+FRR 4.13% 4.06% 3.82% 5.20% 4.95% 4.46% 3.73% 4.27% 4.45% 5.13% 4.74% 4.40% 5.61% 4.55% 4.35% 0.20%
+OPEX/VRM $5.93 $5.64 $6.15 $5.54 $5.55 $4.43 $6.00 $5.72 $5.51 $5.03 $4.93 $5.18 $5.19 $5.40 $5.44 -0.70%
+33
+
+Demand Response – Performance Metrics
+OPEX/VRH $75.17 $68.60 $74.83 $68.49 $70.35 $53.95 $74.44 $84.96 $82.71 $76.92 $77.20 $80.11 $78.73 $73.92 $74.95 -1.38%
+OPEX/UPT $41.32 $40.01 $43.54 $40.91 $40.44 $30.86 $43.67 $41.72 $40.56 $38.64 $39.59 $37.04 $38.71 $39.64 $27.11 46.21%
+OTP 97.58% 95.55% 94.36% 94.10% 96.14% 95.93% 96.30% 97.39% 97.55% 97.01% 96.28% 94.68% 95.31% 95.88% 90.00% 5.88%
+STO 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+Notes: GATRA’s Fixed Route and Demand Response AVL systems were out of commission during FY23. Data collection will resume in FY24.
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+Bus (BU) 8.33% 36.11% -27.78% Automobiles 0.00% 20.00% -20.00% Passenger/Parking 0.00% 0.00% 0.00%
+Cutaway 3.23% 4.81% -1.58% Trucks/Other Rubber 42.86% 14.29% 28.57%
+Administrative/Maintenance
+(CU) Tires 0.00% 0.00% 0.00%
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 3 0 -100%
+Demand Demand Demand 2 4 100.00%
+0.00 0.00 0.00% 0.00 0.00 0.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 2.60 0.00 -100.00% Fixed Route 3.00 1.00 -66.67% Fixed Route 2.60 0.75 -71.24%
+Demand 1.10 2.02 83.91% Demand 2.00 3.00 50.00% Demand 1.10 1.01 -8.04%
+Response Response Response
+ANNUAL REPORTING PERFORMANCE METRICS
+Fleet Composition Fixed Route Demand Response
+Electric 28% 4%
+Hybrid 5% 0%
+CNG 0% 0%
+Diesel 60% 0%
+Gasoline 7% 96%
+34
+
+Fleet Composition Fixed Route Demand Response
+External
+3 4
+Partnerships
+35
+
+Lowell Regional Transit Authority (LRTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+115 Thorndike Street Dave Bradley www.lrta.com
+Lowell, MA 01852
+Agency Information Ridership Information (FY25)
+Year Founded 1976 Fixed Route 1,052,934 unlinked passenger trips
+Mon-Fri: 5:45 AM – 7:25 PM
+Service Hours Sat: 7:00 AM – 7:00 PM Demand Response 77,619 unlinked passenger trips
+Sun: No Service
+Municipalities Served (14)
+Acton Carlisle Dracut Groton Maynard Tewksbury Tyngsborough *Received no service in
+Billerica Chelmsford Dunstable* Lowell Pepperell Townsend** Westford 16/17
+**Also served by MART
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 703,350 64,951 64,897 79,358 92,312 84,816 84,471 93,590 85,476 102,119 104,784 106,928 89,232 1,052,934 724,610 145.31%
+UPT/VRM 0.63 0.65 0.65 0.84 0.90 0.92 0.86 0.89 0.93 1.01 1.02 1.02 0.93 0.89 0.69 28.27%
+UPT/VRH 9.31 9.63 9.78 12.55 13.60 13.81 12.89 13.25 13.72 15.40 15.36 1.47 14.28 7.26 10.10 -28.17%
+FRR 8.91% 4.56% 5.29% 8.61% 7.98% 7.66% 1.58% 1.81% 0.13% 0.47% 0.00% 0.00% 0.00% 3.33% 9.10% -5.77%
+OPEX/VRM $7.57 $9.88 $9.30 $9.72 $9.98 $9.25 $8.93 $10.51 $8.65 $8.25 $8.81 $7.55 $8.03 $9.08 $9.41 -3.56%
+OPEX/VRH $110.98 $146.76 $139.35 $145.19 $150.74 $139.42 $133.27 $157.21 $128.07 $125.96 $132.92 $10.82 $123.25 $74.39 $143.50 -48.16%
+OPEX/UPT $11.92 $15.25 $14.25 $11.57 $11.08 $10.09 $10.34 $11.86 $9.34 $8.18 $8.65 $7.38 $8.63 $10.25 $12.37 -17.11%
+OTP 87.64% 97.50% 95.10% 96.00% 97.00% 93.50% 94.90% 95.50% 94.50% 95.30% 94.00% 94.50% 92.20% 95.00% 87.64% 7.36%
+STO 99.85% 99.64% 99.85% 99.99% 99.97% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 99.95% 99.85% 0.10%
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 72,507 6,189 5,915 6,140 7,339 5,807 5,823 6,435 6,445 7,054 6,996 6,537 6,939 77,619 74,700 103.91%
+UPT/VRM 0.17 0.20 0.19 0.19 0.20 0.18 0.16 0.17 0.17 0.19 0.17 0.18 0.19 0.18 0.19 -4.84%
+UPT/VRH 2.21 2.45 2.60 2.52 2.74 2.55 2.33 2.52 2.47 2.53 2.15 2.18 2.62 2.46 2.28 7.90%
+FRR 3.55% 0.63% 1.87% 3.92% 3.06% 2.17% 1.05% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 1.12% 3.57% -2.45%
+OPEX/VRM $5.03 $5.75 $7.18 $6.30 $6.46 $5.89 $7.45 $5.09 $4.99 $6.15 $4.92 $4.82 $4.61 $5.76 $5.88 -1.96%
+OPEX/VRH $66.98 $71.70 $96.87 $84.53 $89.46 $85.60 $108.14 $75.00 $71.98 $83.41 $64.11 $58.50 $62.76 $78.45 $76.76 2.20%
+OPEX/UPT $30.37 $29.32 $37.26 $33.59 $32.63 $33.61 $46.45 $29.72 $29.10 $33.01 $29.77 $26.86 $23.95 $31.89 $35.61 -10.46%
+OTP 95.39% 95.27% 94.79% 94.26% 95.01% 95.33% 95.05% 96.36% 96.36% 95.40% 95.90% 96.70% 97.29% 95.64% 95.39% 0.26%
+STO 99.98% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 99.98% 0.02%
+36
+
+Notes: Operating expenses do not include maintenance costs.
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+Bus (BU) 0.00% 13.64% -13.64% Automobiles 50.00% 33.33% 16.67% Passenger/Parking 0.00% 0.00% 0.00%
+Cutaway 39.58% 47.92% -8.34% Trucks/Other Rubber 22.22% 12.50% 9.72% Administrative/Maintenanc
+0.00% 0.00% 0.00%
+(CU) Tires e
+Minivan (MV) 50.00% 33.33% 16.67%
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 3 0 -100.00%
+Demand Demand Demand 1 0 -100.00%
+0.00 0.00 0.00% 0.00 0.00 0.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+%
+Mode Target CY24 Actual Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Variance
+Fixed Route 1.50 0.00 -100.00% Fixed Route 2.00 1.00 -50.00% Fixed Route 1.50 0.00 -100.00%
+Demand 3.00 0.00 -100.00% Demand 1.00 0.00 -100.00% Demand 3.00 0.00 -100.00%
+Response Response Response
+ANNUAL REPORTING PERFORMANCE METRICS
+Fleet Composition Fixed Route Demand Response
+Electric 0% 0%
+Hybrid 6% 0%
+CNG 0% 0%
+Diesel 82% 0%
+Gasoline 12% 100%
+External Partnerships 10 12
+37
+
+Martha’s Vineyard Transit Authority (VTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+11A Street, Airport Business Park Angela Gompert www.vineyardtransit.com
+Edgartown, MA 02359
+Agency Information Ridership Information (FY25)
+Year Founded
+1980 Fixed Route 1,127,708 unlinked passenger trips
+Summer 5:15 AM-1:30 AM
+Fall Sun-Thurs 5:15 AM-1:00 AM
+Service Hours
+Demand Response 10,279 unlinked passenger trips
+Fall Fri-Sat 5:15 AM-1:30 AM
+Winter and Spring 5:15 AM-11:32 PM
+Municipalities Served (6)
+Aquinnah Edgartown Oak Bluffs Tisbury West Tisbury
+Chilmark
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 772,214 200,568 204,221 118,519 69,459 40,324 34,938 35,310 30,395 40,539 55,488 100,329 197,618 1,127,708 815,000 138.37%
+UPT/VRM 0.79 1.28 1.41 1.14 0.94 0.58 0.50 0.53 0.49 0.58 0.50 0.85 1.49 0.96 0.85 12.47%
+UPT/VRH 12.62 20.02 25.27 16.95 16.57 10.55 8.65 8.97 8.58 9.30 9.44 14.83 21.42 15.92 12.00 32.64%
+FRR 29.71% 39.59% 44.54% 25.17% 12.54% 4.57% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 12.87% 29.15% -16.28%
+OPEX/VRM $5.48 $5.57 $5.37 $6.13 $8.05 $6.51 $8.78 $7.14 $6.23 $7.15 $6.53 $6.17 $4.45 $6.24 $6.05 3.09%
+OPEX/VRH $87.98 $86.85 $96.29 $91.53 $141.45 $118.35 $151.46 $121.47 $110.06 $114.57 $123.68 $107.76 $63.85 $103.85 $97.10 6.95%
+OPEX/UPT $6.97 $4.34 $3.81 $5.40 $8.53 $11.21 $17.51 $13.55 $12.83 $12.32 $13.10 $7.27 $2.98 $6.52 $10.80 -39.59%
+OTP 96.50% 93.00% 93.00% 94.00% 98.00% 98.00% 98.50% 99.00% 99.00% 97.00% 85.00% 90.00% 91.00% 94.63% 88.00% 6.63%
+STO 86.78% 88.00% 88.00% 96.00% 97.00% 98.00% 98.90% 99.30% 99.50% 99.00% 82.00% 95.00% 94.00% 94.56% 87.50% 7.06%
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 7,976 914 795 760 948 827 900 924 840 881 824 880 786 10,279 8,100 126.90%
+UPT/VRM 0.12 0.15 0.14 0.15 0.16 0.15 0.17 0.18 0.18 0.15 0.14 0.15 0.13 0.15 0.16 -5.12%
+UPT/VRH 1.66 1.90 1.83 1.82 2.09 2.06 2.15 2.43 2.36 2.15 1.96 2.13 2.03 2.07 1.80 14.79%
+FRR 20.94% 1.79% 1.52% 3.80% 2.25% 1.81% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.95% 7.25% -6.30%
+OPEX/VRM $8.38 $13.63 $8.58 $12.79 $7.30 $9.63 $10.07 $10.11 $10.38 $8.24 $9.76 $10.93 $13.94 $10.46 $8.50 23.10%
+OPEX/VRH $120.02 $177.38 $111.77 $159.11 $95.74 $130.94 $130.21 $136.24 $134.69 $118.14 $141.43 $158.14 $218.27 $142.41 $126.00 13.02%
+OPEX/UPT $72.24 $93.35 $61.02 $87.51 $45.85 $63.49 $60.62 $56.18 $57.08 $54.98 $72.26 $74.22 $107.47 $68.93 $76.00 -9.31%
+OTP 91.48% 79.00% 82.00% 82.00% 81.70% 83.10% 85.00% 85.00% 85.10% 86.20% 85.00% 83.90% 79.30% 83.11% 91.00% -7.89%
+STO 98.00% 85.00% 78.00% 81.00% 85.00% 80.20% 74.80% 75.80% 78.10% 83.30% 82.70% 81.90% 81.10% 80.58% 95.50% -14.93%
+38
+
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+Bus (BU) 17.00% 6.52% 10.48% Automobiles 0.00% 71.43% -71.43% Administrative/Maintenance 0.00% 0.00% 0.00%
+Cutaway 100.00% 100.00% 0.00%
+Passenger/Parking Facilities 0.00% 0.00% 0.00%
+(CU)
+Minivan (MV) 0.00% 100.00% -100.00%
+Van (VN) 100.00% 33.33% 66.67%
+SAFETY PERFORMANCE METRICS
+Preventable Accidents / 100K VRM
+Mode Baseline Actual Target Variance
+Fixed Route 0 0.53 3.25 -83.69%
+Demand Response 0 0.76 1 -24.00%
+ANNUAL REPORTING PERFORMANCE METRICS
+Demand
+Fleet Composition Fixed Route
+Response
+Electric 76% 0%
+Hybrid 0% 0%
+CNG 0% 0%
+Diesel 13% 0%
+Gasoline 11% 100%
+External Partnerships 32 3
+39
+
+Merrimack Valley Regional Transit Authority (MEVA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+85 Railroad Avenue Noah Berger www.mvrta.comwww.mvrta.com
+Haverhill, MA 01835
+Agency Information Ridership Information (FY25)
+Year Founded 1974 Fixed Route 2,866,054 unlinked passenger trips
+Mon-Fri: 5:00 AM – 9:45 PM
+Service Hours Sat: 7:00 AM – 7:00 PM Demand Response 118,287 unlinked passenger trips
+Sun: 9:00 AM – 5:45 PM
+Municipalities Served (16)
+Amesbury Boxford Groveland Lawrence Methuen Newburyport North Reading Salisbury
+Andover Georgetown Haverhill Merrimac Newbury North Andover Rowley West Newbury
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 1,198,037 276,128 293,505 250,266 270,476 223,116 206,283 195,165 183,915 233,277 242,820 245,497 245,606 2,866,054 2,154,138 133.05%
+UPT/VRM 0.84 1.86 1.93 1.76 1.73 1.59 1.39 1.30 1.34 1.54 1.63 1.63 1.69 1.62 1.52 6.19%
+UPT/VRH 9.28 20.61 21.40 21.25 20.86 19.17 16.76 15.66 16.11 18.57 19.63 19.69 20.41 19.22 16.95 13.37%
+FRR 3.38% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00%
+OPEX/VRM $10.12 $10.90 $12.26 $11.20 $12.40 $11.19 $10.94 $13.47 $12.03 $11.13 $11.30 $13.38 $12.92 $11.93 $16.31 -26.84%
+OPEX/VRH $112.06 $120.99 $136.22 $135.25 $149.47 $134.64 $132.04 $162.23 $144.92 $134.20 $136.02 $161.15 $155.74 $141.77 $73.13 93.86%
+OPEX/UPT $12.08 $5.87 $6.37 $6.36 $7.17 $7.02 $7.88 $10.36 $8.99 $7.23 $6.93 $8.18 $7.63 $7.38 $41.99 -82.43%
+OTP 78.75% 78.50% 75.70% 63.50% 66.70% 66.30% 69.60% 74.90% 75.50% 76.10% 75.20% 72.70% 72.60% 72.28% 80.00% -7.73%
+STO 99.46% 99.99% 99.90% 99.77% 99.88% 99.96% 99.78% 99.91% 99.92% 99.92% 99.91% 99.88% 99.80% 99.89% 96.00% 3.89%
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 62,767 8,662 9,084 9,318 11,162 9,723 9,139 9,976 9,157 10,722 10,950 10,525 9,869 118,287 99,795 118.53%
+UPT/VRM 0.10 0.10 0.10 0.10 0.11 0.11 0.11 0.11 0.11 0.11 0.11 0.11 0.11 0.11 0.11 -4.24%
+UPT/VRH 1.65 1.66 1.72 1.79 1.87 1.88 1.79 1.79 1.73 1.84 1.79 1.83 1.80 1.79 1.91 -6.13%
+FRR 3.76% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00%
+OPEX/VRM $3.40 $3.82 $3.85 $3.68 $4.43 $4.11 $4.05 $4.73 $4.38 $4.17 $4.15 $4.93 $4.18 $4.21 $4.14 1.78%
+OPEX/VRH $58.28 $61.53 $65.26 $63.21 $76.60 $70.07 $67.64 $78.28 $71.88 $69.30 $67.64 $79.48 $68.90 $70.14 $70.32 -0.26%
+OPEX/UPT $35.40 $37.07 $37.88 $35.32 $40.95 $37.29 $37.78 $43.66 $41.49 $37.70 $37.74 $43.48 $38.26 $39.12 $38.17 2.49%
+OTP 97.50% 96.00% 95.00% 96.00% 95.10% 94.90% 92.83% 96.60% 94.80% 94.12% 94.80% 94.20% 94.10% 94.87% 95.00% -0.13%
+STO 95.18% 92.44% 93.16% 93.95% 93.21% 92.56% 91.26% 91.44% 90.25% 91.51% 91.84% 91.60% 91.58% 92.07% 96.50% -4.43%
+40
+
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+Bus (BU) 0.00% 0.00% 0.00% Automobiles 100.00% 100.00% 0.00% Passenger/Parking 0.00% 0.00% 0.00%
+Cutaway 0.00% 10.00% -10.00% Trucks/Other Rubber 100.00% 100.00% 0.00% Administrative/Maintenanc
+0.00% 0.00% 0.00%
+(CU) Tires e
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 0 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 4 1 -75%
+Demand Demand Demand 3 0 -100.00%
+0.00 0.00 0.00% 0.00 0.00 0.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.80 Fixed Route 4.00 0.00 -100.00% Fixed Route 1.310.80
+Demand Demand 3.00 0.00 -100.00% Demand
+0.00 0.00 0.00% 0.00
+Response Response Response
+ANNUAL REPORTING PERFORMANCE METRICS
+Fleet Composition Fixed Route Demand Response
+Electric 0% 0%
+Hybrid 20% 0%
+CNG 0% 0%
+Diesel 80% 0%
+Gasoline 0% 100%
+External
+126 126
+Partnerships
+41
+
+MetroWest Regional Transit Authority (MWRTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+15 Blandin Avenue James Nee www.mwrta.com
+Framingham, MA
+Agency Information Ridership Information (FY25)
+Year Founded 2006 Fixed Route 522,279 unlinked passenger trips
+Mon-Fri: 5:30 AM – 8:50 PM
+Service Hours Sat-Sun: 8:00 AM – 5:45 PM (Fixed Route) Demand Response 193,775 unlinked passenger trips
+Sat-Sun: 8:00 AM – 6:00 PM (Catch Connect only)
+Municipalities Served (16)
+Ashland Framingham Hopedale Hudson* Milford Sherborn* Sudbury Wellesley *No service
+Dover* Holliston Hopkinton Marlborough Natick Southborough Wayland Weston* provided in
+FY16, FY17.
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 209,304 33,157 38,288 45,781 54,383 43,271 37,304 35,761 39,631 46,668 55,926 49,087 43,022 522,279 382,103 136.69%
+UPT/VRM 0.21 0.29 0.38 0.37 0.44 0.40 0.34 0.32 0.36 0.37 0.48 0.42 0.33 0.38 0.38 -1.88%
+UPT/VRH 2.96 4.10 4.69 5.46 5.97 5.58 4.71 4.39 4.84 5.31 6.34 5.78 4.62 5.16 5.46 -5.42%
+FRR 0.00% 0.84% 0.83% 0.15% 0.00% 0.01% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.16% 6.00% -5.84%
+OPEX/VRM $5.52 $6.96 $7.75 $5.83 $6.23 $6.15 $6.31 $6.62 $6.55 $5.72 $6.65 $6.54 $6.78 $6.48 $6.84 -5.17%
+OPEX/VRH $77.49 $96.88 $95.58 $85.64 $84.78 $85.31 $88.24 $90.70 $87.72 $83.00 $87.03 $89.61 $93.85 $89.00 $97.37 -8.60%
+OPEX/UPT $26.17 $23.62 $20.37 $15.70 $14.19 $15.29 $18.75 $20.66 $18.11 $15.62 $13.74 $15.50 $20.33 $17.24 $17.84 -3.36%
+OTP 0.00% 99.00% 99.00% 98.00% 99.00% 99.00% 99.00% 99.00% 97.00% 98.00% 98.00% 98.00% 97.00% 98.33% 97.00% 1.33%
+STO 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 97.00% 2.00%
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 116,387 12,182 12,545 15,590 18,945 16,356 15,116 16,163 16,032 18,046 18,458 18,146 16,196 193,775 184,377 105.10%
+UPT/VRM 0.15 0.14 0.14 0.15 0.17 0.16 0.15 0.16 0.16 0.16 0.17 0.16 0.15 0.16 0.20 -20.39%
+UPT/VRH 1.91 1.74 1.73 2.15 2.30 2.34 2.11 2.17 2.24 2.22 2.29 2.25 2.21 2.15 2.49 -13.72%
+FRR 0.02% 0.08% 0.01% -0.09% -0.06% -0.14% -0.14% -0.13% -0.07% -0.07% -0.12% -0.07% -0.05% -0.07% 4.00% -4.07%
+OPEX/VRM $6.92 $7.47 $7.52 $6.74 $6.51 $6.59 $6.64 $6.58 $6.83 $6.44 $6.71 $6.51 $6.93 $6.77 $8.25 -18.01%
+OPEX/VRH $88.25 $95.75 $93.60 $95.63 $89.52 $95.88 $92.04 $91.02 $93.79 $87.65 $92.22 $91.98 $103.46 $93.41 $105.11 -11.13%
+OPEX/UPT $46.20 $55.14 $54.26 $44.49 $38.90 $41.04 $43.67 $41.92 $41.80 $39.50 $40.32 $40.85 $46.88 $43.45 $42.19 3.00%
+OTP 97.10% 97.00% 98.00% 94.00% 95.00% 95.00% 93.00% 96.00% 95.00% 98.00% 97.00% 96.50% 95.00% 95.79% 97.00% -1.21%
+STO 99.85% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 99.00% 97.00% 2.00%
+42
+
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+Cutaway 29.20% 42.99% -13.79% Trucks/Other Rubber 40.00% 35.71% 4.29%
+Administrative/Maintenance 0.00% 0.00% 0.00%
+(CU) Tires
+Van (VN) 0.00% 0.00% 0.00%
+Automobile
+100.00% 100.00% 0.00%
+(AO)
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 9 0 -100%
+Demand Demand Demand 7 0 -100.00%
+0.00 0.00 0.00% 0.00 0.00 0.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 1.00 0.00 -100.00% Fixed Route 15.00 0.00 -100.00% Fixed Route 1.25 0.00 -100.00%
+Demand 1.00 0.00 -100.00% Demand 10.00 0.00 -100.00% Demand 1.25 0.00 -100.00%
+Response Response Response
+ANNUAL PERFORMANCE REPORTING METRICS
+Fleet Composition Fixed Route Demand Response
+Electric 0% 10%
+Hybrid 0% 0%
+CNG 95% 0%
+Diesel 0% 0%
+Gasoline 5% 90%
+External
+0 19
+Partnerships
+43
+
+Montachusett Regional Transit Authority (MART)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+1427R Water Street Stephen Oldfield www.mrta.us
+Fitchburg, MA 01420
+Agency Information Ridership Information (FY25)
+Year Founded 1976 Fixed Route 503,404 unlinked passenger trips
+Mon-Fri: 5:15 AM – 7:40 PM*
+Demand Response 304,027 unlinked passenger trips
+Sat: 8:30 AM – 6:52 PM
+Sun: 8:30 AM – 5:01 PM
+Service Hours
+*University Shuttle = Mon-Thurs 6:30 AM to 12:00 AM; Friday 8:00
+Demand Taxi 327,558 unlinked passenger trips
+AM to 7:00 PM; Sunday 4:30 PM-12:00 AM
+Late night JARC = Mon-Sun 7:00 PM-12:00 AM
+Municipalities Served (25)
+Ashburnham Ayer Boxborough Hardwick Lancaster Lunenburg Shirley Templeton
+Ashby Barre* Fitchburg Harvard Leominster Phillipston** Sterling Townsend***
+Athol Bolton Gardner Hubbardston Littleton Royalston Stow Westminster
+*Also served by WRTA **Also served by FRTA Winchendon
+***Also served by LRTA
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 297,794 31,304 32,963 43,673 48,507 43,242 42,365 40,482 44,163 45,554 46,523 45,817 38,811 503,404 429,908 117.10%
+UPT/VRM 0.36 0.31 0.27 0.39 0.55 0.51 0.42 0.43 0.51 0.45 0.46 0.45 0.42 0.42 0.47 -10.29%
+UPT/VRH 5.72 5.41 5.07 6.80 9.33 8.79 7.60 7.70 8.91 8.02 8.19 8.11 7.82 7.56 7.67 -1.49%
+FRR 7.44% 0.11% 0.03% 0.06% 5.69% 8.83% 4.36% 3.61% 5.24% 4.69% 6.59% 9.83% 2.11% 4.25% 12.00% -7.75%
+OPEX/VRM $8.44 $5.37 $5.34 $4.43 $6.97 $5.55 $5.57 $6.23 $6.71 $5.26 $5.96 $5.66 $5.36 $5.66 $7.28 -22.24%
+OPEX/VRH $133.10 $94.57 $99.75 $76.83 $119.24 $96.48 $100.38 $112.46 $117.59 $94.65 $105.76 $101.48 $100.85 $101.06 $113.54 -10.99%
+OPEX/UPT $23.29 $17.49 $19.68 $11.30 $12.78 $10.97 $13.21 $14.61 $13.20 $11.80 $12.91 $12.51 $12.90 $13.37 $18.49 -27.69%
+OTP 0.00% 98.00% 98.98% 98.98% 99.01% 98.00% 99.00% 98.98% 99.48% 100.00% 99.97% 99.97% 99.98% 99.20% 98.00% 1.20%
+STO 100.00% 100.00% 100.00% 100.00% 100.00% 98.30% 100.00% 99.30% 99.80% 100.00% 100.00% 100.00% 100.00% 99.78% 100.00% -0.22%
+44
+
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT
+227,029 23,495 25,228 23,427 29,370 23,756 24,097 26,033 23,565 27,658 28,704 22,102 26,592 304,027 252,074 120.61%
+0.14 0.14 0.15 0.14 0.16 0.15 0.17 0.16 0.17 0.15 0.16 0.14 0.15 0.15 0.21 -26.83%
+UPT/VRM
+2.27 2.41 2.50 2.38 2.62 2.46 2.95 2.53 2.65 2.53 2.58 2.43 2.40 2.53 2.68 -5.54%
+UPT/VRH
+20.32% 29.60% 24.08% 30.77% 29.63% 23.88% 28.12% 26.19% 20.31% 27.54% 24.82% 25.26% 25.01% 26.17% 21.25% 4.92%
+FRR
+$6.55 $5.84 $7.38 $5.77 $5.74 $6.44 $7.29 $6.24 $7.39 $5.54 $6.00 $7.04 $5.18 $6.27 $6.08 3.13%
+OPEX/VRM
+$102.67 $97.01 $122.04 $95.10 $94.06 $102.69 $125.96 $99.56 $118.88 $93.01 $99.01 $119.16 $84.68 $103.31 $102.54 0.75%
+OPEX/VRH
+OPEX/UPT
+$45.19 $40.27 $48.91 $39.99 $35.84 $41.78 $42.70 $39.32 $44.78 $36.77 $38.31 $49.01 $35.27 $40.81 $44.24 -7.75%
+98.79% 83.19% 82.09% 81.78% 81.07% 81.57% 81.10% 81.68% 79.27% 80.99% 83.31% 82.39% 83.21% 81.80% 98.00% -16.20%
+OTP
+97.43% 95.80% 96.40% 96.20% 95.90% 95.40% 94.30% 94.90% 94.70% 95.60% 95.40% 95.70% 95.80% 95.51% 98.00% -2.49%
+STO
+Demand Taxi – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 233,948 26,244 26,680 25,770 29,169 25,553 25,567 27,160 24,716 28,358 29,589 30,124 28,628 327,558 317,490 103.17%
+UPT/VRM 0.08 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.06 0.07 0.11 -39.02%
+UPT/VRH 3.34 1.59 1.52 1.44 1.69 1.73 1.73 1.64 1.69 1.63 1.52 1.77 1.45 1.61 3.55 -54.62%
+FRR 0.68% 0.66% 0.67% 0.73% 0.83% 0.80% 0.75% 0.88% 0.77% 0.73% 0.65% 0.76% 0.53% 0.72% 0.82% -0.10%
+OPEX/VRM $2.73 $3.01 $3.04 $3.06 $3.24 $2.85 $2.85 $2.99 $2.95 $3.08 $3.00 $3.10 $3.55 $3.07 $3.15 -2.48%
+OPEX/VRH $113.95 $70.31 $68.00 $64.49 $83.01 $73.59 $73.73 $71.34 $72.55 $73.70 $67.18 $81.40 $85.41 $73.79 $131.45 -43.87%
+OPEX/UPT $34.09 $44.19 $44.73 $44.66 $49.09 $42.42 $42.52 $43.57 $42.88 $45.10 $44.13 $46.00 $58.74 $45.80 $37.21 23.09%
+OTP 0.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 99.97% 100.00% 100.00% 100.00% 100.00% 0.00%
+STO 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+10.00% 11.11% -1.11% Trucks/Other Rubber 12.00% 16.13% -4.13%
+Bus (BU) Passenger/Parking 0.00% 0.00% 0.00%
+Tires
+Cutaway 10.00% 18.57% -8.57% 0.00% 0.00%
+Administrative/Maintenance 0.00%
+(CU)
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 5 2 -60%
+Demand Demand Demand 4 0 -100.00%
+0.00 0.00 0.00% 0.00 0.00 0.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 1.67 1.14 -31.63% Fixed Route 1.00 2.00 100.00% Fixed Route 0.34 1.14 235.81%
+Demand 1.33 0.00 -100.00% Demand 1.00 0.00 -100.00% Demand 0.34 0.00 -100.00%
+Response Response Response
+45
+
+ANNUAL REPORTING PERFORMANCE METRICS
+Fleet Fixed Demand Demand
+Composition Route Response Taxi
+Electric 0% 0% 0%
+Hybrid 4.8% 0% 0%
+CNG 0% 0% 0%
+Diesel 45.2% 0% 0%
+Gasoline 54.8% 100% 100%
+External
+1 3 10
+Partnerships
+46
+
+Nantucket Regional Transit Authority (NRTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+20-R South Street Gary Roberts www.nrtawave.com
+Nantucket, MA 02554
+Agency Information Ridership Information (FY25)
+Year Founded 1993 Fixed Route 434,406 unlinked passenger trips
+Winter: 7:00 AM to 9:15 PM
+Service Hours Shoulder: 7:00 AM to 12:00 AM Demand Response 5,594 unlinked passenger trips
+Peak: 7:00 AM to 12:15 AM
+Municipalities Served (1)
+Nantucket
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 226,951 102,101 100,099 42,047 23,091 11,170 10,529 7,415 7,008 7,008 16,063 31,773 76,102 434,406 262,097 165.74%
+UPT/VRM 0.72 1.77 1.74 1.04 0.95 0.50 0.47 0.32 0.33 0.33 0.64 0.77 1.17 1.03 0.85 20.89%
+UPT/VRH 7.92 16.80 16.56 11.38 8.65 4.91 4.50 3.07 3.21 20.80 6.61 7.21 11.80 10.51 9.16 14.76%
+FRR 23.22% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 25.00% -25.00%
+OPEX/VRM $7.52 $8.01 $7.24 $10.32 $12.90 $10.53 $15.84 $15.13 $13.87 $14.37 $13.41 $11.02 $3.98 $9.96 $8.07 23.48%
+OPEX/VRH $82.38 $76.06 $68.74 $112.95 $117.75 $102.35 $152.20 $145.34 $136.92 $919.29 $139.40 $103.42 $40.25 $101.94 $87.55 16.44%
+OPEX/UPT $10.40 $4.53 $4.15 $9.92 $13.60 $20.86 $33.83 $47.39 $42.67 $44.21 $21.09 $14.34 $3.41 $9.70 $9.55 1.54%
+OTP 97.08% 94.00% 93.00% 93.00% 96.00% 97.00% 96.00% 92.00% 92.00% 96.00% 92.00% 93.00% 91.00% 93.75% 100.00% -6.25%
+STO 99.92% 100.00% 100.00% 100.00% 100.00% 100.00% 99.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 99.92% 100.00% -0.08%
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 1,254 475 407 450 510 401 442 521 477 452 455 456 548 5,594 2,503 223.49%
+UPT/VRM 0.16 0.25 0.25 0.26 0.32 0.43 0.25 0.29 0.37 0.33 0.30 0.28 0.32 0.30 0.21 40.49%
+UPT/VRH 1.48 1.41 1.36 1.50 1.78 1.61 1.27 1.59 1.68 1.34 1.41 1.47 1.60 1.49 1.58 -5.44%
+FRR 0.55% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 2.30% -2.30%
+OPEX/VRM $17.41 $9.08 $14.83 $13.22 $19.95 $30.83 $14.24 $24.05 $28.76 $27.93 $19.11 $24.56 $13.17 $19.07 $12.86 48.32%
+OPEX/VRH $163.18 $51.37 $81.80 $76.18 $111.51 $116.76 $73.81 $132.83 $130.14 $113.62 $91.20 $127.38 $65.79 $96.60 $98.83 -2.26%
+OPEX/UPT $110.22 $36.34 $60.09 $50.79 $62.75 $72.50 $58.11 $83.37 $77.48 $84.71 $64.74 $86.88 $41.18 $64.65 $62.70 3.11%
+OTP 99.67% 96.00% 96.00% 94.00% 90.00% 90.00% 98.00% 85.00% 78.00% 91.00% 60.00% 71.00% 66.00% 84.58% 100.00% -15.42%
+STO 99.83% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+47
+
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+37.50% 62.50% -25.00% 50.00% 100.00% -50.00% Administrative/Maintenanc
+Bus (BU) Automobiles 0.00% 0.00% 0.00%
+e
+50.00% 100.00% -50.00% Trucks/Other Rubber 0.00% 50.00% -50.00%
+Van (VN)
+Tires
+SAFETY PERFORMANCE METRICS
+Preventable Accidents / 100K VRM
+Mode Baseline Actual Target Variance
+Fixed Route 0.00 2.6 0.00 100.00%
+Demand Response 0.00 0.00 0.00 0.00%
+ANNUAL REPORTING PERFORMANCE METRICS
+Fleet Demand
+Fixed Route
+Composition Response
+Electric 22% 60%
+Hybrid 0% 0%
+CNG 0% 0%
+Diesel 61% 0%
+Gasoline 17% 40%
+External
+1 0
+Partnerships
+48
+
+Pioneer Valley Transit Authority (PVTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+2808 Main Street Sandra Sheehan www.pvta.com
+Springfield, MA 01107
+Agency Information Ridership Information (FY25)
+Year Founded 1974 Fixed Route 9,575,499 unlinked passenger trips
+Mon-Wed: 5:00 AM – 11:55 PM
+Service Hours Thur-Sat: 5:00 AM – 1:25 AM Demand Response 211,243 unlinked passenger trips
+Sun: 7:00 AM – 11:35 PM
+Municipalities Served (24)
+Agawam Chicopee Granby Holyoke Ludlow Pelham Sunderland Westfield
+Amherst East Longmeadow Hadley Leverett Northampton South Hadley Ware Wilbraham
+Belchertown Easthampton Hampden Longmeadow Palmer Springfield West Springfield Williamsburg
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 6,079,372 670,556 741,315 889,404 932,983 859,842 728,283 611,306 842,218 909,667 992,302 820,165 577,458 9,575,499 7,500,000 127.67%
+UPT/VRM 1.28 1.93 1.87 1.96 1.92 2.04 1.69 1.49 1.89 1.93 2.01 1.81 1.46 1.84 1.45 26.75%
+UPT/VRH 17.65 26.97 27.16 31.22 29.20 31.53 26.71 23.40 30.16 30.80 32.53 28.93 23.12 28.62 22.00 30.10%
+FRR 10.00% 0.56% 1.25% 10.40% 10.97% 1.05% 0.14% 18.43% 0.22% 0.31% 0.30% 0.18% 8.99% 4.58% 11.50% -6.92%
+OPEX/VRM $8.45 $7.59 $10.00 $8.84 $7.37 $9.46 $7.87 $9.64 $8.80 $7.62 $7.71 $9.24 $10.86 $8.71 $8.30 4.93%
+OPEX/VRH $116.10 $106.07 $145.08 $140.77 $112.07 $146.40 $124.58 $151.91 $140.54 $121.90 $124.86 $147.85 $172.40 $135.64 $115.28 17.66%
+OPEX/UPT $6.58 $3.93 $5.34 $4.51 $3.84 $4.64 $4.67 $6.49 $4.66 $3.96 $3.84 $5.11 $7.46 $4.74 $5.67 -16.42%
+71.00% 69.00% 63.00% 67.60% 69.70% 71.80% 72.30% 69.60% 71.11% 71.46% 69.00% 70.46%
+OTP 75.03% 69.67% 75% -5.33%
+STO 99.89% 99.80% 99.98% 99.78% 99.83% 99.93% 99.94% 99.95% 99.82% 99.92% 99.92% 99.95% 99.98% 99.90% 100.00% -0.10%
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 150,074 15,988 17,419 17,352 19,008 17,292 16,469 17,685 16,587 18,923 19,654 18,328 16,538 211,243 191,500 110.31%
+UPT/VRM 0.09 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.09 0.09 0.09 0.09 0.09 0.10 0.10 0.98%
+UPT/VRH 1.36 1.45 1.51 1.61 1.55 1.51 1.45 1.44 1.49 1.51 1.55 1.51 1.50 1.51 1.40 7.64%
+FRR 6.84% 0.13% 0.64% 4.80% 3.86% 0.03% 0.05% 0.03% 0.04% -0.15% 0.06% 0.08% 0.20% 0.79% 6.80% -6.01%
+OPEX/VRM $4.28 $4.93 $4.71 $4.63 $4.53 $4.68 $4.78 $5.68 $4.81 $4.28 $4.26 $4.56 $4.72 $4.70 $4.98 -5.56%
+OPEX/VRH $63.34 $75.04 $72.49 $75.66 $71.70 $72.16 $72.10 $85.51 $75.42 $68.56 $69.65 $73.46 $75.28 $73.88 $73.07 1.10%
+OPEX/UPT $46.48 $51.58 $47.85 $46.91 $46.30 $47.64 $49.80 $59.48 $50.78 $45.46 $44.92 $48.72 $50.16 $49.02 $52.15 -5.99%
+OTP 95.25% 97.60% 97.60% 93.60% 96.50% 97.30% 97.30% 98.40% 97.00% 97.40% 97.40% 96.85% 97.20% 97.01% 95.00% 2.01%
+49
+
+STO 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 0.00%
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+Bus (BU) 30.00% 28.00% 2.00% Automobiles 50.00% 76.00% -26.00% Passenger/Parking 80.00% 20.00% 60.00%
+Cutaway 80.00% 74.00% 6.00% Trucks/Other Rubber 50.00% 67.00% -17.00% Administrative/Maintenanc 80.00% 20.00% 60.00%
+(CU) Tires e
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 Fixed Route 0.00 Fixed Route 16
+Demand Demand Demand
+0.00 0.00 0.00
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 3.21 Fixed Route 44.00 Fixed Route 1.20
+Demand Demand Demand
+0.00 0.00 0.00
+Response Response Response
+ANNUAL REPORTING PERFORMANCE METRICS
+Demand
+Fleet Composition Fixed Route
+Response
+Electric 12% 0%
+Hybrid 13% 0%
+CNG 0% 0%
+Diesel 75% 0%
+Gasoline 0% 100%
+External
+66 11
+Partnerships
+50
+
+Southeastern Regional Transit Authority (SRTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+700 Pleasant Street, Suite 320 Erik Rousseau www.srtabus.com
+New Bedford, MA 02740
+Agency Information Ridership Information (FY25)
+Year Founded 1974 Fixed Route 3,851,855 unlinked passenger trips
+Mon-Fri: 5:20 AM – 10:10 PM
+Service Hours Demand Response 124,334 unlinked passenger trips
+Sat-Sun: 6:10 AM – 8:05 PM
+Municipalities Served (10)
+Acushnet Fairhaven Freetown New Bedford Swansea
+Dartmouth Fall River Mattapoisett Somerset Westport
+PERFORMANCE METRICS
+Fixed Route – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 2,016,128 297,887 310,309 341,767 364,307 318,665 300,930 305,948 270,133 348,317 329,832 338,971 324,789 3,851,855 2,305,452 167.08%
+UPT/VRM 1.21 2.13 2.21 2.48 2.50 2.42 2.09 1.96 1.94 2.19 2.20 2.18 2.17 2.20 1.53 44.43%
+UPT/VRH 15.99 25.96 26.62 29.40 29.65 28.68 25.59 24.63 24.11 27.06 27.31 27.42 27.56 27.01 25.98 3.96%
+FRR 8.77% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 8.08% -8.08%
+OPEX/VRM $10.22 $9.54 $12.78 $11.97 $11.39 $14.09 $12.12 $10.60 $13.33 $11.01 $11.98 $13.95 $15.72 $12.36 $11.25 9.87%
+OPEX/VRH $134.66 $115.98 $154.16 $141.93 $135.01 $167.13 $148.68 $133.56 $165.71 $135.87 $148.40 $175.24 $199.45 $151.54 $142.15 6.61%
+OPEX/UPT $8.42 $4.47 $5.79 $4.83 $4.55 $5.83 $5.81 $5.42 $6.87 $5.02 $5.43 $6.39 $7.24 $5.61 $7.70 -27.12%
+OTP 84.04% 92.00% 90.00% 87.00% 87.00% 87.00% 89.00% 93.00% 92.00% 88.00% 89.00% 89.00% 89.00% 89.33% 85.00% 4.33%
+STO 99.49% 99.92% 99.92% 99.85% 99.83% 99.30% 99.17% 99.78% 99.68% 99.87% 100.00% 99.59% 99.77% 99.72% 99.00% 0.72%
+Demand Response – Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 83,014 9,813 9,862 10,091 11,010 9,988 9,688 9,796 9,601 11,061 11,467 11,509 10,448 124,334 92,325 134.67%
+UPT/VRM 0.13 0.13 0.13 0.13 0.13 0.13 0.13 0.13 0.13 0.15 0.13 0.13 0.13 0.13 0.13 0.10%
+UPT/VRH 2.04 2.04 2.04 2.16 2.16 2.13 2.05 1.99 2.10 2.11 2.16 2.05 2.05 2.08 1.95 6.93%
+FRR 3.60% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 2.77% -2.77%
+OPEX/VRM $8.06 $6.75 $9.23 $8.21 $7.75 $9.60 $9.39 $8.53 $10.00 $9.49 $8.12 $9.94 $11.38 $9.02 $10.03 -10.06%
+OPEX/VRH $128.98 $109.02 $146.53 $139.19 $128.61 $156.10 $145.79 $132.70 $160.05 $131.56 $133.34 $152.33 $181.72 $143.05 $153.63 -6.89%
+OPEX/UPT $63.10 $53.54 $71.94 $64.54 $59.48 $73.39 $71.25 $66.85 $76.35 $62.41 $61.71 $74.31 $88.81 $68.63 $76.35 -10.11%
+OTP 95.47% 95.00% 96.00% 93.00% 95.00% 95.00% 96.00% 96.99% 96.00% 96.00% 95.00% 95.00% 96.00% 95.42% 98.00% -2.58%
+STO 99.66% 99.59% 99.74% 99.31% 99.52% 99.64% 99.70% 99.83% 99.69% 99.64% 99.64% 99.71% 99.88% 99.66% 99.90% -0.24%
+51
+
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY24 Target FY24 Performance Differenc
+Asset Class Difference Asset Class Difference Asset Class
+(%) (%) (%) (%) (%) (%) e
+Bus (BU) 25.00% 14.49% 10.51% Automobiles 50.00% 100.00% -50.00% Passenger/Parking 0.00% 0.00% 0.00%
+Cutaway 25.00% 50.00% -25.00% Trucks/Other Rubber 50.00% 35.00% 15.00%
+Administrative/Maintenance 0.00% 50.00% -50.00%
+(CU) Tires
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 8 4 -50%
+Demand Demand Demand
+0.00 0.00 0.00% 0.00 0.00 0.00% 1.00 0.00 -100.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+%
+Mode Target CY24 Actual Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Variance
+Fixed Route 5.20 2.40 -53.83% Fixed Route 8.00 2.00 -75.00% Fixed Route 5.20 0.60 -88.46%
+Demand 1.90 0.00 -100.00% Demand 1.00 1.00 0.00% Demand 1.90 0.00 -100.00%
+Response Response Response
+ANNUAL REPORTING PERFORMANCE METRICS
+Fleet Composition Fixed Route Demand Response
+Electric 0% 0%
+Hybrid 57% 0%
+CNG 0% 0%
+Diesel 43% 0%
+Gasoline 0% 100%
+External
+3 14
+Partnerships
+52
+
+Worcester Regional Transit Authority (WRTA)
+SUMMARY PROFILE
+Headquarters: Administrator: Website:
+60 Foster Street Joshua Rickman www.therta.com
+Worcester, MA 01608
+Agency Information Ridership Information (FY25)
+Year Founded 1974 Fixed Route 4,843,522 unlinked passenger trips
+Mon-Fri: 4:50 AM – 11:45 PM Demand Response 153,435 unlinked passenger trips
+Service Hours Sat: 5:50 AM – 10:25 PM
+Sun: 8:30 AM – 7:26 PM Demand Taxi 74,536 unlinked passenger trips
+Municipalities Served (37)
+Auburn Brimfield Dudley Leicester Northbridge Rutland Sutton West Brookfield
+Barre* Brookfield East Brookfield Millbury Oakham Shrewsbury Wales Westborough
+Berlin Charlton Grafton New Braintree Oxford Southbridge Warren Worcester
+Boylston Clinton Holden North Brookfield Paxton Spencer Webster
+*Also served by Douglas Holland Northborough Princeton Sturbridge West Boylston
+MART
+PERFORMANCE METRICS
+Fixed Route - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 3,064,750 440,989 464,251 413,829 468,325 385,993 350,679 334,735 333,362 392,671 419,299 418,533 420,856 4,843,522 3,775,000 128.31%
+UPT/VRM 1.52 2.51 2.64 2.47 2.58 2.38 2.06 1.87 2.04 2.20 2.39 2.37 2.45 2.33 1.75 33.25%
+UPT/VRH 17.96 30.89 32.46 28.65 31.75 29.34 25.30 23.09 25.30 27.09 29.06 30.36 31.23 28.72 21.50 33.58%
+FRR 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00%
+OPEX/VRM $11.21 $11.83 $13.05 $12.78 $13.19 $13.70 $12.78 $13.92 $13.26 $12.39 $12.76 $13.58 $13.11 $13.03 $12.78 1.94%
+OPEX/VRH $132.68 $145.50 $160.62 $148.30 $162.36 $168.78 $156.81 $171.81 $164.26 $152.39 $155.02 $174.06 $166.96 $160.43 $156.09 2.78%
+OPEX/UPT $7.39 $4.71 $4.95 $5.18 $5.11 $5.75 $6.20 $7.44 $6.49 $5.63 $5.33 $5.73 $5.35 $5.59 $7.28 -23.24%
+OTP 79.83% 53.30% 50.40% 48.90% 48.40% 50.70% 54.60% 58.20% 54.20% 55.70% 54.30% 63.10% 65.10% 54.74% 79.80% -25.06%
+STO 98.75% 98.97% 97.88% 99.40% 99.32% 99.31% 98.53% 99.27% 99.85% 99.91% 99.88% 99.77% 99.59% 99.31% 99.00% 0.31%
+Demand Response - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 97,779 12,548 13,004 11,980 14,064 12,075 12,034 13,256 11,565 13,614 13,641 13,011 12,643 153,435 143,000 107.30%
+UPT/VRM 0.14 0.15 0.15 0.15 0.16 0.16 0.16 0.16 0.16 0.16 0.16 0.16 0.15 0.16 0.15 4.05%
+UPT/VRH 2.12 2.38 2.36 2.34 2.49 2.51 2.39 2.42 2.39 2.47 2.46 2.46 2.38 2.42 2.35 2.97%
+FRR 0.00% 0.58% 0.60% 0.65% 0.82% 0.73% 0.77% 0.71% 0.78% 0.71% 0.77% 0.66% 0.71% 0.70% 0.00% 0.70%
+OPEX/VRM $8.44 $7.84 $8.26 $7.01 $7.28 $8.16 $7.38 $7.84 $7.40 $6.96 $6.91 $7.68 $7.26 $7.49 $8.12 -7.75%
+OPEX/VRH $128.15 $123.11 $125.75 $109.29 $114.19 $129.97 $112.13 $120.50 $113.58 $108.39 $105.54 $120.18 $112.73 $116.19 $124.57 -6.72%
+OPEX/UPT $60.38 $51.73 $53.31 $46.76 $45.94 $51.85 $46.94 $49.82 $47.49 $43.83 $42.95 $48.94 $47.42 $48.02 $52.92 -9.26%
+53
+
+Demand Response - Performance Metrics
+OTP 89.17% 88.00% 88.00% 90.00% 89.00% 89.00% 89.00% 89.00% 89.00% 91.00% 89.00% 89.00% 89.00% 89.08% 90.00% -0.92%
+STO 100.00% 99.94% 100.00% 100.00% 99.97% 99.96% 99.99% 99.99% 99.98% 99.99% 100.00% 99.95% 100.00% 99.98% 99.99% -0.01%
+Demand Taxi - Performance Metrics
+Metric Baseline Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Actual Target Variance
+UPT 0 5,979 5,893 6,029 7,092 6,337 5,566 5,757 5,304 6,694 6,871 6,653 6,361 74,536 53,000 140.63%
+UPT/VRM 0.00 0.16 0.17 0.16 0.16 0.15 0.16 0.16 0.16 0.17 0.16 0.17 0.17 0.16 0.15 7.82%
+UPT/VRH 0.00 2.38 2.31 2.24 2.24 2.26 2.22 2.33 2.17 2.40 2.33 2.41 2.28 2.30 2.30 -0.05%
+FRR 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00%
+OPEX/VRM $0.00 $2.60 $2.61 $2.50 $2.55 $2.47 $2.48 $2.64 $2.57 $2.65 $2.57 $2.64 $2.58 $2.57 $2.32 10.86%
+OPEX/VRH $0.00 $37.91 $36.40 $35.79 $36.14 $36.14 $35.34 $37.36 $34.92 $38.28 $36.81 $37.77 $35.66 $36.55 $33.98 7.55%
+OPEX/UPT $0.00 $15.95 $15.73 $15.97 $16.16 $15.97 $15.93 $16.00 $16.12 $15.93 $15.79 $15.64 $15.63 $15.90 $14.75 7.80%
+OTP 0.00% 92.00% 91.00% 90.00% 89.00% 89.00% 87.00% 89.00% 85.00% 90.00% 87.00% 89.00% 91.00% 89.08% 86.00% 3.08%
+STO 0.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 99.95% 0.05%
+ASSET MANAGEMENT PERFORMANCE METRICS
+Rolling Stock Equipment Facilities
+FY25 Target FY25 Performance FY25 Target FY25 Performance FY25 Target FY25 Performance
+Asset Class Difference Asset Class Difference Asset Class Difference
+(%) (%) (%) (%) (%) (%)
+Bus (BU) 27.27% 39.62% -12.35% Automobiles 0.00% 0.00% 0.00% Passenger/Parking 0.00% 0.00% 0.00%
+Cutaway 12.28% 35.09% -22.81% Trucks/Other Rubber 75.00% 87.50% -12.50%
+Administrative/Maintenance 0.00% 0.00% 0.00%
+(CU) Tires
+SAFETY PERFORMANCE METRICS
+Fatalities Fatality Rate (per 1M VRM) I Injuries
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 0.00 0.00 0.00% Fixed Route 0.00 0.00 0.00% Fixed Route 20 2 -90%
+Demand Demand Demand 4 0 -100.00%
+0.00 0.00 0.00% 0.00 0.00 0.00%
+Response Response Response
+Injury Rate (per 1M VRM) Safety Events I Safety Event Rate (per 1M VRM)
+Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance Mode Target CY24 Actual % Variance
+Fixed Route 2.10 0.97 -53.75% Fixed Route 14.00 11.00 -21.43% Fixed Route 1.50 0.97 -35.24%
+Demand 0.80 0.00 -100.00% Demand 8.00 6.00 -25.00% Demand 1.50 1.05 -29.91%
+Response Response Response
+54
+
+ANNUAL REPORTING PERFORMANCE METRICS
+Fleet Composition Fixed Route Demand Response
+Electric 0% 0%
+Hybrid 24% 0%
+CNG 0% 0%
+Diesel 76% 0%
+Gasoline 0% 100%
+Fixed Demand Demand
+Route Response Taxi
+External 0 12 1
+Partnerships
+55
+
+56

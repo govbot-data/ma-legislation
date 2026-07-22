@@ -1,0 +1,1816 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q4 2025
+Berkshire County
+Sheriff's Office
+Page 1 of 24
+
+Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40:
+Recording and reporting of data on population of jails and houses of correction
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to
+a jail or house of correction: (i) probation central file number; (ii) fingerprint-based state identification
+number, if available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi)
+type of admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time;
+(x) program participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount
+or reason if no bail set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a
+quarterly report with the reported data covering the entire quarterly period. The reports prepared by the
+sheriff shall contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary
+of public safety and security, the house and senate chairs of the joint committee on the judiciary, the
+house and senate chairs of the joint committee on public safety and homeland security and the clerks
+of the house of representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by
+utilizing data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions & Disclaimer:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the
+Massachusetts Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint
+identification assigned to an individual by the Department of State Police through the Automated Fingerprint
+Identification System (AFIS). The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links
+the individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Disclaimer: The SID, PCF, and OBTN are generated during an individual’s first interaction with the criminal justice
+system. There is often a lag time before the FBI can produce these numbers and they are not immediately available
+during intake. Officers manually add this information once it is received, but some SIDs, PCFs, and OBTNs may not be
+included in this report due to when the data was extracted.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are
+unable to populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these
+metrics so that they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino 10/1/25 Sentenced 30 365
+Berkshire 3194474 MA10644485 JBCS2J2522004 Black/African American Not Hispanic/Latino 10/2/25 Pre-Trial
+Berkshire 5100927 ma21074097 JBCS1J2522005 White Not Hispanic/Latino 10/3/25 Pre-Trial
+Berkshire 2959072 MA10327447 JBCS1J2522007 White Not Hispanic/Latino 10/3/25 Pre-Trial
+Berkshire 2650534 MA10306801 JBCS2J2522009 White Not Hispanic/Latino 10/3/25 Pre-Trial
+Berkshire 5456917 MA21249284 JBCS1J2522008 Black/African American Not Hispanic/Latino 10/3/25 Pre-Trial
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino 10/3/25 Sentenced 24 180 6
+Berkshire 5698532 MA30017610 JBCS2J2522013 White Not Hispanic/Latino 10/6/25 Pre-Trial
+Berkshire 1933483 MA09931849 JBCS2J2522011 White Not Hispanic/Latino 10/6/25 Pre-Trial
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino 10/6/25 Sentenced 30 180
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino 10/7/25 Sentenced 30 180 13
+Berkshire 5591354 MA21235194 JBCS3J2522015 White Not Hispanic/Latino 10/7/25 Pre-Trial
+Berkshire 2172267 MA10101389 JBCS1J2522016 White Not Hispanic/Latino 10/8/25 Pre-Trial
+Berkshire 354540 MA00833918 JBCS1J2522017 Black/African American Not Hispanic/Latino 10/8/25 Pre-Trial
+Berkshire 5375089 MA21094470 JBCS2J2522018 Black/African American Not Hispanic/Latino 10/9/25 Pre-Trial
+Berkshire 645090 MA00975283 White Not Hispanic/Latino 10/9/25 Sentenced 30 540 37
+Berkshire 1027470 MA09714381 JBCS2J2522022 White Not Hispanic/Latino 10/10/25 Pre-Trial
+Berkshire 3091545 MA21029497 HBCS1H2522021 White Not Hispanic/Latino 10/10/25 Sentenced 60 26
+Berkshire 2890333 MA10572381 JBCS1J2522020 White Not Hispanic/Latino 10/10/25 Pre-Trial
+Berkshire 5266811 JBCS1J2522025 Black/African American Not Hispanic/Latino 10/13/25 Pre-Trial
+Berkshire 1916304 MA09993513 JBCS5J2522028 White Not Hispanic/Latino 10/14/25 Pre-Trial
+Berkshire 5124300 MA10496944 JBCS3J2522030 White Not Hispanic/Latino 10/15/25 Pre-Trial
+Berkshire 459442 MA10258452 JBCS3J2522029 White Not Hispanic/Latino 10/15/25 Pre-Trial
+Berkshire 2713127 MA10119903 JBCS1J2522032 White Not Hispanic/Latino 10/16/25 Pre-Trial
+Berkshire 2616943 MA10241858 JBCS1J2522031 White Not Hispanic/Latino 10/16/25 Pre-Trial
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino 10/17/25 Sentenced 9 90 30
+Berkshire 2983376 MA10605540 JBCS2J2522033 White Not Hispanic/Latino 10/17/25 Pre-Trial
+Berkshire 31417392 MA10417392 JBCS1J2522034 White Hispanic/Latino 10/17/25 Pre-Trial
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino 10/20/25 Sentenced 20 914 269
+Berkshire 5619696 MA21288008 JBCS5J2522038 Black/African American Not Hispanic/Latino 10/20/25 Pre-Trial
+Berkshire 5353173 ma21063752 JBCS1J2522036 White Hispanic/Latino 10/20/25 Pre-Trial
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino 10/21/25 Sentenced 20 365 65
+Berkshire 2476588 MA09823685 HBCS1H2522039 White Not Hispanic/Latino 10/21/25 Sentenced 29 22
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino 10/21/25 Sentenced 20 270 48
+Berkshire 2620843 ma10174573 JBCS2J2522042 White Not Hispanic/Latino 10/21/25 Pre-Trial
+Berkshire 2172267 MA10101389 JBCS1J2522044 White Not Hispanic/Latino 10/22/25 Pre-Trial
+Berkshire 3008980 MA10283926 JBCS2J2522045 White Hispanic/Latino 10/22/25 Pre-Trial
+Berkshire 5145078 MA21005021 JBCS2J2522050 White Not Hispanic/Latino 10/23/25 Pre-Trial
+Berkshire 3146240 MA21104265 JBCS1J2522047 White Not Hispanic/Latino 10/23/25 Pre-Trial
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino 10/23/25 Sentenced 20 180 7
+Berkshire 2959072 MA10327447 HBCS1H2522048 White Not Hispanic/Latino 10/23/25 Sentenced 8.5 61 21
+Berkshire 2520249 MA10190868 JBCS1J2522046 White Not Hispanic/Latino 10/23/25 Pre-Trial
+Berkshire 895073 MA00958978 HBCS1H2522053 White Not Hispanic/Latino 10/24/25 Sentenced 65 55
+Berkshire 2633616 MA10181486 JBCS4J2522051 Black/African American Not Hispanic/Latino 10/24/25 Pre-Trial
+Berkshire 2520249 MA10190868 White Not Hispanic/Latino 10/24/25 Sentenced 270 26
+Berkshire 2807629 MA21160352 JBCS2J2522054 White Not Hispanic/Latino 10/26/25 Pre-Trial
+Berkshire 1470841 MA10598140 JBCS4J2522056 White Not Hispanic/Latino 10/27/25 Pre-Trial
+Berkshire 5189540 MA10593989 JBCS5J2522057 White Not Hispanic/Latino 10/27/25 Pre-Trial
+Berkshire 5402985 MA21126937 JBCS1J2522055 Black/African American Not Hispanic/Latino 10/27/25 Pre-Trial
+Berkshire 421380 MA10076845 JBCS1J2522059 White Not Hispanic/Latino 10/28/25 Pre-Trial
+Berkshire 2856058 MA30001781 JBCS2J2522058 Other/Unknown Not Hispanic/Latino 10/28/25 Pre-Trial
+Berkshire 5687543 JBCS1J2522060 White Not Hispanic/Latino 10/29/25 Pre-Trial
+Berkshire 5540913 ma21279245 HBCS1H2622063 White Not Hispanic/Latino 10/29/25 Sentenced 20 180 16
+Berkshire 1765240 MA09720788 JBCS5J2522061 White Not Hispanic/Latino 10/29/25 Pre-Trial
+Berkshire 2514113 MA10552089 JBCS2J2522062 White Hispanic/Latino 10/29/25 Pre-Trial
+Berkshire 2827334 MA10157229 JBCS1J2522064 White Not Hispanic/Latino 10/30/25 Pre-Trial
+Berkshire 2729641 White Not Hispanic/Latino 10/31/25 Sentenced 20 365 76
+Berkshire 5250425 MA10574941 HBCS1H2522066 White Hispanic/Latino 10/31/25 Sentenced 14 1
+Berkshire 3164109 MA10537203 JBCS5J2522068 Black/African American Not Hispanic/Latino 11/3/25 Pre-Trial
+Berkshire 5666462 MA21295127 JBCS4J2522067 White Not Hispanic/Latino 11/3/25 Pre-Trial
+Berkshire 5664166 White Hispanic/Latino 11/4/25 Sentenced 20 730 418
+Berkshire 5422146 MA21107029 JBCS3J2522072 Black/African American Not Hispanic/Latino 11/4/25 Pre-Trial
+Berkshire 2913112 MA10198364 JBCS6J2522071 Black/African American Not Hispanic/Latino 11/4/25 Pre-Trial
+Berkshire 5664260 ma21292400 White Hispanic/Latino 11/4/25 Sentenced 20 730 418
+Berkshire 5702654 MA30019874 JBCS6J2522077 White Hispanic/Latino 11/5/25 Pre-Trial
+Berkshire 5685431 MA30019979 JBCS3J2522080 White Hispanic/Latino 11/5/25 Pre-Trial
+Berkshire 2954478 MA10499696 JBCS3J2522078 White Not Hispanic/Latino 11/5/25 Pre-Trial
+Berkshire 5457227 MA21135115 JBCS1J2622075 White Not Hispanic/Latino 11/5/25 Pre-Trial
+Berkshire 3172367 MA10553629 JBCS2J2522079 White Not Hispanic/Latino 11/5/25 Pre-Trial
+Berkshire 872551 MA09600877 JBCS2J2522074 White Not Hispanic/Latino 11/5/25 Pre-Trial
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino 11/5/25 Sentenced 15 730 184
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino 11/6/25 Sentenced 20 365 86
+Page 3 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Berkshire 5608400 ma21269721 JBCS1J2522081 White Not Hispanic/Latino 11/6/25 Pre-Trial
+Berkshire 2993002 MA10317175 JBCS4J2522084 White Not Hispanic/Latino 11/6/25 Pre-Trial
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino 11/6/25 Sentenced 20 95 34
+Berkshire 5609847 MA21249560 JBCS3J2522089 Black/African American Not Hispanic/Latino 11/7/25 Pre-Trial
+Berkshire 2551285 MA10003314 JBCS2J2522087 White Not Hispanic/Latino 11/7/25 Pre-Trial
+Berkshire 5011765 MA10354975 JBCS5J2522086 White Not Hispanic/Latino 11/7/25 Pre-Trial
+Berkshire 5670580 MA30020170 JBCS3J2522088 White Not Hispanic/Latino 11/7/25 Pre-Trial
+Berkshire 5149155 MA30020413 JBCS2J2522091 White Not Hispanic/Latino 11/10/25 Pre-Trial
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino 11/12/25 Sentenced 15 540
+Berkshire 354540 MA00833918 HBCS1H2522097 Black/African American Not Hispanic/Latino 11/12/25 Sentenced 71 47
+Berkshire 3167747 MA10563352 JBCS1J2522098 Black/African American Not Hispanic/Latino 11/12/25 Pre-Trial
+Berkshire 2890333 MA10572381 JBCS1J2622096 White Not Hispanic/Latino 11/12/25 Pre-Trial
+Berkshire 3159782 MA21112675 JBCS4J2522095 Other/Unknown Not Hispanic/Latino 11/12/25 Pre-Trial
+Berkshire 5557058 MA21214590 JBCS3J2522099 White Not Hispanic/Latino 11/12/25 Pre-Trial
+Berkshire 5220452 MA10603496 JBCS2J2522100 White Not Hispanic/Latino 11/12/25 Pre-Trial
+Berkshire 3144484 ma21003200 HBCS1H2522094 White Not Hispanic/Latino 11/12/25 Sentenced 60 10
+Berkshire 2990488 MA10473566 JBCS3J2522093 White Not Hispanic/Latino 11/12/25 Pre-Trial
+Berkshire 5703334 MA30020579 JBCS5J2522101 White Not Hispanic/Latino 11/13/25 Pre-Trial
+Berkshire 2130833 MA09413331 JBCS4J2522103 White Hispanic/Latino 11/14/25 Pre-Trial
+Berkshire 2616943 MA10241858 White Not Hispanic/Latino 11/14/25 Sentenced 5 195 57
+Berkshire 895073 MA00958978 JBCS2J2522104 White Not Hispanic/Latino 11/15/25 Pre-Trial
+Berkshire 5456317 MA30020894 JBCS3J2522106 White Not Hispanic/Latino 11/17/25 Pre-Trial
+Berkshire 2559276 MA10215304 JBCS1J2522105 Black/African American Not Hispanic/Latino 11/17/25 Pre-Trial
+Berkshire 3107934 MA10408701 JBCS5J2522108 White Not Hispanic/Latino 11/17/25 Pre-Trial
+Berkshire 5681260 MA30001018 JBCS2J2522107 Black/African American Not Hispanic/Latino 11/17/25 Pre-Trial
+Berkshire 5645600 Other/Unknown Hispanic/Latino 11/18/25 Sentenced 10 296 86
+Berkshire 5703383 MA30020962 JBCS3J2522111 Black/African American Not Hispanic/Latino 11/18/25 Pre-Trial
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino 11/18/25 Sentenced 10 910 228
+Berkshire 571717 MA08910270 JBCS3J2522109 White Not Hispanic/Latino 11/18/25 Pre-Trial
+Berkshire 2918368 JBCS2J2522110 White Not Hispanic/Latino 11/18/25 Pre-Trial
+Berkshire 2267542 MA21067709 JBCS3J2522115 Black/African American Not Hispanic/Latino 11/19/25 Pre-Trial
+Berkshire 5450480 JBCS1J2522114 Black/African American Not Hispanic/Latino 11/19/25 Pre-Trial
+Berkshire 1923960 MA09418572 JBCS2J2522120 White Not Hispanic/Latino 11/20/25 Pre-Trial
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino 11/20/25 Sentenced 10 365 25
+Berkshire 1731322 MA30021072 JBCS1J2522116 Asian/Pacific Islander Not Hispanic/Latino 11/20/25 Pre-Trial
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino 11/20/25 Sentenced 10 910 1
+Berkshire 5685711 JBCS3J2522119 White Not Hispanic/Latino 11/20/25 Pre-Trial
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino 11/21/25 Sentenced 7.5 180 29
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino 11/21/25 Sentenced 10 540 40
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino 11/21/25 Sentenced 10 181 58
+Berkshire 153983423 MA10598771 JBCS1J2522122 Black/African American Not Hispanic/Latino 11/21/25 Pre-Trial
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino 11/21/25 Sentenced 9 180 57
+Berkshire 5692090 MA30021226 JBCS2J2522126 White Not Hispanic/Latino 11/21/25 Pre-Trial
+Berkshire 5444573 MA21177273 HBCS1H2522127 White Not Hispanic/Latino 11/23/25 Sentenced 910 878
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino 11/24/25 Sentenced 9 910 50
+Berkshire MA30021598 JBCS2J2522132 White Not Hispanic/Latino 11/24/25 Pre-Trial
+Berkshire 5677154 MA30021435 JBCS2J2522130 Other/Unknown Not Hispanic/Latino 11/24/25 Pre-Trial
+Berkshire 5379557 MA21077617 JBCS1J2522129 Black/African American Hispanic/Latino 11/24/25 Pre-Trial
+Berkshire 5479702 MA21151336 JBCS1J2522131 White Not Hispanic/Latino 11/24/25 Pre-Trial
+Berkshire 5704594 MA30021522 JBCS1J2522136 White Not Hispanic/Latino 11/25/25 Pre-Trial
+Berkshire 5692090 JBCS1J2522137 White Not Hispanic/Latino 11/25/25 Pre-Trial
+Berkshire 153983423 MA10598771 HBCS1H2522135 Black/African American Not Hispanic/Latino 11/25/25 Sentenced 95 730 212
+Berkshire 5402985 MA21126937 Black/African American Not Hispanic/Latino 11/25/25 Sentenced 5 365 31
+Berkshire 5704624 MA30021558 JBCS1J2522140 Asian/Pacific Islander Not Hispanic/Latino 11/26/25 Pre-Trial
+Berkshire 5704680 MA09408285 JBCS3J2522142 Other/Unknown Not Hispanic/Latino 11/26/25 Pre-Trial
+Berkshire 2002823 ma09301052 JBCS1J2522141 White Not Hispanic/Latino 11/26/25 Pre-Trial
+Berkshire 25591101 ma10062568 JBCS1J2522143 White Not Hispanic/Latino 11/28/25 Pre-Trial
+Berkshire 840850 MA00954484 JBCS3J2522150 White Not Hispanic/Latino 12/1/25 Pre-Trial
+Berkshire 5230616 MA21006551 JBCS2J2522146 White Not Hispanic/Latino 12/1/25 Pre-Trial
+Berkshire 5543219 White Not Hispanic/Latino 12/1/25 Pre-Trial
+Berkshire 349015 MA00848014 JBCS1J2522148 White Not Hispanic/Latino 12/1/25 Pre-Trial
+Berkshire 2559847 ma09902433 Black/African American Not Hispanic/Latino 12/1/25 Sentenced 5 540 64
+Berkshire 1056433 MA09723432 JBCS1J2522149 White Not Hispanic/Latino 12/1/25 Pre-Trial
+Berkshire 5220333 JBCS1J2522145 White Not Hispanic/Latino 12/1/25 Pre-Trial
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino 12/2/25 Sentenced 25 270 86
+Berkshire 3045968 MA21060211 JBCS4J2522151 Black/African American Not Hispanic/Latino 12/2/25 Pre-Trial
+Berkshire MA21205180 JBCS3J2522153 Black/African American Hispanic/Latino 12/3/25 Pre-Trial
+Berkshire 2766163 MA10164023 HBCS4H2522154 White Hispanic/Latino 12/3/25 Sentenced 104 1820 28
+Berkshire 5433656 MA21162697 HBCS1H2622155 Black/African American Not Hispanic/Latino 12/4/25 Sentenced 8.5 180 119
+Berkshire 2979189 MA10294081 JBCS2J2522157 White Not Hispanic/Latino 12/5/25 Pre-Trial
+Berkshire 5580572 MA21284906 JBCS2J2522158 Black/African American Not Hispanic/Latino 12/5/25 Pre-Trial
+Berkshire 2697279 MA10106888 HBCS1H2622156 White Not Hispanic/Latino 12/5/25 Sentenced 10 90
+Page 4 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Berkshire 2712666 ma10105597 JBCS1J2522165 White Not Hispanic/Latino 12/8/25 Pre-Trial
+Berkshire 2919521 MA21018449 JBCS1J2622167 White Not Hispanic/Latino 12/8/25 Pre-Trial
+Berkshire 2613064 ma10184713 White Not Hispanic/Latino 12/8/25 Pre-Trial
+Berkshire MA30022343 JBCS4J2522164 White Not Hispanic/Latino 12/8/25 Pre-Trial
+Berkshire 2820237 HBCS1H2622160 White Not Hispanic/Latino 12/8/25 Sentenced 180 152
+Berkshire 1765240 MA09720788 HBCS1H2622163 White Not Hispanic/Latino 12/8/25 Sentenced 10 90 43
+Berkshire 2519712 MA10061121 JBCS1J2522168 White Not Hispanic/Latino 12/8/25 Pre-Trial
+Berkshire 3004525 MA10649583 JBCS1J2522161 White Not Hispanic/Latino 12/8/25 Pre-Trial
+Berkshire 2393031 MA09728429 JBCS5J2522169 White Hispanic/Latino 12/10/25 Pre-Trial
+Berkshire 5683598 White Not Hispanic/Latino 12/11/25 Sentenced 730 2
+Berkshire 3117047 MA21004485 JBCS3J2522170 White Not Hispanic/Latino 12/11/25 Pre-Trial
+Berkshire 5608400 ma21269721 White Not Hispanic/Latino 12/11/25 Sentenced 10 180 89
+Berkshire 3138252 MA21090494 JBCS2J2522171 White Not Hispanic/Latino 12/11/25 Pre-Trial
+Berkshire 5706184 MA30022673 JBCS3J2522174 White Not Hispanic/Latino 12/12/25 Pre-Trial
+Berkshire 5610760 HBCS1H2622175 White Not Hispanic/Latino 12/12/25 Sentenced 10 365 256
+Berkshire 5688275 JBCS1J2622176 Black/African American Not Hispanic/Latino 12/12/25 Pre-Trial
+Berkshire 2223327 JBCS1J2522182 White Not Hispanic/Latino 12/15/25 Pre-Trial
+Berkshire 3091545 MA21029497 JBCS1J2522178 White Not Hispanic/Latino 12/15/25 Pre-Trial
+Berkshire 895073 MA00958978 White Not Hispanic/Latino 12/15/25 Sentenced 354 83
+Berkshire 5570260 MA30022907 JBCS3J2522179 White Not Hispanic/Latino 12/15/25 Pre-Trial
+Berkshire 5124300 ma10496944 HBCS1H2522181 White Not Hispanic/Latino 12/15/25 Sentenced 5 270 62
+Berkshire 5614909 JBCS1J2522177 Other/Unknown Hispanic/Latino 12/15/25 Pre-Trial
+Berkshire 5600275 MA21241915 JBCS2J2522183 White Not Hispanic/Latino 12/16/25 Pre-Trial
+Berkshire 2481129 MA09838399 JBCS2J2522184 Black/African American Not Hispanic/Latino 12/16/25 Pre-Trial
+Berkshire 2299355 ma10004018 White Not Hispanic/Latino 12/17/25 Pre-Trial
+Berkshire 2013940 MA09842956 JBCS3J2522185 Black/African American Not Hispanic/Latino 12/17/25 Pre-Trial
+Berkshire 872551 MA09600877 JBCS1J2522186 White Not Hispanic/Latino 12/17/25 Pre-Trial
+Berkshire 3167747 MA10563352 Black/African American Not Hispanic/Latino 12/18/25 Sentenced 194 81
+Berkshire 2860639 MA10179655 JBCS1J2522188 White Not Hispanic/Latino 12/18/25 Pre-Trial
+Berkshire 5456917 ma21249284 JBCS1J2622192 Black/African American Not Hispanic/Latino 12/18/25 Pre-Trial
+Berkshire 2246540 MA09626174 JBCS1J2522195 White Not Hispanic/Latino 12/19/25 Pre-Trial
+Berkshire 2860639 MA10179655 White Not Hispanic/Latino 12/19/25 Sentenced 180 5
+Berkshire 5319864 MA21288337 HBCS4H2522198 Black/African American Not Hispanic/Latino 12/22/25 Sentenced 365 13
+Berkshire 2712666 ma10105597 HBCS1H2622200 White Not Hispanic/Latino 12/23/25 Sentenced 38 910 275
+Berkshire 5614909 Other/Unknown Hispanic/Latino 12/23/25 Sentenced 791 73
+Berkshire 1986681 MA09805840 JBCS1J2522204 White Not Hispanic/Latino 12/24/25 Pre-Trial
+Berkshire 1908858 MA10081314 JBCS1J2622203 White Not Hispanic/Latino 12/24/25 Pre-Trial
+Berkshire 5646043 JBCS1J2622202 Black/African American Not Hispanic/Latino 12/24/25 Pre-Trial
+Berkshire 5692135 White Hispanic/Latino 12/24/25 Pre-Trial
+Berkshire 1760780 ma10119986 JBCS1J2522206 White Hispanic/Latino 12/29/25 Pre-Trial
+Berkshire 3160457 MA21018756 JBCS1J2522205 Black/African American Not Hispanic/Latino 12/29/25 Pre-Trial
+Berkshire 3008906 MA10561092 HBCS1H2522207 White Not Hispanic/Latino 12/30/25 Sentenced 983 79
+Berkshire 2057671 MA09433665 Black/African American Not Hispanic/Latino 12/30/25 Sentenced 730 126
+Berkshire MA30023934 JBCS3J2522211 White Not Hispanic/Latino 12/30/25 Pre-Trial
+Berkshire 2481129 MA09838399 Black/African American Not Hispanic/Latino 12/30/25 Sentenced 120 15
+Berkshire 2319110 MA10105655 Black/African American Not Hispanic/Latino 12/30/25 Pre-Trial
+Berkshire 5039655 MA10400453 JBCS3J2522212 Other/Unknown Hispanic/Latino 12/31/25 Pre-Trial
+Berkshire 2589295 ma10468135 White Not Hispanic/Latino Pre-Trial 10/1/25
+Berkshire 1772869 MA09759452 JBCS2J2521913 Black/African American Not Hispanic/Latino Pre-Trial 10/2/25
+Berkshire 5573789 MA21231979 JBCS2J2521976 White Not Hispanic/Latino Pre-Trial 10/3/25
+Berkshire 2231017 MA10248644 JBCS1J2521804 White Not Hispanic/Latino Pre-Trial 10/6/25
+Berkshire 5364225 MA21067917 JBCS3J2521937 Black/African American Not Hispanic/Latino Pre-Trial 10/6/25
+Berkshire 2823514 ma10208924 JBCS1J2521927 White Not Hispanic/Latino Pre-Trial 10/6/25
+Berkshire 5320914 MA21276246 JBCS2J2521991 White Not Hispanic/Latino Pre-Trial 10/7/25
+Berkshire 3104372 MA10590717 White Not Hispanic/Latino Pre-Trial 10/7/25
+Berkshire 5588898 MA30015593 JBCS2J2521956 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25
+Berkshire 5301481 MA21170277 HBCS1H2521824 Black/African American Not Hispanic/Latino Sentenced 10/7/25 120 6
+Berkshire 5684675 MA30005463 JBCS3J2521985 White Not Hispanic/Latino Pre-Trial 10/7/25
+Berkshire 5646131 JBCS1J2521879 Black/African American Not Hispanic/Latino Pre-Trial 10/8/25
+Berkshire 5441155 JBCS1J2521777 White Not Hispanic/Latino Pre-Trial 10/8/25
+Berkshire 645090 MA00975283 JBCS4J2521995 White Not Hispanic/Latino Pre-Trial 10/9/25
+Berkshire 1559963 MA09301482 JBCS1J2521959 White Not Hispanic/Latino Pre-Trial 10/9/25
+Berkshire 5455556 MA21140690 JBCS2J2521981 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25
+Berkshire 3091545 MA21029497 JBCS1J2521970 White Not Hispanic/Latino Pre-Trial 10/10/25
+Berkshire 2620843 JBCS1J2520795 White Not Hispanic/Latino Pre-Trial 10/10/25
+Berkshire 2673139 MA10213500 JBCS2J2521842 Black/African American Not Hispanic/Latino Pre-Trial 10/14/25
+Berkshire 1027470 MA09714381 JBCS2J2522022 White Not Hispanic/Latino Pre-Trial 10/14/25
+Berkshire 2284854 MA10259897 HBCS3H2521463 White Not Hispanic/Latino Sentenced 10/15/25 3 565 182
+Berkshire 1606926 MA10396438 HBCS1H2521969 White Not Hispanic/Latino Sentenced 10/15/25 2 90 44
+Berkshire 3129192 MA10583549 HBCS1H2521929 White Not Hispanic/Latino Sentenced 10/15/25 2 90 29
+Berkshire 2919521 MA21018449 HBCS1H2521979 White Not Hispanic/Latino Sentenced 10/15/25 5 90 58
+Berkshire 2667217 MA10560077 JBCS3J2521977 White Not Hispanic/Latino Pre-Trial 10/15/25
+Page 5 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Berkshire 5299471 ma10549313 HBCS1H2521517 White Hispanic/Latino Sentenced 10/15/25 7.5 368 29
+Berkshire 5250425 MA10574941 HBCS2H2421260 White Hispanic/Latino Sentenced 10/15/25 6 910 222
+Berkshire 2172267 MA10101389 JBCS1J2522016 White Not Hispanic/Latino Pre-Trial 10/15/25
+Berkshire 5511215 ma21220350 HBCS1H2521420 White Not Hispanic/Latino Sentenced 10/15/25 10 450 48
+Berkshire 2890333 MA10572381 JBCS1J2522020 White Not Hispanic/Latino Pre-Trial 10/16/25
+Berkshire 2477838 MA09821655 JBCS2J2521971 Black/African American Not Hispanic/Latino Pre-Trial 10/16/25
+Berkshire 459442 MA10258452 JBCS3J2522029 White Not Hispanic/Latino Pre-Trial 10/16/25
+Berkshire 56000824 MA21252257 JBCS2J2521891 Black/African American Not Hispanic/Latino Pre-Trial 10/16/25
+Berkshire 2814884 JBCS1J2521772 White Not Hispanic/Latino Pre-Trial 10/17/25
+Berkshire 5135268 MA10541318 JBCS2J2521747 White Not Hispanic/Latino Pre-Trial 10/17/25
+Berkshire MA30014680 JBCS4J2521928 White Not Hispanic/Latino Pre-Trial 10/17/25
+Berkshire 5626553 MA30008898 JBCS2J2521763 Black/African American Not Hispanic/Latino Pre-Trial 10/17/25
+Berkshire 2520249 MA10190868 JBCS1J2521988 White Not Hispanic/Latino Pre-Trial 10/17/25
+Berkshire 2713127 MA10119903 JBCS1J2522032 White Not Hispanic/Latino Pre-Trial 10/17/25
+Berkshire 5605396 MA21246448 JBCS3J2521506 Black/African American Not Hispanic/Latino Pre-Trial 10/20/25
+Berkshire 5688275 MA21299771 JBCS3J2521943 Black/African American Not Hispanic/Latino Pre-Trial 10/21/25
+Berkshire 5597052 JBCS1J2521947 White Not Hispanic/Latino Pre-Trial 10/21/25
+Berkshire 2476588 MA09823685 JBCS1J2522002 White Not Hispanic/Latino Pre-Trial 10/21/25
+Berkshire 5176537 ma10627433 JBCS1J2521923 White Not Hispanic/Latino Pre-Trial 10/21/25
+Berkshire 2468113 MA10466331 JBCS1J2521908 White Not Hispanic/Latino Pre-Trial 10/21/25
+Berkshire 5623456 MA21260151 HBCS2H2421120 White Not Hispanic/Latino Sentenced 10/23/25 20 910 102
+Berkshire 5698532 MA30017610 JBCS2J2522013 White Not Hispanic/Latino Pre-Trial 10/23/25
+Berkshire 2959072 MA10327447 JBCS1J2522007 White Not Hispanic/Latino Pre-Trial 10/23/25
+Berkshire 3146240 MA21104265 JBCS1J2522047 White Not Hispanic/Latino Pre-Trial 10/24/25
+Berkshire 895073 MA00958978 JBCS1J2521940 White Not Hispanic/Latino Pre-Trial 10/24/25
+Berkshire 2520249 MA10190868 JBCS1J2522046 White Not Hispanic/Latino Pre-Trial 10/24/25
+Berkshire 5135529 MA10520454 JBCS1J2521998 White Not Hispanic/Latino Pre-Trial 10/24/25
+Berkshire 5375259 MA21074967 JBCS1J2521687 Black/African American Not Hispanic/Latino Pre-Trial 10/27/25
+Berkshire 2476588 MA09823685 HBCS1H2522039 White Not Hispanic/Latino Sentenced 10/27/25 29 22
+Berkshire 5353173 ma21063752 JBCS1J2522036 White Hispanic/Latino Pre-Trial 10/27/25
+Berkshire 5100927 ma21074097 JBCS1J2522005 White Not Hispanic/Latino Pre-Trial 10/29/25
+Berkshire 1470841 MA10598140 JBCS4J2522056 White Not Hispanic/Latino Pre-Trial 10/29/25
+Berkshire 5574836 MA30009879 JBCS4J2521999 White Not Hispanic/Latino Pre-Trial 10/29/25
+Berkshire 421380 MA10076845 JBCS1J2522059 White Not Hispanic/Latino Pre-Trial 10/30/25
+Berkshire 2315066 MA10297758 JBCS2J2521706 Black/African American Not Hispanic/Latino Pre-Trial 10/30/25
+Berkshire 2827334 MA10157229 HBCS1H2521948 White Not Hispanic/Latino Sentenced 10/30/25 210 143
+Berkshire 5694814 MA30015153 JBCS2J2521944 White Hispanic/Latino Pre-Trial 10/31/25
+Berkshire 895073 MA00958978 HBCS1H2522053 White Not Hispanic/Latino Sentenced 10/31/25 65 55
+Berkshire 2729641 MA10527884 JBCS1J2521907 White Not Hispanic/Latino Pre-Trial 10/31/25
+Berkshire 5612043 MA30015155 JBCS1J2521942 Black/African American Not Hispanic/Latino Pre-Trial 10/31/25
+Berkshire 5429311 MA21143058 JBCS3J2521941 White Hispanic/Latino Pre-Trial 11/3/25
+Berkshire 5528363 MA21188849 JBCS4J2521520 White Hispanic/Latino Pre-Trial 11/3/25
+Berkshire 5664166 MA21292401 JBCS2J2421201 White Hispanic/Latino Pre-Trial 11/4/25
+Berkshire 31417392 MA10417392 JBCS1J2522034 White Hispanic/Latino Pre-Trial 11/4/25
+Berkshire JBCS1J2520978 White Not Hispanic/Latino Pre-Trial 11/4/25
+Berkshire MA21292400 JBCS2J2421200 White Hispanic/Latino Pre-Trial 11/4/25
+Berkshire 5666462 MA21295127 JBCS4J2522067 White Not Hispanic/Latino Pre-Trial 11/4/25
+Berkshire 5564240 MA21219985 JBCS1J2520212 White Hispanic/Latino Pre-Trial 11/5/25
+Berkshire 2816634 MA10139621 JBCS1J2521900 White Not Hispanic/Latino Pre-Trial 11/5/25
+Berkshire 2520249 MA10190868 White Not Hispanic/Latino Sentenced 11/5/25 270 26
+Berkshire 5462955 MA2120564 JBCS1J2521009 Black/African American Not Hispanic/Latino Pre-Trial 11/5/25 180 26
+Berkshire 5702654 MA30019874 JBCS6J2522077 White Hispanic/Latino Pre-Trial 11/6/25
+Berkshire 2719198 MA10468981 HBCS1H2521757 White Not Hispanic/Latino Sentenced 11/6/25 10 270
+Berkshire 2514113 MA10552089 JBCS2J2522062 White Hispanic/Latino Pre-Trial 11/6/25
+Berkshire 1933483 MA09931849 JBCS2J2522011 White Not Hispanic/Latino Pre-Trial 11/6/25
+Berkshire 5375089 MA21094470 JBCS2J2522018 Black/African American Not Hispanic/Latino Pre-Trial 11/6/25
+Berkshire 2954478 MA10499696 JBCS3J2522078 White Not Hispanic/Latino Pre-Trial 11/6/25
+Berkshire 3172367 MA10553629 JBCS2J2522079 White Not Hispanic/Latino Pre-Trial 11/6/25
+Berkshire 5566045 MA30012506 JBCS2J2521876 Black/African American Not Hispanic/Latino Pre-Trial 11/6/25
+Berkshire 5284087 MA21039791 JBCS3J2521596 White Not Hispanic/Latino Pre-Trial 11/7/25
+Berkshire 2877893 MA10183220 JBCS2J2521878 White Not Hispanic/Latino Pre-Trial 11/7/25
+Berkshire 3008980 MA10283926 JBCS2J2522045 White Hispanic/Latino Pre-Trial 11/7/25
+Berkshire 2295596 MA10472024 JBCS1J2521750 White Not Hispanic/Latino Pre-Trial 11/7/25
+Berkshire 872551 MA09600877 JBCS2J2522074 White Not Hispanic/Latino Pre-Trial 11/8/25
+Berkshire 354540 MA00833918 JBCS1J2522017 Black/African American Not Hispanic/Latino Pre-Trial 11/12/25
+Berkshire 2002823 ma09301052 HBCS1H2521946 White Not Hispanic/Latino Sentenced 11/12/25 10 90
+Berkshire 5250425 MA10574941 HBCS1H2522066 White Hispanic/Latino Sentenced 11/12/25 14 1
+Berkshire 3091545 MA21029497 HBCS1H2522021 White Not Hispanic/Latino Sentenced 11/12/25 60 26
+Berkshire 972193 HBCS1H2521898 White Not Hispanic/Latino Sentenced 11/12/25 10 180 4
+Berkshire 2616943 MA10241858 JBCS1J2522031 White Not Hispanic/Latino Pre-Trial 11/14/25
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 11/14/25 18 90
+Berkshire 5703334 MA30020579 JBCS5J2522101 White Not Hispanic/Latino Pre-Trial 11/17/25
+Page 6 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 11/18/25 20 365 90
+Berkshire 2559276 MA10215304 JBCS1J2522105 Black/African American Not Hispanic/Latino Pre-Trial 11/18/25
+Berkshire 5645600 MA30012981 JBCS3J2521915 Other/Unknown Hispanic/Latino Pre-Trial 11/18/25
+Berkshire 5687543 JBCS1J2522060 White Not Hispanic/Latino Pre-Trial 11/18/25
+Berkshire 5011765 MA10354975 JBCS5J2522086 White Not Hispanic/Latino Pre-Trial 11/19/25
+Berkshire 5422146 MA21107029 JBCS3J2522072 Black/African American Not Hispanic/Latino Pre-Trial 11/19/25
+Berkshire 5145078 MA21005021 JBCS2J2522050 White Not Hispanic/Latino Pre-Trial 11/20/25
+Berkshire 2918368 JBCS2J2522110 White Not Hispanic/Latino Pre-Trial 11/20/25
+Berkshire 5220452 MA10603496 JBCS2J2522100 White Not Hispanic/Latino Pre-Trial 11/20/25
+Berkshire 2827334 MA10157229 JBCS1J2522064 White Not Hispanic/Latino Pre-Trial 11/20/25
+Berkshire 2267542 MA21067709 JBCS3J2522115 Black/African American Not Hispanic/Latino Pre-Trial 11/20/25
+Berkshire 5189540 MA10593989 JBCS5J2522057 White Not Hispanic/Latino Pre-Trial 11/20/25
+Berkshire 2172267 MA10101389 JBCS1J2522044 White Not Hispanic/Latino Pre-Trial 11/20/25
+Berkshire 1947856 MA09226830 JBCS1J2521916 White Hispanic/Latino Pre-Trial 11/21/25
+Berkshire 2983376 MA10605540 JBCS2J2522033 White Not Hispanic/Latino Pre-Trial 11/21/25
+Berkshire 2807629 MA21160352 JBCS2J2522054 White Not Hispanic/Latino Pre-Trial 11/21/25
+Berkshire 5361831 MA21066443 JBCS1J2521997 White Not Hispanic/Latino Pre-Trial 11/21/25
+Berkshire 2959072 MA10327447 HBCS1H2522048 White Not Hispanic/Latino Sentenced 11/21/25 8.5 61 21
+Berkshire 2633616 MA10181486 JBCS4J2522051 Black/African American Not Hispanic/Latino Pre-Trial 11/21/25
+Berkshire 5444573 MA21177273 JBCS2J2521721 White Not Hispanic/Latino Pre-Trial 11/23/25
+Berkshire 5266811 JBCS1J2522025 Black/African American Not Hispanic/Latino Pre-Trial 11/24/25
+Berkshire 3051757 MA10500561 HBCS1H2521867 White Not Hispanic/Latino Sentenced 11/24/25 20 1819 616
+Berkshire 5293104 MA21013093 HBCS1H2420942 Black/African American Not Hispanic/Latino Sentenced 11/24/25 546
+Berkshire 5692090 MA30021226 JBCS2J2522126 White Not Hispanic/Latino Pre-Trial 11/24/25
+Berkshire 5479702 MA21151336 HBCS2H2521749 White Not Hispanic/Latino Sentenced 11/24/25 10 210 205
+Berkshire 2246540 MA09626174 JBCS2J2521783 White Not Hispanic/Latino Pre-Trial 11/25/25
+Berkshire 5402985 MA21126937 JBCS1J2522055 Black/African American Not Hispanic/Latino Pre-Trial 11/25/25
+Berkshire 153983423 MA10598771 JBCS1J2522122 Black/African American Not Hispanic/Latino Pre-Trial 11/25/25
+Berkshire 5548036 MA21203555 JBCS1J2219715 White Hispanic/Latino Pre-Trial 11/25/25
+Berkshire 5367867 MA21119588 JBCS2J2320211 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25
+Berkshire 5704594 MA30021522 JBCS1J2522136 White Not Hispanic/Latino Pre-Trial 11/26/25
+Berkshire 2998375 MA10268675 JBCS1J2521820 White Not Hispanic/Latino Pre-Trial 11/26/25
+Berkshire 2153645 MA09902913 JBCS9J2521865 White Hispanic/Latino Pre-Trial 11/26/25
+Berkshire 2913112 MA10198364 JBCS6J2522071 Black/African American Not Hispanic/Latino Pre-Trial 11/28/25
+Berkshire 3159782 MA21112675 JBCS4J2522095 Other/Unknown Not Hispanic/Latino Pre-Trial 11/28/25
+Berkshire 3164234 MA21137680 HBCS2H2521578 White Not Hispanic/Latino Sentenced 11/28/25 20 365
+Berkshire 25591101 ma10062568 JBCS1J2522143 White Not Hispanic/Latino Pre-Trial 11/30/25
+Berkshire 5220333 JBCS1J2522145 White Not Hispanic/Latino Pre-Trial 12/1/25
+Berkshire 5367849 MA21070055 JBCS3J2521884 Black/African American Not Hispanic/Latino Pre-Trial 12/1/25
+Berkshire 5450480 JBCS1J2522114 Black/African American Not Hispanic/Latino Pre-Trial 12/2/25
+Berkshire 5692135 MA30001061 JBCS2J2521851 White Hispanic/Latino Pre-Trial 12/2/25
+Berkshire 5294640 MA21014179 HBCS2H2521637 White Hispanic/Latino Sentenced 12/2/25 240
+Berkshire 5479702 MA21151336 JBCS1J2522131 White Not Hispanic/Latino Pre-Trial 12/3/25
+Berkshire 5591354 MA21235194 JBCS3J2522015 White Not Hispanic/Latino Pre-Trial 12/3/25
+Berkshire 5692090 JBCS1J2522137 White Not Hispanic/Latino Pre-Trial 12/4/25
+Berkshire 5433656 MA21162697 JBCS2J2522000 Black/African American Not Hispanic/Latino Pre-Trial 12/4/25
+Berkshire 840850 MA00954484 JBCS3J2522150 White Not Hispanic/Latino Pre-Trial 12/4/25
+Berkshire 2551285 MA10003314 JBCS2J2522087 White Not Hispanic/Latino Pre-Trial 12/5/25
+Berkshire 2,713,127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 12/5/25 9 90 30
+Berkshire 354540 MA00833918 HBCS1H2522097 Black/African American Not Hispanic/Latino Sentenced 12/5/25 71 47
+Berkshire 2002823 ma09301052 JBCS1J2522141 White Not Hispanic/Latino Pre-Trial 12/5/25
+Berkshire 5230616 MA21006551 JBCS2J2522146 White Not Hispanic/Latino Pre-Trial 12/6/25
+Berkshire 2456131 ma10649143 HBCS1H2521501 White Not Hispanic/Latino Sentenced 12/8/25 20 730 50
+Berkshire 5149155 MA30020413 JBCS2J2522091 White Not Hispanic/Latino Pre-Trial 12/8/25
+Berkshire 1765240 MA09720788 JBCS5J2522061 White Not Hispanic/Latino Pre-Trial 12/8/25
+Berkshire 2820237 JBCS3J2521823 White Not Hispanic/Latino Pre-Trial 12/8/25
+Berkshire 5456317 MA30020894 JBCS3J2522106 White Not Hispanic/Latino Pre-Trial 12/8/25
+Berkshire 5467245 HBCS1H2521644 Black/African American Not Hispanic/Latino Sentenced 12/8/25 30 910 300
+Berkshire 349015 MA00848014 JBCS1J2522148 White Not Hispanic/Latino Pre-Trial 12/9/25
+Berkshire 5018297 MA10499894 HBCS1H2521697 White Not Hispanic/Latino Sentenced 12/9/25 20 300 32
+Berkshire 2519712 MA10061121 JBCS1J2522168 White Not Hispanic/Latino Pre-Trial 12/9/25
+Berkshire 1731322 MA30021072 JBCS1J2522116 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 12/9/25
+Berkshire 2437419 MA09817952 HBCS1H2521936 White Not Hispanic/Latino Sentenced 12/10/25 20 365
+Berkshire 5316815 MA21067236 JBCS7J2521808 Black/African American Not Hispanic/Latino Pre-Trial 12/10/25
+Berkshire 3204143 MA10636326 JBCS1J2319847 White Hispanic/Latino Pre-Trial 12/10/25
+Berkshire 3004525 MA10649583 JBCS1J2522161 White Not Hispanic/Latino Pre-Trial 12/10/25
+Berkshire 5704680 MA09408285 JBCS3J2522142 Other/Unknown Not Hispanic/Latino Pre-Trial 12/10/25
+Berkshire 5456917 MA21249284 JBCS1J2522008 Black/African American Not Hispanic/Latino Pre-Trial 12/11/25
+Berkshire 5379557 MA21077617 JBCS1J2522129 Black/African American Hispanic/Latino Pre-Trial 12/11/25
+Berkshire 5580572 MA21284906 JBCS2J2522158 Black/African American Not Hispanic/Latino Pre-Trial 12/11/25
+Berkshire 5608400 ma21269721 JBCS1J2522081 White Not Hispanic/Latino Pre-Trial 12/11/25
+Berkshire 2130833 MA09413331 JBCS4J2522103 White Hispanic/Latino Pre-Trial 12/12/25
+Page 7 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Berkshire 5399449 ma21137550 HBCS1H2521925 White Not Hispanic/Latino Sentenced 12/12/25 20 180 40
+Berkshire 5610760 MA30002517 JBCS3J2521631 White Not Hispanic/Latino Pre-Trial 12/12/25
+Berkshire 3066588 MA10413419 HBCS1H2521899 White Not Hispanic/Latino Sentenced 12/12/25 20 180 14
+Berkshire 5124300 MA10496944 JBCS3J2522030 White Not Hispanic/Latino Pre-Trial 12/15/25
+Berkshire 895073 MA00958978 JBCS2J2522104 White Not Hispanic/Latino Pre-Trial 12/15/25
+Berkshire MA30022343 JBCS4J2522164 White Not Hispanic/Latino Pre-Trial 12/15/25
+Berkshire 2451522 ma10173497 JBCS1J2521949 White Not Hispanic/Latino Pre-Trial 12/15/25
+Berkshire 1101196 ma00840507 HBCS1H2521930 White Not Hispanic/Latino Sentenced 12/15/25 29 180 31
+Berkshire 3091545 MA21029497 JBCS1J2522178 White Not Hispanic/Latino Pre-Trial 12/16/25
+Berkshire 5308959 MA21044262 HBCS1H2521841 White Not Hispanic/Latino Sentenced 12/16/25 10 391 123
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 12/16/25 20 95 34
+Berkshire 5691479 MA30015740 JBCS2J2521966 White Not Hispanic/Latino Pre-Trial 12/18/25
+Berkshire 2760337 MA10096382 JBSO00P019031 White Hispanic/Latino Pre-Trial 12/18/25
+Berkshire 3167747 MA10563352 JBCS1J2522098 Black/African American Not Hispanic/Latino Pre-Trial 12/18/25
+Berkshire 5706184 MA30022673 JBCS3J2522174 White Not Hispanic/Latino Pre-Trial 12/19/25
+Berkshire 2860639 MA10179655 JBCS1J2522188 White Not Hispanic/Latino Pre-Trial 12/19/25
+Berkshire 5444573 MA21177273 HBCS1H2522127 White Not Hispanic/Latino Sentenced 12/22/25 910 878
+Berkshire 872551 MA09600877 JBCS1J2522186 White Not Hispanic/Latino Pre-Trial 12/22/25
+Berkshire 5614909 JBCS1J2522177 Other/Unknown Hispanic/Latino Pre-Trial 12/23/25
+Berkshire 2246540 MA09626174 JBCS1J2522195 White Not Hispanic/Latino Pre-Trial 12/23/25
+Berkshire 2712666 ma10105597 JBCS1J2522165 White Not Hispanic/Latino Pre-Trial 12/23/25
+Berkshire 2856058 MA30001781 JBCS2J2522058 Other/Unknown Not Hispanic/Latino Pre-Trial 12/24/25
+Berkshire 3138252 MA21090494 JBCS2J2522171 White Not Hispanic/Latino Pre-Trial 12/24/25
+Berkshire 5299805 ma21159998 HBCS1H2521873 White Hispanic/Latino Sentenced 12/24/25 30 211 22
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 12/26/25 30 540 378
+Berkshire 2481129 MA09838399 JBCS2J2522184 Black/African American Not Hispanic/Latino Pre-Trial 12/30/25
+Berkshire 2388064 MA09720789 JBCS1J2521931 Black/African American Not Hispanic/Latino Pre-Trial 12/30/25
+Berkshire 2057671 MA09433665 JBCS4J2521924 Black/African American Not Hispanic/Latino Pre-Trial 12/30/25
+Berkshire 2223327 JBCS1J2522182 White Not Hispanic/Latino Pre-Trial 12/31/25
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 12/31/25 24 180 35
+Berkshire 3144484 ma21003200 HBCS1H2522094 White Not Hispanic/Latino Sentenced 12/31/25 60 10
+Berkshire 153983423 MA10598771 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/31/25 95 730 212
+Page 8 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 5562526 Black/African American Not Hispanic/Latino Sentenced 10/1/25 AA Sentenced Currently Enrolled
+Berkshire 5562526 Black/African American Not Hispanic/Latino Sentenced 10/1/25 NA Sentenced Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 10/1/25 AA Sentenced Currently Enrolled
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 10/1/25 NA Sentenced Participated
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 10/1/25 AA Sentenced Participated
+Berkshire 3086410 MA10525759 HBCS9H2521911 Black/African American Not Hispanic/Latino Sentenced 10/1/25 AA Sentenced Currently Enrolled
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/1/25 Life Skills Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 10/1/25 NA Sentenced Participated
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 10/1/25 NA Sentenced Participated
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 10/1/25 AA Sentenced Participated
+Berkshire 3129192 MA10583549 HBCS1H2521929 White Not Hispanic/Latino Sentenced 10/1/25 Addiction Education Participated
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 10/1/25 AA Sentenced Currently Enrolled
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 10/1/25 NA Sentenced Participated
+Berkshire 3189785 MA10642148 JBCS2J2521856 Black/African American Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 3183590 MA21033112 HBCS8H2521761 White Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 5349569 MA21059947 White Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 1093834 MA00970977 Black/African American Not Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 2251845 MA10192429 HBCS2H2521604 Black/African American Not Hispanic/Latino Sentenced 10/2/25 Anger Management Dropped
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 5320517 MA21120429 HBCS4H2521568 Black/African American Not Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 5645600 MA30012981 JBCS3J2521915 Other/Unknown Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 5361831 MA21066443 JBCS1J2521997 White Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 5455556 MA21140690 JBCS2J2521981 Black/African American Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 3199031 MA10658682 JBCS1J2521906 White Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 3066588 MA10413419 HBCS1H2521899 White Not Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 5626553 MA30008898 JBCS2J2521763 Black/African American Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 3086410 MA10525759 HBCS9H2521911 Black/African American Not Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 1606926 MA10396438 HBCS1H2521969 White Not Hispanic/Latino Sentenced 10/2/25 Kitchen 1 Participated
+Berkshire 1559963 MA09301482 JBCS1J2521959 White Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 5036707 MA10449678 HBCS1H2621713 White Not Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 5265528 JBSO00P019343 White Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Currently Enrolled
+Berkshire 2406161 MA09907988 White Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 5562526 Black/African American Not Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 5642704 White Not Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 3133442 MA10502133 Black/African American Not Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 2658486 MA10322802 HBCS3H2521708 Black/African American Not Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Disciplinary
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 10/2/25 205 PRE ASE Math Participated
+Berkshire 5320914 MA21276246 JBCS2J2521991 White Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 2719198 MA10468981 HBCS1H2521757 White Not Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Participated
+Berkshire 2820237 JBCS3J2521823 White Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 3105780 ma10529093 HBCS1H2621818 Black/African American Not Hispanic/Latino Sentenced 10/2/25 207 PRE ASE English/LA Participated
+Berkshire 5135529 MA10520454 JBCS1J2521998 White Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 1606926 MA10396438 HBCS1H2521969 White Not Hispanic/Latino Sentenced 10/2/25 Kitchen 2 Participated
+Berkshire 5250425 MA10574941 HBCS2H2421260 White Hispanic/Latino Sentenced 10/2/25 Unlock Your Thinking Released
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Currently Enrolled
+Berkshire 5698462 MA30016276 JBCS2J2521983 White Not Hispanic/Latino Pre-Trial 10/2/25 Life Skills Participated
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 645090 MA00975283 JBCS4J2521995 White Not Hispanic/Latino Pre-Trial 10/2/25 Basic Recovery Participated
+Berkshire 5036707 MA10449678 HBCS1H2621713 White Not Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 10/2/25 Anger Management Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/3/25 Recovery Skills Currently Enrolled
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 10/3/25 Living Clean Participated
+Berkshire 5308959 MA21044262 HBCS1H2521841 White Not Hispanic/Latino Sentenced 10/3/25 306 ASE Science/Tech Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 10/3/25 Living Clean Participated
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 10/3/25 Recovery Skills Participated
+Berkshire 2209101 MA09736217 JBCS2J2521896 White Not Hispanic/Latino Pre-Trial 10/3/25 ESOL Participated
+Berkshire 2978965 MA10382830 JBCS1J2320057 White Hispanic/Latino Pre-Trial 10/3/25 SEIS C Pod Participated
+Berkshire 5308959 MA21044262 HBCS1H2521841 White Not Hispanic/Latino Sentenced 10/3/25 308 ASE Social Studies Participated
+Berkshire 645090 MA00975283 JBCS4J2521995 White Not Hispanic/Latino Pre-Trial 10/3/25 Life Skills Participated
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 10/3/25 SEIS B Pod Currently Enrolled
+Berkshire 3183590 MA21033112 HBCS8H2521761 White Hispanic/Latino Sentenced 10/3/25 105 ABE Math Participated
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 10/3/25 SEIS C Pod Participated
+Berkshire 5308959 MA21044262 HBCS1H2521841 White Not Hispanic/Latino Sentenced 10/3/25 307 ASE English/LA Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 10/3/25 Recovery Skills Participated
+Berkshire 3096475 MA10600202 White Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 3120852 MA10437525 JBCS2J2521953 Black/African American Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 5597052 JBCS1J2521947 White Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 645090 MA00975283 JBCS4J2521995 White Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 5364225 MA21067917 JBCS3J2521937 Black/African American Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 5588898 MA30015593 JBCS2J2521956 Black/African American Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 2820237 JBCS3J2521823 White Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 5612043 MA30015155 JBCS1J2521942 Black/African American Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 5375259 MA21074967 JBCS1J2521687 Black/African American Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 5316815 MA21067236 JBCS7J2521808 Black/African American Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Berkshire 5135529 MA10520454 JBCS1J2521998 White Not Hispanic/Latino Pre-Trial 10/4/25 Life Skills Participated
+Page 9 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/5/25 Kitchen 2A Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/5/25 Kichen 1B Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/6/25 Medication Supported Recovery Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 10/6/25 Kitchen 1 Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 10/6/25 Kitchen 2 Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 10/6/25 Kitchen 1 Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 10/6/25 Kitchen 2 Participated
+Berkshire 972193 HBCS1H2521898 White Not Hispanic/Latino Sentenced 10/6/25 Advanced Culinary Participated
+Berkshire 2002823 ma09301052 HBCS1H2521946 White Not Hispanic/Latino Sentenced 10/6/25 Advanced Culinary Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 10/6/25 Medication Supported Recovery Participated
+Berkshire 2209101 MA09736217 JBCS2J2521896 White Not Hispanic/Latino Pre-Trial 10/6/25 ESOL Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/6/25 Kitchen 3B Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 10/7/25 ABE MAPT Test Participated
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 10/7/25 Life Skills Participated
+Berkshire 5664166 MA21292401 JBCS2J2421201 White Hispanic/Latino Pre-Trial 10/7/25 Life Skills Participated
+Berkshire 5688275 MA21299771 JBCS3J2521943 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25 Life Skills Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/7/25 307 ASE English/LA Participated
+Berkshire 5455556 MA21140690 JBCS2J2521981 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25 Life Skills Participated
+Berkshire 2684452 MA10103276 JBCS1J2420888 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25 Life Skills Currently Enrolled
+Berkshire 5607072 MA21248687 JBCS2J2421242 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25 Life Skills Participated
+Berkshire 2540353 MA10384882 JBCS2J2320502 White Not Hispanic/Latino Pre-Trial 10/7/25 Life Skills Participated
+Berkshire 3171054 MA21126670 JBCS2J2421155 White Not Hispanic/Latino Pre-Trial 10/7/25 ESOL Participated
+Berkshire 5528363 MA21188849 JBCS4J2521520 White Hispanic/Latino Pre-Trial 10/7/25 Life Skills Participated
+Berkshire 2153645 MA09902913 JBCS9J2521865 White Hispanic/Latino Pre-Trial 10/7/25 Life Skills Participated
+Berkshire 5293290 MA21075051 JBCS1J2421263 White Hispanic/Latino Pre-Trial 10/7/25 Life Skills Currently Enrolled
+Berkshire 2978965 MA10382830 JBCS1J2320057 White Hispanic/Latino Pre-Trial 10/7/25 Life Skills Currently Enrolled
+Berkshire 3204143 MA10636326 JBCS1J2319847 White Hispanic/Latino Pre-Trial 10/7/25 Life Skills Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/7/25 Tutoring Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/8/25 AA Sentenced Participated
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 10/8/25 Creative Writing Currently Enrolled
+Berkshire 2251845 MA10192429 HBCS2H2521604 Black/African American Not Hispanic/Latino Sentenced 10/8/25 Creative Writing Currently Enrolled
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 10/8/25 Creative Writing Currently Enrolled
+Berkshire 2827334 MA10157229 HBCS1H2521948 White Not Hispanic/Latino Sentenced 10/8/25 Life Skills Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 10/8/25 NA Sentenced Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 10/8/25 AA Sentenced Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/8/25 206 PRE ASE Science/Tech Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/8/25 NA Sentenced Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/8/25 AA Sentenced Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/8/25 NA Sentenced Participated
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 10/8/25 Creative Writing Currently Enrolled
+Berkshire 3133442 MA10502133 Black/African American Not Hispanic/Latino Sentenced 10/8/25 Creative Writing Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/8/25 207 PRE ASE English/LA Participated
+Berkshire 3120852 MA10437525 JBCS2J2521953 Black/African American Not Hispanic/Latino Pre-Trial 10/8/25 Basic Recovery Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/8/25 306 ASE Science/Tech Participated
+Berkshire 5467245 HBCS1H2521644 Black/African American Not Hispanic/Latino Sentenced 10/8/25 Creative Writing Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/8/25 205 PRE ASE Math Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 10/8/25 AA Sentenced Participated
+Berkshire 3135457 MA10627175 JBCS3J2521754 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 2975347 MA10245883 JBCS2J2420780 Black/African American Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 5265528 JBSO00P019343 White Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 2872806 MA10165058 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 1778351 ma10042820 JBCS1J2521580 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 2905967 MA10262843 HBCS2H2521830 Black/African American Hispanic/Latino Sentenced 10/9/25 Kitchen 3 Participated
+Berkshire 5367867 MA21119588 JBCS2J2320211 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 5528363 MA21188849 JBCS4J2521520 White Hispanic/Latino Pre-Trial 10/9/25 Master Class Participated
+Berkshire 3199031 MA10658682 JBCS1J2521906 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 2602979 MA10562299 JBCS1J2421327 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 5597052 JBCS1J2521947 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 645090 MA00975283 JBCS4J2521995 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 5455556 MA21140690 JBCS2J2521981 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 Master Class Participated
+Berkshire 5691479 MA30015740 JBCS2J2521966 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 10/9/25 NA Sentenced Participated
+Berkshire 2638234 MA10164758 JBCS1J2420979 White Not Hispanic/Latino Pre-Trial 10/9/25 Master Class Participated
+Berkshire 3189785 MA10642148 JBCS2J2521856 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 Master Class Currently Enrolled
+Berkshire 5133632 MA10507591 JBCS1J2420592 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 5293290 MA21075051 JBCS1J2421263 White Hispanic/Latino Pre-Trial 10/9/25 Master Class Participated
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 SEIS Tutoring Currently Enrolled
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 SEIS Tutoring Currently Enrolled
+Berkshire 5459605 MA21153941 JBCS1J2420804 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 2731048 MA10080435 JBCS7J2421387 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 3086410 MA10525759 HBCS9H2521911 Black/African American Not Hispanic/Latino Sentenced 10/9/25 Kitchen 3 Participated
+Berkshire 5434335 ma21129222 White Hispanic/Latino Sentenced 10/9/25 NA Sentenced Participated
+Berkshire 2998375 MA10268675 JBCS1J2521820 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 2673139 MA10213500 JBCS2J2521842 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 1947856 MA09226830 JBCS1J2521916 White Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 2877893 MA10183220 JBCS2J2521878 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 2153645 MA09902913 JBCS9J2521865 White Hispanic/Latino Pre-Trial 10/9/25 Master Class Participated
+Berkshire 5664166 MA21292401 JBCS2J2421201 White Hispanic/Latino Pre-Trial 10/9/25 Master Class Participated
+Berkshire 5605396 MA21246448 JBCS3J2521506 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 2820237 JBCS3J2521823 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Page 10 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 5688275 MA21299771 JBCS3J2521943 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 Master Class Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/9/25 NA Sentenced Participated
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 SEIS Tutoring Currently Enrolled
+Berkshire 2748952 MA10515673 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/9/25 NA Sentenced Participated
+Berkshire 3204143 MA10636326 JBCS1J2319847 White Hispanic/Latino Pre-Trial 10/9/25 Master Class Participated
+Berkshire 5135529 MA10520454 JBCS1J2521998 White Not Hispanic/Latino Pre-Trial 10/9/25 REC Weekend Participated
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 3194474 JBCS2J2522004 Black/African American Not Hispanic/Latino Pre-Trial 10/11/25 Life Skills Participated
+Berkshire 3051757 MA10500561 HBCS1H2521867 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 5135529 MA10520454 JBCS1J2521998 White Not Hispanic/Latino Pre-Trial 10/11/25 Life Skills Participated
+Berkshire 2002823 ma09301052 HBCS1H2521946 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 5018297 MA10499894 HBCS1H2521697 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 1606926 MA10396438 HBCS1H2521969 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 3129192 MA10583549 HBCS1H2521929 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/11/25 Medication Supported Recovery Participated
+Berkshire 2905967 MA10262843 HBCS2H2521830 Black/African American Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 25228649 MA10104583 HBCS1H2621725 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/11/25 Medication Supported Recovery Participated
+Berkshire 2827334 MA10157229 HBCS1H2521948 White Not Hispanic/Latino Sentenced 10/11/25 Recovery Skills Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 10/11/25 Medication Supported Recovery Participated
+Berkshire 2827334 MA10157229 HBCS1H2521948 White Not Hispanic/Latino Sentenced 10/12/25 Kitchen 3 Participated
+Berkshire 5308959 MA21044262 HBCS1H2521841 White Not Hispanic/Latino Sentenced 10/12/25 Kitchen 3 Participated
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 10/13/25 Kitchen 2A Participated
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 10/13/25 Kitchen 3B Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/13/25 Kitchen 1 Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/13/25 Kitchen 2 Participated
+Berkshire 5114059 MA10487831 HBCS1H2521860 White Not Hispanic/Latino Sentenced 10/13/25 Kitchen 3B Participated
+Berkshire 5114059 MA10487831 HBCS1H2521860 White Not Hispanic/Latino Sentenced 10/13/25 Kichen 1B Participated
+Berkshire 5114059 MA10487831 HBCS1H2521860 White Not Hispanic/Latino Sentenced 10/13/25 Kitchen 2A Participated
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 10/13/25 Mindfulness Currently Enrolled
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 10/13/25 Mindfulness Currently Enrolled
+Berkshire 3194474 JBCS2J2522004 Black/African American Not Hispanic/Latino Pre-Trial 10/13/25 Life Skills Participated
+Berkshire 2650534 MA10306801 JBCS2J2522009 White Not Hispanic/Latino Pre-Trial 10/13/25 Life Skills Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/13/25 Kitchen 3 Participated
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 10/13/25 Life Skills Participated
+Berkshire 23567239 White Not Hispanic/Latino Sentenced 10/13/25 Mindfulness Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/13/25 Mindfulness Currently Enrolled
+Berkshire 5434335 ma21129222 White Hispanic/Latino Sentenced 10/13/25 Mindfulness Currently Enrolled
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/13/25 Mindfulness Currently Enrolled
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 10/13/25 Mindfulness Currently Enrolled
+Berkshire 5367867 MA21119588 JBCS2J2320211 Black/African American Not Hispanic/Latino Pre-Trial 10/13/25 Life Skills Participated
+Berkshire 2827334 MA10157229 HBCS1H2521948 White Not Hispanic/Latino Sentenced 10/13/25 Kitchen 3A Participated
+Berkshire 2002823 ma09301052 HBCS1H2521946 White Not Hispanic/Latino Sentenced 10/13/25 Mindfulness Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/13/25 Mindfulness Participated
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 10/13/25 Kichen 1B Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 10/13/25 Mindfulness Currently Enrolled
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 10/13/25 Mindfulness Participated
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 10/14/25 207 PRE ASE English/LA Participated
+Berkshire 1933483 MA09931849 JBCS2J2522011 White Not Hispanic/Latino Pre-Trial 10/14/25 Basic Recovery Participated
+Berkshire 5574836 MA30009879 JBCS4J2521999 White Not Hispanic/Latino Pre-Trial 10/14/25 Basic Recovery Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/14/25 ABE MAPT Test Participated
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 10/14/25 207 PRE ASE English/LA Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 10/14/25 ABE MAPT Test Participated
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 10/14/25 108 ABE Social Studies Participated
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 10/14/25 205 PRE ASE Math Participated
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 10/14/25 205 PRE ASE Math Participated
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 10/14/25 208 PRE ASE Social Studies Participated
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 10/14/25 206 PRE ASE Science/Tech Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/14/25 ABE MAPT Test Participated
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 10/14/25 206 PRE ASE Science/Tech Participated
+Berkshire 3143469 ma10571154 JBCS1J2521770 Black/African American Not Hispanic/Latino Pre-Trial 10/15/25 Life Skills Currently Enrolled
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 10/15/25 307 ASE English/LA Participated
+Berkshire 2835821 MA10349007 HBCS2H2521746 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 10/15/25 207 PRE ASE English/LA Currently Enrolled
+Berkshire 5665944 MA21294817 JBCS1J2521540 White Hispanic/Latino Pre-Trial 10/15/25 Life Skills Participated
+Berkshire 1933483 MA09931849 JBCS2J2522011 White Not Hispanic/Latino Pre-Trial 10/15/25 Life Skills Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 5018297 MA10499894 HBCS1H2521697 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 5626553 MA30008898 JBCS2J2521763 Black/African American Not Hispanic/Latino Pre-Trial 10/15/25 Life Skills Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 10/15/25 208 PRE ASE Social Studies Currently Enrolled
+Berkshire 3120852 MA10437525 JBCS2J2521953 Black/African American Not Hispanic/Latino Pre-Trial 10/15/25 Master Class Participated
+Berkshire 5645600 MA30012981 JBCS3J2521915 Other/Unknown Hispanic/Latino Pre-Trial 10/15/25 Life Skills Participated
+Page 11 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 10/15/25 206 PRE ASE Science/Tech Currently Enrolled
+Berkshire 2905967 MA10262843 HBCS2H2521830 Black/African American Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 5479702 MA21151336 HBCS2H2521749 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 5299805 ma21159998 HBCS1H2521873 White Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 2002823 ma09301052 HBCS1H2521946 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 5675161 MA30003127 JBCS3J2521993 White Hispanic/Latino Pre-Trial 10/15/25 Life Skills Currently Enrolled
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/15/25 Living Clean Participated
+Berkshire 2602979 MA10562299 JBCS1J2421327 White Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 5459605 MA21153941 JBCS1J2420804 Black/African American Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 1778351 ma10042820 JBCS1J2521580 White Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 2877893 MA10183220 JBCS2J2521878 White Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 5597052 JBCS1J2521947 White Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 1933483 MA09931849 JBCS2J2522011 White Not Hispanic/Latino Pre-Trial 10/16/25 Basic Recovery Participated
+Berkshire 5135529 MA10520454 JBCS1J2521998 White Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 3164234 MA21137680 HBCS2H2521578 White Not Hispanic/Latino Sentenced 10/16/25 Creative Writing Participated
+Berkshire 5691479 MA30015740 JBCS2J2521966 White Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 2975347 MA10245883 JBCS2J2420780 Black/African American Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 3120852 MA10437525 JBCS2J2521953 Black/African American Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 1947856 MA09226830 JBCS1J2521916 White Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 5367867 MA21119588 JBCS2J2320211 Black/African American Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 5698462 MA30016276 JBCS2J2521983 White Not Hispanic/Latino Pre-Trial 10/16/25 Narcan/Tapestry Participated
+Berkshire 5675161 MA30003127 JBCS3J2521993 White Hispanic/Latino Pre-Trial 10/17/25 Basic Recovery Participated
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 10/17/25 105 ABE Math Participated
+Berkshire 2251845 MA10192429 HBCS2H2521604 Black/African American Not Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 10/17/25 Tutoring Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 3171054 MA21126670 JBCS2J2421155 White Not Hispanic/Latino Pre-Trial 10/17/25 Tutoring Currently Enrolled
+Berkshire 1093834 MA00970977 Black/African American Not Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 23567239 White Not Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 5675161 MA30003127 JBCS3J2521993 White Hispanic/Latino Pre-Trial 10/17/25 ESOL Currently Enrolled
+Berkshire 2978965 MA10382830 JBCS1J2320057 White Hispanic/Latino Pre-Trial 10/17/25 Tutoring Currently Enrolled
+Berkshire 3183590 MA21033112 HBCS8H2521761 White Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 3133442 MA10502133 Black/African American Not Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 10/17/25 106 ABE Science/Tech Participated
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 10/17/25 108 ABE Social Studies Participated
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 10/17/25 107 ABE English/LA Participated
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 3105780 ma10529093 HBCS1H2621818 Black/African American Not Hispanic/Latino Sentenced 10/17/25 108 ABE Social Studies Participated
+Berkshire 3164234 MA21137680 HBCS2H2521578 White Not Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 10/17/25 Tutoring - Williams College Participated
+Berkshire 3105780 ma10529093 HBCS1H2621818 Black/African American Not Hispanic/Latino Sentenced 10/17/25 107 ABE English/LA Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/21/25 Addiction Education Participated
+Berkshire 2835821 MA10349007 HBCS2H2521746 White Not Hispanic/Latino Sentenced 10/21/25 AA Sentenced Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 10/21/25 Addiction Education Participated
+Berkshire 1756046 ma09914232 JBCS1J2619870 Black/African American Not Hispanic/Latino Pre-Trial 10/21/25 Math Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 10/21/25 Addiction Education Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/21/25 Addiction Education Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/21/25 AA Sentenced Participated
+Berkshire 2638234 MA10164758 JBCS1J2420979 White Not Hispanic/Latino Pre-Trial 10/21/25 Math Currently Enrolled
+Berkshire 5675161 MA30003127 JBCS3J2521993 White Hispanic/Latino Pre-Trial 10/21/25 Basic Recovery Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/21/25 Addiction Education Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/21/25 AA Sentenced Participated
+Berkshire 2835821 MA10349007 HBCS2H2521746 White Not Hispanic/Latino Sentenced 10/21/25 Addiction Education Participated
+Berkshire 354540 JBCS1J2522017 Black/African American Not Hispanic/Latino Pre-Trial 10/21/25 Basic Recovery Participated
+Berkshire 2978965 MA10382830 JBCS1J2320057 White Hispanic/Latino Pre-Trial 10/21/25 Math Currently Enrolled
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 10/21/25 Addiction Education Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 10/21/25 Addiction Education Participated
+Berkshire 5692135 MA30001061 JBCS2J2521851 White Hispanic/Latino Pre-Trial 10/21/25 Basic Recovery Participated
+Berkshire 2835821 MA10349007 HBCS2H2521746 White Not Hispanic/Latino Sentenced 10/22/25 NA Sentenced Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/22/25 Kitchen 3 Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 10/22/25 AA Sentenced Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 10/22/25 AA Sentenced Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 10/23/25 Kitchen 3B Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/23/25 Kitchen 3B Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/23/25 Kitchen 2 Participated
+Berkshire 5349569 MA21059947 White Hispanic/Latino Sentenced 10/23/25 Kitchen 3 Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/23/25 Kitchen 1 Participated
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 10/24/25 Living Clean Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/24/25 Living Clean Participated
+Berkshire 5022073 MA10409017 HBCS2H2521464 Black/African American Not Hispanic/Latino Sentenced 10/24/25 Living Clean Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 10/24/25 Recovery Skills Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/24/25 Recovery Skills Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 10/24/25 Recovery Skills Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 10/24/25 NA Sentenced Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 10/24/25 Living Clean Participated
+Page 12 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 10/24/25 NA Sentenced Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 10/24/25 Living Clean Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 10/25/25 Kichen 1B Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/25/25 Kichen 1B Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 10/27/25 ABE MAPT Test Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 10/27/25 205 PRE ASE Math Currently Enrolled
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 10/27/25 Medication Supported Recovery Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 10/27/25 Medication Supported Recovery Participated
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 10/27/25 ABE MAPT Test Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 10/27/25 ABE MAPT Test Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 10/27/25 ABE MAPT Test Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/27/25 Medication Supported Recovery Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 10/27/25 ABE MAPT Test Participated
+Berkshire 2959072 MA10327447 HBCS1H2522048 White Not Hispanic/Latino Sentenced 10/27/25 ABE MAPT Test Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 10/27/25 Medication Supported Recovery Participated
+Berkshire 2451522 ma10173497 JBCS1J2521949 White Not Hispanic/Latino Pre-Trial 10/28/25 Basic Recovery Participated
+Berkshire 5528363 MA21188849 JBCS4J2521520 White Hispanic/Latino Pre-Trial 10/28/25 Basic Recovery Participated
+Berkshire 3008980 MA10283926 JBCS2J2522045 White Hispanic/Latino Pre-Trial 10/28/25 Basic Recovery Participated
+Berkshire 25228649 MA10104583 HBCS1H2621725 White Not Hispanic/Latino Sentenced 10/28/25 207 PRE ASE English/LA Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/28/25 ABE Northstar Digital Literacy-410 Participated
+Berkshire 5665944 MA21294817 JBCS1J2521540 White Hispanic/Latino Pre-Trial 10/28/25 Basic Recovery Participated
+Berkshire 2602979 MA10562299 JBCS1J2421327 White Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Currently Enrolled
+Berkshire 2602979 MA10562299 JBCS1J2421327 White Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Currently Enrolled
+Berkshire 2875484 ma10173071 JBSO00P018734 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Muslim Pod C Currently Enrolled
+Berkshire 5133632 MA10507591 JBCS1J2420592 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Currently Enrolled
+Berkshire 5133632 MA10507591 JBCS1J2420592 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Currently Enrolled
+Berkshire 5607072 MA21248687 JBCS2J2421242 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Muslim Pod C Currently Enrolled
+Berkshire 5293290 MA21075051 JBCS1J2421263 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Muslim Pod C Currently Enrolled
+Berkshire 2978965 MA10382830 JBCS1J2320057 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/29/25 Christian Services Currently Enrolled
+Berkshire 5548036 MA21203555 JBCS1J2219715 White Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Participated
+Berkshire 5548036 MA21203555 JBCS1J2219715 White Hispanic/Latino Pre-Trial 10/29/25 Christian Services-C Pod Participated
+Berkshire 5548036 MA21203555 JBCS1J2219715 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 3204143 MA10636326 JBCS1J2319847 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Muslim Pod C Currently Enrolled
+Berkshire 3204143 MA10636326 JBCS1J2319847 White Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Currently Enrolled
+Berkshire 2877893 MA10183220 JBCS2J2521878 White Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 2877893 MA10183220 JBCS2J2521878 White Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Participated
+Berkshire 5402985 JBCS1J2522055 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Basic Recovery Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 10/29/25 Addiction Education Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 10/29/25 Addiction Education Participated
+Berkshire 5479702 MA21151336 HBCS2H2521749 White Not Hispanic/Latino Sentenced 10/29/25 Christian Services Participated
+Berkshire 5664166 MA21292401 JBCS2J2421201 White Hispanic/Latino Pre-Trial 10/29/25 Christian Services-C Pod Participated
+Berkshire 2820237 JBCS3J2521823 White Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Participated
+Berkshire 2315066 MA10297758 JBCS2J2521706 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Muslim Pod C Participated
+Berkshire 5018297 MA10499894 HBCS1H2521697 White Not Hispanic/Latino Sentenced 10/29/25 Christian Services Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 10/29/25 Addiction Education Participated
+Berkshire 5570164 MA21219912 JBCS2J2521618 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Muslim Pod C Currently Enrolled
+Berkshire 2540353 MA10384882 JBCS2J2320502 White Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Currently Enrolled
+Berkshire 2540353 MA10384882 JBCS2J2320502 White Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-C Pod Currently Enrolled
+Berkshire 2748952 MA10515673 White Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Currently Enrolled
+Berkshire 1947856 MA09226830 JBCS1J2521916 White Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Participated
+Berkshire 2837334 MA10471991 JBCS4J2521954 White Not Hispanic/Latino Pre-Trial 10/29/25 Basic Recovery Participated
+Berkshire 5665944 MA21294817 JBCS1J2521540 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 5664166 MA21292401 JBCS2J2421201 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 2983376 MA10605540 JBCS2J2522033 White Not Hispanic/Latino Pre-Trial 10/29/25 Basic Recovery Participated
+Berkshire 2975347 MA10245883 JBCS2J2420780 Black/African American Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Currently Enrolled
+Berkshire 5265528 JBSO00P019343 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Currently Enrolled
+Berkshire 5265528 JBSO00P019343 White Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Currently Enrolled
+Berkshire 2978965 MA10382830 JBCS1J2320057 White Hispanic/Latino Pre-Trial 10/29/25 Christian Services-C Pod Currently Enrolled
+Berkshire 2540353 MA10384882 JBCS2J2320502 White Not Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Currently Enrolled
+Berkshire 2748952 MA10515673 White Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Currently Enrolled
+Berkshire 1778351 ma10042820 JBCS1J2521580 White Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Currently Enrolled
+Berkshire 432300 MA21035404 HBCS1H2521589 White Hispanic/Latino Sentenced 10/29/25 Christian Services Currently Enrolled
+Berkshire 2658486 MA10322802 HBCS3H2521708 Black/African American Not Hispanic/Latino Sentenced 10/29/25 Christian Services Currently Enrolled
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 10/29/25 Christian Services Currently Enrolled
+Berkshire 2998375 MA10268675 JBCS1J2521820 White Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Participated
+Berkshire 2998375 MA10268675 JBCS1J2521820 White Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Participated
+Berkshire 1756046 ma09914232 JBCS1J2619870 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Participated
+Berkshire 1756046 ma09914232 JBCS1J2619870 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 1756046 ma09914232 JBCS1J2619870 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-C Pod Participated
+Berkshire 5367867 MA21119588 JBCS2J2320211 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Participated
+Berkshire 5367867 MA21119588 JBCS2J2320211 Black/African American Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 3204143 MA10636326 JBCS1J2319847 White Hispanic/Latino Pre-Trial 10/29/25 Christian Services-C Pod Currently Enrolled
+Berkshire 5665944 MA21294817 JBCS1J2521540 White Hispanic/Latino Pre-Trial 10/29/25 Christian Services-C Pod Participated
+Berkshire 5664166 MA21292401 JBCS2J2421201 White Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Participated
+Berkshire 2820237 JBCS3J2521823 White Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 5361831 MA21066443 JBCS1J2521997 White Not Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 5361831 MA21066443 JBCS1J2521997 White Not Hispanic/Latino Pre-Trial 10/29/25 Christian Services-B Pod Participated
+Berkshire 5692135 MA30001061 JBCS2J2521851 White Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Participated
+Berkshire 5692135 MA30001061 JBCS2J2521851 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Page 13 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/29/25 Addiction Education Participated
+Berkshire 3066588 MA10413419 HBCS1H2521899 White Not Hispanic/Latino Sentenced 10/29/25 Christian Services Participated
+Berkshire 2875484 ma10173071 JBSO00P018734 White Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Currently Enrolled
+Berkshire 2975347 MA10245883 JBCS2J2420780 Black/African American Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Currently Enrolled
+Berkshire 2978965 MA10382830 JBCS1J2320057 White Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Currently Enrolled
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 10/29/25 Christian Services Currently Enrolled
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 10/29/25 Christian Services-C Pod Participated
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 1947856 MA09226830 JBCS1J2521916 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Participated
+Berkshire 3204143 MA10636326 JBCS1J2319847 White Hispanic/Latino Pre-Trial 10/29/25 Pretrial Bible Study Currently Enrolled
+Berkshire 5665944 MA21294817 JBCS1J2521540 White Hispanic/Latino Pre-Trial 10/29/25 Jehovah Witness Participated
+Berkshire 5692135 MA30001061 JBCS2J2521851 White Hispanic/Latino Pre-Trial 10/29/25 Christian Services-C Pod Participated
+Berkshire 5459605 MA21153941 JBCS1J2420804 Black/African American Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Bible Study Currently Enrolled
+Berkshire 3096475 MA10600202 White Hispanic/Latino Pre-Trial 10/30/25 Pretrial Bible Study Currently Enrolled
+Berkshire 5698462 MA30016276 JBCS2J2521983 White Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Bible Study Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/30/25 AA Sentenced Currently Enrolled
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 10/30/25 NA Sentenced Participated
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 10/30/25 sentenced Muslim prayer Currently Enrolled
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 10/30/25 Kitchen 1 Participated
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 10/30/25 sentenced Muslim prayer Currently Enrolled
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 10/30/25 NA Sentenced Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 10/30/25 Christian Services Participated
+Berkshire 1778351 ma10042820 JBCS1J2521580 White Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Bible Study Currently Enrolled
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 10/30/25 AA Sentenced Participated
+Berkshire 2729641 MA10527884 JBCS1J2521907 White Not Hispanic/Latino Pre-Trial 10/30/25 Christian Services-B Pod Participated
+Berkshire 5691479 MA30015740 JBCS2J2521966 White Not Hispanic/Latino Pre-Trial 10/30/25 Christian Services-B Pod Participated
+Berkshire 5459605 MA21153941 JBCS1J2420804 Black/African American Not Hispanic/Latino Pre-Trial 10/30/25 Christian Services-B Pod Currently Enrolled
+Berkshire 2748952 MA10515673 White Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Muslim Pod B Currently Enrolled
+Berkshire 3096475 MA10600202 White Hispanic/Latino Pre-Trial 10/30/25 Christian Services-B Pod Currently Enrolled
+Berkshire 5226184 MA10621196 JBCS6J2521847 Black/African American Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Muslim Pod C Currently Enrolled
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 10/30/25 AA Sentenced Currently Enrolled
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 10/30/25 Christian Services Currently Enrolled
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 10/30/25 NA Sentenced Participated
+Berkshire 3194474 JBCS2J2522004 Black/African American Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Muslim Pod B Participated
+Berkshire 2729641 MA10527884 JBCS1J2521907 White Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Bible Study Participated
+Berkshire 2820237 JBCS3J2521823 White Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Muslim Pod B Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/30/25 Christian Services Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/30/25 AA Sentenced Participated
+Berkshire 5698462 MA30016276 JBCS2J2521983 White Not Hispanic/Latino Pre-Trial 10/30/25 Christian Services-B Pod Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/30/25 NA Sentenced Participated
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 10/30/25 AA Sentenced Currently Enrolled
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 10/30/25 Kitchen 2 Participated
+Berkshire 5316815 MA21067236 JBCS7J2521808 Black/African American Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Muslim Pod B Participated
+Berkshire 2983376 MA10605540 JBCS2J2522033 White Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Muslim Pod B Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/30/25 NA Sentenced Participated
+Berkshire 5691479 MA30015740 JBCS2J2521966 White Not Hispanic/Latino Pre-Trial 10/30/25 Pretrial Bible Study Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/30/25 NA Sentenced Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/30/25 AA Sentenced Participated
+Berkshire 5349569 MA21059947 White Hispanic/Latino Sentenced 10/31/25 Anger Management Currently Enrolled
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Currently Enrolled
+Berkshire 5642704 White Not Hispanic/Latino Sentenced 10/31/25 Anger Management Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 10/31/25 RSAT Participated
+Berkshire 2658486 MA10322802 HBCS3H2521708 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Anger Management Currently Enrolled
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 10/31/25 107 ABE English/LA Currently Enrolled
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Currently Enrolled
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Currently Enrolled
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 10/31/25 Anger Management Currently Enrolled
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 10/31/25 Anger Management Currently Enrolled
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 10/31/25 Recovery Skills Participated
+Berkshire 2002823 ma09301052 HBCS1H2521946 White Not Hispanic/Latino Sentenced 10/31/25 Financial Literacy Participated
+Berkshire 1049169 ma10183216 HBCS1H2521972 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Financial Literacy Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 10/31/25 RSAT Participated
+Berkshire 5540913 ma21279245 HBCS1H2622063 White Not Hispanic/Latino Sentenced 10/31/25 ABE MAPT Test Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 10/31/25 Financial Literacy Participated
+Berkshire 5320517 MA21120429 HBCS4H2521568 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Anger Management Participated
+Berkshire 2959072 MA10327447 HBCS1H2522048 White Not Hispanic/Latino Sentenced 10/31/25 Recovery Skills Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 10/31/25 RSAT Released
+Berkshire 3066588 MA10413419 HBCS1H2521899 White Not Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Participated
+Berkshire 3183590 MA21033112 HBCS8H2521761 White Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Currently Enrolled
+Berkshire 5562526 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Currently Enrolled
+Berkshire 3133442 MA10502133 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Anger Management Housing / Classification change
+Berkshire 3086410 MA10525759 HBCS9H2521911 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Participated
+Berkshire 2251845 MA10192429 HBCS2H2521604 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Anger Management Participated
+Berkshire 2905967 MA10262843 HBCS2H2521830 Black/African American Hispanic/Latino Sentenced 10/31/25 Financial Literacy Participated
+Berkshire 5479702 MA21151336 HBCS2H2521749 White Not Hispanic/Latino Sentenced 10/31/25 Living Clean Participated
+Berkshire 2959072 MA10327447 HBCS1H2522048 White Not Hispanic/Latino Sentenced 10/31/25 Living Clean Participated
+Berkshire 5018297 MA10499894 HBCS1H2521697 White Not Hispanic/Latino Sentenced 10/31/25 Financial Literacy Participated
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 10/31/25 Anger Management Participated
+Berkshire 2406161 MA09907988 White Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Disciplinary
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 10/31/25 Anger Management Currently Enrolled
+Berkshire 1093834 MA00970977 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Currently Enrolled
+Page 14 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 10/31/25 Living Clean Currently Enrolled
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Anger Management Currently Enrolled
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 10/31/25 RSAT Participated
+Berkshire 2719198 MA10468981 HBCS1H2521757 White Not Hispanic/Latino Sentenced 10/31/25 Unlock Your Thinking Released
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 11/2/25 Kitchen 3B Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 11/2/25 Kitchen 2A Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 11/2/25 Kichen 1B Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 11/2/25 Kitchen 2A Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 11/2/25 Kitchen 2A Participated
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 11/2/25 RSAT Participated
+Berkshire 5349569 MA21059947 White Hispanic/Latino Sentenced 11/3/25 Canteen Participated
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 11/3/25 107 ABE C Pod English/LA Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 11/3/25 Living Clean Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 11/3/25 Medication Supported Recovery Participated
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 11/3/25 108 ABE C Pod SS Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/3/25 Medication Supported Recovery Participated
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 11/3/25 307 ASE C Pod English/LA Participated
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 11/3/25 305 ASE C Pod Math Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 11/3/25 Recovery Skills Participated
+Berkshire 2540353 MA10384882 JBCS2J2320502 White Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 11/4/25 RSAT Disciplinary
+Berkshire 5355896 MA21062558 JBCS2J2521678 White Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 11/4/25 Addiction Education Participated
+Berkshire 5189540 MA10593989 JBCS5J2522057 White Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 2807629 MA21160352 JBCS2J2522054 White Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 1933483 MA09931849 JBCS2J2522011 White Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 5607072 MA21248687 JBCS2J2421242 Black/African American Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Currently Enrolled
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 11/4/25 Kitchen 3 Participated
+Berkshire 2633616 MA10181486 JBCS4J2522051 Black/African American Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 11/4/25 Kitchen 2 Participated
+Berkshire 3143469 ma10571154 JBCS1J2521770 Black/African American Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Currently Enrolled
+Berkshire 2978965 MA10382830 JBCS1J2320057 White Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Currently Enrolled
+Berkshire 614232 JBCS1J2621885 Black/African American Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 354540 JBCS1J2522017 Black/African American Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 5433656 MA21162697 JBCS2J2522000 Black/African American Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 5692135 MA30001061 JBCS2J2521851 White Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 11/4/25 Kitchen 1 Participated
+Berkshire 5687543 JBCS1J2522060 White Not Hispanic/Latino Pre-Trial 11/4/25 Basic Recovery Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/5/25 AA Sentenced Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/5/25 AA Sentenced Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 11/5/25 Recovery Skills Participated
+Berkshire 5022073 MA10409017 HBCS2H2521464 Black/African American Not Hispanic/Latino Sentenced 11/5/25 Financial Literacy Participated
+Berkshire 2658486 MA10322802 HBCS3H2521708 Black/African American Not Hispanic/Latino Sentenced 11/5/25 Recovery Skills Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/5/25 AA Sentenced Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 11/5/25 Financial Literacy Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 11/5/25 Recovery Skills Participated
+Berkshire 3091545 MA21029497 HBCS1H2522021 White Not Hispanic/Latino Sentenced 11/5/25 AA Sentenced Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/5/25 Financial Literacy Participated
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 11/5/25 AA Sentenced Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 11/5/25 Financial Literacy Participated
+Berkshire 5036707 MA10449678 HBCS1H2621713 White Not Hispanic/Latino Sentenced 11/5/25 Community Service Participated
+Berkshire 1093834 MA00970977 Black/African American Not Hispanic/Latino Sentenced 11/5/25 ABE Northstar Digital Literacy-409 Currently Enrolled
+Berkshire 23567239 White Not Hispanic/Latino Sentenced 11/5/25 Financial Literacy Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/5/25 Financial Literacy Participated
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 11/5/25 Recovery Skills Participated
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/5/25 AA Sentenced Participated
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 11/5/25 Advanced Culinary Participated
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 11/5/25 Recovery Skills Participated
+Berkshire 2835821 MA10349007 HBCS2H2521746 White Not Hispanic/Latino Sentenced 11/5/25 Financial Literacy Participated
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 11/5/25 Greenhouse Currently Enrolled
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 11/5/25 Recovery Skills Participated
+Berkshire 5349569 MA21059947 White Hispanic/Latino Sentenced 11/5/25 Recovery Skills Participated
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 11/5/25 Recovery Skills Participated
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 11/5/25 Recovery Skills Participated
+Berkshire 2983376 MA10605540 JBCS2J2522033 White Not Hispanic/Latino Pre-Trial 11/5/25 Master Class Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/6/25 Kitchen 1 Participated
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/6/25 NA Sentenced Participated
+Berkshire 3133442 MA10502133 Black/African American Not Hispanic/Latino Sentenced 11/6/25 Kitchen 3B Participated
+Berkshire 3086410 MA10525759 HBCS9H2521911 Black/African American Not Hispanic/Latino Sentenced 11/6/25 Advanced Culinary Participated
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 11/6/25 208 PRE ASE Social Studies Participated
+Berkshire 2959072 MA10327447 HBCS1H2522048 White Not Hispanic/Latino Sentenced 11/6/25 AA Sentenced Participated
+Berkshire 2959072 MA10327447 HBCS1H2522048 White Not Hispanic/Latino Sentenced 11/6/25 NA Sentenced Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 11/6/25 Advanced Culinary Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 11/6/25 Financial Literacy Participated
+Berkshire 3086410 MA10525759 HBCS9H2521911 Black/African American Not Hispanic/Latino Sentenced 11/6/25 Kitchen 3A Currently Enrolled
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 11/6/25 NA Sentenced Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 11/6/25 Kitchen 2 Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/6/25 NA Sentenced Participated
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 11/6/25 Advanced Culinary Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/6/25 NA Sentenced Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 11/6/25 AA Sentenced Participated
+Page 15 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 3091545 MA21029497 HBCS1H2522021 White Not Hispanic/Latino Sentenced 11/6/25 NA Sentenced Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 11/6/25 Kitchen 3 Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 11/6/25 Kitchen 1 Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/6/25 Kitchen 2 Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/6/25 NA Sentenced Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/7/25 ABE MAPT Test Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/7/25 ABE MAPT Test Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/7/25 ABE MAPT Test Participated
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino Sentenced 11/7/25 ABE MAPT Test Participated
+Berkshire 3133442 MA10502133 Black/African American Not Hispanic/Latino Sentenced 11/8/25 Kichen 1B Participated
+Berkshire 3133442 MA10502133 Black/African American Not Hispanic/Latino Sentenced 11/8/25 Kitchen 2A Participated
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 11/9/25 Advanced Culinary Participated
+Berkshire 3068752 MA10510564 White Not Hispanic/Latino Sentenced 11/10/25 Kichen 1B Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 11/10/25 Kichen 1B Currently Enrolled
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 11/10/25 Kitchen 2A Participated
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 11/10/25 208 PRE ASE Social Studies Currently Enrolled
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 11/10/25 207 PRE ASE English/LA Currently Enrolled
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 11/10/25 208 PRE ASE Social Studies Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/10/25 Kitchen 3 Participated
+Berkshire 3068752 MA10510564 White Not Hispanic/Latino Sentenced 11/10/25 Kitchen 3B Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 11/10/25 Kitchen 2A Currently Enrolled
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 11/10/25 206 PRE ASE Science/Tech Participated
+Berkshire 2835821 MA10349007 HBCS2H2521746 White Not Hispanic/Latino Sentenced 11/10/25 107 ABE English/LA Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 11/10/25 Kichen 1B Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 11/10/25 Kitchen 3B Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 11/10/25 207 PRE ASE English/LA Participated
+Berkshire 3068752 MA10510564 White Not Hispanic/Latino Sentenced 11/10/25 Kitchen 2A Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 11/10/25 Kitchen 3B Currently Enrolled
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 11/11/25 Kitchen 3 Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/11/25 Kitchen 2A Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/11/25 Kichen 1B Participated
+Berkshire 3189785 MA10642148 JBCS2J2521856 Black/African American Not Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Participated
+Berkshire 5698462 MA30016276 JBCS2J2521983 White Not Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Currently Enrolled
+Berkshire 5675161 MA30003127 JBCS3J2521993 White Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Currently Enrolled
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 11/12/25 Master Class Currently Enrolled
+Berkshire 5609847 MA21249560 JBCS3J2522089 Black/African American Not Hispanic/Latino Pre-Trial 11/12/25 Master Class Currently Enrolled
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino Sentenced 11/12/25 Financial Literacy Participated
+Berkshire 5665944 MA21294817 JBCS1J2521540 White Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Participated
+Berkshire 5645600 MA30012981 JBCS3J2521915 Other/Unknown Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Participated
+Berkshire 3096475 MA10600202 White Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Currently Enrolled
+Berkshire 5422146 MA21107029 JBCS3J2522072 Black/African American Not Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Participated
+Berkshire 5145078 MA21005021 JBCS2J2522050 White Not Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Participated
+Berkshire 2856058 MA30001781 JBCS2J2522058 Other/Unknown Not Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Participated
+Berkshire 3096475 MA10600202 White Hispanic/Latino Pre-Trial 11/12/25 Master Class Currently Enrolled
+Berkshire 3183590 MA21033112 HBCS8H2521761 White Hispanic/Latino Sentenced 11/12/25 Creative Writing Currently Enrolled
+Berkshire 2650534 MA10306801 JBCS2J2522009 White Not Hispanic/Latino Pre-Trial 11/12/25 Basic Recovery Participated
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 11/13/25 Kitchen 1 Participated
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 11/13/25 Creative Writing Currently Enrolled
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 11/13/25 AA Sentenced Participated
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 11/13/25 Kitchen 2 Participated
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 11/13/25 NA Sentenced Participated
+Berkshire 2975347 MA10245883 JBCS2J2420780 Black/African American Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5265528 JBSO00P019343 White Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5459605 MA21153941 JBCS1J2420804 Black/African American Not Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2748952 MA10515673 White Not Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/14/25 Living Clean Participated
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 11/14/25 Williams College Book Club Currently Enrolled
+Berkshire 2837334 MA10471991 JBCS4J2521954 White Not Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Participated
+Berkshire 2983376 MA10605540 JBCS2J2522033 White Not Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/14/25 Recovery Skills Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 11/14/25 Recovery Skills Participated
+Berkshire 3068752 MA10510564 White Not Hispanic/Latino Sentenced 11/14/25 Living Clean Currently Enrolled
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/14/25 Living Clean Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/14/25 Recovery Skills Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/14/25 Living Clean Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/14/25 Recovery Skills Currently Enrolled
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino Sentenced 11/14/25 Recovery Skills Participated
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino Sentenced 11/14/25 Living Clean Participated
+Berkshire 5367867 MA21119588 JBCS2J2320211 Black/African American Not Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Participated
+Berkshire 3120852 MA10437525 JBCS2J2521953 Black/African American Not Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Participated
+Berkshire 5557058 MA21214590 JBCS3J2522099 White Not Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/14/25 Recovery Skills Participated
+Berkshire 354540 HBCS1H2522097 Black/African American Not Hispanic/Latino Sentenced 11/14/25 Recovery Skills Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 11/14/25 Living Clean Participated
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2406161 MA09907988 White Hispanic/Latino Sentenced 11/14/25 Living Clean Participated
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/14/25 Recovery Skills Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/14/25 Living Clean Currently Enrolled
+Berkshire 5526018 ma21186938 JBCS1J2621665 Black/African American Not Hispanic/Latino Pre-Trial 11/14/25 Narcan/Tapestry Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/14/25 Living Clean Participated
+Berkshire 354540 HBCS1H2522097 Black/African American Not Hispanic/Latino Sentenced 11/14/25 Living Clean Participated
+Page 16 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 11/16/25 Advanced Culinary Currently Enrolled
+Berkshire 5226184 MA10621196 JBCS6J2521847 Black/African American Not Hispanic/Latino Pre-Trial 11/17/25 Pretrial Bible Study Currently Enrolled
+Berkshire 2406161 MA09907988 White Hispanic/Latino Sentenced 11/17/25 Medication Supported Recovery Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Currently Enrolled
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 2616943 MA10241858 White Not Hispanic/Latino Sentenced 11/17/25 Medication Supported Recovery Participated
+Berkshire 2,835,821 MA10349007 HBCS2H2521746 White Not Hispanic/Latino Sentenced 11/17/25 106 ABE Science/Tech Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/17/25 108 ABE Social Studies Currently Enrolled
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/17/25 108 ABE Social Studies Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/17/25 105 ABE Math Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/17/25 106 ABE Science/Tech Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 354540 HBCS1H2522097 Black/African American Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 5226184 MA10621196 JBCS6J2521847 Black/African American Not Hispanic/Latino Pre-Trial 11/17/25 Christian Services-C Pod Currently Enrolled
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Currently Enrolled
+Berkshire 3041303 ma10545650 White Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/17/25 205 PRE ASE Math Currently Enrolled
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/17/25 ABE Northstar Digital Literacy-410 Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 11/17/25 108 ABE Social Studies Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 11/17/25 105 ABE Math Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 11/17/25 107 ABE English/LA Currently Enrolled
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/17/25 307 ASE English/LA Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/17/25 106 ABE Science/Tech Participated
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 11/17/25 Tutoring - Williams College Participated
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 2760337 JBSO00P019031 White Hispanic/Latino Pre-Trial 11/17/25 Christian Services-C Pod Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/17/25 207 PRE ASE English/LA Participated
+Berkshire 2959072 MA10327447 HBCS1H2522048 White Not Hispanic/Latino Sentenced 11/17/25 Medication Supported Recovery Participated
+Berkshire 2959072 MA10327447 HBCS1H2522048 White Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 3144484 ma21003200 HBCS1H2522094 White Not Hispanic/Latino Sentenced 11/17/25 ABE MAPT Test Participated
+Berkshire 5226184 MA10621196 JBCS6J2521847 Black/African American Not Hispanic/Latino Pre-Trial 11/17/25 Jehovah Witness Currently Enrolled
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Currently Enrolled
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/17/25 105 ABE Math Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/17/25 ABE MAPT Test Participated
+Berkshire 3164109 MA10537203 JBCS5J2522068 Black/African American Not Hispanic/Latino Pre-Trial 11/17/25 Pretrial Muslim Pod B Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 11/17/25 Addiction Education Participated
+Berkshire 3066588 MA10413419 HBCS1H2521899 White Not Hispanic/Latino Sentenced 11/17/25 On Grounds/2nd street Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 11/18/25 106 ABE Science/Tech Participated
+Berkshire 432300 MA21035404 HBCS1H2521589 White Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Currently Enrolled
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Currently Enrolled
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Currently Enrolled
+Berkshire 5479702 MA21151336 HBCS2H2521749 White Not Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Participated
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 11/18/25 Laundry Currently Enrolled
+Berkshire 5018297 MA10499894 HBCS1H2521697 White Not Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Participated
+Berkshire 3066588 MA10413419 HBCS1H2521899 White Not Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Currently Enrolled
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Currently Enrolled
+Berkshire 2658486 MA10322802 HBCS3H2521708 Black/African American Not Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Currently Enrolled
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 11/18/25 Sentenced Bible Study Participated
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino Sentenced 11/19/25 NA Sentenced Participated
+Berkshire 5557058 MA21214590 JBCS3J2522099 White Not Hispanic/Latino Pre-Trial 11/19/25 Master Class Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/19/25 NA Sentenced Participated
+Berkshire 354540 HBCS1H2522097 Black/African American Not Hispanic/Latino Sentenced 11/19/25 NA Sentenced Participated
+Berkshire 354540 HBCS1H2522097 Black/African American Not Hispanic/Latino Sentenced 11/19/25 AA Sentenced Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 11/19/25 NA Sentenced Participated
+Berkshire 3167747 MA10563352 JBCS1J2522098 Black/African American Not Hispanic/Latino Pre-Trial 11/19/25 Master Class Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/19/25 NA Sentenced Participated
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 11/19/25 AA Sentenced Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 11/19/25 AA Sentenced Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 11/19/25 NA Sentenced Participated
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino Sentenced 11/19/25 AA Sentenced Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 11/19/25 AA Sentenced Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/19/25 AA Sentenced Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/19/25 AA Sentenced Participated
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/20/25 Kitchen 2 Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/20/25 107 ABE English/LA Currently Enrolled
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 11/20/25 ABE Northstar Digital Literacy-411 Currently Enrolled
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 11/20/25 106 ABE Science/Tech Participated
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 11/20/25 205 PRE ASE Math Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/20/25 105 ABE Math Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/20/25 Library Skills Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 11/20/25 Advanced Culinary Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/20/25 Kitchen 1 Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/20/25 Kitchen 2 Participated
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 11/20/25 ABE MAPT Test Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/20/25 ESOL Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 11/20/25 Tutoring - Williams College Participated
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/20/25 Kitchen 1 Participated
+Page 17 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/20/25 307 ASE English/LA Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/20/25 ABE Northstar Digital Literacy-409 Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/20/25 306 ASE Science/Tech Participated
+Berkshire 3144484 ma21003200 HBCS1H2522094 White Not Hispanic/Latino Sentenced 11/20/25 AA Sentenced Participated
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/20/25 ESOL Currently Enrolled
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/20/25 208 PRE ASE Social Studies Participated
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 11/21/25 Living Clean Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/21/25 Living Clean Participated
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 11/21/25 Recovery Skills Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/21/25 Recovery Skills Participated
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 11/21/25 ABE MAPT Test Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 11/21/25 ABE MAPT Test Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 11/21/25 ABE MAPT Test Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 11/21/25 Recovery Skills Currently Enrolled
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 11/21/25 107 ABE English/LA Participated
+Berkshire 2616943 MA10241858 White Not Hispanic/Latino Sentenced 11/21/25 ABE MAPT Test Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 11/21/25 Living Clean Currently Enrolled
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/23/25 Kichen 1B Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/23/25 Kitchen 2A Participated
+Berkshire 2406161 MA09907988 White Hispanic/Latino Sentenced 11/23/25 Kitchen 3 Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/23/25 Kitchen 3B Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/23/25 Kitchen 3 Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 11/24/25 ABE MAPT Test Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/24/25 Medication Supported Recovery Participated
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 11/24/25 Addiction Education Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/24/25 Medication Supported Recovery Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 11/24/25 Medication Supported Recovery Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 354540 HBCS1H2522097 Black/African American Not Hispanic/Latino Sentenced 11/24/25 Medication Supported Recovery Participated
+Berkshire 5018297 MA10499894 HBCS1H2521697 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 3054106 MA10386721 HBCS1H2521834 White Not Hispanic/Latino Sentenced 11/24/25 ABE Northstar Digital Literacy-410 Participated
+Berkshire 2406161 MA09907988 White Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 11/24/25 Tutoring - Williams College Participated
+Berkshire 2875484 ma10173071 JBSO00P018734 White Hispanic/Latino Pre-Trial 11/24/25 ESOL Currently Enrolled
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 11/24/25 Addiction Education Currently Enrolled
+Berkshire 25228649 MA10104583 HBCS1H2621725 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 1981405 ma10322461 HBCS1H2621990 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 2713127 MA10119903 HBCS1H2522035 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 3054106 MA10386721 HBCS1H2521834 White Not Hispanic/Latino Sentenced 11/24/25 107 ABE English/LA Participated
+Berkshire 3054106 MA10386721 HBCS1H2521834 White Not Hispanic/Latino Sentenced 11/24/25 206 PRE ASE Science/Tech Participated
+Berkshire 3054106 MA10386721 HBCS1H2521834 White Not Hispanic/Latino Sentenced 11/24/25 205 PRE ASE Math Participated
+Berkshire 3054106 MA10386721 HBCS1H2521834 White Not Hispanic/Latino Sentenced 11/24/25 308 ASE Social Studies Participated
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 11/24/25 Recovery Skills Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 11/25/25 Christian Services Currently Enrolled
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 11/25/25 Christian Services Currently Enrolled
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 11/25/25 Sentenced Bible Study Currently Enrolled
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/25/25 Sentenced Bible Study Currently Enrolled
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 11/25/25 Sentenced Bible Study Currently Enrolled
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 11/25/25 Christian Services Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 11/25/25 Sentenced Bible Study Currently Enrolled
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/25/25 Sentenced Bible Study Currently Enrolled
+Berkshire 5664166 White Hispanic/Latino Sentenced 11/25/25 Christian Services Currently Enrolled
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 11/25/25 Sentenced Bible Study Participated
+Berkshire 3144484 ma21003200 HBCS1H2522094 White Not Hispanic/Latino Sentenced 11/25/25 Christian Services Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 11/25/25 Christian Services Currently Enrolled
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 11/25/25 Christian Services Currently Enrolled
+Berkshire 3144484 ma21003200 HBCS1H2522094 White Not Hispanic/Latino Sentenced 11/25/25 Sentenced Bible Study Participated
+Berkshire 2329973 MA10098574 JBCS1J2521765 White Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Currently Enrolled
+Berkshire 2975347 MA10245883 JBCS2J2420780 Black/African American Hispanic/Latino Pre-Trial 11/28/25 Anger Management Currently Enrolled
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Addiction Education Participated
+Berkshire 2406161 MA09907988 White Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/28/25 NA Sentenced Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 11/28/25 Living Clean Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 11/28/25 Living Clean Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 11/28/25 Addiction Education Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 11/28/25 Living Clean Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 11/28/25 AA Sentenced Currently Enrolled
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 11/28/25 Kichen 1B Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/28/25 NA Sentenced Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Page 18 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Living Clean Participated
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Living Clean Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 11/28/25 Addiction Education Participated
+Berkshire 5459605 MA21153941 JBCS1J2420804 Black/African American Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Currently Enrolled
+Berkshire 2731048 MA10080435 JBCS7J2421387 White Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Currently Enrolled
+Berkshire 1778351 ma10042820 JBCS1J2521580 White Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Currently Enrolled
+Berkshire 3096475 MA10600202 White Hispanic/Latino Pre-Trial 11/28/25 Anger Management Dropped
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 11/28/25 Addiction Education Participated
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5562526 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 11/28/25 Addiction Education Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 11/28/25 Addiction Education Participated
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 11/28/25 Living Clean Participated
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 11/28/25 NA Sentenced Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Currently Enrolled
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Living Clean Currently Enrolled
+Berkshire 3120852 MA10437525 JBCS2J2521953 Black/African American Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 11/28/25 AA Sentenced Participated
+Berkshire 2820237 JBCS3J2521823 White Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Housing / Classification change
+Berkshire 5557058 MA21214590 JBCS3J2522099 White Not Hispanic/Latino Pre-Trial 11/28/25 Pretrial Bible Study Participated
+Berkshire 5557058 MA21214590 JBCS3J2522099 White Not Hispanic/Latino Pre-Trial 11/28/25 Christian Services-B Pod Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 11/28/25 Addiction Education Participated
+Berkshire 5540913 ma21279245 HBCS1H2622063 White Not Hispanic/Latino Sentenced 11/28/25 NA Sentenced Participated
+Berkshire 5540913 ma21279245 HBCS1H2622063 White Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 11/28/25 Living Clean Participated
+Berkshire 2602979 MA10562299 JBCS1J2421327 White Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Currently Enrolled
+Berkshire 5600302 MA21242027 JBCS8J2421393 Black/African American Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Disciplinary
+Berkshire 1799528 MA10034699 JBCS1J2521800 White Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Currently Enrolled
+Berkshire 5698462 MA30016276 JBCS2J2521983 White Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Currently Enrolled
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 11/28/25 AA Sentenced Currently Enrolled
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 11/28/25 Addiction Education Participated
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 11/28/25 Recovery Skills Participated
+Berkshire 3194474 JBCS2J2522004 Black/African American Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Participated
+Berkshire 2650534 MA10306801 JBCS2J2522009 White Not Hispanic/Latino Pre-Trial 11/28/25 Anger Management Dropped
+Berkshire 5540913 ma21279245 HBCS1H2622063 White Not Hispanic/Latino Sentenced 11/28/25 AA Sentenced Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 11/30/25 Advanced Culinary Participated
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 12/1/25 Library Skills Currently Enrolled
+Berkshire 1093834 MA00970977 Black/African American Not Hispanic/Latino Sentenced 12/1/25 Canteen Currently Enrolled
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/1/25 ABE MAPT Test Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/1/25 Medication Supported Recovery Participated
+Berkshire 2251845 MA10192429 HBCS2H2521604 Black/African American Not Hispanic/Latino Sentenced 12/1/25 On Grounds/2nd street Participated
+Berkshire 5402985 Black/African American Not Hispanic/Latino Sentenced 12/1/25 ABE MAPT Test Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/1/25 ABE MAPT Test Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 12/1/25 ABE MAPT Test Participated
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 12/1/25 Medication Supported Recovery Participated
+Berkshire 3183590 MA21033112 HBCS8H2521761 White Hispanic/Latino Sentenced 12/1/25 On Grounds/2nd street Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 12/1/25 Medication Supported Recovery Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/1/25 ABE MAPT Test Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/1/25 ABE MAPT Test Participated
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 12/1/25 Greenhouse Currently Enrolled
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 12/1/25 Medication Supported Recovery Participated
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 12/1/25 Kitchen 3B Participated
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino Sentenced 12/1/25 Medication Supported Recovery Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/1/25 ABE MAPT Test Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 12/2/25 Kitchen 1 Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 12/2/25 Kitchen 2 Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 2406161 MA09907988 White Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 5562526 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Currently Enrolled
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 2884201 MA10472651 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 5402985 Black/African American Not Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Financial Literacy Participated
+Berkshire 2650534 MA10306801 JBCS2J2522009 White Not Hispanic/Latino Pre-Trial 12/3/25 Master Class Participated
+Berkshire 5608400 ma21269721 JBCS1J2522081 White Not Hispanic/Latino Pre-Trial 12/3/25 Master Class Participated
+Berkshire 5375089 HBCS1H2522082 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Financial Literacy Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Participated
+Berkshire 5540913 ma21279245 HBCS1H2622063 White Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 12/3/25 Parenting Participated
+Page 19 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 12/3/25 Victim Impact Currently Enrolled
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 12/3/25 RSAT Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 12/3/25 Kitchen 1 Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Currently Enrolled
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 3183590 MA21033112 HBCS8H2521761 White Hispanic/Latino Sentenced 12/3/25 Victim Impact Currently Enrolled
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/3/25 Financial Literacy Participated
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Currently Enrolled
+Berkshire 3133442 MA10502133 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 2658486 MA10322802 HBCS3H2521708 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Currently Enrolled
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 1761441 MA10047180 White Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Currently Enrolled
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 12/3/25 RSAT Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Disciplinary
+Berkshire 5320517 MA21120429 HBCS4H2521568 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Parenting Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Kitchen 2 Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 5540913 ma21279245 HBCS1H2622063 White Not Hispanic/Latino Sentenced 12/3/25 RSAT Released
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Released
+Berkshire 5349569 MA21059947 White Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 12/3/25 Victim Impact Currently Enrolled
+Berkshire 1093834 MA00970977 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Parenting Currently Enrolled
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 12/3/25 Kitchen 2 Participated
+Berkshire 5316815 MA21067236 JBCS7J2521808 Black/African American Not Hispanic/Latino Pre-Trial 12/3/25 Master Class Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 12/3/25 Parenting Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 12/3/25 RSAT Participated
+Berkshire 5526018 ma21186938 JBCS1J2621665 Black/African American Not Hispanic/Latino Pre-Trial 12/3/25 Master Class Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/3/25 AA Sentenced Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/3/25 Kitchen 1 Participated
+Berkshire 5349569 MA21059947 White Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 5613361 Black/African American Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 2658486 MA10322802 HBCS3H2521708 Black/African American Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 5036707 MA10449678 HBCS1H2621713 White Not Hispanic/Latino Sentenced 12/4/25 Victim Impact Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 541635 MA09102032 HBCS1H2622012 White Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 5036707 MA10449678 HBCS1H2621713 White Not Hispanic/Latino Sentenced 12/4/25 Parenting Participated
+Berkshire 5540913 ma21279245 HBCS1H2622063 White Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 645090 White Not Hispanic/Latino Sentenced 12/4/25 Kitchen 4 Participated
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 3133442 MA10502133 Black/African American Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 5402985 Black/African American Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 12/4/25 Recovery 101 Participated
+Berkshire 3144484 ma21003200 HBCS1H2522094 White Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 12/4/25 NA Sentenced Participated
+Berkshire 3041303 ma10545650 White Hispanic/Latino Sentenced 12/5/25 Living Clean Participated
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 12/5/25 Hallway Job Participated
+Berkshire 2559847 ma09902433 Black/African American Not Hispanic/Latino Sentenced 12/5/25 ABE MAPT Test Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/5/25 Living Clean Participated
+Berkshire 2766163 MA10164023 HBCS4H2522154 White Hispanic/Latino Sentenced 12/5/25 ABE MAPT Test Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 12/5/25 Hallway Job Participated
+Berkshire 2559847 ma09902433 Black/African American Not Hispanic/Latino Sentenced 12/5/25 Living Clean Participated
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 12/6/25 Kitchen 2A Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 12/7/25 Advanced Culinary Currently Enrolled
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/8/25 Medication Supported Recovery Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 12/8/25 Medication Supported Recovery Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 12/8/25 Kitchen 3B Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/8/25 ESOL Currently Enrolled
+Page 20 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 12/8/25 Advanced Culinary Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/8/25 Medication Supported Recovery Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/8/25 Medication Supported Recovery Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 2905967 MA10262843 HBCS2H2521830 Black/African American Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 2559847 ma09902433 Black/African American Not Hispanic/Latino Sentenced 12/8/25 Medication Supported Recovery Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 1622719 ma10050833 HBCS1H2622006 White Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/8/25 Kitchen 2 Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/8/25 Kitchen 1 Participated
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 12/8/25 Kitchen 3B Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 5664166 White Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 12/8/25 Recovery Skills Participated
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 12/9/25 SEIS Sentenced 1 Currently Enrolled
+Berkshire 2766163 MA10164023 HBCS4H2522154 White Hispanic/Latino Sentenced 12/9/25 ABE Northstar Digital Literacy-411 Currently Enrolled
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/10/25 Kichen 1B Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/10/25 Kitchen 2A Participated
+Berkshire 5415784 MA21125801 HBCS5H2522049 Black/African American Not Hispanic/Latino Sentenced 12/10/25 206 PRE ASE Science/Tech Participated
+Berkshire 5299805 ma21159998 HBCS1H2521873 White Hispanic/Latino Sentenced 12/10/25 ABE Northstar Digital Literacy-409 Participated
+Berkshire 5677154 MA30021435 JBCS2J2522130 Other/Unknown Not Hispanic/Latino Pre-Trial 12/10/25 Master Class Currently Enrolled
+Berkshire 2766163 MA10164023 HBCS4H2522154 White Hispanic/Latino Sentenced 12/10/25 205 PRE ASE Math Currently Enrolled
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/10/25 307 ASE English/LA Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/10/25 308 ASE Social Studies Participated
+Berkshire 3045968 MA21060211 JBCS4J2522151 Black/African American Not Hispanic/Latino Pre-Trial 12/10/25 Master Class Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5664166 White Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 680952 HBCS4H2522003 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Participated
+Berkshire 25228649 MA10104583 HBCS1H2621725 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Participated
+Berkshire 2697279 MA10106888 HBCS1H2622156 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Participated
+Berkshire 1765240 MA09720788 HBCS1H2622163 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Participated
+Berkshire 3054106 MA10386721 HBCS1H2521834 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Participated
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 12/11/25 Kichen 1B Participated
+Berkshire 5434335 ma21129222 White Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5299805 ma21159998 HBCS1H2521873 White Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Participated
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 12/11/25 Kitchen 2A Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/11/25 Kitchen 3B Currently Enrolled
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2251845 MA10192429 HBCS2H2521604 Black/African American Not Hispanic/Latino Sentenced 12/11/25 Community Service Currently Enrolled
+Berkshire 2835821 MA10349007 HBCS2H2521746 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5402985 Black/African American Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2905967 MA10262843 HBCS2H2521830 Black/African American Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2651575 MA10021955 Black/African American Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/11/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2602979 MA10562299 JBCS1J2421327 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5607072 MA21248687 JBCS2J2421242 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2445483 MA10000442 JBCS6J2521546 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2960666 MA10233102 JBCS6J2521961 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 3143469 ma10571154 JBCS1J2521770 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5675161 MA30003127 JBCS3J2521993 White Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5677154 MA30021435 JBCS2J2522130 Other/Unknown Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 1799528 MA10034699 JBCS1J2521800 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5459605 MA21153941 JBCS1J2420804 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 1778351 ma10042820 JBCS1J2521580 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire MA21205180 JBCS3J2522153 Black/African American Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5349569 MA21059947 White Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5291241 MA21020667 HBCS2H2521814 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2897068 MA21009367 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5402985 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2905967 MA10262843 HBCS2H2521830 Black/African American Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Page 21 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 571717 MA08910270 JBCS3J2522109 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Participated
+Berkshire 5299805 ma21159998 HBCS1H2521873 White Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Berkshire 5691479 MA30015740 JBCS2J2521966 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Participated
+Berkshire 3144484 ma21003200 HBCS1H2522094 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Berkshire 3054106 MA10386721 HBCS1H2521834 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Berkshire 3096475 MA10600202 White Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 1093834 MA00970977 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5642704 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 645090 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2251845 MA10192429 HBCS2H2521604 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Berkshire 3105780 ma10529093 HBCS1H2621818 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Berkshire 3135457 MA10627175 JBCS3J2521754 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire MA10450032 JBSO00P018653 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5681260 MA30001018 JBCS2J2522107 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire MA21303904 JBCS1J2521534 Black/African American Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5322943 MA30011763 JBCS2J2521846 Other/Unknown Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2978965 MA10382830 JBCS1J2320057 White Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2731048 MA10080435 JBCS7J2421387 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5698462 MA30016276 JBCS2J2521983 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2406161 MA09907988 White Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5664260 ma21292400 White Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5664166 White Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2835821 MA10349007 HBCS2H2521746 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2849404 MA10563974 HBCS2H2521989 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2559847 ma09902433 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 1756046 ma09914232 JBCS1J2619870 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Participated
+Berkshire 3167747 MA10563352 JBCS1J2522098 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Participated
+Berkshire 3045968 MA21060211 JBCS4J2522151 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Participated
+Berkshire 5557058 MA21214590 JBCS3J2522099 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Participated
+Berkshire 2856058 MA30001781 JBCS2J2522058 Other/Unknown Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Participated
+Berkshire 2820237 HBCS1H2622160 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Berkshire 2209101 MA09736217 JBCS2J2521896 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2638234 MA10164758 JBCS1J2420979 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5570164 MA21219912 JBCS2J2521618 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5265528 JBSO00P019343 White Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 3171054 MA21126670 JBCS2J2421155 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 23567239 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 1285100 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Currently Enrolled
+Berkshire 2650534 MA10306801 JBCS2J2522009 White Not Hispanic/Latino Pre-Trial 12/12/25 Christmas Mass Participated
+Berkshire 5036707 MA10449678 HBCS1H2621713 White Not Hispanic/Latino Sentenced 12/12/25 Christmas Mass Participated
+Berkshire 1933483 MA09931849 White Not Hispanic/Latino Sentenced 12/15/25 ServSafe Currently Enrolled
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 12/15/25 Kitchen 2 Participated
+Berkshire 5605396 ma21246448 Black/African American Not Hispanic/Latino Sentenced 12/15/25 ServSafe Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/15/25 Kitchen 3B Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/15/25 ServSafe Participated
+Berkshire 5320517 MA21120429 HBCS4H2521568 Black/African American Not Hispanic/Latino Sentenced 12/15/25 ServSafe Participated
+Berkshire 153983423 HBCS1H2522135 Black/African American Not Hispanic/Latino Sentenced 12/15/25 ServSafe Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/15/25 105 ABE Math Participated
+Berkshire 5226184 MA10621196 JBCS6J2521847 Black/African American Not Hispanic/Latino Pre-Trial 12/15/25 Christmas Mass Currently Enrolled
+Berkshire 3041303 ma10545650 White Hispanic/Latino Sentenced 12/15/25 ServSafe Currently Enrolled
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/15/25 Kichen 1B Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/15/25 Kitchen 2A Participated
+Berkshire 5320914 ma21276246 HBCS1H2622014 White Not Hispanic/Latino Sentenced 12/15/25 ServSafe Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/15/25 ServSafe Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/15/25 Kitchen 2A Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/15/25 207 PRE ASE English/LA Participated
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 12/15/25 ServSafe Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/15/25 Kitchen 3B Participated
+Berkshire 2633616 ma10181486 Black/African American Not Hispanic/Latino Sentenced 12/15/25 Kichen 1B Participated
+Berkshire 3155456 ma21013464 HBCS1H2521967 White Not Hispanic/Latino Sentenced 12/15/25 ServSafe Dropped
+Berkshire 1862579 MA09603340 HBCS1H2521934 White Not Hispanic/Latino Sentenced 12/15/25 308 ASE Social Studies Participated
+Berkshire 2748952 MA10515673 White Not Hispanic/Latino Pre-Trial 12/15/25 Christmas Mass Currently Enrolled
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 12/15/25 Kitchen 1 Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/15/25 207 PRE ASE English/LA Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/16/25 106 ABE Science/Tech Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/16/25 205 PRE ASE Math Currently Enrolled
+Berkshire 5433656 HBCS1H2622155 Black/African American Not Hispanic/Latino Sentenced 12/16/25 ABE MAPT Test Participated
+Berkshire 2998694 ma21219176 White Not Hispanic/Latino Sentenced 12/16/25 ABE MAPT Test Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/16/25 306 ASE Science/Tech Participated
+Page 22 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 12/17/25 Kitchen 3 Participated
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 12/17/25 Kichen 1B Participated
+Berkshire 1765240 MA09720788 HBCS1H2622163 White Not Hispanic/Latino Sentenced 12/17/25 AA Sentenced Participated
+Berkshire 5433656 HBCS1H2622155 Black/African American Not Hispanic/Latino Sentenced 12/17/25 NA Sentenced Participated
+Berkshire 5433656 HBCS1H2622155 Black/African American Not Hispanic/Latino Sentenced 12/17/25 AA Sentenced Participated
+Berkshire MA10450032 JBSO00P018653 White Not Hispanic/Latino Pre-Trial 12/17/25 Master Class Currently Enrolled
+Berkshire 5703383 MA30020962 JBCS3J2522111 Black/African American Not Hispanic/Latino Pre-Trial 12/17/25 Basic Recovery Currently Enrolled
+Berkshire 2820237 HBCS1H2622160 White Not Hispanic/Latino Sentenced 12/17/25 NA Sentenced Participated
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 12/17/25 207 PRE ASE English/LA Currently Enrolled
+Berkshire 2766163 MA10164023 HBCS4H2522154 White Hispanic/Latino Sentenced 12/17/25 AA Sentenced Participated
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 12/17/25 Kitchen 2A Participated
+Berkshire 5208478 ma21195627 Other/Unknown Hispanic/Latino Sentenced 12/17/25 Kitchen 3B Participated
+Berkshire 5608400 ma21269721 White Not Hispanic/Latino Sentenced 12/17/25 AA Sentenced Participated
+Berkshire 5608400 ma21269721 White Not Hispanic/Latino Sentenced 12/17/25 NA Sentenced Participated
+Berkshire 5685431 MA30019979 JBCS3J2522080 White Hispanic/Latino Pre-Trial 12/17/25 Basic Recovery Participated
+Berkshire 2697279 MA10106888 HBCS1H2622156 White Not Hispanic/Latino Sentenced 12/17/25 AA Sentenced Participated
+Berkshire 2697279 MA10106888 HBCS1H2622156 White Not Hispanic/Latino Sentenced 12/17/25 NA Sentenced Participated
+Berkshire 1765240 MA09720788 HBCS1H2622163 White Not Hispanic/Latino Sentenced 12/17/25 NA Sentenced Participated
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 12/17/25 308 ASE Social Studies Participated
+Berkshire 2766163 MA10164023 HBCS4H2522154 White Hispanic/Latino Sentenced 12/17/25 NA Sentenced Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/17/25 106 ABE Science/Tech Participated
+Berkshire 2766163 MA10164023 HBCS4H2522154 White Hispanic/Latino Sentenced 12/19/25 Medication Supported Recovery Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/19/25 Medication Supported Recovery Participated
+Berkshire 2697279 MA10106888 HBCS1H2622156 White Not Hispanic/Latino Sentenced 12/19/25 Medication Supported Recovery Participated
+Berkshire 2697279 MA10106888 HBCS1H2622156 White Not Hispanic/Latino Sentenced 12/19/25 Recovery Skills Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/19/25 Recovery Skills Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/19/25 Living Clean Participated
+Berkshire 2820237 HBCS1H2622160 White Not Hispanic/Latino Sentenced 12/19/25 Medication Supported Recovery Participated
+Berkshire 5433656 HBCS1H2622155 Black/African American Not Hispanic/Latino Sentenced 12/19/25 Living Clean Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/19/25 Medication Supported Recovery Participated
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 12/19/25 Medication Supported Recovery Participated
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/19/25 Recovery Skills Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/19/25 Recovery Skills Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/19/25 Living Clean Participated
+Berkshire 5664166 White Hispanic/Latino Sentenced 12/19/25 Medication Supported Recovery Participated
+Berkshire 2697279 MA10106888 HBCS1H2622156 White Not Hispanic/Latino Sentenced 12/19/25 Living Clean Participated
+Berkshire 5433656 HBCS1H2622155 Black/African American Not Hispanic/Latino Sentenced 12/19/25 Recovery Skills Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/19/25 Medication Supported Recovery Participated
+Berkshire 2883102 MA10245863 Other/Unknown Hispanic/Latino Sentenced 12/22/25 On Grounds/2nd street Currently Enrolled
+Berkshire 5124300 ma10496944 HBCS1H2522181 White Not Hispanic/Latino Sentenced 12/22/25 Medication Supported Recovery Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/22/25 Kitchen 2A Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/22/25 Kitchen 2 Participated
+Berkshire 5645600 Other/Unknown Hispanic/Latino Sentenced 12/22/25 Kitchen 1 Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/22/25 Kichen 1B Participated
+Berkshire 432300 MA21035404 HBCS1H2521589 White Hispanic/Latino Sentenced 12/22/25 Community Service Currently Enrolled
+Berkshire 5608400 ma21269721 White Not Hispanic/Latino Sentenced 12/22/25 ABE MAPT Test Participated
+Berkshire 1765240 MA09720788 HBCS1H2622163 White Not Hispanic/Latino Sentenced 12/22/25 ABE MAPT Test Participated
+Berkshire 5349569 MA21059947 White Hispanic/Latino Sentenced 12/22/25 Hallway Job Participated
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/22/25 Kitchen 3B Participated
+Berkshire 5552478 ma21298249 White Not Hispanic/Latino Sentenced 12/22/25 Hallway Job Currently Enrolled
+Berkshire 5614909 JBCS1J2522177 Other/Unknown Hispanic/Latino Pre-Trial 12/22/25 Basic Recovery Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/23/25 Addiction Education Participated
+Berkshire 2618057 MA10106783 HBCS1H2622152 White Not Hispanic/Latino Sentenced 12/23/25 Addiction Education Participated
+Berkshire 5433656 HBCS1H2622155 Black/African American Not Hispanic/Latino Sentenced 12/23/25 Addiction Education Participated
+Berkshire 2697279 MA10106888 HBCS1H2622156 White Not Hispanic/Latino Sentenced 12/23/25 Addiction Education Participated
+Berkshire 5402985 Black/African American Not Hispanic/Latino Sentenced 12/23/25 Addiction Education Currently Enrolled
+Berkshire 3194681 ma21096819 HBCS2H2521973 White Not Hispanic/Latino Sentenced 12/23/25 Laundry Currently Enrolled
+Berkshire 2983376 ma10605540 White Not Hispanic/Latino Sentenced 12/27/25 Advanced Culinary Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 12/27/25 Kichen 1B Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 12/27/25 Kitchen 2A Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 12/27/25 Kichen 1B Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 12/27/25 Kitchen 2A Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 12/27/25 Kitchen 2A Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 12/27/25 Kichen 1B Participated
+Berkshire 5597052 MA30018673 HBCS4H2522041 White Not Hispanic/Latino Sentenced 12/27/25 Kitchen 3B Participated
+Berkshire 5361831 ma21066443 HBCS1H2622125 White Not Hispanic/Latino Sentenced 12/27/25 Kitchen 3B Participated
+Berkshire 2729641 White Not Hispanic/Latino Sentenced 12/27/25 Kitchen 3B Participated
+Berkshire 2638234 MA10164758 JBCS1J2420979 White Not Hispanic/Latino Pre-Trial 12/29/25 Narcan/Tapestry Currently Enrolled
+Berkshire 3117047 MA21004485 JBCS3J2522170 White Not Hispanic/Latino Pre-Trial 12/29/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5226184 MA10621196 JBCS6J2521847 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2616943 MA10241858 White Not Hispanic/Latino Sentenced 12/29/25 Kitchen 3B Currently Enrolled
+Berkshire 3167747 MA10563352 Black/African American Not Hispanic/Latino Sentenced 12/29/25 ABE MAPT Test Participated
+Berkshire 5688275 JBCS1J2622176 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 Narcan/Tapestry Participated
+Berkshire 5688275 JBCS1J2622176 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 Basic Recovery Participated
+Berkshire 2540353 MA10384882 JBCS2J2320502 White Not Hispanic/Latino Pre-Trial 12/29/25 Narcan/Tapestry Currently Enrolled
+Berkshire 3143469 ma10571154 JBCS1J2521770 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 Narcan/Tapestry Currently Enrolled
+Berkshire 5226184 MA10621196 JBCS6J2521847 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 Basic Recovery Currently Enrolled
+Berkshire 5124300 ma10496944 HBCS1H2522181 White Not Hispanic/Latino Sentenced 12/29/25 ABE MAPT Test Participated
+Berkshire 2616943 MA10241858 White Not Hispanic/Latino Sentenced 12/29/25 Kitchen 2A Currently Enrolled
+Berkshire 895073 MA00958978 White Not Hispanic/Latino Sentenced 12/29/25 ABE MAPT Test Participated
+Berkshire 5685431 MA30019979 JBCS3J2522080 White Hispanic/Latino Pre-Trial 12/29/25 Narcan/Tapestry Participated
+Page 23 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Berkshire 5703383 MA30020962 JBCS3J2522111 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 Narcan/Tapestry Currently Enrolled
+Berkshire 2267542 MA21067709 Black/African American Not Hispanic/Latino Sentenced 12/31/25 RSAT Participated
+Berkshire 5189540 MA10593989 White Not Hispanic/Latino Sentenced 12/31/25 RSAT Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/31/25 306 ASE Science/Tech Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/31/25 RSAT Disciplinary
+Berkshire 3198499 ma21160352 White Not Hispanic/Latino Sentenced 12/31/25 RSAT Participated
+Berkshire 2766163 MA10164023 HBCS4H2522154 White Hispanic/Latino Sentenced 12/31/25 RSAT Participated
+Berkshire 2559847 ma09902433 Black/African American Not Hispanic/Latino Sentenced 12/31/25 RSAT Participated
+Berkshire 5473171 MA21151243 HBCS2H2522112 White Hispanic/Latino Sentenced 12/31/25 RSAT Participated
+Berkshire 2411804 MA10447866 White Not Hispanic/Latino Sentenced 12/31/25 RSAT Participated
+Berkshire 5665304 MA30020510 HBCS1H2522092 White Not Hispanic/Latino Sentenced 12/31/25 RSAT Participated
+Berkshire 5542673 MA21199752 HBCS2H2522128 Other/Unknown Hispanic/Latino Sentenced 12/31/25 307 ASE English/LA Currently Enrolled
+Berkshire 5176537 ma10627433 HBCS1H2622040 White Not Hispanic/Latino Sentenced 12/31/25 Recovery 101 Participated
+Page 24 of 24

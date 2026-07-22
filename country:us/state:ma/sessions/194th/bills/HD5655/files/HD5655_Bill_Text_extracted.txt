@@ -1,0 +1,725 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+The Commonwealth of Massachusetts
+——
+DEPARTMENT OF PUBLIC UTILITIES
+D.P.U. 25-GLR-01 December 31, 2025
+Report on the Prevalence of Natural Gas Leaks in the Natural Gas System to the Joint Committee
+on Telecommunications, Utilities, and Energy, and the Joint Committee on Public Safety and
+Homeland Security, pursuant to An Act Relative to Natural Gas Leaks, St. 2014, c. 149, § 9.
+____________________________________________________________________________
+REPORT TO THE LEGISLATURE ON THE PREVALENCE OF NATURAL GAS LEAKS IN
+THE NATURAL GAS SYSTEM
+
+D.P.U. 25-GLR-01 Page i
+TABLE OF CONTENTS
+TABLE OF CONTENTS ................................................................................................................. I
+I. INTRODUCTION .............................................................................................................. 1
+II. PREVALENCE OF NATURAL GAS LEAKS IN THE NATURAL GAS SYSTEM ...... 5
+A. Introduction ............................................................................................................. 5
+B. Gas Leaks on Gas Distribution System .................................................................. 9
+III. PIPELINE REPLACEMENT PROGRAMS .................................................................... 11
+A. Introduction ........................................................................................................... 11
+B. GSEPs ................................................................................................................... 13
+1. Overview ................................................................................................... 13
+2. Unitil ......................................................................................................... 18
+3. Berkshire ................................................................................................... 19
+4. National Grid ............................................................................................ 19
+5. Liberty ....................................................................................................... 20
+6. EGMA ....................................................................................................... 21
+7. NSTAR Gas .............................................................................................. 22
+IV. CONCLUSION ................................................................................................................. 23
+V. APPENDIX A: 2024 GAS LEAKS INFORMATION .................................................... 28
+
+D.P.U. 25-GLR-01 Page 1
+I. INTRODUCTION
+Pursuant to An Act Relative to Natural Gas Leaks, St. 2014, c. 149, § 9 (“Section 9” of
+the “Act”), the Department of Public Utilities (“Department”) submits an annual report that
+addresses the prevalence of natural gas leaks in the natural gas system to the House and Senate
+Chairs of the Joint Committee on Telecommunications, Utilities and Energy, and the House and
+Senate chairs of the Joint Committee on Public Safety and Homeland Security. Specifically, the
+report must include, but not be limited to, the following: (1) the total number of Grade 1,
+Grade 2, and Grade 3 leaks as classified in G.L. c. 164, § 144 and reported in the previous year;
+(2) estimates for lost and unaccounted-for natural gas (“LAUF”) and methane emissions as a
+result of such Grade 1, Grade 2, and Grade 3 leaks; and (3) time and cost estimates for
+eliminating the backlog of Grade 1, Grade 2, and Grade 3 leaks. St. 2014, c. 149, § 9. The
+Department is pleased to present this report for the calendar year ended December 31, 2024.
+Natural gas leaks occur in the gas distribution system for several reasons, including the
+age of the infrastructure, corrosion, and damage from other underground construction projects,
+also referred to as encroachment.1 A significant reason that natural gas leaks occur in
+Massachusetts is the prevalence of certain aging, leak-prone infrastructure, including non-
+1 Encroached pipe includes cast-iron pipe, eight inches or less in diameter, that has been
+exposed and undermined by a trench crossing the pipeline or by an adjacent, parallel
+excavation. 220 CMR 113.06, 220 CMR 113.07.
+
+D.P.U. 25-GLR-01 Page 2
+cathodically protected steel,2 cast-iron,3 and wrought iron.4 A 2014 study commissioned by the
+Department estimated that there were over 6,000 miles of aging infrastructure in Massachusetts
+comprising materials that are vulnerable to natural gas leakage. ICF International, Report on
+Lost and Unaccounted for Gas (December 23, 2014).5 The Department has recognized that there
+may be public safety, service reliability, and environmental issues associated with the continued
+existence and aging of leak-prone facilities in gas companies’ distribution systems. New
+England Gas Company, D.P.U. 10-114, at 56 (2011); Bay State Gas Company, D.P.U. 09-30,
+at 133 (2009). Historically, the Department has determined that a sustained replacement of aging
+2 Cathodic protection systems help prevent corrosion from occurring on the exterior of
+pipes by substituting a new source of electrons, commonly referred to as either a
+“sacrificial anode” or “impressed current anode.” Both systems operate by imparting a
+direct current onto the buried pipeline, using devices called rectifiers. As long as the
+current is sufficient, corrosion is prevented, or at least mitigated and held in check. Fact
+Sheet: Cathodic Protection, United States Department of Transportation, Pipeline &
+Hazardous Materials Safety Administration,
+https://primis.phmsa.dot.gov/comm/FactSheets/FSCathodicProtection.htm (last visited
+November 3, 2025).
+3 Gray cast-iron is a cast ferrous material in which a major part of the carbon content
+occurs as free carbon in the form of flakes interspersed through the metal. Because the
+carbon flakes do not bond with the ferrous material on the molecular level, the metal is
+brittle and susceptible to stress cracking under pressure situations. American Gas
+Association, Gas Piping Technology Committee.
+4 Together with cast-iron, wrought iron pipelines are among the oldest energy pipelines
+constructed in the United States. The degrading nature of iron alloys, the age of the
+pipelines, and the pipe joint designs have greatly increased the risk involved with the
+continued use of such pipelines. Pipeline Replacement Background, United States
+Department of Transportation, Pipeline & Hazardous Materials Safety Administration,
+https://www.phmsa.dot.gov/data-and-statistics/pipeline-replacement/pipeline-
+replacement-background (last visited November 5, 2025).
+5 https://www.mass.gov/files/documents/2016/08/vt/icf-lauf-report.pdf.
+
+D.P.U. 25-GLR-01 Page 3
+infrastructure facilities is appropriate and desirable from a public policy perspective, given the
+potential benefits to public safety, service reliability, and the environment. Boston Gas
+Company/Colonial Gas Company/Essex Gas Company, D.P.U. 10-55, at 121 (2010); D.P.U. 10-
+114, at 56; D.P.U. 09-30, at 133-134. Stakeholder discussions, including possible legislative and
+policy changes around the future of natural gas infrastructure continue to occur in Massachusetts,
+and the Department remains engaged in those activities.
+The Department and the gas industry are addressing the challenges posed by certain
+aging infrastructure in several ways. First, recognizing the public safety and environmental
+issues posed by natural gas leaks, the Department has taken proactive steps to address issues
+regarding the replacement or repair of leak-prone infrastructure. In the early 1990s, the
+Department promulgated regulations (220 CMR 113.00) prohibiting the installation of cast-iron
+pipe for the distribution of gas after April 12, 1991.
+Beginning in 2009, the Department began approving targeted infrastructure replacement
+factor (“TIRF”) programs for several gas distribution companies to accelerate the replacement of
+leak-prone infrastructure. Similarly, pursuant to G.L. c. 164, § 145 (added by St. 2014, c. 149,
+§ 2; amended by St. 2021, c. 8, §§ 87-89, St. 2022, c. 179, § 58, and St. 2024, c. 239, § 81)
+(“GSEP Statute”), gas distribution companies have submitted to the Department accelerated
+infrastructure replacement plans to address aging or leaking natural gas pipeline infrastructure, in
+the interest of public safety and to reduce LAUF. The Gas System Enhancement Program
+(“GSEP”) is a cost recovery program to incentivize gas distribution companies to make
+infrastructure upgrades and reduce leaks. The GSEP program allows distribution companies to
+recover the revenue requirement on investments made to replace leak-prone mains, services, and
+
+D.P.U. 25-GLR-01 Page 4
+other facilities through a reconciling mechanism outside of base rates. On October 31, 2014,
+seven of the Commonwealth’s gas distribution companies submitted to the Department their first
+annual accelerated infrastructure replacement plans, referred to as GSEPs.6 The Department
+approved the first GSEPs (for 2015) on April 30, 2015. The Department has since approved the
+gas distribution companies’ 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, and
+2025 GSEPs, on or about April 30 of those years.7 Because the intent of the pipeline
+replacement programs is to reduce the number of natural gas leaks in the natural gas system, as
+well as to reduce LAUF and methane emissions, we discuss the GSEPs in more detail in Section
+III, below.8
+6 The original seven gas distribution companies were: The Berkshire Gas Company; Bay
+State Gas Company d/b/a Columbia Gas of Massachusetts; Liberty Utilities (New
+England Natural Gas Company) Corp. d/b/a Liberty Utilities; Boston Gas Company and
+Colonial Gas Company each d/b/a National Grid; NSTAR Gas Company
+d/b/a Eversource Energy; and Fitchburg Gas and Electric Light Company d/b/a Unitil.
+As noted below, there have been some recent organizational changes to these seven
+companies. The eighth gas distribution company in Massachusetts as of 2014,
+Blackstone Gas Company, did not submit a GSEP because its gas distribution system
+contained no leak-prone infrastructure.
+Under their GSEPs, the gas distribution companies plan to replace a total of
+approximately 6,023 miles of aging infrastructure in Massachusetts over 20 years
+(beginning in 2015), with the exception that Colonial Gas Company intends to complete
+replacement of its aging infrastructure within eleven years, and NSTAR Gas Company
+and Boston Gas Company plan to complete their replacements within 25 years.
+7 The Department is currently reviewing the gas distribution companies’ 2026 GSEPs, filed
+on October 31, 2025, and will issue final Orders on them no later than April 30, 2026.
+8 Section III also provides information on the amount of leak-prone infrastructure within
+each gas distribution company’s system.
+
+D.P.U. 25-GLR-01 Page 5
+Further, G.L. c. 164, § 144 prescribes a uniform gas leak classification (Grade 1, Grade 2,
+or Grade 3) based on the hazard presented by a gas leak and a timeline in which distribution
+companies must repair or monitor each leak depending on its grade. Additionally, G.L. c. 164,
+§ 144(d) prioritizes the repair of gas leaks detected within a school zone, and G.L. c. 164,
+§ 144(e) requires gas distribution companies to provide in their annual service quality reports the
+location, classification date, and repair dates of each leak existing as of the date of the report. On
+March 8, 2019, the Department promulgated final regulations regarding these requirements and
+established specific criteria to identify and repair or eliminate environmentally significant
+Grade 3 leaks (“SEI”). Uniform Natural Gas Leaks Classification Rulemaking, D.P.U. 16-31-C
+(2019); see 220 CMR 114.00, Uniform Natural Gas Leaks Classification.
+Finally, on December 12, 2019, pursuant to St. 2018, c. 227, §§ 19 and 23, the
+Department promulgated final regulations and guidelines establishing procedures for all gas
+distribution companies and municipal gas operators to report LAUF and the components
+thereof -- including fugitive emissions from leaks -- annually to the Department in a uniform
+manner. LAUF Rulemaking, D.P.U. 19-44-A (2019); see 220 CMR 115.00. The companies
+filed their first LAUF reports pursuant to the new regulations and guidelines on or about
+March 15, 2020, and have filed their annual LAUF reports on or about March 15 each year
+thereafter.
+II. PREVALENCE OF NATURAL GAS LEAKS IN THE NATURAL GAS SYSTEM
+A. Introduction
+General Laws c. 164, § 144, requires the gas distribution companies and municipal gas
+operators to grade all reported natural gas leaks based on the hazard posed by the leak, and it
+
+D.P.U. 25-GLR-01 Page 6
+prescribes a timeline for the companies/operators to repair or monitor natural gas leaks
+depending on the hazard posed by the leak, as follows:
+• A Grade 1 leak represents an existing or probable hazard to persons or
+property, and requires repair “as immediately as possible,” continuous action
+until the conditions are no longer hazardous, and continuous surveillance until
+the hazard or source of the leak is eliminated. G.L. c. 164, § 144(b)(2).
+• A Grade 2 leak is recognized as non-hazardous to persons or property at the
+time of detection, but justifies scheduled repair based on probable future
+hazard. This grade of leak must be repaired, or the main replaced, within
+twelve months from the date of classification, and must be re-evaluated at
+least once every six months until eliminated. G.L. c. 164, § 144(b)(3).
+• A Grade 3 leak is recognized as non-hazardous to persons or property at the
+time of detection and can be reasonably expected to remain non-hazardous.
+This grade of leak must be re-evaluated during the next scheduled survey or
+within twelve months from the date last evaluated, whichever occurs first,
+until the leak is eliminated or the main replaced. G.L. c. 164, § 144(b)(4).
+For the purposes of this report, the Department gathered gas leak data from the following
+local gas distribution companies and municipal gas operators in the Commonwealth: The
+Berkshire Gas Company (“Berkshire”); Eversource Gas of Massachusetts d/b/a Eversource
+Energy (“EGMA”); Liberty Utilities (New England Natural Gas Company) Corp. d/b/a Liberty
+Utilities (“Liberty”); Boston Gas Company and Colonial Gas Company d/b/a National Grid
+(“National Grid”);9 NSTAR Gas Company d/b/a Eversource Energy (“NSTAR Gas”); Fitchburg
+Gas and Electric Light Company d/b/a Unitil (“Unitil”); Holyoke Gas & Electric Department
+(“Holyoke”); Middleborough Gas & Electric Department (“Middleborough”); Wakefield
+9 On December 16, 2019, the Department approved the merger of Boston Gas Company
+and Colonial Gas Company with and into Boston Gas Company, within the National Grid
+USA holding company system. Boston Gas Company and Colonial Gas Company,
+D.P.U. 19-69 (2019). The merger took effect on March 15, 2020.
+
+D.P.U. 25-GLR-01 Page 7
+Municipal Gas and Light Department (“Wakefield”); and Westfield Gas & Electric Light
+Department (“Westfield”). Section II.B, below, presents a summary of the gas leak data, as
+follows: (1) the number of Grade 1, Grade 2, and Grade 3 gas leaks classified pursuant to
+G.L. c. 164, § 144 and reported to the Department in 2024;10 (2) estimates of LAUF and methane
+emissions from such leaks for 2024; and (3) time and cost estimates for eliminating the backlog
+of Grade 1, Grade 2, and Grade 3 leaks that existed at the end of 2024. Appendix A, attached to
+this report, sets forth the company/operator-specific information regarding gas leaks, LAUF,
+methane emissions, and time/cost estimates.
+The Department notes three significant aspects of this report. First, while this report
+provides the number of Grade 1, Grade 2, and Grade 3 leaks identified and existing during 2024,
+these data do not represent the number of ongoing, unrepaired leaks as of the date of this report.
+Rather, the actual number of natural gas leaks on the gas distribution system may fluctuate daily
+for a number of reasons, including the following: (1) gas distribution companies and municipal
+gas operators are required to repair Grade 1 leaks “as immediately as possible”; (2) gas
+distribution companies and municipal gas operators engage in ongoing repair of Grade 2 and
+Grade 3 leaks; and (3) new Grade 1, Grade 2, and Grade 3 leaks generally occur as a result of
+10 In late 2016 and early 2017, the Department’s Pipeline Safety Division (“Division”)
+directed the gas distribution companies and municipal gas operators to begin providing
+quarterly reports of gas leak information, including total numbers of leaks by grade. In
+addition, pursuant to G.L. c. 164, § 144, the gas companies are required to report in their
+annual service quality reports the location of each Grade 1, Grade 2, and Grade 3 leak
+existing as of the date of the report, the date each leak was classified, and the dates of
+repairs performed on each Grade 1, Grade 2, and Grade 3 leak. In 2019, the Division
+began requesting more specific quarterly data pursuant to the new regulations,
+220 CMR 114.00.
+
+D.P.U. 25-GLR-01 Page 8
+encroachment or deterioration of certain aging infrastructure. Accordingly, the data provided in
+this report should be viewed as a cumulative total of Grade 1, Grade 2, and Grade 3 leaks as
+reported in calendar year 2024, along with the associated cost estimates to fix the unrepaired
+leaks that existed on each reporting entity’s gas distribution system as of the end of calendar year
+2024. The report also identifies the number of unrepaired leaks, by grade, existing as of the end
+of calendar year 2024.
+Second, the LAUF and methane values contained in this report are not categorized by
+leak grade, as there is no standard industry approach for calculating LAUF or methane emissions
+by leak grade (i.e., LAUF or methane emissions associated only with Grade 1, Grade 2, or
+Grade 3 leaks that exclude other causes). Further, the Department has determined that the LAUF
+value associated with leakage, as reported to the Department annually by each gas distribution
+company and municipal gas operator, is the appropriate measurement to include in this report.11
+Third, all gas distribution companies and municipal gas operators report methane
+emissions in accordance with the Department of Environmental Protection’s 310 CMR 7.71,
+Reporting of Greenhouse Gas Emissions.12 The gas distribution companies and municipal gas
+operators have stated that it is the most widely accepted method used by the natural gas industry
+11 The Department reviewed the LAUF and methane emission estimates that each operator
+submitted in the Massachusetts addendum to its Form PHMSA F 7100.1 1, which each
+operator files annually with the Pipeline and Hazardous Materials Safety Administration
+(“PHMSA”) of the U.S. Department of Transportation, pursuant to 49 C.F.R. Part 191.
+In some cases, the Department also reviewed the LAUF reports.
+12 Where applicable, this regulation requires gas distribution companies and municipal gas
+operators to estimate the average volume of methane emissions by applying the leak
+factors identified in the Greenhouse Gas regulations, 40 C.F.R. Part 98, subpart W,
+Table W-7, to various types of pipe material.
+
+D.P.U. 25-GLR-01 Page 9
+to estimate methane emissions from natural gas facilities and, therefore, all leakage on the
+natural gas system. See Gas Leaks Report, D.P.U. 15-GLR-01, at 10 (2015). Finally, to present
+the data in a consistent manner, the Department reports LAUF in million British Thermal Units
+(“MMBTU”) and methane emissions in metric tons (“MT”).
+B. Gas Leaks on Gas Distribution System
+Collectively, the gas distribution companies and municipal gas operators reported a total
+of 20,564 leaks on the gas distribution system in 2024 (including leaks carried over from the
+prior year and newly identified leaks), classified as follows: (1) 4,675 Grade 1 leaks;
+(2) 3,704 Grade 2 leaks; and (3) 12,185 Grade 3 leaks (see Appendix A). As of the end of 2024,
+the gas distribution companies and municipal gas operators reported a total of 9,077 gas leaks
+remaining on the gas distribution system, classified as follows: (1) 40 Grade 1 leaks;
+(2) 566 Grade 2 leaks; and (3) 8,471 Grade 3 leaks (521 SEI and 7,950 non-SEI). The gas
+distribution companies and municipal gas operators estimate that it will cost approximately
+$18,536,658 to repair the remaining backlog.13 As calculated and described above, the gas
+distribution companies and municipal gas operators estimate a total of 321 MMBTU of LAUF
+related to leakage and a total of 6418.10 MT of methane emissions in 2024.14
+13 The time estimates, reported in various ways by each company/operator, are contained in
+Appendix A. While there were 9,077 leaks remaining on the distribution system as of the
+end of 2024, the companies/operators have already repaired or eliminated a portion of
+those leaks during 2025; thus, the repair costs may reflect only part of the backlog that
+existed as of the end of 2024.
+14 See Appendix A for company/operator-specific information.
+
+D.P.U. 25-GLR-01 Page 10
+Below is a table displaying leak trends categorized by grade since 2014. Note that these
+figures represent the number of leaks that remained on the distribution system at the end of each
+calendar year and not the total number of leaks identified during that year.
+Gas Leaks by Grade 2014-2024
+2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014
+Grade 1 40 37 24 21 26 41 41 30 19 23 86
+Grade 2 566 593 709 638 1,277 1,743 2,346 1,148 902 1,184 1,230
+Grade 3 8,471 10,022 11,444 12,789 13,509 14,260 15,146 15,587 16,889 16,864 19,459
+Total 9,077 10,652 12,177 13,448 14,812 16,044 17,533 16,765 17,810 18,071 20,775
+Comparing 2024 to 2023, these numbers reflect an 8.11 percent increase in Grade 1
+leaks, a 4.55 percent decrease in Grade 2 leaks, a 15.48 percent decrease in Grade 3 leaks, and a
+14.79 percent decrease in total leaks. Since 2014, there has been a 53.49 percent decrease in
+Grade 1 leaks, a 53.98 percent decrease in Grade 2 leaks, a 56.47 percent decrease in Grade 3
+leaks, and a 56.31 percent decrease in total leaks on the system.
+The data demonstrate that while the gas distribution companies and municipal gas
+operators reported numerous Grade 1, Grade 2, and Grade 3 leaks during calendar year 2024, gas
+distribution companies and municipal gas operators also continuously engaged in the ongoing
+repair of these leaks, specifically prioritizing Grade 1 leaks, but also repairing significant
+numbers of outstanding Grade 2 leaks and Grade 3 leaks. The vast majority of unrepaired leaks
+as of the end of calendar year 2024 are those specifically classified as non-hazardous.
+
+D.P.U. 25-GLR-01 Page 11
+Additionally, except for National Grid, all the gas distribution companies and municipal gas
+operators repaired their 2024 Grade 1 leaks by the end of 2024.
+As discussed above, a significant reason that Grade 1, Grade 2, and Grade 3 gas leaks
+continue to be identified and reported is that large portions of the gas distribution system are
+composed of certain aging infrastructure. We turn now to a discussion of pipeline replacement
+programs that are designed to accelerate the repair or replacement of leak-prone pipe and will,
+accordingly, result in the elimination of many natural gas leaks.
+III. PIPELINE REPLACEMENT PROGRAMS
+A. Introduction
+The Department has recognized that there may be public safety, service reliability, and
+environmental issues associated with the continued existence and aging of leak-prone facilities in
+the gas companies’ distribution systems. New England Gas Company, D.P.U. 10-114, at 56
+(2011); Bay State Gas Company, D.P.U. 09-30, at 133 (2009). The Department has historically
+concluded that a sustained replacement of leak-prone facilities is appropriate and desirable from
+a public policy perspective given the potential benefits to public safety, service reliability, and
+the environment. D.P.U. 10-114, at 56; Boston Gas Company/Colonial Gas Company/Essex Gas
+Company, D.P.U. 10-55, at 121 (2010); D.P.U. 09-30, at 133-134. In the early 1990s, the
+Department promulgated regulations (220 CMR 113.00) that prohibited the installation of
+cast-iron pipe for gas distribution after April 12, 1991. These regulations required that each gas
+distribution company develop and implement cast-iron replacement programs. The regulations
+also included a mandatory provision requiring gas distribution companies to immediately replace
+cast-iron pipe that has been encroached upon.
+
+D.P.U. 25-GLR-01 Page 12
+Beginning in 2009, the Department approved TIRF programs by which gas distribution
+companies could accelerate the repair or replacement of certain types of aging infrastructure.
+Specifically, the Department approved proposals to implement TIRF programs for Bay State in
+2009, National Grid in 2010, and Liberty in 2010. D.P.U. 10-55, at 122; D.P.U. 09-30, at 134;
+D.P.U. 10-114, at 56, 76-77. The TIRF programs allowed these companies to recover the
+revenue requirement (including depreciation, return on investment, and property taxes) on
+investments made to replace leak-prone mains, services, and other facilities through a reconciling
+mechanism outside of base rates. D.P.U. 10-55, at 137-138, 145; D.P.U. 10-114, at 35; Bay
+State Gas Company, D.P.U. 13-75, at 21 (2014). Through the TIRFs, National Grid, Bay State,
+and Liberty Utilities replaced significant amounts of leak-prone infrastructure.15 The TIRF
+programs were phased out as the gas distribution companies transitioned to GSEPs for
+accelerated pipe replacement. As demonstrated by the TIRFs and now the GSEPs, and as
+discussed in greater detail below, Massachusetts has set a course to eliminate leak-prone
+infrastructure on an accelerated basis.
+15 Specifically, between 2010 and 2013, Boston Gas eliminated 335 miles of cast-iron and
+non-cathodically protected steel mains, along with 8,000 services, and Colonial Gas
+eliminated 154 miles of cast-iron and non-cathodically protected steel mains, along with
+969 services. Boston Gas Company/Colonial Gas Company, D.P.U. 14-132, at 10 n.14
+(2015). Between 2010 and 2013, Bay State eliminated 177 miles of cast-iron and
+non-cathodically protected steel mains, along with 10,079 services. Bay State Gas
+Company d/b/a Columbia Gas of Massachusetts, D.P.U. 14-134, at 9 n.13 (2015).
+Finally, between 2010 and 2013, Liberty Utilities eliminated approximately 25 miles of
+non-cathodically protected steel or cast-iron/wrought iron mains, along with replacement
+of 1,994 services. Liberty Utilities (New England Natural Gas Company) Corp.,
+D.P.U. 14-133, Exh. LU-1, at 4 (2015).
+
+D.P.U. 25-GLR-01 Page 13
+B. GSEPs
+1. Overview
+Pursuant to the Gas Leaks Act of 2014, the GSEP program replaced the TIRF program
+for replacement of eligible infrastructure as of January 1, 2015. See G.L. c. 164, § 145 (added by
+St. 2014, c. 149, § 2; amended by St. 2021, c. 8, §§ 87-89,16 St. 2022, c. 179, § 58,17 and
+St. 2024, c. 239, § 81). There have been several amendments to the GSEP Statute since its
+enactment, most recently on November 20, 2024.18 This report addresses the prevalence of leaks
+in calendar year 2024. Accordingly, where the Department references the GSEP Statute in this
+section, it is referring to the version that was effective from August 11, 2022 to February 17,
+2025. Pursuant to the GSEP Statute, each gas distribution company annually submits a plan to
+accelerate the replacement or repair of leak-prone infrastructure and to address the leak rate on
+the gas company’s natural gas infrastructure. G.L. c. 164, § 145(b) (eff. August 11, 2022). The
+GSEP Statute also provides as follows:
+16 On March 26, 2021, Governor Baker signed An Act Creating a Next-Generation
+Roadmap for Massachusetts Climate Policy, St. 2021, c. 8, § 87, which amended G.L.
+c. 164, § 145. Key changes include requirements that (1) companies submit GSEPs
+annually, (2) companies include interim targets in their GSEPs, and (3) where practical,
+moving meters currently located inside a structure to outside locations.
+17 On August 11, 2022, Governor Baker signed An Act Driving Clean Energy and Offshore
+Wind, St. 2022, c. 179, § 58, which amended the definition of “eligible infrastructure
+replacement” under G.L. c. 164, § 145(a) to include the use of advanced leak repair
+technology approved by the Department to repair an existing leak-prone gas pipe to
+extend the useful life of the such gas pipe by no less than 10 years; and replacing gas
+infrastructure with utility-scale non-emitting renewable thermal energy infrastructure.
+18 On November 20, 2024, Governor Healey signed An Act Promoting a Clean Energy
+Grid, Advancing Equity and Protecting Ratepayers, St. 2024, c. 239, § 81 (“2024 Climate
+Act”), which made several amendments to G.L. c. 164, § 145. For the purposes of this
+report, references to the GSEP Statute do not reflect the 2024 Climate Act amendments.
+
+D.P.U. 25-GLR-01 Page 14
+Each company’s gas infrastructure plan shall include interim targets for the department’s
+review. The department shall review these interim targets to ensure each gas company is
+meeting the appropriate pace to reduce the leak rate on and to replace the gas company’s
+natural gas infrastructure in a safe and timely manner. The interim targets shall be for
+periods of not more than 6 years or at the conclusion of 2 complete 3-year walking survey
+cycles conducted by the gas company. The gas companies shall incorporate these interim
+targets into timelines for removing all leak-prone infrastructure filed pursuant to
+subsection (c) and may update them based on overall progress. The department may levy
+a penalty against any gas company that fails to meet its interim target in an amount up to
+and including the equivalent of 2.5 per cent of such gas company’s transmission and
+distribution service revenues for the previous calendar year.
+G.L. c. 164, § 145(b) (eff. August 11, 2022).
+Any plan filed with the Department shall include, but not be limited to the following: (i) eligible
+infrastructure replacement of mains, services, meter sets, and other ancillary facilities composed
+of non-cathodically protected steel, cast-iron and wrought iron, which are prioritized to
+implement the federal gas distribution pipeline integrity management plan annually submitted to
+the Department and consistent with the requirements of 49 C.F.R. § 192.1001 through
+§ 192.1015; (ii) an anticipated timeline for the completion of each project; (iii) the estimated cost
+of each project; (iv) rate change requests; (v) a description of customer costs and benefits under
+the plan; (vi) the relocations, where practical, of a meter located inside of a structure to the
+outside of said structure for the purpose of improving public safety; and (vii) any other
+information the Department considers necessary to evaluate the plan. G.L. c. 164, § 145(c) (eff.
+August 11, 2022). Additionally, the GSEP Statute requires that any plan filed include a timeline
+for removing all leak-prone infrastructure on an accelerated basis specifying an annual
+replacement pace and program end date with a target end date of either (i) not more than 20 years
+from the filing of the initial plan or (ii) a reasonable target end date considering the allowable
+
+D.P.U. 25-GLR-01 Page 15
+cost recovery cap established pursuant to subsection (f). G.L. c. 164, § 145(c) (eff. August 11,
+2022).19
+If a plan complies with Section 145 and the Department determines that it reasonably
+accelerates eligible infrastructure replacement and provides benefits to customers, the
+Department must preliminarily accept the plan either in whole or in part. G.L. c. 164, § 145(e)
+(eff. August 11, 2022). The gas distribution company may begin recovering the estimated plan
+revenue requirement on May 1 of the year following submission of the plan. G.L. c. 164,
+§ 145(e) (eff. August 11, 2022). Subsequently, on or before May 1 of each year, the gas
+distribution company must file final project documentation for construction completed during the
+previous calendar year to demonstrate substantial compliance with the plan and to demonstrate
+19 The GSEP Statute further provides that annual changes in the revenue requirement
+eligible for recovery pursuant to the plan shall not exceed (i) 1.5 percent of the gas
+company’s most recent calendar year total firm revenues, including gas revenues
+attributable to sales and transportation customers, or (ii) an amount determined by the
+Department that is greater than 1.5 percent of the gas company’s most recent calendar
+year total firm revenues, including gas revenues attributable to sales and transportation
+customers. G.L. c. 164, § 145(f) (eff. August 11, 2022). In 2019, the Department revised
+the cap calculation and raised the cap to three percent, stating that this cap would remain
+in effect until further ordered. See, e.g., Fitchburg Gas and Electric Light Company,
+D.P.U. 18-GSEP-01, at 30 (2019). In 2025, the Department again revised the cap
+calculation and reduced it to 2.5 percent. See, e.g., Fitchburg Gas and Electric Light
+Company, D.P.U. 24-GSEP-01, at 29 (2025). The Department may modify a plan prior
+to approval at the request of a gas company, or it may make other modifications to a plan
+as a condition of approval. G.L. c. 164, § 145(d) (eff. August 11, 2022). The
+Department is required to consider the costs and benefits of the plan including, but not
+limited to, impacts on ratepayers, reductions of LAUF through a reduction in natural gas
+system leaks, and improvements to public safety. G.L. c. 164, § 145(d) (eff. August 11,
+2022). The Department is also required to give priority to plans narrowly tailored to
+addressing leak-prone infrastructure most immediately in need of replacement. G.L. c.
+164, § 145(d) (eff. August 11, 2022).
+
+D.P.U. 25-GLR-01 Page 16
+that the costs were reasonably and prudently incurred. G.L. c. 164, § 145(f) (eff. August 11,
+2022).
+On October 31, 2014, the seven gas distribution companies noted above (Unitil,
+Berkshire, Liberty, National Grid,20 Bay State, and NSTAR Gas) submitted to the Department
+their first annual GSEPs. As part of its proposed GSEP, each company, among other things,
+(1) submitted a plan to repair or replace eligible leak-prone infrastructure during calendar year
+2015, (2) estimated a revenue requirement associated with that replacement, and (3) provided a
+timeline to repair or replace all leak-prone infrastructure in its gas distribution system. On
+April 30, 2015, the Department approved each company’s initial GSEP. The gas distribution
+companies have submitted their annual GSEPs on or about each October 31 thereafter, and the
+Department has approved them, subject to further review and investigation, to become effective
+May 1 of the following year.21 The Department is currently reviewing the companies’ twelfth
+annual GSEPs, for calendar year 2026.
+Additionally, on or about April 29, 2016, pursuant to G.L. c. 164, § 145(f), these same
+gas distribution companies submitted to the Department their first annual GSEP reconciliation
+filings (“GRECs”), wherein each company reconciled its actual investments with its planned
+investment for calendar year 2015. The Department approved the first GRECs, in substantial
+20 Boston Gas Company and Colonial Gas Company submitted a joint GSEP under one
+docket number.
+21 Pursuant to G.L. c. 164, § 145(c), the companies submitted with their 2024 GSEPs a
+summary of the GSEP replacement progress to date, the work to be completed over the
+next five years, and a discussion of related issues that the companies identified as
+impacting the continued effectiveness of the GSEPs.
+
+D.P.U. 25-GLR-01 Page 17
+part, on October 31, 2016. The gas distribution companies have submitted their annual GRECs
+on or about each May 1 thereafter, and the Department has approved them, wholly or in
+substantial part, on or about October 31. The following summarizes the GREC information
+reported for each GSEP year:
+• 2015 GSEPs: $291.6 million expended to replace 221.24 miles of leak-prone mains
+and 11,119 leak-prone services, plus related work.
+• 2016 GSEPs: $356 million expended to replace 250 miles of leak-prone mains and
+16,804 leak-prone services, plus related work.
+• 2017 GSEPs: $416.7 million expended to replace 280.3 miles of leak-prone mains
+and 18,708 leak-prone services, plus related work.
+• 2018 GSEPs: $287.2 million expended to replace 165.4 miles of leak-prone mains
+and 11,337 leak-prone services, plus related work.
+• 2019 GSEPs: $418.5 million to replace 214.89 miles of leak-prone mains and 13,995
+leak-prone services, plus related work.
+1. 2020 GSEPs: $506.6 million expended to replace 213.55 miles of leak-prone
+mains and 14,287 leak-prone services, plus related work.
+2. 2021 GSEPs: $510.9 million expended to replace 255.3 miles of leak-prone
+mains and 17,619 leak-prone services, plus related work.
+3. 2022 GSEPs: $561.1 million expended to replace 275.89 miles of leak-prone
+mains and 17,598 leak-prone services, plus related work.
+4. 2023 GSEPs: $583.7 million expended to replace 268.5 miles of leak-prone
+mains and 16,519 leak-prone services, plus related work.
+5. 2024 GSEPs: $814.4 million expended to replace 266.1 miles of leak-prone
+mains and 16,486 leak-prone services, plus related work.
+As illustrated by the above data, the LDCs have spent more money per mile, with the
+progress at remediating leak-prone pipe occurring at a pace that is largely unchanged from when
+the GSEP program was first initiated in 2015.
+
+D.P.U. 25-GLR-01 Page 18
+Based on each gas distribution company’s most recently approved GSEP, the following
+provides a current summary of the amount of leak-prone infrastructure on each company’s
+system, the infrastructure that each company anticipated replacing during calendar year 2025, the
+revenue requirement associated with the 2025 GSEP, and the company’s anticipated timeline to
+repair or replace all leak-prone infrastructure.
+2. Unitil
+Unitil distributes natural gas to approximately 16,346 customers in six communities in
+Massachusetts. Fitchburg Gas and Electric Light Company, D.P.U. 24-GSEP-01, at 10
+(April 30, 2025). Unitil owns and operates approximately 271 miles of distribution mains and
+11,253 services. D.P.U. 24-GSEP-01, at 10. Unitil states that approximately 2.43 percent of its
+distribution mains (6.58 miles) and 9.80 percent (927) of its services are composed of
+unprotected bare or coated steel, 10.06 percent (27.26 miles) of its mains and zero percent of its
+services are composed of cast-iron or wrought iron, and 0.18 percent of its mains and zero
+percent of its services are composed of ductile iron. D.P.U. 24-GSEP-01, at 10. This means that
+approximately 12.67 percent of the distribution mains (34.33 miles) and 8.24 percent (927 miles)
+of the distribution services are composed of leak-prone materials. D.P.U. 24-GSEP-01, at 10.
+Historically, beginning in 2000, Unitil replaced a minimum of two miles of leak-prone
+pipe per year. D.P.U. 24-GSEP-01, at 11. Unitil’s initial GSEP established a program to replace
+all eligible leak-prone infrastructure, including mains, services, meter sets, and other ancillary
+facilities, over a 20-year period, with an anticipated replacement rate of 3.5 miles per year.
+D.P.U. 24-GSEP-01, at 11. Unitil estimates retiring 6.64 miles of leak-prone main and
+upgrading 304 associated services in 2025. D.P.U. 24-GSEP-01, at 11. Unitil anticipates that all
+
+D.P.U. 25-GLR-01 Page 19
+GSEP-eligible pipe in its service territory will be replaced by the end of 2034. D.P.U. 24-GSEP-
+01, at 51.
+3. Berkshire
+Berkshire distributes natural gas to over 37,000 customers in Berkshire County and
+portions of Hampshire and Franklin Counties. The Berkshire Gas Company,
+D.P.U. 24-GSEP-02, at 11 (April 30, 2025). Berkshire operates a network of approximately
+766 miles of natural gas mains and approximately 32,784 active services. D.P.U. 24-GSEP-02,
+at 11. Berkshire states that about seven percent of its system mileage consists of leak-prone
+mains and services comprising cast-iron, bare steel, and non-cathodically protected coated steel
+pipe. D.P.U. 24-GSEP-02, at 11. Berkshire further states that these cast-iron and unprotected
+steel facilities accounted for approximately 63 percent of all leaks that occurred on its system as
+of the end of 2023. D.P.U. 24-GSEP-02, at 11.
+Berkshire developed its GSEP to replace 109 miles of leak-prone cast-iron and bare steel
+infrastructure on an accelerated basis over 20 years, beginning January 1, 2015, and ending
+December 31, 2034. D.P.U. 24-GSEP-02, at 11. Under its approved GSEP, Berkshire intends to
+replace approximately 13 miles of main and 420 services in 2025. D.P.U. 24-GSEP-02, at 11.
+4. National Grid
+In Massachusetts, National Grid distributes natural gas to approximately
+950,000 customers in 144 cities and towns. Boston Gas Company d/b/a National Grid,
+D.P.U. 24-GSEP-03, at 12 (April 30, 2025). As of December 31, 2023, National Grid owns and
+operates 7,281 miles of distribution mains and 570,269 services. D.P.U. 24-GSEP-03, at 12. For
+Boston Gas, National Grid states that approximately 13.2 percent (958 miles) of the distribution
+
+D.P.U. 25-GLR-01 Page 20
+system mains consist of non-cathodically protected steel, 18.6 percent (1,351 miles) consist of
+cast-iron and wrought iron, and 2.4 percent (177 miles) consist of pre-1985 Aldyl-A plastic; thus,
+approximately 34 percent of the distribution system mains consist of leak-prone pipe.
+D.P.U. 24-GSEP-03, at 12. For Colonial Gas, National Grid states that approximately
+1.4 percent (57 miles) of the distribution system mains consist of non-cathodically protected
+steel, approximately 1.4 percent (56 miles) consist of cast-iron and wrought iron, and
+approximately 4.7 percent (183 miles) consist of pre-1985 Aldyl-A plastic; thus, approximately
+seven percent of the distribution system mains consist of leak-prone pipe. D.P.U. 24-GSEP-03,
+at 12.
+For Boston Gas, the Department has approved a timeline to complete all current leak-
+prone pipe replacement by 2039. D.P.U. 24-GSEP-03, at 12. For Colonial Gas, the Department
+has approved a timeline to complete all current leak-prone pipe replacement by 2039.
+D.P.U. 24-GSEP-03, at 13. Boston Gas anticipates replacing 120 miles of leak-prone mains and
+associated services in 2025, and Colonial Gas anticipates replacing seven miles of leak-prone
+mains and associated services in 2025. D.P.U. 24-GSEP-03, at 13.
+5. Liberty
+Liberty distributes natural gas to approximately 58,481 customers in the Fall River, North
+Attleboro, Plainville, Swansea, Somerset, and Westport communities of Massachusetts. Liberty
+Utilities (New England Natural Gas Company) Corp., D.P.U. 24-GSEP-04, at 10 (April 30,
+2025). As of December 31, 2023, Liberty’s distribution system consisted of 682.95 miles of
+main and 38,609 services. D.P.U. 24-GSEP-04, at 10. Approximately 5.8 percent (39.785
+miles) of Liberty’s distribution system mains were composed of non-cathodically protected steel,
+
+D.P.U. 25-GLR-01 Page 21
+approximately 9.0 percent (61.583 miles) were composed of smaller diameter cast-iron and
+wrought iron, and approximately 0.4 percent (2.971 miles) were composed of large diameter
+cast-iron and wrought iron, which means that approximately 17.8 percent of the system was
+composed of relatively higher risk materials. D.P.U. 24-GSEP-04, at 10-11. Additionally,
+approximately 15.9 percent, or 6,146, of the services were composed of non-cathodically
+protected steel. D.P.U. 24-GSEP-04, at 11. Liberty reported no services composed of cast-iron,
+copper, or wrought iron. D.P.U. 24-GSEP-04, at 11.
+Under the initial GSEP, Liberty anticipated replacing approximately 230 miles of
+leak-prone main and 13,711 leak-prone services on its system over a 20-year period.
+D.P.U. 24-GSEP-04, at 11. Liberty anticipates replacing approximately eight miles of
+leak-prone main and 541 leak-prone services in 2025. D.P.U. 24-GSEP-04, at 11. Liberty
+projects a completed replacement of its eligible leak-prone main infrastructure pursuant to the
+GSEP in or near 2034. D.P.U. 24-GSEP-04, at 51.
+6. EGMA
+EGMA distributes natural gas to approximately 330,000 customers in 61 communities in
+three operating areas in Massachusetts: Brockton, Springfield, and Lawrence. Eversource Gas
+Company of Massachusetts, D.P.U. 24-GSEP-05, at 11 (April 30, 2025). As of December 31,
+2023, EGMA’s distribution system consisted of 5,009.5 miles of mains and 283,351 services.
+D.P.U. 24-GSEP-05, at 11. Approximately 2.7 percent (138 miles) of EGMA’s distribution
+system mains were composed of non-cathodically protected steel and approximately 6.7 percent
+(335.7 miles) were composed of cast-iron or wrought iron, which means that approximately
+9.4 percent (473.7 miles) of the distribution system mains were composed of relatively higher
+
+D.P.U. 25-GLR-01 Page 22
+risk materials. D.P.U. 24-GSEP-05, at 11. Additionally, approximately 10.2 percent, or 28,984,
+of its distribution system services were composed of non-cathodically protected steel, and
+506 services (0.2 percent) were composed of copper. D.P.U. 24-GSEP-05, at 11.
+Pursuant to its initial GSEP, EGMA anticipated replacing an average of 50.89 miles per
+year of eligible aging infrastructure over a 20-year period, from 2015 through 2033.
+D.P.U. 24-GSEP-05, at 11. In 2025, EGMA anticipates replacing approximately 52 miles of
+leak-prone mains and 3,000 leak-prone services. D.P.U. 24-GSEP-05, at 12. Based on the
+information currently available, EGMA anticipates it could complete its GSEP earlier than the
+20-year timeframe approved in D.P.U. 14-134. D.P.U. 24-GSEP-05, at 12.
+7. NSTAR Gas
+NSTAR Gas distributes natural gas to approximately 300,000 customers in
+52 communities in central and eastern Massachusetts. NSTAR Gas Company d/b/a Eversource
+Energy, D.P.U. 24-GSEP-06, at 11 (2025). NSTAR Gas owns and operates approximately 3,323
+miles of distribution mains and 210,721 services. D.P.U. 24-GSEP-06, at 11. NSTAR Gas
+states that, as of December 31, 2023, approximately 14.3 percent of its distribution system mains
+are composed of non-cathodically protected steel and approximately 6.9 percent of its
+distribution system is composed of cast-iron, which means that approximately 21.2 percent of the
+distribution system mains are composed of leak-prone materials. D.P.U. 24-GSEP-06, at 11.
+Historically, NSTAR Gas replaced an average of 25 miles of leak-prone pipe per year.
+D.P.U. 24-GSEP-06, at 11. Pursuant to its initial GSEP, NSTAR Gas estimated that it would
+replace all eligible aging infrastructure over a 25-year period, with an anticipated replacement
+rate of 50 miles per year following an initial five year ramp-up period. D.P.U. 24-GSEP-06,
+
+D.P.U. 25-GLR-01 Page 23
+at 11. In its 2021 GSEP, NSTAR Gas extended the ramp-up period by two years to reach a
+replacement rate of 50 miles per year and to reduce the overall GSEP program to less than
+25 years. D.P.U. 24-GSEP-06, at 11. NSTAR Gas states that because of a ten-mile shortfall in
+2020 due to the COVID-19 pandemic, it increased its replacement rate by two miles per year for
+the five-year period beginning in 2022. D.P.U. 24-GSEP-06, at 11. In 2025, NSTAR Gas
+anticipates replacing 62 miles of leak-prone main and 3,000 associated services.
+D.P.U. 24-GSEP-06, at 11. Despite these setbacks, NSTAR Gas still anticipates that it will
+complete the overall GSEP program within 25 years or less. D.P.U. 24 GSEP 06, at 13.
+IV. CONCLUSION
+Pursuant to Section 9 of the Act, the Department has gathered data from gas distribution
+companies and municipal gas operators regarding the prevalence of natural gas leaks on the
+natural gas system. As indicated above, those data represent the total, cumulative leaks by grade
+during calendar year 2024, as well as system-wide LAUF and methane emissions. The data
+demonstrate that while the gas distribution companies and municipal gas operators identified
+numerous Grade 1, Grade 2, and Grade 3 leaks during calendar year 2024, the gas distribution
+companies and municipal gas operators have also continuously engaged in the ongoing repair of
+these leaks. More specifically, the gas distribution companies and municipal gas operators have
+prioritized repair of Grade 1 leaks, which are defined as hazardous leaks, but have also repaired
+significant numbers of outstanding Grade 2 leaks as well as Grade 3 leaks, both of which are
+defined as nonhazardous leaks. With the exception of National Grid’s Grade 1 leaks, all other
+Grade 1 leaks that occurred on the gas distribution systems during calendar year 2024 had been
+repaired by the end of 2024.
+
+D.P.U. 25-GLR-01 Page 24
+As discussed above, a major reason that natural gas leaks occur on Massachusetts’ natural
+gas distribution system is the presence of certain types of older infrastructure, including
+non-cathodically protected steel, cast-iron pipe, and wrought iron pipe, on significant portions of
+the system. The Department has historically recognized public safety and environmental issues
+posed by natural gas leaks, and it is confident that those issues are being addressed in several
+ways, including through implementation of a cast-iron replacement program and the accelerated
+replacement of aging infrastructure under the GSEPs submitted by the gas distribution
+companies with leak-prone pipes. The Department will continue to monitor the progress of the
+gas distribution companies in replacing aging infrastructure through review of the gas
+distribution companies’ annual GSEP filings, which detail plans to repair or replace aging or
+leak-prone infrastructure the following calendar year, and through review of the companies’
+annual GREC filings, which detail the repair or replacement work performed in the previous
+calendar year.
+On December 6, 2023, the Department issued its Order on Regulatory Principles and
+Framework in D.P.U. 20-80, the Department’s investigation into the role of gas companies in
+achieving the Commonwealth’s 2050 climate goals. In D.P.U. 20-80-B, the Department adopted
+policies geared generally “toward minimizing additional investment in pipeline and distribution
+mains and achieving decarbonization in the residential, commercial, and industrial sectors.”
+D.P.U. 20-80-B at 13. According to the Department’s Order, the gas companies must “move
+beyond ‘business as usual’ in their gas system planning, whether involving proposed expansion
+of service to new areas or investments necessary to maintain the safety of existing natural gas
+infrastructure.” D.P.U. 20-80-B at 13-14. A gas company’s GSEP represents its plan for such
+
+D.P.U. 25-GLR-01 Page 25
+investments, and the “different lens [to be] applied to gas infrastructure investments going
+forward” that the Department described in D.P.U. 20-80-B at 13 is applicable to our review of
+GSEP filings. A related requirement from D.P.U. 20-80-B is the obligation imposed on gas
+distribution companies to demonstrate that they considered non-gas pipeline alternatives
+(“NPAs”) as a condition of recovering additional investment in pipeline and distribution mains.
+In its Order on Joint Motion for Clarification Filed by the Gas Local Distribution Companies, the
+Department clarified that it “did not carve out GSEP or any other project category as exempt
+from the NPA analysis requirement in its Order.” D.P.U. 20-80-C at 21.
+Further, the 2024 Climate Act made a number of amendments to the GSEP Statute. The
+GSEP Statute now includes the express requirement that gas distribution companies in their
+GSEPs “comply with the limits and sublimits established pursuant to chapter 21N of the general
+laws.” It further requires the Department to consider “the costs and benefits of the plan
+including… reducing greenhouse gas emissions in compliance with the limits and sublimits
+established in chapter 21N.” 2024 Climate Act, § 81. The 2024 Climate Act also expressly
+modifies the requirement regarding a description of customer costs and benefits under the plan to
+include “the costs of potential stranded assets and the benefits of avoiding financial exposure to
+stranded assets.” 2024 Climate Act, § 81. In addition, the 2024 Climate Act amends the GSEP
+Statute’s definition of “eligible infrastructure investment” to “eligible infrastructure measure”
+and adds “retirement or improvement” in addition to “replacement” to the definition. 2024
+Climate Act, § 81. Other sections of the 2024 Climate Act amendments to the GSEP Statute
+refer to “remediating” or “remediation” as a response to leak-prone infrastructure, rather than
+replacement. 2024 Climate Act, § 81. Lastly, the 2024 Climate Act adds a requirement that
+
+D.P.U. 25-GLR-01 Page 26
+GSEP plans must “operate [] in a balanced manner” to reasonably accelerate infrastructure
+“measures” rather than “replacement.” 2024 Climate Act, § 81. These amendments give the
+Department more authority to require the gas distribution companies to evaluate measures other
+than replacement to address leak-prone pipe, and the Department intends to enforce these
+provisions going forward.
+On April 30, 2025, the Department issued Orders in D.P.U. 24-GSEP-01 through
+D.P.U. 24-GSEP-06 which took significant action to substantially reform the GSEP process,
+consistent with the Department’s Order in D.P.U. 20-80-B. These actions include reducing the
+revenue cap from 3.0 percent to 2.5 percent, allowing spending in excess of the newly
+established 2.5 percent revenue cap up to 3.0 percent for non-pipe alternatives, eliminating
+carrying charges on deferred GSEP expenditures that exceed the revenue cap, requiring a more
+rigorous risk prioritization process for GSEP projects, and imposing the express requirement that
+as a matter of burden of proof, the gas distribution companies will be required to demonstrate
+evaluation of advanced leak repair technology as an alternative to pipe replacement. See, e.g.,
+Fitchburg Gas and Electric Light Company, D.P.U. 24-GSEP-01, at 29 (2025). The Department
+also established the GSEP Risk Assessment Working Group, which held four technical sessions
+between May 27, 2025 and August 20, 2025 and culminated in the GSEP Risk Prioritization
+Safety Guidelines issued on September 26, 2025. The Department anticipates adopting these
+GSEP Risk Prioritization Safety Guidelines through future GSEP proceedings. The Department
+is confident that these actions will set the GSEP program on a more sustainable trajectory,
+ensuring that the program is affordable for ratepayers, maintains focus on public safety, and
+aligns with the Commonwealth’s climate policies.
+
+D.P.U. 25-GLR-01 Page 27
+The Department thanks the Joint Committee on Telecommunications, Utilities and
+Energy and the Joint Committee on Public Safety and Homeland Security for the opportunity to
+present this report addressing gas leaks in the natural gas distribution system. As discussed
+above, the Department will continue to monitor and work with the gas distribution companies to
+ensure that gas leaks are repaired in a timely and cost-efficient manner and to ensure continued
+public safety in the Commonwealth of Massachusetts. The Department remains engaged and
+encouraged by the continuing discussion around the future of natural gas infrastructure.
+By Order of the Department,
+Jeremy C. McDiarmid, Chair
+Staci Rubin, Commissioner
+Elizabeth A. Anderson, Commissioner
+
+D.P.U. 25-GLR-01 Page 28
+APPENDIX A: 2024 GAS LEAKS INFORMATION

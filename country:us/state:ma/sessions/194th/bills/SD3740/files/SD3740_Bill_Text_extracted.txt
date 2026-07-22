@@ -1,0 +1,360 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+The Commonwealth of Massachusetts
+Executive Office of Technology Services and Security
+One Ashburton Place, 8th Floor
+Boston, Massachusetts 02108
+MAURA T. HEALEY JASON SNYDER
+Governor Secretary / CIO
+KIMBERLY DRISCOLL
+Lieutenant Governor
+March 4, 2026
+Matthew Gorzkowicz The Honorable Diana DiZoglio
+Secretary of Administration and Finance State Auditor
+State House, Room 373 State House, Room 230
+Boston, MA 02133 Boston, MA 02133
+Chair Aaron Michlewitz Chair Michael Rodrigues
+House Committee on Ways and Means Senate Committee on Ways and Means
+State House, Room 243 State House, Room 230
+Boston, MA 02133 Boston, MA 02133
+Dear Secretary Gorzkowicz, Auditor DiZoglio, Chair Rodrigues, and Chair Michlewitz,
+Pursuant to Chapter 9 of the Acts of 2025, the Executive Office of Technology Services and
+Security is pleased to provide you with the enclosed report detailing initiatives undertaken by
+TSS over the previous 12-month period to modernize the Commonwealth’s information
+technology (IT) infrastructure and enhance its cybersecurity posture.
+I am grateful for your continued partnership with TSS. Please feel free to contact Christopher
+Smith at christopher.t.smith@mass.gov should you have any questions about this report.
+Sincerely,
+Jason Snyder
+Secretary and Commonwealth Chief Information Officer
+
+Executive Summary
+This report is submitted pursuant to the Chapter 9 of the Acts of 2025 (FY26 GAA) language for the
+Executive Office of Technology Services and Security (TSS), which requires an update on the
+Commonwealth’s information technology consolidation initiatives authorized under Chapter 64 of the
+Acts of 2017. As the Commonwealth’s lead IT secretariat for the Executive Branch, TSS is responsible for
+advancing an enterprise-wide approach to technology modernization, cybersecurity, and digital service
+delivery. The report outlines progress made across key statutory areas, including cost savings and
+efficiencies achieved through consolidation, the status of centralized infrastructure and staffing,
+improvements to system interoperability and data sharing, the Commonwealth’s cybersecurity posture,
+and efforts to strengthen transparency and accountability with the Legislature, state agencies, and the
+public.
+Over the past year, TSS has continued to mature this enterprise model, delivering measurable financial,
+operational, and service delivery benefits while making necessary strategic investments for long-term
+sustainability. Centralized contract management, enterprise licensing, capital project governance,
+shared cloud infrastructure, and standardized security practices have produced significant savings,
+reduced duplication, and improved reliability across state government. At the same time, TSS has
+prioritized compatibility and interoperability of agency systems through strengthened data governance
+and analytics programs, enabling more effective policy evaluation and constituent-centered service
+delivery. These efforts are reinforced by continued progress in consolidating IT personnel,
+infrastructure, networks, and cloud hosting, ensuring consistent standards, economies of scale, and
+resilience across the Executive Branch.
+Of equal importance, TSS has made substantial advances in cybersecurity, privacy protection, and digital
+accessibility while expanding transparency and oversight. Through enterprise security operations,
+coordinated risk management, incident response planning, and workforce training, the Commonwealth
+has strengthened its ability to prevent, detect, and respond to cyber threats. Investments in digital
+platforms such as MyMassGov, combined with accessibility leadership and operational improvements,
+are transforming how residents interact with state government. This has had the effect of making
+services more secure, accessible, and transparent. In sum, the initiatives described in this report reflect
+TSS’ ongoing commitment to responsible stewardship of public resources, strong partnership with the
+Legislature, and delivery of a modern, secure, and resilient digital government that serves the needs of
+all residents.
+
+Table of Contents
+Executive Summary ---------------------------------------------------------------------------------------------- 2
+Purpose of this Report ------------------------------------------------------------------------------------------- 1
+Introduction -------------------------------------------------------------------------------------------------------- 1
+Savings, Efficiencies in Sharing Resources, and Additional Expenses through Consolidation ----- 1
+Compatibility and Interoperability of Agency Systems to Consolidate Relevant Data Between
+Agencies ------------------------------------------------------------------------------------------------------------ 2
+Executive Branch IT Personnel Consolidation --------------------------------------------------------------- 4
+Status of Centralization of Infrastructure, Network, and Cloud Hosting ------------------------------- 4
+Cybersecurity ------------------------------------------------------------------------------------------------------ 5
+Transparency with the Legislature, Executive Branch Agencies and the General Public ------------ 6
+Conclusion --------------------------------------------------------------------------------------------------------- 7
+
+Purpose of this Report
+The Executive Office of Technology Services and Security’s (TSS) 1790-0100 line item in the Fiscal Year
+2026 operating budget includes language requiring TSS to report on various aspects of information
+technology (IT) consolidation initiatives in the Commonwealth under the authority granted by Chapter
+64 of the Acts of 2017 – which established TSS as the lead IT secretariat for the Executive Branch.
+Provided further, that not later than February 17, 2026, the executive office shall submit a report
+to the executive office for administration and finance, the office of the state auditor and the
+house and senate committees on ways and means that shall include, but not be limited to: (i)
+financial statements detailing savings and, where applicable, additional expenses realized from
+the consolidation of information technology services within each executive office and other
+initiatives; (ii) efforts being taken to ensure the compatibility and interoperability of agency
+systems and to consolidate relevant data between agencies; (iii) the number of personnel
+assigned to information technology services within each executive office; (iv) efficiencies that
+have been achieved from the sharing of resources; (v) the status of the centralization of the
+commonwealth's information technology staffing, infrastructure and network and cloud hosting;
+(vi) the status of the commonwealth's cybersecurity; and (vii) strategies and initiatives to further
+improve the: (a) efficiency and security of the commonwealth's information technology; and (b)
+transparency of the executive office of technology services and security with the general court,
+other executive branch agencies and the general public.
+Introduction
+As the lead enterprise technology organization for the Commonwealth, TSS is committed to modernizing
+state-owned IT systems and services, strengthening the Commonwealth’s cybersecurity posture, and
+improving the resident digital-government experience.
+TSS’s enterprise approach is at the heart of how the Commonwealth approaches IT modernization,
+cybersecurity, and the delivery of accessible digital services. By leveraging this enterprise approach, the
+cost advantages achieved by more efficient operations offer greater economies of scale.
+We thank our colleagues in the Legislature for their continued leadership and investment in the
+Commonwealth’s technology and cybersecurity needs. We look forward to continued dialogue with the
+Legislature as we navigate the challenges ahead, in furtherance of our mission to provide IT leadership
+along with secure, quality digital information, services, technology and tools across the enterprise.
+Savings, Efficiencies in Sharing Resources, and Additional Expenses through
+Consolidation
+To realize savings on software licensing, TSS coordinates and leads the state’s IT enterprise licensing
+agreements. Centralized contract negotiations have allowed the state to leverage its purchasing power
+to secure license agreements with major software vendors, resulting in substantial annual savings
+through reduced license fees, maintenance costs, and deployment cost avoidance. In addition to cost
+savings, this centralized approach promotes consistency in contractual terms, supports compliance and
+risk mitigation, and significantly reduces the administrative burden associated with negotiating and
+managing multiple, duplicative contracts across agencies. IT contracting presents unique legal, technical,
+and risk considerations, and in addition to negotiating enterprise agreements, TSS directly supports
+
+Executive Branch agencies in negotiating IT contracts by providing specialized legal and technical
+expertise.
+TSS negotiates and makes Master Service Agreements (MSAs) available to our state government
+partners through centrally negotiated MSAs. Once negotiated, MSAs can be used across Executive
+Branch agencies and other agencies defined as eligible by OSD, eliminating duplicative legal reviews and
+contract negotiations and saving substantial administrative effort for both the Commonwealth and
+vendors. This streamlined approach also makes vendors more willing to engage on complex or
+challenging terms. These agreements also utilize standardized security and compliance terms. Where
+applicable, enterprise-level agreements negotiated by TSS include HIPAA Business Associate Agreements
+establishing consistent privacy and security obligations that can be relied upon by agencies when
+adopting covered services.
+TSS also leads the state’s IT capital process with an eye toward excellent stewardship of the state’s
+capital investment dollars. The IT Investment Advisory Board (IIAB) is governed by a robust IT capital
+project evaluation process that prioritizes funding to ensure that affordable, feasible, and high-value
+projects move forward, preventing pending on poorly scoped or unsustainable IT capital initiatives. This
+process also conserves resources by helping to minimize remediation costs. Proactive investment in
+modern IT infrastructure and cloud hosting reduces the likelihood of costly system failures, emergency
+fixes, and service outages.
+The IIAB provides a shared, transparent process for evaluating IT capital requests, aligning investments
+with statewide priorities and improving coordination across agencies. Having IT capital project
+governance centralized under this structure gives TSS a wide view of IT projects at all stages of work and
+creates operating efficiencies. TSS also creates efficiencies through management of a shared cloud
+infrastructure and operational expertise. TSS-led cloud migrations leverage common hosting standards
+and centralized expertise, improving system resilience and service delivery across government.
+With regard to IT consolidation, while there are upfront expenses incurred, the efficiencies realized
+outweigh those initial costs. That said, some up-front costs are realized through migrating legacy
+systems to cloud-hosted or modern environments. These migrations require initial capital investment in
+planning, migration, and system redesign.
+Finally, enterprise consolidation requires strategic capital investments. Replacement of outdated
+infrastructure and cybersecurity enhancements, supported by the FutureTech Act, which was signed
+into law in July 2024, represent necessary expenditures to sustain long-term reliability, security, and
+scalability.
+Compatibility and Interoperability of Agency Systems to Consolidate Relevant
+Data Between Agencies
+The Office of Data Innovation and Analytics within the Executive Office of Technology Services and
+Security is guided by the vision that data should be a key driver for process, policy and decision-making
+in the Commonwealth.
+TSS has begun to mature the state’s enterprise data analytics ecosystem to improve the resident
+experience by allowing decision-makers in every secretariat to access accurate, timely, and easy-to-
+digest data to support the evaluation, analysis, and continuous improvement of Commonwealth policies
+
+and operations. The program is underpinned by a strong, clear data governance framework that ensures
+the security and reliability of state data when it is being created, stored, and shared between agencies.
+TSS recognizes that the importance of measuring and reporting on policy outcomes has never been
+higher. It is essential to build an analytics program that focuses on the resident and how our processes,
+services, and policies impact them. Outcomes rarely are contained within one agency, and establishing
+formal processes for both improving and reporting upon these outcomes is the mission of our data and
+analytics program.
+Providing data governance standards and processes for all secretariats to adhere to, the Data Analytics
+program has been boosted by the continued maturity of the Data Leadership Council, comprising data
+experts across the Executive Branch, with the goal of aligning our data vision across the enterprise. The
+Data Leadership Council is also actively engaged in efforts to evaluate the statewide data-sharing
+framework and make iterative improvements to ease the secure integration and use of data across state
+agencies to improve the delivery of state services to residents.
+The Commonwealth's data sharing framework is designed to ensure data is shared securely and
+deliberately between state agencies to drive better-informed decision-making. The data sharing
+framework aims to:
+• Streamline the process of sharing protected data between state entities.
+• Secure protected data, which includes personal data, personally identifiable information, or
+other protected information that is restricted in use or disclosure under federal or state law or
+regulation. The framework only applies to protected data.
+• Use collected data as an asset to improve operations, services, and policy across the state.
+• Open opportunities to collaborate across secretariats on service-enhancing and cost-saving
+initiatives
+In addition to the framework itself, the Office of Data Innovation and Analytics has begun construction
+and use of a technology platform known as the Commonwealth Data Exchange. This platform connects
+disparate agency data warehouses across the Executive Branch, enabling more secure, efficient, cost-
+effective, and collaborative data sharing among agencies. The Commonwealth Data Exchange will also
+include an enterprise data catalog, allowing analysts and policymakers across the Executive Branch to
+discover and responsibly use data relevant to the Commonwealth’s most pressing policy challenges.
+This past November, the Office of Data Innovation and Analytics launched a pilot of the Data Commons,
+a key pillar of the Governor’s Strategic AI Task Force recommendations. The Data Commons is intended
+to provide a source of high-quality, de-identified data to share with trusted research partners. We view
+the availability and discoverability of high-quality, integrated datasets and analytics applications as
+critical to ensuring that policymakers, decision makers, and researchers can improve service delivery and
+state government performance. In the months ahead we will develop an improved data sharing and
+integration platform to ensure that policy is data driven.
+In tandem with our data analytics work, TSS has provided centralized leadership in safely adopting
+responsible Artificial Intelligence (AI) to improve government functions and service delivery. By requiring
+AI use and development in a secure sandbox environment, the state ensures that no sensitive data can
+be used to train public AI models. Protocol dictates that after a resident-centric use case has been
+
+developed by agencies, the AI Center of Enablement at TSS reviews the proposal. This provides another
+layer of accountability to ensure that any AI risks are mitigated and aligned with TSS standards. Through
+our partnership with the Legislature, investments over the past year allow TSS to continue to advance
+state government AI adoption through centralized guidance, secure solutions, and continued
+partnerships with higher education.
+Executive Branch IT Personnel Consolidation
+TSS remains dedicated to its legislative mandate to consolidate IT personnel under its statutory
+authority. TSS continues to make strategic and targeted consolidation efforts that achieve efficiencies
+across the Commonwealth while prioritizing the continuity of vital government service operations for
+the constituents that rely on them.
+During FY26, TSS focused worked on consolidating voice and network staff from the Executive Offices of
+Health and Human Services (HHS) and Energy and Environmental Affairs (EEA). Workstream owners
+reviewed and documented both secretariats’ current services and support request processes and
+identified which processes would migrate to an TSS-supported workflow and which would remain in-
+house within those secretariats. This work included clarifying existing processes, defining the future
+state, identifying gaps between the two, and updating and implementing workflows as needed. To date,
+8 EEA employees and 11 HHS employees have been transferred to TSS, with their functions consolidated
+under the TSS enterprise.
+The following chart shows the number of IT personnel who support IT infrastructure and business
+applications within each executive office as of January 2026:
+Table 1, showing IT consolidation by secretariat
+Secretariat Number of IT Personnel
+DOT 115
+ANF 207
+EEA 37
+EOED 6
+EOE 28
+HLC 7
+HHS 505
+LWD 24
+EPS 21
+TSS 388
+EOVS 2
+TOTAL 1340
+Status of Centralization of Infrastructure, Network, and Cloud Hosting
+TSS works closely with the Secretariat Chief Information Officers (SCIOs) and business application
+owners at Executive Branch secretariats to best understand their business needs and prepare for lift and
+
+shift, lift and optimize, and complete re-platform transformations of Commonwealth systems to the
+cloud to ensure continuity of those government services.
+TSS is committed to operational excellence and efficiency through the centralized management of
+information technology standards, infrastructure, and service delivery. Throughout 2026, TSS will
+continue with its consolidation of executive office information and technology services, bringing the
+benefit of standardization and economy of scale to purchasing and service delivery.
+While some Executive Branch entities still operate distinct data centers and networks, TSS is working to
+transfer that infrastructure to the center through the One Network program. Enterprise Information
+Security policies and standards are published for the entire executive branch and any other agencies
+that rely on TSS services. Any executive office maintaining a separate environment from TSS must
+adhere to those security policies and standards. Through the Enterprise Risk Management office, TSS
+reviews and updates those critical policies and standards on an annual basis.
+Cybersecurity
+Through TSS’ leadership, Massachusetts continues to augment its cybersecurity posture through a
+unified, enterprise-wide approach led by the Security Operations Center (SOC), which monitors, detects,
+and responds to threats across the Executive Branch. Guided by the Enterprise Security Incident
+Reporting and Response Framework and supported by standardized security policies within the
+Standard Operating Environment, the SOC serves as a central hub for incident reporting and
+coordination, including collaboration with municipalities and independent agencies. Complementing this
+operational capability, TSS leads a robust Enterprise Risk Management program through the CISO
+Council, enabling coordinated vulnerability remediation across government. These efforts have
+produced measurable results, including substantial reductions in critical vulnerabilities since July 2023
+and a nearly three-fold increase in mitigation velocity within 30 days of a vulnerability being identified,
+even as the number of scanned assets grew substantially.
+In calendar year 2025, the SOC handled thousands of security events. Across the Executive Branch, over
+400,000 vulnerabilities were mitigated via automated and manual remediation efforts, a figure that
+constitutes a 26% increase over calendar year 2024. In concert with these remediation efforts, The SOC
+took action to quarantine over 88K e-mail messages before they could be opened. These daily efforts
+help ensure the security and continuity of our state’s network operations.
+To ensure preparedness for large-scale cybersecurity incidents, Massachusetts established the nation-
+leading Massachusetts Cyber Incident Response Team (MA-CIRT), a cross-agency partnership between
+TSS and the Executive Office of Public Safety and Security. MA-CIRT maintains and regularly tests a Cyber
+Incident Response Plan that keeps Commonwealth leadership informed and ensures rapid, coordinated
+response to significant cyber threats. TSS further mitigates risk through strong third-party oversight,
+requiring cloud service providers to undergo security risk assessments and leveraging the Application
+Security Center of Excellence to conduct code analysis, penetration testing, and application security
+reviews. MA-CIRT, in conjunction with the Office of Municipal and School Technology (OMST)
+collaborate to host multiple, regionally-based tabletop exercises (TTX’s) per year. This year TSS also
+facilitated a cabinet-level tabletop exercise designed to simulate an attack on our state’s emergency
+
+systems to refine the statewide cybersecurity incident response plan. Together, these initiatives
+significantly reduce vendor and supply-chain risk while ensuring continuity of government services.
+Protecting data privacy and strengthening the human layer of cybersecurity remain core priorities. The
+TSS Privacy Office uses Privacy Impact Assessments to identify and mitigate privacy risks early in project
+and contract lifecycles and leads an Enterprise Privacy Council to advance statewide privacy standards,
+AI governance, and compliance. Cybersecurity awareness training is mandatory for all Executive Branch
+employees, supplemented by monthly phishing simulations that effectively transform the workforce
+into an extension of the Commonwealth’s security team. Beyond state government, TSS supports
+municipalities through large-scale training programs, no-cost security assessments, and technical
+services.
+Transparency with the Legislature, Executive Branch Agencies and the General
+Public
+In coordination with our partners in the Legislature, TSS has developed and implemented systems for
+additional oversight and reporting for IT projects and procurement. For enhanced cost oversight and
+control, any IT project or procurement with expenses over $200,000 made by an executive office or one
+of its’ respective state agencies must be reported to and approved by the Chief Information Officer of
+the Commonwealth.
+Additionally, on an annual basis, TSS provides a report to the State Auditor and Legislature detailing the
+complete accounting and justification for all IT expenditures over $250,000. We appreciate the
+opportunity to share this information with the Legislature for increased transparency detailing how
+allocated funds are being invested in the Commonwealth’s IT and cybersecurity infrastructure.
+Reporting on IT expenditures in state government supports the mission of TSS and its IT Investment
+Advisory Board to ensure that taxpayer money is being invested wisely to improve the delivery of
+government services and secure the Commonwealth’s IT and data assets.
+In FY26, TSS implemented an updated chargeback methodology for products and services consumed by
+customer agencies that more accurately reflects the full costs of products and services provided by
+TSS. This modernization effort has led to both the review and recalculation of rates for all existing
+services and the rollout of a number of new chargeback services including, but not limited to, end user
+support, mobile and cellular support, contact center services, an updated network service model, and
+full chargeback for cloud hosting.
+TSS has also undertaken a number of initiatives to make state government services more accessible and
+to improve transparency between state government and the residents we all serve. Across these
+initiatives, TSS is advancing a unified vision for the digital state government user experience while
+modernizing the systems that support it. Through the MyMassGov single sign-on, TSS has shifted from
+agency-by-agency service delivery to a user-centric model that meets residents where they are,
+simplifies access, and increases transparency. The continued maturity of the MyMassGov portal and
+expansion of a single sign-on credential are foundational to this approach, which now enables over two
+million residents to securely access multiple services through a single identity and manage their
+information in one place. The portal now averages 4.4 million visits per month. This unified profile
+
+reduces repetitive data entry, improves status tracking, and allows the Commonwealth to proactively
+communicate with residents across channels, ensuring services are easier to navigate without requiring
+constituents to “know state government” to get help.
+Building on this shared digital foundation, TSS is partnering with agencies to redesign services around
+real life experiences and moments of need. From identity verification that eliminates repeated
+authentication, to GenAI-powered customer engagement with the RMV ahead of the REAL ID deadline,
+to end-to-end service design for early childhood educators, these efforts demonstrate how enterprise
+tools can be tailored to specific populations while remaining scalable across government. Initiatives like
+the AskMA chatbot, available in 20 languages, advances this vision further by improving access,
+capturing real-time feedback, and freeing agency staff to focus on more intensive cases.
+Concurrently, TSS is investing in long-term sustainability by building agency capacity through training,
+communities of practice, and shared resources that embed people-centered design into everyday
+operations. Underpinning all of this work is a strong commitment to accessibility, equity, and
+operational excellence. The establishment of the Commonwealth’s first Chief IT Accessibility Officer and
+the ACCESS team ensures that accessibility is not an afterthought but a core design principle across
+digital services. These efforts are reinforced by measurable improvements in IT reliability and
+performance, including fewer major incidents, faster recovery times, and a consistently high success
+rate for system changes. Together, these initiatives reflect a clear throughline: modernizing technology,
+strengthening operations, and building institutional capability in service of a more accessible,
+transparent, and resilient government for all residents.
+Conclusion
+This year, TSS reached major milestones, both operationally and with our IT capital portfolio. We made
+significant and impactful milestones toward mitigating vulnerabilities in our state’s IT systems and
+further developing our incident response frameworks to make our services and residents more secure,
+while ensuring government service and information continuity. We remain committed to the above
+efforts to advance operational excellence, enhance government efficiency, promote cybersecurity in the
+executive branch and with our external partners, and modernize the way the state does business.
+TSS is enhancing the delivery of services to our residents through the continued ramp-up of the
+MyMassGov single sign-on solution and adding more business applications and resident-facing services
+to the portal. We are moving our artificial intelligence work from the development phase to the
+production environment in order to enhance service delivery, knowing that the front door to
+government is now digital.
+TSS remains grateful to the Legislature for the opportunity to highlight some of our successes over the
+past year to modernize and secure the IT infrastructure across the enterprise, in collaboration with our
+IT and business partners from across state government and in the vendor community. We are
+committed to these ongoing efforts to make state government more secure, more accessible, and more
+efficient. We welcome continued engagement and partnership with the Legislature to maintain the
+Commonwealth’s position as a national technology leader.

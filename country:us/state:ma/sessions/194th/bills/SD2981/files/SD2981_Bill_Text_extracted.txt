@@ -1,0 +1,1386 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Barriers to Employment
+Executive Office of Labor and Workforce Development
+Department of Economic Research
+February 2025
+Published in June 2025
+Authors:
+Laura Katsnelson, Ph.D.
+Mark Rembert, Ph.D.
+
+Barriers to Employment Report
+Massachusetts Executive Office of Labor and Workforce Development,
+Department of Economic Research
+Authors
+Laura Katsnelson, Ph.D., DER Senior Regional Economist
+Mark Rembert, Ph.D., DER Chief Economist
+Contributors
+David Jan, DER Senior Applied Economist
+Joe Fitzgerald, DER Data Visualization Specialist
+About Barriers to Employment Report
+The Department of Economic Research (DER) submits this Barriers to Employment report as
+required by section 7003-0100 in the FY2025 General Appropriation Act which states that “not later
+than February 24, 2025, the department shall submit a report to the house and senate committees on
+ways and means including, but not limited to: (i) sector by sector barriers to workers returning to work
+during the 2019 novel coronavirus pandemic, including the retail sector; and (ii) current programs that
+may be utilized to target the workforce in each sector”.
+About Department of Economic Research (DER)
+The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)
+Department of Economic Research produces, analyzes, and distributes various data, labor market
+reports, and other resources related to employment, unemployment, occupations, industries, and
+other components of the Massachusetts labor market. Our stakeholders include policy makers in state
+and local government, workforce development agencies, institutions within academia, employers,
+jobseekers, and others. Visit mass.gov/EconomicResearch to learn more.
+February 2025 | mass.gov/economicresearch Page 2
+
+Table of Contents
+Table of Contents ......................................................................................................................... 3
+Introduction .................................................................................................................................. 4
+Summary of Findings on Skills Barriers .................................................................................................. 5
+Summary of Findings on Geographic Barriers ....................................................................................... 6
+Identifying Barriers ...................................................................................................................... 7
+Assessing the Impact of Skills Gaps......................................................................................... 9
+Gaps in Specialized Skills ....................................................................................................................... 9
+Limited English Proficiency ................................................................................................................... 22
+The Implications of Skills Barriers ......................................................................................................... 34
+Geographic Barriers to Employment....................................................................................... 36
+Commute Times and Transportation Challenges ................................................................................. 36
+Housing Burden Across Regions and Occupations.............................................................................. 44
+Combined Housing and Transportation Burden: Identifying Workforce Pressure Points .................... 47
+The Implications of Geographic Barriers .............................................................................................. 49
+Conclusion .................................................................................................................................. 51
+References .................................................................................................................................. 53
+Appendix ..................................................................................................................................... 54
+A. List of Programs Mapping to Each Barrier ....................................................................................... 54
+B. Rapid Skill Change Occupations ...................................................................................................... 55
+C. Estimating Demand & Supply for Postsecondary Graduates .......................................................... 56
+D. Measuring Occupational Misalignment ............................................................................................ 57
+February 2025 | mass.gov/economicresearch Page 3
+
+Introduction
+The Massachusetts labor market has recovered more slowly from the pandemic than other
+states. Sectors such as Accommodation and Food Services, Retail Trade, Manufacturing, and Health
+Care and Social Assistance employed fewer people in 2023 than in 2019 (2023 ETA Report). Recent
+years have been characterized by tight labor markets across the nation, and in Massachusetts, an aging
+population coupled with slow population growth suggests these conditions will persist. This economic
+reality means it is critical to understand the barriers that Massachusetts residents face in getting a job
+and to determine which workers are most affected.
+A barrier to employment is anything that prevents a person from finding and securing the best
+job that works for them. Many such barriers were identified in the 2024 Workforce Skills Cabinet
+Regional Blueprints. These regional workforce development plans were produced through a process
+led by the Healey-Driscoll Administration’s Workforce Skills Cabinet with engagement by local leaders
+and workforce partners across the Commonwealth to identify workforce needs and challenges.
+This report focuses on two broad types of barriers that were identified in the regional plans –
+skills barriers and geographic barriers. Skills barriers occur when workers lack the skills that employers
+are demanding. These could be technical or specialized skills required for a particular job, as well as
+English language skills necessary for most jobs. Geographic barriers result from challenges in reaching
+job locations, often due to a combination of high housing costs in areas with many jobs and limited or
+costly transportation options. These barriers are benchmarked across regions and occupations to help
+guide policymakers in directing resources to have the most impact in alleviating barriers.
+The analysis is done by occupation, which is many cases track sectors , because the barriers to
+employment considered in this report are generally related to a worker’s occupation . In many cases,
+the experiences of workers in a given occupation are representative of the broader experiences of
+workers in a sector. For example, Healthcare Practitioners and Technical Occupations and Healthcare
+Support Occupations are representative of workers in the healthcare sector, while Sales and Related
+Occupations are representative of experiences of many workers in the retail sector. Information on
+existing programs that address the barriers identified in this report can be found in Section A of the
+Appendix.
+February 2025 | mass.gov/economicresearch Page 4
+
+Summary of Findings on Skills Barriers
+Limited proficiency in English is a significant barrier for foreign-born workers,
+especially a subset of roughly 110,000 individuals
+For people who have immigrated to Massachusetts, limited English proficiency can pose a
+significant barrier to employment and negatively impacts earnings potential. Data from the 2023
+American Community Survey indicates that more than 80,000 working-age adults in Massachusetts
+who immigrated in the past four years need help improving their English. Additionally, many
+immigrants in Massachusetts with bachelor’s degrees are underemployed – working in jobs that do not
+fully use their skills – because of limited English proficiency. The underemployment rate for this group
+is 50%, more than twice that of immigrants with strong English skills. Providing ESOL programs to this
+group of about 30,000 people could help them overcome a significant barrier to finding jobs that
+match their qualifications.
+Rapidly changing skill requirements do not affect most jobs, but could pose a barrier
+for certain workers
+In today’s economy, the skills that employers need are constantly evolving. This is especially
+true for specialized skills. When these changes happen quickly, it can create a gap between what
+employers are looking for and what job seekers currently offer. Science, technology, engineering, and
+math (STEM) occupations are most impacted by this type of “skill disruption”. Yet employer demand
+for specialized skills has not changed drastically since 2016 for most workers across Massachusetts.
+Central Massachusetts’ labor market has been most affected with 14% of 2023 job postings in
+occupations with rapidly changing skill requirements; most other regions only represent 10% or lower.
+Still, certain workers, such as Software Developers, may need to constantly update their skills to
+remain employed. In addition, changes in employer requirements are more pronounced in certain
+regions. For example, employers in Central Massachusetts (MA) have shifted the skills required of
+Medical Assistants from administrative skills to medical skills within the past seven years.
+Misalignment between graduates of postsecondary programs and employer demand in
+the Berkshires, Cape & Islands, and Southeast makes skills gaps more likely in those
+regions
+Sometimes, the skills and credentials that students get from postsecondary programs do not
+align with the occupations that employers in their region need. This misalignment can make it hard for
+graduates to find jobs, and for businesses to find qualified workers. The Berkshires, Cape & Islands, and
+February 2025 | mass.gov/economicresearch Page 5
+
+Southeast regions show signs of mismatch between the areas of study of local postsecondary
+graduates and the types of jobs that employers are hiring for. This mismatch may force new graduates
+to leave these regions to find jobs in their fields and suggests that there may be limited training
+options for workers to gain in-demand skills locally.
+Summary of Findings on Geographic Barriers
+Long commutes and lack of car access can limit job opportunities, especially for
+workers in the Southeast region
+Getting to and from work can be a major hurdle for many workers, especially those who rely on
+public transportation or live far from job centers. Long commutes can limit job opportunities and make
+it hard to balance work and personal life. Workers in the Southeast region face the longest average
+commute times in the state, at nearly 35 minutes each way. This is significantly higher than the
+average commute in the Berkshires, which is under 25 minutes. The high reliance on personal vehicles
+across most of the state (over 90% outside of Greater Boston) also creates a barrier for those without
+access to a car, further limiting their job options.
+High housing burden for Cape & Islands workers and high combined geographic
+burden (high housing costs + long commutes) for lower-wage workers living in regions
+bordering Boston likely pose significant barriers to employment
+The cost of housing can make it difficult for workers to live near their jobs, especially in areas
+with many job opportunities. This can force workers to endure long commutes or limit their job choices
+to lower-paying positions closer to home. The Cape & Islands has the highest percentage of housing-
+burdened workers (28%), meaning more than a quarter of workers in this region spend over 30% of
+their income on housing. Occupations like Construction and Extraction, Building Cleaning and
+Maintenance, and Healthcare Support are particularly impacted by the combined burden of high
+housing costs and long commutes, especially in the Greater Boston, the Southeast, the Northeast, and
+Central MA regions.
+February 2025 | mass.gov/economicresearch Page 6
+
+Identifying Barriers
+The barriers to employment considered in this report are based on barriers identified in the
+2024 Workforce Skills Cabinet regional workforce development plans—also referred to as “regional
+blueprints”. These plans were developed by regional teams of educators, workforce development
+professionals, and industry partners in each of the seven Workforce Skills Cabinet regions (see Figure 1
+below). The Workforce Skills Cabinet was established by Executive Order to align the programs and
+policies of the administration to improve workforce skills and job readiness of individuals in the
+Commonwealth’s regions. Over the course of an extended regional planning process, these local teams
+met regularly to identify priority industries and occupations in their regions and document challenges
+associated with meeting talent development needs.
+Figure 1
+The workforce plans identified dozens of barriers to employment. Some barriers, like skills gaps,
+were common across regions and occupations. Other barriers were specific to a single region or sector,
+such as healthcare worker burnout.
+February 2025 | mass.gov/economicresearch Page 7
+
+This report focuses on four key barriers to employment. These barriers can be categorized as
+either skills barriers or geographic barriers. They were selected from the regional workforce plans for
+in-depth analysis because they were mentioned by multiple regions as being relevant across
+occupations, had quantitative data available for research, and were deemed priorities by Executive
+Office of Labor and Workforce Development policymakers. Table 1 shows which regions mentioned
+each of these barriers.
+Table 1: Barriers to employment identified by regional workforce development plans
+Skills Barriers Geographic Barriers
+Lack of Lack of
+Specialized Limited English
+Region Transportation Affordable
+Skills Gaps Proficiency
+to Work Housing
+Berkshire x x x
+Cape & Islands x x x x
+Central MA x x x
+Greater Boston x x x
+Northeast x x x x
+Pioneer Valley x x
+Southeast x x x
+Source: 2024 Workforce Skills Cabinet Regional blueprints (workforce development
+plans).
+February 2025 | mass.gov/economicresearch Page 8
+
+Assessing the Impact of Skills Gaps
+Skills gaps occur when there is a mismatch between the skills that employers need and the skills
+that workers posses. Two barriers mentioned in the regional workforce plans fall into this category –
+gaps in specialized skills required by a particular job, and limited English proficiency that poses a barrier
+to getting almost any job.
+This section examines the impact of skills gaps on regional labor markets, focusing on four key areas:
+• How rapidly changing employer demand contributes to skills gaps.
+• How mismatches between postsecondary programs and employers’ needs contribute to skills gaps.
+• The characteristics of foreign-born workers with limited English proficiency.
+• How limited English proficiency affects labor market outcomes compared to English proficiency.
+Gaps in Specialized Skills
+For most jobs, employers want specific expertise that takes time and training to acquire. This
+expertise is typically described as a set of specialized skills tied to particular occupations. For example,
+“medical imaging” is a specialized skill associated with Radiologists, while “classroom management” is
+a specialized skill of Elementary Teachers. Local leaders across all regions identified specialized skills
+gaps in their workforce plans. Employers across various industries, including healthcare,
+manufacturing, IT, and the trades, report difficulties finding qualified workers with the necessary skills.
+Skills gaps can arise from several key sources, creating challenges for both employers and job seekers:
+• Rapid Skill Change within Occupations: The specific skills required for many jobs are not static.
+Skills demanded by employers within occupations can change rapidly, often driven by technological
+advancements, evolving industry practices, and unforeseen events. This rapid evolution makes it
+difficult for workers to keep their skills current, leading to skills gaps if they cannot adapt quickly
+enough. For example, a software developer who was proficient in older programming languages
+may find their skills less in demand as newer languages and frameworks become dominant. This
+challenge is amplified for older workers or those in regions with limited access to retraining
+opportunities.
+• Misalignment of Education and Training Programs with Labor Market Needs: Even when skills
+within occupations are relatively stable, education and training programs may not always align with
+February 2025 | mass.gov/economicresearch Page 9
+
+the skills needed for in-demand jobs. This can occur for various reasons, including slow updates to
+curricula, a focus on general knowledge over specialized skills, or programs that are not tailored to
+the specific needs of the regional economy. As a result, graduates may struggle to find jobs that
+match their skills, while employers may find it difficult to recruit workers with the right skills to fill
+openings. This misalignment is further complicated by the fact that individuals may train in regions
+different from where job opportunities are concentrated. Some regions benefit from attracting
+skilled workers trained elsewhere, reducing the impact of misalignment, while other regions may
+face increased costs of misalignment if they are unable to retain skilled workers that are trained
+locally.
+• Shifts in Demand Across Sectors and Occupations: Beyond changes within specific jobs, the overall
+composition of the economy can shift, leading to shifts in demand across sectors and
+occupations. As some industries grow and others decline, or as new industries emerge, the demand
+for specific skills in a region can change significantly. This sectoral shift can create a mismatch
+between the skills present in the labor force and the evolving regional demand. For example, a
+region heavily reliant on manufacturing may experience skills gaps if that sector declines and the
+workforce lacks the skills needed for growth sectors like technology or healthcare in that same
+area. This dynamic underscores the importance of adaptable training systems and regional
+economic diversification to mitigate skills gaps arising from broader economic changes.
+This section examines rapid changes in employer skill requirements within occupations and the
+alignment of postsecondary education with employer demand to determine where skills gaps may
+occur. Although shifts in demand across sectors and occupations represent another critical source of
+skills mismatch, directly measuring this economy-wide mismatch in skills relative to regional demand is
+challenging due to limitations in available data on individual workers’ skills. This broader sectoral shift
+and its regional implications remain a crucial dimension of skills gaps and present an important
+opportunity for future research to explore in more detail.
+Rapid Changes in Skill Requirements within Occupations
+Skill change within an occupation is normal in a dynamic economy. For example, the skills
+required of a surgeon in the 1950’s were quite different than those required in 2024. When this change
+is slow and occurs over generations, there is time for younger waves of workers to get the right
+training. However, when there is a sudden shift in technology, policy, or the environment—such as the
+rapid growth of the internet, increased focus on clean energy, or a global pandemic—the skills
+demanded by employers for a particular occupation may change rapidly. Some researchers refer to this
+February 2025 | mass.gov/economicresearch Page 10
+
+as “skill disruption”, which refers to the need for workers to learn new skills when their job shifts. If
+workers cannot keep up with the new skills demanded in their occupation, or if education and training
+programs are behind on teaching these new skills, skill gaps may emerge. In this way, rapid change in
+employer demand can create barriers to employment.
+However, the impact of this sort of rapid change on workers in Massachusetts is unclear.
+Research from the Burning Glass Institute and the Boston Consulting Group found that 37% of the top
+20 skills needed for the average U.S. job were replaced between 2016 and 2021 (Sigelman et al., 2022).
+Although this is not a dominant theme in the workforce development plans, some Workforce Skills
+Cabinet regions discuss how technological change has driven demand for new skills. For instance, the
+Northeast’s plan mentions that Artificial Intelligence is likely to require workers to acquire new skills to
+stay competitive. Meanwhile, Central MA’s plan notes that many older workers lack the skills to
+continue working in industries such as advanced manufacturing, where computer numerical control
+(CNC) machining is becoming standard. It also mentions challenges employers face in sourcing skills for
+emerging fields like robotics and biotechnology.
+To identify regions and occupations where skills gaps may exist, job posting data is used to
+quantify change in employer demand in recent years for each occupation in a region. Lightcast, a
+company that scrapes job boards and corporate websites to create a near universe of job postings, tags
+all skills mentioned in each posting according to its robust skill library. A measure of skill change is
+created by comparing the skills requested by postings over time. Following Deming and Noray (2020),
+this involves obtaining the list of skills mentioned for an occupation in each year, calculating the
+absolute value of the difference in demand for each skill between 2016 and 2023, and summing up
+over all the skills.
+For example, Table 2 shows how demand for two skills among Software Developers in the
+Northeast region has changed between 2016 and 2023. It compares the percentage of job postings
+that listed a particular skill in 2016 to the percentage that listed the same skill in 2023. The last column
+displays the percentage point change, which represents how demand for that skill has changed over
+the last seven years. Python has gained importance – the share of software developer job postings
+requiring Python in the Northeast region doubled between 2016 and 2023. Meanwhile, demand for
+knowledge of Java Platform Enterprise Edition has waned.
+This calculation is applied across all skills and occupations in a region. The percentage point
+differences are summed across all skills in an occupation to get an overall skill change score.
+February 2025 | mass.gov/economicresearch Page 11
+
+Table 2: Example of changes in skill requirements for software developers in the Northeast region
+Percentage of Job Percentage of Job
+Percentage Point
+Skill Postings with Skill Postings with Skill
+Change
+in 2016 in 2023
+Python
+programming 13% 26% 13%
+language
+Java Platform
+6% 1% 5%
+Enterprise Edition
+Source: Lightcast.
+Looking statewide, STEM occupations have experienced the most change in skills demanded
+since 2016. The occupations with the most substantial changes include Electro-Mechanical and
+Mechatronics Technologists and Technicians, Avionics Technicians, and Chemical Plant and System
+Operators. Biomedical Engineers and Computer and Information Research Scientists, Pharmacy Aides,
+and Business Operations Specialists also experienced notable shifts. This finding aligns with Deming
+and Noray’s 2019 nationwide analysis, indicating that these STEM fields are rapidly evolving. In
+contrast, the skills that employers require of Bartenders, Waiters and Waitresses, Dishwashers, and
+Heavy and Tractor-Trailer Truck Drivers have not changed very much in the past seven years.
+To assess how rapid skill change has impacted regional labor markets, the percentage of job
+postings in each region that are for occupations experiencing rapid skill change is calculated. An
+occupation is defined as undergoing rapid skill change in a specific region if its skill change score is
+above the 75th percentile statewide. This approach accounts for the regional variation in skills
+demanded since 2016. See Appendix Section B for examples of this variation, as well as for a list of
+occupations that establish the statewide cutoff for rapid skill change.
+Figure 2 shows the percentage of job postings in each region that are for occupations
+experiencing rapid skill change. It also lists the top three demanded occupations where the skills
+demanded have changed rapidly.
+February 2025 | mass.gov/economicresearch Page 12
+
+Figure 2
+The figure shows that, across all regions, a relatively small fraction of job postings is for
+occupations that have experienced rapid skill change, although the degree varies across regions. Only
+6.9% of job postings in the Cape & Islands are in occupations with rapid skill change, compared to
+13.8% in Central MA. This implies that skills gaps resulting from “skills disruption” of an occupation are
+not likely a widespread problem for the Massachusetts labor force. This is good news, as it means that
+most workers are likely able to keep up with the change in skills demanded by employers in their
+occupations.
+However, there are some occupations where skills gaps may exist, particularly in certain
+regions. For example, job postings for Medical Assistants in Central MA have shifted from requiring
+mainly administrative skills to requiring more medical skills. In 2016, 43% of job postings listed “setting
+appointments” as a required skill. This shrunk to 15% in 2023. On the other hand, 35% of 2023 job
+postings required candidates to be able to do “throat cultures”, compared to 18% in 2016. This change
+may have led to barriers for workers who have not developed these skills. Similarly, Software
+Developers and workers in Miscellaneous Computer Occupations (who hold job titles such as Systems
+Engineer and IT Project Manager) may struggle to keep up with the rapidly changing requirements of
+these technology jobs.
+February 2025 | mass.gov/economicresearch Page 13
+
+In summary, this analysis has shown that while rapid changes in employer demand have
+occurred across all regions, the overall impact is relatively limited. In most regions, 1-in-10 job postings
+or fewer are for occupations experiencing rapid skill change. This suggests that widespread “skill
+disruption” is not a major problem in Massachusetts, and that most workers are likely to keep up with
+evolving skills demands. Yet this does not mean that the regional workforce development plans are
+overstating barriers caused by gaps in specialized skills. There could be other dynamics at play that
+result in skills gaps throughout Massachusetts.
+Misalignment of Postsecondary Education with Employer Demand
+Skills gaps could emerge if postsecondary graduates concentrate in programs that do not
+provide skills or credentials for in-demand occupations. Even if the skills required for those jobs have
+remained the same for decades, employers may struggle to find qualified workers. Meanwhile, new
+graduates may have a hard time getting a job. This mismatch is referred to as occupational
+misalignment.
+Workers in regions with high occupational misalignment may face barriers to employment.
+Many new graduates may be forced to leave the area to find work, since there is not enough regional
+demand for their skills. For instance, if a region’s massage therapy schools produce more massage
+therapists than are needed in that region, some graduates will need to move to another region to work
+in that occupation. High occupational misalignment can also be a symptom of insufficient training
+capacity for in-demand occupations in the region. For example, the regional workforce plans suggest
+that there are not enough academic and training programs for Clean Energy occupations in the
+Berkshire region, nor for Advanced Manufacturing, Healthcare, and Professional, Scientific, and
+Technical Services occupations in the Northeast region. This means that residents of these regions
+wishing to work in these occupations need to temporarily live elsewhere to get training, posing a
+substantial financial and logistical hurdle. Given these barriers, regional employers in these sectors
+must attract workers outside their region to fill roles.
+To identify the regions and occupations most affected by occupational misalignment, the
+projected demand for workers is compared to supply of recent postsecondary graduates in each
+Workforce Skills Cabinet region. The analysis uses the following methodology:
+• Demand: Average annual openings based on ten-year employment projections in each region
+are used to estimate demand.
+February 2025 | mass.gov/economicresearch Page 14
+
+• Educational Requirements: Recent job postings data is used to estimate the share of openings
+that require postsecondary training.
+• Supply: The supply of potential workers is estimated by mapping all 2023 postsecondary
+graduates of programs in the region to their most likely occupations.
+The result is an annual estimate of postsecondary graduates and openings for each occupation
+in a region. For more information on the methodology, see Appendix Section C. Note that only
+graduates of accredited postsecondary programs are included due to lack of data from non-credit-
+bearing programs such as technical bootcamps, industry certifications, and workforce development
+programs. Trade and vocational schools are generally excluded, unless they offer programs that
+provide postsecondary credit, such as a practical nursing program.
+This data is used to compare the projected number of job openings that require postsecondary
+education in each region with the number of recent graduates from colleges, community colleges, and
+universities located in the region. When there is less than one graduate per job opening in a region,
+this indicates that a region has a shortage of postsecondary graduates relative to demand. On the
+other hand, a region with more than one graduate per opening has a surplus of graduates. Figure 3
+shows how the Workforce Skills Cabinet regions are doing according to this measure, as well as the
+estimated annual shortage or surplus of graduates.
+February 2025 | mass.gov/economicresearch Page 15
+
+Figure 3
+Figure 3 reveals that the Cape & Islands and Southeast regions are likely to experience the most
+severe shortages of postsecondary graduates. The Cape & Islands have 0.3 graduates per job opening,
+which means that there are over three job openings requiring a postsecondary degree for every
+postsecondary graduate in the region. The Southeast has 0.7 graduates per job opening, which
+corresponds to a large annual shortage of over 5,000 graduates. The five remaining regions have at
+least 0.9 graduates per job opening in the region, with the Pioneer Valley having a large surplus of
+graduates due to the presence of University of Massachusetts Amherst.
+Looking at total graduates on its own provides an incomplete picture. It could be that a region
+has one or more graduates per job opening, but most postsecondary graduates are concentrated in
+occupations with low regional demand. This dynamic could lead to a shortage of graduates in highly
+demanded occupations. To assess this mismatch, a measure of occupational misalignment is used. This
+measure compares the distributions of graduates and job openings to see how similar they are across
+occupations. For example, if a large share of graduates in region received a degree in fine arts, but job
+February 2025 | mass.gov/economicresearch Page 16
+
+openings for artists are only a small share of total demand, the region would have higher occupational
+misalignment. If, on the other hand, the distribution of graduates closely matches the distribution of
+job openings, the region would have lower occupational misalignment. This comparison is completed
+across occupations in a region and summed to calculate a total misalignment score. To simplify the
+interpretation of this measure, each region’s score is classified into a high, medium, or low level of
+misalignment relative to the other regions. See Appendix Section D for more information about the
+methodology.
+Table 3: Occupational misalignment in the Workforce Skills Cabinet regions
+Region Occupational Misalignment
+Berkshire High
+Cape & Islands High
+Pioneer Valley Medium
+Southeast Medium
+Central MA Medium
+Northeast Low
+Greater Boston Low
+Sources: Long Term Occupational Projections (2022-2032),
+Integrated Postsecondary Education Data (IPEDS), and Lightcast.
+Table 3 displays the level of occupational misalignment between postsecondary graduates and
+job openings in each Workforce Skills Cabinet region. The Berkshires and the Cape & Islands are the
+most misaligned regions in the state.
+Taken together, the results of these analyses point to three places where mismatch between
+postsecondary programs and job openings is likely to be most severe. Relative to other regions, this
+analysis shows that the Cape & Islands, Berkshire, and Southeast regions have the highest risk of
+significant skills gaps.
+Cape & Islands
+The Cape & Islands region faces a significant shortage of postsecondary graduates, with only 0.3
+graduates per job opening. In 2023, the region was estimated to have had approximately 2,500 annual
+openings requiring a postsecondary degree but only 750 graduates from local institutions. One
+contributing factor is that there are only two postsecondary institutions in the region—Cape Cod
+February 2025 | mass.gov/economicresearch Page 17
+
+Community College and Massachusetts Maritime Academy, a four-year university. By comparison, the
+Berkshire region, with less than half the population of the Cape & Islands, is home to four
+postsecondary institutions.
+Additionally, the region has a high level of occupational misalignment between the areas of
+study of graduates and the needs of employers. To see what is driving the misalignment, Table 4 shows
+a selection of occupations that have more graduates than needed (overproduced) and fewer graduates
+than needed (underproduced).
+Table 4: Overproduced and underproduced occupations in the Cape & Islands region
+Overproduced Occupations Underproduced Occupations
+Architectural and Engineering Managers Elementary School Teachers
+Aircraft Mechanics and Space Technicians Accountants and Auditors
+Captains, Mates, and Pilots of Water
+Registered Nurses
+Vessels
+Sources: Long Term Occupational Projections (2022-2032), Integrated Postsecondary
+Education Data (IPEDS), and Lightcast.
+As Table 4 shows, the Cape & Islands overproduces graduates with skills relevant to technical
+occupations such as Architectural and Engineering Managers, Aircraft Mechanics and Space
+Technicians, and Captains, Mates, and Pilots of Water Vessels. With limited local job opportunities in
+these fields, many graduates may need to relocate for work.
+A key driver of this occupational misalignment is that the region’s only four-year university,
+Massachusetts Maritime Academy, specializes in maritime related fields. Its mission is to train
+graduates for careers in the Merchant Marine or the military rather than for the local workforce. A
+similar dynamic exists with Cape Cod Community College’s Aviation Maintenance Technology Program,
+which trains highly skilled technicians for jobs that are typically located outside the region.
+Meanwhile, the Cape & Islands region underproduces graduates with the skills needed for
+occupations such as Elementary School Teachers and Accountants and Auditors. The lack of regional
+training programs for elementary education and accounting means that residents must either enter
+these fields with less specialized training or seek education elsewhere. The nearest four-year programs
+for these occupations are at Bridgewater State University, requiring a commute of over an hour.
+February 2025 | mass.gov/economicresearch Page 18
+
+Although nursing is the most popular program at Cape Cod Community College, it still does not
+produce enough Registered Nurses to meet local demand. Additionally, a factor contributing to the
+region’s high occupational misalignment is that 16% of Cape Cod Community College’s 2023 graduates
+earned degrees in General Studies or Liberal Arts and Sciences—programs that do not have direct
+career pathways.
+Overall, the data suggests that the Cape & Islands is at a higher risk of skills mismatch. The
+region’s overproduction of graduates in certain fields and underproduction in others, coupled with a
+large overall shortage of postsecondary graduates, indicates that the Cape & Islands must rely on
+workers moving to the region to meet demand. This includes Cape Cod natives who left the region for
+school and new residents from other parts of the state. Online professional profiles show that 94% of
+Cape & Islands workers with a postsecondary degree attended school outside the region (Lightcast).
+Yet given the high cost of housing, continuing to attract workers may be a challenge (see geographic
+barriers section for more details). Better alignment between education and employer needs could help
+retain residents and alleviate this barrier.
+Southeast
+The Southeast also has a large shortage of postsecondary graduates. In 2023, postsecondary
+institutions in the region produced over 5,000 fewer graduates than projected postsecondary
+openings. This shortage reflects the low postsecondary educational attainment rate in the region. Just
+39% of adults in Bristol County have an associate’s degree or higher compared to 54% statewide, the
+lowest rate of any county in the Commonwealth (American Community Survey 2022 5-year data).
+Given that the Southeast region is second to only Greater Boston in terms of population, this is
+important to state-level outcomes. To understand which occupations are most affected, Table 5
+displays occupations that are overproduced and underproduced relative to demand in the region.
+February 2025 | mass.gov/economicresearch Page 19
+
+Table 5: Overproduced and underproduced occupations in the Southeast region
+Overproduced Occupations Underproduced Occupations
+Secondary School Teachers Accounting and Auditing Clerks
+Registered Nurses Sales Representatives
+Natural Sciences Managers Accountants and Auditors
+Clinical and Counseling Psychologists Elementary School Teachers
+Supervisors of Police and Detectives Financial Managers
+Skincare Specialists Human Resources Specialists
+Sources: Long Term Occupational Projections (2022-2032), Integrated Postsecondary
+Education Data (IPEDS), and Lightcast.
+Table 5 illustrates that many graduates in the Southeast region concentrate in programs such as
+English, Biology, and Psychology that have broad career applications. These disciplines align most
+closely with occupations such as Secondary School Teachers, Natural Sciences Managers, and Clinical
+and Counseling Psychologists, which have relatively few openings in the region. Meanwhile, the
+oversupply of Supervisors of Police and Detectives is largely driven by the popularity of Criminal Justice
+programs, despite the fact that police officers typically do not require a college degree. Notably, the
+data shows that institutions in the Southeast produced more Registered Nurses in 2023 than the
+region’s annual job openings. This implies that many nurses trained in the region ultimately find
+employment elsewhere, particularly Greater Boston and the Cape & Islands.
+Except for Elementary School Teachers, the top six under-produced occupations are all business
+related. The shortage of Accounting and Auditing Clerks, Accountants and Auditors, and Financial
+Managers points to a deficit in accounting and finance skills in the region. Future research could
+investigate whether there is insufficient training capacity for these occupations, or if the region’s
+relevant programs are under-enrolled. Regardless of the cause, the data strongly suggests that
+employers in the Southeast region need to recruit workers from outside the area to fill these critical
+roles.
+Berkshire
+The Berkshire region presents a unique case when it comes to analyzing skills gaps. On the
+surface, postsecondary institutions in the Berkshires supply about the same number of graduates as
+employers demand overall, but the number of graduates per job openings metric is misleading on its
+own. The region’s high level of occupational misalignment suggests that there are likely significant gaps
+February 2025 | mass.gov/economicresearch Page 20
+
+in the specialized skills demanded by employers. To illustrate this, Table 6 presents some of the most
+overproduced and underproduced occupations in the Berkshires.
+Table 6: Overproduced and underproduced occupations in the Berkshire region
+Overproduced Occupations Underproduced Occupations
+Secondary School Teachers Registered Nurses
+Natural Sciences Managers Accountants and Auditors
+Data Scientists Market Research Analysts
+Licensed Practical and Vocational Nurses Medical and Health Services Managers
+Clinical and Counseling Psychologists Elementary Teachers
+Sources: Long Term Occupational Projections (2022-2032), Integrated Postsecondary
+Education Data (IPEDS), and Lightcast.
+Similar to the the Southeast and the Cape & Islands, the Berkshire region overproduces
+graduates aligned with career paths in discipline-based occupations and underproduces those aligned
+with career paths in medical and business occupations. This means that, relative to projected openings
+in the Berkshires, there is a shortage of Registered Nurse graduates and a surplus of graduates aligned
+with career paths such as Secondary School Teachers, Natural Sciences Managers, Data Scientists, and
+Clinical and Counseling Psychologists. What makes the postsecondary landscape in the Berkshires more
+challenging to analyze is that unlike the Cape & Islands and the Southeast, institutions in the Berkshires
+tend to educate out-of-state students. For example, Williams College is the largest institution in the
+region, and historically about 16% of its graduates stay in Massachusetts after graduating (based on
+online profiles data scraped by Lightcast). Thus, Williams College is likely not focused on the needs of
+regional employers, as its primary mission is not to train students for the local workforce.
+This contributes to higher occupational misalignment in the Berkshires. It also means that
+Figure 3 does not tell the full story about the availability of workers in the region, since many of these
+graduates from regional schools leave the state. Rather than a slight surplus of postsecondary
+graduates in the region, there is likely a shortage of postsecondary graduates to meet local demand.
+Since Berkshire Community College is the only option in the region for Berkshire residents to
+get training for medical and business skills, residents likely face significant barriers to acquiring the
+skills needed for in-demand jobs in the region. This highlights the challenge faced by employers in the
+Berkshires, who must compete with employers in other regions to attract qualified workers.
+February 2025 | mass.gov/economicresearch Page 21
+
+Conclusion
+In summary, the data indicates that gaps in specialized skills are likely a barrier to employment
+in particular Workforce Skills Cabinet regions and occupations. One driver of specialized skill gaps is
+“skill disruption” within rapidly changing occupations such as Medical Assistants in Central MA, as well
+as within various Computer and Mathematical occupations across the state. While this has not affected
+a wide swath of the workforce, it does affect key occupations to the Massachusetts economy. In
+particular, workers in the technology industry impacted by recent layoffs could find it even harder to
+find a job since their skills may not be aligned with current demand.
+Meanwhile, misalignment between postsecondary institutions and employer demand is likely
+driving significant skills gaps for many workers in the Southeast, Cape & Islands, and Berkshires. These
+regions are not producing enough graduates from their postsecondary institutions to satisfy local
+demand for workers with postsecondary skills, which means employers must recruit workers who
+completed training outside their region. In addition, individuals that get a postsecondary education
+frequently graduate with liberal arts degrees and may find it difficult to find a suitable job nearby with
+only broad, foundational skills. Together, these two factors are likely driving shortages of workers with
+in-demand specialized medical and business skills. This mismatch could explain why employers in the
+regional workforce plans report difficulties finding workers, while workers say they are struggling to
+find jobs (Hudzik & Frenier, 2024).
+The next section examines another type of skills gap – gaps in English language skills. Those
+with limited English proficiency (LEP) are likely to struggle with communication in the workplace, which
+means that they are less attractive to employers even if they have the right specialized skills. This is a
+barrier for most job seekers to securing a job and achieving positive labor market outcomes.
+Limited English Proficiency
+While the previous section focused on mismatches in specialized skills, limited English
+proficiency (LEP) is another significant barrier to employment for foreign-born workers in the labor
+force. Regional workforce plans in the Central MA, Southeast, and Northeast regions highlight the
+challenges immigrant workers face accessing quality jobs due to LEP. The Central MA plan, for instance,
+emphasizes the need to expand training opportunities for these workers.
+February 2025 | mass.gov/economicresearch Page 22
+
+English for Speakers of Other Languages (ESOL) programs are the primary way of addressing LEP
+as a barrier to employment. However, funding for ESOL programs has not kept up with the growth of
+the LEP population. A 2024 MassINC study reported that although the Massachusetts population with
+limited English proficiency grew by 50% over the last two decades, state funding per LEP resident fell
+by 25% and federal funding has fallen by 40%. This decline in funding has resulted in longer waitlists for
+ESOL programs and reduced access to language training for those who need it most. In addition, there
+are regional disparities in ESOL training. In most Gateway cities, the waitlist for ESOL training exceeds
+the number of available seats (Massachusetts Needs an Actionable Strategy to Expand ESOL Services,
+2024).
+Given the high demand and limited resources for ESOL programs, this section uses data to
+identify opportunities to target resources that address this critical skill gap. It examines data on LEP
+immigrants, including their length of time in the U.S., region of residence, occupations, and labor
+market outcomes, such as underemployment.
+The Working Age Population with Limited English Proficiency
+Massachusetts is home to approximately 1 million working age (16-64) foreign-born
+individuals.1 Of this population, an estimated 40%, or about 400,000 people, are estimated to have LEP
+based on self-reported English-speaking ability.2 Figure 4 provides a breakdown of this LEP population
+by length of time in the U.S., showing the percentage of working-age foreign-born LEP individuals who
+have lived in the country less than 4 years, 4 to 10 years, and more than 10 years.
+1 This population is much less likely than native-born individuals to have grown up speaking English at home, so they are the
+focus of this section.
+2 An individual is considered English proficient if they report speaking English only or “very well”. Any other answer to this
+question, which includes “not at all”, “not well”, or “well” means the individual is considered to have LEP.
+February 2025 | mass.gov/economicresearch Page 23
+
+Figure 4
+In 2023, “new arrivals”—those who have been in the U.S. for fewer than 4 years— represented
+20% of the LEP population, those who have been in the U.S. 4-10 years represented roughly 25% of the
+LEP population, and those who have been in the U.S. for more than 10 years represented more than
+55% of the LEP population. While this data is from 2023 and may not fully reflect the most recent wave
+of immigration, even with this influx, new arrivals still likely comprise a minority of the foreign-born
+LEP population in Massachusetts.
+Although the long-term population was three times as numerous as new arrivals in 2023, they
+may not benefit as much from ESOL training as new arrivals. Those who have been in the U.S. for more
+than 10 years tend to be older and may have already found employment and adapted to life in
+Massachusetts without full English proficiency. In contrast, more than 70% of new arrivals are under
+the age of 39. They earn substantially less than the long-term population, even after controlling for
+differences in age, occupation, and education. In addition, they are more likely to be successful at
+learning English. Research has shown that the most significant growth potential in English language
+acquisition occurs within the first few years of immigration (Espenshade & Fu, 1997).
+Thus, while new arrivals represent a minority of the LEP working age population, they may
+benefit the most from targeted training and support. Based on this definition, in 2023, there were
+February 2025 | mass.gov/economicresearch Page 24
+
+approximately 80,000 working age people in the new arrival cohort, and it is likely even larger today
+given the recent wave of immigration.
+Understanding where the foreign-born LEP working age population lives is crucial for effectively
+targeting ESOL resources and support services. Table 7 shows how the total LEP working age
+population is distributed across the Workforce Skills Cabinet regions of Massachusetts as of 2023, as
+well as how the new arrival population is distributed (those who have been in the U.S. for fewer than 4
+years).
+Table 7: Foreign-born population with limited English proficiency (LEP) by region
+Total Foreign-Born New Arrivals
+Share of Share of
+Total LEP per New
+Region Total New
+Population 1,000 Arrivals
+Population Arrivals
+Greater
+179,621 44.3% 72 37,117 45.6%
+Boston
+Northeast 78,010 19.2% 71 11,865 14.6%
+Southeast 72,940 18.0% 51 15,531 19.1%
+Central
+46,040 11.4% 52 10,929 13.4%
+MA
+Pioneer
+18,940 4.7% 27 3,522 4.3%
+Valley
+Cape &
+6,707 1.7% 25
+Islands
+996 1.2%
+Berkshire 3,182 0.8% 25
+Total 405,441 100.0% 56 81,427 100.0%
+Source: American Community Survey 2023 (1yr) PUMS. New arrivals are defined as
+foreign-born individuals with limited English proficiency who have lived in the U.S. for less
+than 4 years. Limited English proficiency (LEP) per 1,000 defined as the number of foreign
+born with limited English proficiency per 1,000 total residents in the region.
+February 2025 | mass.gov/economicresearch Page 25
+
+The distribution of the foreign-born LEP population reflects the population distribution across
+Massachusetts generally, with most living in Greater Boston, the Northeast, and the Southeast.
+Notably, Greater Boston and the Northeast have comparable rates of concentration of LEP immigrants
+compared to their regional populations (LEP per 1,000). This implies that these regions are in similar
+positions when it comes to absorbing and integrating these individuals. The distribution of new arrivals
+with LEP mirrors the pattern of the broader LEP group, except that those outside of Greater Boston are
+slightly more likely to be drawn to the Southeast or Central MA as opposed to the Northeast.
+Workers with Limited English Proficiency in the Labor Force
+To understand the types of jobs held by foreign-born LEP workers, it is helpful to examine their
+distribution across industries and occupations. Figure 5 shows the industries in which foreign-born LEP
+workers are commonly employed and the share employed in each industry. The data reveals that the
+most common industries for this population to work in are Health Care and Social Assistance and
+Accommodation and Food Services, followed by Construction and Manufacturing. Compared to the
+overall Massachusetts workforce, foreign-born LEP workers are overrepresented in Accommodation
+and Food Services, Construction, and Manufacturing. Indeed, they are twice as likely to work in
+Accommodation and Food Services or Construction as the average Massachusetts worker.
+February 2025 | mass.gov/economicresearch Page 26
+
+Figure 5
+Figure 6 shows the occupations in which foreign-born LEP workers are commonly employed
+and the share employed in each occupation. Half of foreign-born LEP individuals hold jobs in Building
+and Grounds Cleaning, Food Preparation and Serving, Transportation and Material Moving,
+Construction and Extraction, and Production. Foreign-born LEP workers are more likely to be employed
+in these industries than the average Massachusetts worker. The most common roles include maids and
+housekeeping cleaners, cooks, waitstaff, and food preparation workers. Foreign-born LEP individuals
+also work as nursing assistants and personal/home health care aides, but these are less common
+occupations than the ones in Figure 6.
+February 2025 | mass.gov/economicresearch Page 27
+
+Figure 6
+To understand the extent to which limited English proficiency impacts earnings and
+opportunities, the next section compares the labor market outcomes of the foreign-born LEP workers
+with those of the 600,000 foreign-born workers in Massachusetts who are proficient in English.
+Labor Market Outcomes
+Foreign-born workers with LEP experience significantly worse labor market outcomes
+compared to their English-proficient counterparts. Figure 7 illustrates these disparities across four key
+measures: unemployment rate, labor force participation rate, median annual earnings, and poverty
+rate. Foreign-born LEP workers have higher unemployment rates, lower labor force participation rates,
+significantly lower median earnings, and much higher poverty rates. They earn nearly half the annual
+income and are almost twice as likely to be in poverty.
+February 2025 | mass.gov/economicresearch Page 28
+
+Figure 7
+However, attributing this disparity solely to limited English proficiency may be inaccurate, as
+other factors, such as education level, could also play a significant role. Indeed, 50% of proficient
+foreign-born workers hold bachelor’s degrees, compared with only 15% of the limited English foreign-
+born workers. This difference in educational attainment suggests that the observed disparities may be
+partly due to overall skill and education level. To better isolate the impact of English proficiency, it is
+necessary to control for education level. The following two graphs in Figure 8 examine labor market
+outcomes by English proficiency status for those who have a bachelor’s degree separately from those
+who do not. By comparing individuals with similar educational backgrounds, the impact of limited
+English proficiency on labor market outcomes can be more accurately assessed.
+February 2025 | mass.gov/economicresearch Page 29
+
+Figure 8
+English proficiency has a significant impact on labor market outcomes for foreign-born
+individuals in Massachusetts, regardless of their educational attainment. Foreign-born LEP individuals
+of working age have higher unemployment rates, lower labor force participation rates, earn less, and
+are more likely to be in poverty than those who are proficient in English across both levels of
+February 2025 | mass.gov/economicresearch Page 30
+
+education. This demonstrates that limited English proficiency is a significant barrier to employment,
+even controlling for education.
+However, the discrepancies are more pronounced for those who are more educated. The
+median LEP worker with a bachelor’s degree earns $50,000 annually, nearly half of the $92,000 that
+the median English proficient worker earns with a bachelor’s degree. In comparison, the median
+earnings of LEP workers without a bachelor’s degree are much closer to the earnings of comparable
+proficient workers ($31,000 vs. $39,000). This result suggests that LEP limits the earnings potential of
+higher-skilled workers, preventing them from fully leveraging their education in the labor market. This
+is consistent with data presented in the MassINC report which found that among bachelor’s degree
+holders, those who spoke English “Very Well” earn approximately $30,000 more per year than those
+who speak English “Well”, further highlighting the economic benefits of strong English proficiency for
+highly educated immigrants (Massachusetts Needs an Actionable Strategy to Expand ESOL Services,
+2024).
+The significant earnings gap among highly educated workers likely stems from
+underemployment, which occurs when individuals with a bachelor’s degree work in jobs that do not
+typically require that level of education. One explanation is that LEP prevents workers from securing
+jobs that fully utilize their specialized skills, forcing them to accept lower-skilled and lower-paying
+positions. To investigate this further, Figure 9 compares the rate of underemployment among foreign-
+born LEP workers with a bachelor’s degree to the rate among their English proficient counterparts.
+February 2025 | mass.gov/economicresearch Page 31
+
+Figure 9
+Underemployment is more than twice as common among foreign-born LEP workers than
+among comparable English proficient workers, as 48% of LEP workers are underemployed compared to
+22% of English proficient workers. These college-educated LEP workers commonly work as Accounting
+and Auditing Clerks, Childcare Workers, and Office Clerks.
+This substantial difference in underemployment demonstrates that limited English proficiency is
+a major barrier to employment for this population, preventing them from securing jobs that leverage
+their specialized skills. Since they already have higher-level skills, English proficiency is likely a
+significant barrier holding them back from higher-paying roles.
+In 2023, there were an estimated 30,000 underemployed foreign-born LEP workers with a
+bachelor’s degree for whom ESOL programs would be likely to have a significant impact. Since LEP
+workers with a bachelor’s degree already have higher-level skills, improved English proficiency could be
+the key to unlocking their full earnings potential. However, the ability of these workers to utilize their
+higher education in the labor market may depend on the region in which they live.
+February 2025 | mass.gov/economicresearch Page 32
+
+For example, Greater Boston, which is home to the largest number of foreign-born workers
+with a bachelor’s degree, has the lowest rate of underemployment for this group at 42%. This is
+significantly lower than in other regions. For example, in the Northeast region, the rate of
+underemployment for LEP workers with bachelor’s degrees is 61%, and in the Berkshires, it reaches
+94%. This suggests that there are more jobs in Boston that can utilize high-skilled foreign-born workers
+even if they are LEP. In addition, the sheer size of Greater Boston’s economy may offer more
+opportunities in general. Outside of Boston, LEP underemployment rates tend to be much higher.
+These trends suggest that strategies aimed at reducing barriers for LEP workers with a bachelor’s
+degree might need to be tailored to the specific regional context. Simply improving English proficiency
+may not be enough to overcome the challenges faced by LEP workers in regions with less diversified
+economies or fewer jobs requiring a bachelor’s degree. A more comprehensive approach that
+considers regional variations in industry mix, employer attitudes, and support networks is likely needed
+to effectively address underemployment among this population.
+LEP as a Barrier to Employment
+In summary, the data strongly suggests that limited English proficiency (LEP) is a barrier to
+employment for foreign-born workers. Those who have gaps in their English skills have significantly
+worse labor market outcomes than those who are proficient in English. Especially given the recent
+influx of immigrants to Massachusetts, addressing this barrier is necessary to alleviating skills gaps and
+allowing this group to thrive in the workforce.
+The results of the analysis in this section suggest that targeting ESOL resources to new arrivals
+(those who have arrived in the U.S. in the past 4 years) and underemployed individuals (those with
+bachelor’s degrees working in jobs that that do not typically require that level of education) could have
+the biggest impact on job outcomes. While other segments of the LEP population would likely still
+benefit from ESOL programs, limited English proficiency appears to pose the biggest barrier to
+employment for these two groups.
+Addressing this barrier across Massachusetts will require working with regional partners, given
+that the regions face different economic landscapes. For instance, underemployment is less common
+for bachelor’s-educated LEP workers in Greater Boston than it is in other Workforce Skills Cabinet
+regions, likely because there are more opportunities for these workers to use their specialized skills.
+One way to help LEP workers in regions with fewer opportunities is to support initiatives that cultivate
+English skills in the context of in-demand jobs. As an example, the Cape & Islands Workforce Board has
+helped create a healthcare-specific ESOL program at Cape Cod Community College, which gives LEP
+February 2025 | mass.gov/economicresearch Page 33
+
+individuals on the Cape the skills necessary for employment in the healthcare sector. These kinds of
+programs may be effective in addressing gaps in both specialized and English skills across the regions.
+The Implications of Skills Barriers
+This analysis has highlighted the potential for significant barriers to employment from skills
+gaps—situations where workers lack the skills that employers seek, making it difficult to secure their
+desired job. Two types of skills gaps have been considered—gaps in specialized skills and gaps in
+English language proficiency. The findings indicate that the impact of these gaps varies based on
+factors such as occupation, region, and education level.
+Key findings in this section include:
+• Limited Impact of Rapid Skill Change: While rapid changes in skills demanded within
+occupations do create challenges, the data suggests that this “skills disruption” is not
+widespread. However, Software Developers and workers in other Computer and Mathematical
+occupations may struggle to keep up with the change in skills demanded by employers.
+• Postsecondary Program Misalignment: In the Cape & Islands, Southeast, and Berkshires, a
+mismatch exists between the areas of study of local postsecondary graduates and the in-
+demand jobs in the region. This misalignment is due to several factors, including:
+o Program Discrepancies: There is high demand for workers with medical, business, and
+teaching skills, while local graduates tend to major in general studies or liberal arts.
+o Specialized Program Scarcity: Some specialized programs are not feasible to offer, forcing
+residents from smaller and more rural regions to relocate for training, presenting a
+potential barrier.
+o Limited Access: Residents of the Cape & Islands and the Berkshires, in particular, have
+limited access to postsecondary institutions that serve the local population.
+• English Proficiency as a Barrier: Limited English proficiency significantly hinders employment
+prospects for foreign-born workers. Those with LEP are more likely to be unemployed, earn
+lower wages, and live in poverty than their English proficient counterparts. Notably, the lack of
+English skills is particularly detrimental for those with a bachelor’s degree. The data suggests
+that ESOL programs should be prioritized for two groups with limited English proficiency:
+o New arrivals: Individuals who have been in the U.S. for less than 4 years (estimated at
+80,000 in 2023, and likely higher in 2024).
+o Underemployed college graduates: Individuals with bachelor’s degrees working in jobs that
+don’t utilize those skills (estimated at 30,000 in 2023).
+February 2025 | mass.gov/economicresearch Page 34
+
+Addressing these skills gaps requires region-specific strategies. Potential approaches include
+expanding ESOL access in conjunction with in-demand specialized skills for a particular region,
+encouraging postsecondary educators to update curricula in areas with high misalignment, or working
+with industry partners to reskill incumbent workers in occupations with rapidly changing skill
+requirements. Without these interventions, workers facing these skills gaps will likely continue to
+experience low labor market outcomes. Continued monitoring and research should be conducted to
+support the development of effective strategies in each region.
+February 2025 | mass.gov/economicresearch Page 35
+
+Geographic Barriers to Employment
+Geographic barriers to employment pose a significant challenge to Massachusetts’ economic
+vitality, creating disparities in access to opportunity and hindering the ability of businesses to thrive.
+Unlike skills barriers, which can primarily be addressed through training and education, geographic
+barriers stem from the spatial mismatch between where job seekers live and where jobs are located.
+This “spatial mismatch” often results in long commutes and higher housing costs near jobs, creating
+obstacles for workers, particularly in certain regions and occupations. For instance, the Southeast
+workforce development plan mentions that limited transportation options prevent job seekers from
+accessing employment and training opportunities. Meanwhile, the Greater Boston plan acknowledges
+that the high cost of housing and difficult commutes make it challenging to recruit workers from other
+areas, especially out of state. This section examines these geographic barriers across the
+Commonwealth, using data on transportation and housing costs to identify areas of concern. The
+following sections analyze:
+• Regional variations in commute times
+• The role of personal vehicles in transportation
+• Occupational differences in commuting patterns
+• The relationship between high unemployment and long commutes
+• The impact of housing cost burden
+• A combined index of housing and transportation burden to identify the most vulnerable
+populations
+Commute Times and Transportation Challenges
+For many workers in Massachusetts, long and difficult commutes are a significant barrier to
+employment. Particularly in regions with limited transportation options, the time and cost of traveling
+to and from work can limit job opportunities, reduce overall earnings, and negatively impact work-life
+balance. Examining both commute times and transportation modes across the state reveals distinct
+geographic disparities that affect workforce accessibility.
+Regional Variations in Commute Times
+As shown in Figure 10, average commute times vary considerably across the state, presenting
+distinct challenges for the workforce in different Workforce Skills Cabinet regions.
+February 2025 | mass.gov/economicresearch Page 36
+
+Figure 10
+The bars in Figure 10 represent the average one-way commute in minutes for workers in the
+seven Workforce Skills Cabinet regions. For example, workers in the Southeast Region face an average
+commute of nearly 35 minutes each way, while those in the Berkshire region have a shorter average
+commute of under 25 minutes.
+The Greater Boston Metropolitan, Central, and Northeast Regions experience average
+commute times that are close to the statewide overage of 30 minutes each way. While not as extreme
+as the Southeast, these commutes still represent a considerable portion of a worker’s day.
+It is important to acknowledge that these regional averages do not capture the full picture.
+There may be significant variation within specific communities or for certain occupations, as will be
+explored in later sections. Nevertheless, the data underscores a key point: regional disparities in
+average commute times reveal areas where workers may face greater challenges in accessing and
+maintaining employment. These disparities contribute to geographic barriers to employment by
+limiting the range of jobs that workers can reasonably access. Long commutes are generally associated
+with increased transportation costs, reduced time available for personal activities, and potential
+negative impacts on work-life balance.
+February 2025 | mass.gov/economicresearch Page 37
+
+The Dominance of Personal Vehicles and Its Implications
+In addition to long commute times, the overwhelming reliance on personal vehicles as the
+primary mode of transportation to work in Massachusetts contributes to geographic barriers to
+employment. As illustrated in Figure 11, this trend can create a significant barrier for individuals
+without access to a car.
+Figure 11
+Figure 11 shows the percentage of workers in the region using various means of transportation
+to get to work, including driving, public transportation, walking, biking, and other options. Each bar
+represents a specific region, and the segments show the proportion of workers using each mode of
+transportation.
+The data reveals that a large majority of workers in most regions rely on personal vehicles for
+their commute. In the Berkshire, Cape & Islands, Central, Northeast, Pioneer Valley, and Southeast
+regions, more than 90% of workers drive to work. This high level of dependence on cars suggests that
+individuals without access to a vehicle in these areas face a significant disadvantage in the labor
+market.
+February 2025 | mass.gov/economicresearch Page 38
+
+Greater Boston stands as a notable exception to this trend. While still high, the reliance on
+personal vehicles in this region is around two-thirds of workers, considerably lower than other parts of
+the state. This difference likely reflects the greater availability of public transportation options within
+the Greater Boston area, including the MBTA subway, bus, and commuter rail systems. These options
+provide a viable alternative for workers who may not own a car or prefer not to drive in congested
+urban areas.
+However, the high reliance on personal vehicles outside of Greater Boston highlights a critical
+challenge: limited access to reliable and affordable transportation restricts employment opportunities,
+particularly for lower-income individuals who may not be able to afford car ownership or the
+associated costs of fuel, maintenance, and insurance. For individuals without a car, the available jobs
+may be limited to those within a restricted geographic area, potentially excluding them from better-
+paying or more suitable positions located further away.
+Commute Times by Occupation
+While regional variations in commute times provide a broad overview of the challenges faced by
+workers in Massachusetts, a closer look at commute times by occupation reveals further disparities
+and specific hurdles faced by certain types of workers. As shown in Figure 12, average commute times
+vary considerably depending on the nature of the job, with some occupations experiencing significantly
+longer commutes than others.
+February 2025 | mass.gov/economicresearch Page 39
+
+Figure 12
+Figure 12 displays the average one-way commute time in minutes for selected occupations
+across the different Workforce Skills Cabinet regions. The color intensity of each cell indicates the
+average commute time for that occupation in that region, with red representing longer commutes.
+As the data shows, Construction and Extraction workers have the longest average commutes
+across regions, with average travel times exceeding 40 minutes in some areas. This is particularly
+pronounced in the Central and Southeast regions, where these workers face average commutes of 43
+and 41 minutes, respectively. The nature of construction work, which often requires workers to travel
+February 2025 | mass.gov/economicresearch Page 40
+
+to different project sites, likely contributes to these extended commutes. This creates a specific type of
+geographic barrier for construction workers, as their job locations are often not fixed and may be far
+from where they can afford to live. It also means that workers without access to a car or public transit
+that reaches job sites may not be able to work in construction. Interviews conducted by the UMass
+Donahue Institute in partnership with the Greater Brockton Workforce Board align with the finding
+that transportation is a barrier to employment in the construction and trades sector in the Southeast
+region (Bernstein et al., 2023). Thus, transportation difficulties can make it challenging to attract and
+retain construction workers, potentially exacerbating labor shortages in the sector across the state.
+The data also reveals that certain workers in jobs typically concentrated in urban areas, such as
+Computer and Mathematical occupations, as well as Architecture and Engineering, also experience
+longer average commutes. This pattern is especially evident in the Central, Southeast, and Northeast
+regions. While these workers may have a higher tolerance for longer commutes due to factors like
+higher salaries or a preference for living in areas with certain amenities, the length of their commutes
+may also reflect housing affordability issues near major job centers. The high cost of housing in many
+urban areas may force these workers to live further away from their jobs, leading to longer commutes.
+In contrast, occupations requiring on-site presence, such as those in Healthcare Support,
+Personal Care and Service, and Food Preparation, tend to have shorter average commutes. However,
+this does not necessarily mean that these workers face no commuting challenges. While the average
+commute for on-site occupations may be shorter, workers in these fields can still face challenges if
+they live in areas with a low density of job opportunities. For example, a nursing assistant living in a
+rural area with few healthcare facilities may have to travel much further to reach the nearest available
+job than a nursing assistant living in a city with many hospitals and clinics. For these workers, the
+commute to the nearest available job may be significantly longer than the regional average for their
+occupation, posing a barrier to employment. The data suggests that geographic proximity to
+employment is critical for these on-site jobs.
+These occupational differences in commute times highlight the complex interplay between
+occupation, job location, and transportation. The challenges faced by construction workers underscore
+the need to consider the geographic distribution of projects and the availability of workers in those
+areas. Mismatches between site locations and workers within a close commuting distance could pose a
+barrier to meeting the demand for construction workers. Addressing this issue may require strategies
+such as coordinating place-based workforce development programs with planned construction
+projects. For high-skilled workers, longer commutes may point to a need for more affordable housing
+options closer to urban centers or further investment in transportation infrastructure to reduce travel
+February 2025 | mass.gov/economicresearch Page 41
+
+times. Finally, for occupations requiring on-site presence, ensuring affordable housing is available
+within a reasonable commuting distance is crucial.
+Areas with High Unemployment and Transportation Challenges
+The relationship between unemployment rates and commute times further illuminates
+geographic barriers to employment in Massachusetts. Examining specific areas reveals a concerning
+pattern: two distinct types of communities face unique transportation-related challenges that likely
+contribute to barriers to employment.
+In areas like Mattapan and Roxbury in Boston, Quincy, and Brockton, higher unemployment
+rates are coupled with longer average commute times, as illustrated in Figure 13.
+Figure 13
+These areas are within or near Greater Boston, suggesting that residents should theoretically
+have access to a large and diverse job market, yet the unemployment rates significantly exceed the
+statewide rate in these areas. However, despite their proximity to job centers, workers in these
+communities face commutes that are either excessively long, burdensome, or unreliable because of
+inadequate public transportation. For example, in 2023, Mattapan and Roxbury had an average
+February 2025 | mass.gov/economicresearch Page 42
+
+unemployment rate of 9.2% and an average commute time of 34 minutes, while Quincy had an
+average unemployment rate of 7.5% and an average commute time of 39 minutes. This “spatial
+mismatch” between residential locations and job opportunities, even within a major metropolitan
+area, creates a significant barrier to employment.
+A second group of areas exhibits a different but equally concerning trend: high unemployment
+coupled with short average commutes. As shown in Figure 14, these areas include parts of the
+Berkshires, Springfield, Lowell, Worcester, and New Bedford.
+Figure 14
+These communities are generally located further from the Greater Boston job center, making
+daily commutes to Greater Boston less feasible for most workers. The relatively short average
+commute times in these areas likely indicate that residents are primarily working within their local
+areas. However, the high unemployment rates suggest a lack of sufficient job opportunities within
+these communities. For unemployed workers in these areas, the combination of limited local job
+options and inadequate transportation options to access larger job markets can create barriers to
+employment. This dynamic reflects how a lack of transportation options may create a barrier to
+employment for workers in regions that are distant from large job centers.
+February 2025 | mass.gov/economicresearch Page 43
+
+These patterns reflect a combination of factors:
+• Limited Local Job Opportunities: A lack of diverse industries and job openings within these
+communities forces residents to either seek work further away or face unemployment.
+• Inadequate Transportation Infrastructure: Inefficient or insufficient public transportation
+options make it difficult, time-consuming, or expensive for residents to access jobs outside their
+immediate area.
+• Housing Cost Barriers: The concentration of jobs in high-cost areas may prevent residents of
+higher-unemployment areas from affording housing closer to job centers.
+The data reveals that when suitable jobs are not available locally, and when transportation
+options to access jobs in other areas are limited or burdensome, residents of high-unemployment
+areas face a significant disadvantage in the labor market. Whether it is areas within or near Greater
+Boston with long commutes or areas further afield with limited job options and shorter commutes, this
+spatial mismatch can trap individuals in a cycle of unemployment, hindering economic mobility and
+potentially exacerbating existing social and economic inequalities.
+Housing Burden Across Regions and
+Occupations
+Housing costs represent a substantial barrier to employment in Massachusetts, particularly for
+workers who are “housing burdened,” meaning they spend 30% or more of their income on housing.
+This financial strain can significantly limit their ability to access and maintain employment, creating
+disparities across both regions and occupations. High housing costs can force workers to live further
+from their jobs, increasing commute times and transportation costs, or to live in areas with fewer job
+opportunities. This creates a geographic barrier to employment, as where a worker can afford to live
+can dictate their job prospects.
+Regional Variations in Housing Burden
+Figure 15 shows the percentage of workers in each Workforce Skills Cabinet region who spend
+30% or more of their income on housing.
+February 2025 | mass.gov/economicresearch Page 44
+
+Figure 15
+As the data shows, the share of housing-burdened workers varies considerably across regions.
+The Cape & Islands region faces the most significant challenge, with 28% of its workforce classified as
+housing burdened. This high percentage likely reflects the region’s high tourism demand and limited
+housing availability, which drive up housing costs. In contrast, Berkshire has the lowest rate at 18%,
+suggesting a more affordable housing market in that region.
+Occupational Disparities in Housing Burden
+Figure 16 displays the percentage of workers in selected occupations across different
+Workforce Skills Cabinet regions who spend 30% or more of their income on housing. The color of each
+cell indicates the share of housing-burdened workers for that occupation in that region, with red colors
+representing higher percentages.
+February 2025 | mass.gov/economicresearch Page 45
+
+Figure 16
+Figure 16 reveals significant disparities in housing burden across different occupations. Lower-
+wage workers in occupations requiring on-site presence, such as Building Cleaning and Maintenance,
+Personal Care, and Food Preparation, experience the highest rates of housing burden. For example, in
+Greater Boston, more than 50% of Building Cleaning and Maintenance workers are housing burdened,
+compared to just over 20% in Berkshire County. Moreover, 40% of Food Preparation workers in
+Greater Boston are housing burdened, compared to 13% of Computer and Mathematical workers.
+Similar disparities are observed in other regions. This stark contrast likely reflects the lower wages paid
+in these occupations relative to regional housing costs. Workers in these essential roles often struggle
+February 2025 | mass.gov/economicresearch Page 46
+
+to afford housing within a reasonable commute of their workplaces, particularly in regions with high
+housing costs. In contrast, workers in higher-paying occupations like Computer and Mathematical,
+Legal, and Management experience significantly lower housing burden rates. The higher incomes
+associated with these occupations provide greater flexibility in housing choices and a greater ability to
+absorb housing costs.
+This disparity in housing burden across both regions and occupations contributes to a mismatch
+between job openings and available workers, particularly for on-site jobs that require workers to live
+within a reasonable commuting distance. This mismatch represents a geographic barrier to
+employment, as workers’ housing options, dictated by affordability, limit their ability to access certain
+jobs. Workers struggling with high housing costs may have limited ability to relocate for work, even if
+job opportunities are available in other regions. They may also be forced to accept lower-paying
+positions closer to home to minimize transportation costs or may be unable to afford the upfront costs
+associated with moving, such as security deposits and first month’s rent.
+The high housing burden among lower-wage, on-site workers creates a significant challenge for
+employers, making it difficult to attract and retain talent in these essential occupations, particularly in
+regions with high housing costs. This, in turn, can negatively impact businesses and the overall
+economy.
+Housing burden represents a critical barrier to employment in Massachusetts, affecting workers
+across different regions and occupations, but with a disproportionate impact on lower-wage workers in
+on-site jobs. Recognizing the unique challenges faced by workers in different occupations and regions
+is crucial for developing targeted interventions that can effectively address housing-related barriers to
+employment and ensure a stable and diverse workforce across Massachusetts.
+Combined Housing and Transportation Burden:
+Identifying Workforce Pressure Points
+To gain a more comprehensive understanding of the geographic barriers to employment in
+Massachusetts, it is essential to consider the combined impact of housing and transportation burdens.
+By analyzing these two factors together, we can identify specific occupational groups and regions
+facing the most significant challenges. Figure 17 presents a combined index of housing and
+transportation burden, where higher scores indicate a greater overall burden.
+February 2025 | mass.gov/economicresearch Page 47
+
+Figure 17
+Figure 17 displays the combined housing and transportation burden index scores for selected
+occupations across different Workforce Skills Cabinet regions. The color intensity of each cell indicates
+the combined burden score for that occupation in that region, with red colors representing higher
+scores and thus a greater burden.
+The index reveals that Construction and Extraction workers experience a particularly high
+combined burden across multiple regions. This finding is consistent with earlier sections that
+highlighted the long commutes and high housing burden faced by workers in this industry. The double
+February 2025 | mass.gov/economicresearch Page 48
+
+burden of lengthy travel times and high housing costs can create significant barriers to attracting and
+retaining construction workers, potentially contributing to labor shortages in this critical sector.
+Similarly, Building Cleaning and Maintenance and Healthcare Support occupations also exhibit
+elevated combined burden scores across multiple regions. These essential workers, who often earn
+lower wages, are disproportionately affected by the high costs of both housing and transportation. The
+combined burden can make it difficult for individuals in these occupations to find and maintain stable
+employment, potentially leading to high turnover rates and challenges for employers seeking to fill
+these vital roles. This data further demonstrates how the combined effect of housing and
+transportation costs contribute to geographic barriers to employment, particularly for lower-wage
+workers in essential on-site occupations.
+The Implications of Geographic Barriers
+This analysis has highlighted the potential for significant geographic barriers to employment,
+driven by the combined effects of long commutes and high housing costs. The data underscores that
+these challenges are not uniformly distributed across the state but rather vary considerably by region
+and occupation. Key findings in this section include:
+• Long Commutes and Car Dependence: Long commute times, especially in the Southeast region
+and for construction workers statewide, create significant burdens. The overwhelming reliance
+on personal vehicles across most of the state exacerbates these challenges, particularly for
+those without access to a car.
+• Housing Burden: High housing costs, especially in the Cape & Islands and for lower-wage, on-
+site workers in various regions, limit workers’ ability to live near jobs or relocate for job
+opportunities.
+• Combined Burden: The combined index of the housing and transportation burden reveals that
+workers in occupations such as Construction and Extraction, Building Cleaning and
+Maintenance, and Healthcare Support face particularly severe challenges, often experiencing
+both long commutes and high housing costs.
+These findings show the critical impact of geographic factors on access to employment,
+particularly for lower-wage workers. This analysis serves as an important step in identifying these
+geographic disparities, which is essential to work towards a more inclusive and accessible labor market
+in Massachusetts.
+State policies in Massachusetts are actively working to address the geographic barriers to
+employment highlighted in the report, as evidenced by both the 2024 Affordable Homes Act and the
+February 2025 | mass.gov/economicresearch Page 49
+
+Massachusetts Department of Transportation’s 2024 “Beyond Mobility” transportation plan. The $800
+million allocated to the Affordable Housing Trust Fund, coupled with the $425 million for the Housing
+Stabilization and Investment Trust Fund, aims to catalyze the creation of new affordable units,
+potentially reducing the spatial mismatch between housing and employment opportunities.
+Furthermore, the Act promotes the creation of housing near transit nodes, conversion of commercial
+properties to residential use, and more than $426 million in funding for local housing initiatives. The
+“Beyond Mobility” plan complements these efforts by outlining a comprehensive strategy that
+integrates investments in housing, transit, and multimodal infrastructure to create a more equitable
+and accessible transportation system. By prioritizing equity, focusing on Environmental Justice
+communities, and incorporating data-driven decision-making, both the Affordable Homes Act and the
+“Beyond Mobility” plan focus on reducing disparities in access to opportunity and improving the
+overall quality of life for all Massachusetts residents. These coordinated state policies represent critical
+steps toward mitigating the geographic barriers to employment by increasing the availability of
+affordable housing, improving transit reliability and connectivity, and promoting sustainable and
+equitable development.
+February 2025 | mass.gov/economicresearch Page 50
+
+Conclusion
+This report fulfills the requirements outlined by the FY25 General Appropriation Act by
+analyzing four key barriers to employment in Massachusetts identified in the 2024 Workforce Skills
+Cabinet regional workforce development plans: two types of skills barriers (specialized skill gaps and
+limited English proficiency) and two types of geographic barriers (long commute times and high
+housing costs). The analysis reveals that certain regions and occupations are disproportionately
+affected. Workers in the Cape & Islands, Southeast, and Berkshire regions, along with workers across
+the state in Computer and Mathematical occupations, face a higher risk of gaps in specialized skills. For
+foreign-born individuals, limited English proficiency is associated with poor labor market outcomes,
+particularly for recent immigrants (those in the U.S. for less than four years) and college graduates who
+are underemployed. Geographically, workers in the Southeast region have the longest average
+commute times, while those in the Cape & Islands region are most likely to be burdened by high
+housing costs. These burdens are especially acute for lower-wage, on-site workers in occupations such
+as Construction and Extraction, Building Cleaning and Maintenance, and Healthcare Support.
+Several key takeaways emerge. First, barriers to employment affect workers across the earnings
+and education spectrum. While lower-wage workers are more vulnerable to high housing costs and
+transportation challenges, skills gaps impact both higher- and lower- wage workers. Second, the
+Southeast and the Cape & Islands face a confluence of both skills and geographic barriers, making it
+difficult for employers to fill jobs with local workers and to attract talent from elsewhere. Third,
+foreign-born workers with limited English proficiency encounter multiple barriers. Not only do they
+face a critical skills barrier that negatively impacts labor market outcomes, but they also have a higher
+likelihood of working in occupations with significant geographic barriers.
+Addressing these barriers is crucial for maintaining a robust workforce and ensuring equitable
+economic opportunities in Massachusetts, especially given the state’s aging population and projected
+slow population growth. The challenges faced by foreign-born workers and residents of the Southeast
+region are particularly concerning, as these groups represent significant segments of the workforce
+and often reside in Gateway cities.
+Ideally, this report should serve as a catalyst for a broader initiative to further understand and
+address barriers to employment. While the findings highlight important relationships, further research
+is needed to establish causality and to explore other significant barriers, such as the high cost of
+childcare. Future projects should also evaluate the effectiveness of existing programs in addressing
+these barriers and identify gaps in service provision (see Section A of the Appendix for a list of
+February 2025 | mass.gov/economicresearch Page 51
+
+programs). As new policies and programs are developed and implemented, ongoing monitoring and
+evaluation will be essential to guide policy and maximize impact.
+February 2025 | mass.gov/economicresearch Page 52
+
+References
+Bernstein, C., Alexander, A., Kane-Lee, E. S., & Melnik, M. (2023). Construction-related trades and union
+occupations in the greater brockton region. UMass Donahue Institute’s Economic & Public
+Policy Research Group. https://donahue.umass.edu/our-publications/construction-related-
+trades-and-union-occupations-in-the-greater-brockton-region
+Deming, D. J., & Noray, K. (2020). Earnings dynamics, changing job skills, and STEM careers. The
+Quarterly Journal of Economics, 135(4), 1965–2005.
+Espenshade, T. J., & Fu, H. (1997). An analysis of english-language proficiency among US immigrants.
+American Sociological Review, 288–305.
+Hudzik, S., & Frenier, A. (2024). ’It’s really pretty dehumanizing’: Jobseekers discuss search process,
+online portals, discrimination. New England Public Media. https://www.nepm.org/regional-
+news/2024-05-17/its-really-pretty-dehumanizing-jobseekers-discuss-search-process-online-
+portals-discrimination
+Massachusetts needs an actionable strategy to expand ESOL services. (2024). MassINC.
+https://massinc.org/research/massachusetts-needs-an-actionable-strategy-to-expand-esol-
+services/
+Rembert, M., Jan, D., Katsnelson, L., & Flynn, H. (2024). Annual economic analysis report:
+Massachusetts workforce and labor area review program year 2023. Massachusetts
+Department of Economic Research. https://www.mass.gov/doc/2023-annual-economic-
+analysis-report/download
+Sigelman, M., Taska, B., O’Kane, L., Nitschke, J., Strack, R., Baier, J., Breitling, F., & Kotsis, Á. (2022).
+Shifting skills, moving targets, and remaking the workforce. Boston Consulting Group; Emsi
+Burning Glass. https://www.bcg.com/publications/2022/shifting-skills-moving-targets-
+remaking-workforce
+February 2025 | mass.gov/economicresearch Page 53
+
+Appendix
+A. List of Programs Mapping to Each Barrier
+The following is a non-exhaustive list of programs that address the four barriers discussed in
+this report. Most of these were taken from the 2024-2028 Workforce Innovation and Opportunity Act
+(WIOA) State Plan.
+Programs that Address Gaps in Specialized Skills
+• MassHire Career Centers Career Technical Initiative (CTI)
+• Workforce Training Fund Program (WTFP)
+• Adult and Community Learning Services (ACLS)
+• Workforce Competitiveness Trust Fund (WCTF)
+• Workforce Skills Fund
+• MassReconnect / MassEducate
+• Competitive Integrated Employment Services (CIES) by MassAbility
+Programs that Address Limited English Proficiency
+• ESOL classes via Adult and Community Learning Services (ACLS)
+• ESOL classes via Employment Supports Services Program by the Office for Refugees and
+Immigrants (ORI)
+• English Acquisition programs via SNAP
+Programs that Address Lack of Transportation to Work
+• Transportation subsidies via TAFDC
+• Transportation subsidies via SNAP
+• Path to Work program
+• Flexible funds via Secure Jobs Program
+• MBTA Reduced Fare Program Transition Access Pass Program
+• “Wheels to Work” program via Good News Garage & MassAbility
+Programs that Address Lack of Affordable Housing
+• Secure Jobs Program by DTA & Executive Office of Housing and Livable Communities (EOHLC)
+• Public Housing Program by EOHLC
+• Rental Assistance Program by EOHLC
+February 2025 | mass.gov/economicresearch Page 54
+
+• Down payment assistance programs by MassHousing
+• One Mortgage Program by Massachusetts Housing Partnership
+B. Rapid Skill Change Occupations
+Examples of Occupations with Variation in Rapid Skill Change among Regions
+Regions where Regions where Regions with fewer
+Occupation rapid skill change rapid skill change than 35 postings for
+has occurred has not occurred this occupation
+Southeast
+Financial and Investment Greater Boston Berkshire
+Central MA
+Analysts Northeast Cape & Islands
+Pioneer Valley
+Berkshire
+Cape & Islands
+Northeast
+Medical Assistants Greater Boston
+Central MA
+Southeast
+Pioneer Valley
+Southeast
+Architectural and Pioneer Valley Berkshire
+Greater Boston
+Engineering Managers Northeast Cape & Islands
+Central MA
+Berkshire
+Heating, Air Conditioning, Greater Boston
+and Refrigeration Central MA Southeast
+Mechanics and Installers Northeast
+Pioneer Valley
+Greater Boston
+Healthcare Social Pioneer Valley Central MA
+Workers Cape & Islands Northeast
+Southeast
+Northeast
+Precision Instrument and
+Southeast Berkshire
+Equipment Repairers, All Greater Boston
+Central MA Cape & Islands
+Other
+Pioneer Valley
+February 2025 | mass.gov/economicresearch Page 55
+
+Occupations Just Above/Below the 75th Percentile Cutoff that Defines Rapid Skill
+Change
+Just Below:
+• Grinding and Polishing Workers, Hand
+• Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and
+Finishers
+• Biological Scientists, All Other
+• Psychiatric Technicians
+• Electrical Power-Line Installers and Repairers
+Just Above:
+• Civil Engineers
+• Drafters, All Other
+• Survey Researchers
+• Computer Systems Analysts
+• Credit Analysts
+C. Estimating Demand & Supply for
+Postsecondary Graduates
+Steps to Estimate Demand
+1. Annual job openings by occupation and region are taken from an unsuppressed version of Long
+Term Occupational Projections (2022-2032). A public version of this data can be found here.
+2. Data is extracted from job postings from November 2023 - October 2024 to estimate the
+percentage of annual openings that require postsecondary training per occupation and region.
+The minimum required education level is tagged by Lightcast when it is listed in the posting. Job
+postings tagged as requiring an “Associate’s”, “Bachelor’s”, “Master’s”, or “PhD or professional
+degree” are considered to require postsecondary training, while those tagged as requiring
+“High school or GED” are not. However, many job postings do not list education at all. Thus, the
+the Bureau of Labor Statistics’ “Typical Entry Level Education” classification is used to help
+determine if those postings are more likely to require postsecondary training (and do not list
+education because it is obvious), or not (and do not list because no formal education is
+required).
+February 2025 | mass.gov/economicresearch Page 56
+
+3. Multiplying projected total openings by the percentage of openings that require postsecondary
+training yields estimates of demand for postsecondary graduates for each occupation and
+region.
+Steps to Estimate Supply
+1. 2023 completions data from accredited programs of Massachusetts institutions is taken from
+the Integrated Postsecondary Education Data System (IPEDS). This covers all graduates earning
+associate’s, bachelor’s, master’s, and doctoral degrees, as well as postsecondary awards,
+certificates, and diplomas.
+2. A crosswalk published by the Bureau of Labor Statistics and the National Center for Education
+Statistics is used to establish which programs map to which occupations based on the skills they
+provide graduates.
+3. The relative share of state employment is used to allocate graduates of a program to the
+corresponding occupations from the crosswalk. For example, the table below shows how the
+210 graduates of Boston University’s Biomedical Engineering program are allocated to three
+different occupations.
+State Share of State Number of
+Occupation
+Employment Employment Graduates
+Architectural and
+7,040 62% 129
+Engineering Managers
+Bioengineers and
+2,920 25% 53
+Biomedical Engineers
+Engineering Teachers,
+1,530 13% 28
+Postsecondary
+4. Adding up all graduates that map to each occupation in a region yields estimates of the supply
+of postsecondary graduates.
+D. Measuring Occupational Misalignment
+To quantify occupational misalignment, a measure called the index of dissimilarity is used to compare
+the distribution of projected openings and completions over occupations. This measure is created for
+each region separately. The formula is as follows:
+𝑁
+1 𝑎 𝑏
+𝑖 𝑖
+𝐷 = ∑| − |
+2 𝐴 𝐵
+𝑖=1
+February 2025 | mass.gov/economicresearch Page 57
+
+Where 𝑎 is the number of annual projected openings in occupation 𝑖, 𝐴 is the total number of annual
+𝑖
+projected openings, 𝑏 is the number of completions at postsecondary institutions in 2023 mapped to
+𝑖
+occupation 𝑖, and 𝐵 is the total number of completions at postsecondary institutions in 2023.
+The resulting measure of misalignment, 𝐷, can range from 0 to 1. A score of 0 would mean that
+openings and completions are distributed evenly across occupations, while a score of 0.5 would mean
+that 50% of completions would need to exchange places with openings in other occupations to achieve
+an even distribution.
+Given that the mapping of completions to occupations is roughly estimated, this calculation results in a
+relatively high measure across all regions. To simplify, the resulting values are categorized as low,
+medium, or high relative to each other. Low occupational misalignment is between 0.46 to 0.5.
+Medium occupational misalignment is between 0.5 and 0.57. High occupational misalignment is
+greater than 0.7.
+February 2025 | mass.gov/economicresearch Page 58

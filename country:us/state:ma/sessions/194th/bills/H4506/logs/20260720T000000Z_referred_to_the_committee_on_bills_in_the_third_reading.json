@@ -10,12 +10,12 @@
     ],
     "related_entities": [
       {
-        "name": "committee on Bills in the Third Reading",
+        "name": "the committee on Bills in the Third Reading",
         "entity_type": "organization",
         "organization_id": null
       },
       {
-        "name": "the committee on Bills in the Third Reading",
+        "name": "committee on Bills in the Third Reading",
         "entity_type": "organization",
         "organization_id": null
       }

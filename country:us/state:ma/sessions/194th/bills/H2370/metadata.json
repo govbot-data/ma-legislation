@@ -129,18 +129,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:19Z"
       }
-    },
-    {
-      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5595",
-      "date": "2026-07-22",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T12:22:44Z"
-      }
     }
   ],
   "sponsorships": [
@@ -469,6 +457,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T12:22:44Z"
+    "logs_latest_update": "2026-07-23T12:26:52Z"
   }
 }

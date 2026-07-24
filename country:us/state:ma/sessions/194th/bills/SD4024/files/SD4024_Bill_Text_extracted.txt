@@ -1,0 +1,290 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MAURA T. HEALEY JASON SNYDER
+Governor Secretary/Commonwealth CIO
+KIMBERLEY DRISCOLL ERICA BRADSHAW
+Lieutenant Governor Deputy Secretary
+Clerk Steven James Clerk Michael Hurley
+Massachusetts House of Representatives Massachusetts Senate
+State House Room 145 State House Room 335
+Boston, MA 02133 Boston, MA 02133
+6/25/2026
+To the Clerks of the Senate and House of Representatives:
+Pursuant to Chapter 69 of the Acts of 2018, “An Act Relative to Criminal Justice Reform,” please find
+enclosed the annual report of the Justice Reinvestment Policy Oversight Board (JRPOB). The enclosed report
+details the progress made toward the goals of the JRPOB in Fiscal Year 2026. If you have any questions about this
+report, please do not hesitate to reach out to Christopher Smith at christopher.t.smith@mass.gov.
+Sincerely,
+Jason Snyder
+Secretary and Commonwealth Chief Information Officer
+Justice Reinvestment Policy Oversight Board
+Annual Report to the General Court
+June 2026
+
+Members of the Board
+Member Affiliation
+Secretary Jason Snyder, Chair Executive Office of Technology Services and Security
+Rontear Pendleton Office of the Attorney General
+Honorable Heidi Brieger Executive Office of the Trial Court
+Assistant General Counsel Arielle Executive Office of Public Safety and Security
+Mullaney Poncia
+Deputy Commissioner Michael Coelho Massachusetts Probation Service
+James Dixon Committee for Public Counsel Services
+Commissioner Shawn Jenkins Department of Correction
+District Attorney Timothy Cruz Massachusetts District Attorneys Association
+Sheriff Peter J. Koutoujian Massachusetts Sheriffs Association
+Senator Lydia Edwards Massachusetts State Senate
+Representative Michael Day Massachusetts House of Representatives
+Michael Molloy Massachusetts Bar Association
+Benjamin Forman American Civil Liberties Union of Massachusetts
+Vacancy (Appointed member vacated (appointed expert in addressing racial, ethnic,
+seat December, 2024) gender, or age bias)
+Hollie Matthews Department of Correction (appointed expert in data
+collection and analysis)
+Gina Papagiorgakis Executive Office of Public Safety and Security (appointed
+expert in data collection and analysis)
+Executive Summary
+The Justice Reinvestment Policy Oversight Board (“JRPOB” or “the Board”) submits this eighth annual
+report pursuant to M.G.L. c. 7D, § 11, which requires annual reporting on the Commonwealth’s progress toward
+implementing statewide criminal justice data collection, reporting, and public transparency standards.
+Over the course of Fiscal Year 2026, the Commonwealth continued to progress toward full compliance with the
+statutory requirements established by Chapter 69 of the Acts of 2018, “An Act Relative to Criminal Justice
+Reform.” The Executive Office of Public Safety and Security (“EOPSS”), in collaboration with the Trial Court,
+2
+
+Department of Correction (“DOC”), Massachusetts Sheriffs’ Offices, Probation Service, Parole Board, and other
+criminal justice stakeholders, further expanded and matured the Commonwealth’s Criminal Justice Cross-Tracking
+System (“Cross-Tracking”).
+Since the publication of the Board’s 2025 Annual Report, EOPSS completed several major milestones, including:
+1. Publication of additional Application Programming Interface (“API”) cohorts for Recidivism
+and Admissions and Releases;
+2. Expansion of the Risk and Needs Assessment dashboards and API to include participating Sheriffs’
+Offices;
+3. Publication of updated Recidivism, Programs, and Charges and Convictions data;
+4. Expansion of the API and publication of dashboards related to Primary Caretaker of a Child status
+and Reproductive Health Needs;
+5. Continued integration of statewide unique identification (“SID”) capabilities across agency
+systems;
+6. Establishment of enhanced data governance and validation processes; and
+7. Continued advancement of anonymized public datasets designed to protect individual privacy
+while improving public transparency and research capabilities.
+The Board further notes that the Cross-Tracking initiative has evolved beyond a statutory compliance effort into a
+sustainable statewide criminal justice analytics and governance platform. Increasingly, Cross-Tracking data is
+being used to support operational decision-making, research, inter-secretariat coordination, public transparency,
+and evaluation of criminal justice reforms and disparities. For example, Cross-Tracking data is currently being
+shared with the Executive Office of Education and is in production for the Executive Office of Health and Human
+Services to inform statutorily required programs for Commonwealth residents.
+During FY26, EOPSS also initiated a major modernization effort to migrate the Cross-Tracking platform from the
+Google Cloud Platform (“GCP”) environment to Amazon Web Services (“AWS”) and Snowflake infrastructure to
+support long-term sustainability, scalability, security, and advanced analytics capabilities.
+As of this report, the Board finds that, while not fully compliant with the core statutory requirements of M.G.L. c.
+6A, § 18 ¾, the Commonwealth has achieved significant progress, with remaining operational work ongoing
+related primarily to statewide law enforcement integration, Electronic Application for Criminal Complaint
+(EACC) implementation, data validation, and onboarding processes for local agencies.
+At this time the Board recommends consideration of a transition from quarterly implementation-focused
+meetings toward a more limited long-term governance and monitoring structure. Such a transition may include:
+ Continuation of the statutorily required annual report process
+ Periodic rather than quarterly Board meetings
+ Ongoing monitoring of both law enforcement and prosecutor data integration, along with public
+transparency efforts
+ Continued oversight of privacy, anonymization, and data governance standards as the Cross-
+Tracking platform matures
+The Board remains supportive of the Commonwealth’s continued efforts to improve the integrity, consistency,
+transparency, and usefulness of criminal justice data and commends the participating agencies and stakeholders
+for the substantial progress achieved to date.
+1. Introduction
+3
+
+The Board was created in April 2018 with the enactment of Chapter 69 of the Acts of 2018, “An Act Relative to
+Criminal Justice Reform.” The Board is chaired by the Secretary of the Executive Office of Technology Services and
+Security (“EOTSS”) and is comprised of representatives from criminal justice agencies, the Trial Court, the
+Legislature, advocacy organizations, and subject matter experts.
+Pursuant to M.G.L. c. 7D, § 11, the Board is charged with monitoring the development and implementation of
+justice reinvestment policies relative to the collection, standardization, and public availability of criminal justice
+data.
+The statute requires the Board to annually review compliance by criminal justice agencies and the Trial Court with
+requirements related to:
+1. Collection and submission of cross-agency criminal justice data using a unique statewide
+identification number;
+2. Public availability of anonymized data through an application programming interface (“API”);
+3. Establishment of recidivism reporting standards; and
+4. Standardization of race and ethnicity reporting methodologies.
+This report represents the Board’s eighth annual report and summarizes the Commonwealth’s progress toward
+statutory compliance during Fiscal Year 2026.
+The Board convened quarterly during FY26 and continued to monitor the implementation and operational
+maturation of the Commonwealth’s Criminal Justice Cross-Tracking System (“Cross-Tracking” or “CJ360”). During
+this fiscal year, the Commonwealth continued significant progress toward full operationalization of the Cross-
+Tracking platform, expanded public-facing dashboards and APIs, improved data governance structures, and
+enhanced statewide data standardization efforts.
+2. Cross-Tracking Data Collection System
+FY26 Progress and System Expansion
+During FY26, EOPSS and partner agencies continued expansion and operational maturation of the
+Commonwealth’s Cross-Tracking platform.
+The Cross-Tracking initiative is designed to improve the criminal justice system by enhancing the integrity,
+accuracy, consistency, and transparency of criminal justice information while supporting data-driven policy and
+operational decision-making across the Commonwealth.
+Since FY25, EOPSS has completed several major operational milestones, including:
+ Publication of the Admissions and Releases and Recidivism API cohorts
+ Expansion of Risk and Needs Assessment dashboards and API to include participating Sheriffs’
+Offices
+ Publication of updated Programs, Recidivism, and Charges and Convictions data
+ Expansion of the API and publication of dashboards related to Primary Caretaker of a Child status
+and Reproductive Health Needs
+ Continued integration of statewide unique identification capabilities across partner agencies
+The Commonwealth also continued transitioning Cross-Tracking from an implementation project into a
+sustainable long-term governance and analytics platform.
+Infrastructure Modernization
+4
+
+During FY26, EOPSS initiated a major modernization effort to migrate the Cross-Tracking platform from the
+Google Cloud Platform (“GCP”) environment to Amazon Web Services (“AWS”) and Snowflake infrastructure.
+Migration efforts include:
+ Cloud migration from GCP to AWS
+ Database migration from BigQuery to Snowflake
+ Transition of public dashboards from Looker Studio to Power BI
+ Transition of internal dashboards from Looker to Tableau
+This modernization effort is expected to improve scalability, security, sustainability, and advanced analytics
+capabilities.
+Updated Table 1: Adoption of the State Identification Number (SID): Milestones and Targets
+Milestone Expected Delivery Date Status
+DOC SID incorporation Complete Complete
+Sheriffs’ RMS SID incorporation Complete Complete
+MassCourts SID integration Complete Complete
+Spirit II SID integration March 2025 Complete
+LiveScan operational at all relevant
+Ongoing Ongoing
+LEAs
+EACC 2.0 implementation Ongoing Ongoing
+RMS interface with EACC complete Ongoing Ongoing
+LEA RMS SID integration Ongoing Ongoing
+LEA training and onboarding FY26 Ongoing
+3. Public Availability of Data
+During FY26, EOPSS continued substantial expansion of publicly available criminal justice dashboards and APIs.
+Public dashboards currently include:
+ State and County Correctional Populations (Including Primary Caretaker of a Child and
+Reproductive Health Needs)
+ Admissions and Releases
+ Recidivism
+ Programs
+ Charges and Convictions for Sentenced Offenders
+ Charges and Convictions for Pre-Trial Offenders
+ Risk and Needs Assessments
+ Application Programming Interface (“API”)
+Additionally, API functionality now supports public querying across multiple datasets, including custodial
+populations, recidivism, and admissions and releases. The Board further notes that EOPSS continues to prioritize
+data integrity and validation prior to publication. While certain dashboards refresh weekly, other datasets—
+including recidivism reporting—require extended validation periods to ensure accuracy and protection of
+individual privacy.
+5
+
+Updated Table 2: Public Data Reporting Milestones
+Milestone Status
+Public custodial dashboards Complete
+Admissions & Releases dashboards Complete
+Recidivism dashboards Complete
+Programs dashboards Complete
+Charges & Convictions dashboards Complete
+Risk & Needs dashboards Complete
+Primary Caretaker & Reproductive Health
+Complete
+dashboards
+API publication for custodial cohort Complete
+API publication for recidivism cohort Complete
+API publication for admissions/releases cohort Complete
+Final anonymized case level public datasets Ongoing
+State Police & LEA public access integration Ongoing
+4. Collection and Reporting Standards for Recidivism
+Paragraph (13) of M.G.L. c. 6A, § 18 ¾ requires the Secretary of Public Safety to establish data collection and
+reporting standards for criminal justice agencies and Trial Court relative to recidivism rates for re-arraignment,
+reconviction, and reincarceration with data tracked over one-, two-, and three-year periods. Recidivism rates
+must be tracked by race, ethnicity, gender, and age and reported annually to the Secretary of Public Safety.
+Recidivism reports for re-arraignment, re-conviction, and re-incarceration have been published on Mass.gov, the
+Commonwealth’s official website, since June 2023. As required, reports, in the form of interactive dashboards,
+track recidivism over one-, two-, and three-year periods, by key demographics: race, ethnicity, gender, and age,
+and use standard recidivism calculation and reporting protocols developed in an earlier phase of the Cross-
+Tracking effort. The dashboards are updated regularly to comply with the statute and the Application
+Programming Interface (API) has been expanded to include the Recidivism cohort.
+EOPSS has developed two recidivism models that are reflected in the dashboards. The first model, in line
+with 501 CMR 18.00 et. seq, tracks recidivism from the date the individual completes their full term of
+supervision, including any Parole or Probation supervision, while the second model tracks recidivism from the
+date an individual is released from their sentence with the DOC or Massachusetts Sheriffs’ Offices into the
+community, whether or not the individual continues to be under Parole or Probation supervision. The publicly
+available dashboards display data for both models from the DOC, Massachusetts Sheriffs’ Offices, Parole
+Board, Probation Service, and the Trial Court. EOPSS worked with its partner agencies to expand the data
+available in the platform to include demographic data from the DOC, Massachusetts Sheriffs’ Offices, Parole
+Board, Probation Service, as well as arraignment data from the Trial Court.
+Recidivism dashboards for re-arraignment, re-conviction, and re-incarceration continue to be publicly available
+on Mass.gov and were updated during FY26 with refreshed data and expanded API accessibility.
+During FY26:
+1. Updated 2023 recidivism data was published;
+6
+
+2. Recidivism data was incorporated into the API query platform; and
+3. Continued validation and refresh cycles were operationalized.
+These dashboards continue to track recidivism across one-, two-, and three-year periods by race, ethnicity,
+gender, and age in accordance with statutory requirements.
+5. Reporting Standards for Race and Ethnicity
+EOPSS and partner agencies continued implementation of standardized race and ethnicity reporting
+methodologies during FY26.
+Standardized demographic reporting is now incorporated across public-facing dashboards and agency data flows.
+Continued work during FY26 focused primarily on local law enforcement
+onboarding, LiveScan integration, Electronic Application for Criminal Complaint (EACC) implementation, and law
+enforcement training and best-practices dissemination. The Board notes that substantial progress has been made
+toward statewide standardization, although certain local law enforcement integration efforts remain ongoing.
+6. Data Governance and Future Direction
+The EOPSS’ Data Governance Council (“DGC”) continued meeting regularly during FY26 and serves as the principal
+operational governance structure for the Cross-Tracking platform. In addition, the establishment and maturity of
+the DGC represents the evolution of this initiative from a project to a program, with sustainable
+infrastructure, resources and governance.
+The DGC includes representatives and subject matter experts from participating agencies and supports data
+standardization, operational coordination, issue resolution, data validation, and implementation oversight.
+The Board further notes that Cross-Tracking is increasingly supporting broader inter-secretariat operational
+initiatives beyond the original statutory requirements, including:
+ Educational service coordination
+ Health service transition planning
+ Public safety analytics
+ Discussions related to veteran service coordination
+Additionally, EOPSS continued development of anonymized case level linked datasets designed to support public
+transparency and research while protecting individual privacy.
+7. Recommendations and Considerations of the Board
+Based on the progress achieved during FY26, the Board finds that the Commonwealth has achieved
+substantial compliance with the core statutory requirements of M.G.L. c. 6A, § 18 ¾, with remaining operational
+work ongoing related primarily to statewide law enforcement integration, Electronic Application for Criminal
+Complaint (EACC) implementation, data validation, and onboarding processes for local agencies.
+The Board commends EOPSS and participating agencies for the substantial progress achieved over the past eight
+years in establishing a statewide criminal justice data infrastructure capable of supporting transparency,
+operational coordination, policy analysis, and research.
+As implementation efforts transition toward long-term operational maintenance and governance, the Board
+recommends EOPSS continues to provide updates to the Board on the following:
+1. Remaining statewide law enforcement data integration efforts, including EACC implementation
+and local agency onboarding;
+2. Anonymization, privacy protections, and public data governance standards;
+7
+
+3. Annual publication and updating of dashboards and APIs;
+4. Monitoring of how Cross-Tracking data is utilized to inform policy development, operational
+planning, and evaluation of criminal justice reform initiatives; and
+5. Public usage and accessibility of dashboards and API tools.
+In addition, the Board acknowledges the progress made by the Massachusetts District Attorney’s
+Association (MDAA), with funding assistance from the EOTSS and the Legislature, to procure vendor
+support, in designing and implementing a new case management system. In light of this progress, the Board
+recommends the MDAA provide a status update on the procurement efforts to date and anticipated further
+action at the next meeting of the Board.
+The Board further recommends consideration of transitioning the JRPOB from an active implementation oversight
+body to a more limited, long-term monitoring and advisory role.
+Potential future governance considerations may include:
+ Shifting annual reporting requirements to EOPSS on the status of their program maturity;
+ Reduction in meeting frequency from quarterly meetings to annual (or as-needed) meetings;
+ Convening the Board only when substantial implementation or governance issues arise;
+ Utilizing the existing EOPSS’ Data Governance Council for routine operational oversight;
+ Periodically reassessing whether the Board’s statutory mission has been fully satisfied; and
+The Board remains supportive of the Commonwealth’s continued efforts to improve the integrity, consistency,
+transparency, and usefulness of criminal justice data and believes the Cross-Tracking initiative now provides a
+strong foundation for future criminal justice research, policymaking, and interagency coordination.
+8

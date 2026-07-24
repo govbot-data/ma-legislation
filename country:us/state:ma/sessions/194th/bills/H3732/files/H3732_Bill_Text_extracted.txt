@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE DOCKET, NO. 2371 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 3732
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Jay D. Livingstone
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to third party delivery data reporting.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Jay D. Livingstone 8th Suffolk 1/16/2025
+Russell E. Holmes 6th Suffolk 5/22/2025
+James B. Eldridge Middlesex and Worcester 6/11/2025
+1 of 1
+
+HOUSE DOCKET, NO. 2371 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 3732
+By Representative Livingstone of Boston, a petition (accompanied by bill, House, No. 3732) of
+Jay D. Livingstone relative to third party delivery data reporting. Transportation.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to third party delivery data reporting.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Section 1 of Mass General Laws Chapter 159B is amended by adding the
+2 following definitions:
+3 “Third Party Delivery Provider”, a delivery service on which a customer can view items
+4 for sale and place an online order for the delivery or same-day pick-up of food or eligible retail
+5 goods, operated by a party that does not own the food service establishment.
+6 “Third Party Delivery Driver”, any person contracted by a third party delivery provider,
+7 for compensation, to deliver goods over irregular routes, to and from various points within the
+8 commonwealth, not based upon a predetermined schedule, and from different establishments.
+9 “Third Party Delivery Identification Number” - a unique identification number assigned
+10 by the division to each third-party delivery driver that is physically located on the driver’s
+11 vehicle, in public view. The third party delivery identification number shall be used for the
+12 purposes of driver identification, data reporting and enforcement of fines on the third-party
+1 of 6
+
+13 delivery provider that the driver was completing at the time of the violation by municipal
+14 authorities and the division.
+15 “Delivery Order” - the process by which a customer places an order for food or other
+16 items through a service provider, which coordinates for the food or other items to be picked up
+17 from a restaurant or store by a third party delivery driver who delivers the order to the
+18 customer’s specified address.
+19 SECTION 2. Said chapter 159B is hereby further amended by adding the following
+20 section:-
+21 Section 13. (a) On the first day of each month, each third party delivery provider shall
+22 submit to the division, in a format approved by the division, data related to each delivery
+23 provided in the month prior to the previous month and shall include:
+24 (i) (A) the mode of transportation for each delivery order, including but not limited to,
+25 motorcycle, electric motorcycle, moped, electric moped, bicycle, electric bicycle, micro-
+26 mobility, or other internal combustion, battery-sourced electricity or a hybrid vehicle. If the
+27 delivery order is completed by a vehicle, they shall include whether the vehicle is propelled by
+28 internal combustion, battery-sourced electricity or a hybrid; (B) the latitude and longitude for the
+29 points of the delivery order origination and delivery order termination, calculated to 0.001
+30 decimal degrees; (C) the date and time of the origination and termination, calculated to the
+31 nearest minute; (D) the total cost paid by the buyer for the delivery order; (E) the total cost paid
+32 by the restaurant or retail establishment for the delivery order; (F) the third party delivery
+33 identification number (one per third party delivery driver to be used for all deliveries for all
+34 companies for which the driver makes deliveries (G) the third party delivery driver’s city or town
+2 of 6
+
+35 of residence as appearing on the driver’s license; (H) whether there were any driver or buyer-
+36 initiated cancellations; (I) the total time that the third party delivery driver spent on the way to
+37 pick up the delivery order by increments of 60 seconds; (J) the total time that the third party
+38 delivery driver spent stopped to pick up the delivery order by increments of 60 seconds; (K) the
+39 total time that the third party delivery driver spent driving to deliver the order by increments of
+40 60 seconds; (L) the total time that the third party delivery driver spent delivering the order by
+41 increments of 60 seconds;
+42 (ii) for all vehicles, including but not limited to, motorcycle, electric motorcycle, moped,
+43 electric moped, bicycle, electric bicycle, micro-mobility, or other internal combustion, battery-
+44 sourced electricity or a hybrid vehicle, third party delivery providers shall include (A) the vehicle
+45 license plate; (B) the vehicle make, model, year and, if available, trim; (C) the vehicle
+46 identification number; (D) the third party delivery identification number; (E) the total number of
+47 minutes and miles while the vehicle was driving to pick up third party delivery orders; (F) the
+48 total number of minutes parked while picking up third party delivery orders; (G) the total number
+49 of minutes and miles while the vehicle was engaged in third party deliveries; (H) the total
+50 number of minutes while parked delivering third party delivery orders; (I) the total number of
+51 minutes and miles while the vehicle was logged into the third party delivery provider’s digital
+52 network for purposes of accepting a delivery order; (J) the geographic position of the vehicle
+53 while logged into the third party delivery network, provided at intervals of not less than every 60
+54 seconds;
+55 (iv) for each accident or crash involving a third party delivery driver while logged into
+56 the third party delivery vehicle’s digital network: (A) the latitude and longitude of the location of
+3 of 6
+
+57 the accident or crash, calculated to 0.001 decimal degrees; (B) the date and time of the accident
+58 or crash, calculated to the nearest minute; and (C) the third party delivery identification number
+59 (b) The division shall obtain additional data from third party delivery providers for the
+60 purposes of congestion management, which may include, but shall not be limited to: (i) the total
+61 number of third party delivery drivers that utilized the third party delivery vehicle’s digital
+62 network within specified geographic areas and time periods as determined by the division; (ii)
+63 the total time spent and total miles driven by third party delivery drivers in such geographic
+64 areas or time periods as determined by the division: (A) while engaged in driving on the way to
+65 pick up a delivery order; (B) while picking up a delivery order from a restaurant or retail
+66 establishment; (C) while engaged in driving to deliver a delivery order; or (D) while delivering
+67 an order to the buyer.
+68 The division shall promulgate regulations relative to data collection pursuant to this
+69 subsection prior to obtaining the data.
+70 (c) Annually, not later than June 30, the division shall post on its website, in aggregate
+71 form, the total number of deliveries provided by all third party delivery providers that originated
+72 in each city or town, each city or town where the deliveries originating in each city or town
+73 terminated and the average miles and minutes of the deliveries that originated in each city or
+74 town and terminated in each other respective city or town.
+75 (d) For the purposes of congestion management, transportation planning, or emissions
+76 tracking, the division may enter into confidential data-sharing agreements to share de-identified,
+77 trip-level data received by the division pursuant to this section with the executive office of
+78 technology services and security, the executive office of energy and environmental affairs, the
+4 of 6
+
+79 Massachusetts Department of Transportation, the Massachusetts Port Authority, the
+80 Massachusetts Bay Transportation Authority, the department of environmental protection, a
+81 Massachusetts regional transit authority established under section 3 of chapter 161B, a
+82 Massachusetts regional planning agency and a Massachusetts metropolitan planning
+83 organization. The division shall prescribe the form and content of a confidential data-sharing
+84 agreement, the manner of transmitting the information and the information security measures
+85 that must be employed by any entity receiving the data. Any confidential data-sharing agreement
+86 shall specify that the information provided by the division shall be aggregated and de-identified
+87 and may be used only for the purposes set forth in the agreement. Any data received by an entity
+88 from the division through a confidential data-sharing agreement under this subsection shall not
+89 be considered a public record under clause Twenty-sixth of section 7 of chapter 4 or chapter 66
+90 and shall not be disclosed to any person or entity other than those listed or described in the
+91 confidential data-sharing agreement; provided, however, that a state or municipal government
+92 agency or transportation planning entity may disclose conclusions and analyses derived from the
+93 information and data received pursuant to a confidential data-sharing agreement.
+94 (e) A violation of the terms of a confidential data-sharing agreement by an entity listed in
+95 subsection (d) may result in the division declining to enter into future confidential data-sharing
+96 agreements with the violating entity and in the termination of any existing data-sharing
+97 agreement with the entity. The division shall notify each third party delivery providers whose
+98 data was shared in violation of the terms of a confidential data-sharing agreement of the violating
+99 entity and what data was shared. An entity listed in subsection (d) that violates the terms of a
+100 confidential data-sharing agreement shall delete all data received as a result of the confidential
+101 data-sharing agreement.
+5 of 6
+
+102 SECTION 3. Said chapter 159B is hereby further amended by adding the following
+103 section:-
+104 Section 24. (a) When a third party delivery driver is approved by a third party delivery
+105 provider to be contracted for the delivery of goods, the third party delivery provider shall register
+106 this approval with the division. The division will generate a unique third party delivery
+107 identification number associated with each third party delivery driver who is contracting with
+108 third party delivery providers and compile the third party delivery identification numbers in an
+109 identification number registry. The format of the registry shall be determined by the division.
+110 The third party identification number shall be assigned to each individual third party delivery
+111 driver, this number shall be unique to that driver. If applicable, the third party identification
+112 number shall be consistent across each third party delivery provider with whom the third party
+113 delivery driver is in contract. The division will compile a list of each third party delivery
+114 identification number in their identification number registry. Each third party delivery
+115 identification number shall be:
+116 (i) (A) unique so that no third party delivery identification number is duplicated within
+117 the division’s identification number registry; (B) associated with an individual third party
+118 delivery driver contracted to deliver goods for third party delivery providers; and (C) located on
+119 the third party delivery driver’s vehicle in a place which is observable to the public whenever an
+120 individual third party delivery driver delivery order request.
+6 of 6

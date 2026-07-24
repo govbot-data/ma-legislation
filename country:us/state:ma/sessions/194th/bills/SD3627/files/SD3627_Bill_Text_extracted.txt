@@ -1,0 +1,2455 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Extended Producer Responsibility Commission
+FINAL REPORT
+January 15, 2026
+
+Table of contents
+EPR Commission Background ........................................................................................................................ 1
+EPR Commission: Executive Summary ........................................................................................................... 3
+Commission process .................................................................................................................................. 4
+Public comment .......................................................................................................................................... 4
+Recommendations and Votes ......................................................................................................................... 5
+Paint ........................................................................................................................................................... 5
+Mattresses .................................................................................................................................................. 5
+Batteries ..................................................................................................................................................... 5
+Electronics .................................................................................................................................................. 6
+Plastics and packaging ............................................................................................................................... 6
+Commission votes....................................................................................................................................... 7
+PAINT ...................................................................................................................................................... 8
+Executive Summary: Paint .............................................................................................................................. 9
+Background: The Problem ............................................................................................................................ 10
+Proposed Solution ........................................................................................................................................ 12
+Results of PaintCare program in other states............................................................................................. 13
+Roles and responsibilities of a paint stewardship program in Massachusetts ............................................. 15
+Variations and elements of paint stewardship across states ...................................................................... 17
+Costs and Benefits ....................................................................................................................................... 18
+MATTRESSES ........................................................................................................................................ 19
+Executive Summary: Mattresses ................................................................................................................... 20
+Background: The Problem ............................................................................................................................ 22
+Mattress removal and recycling in Massachusetts..................................................................................... 22
+Proposed Solution ........................................................................................................................................ 26
+How Mattress Recycling Council programs work ....................................................................................... 26
+Flat vs. adjusted fee .................................................................................................................................. 26
+Costs and benefits .................................................................................................................................... 27
+Program success in participating states .................................................................................................... 29
+BATTERIES ............................................................................................................................................ 30
+Executive Summary: Batteries .................................................................................................................... 311
+Background: The Problem ............................................................................................................................ 33
+Battery recycling ....................................................................................................................................... 34
+Barriers to battery recycling programs ...................................................................................................... 35
+Data collection on lithium-ion battery fires in Massachusetts ..................................................................... 35
+Battery disposal and recycling in Massachusetts ...................................................................................... 36
+Proposed Solution ........................................................................................................................................ 38
+How battery EPR programs work .............................................................................................................. 40
+Discussion: EPR in Massachusetts ............................................................................................................... 41
+Key considerations .................................................................................................................................... 41
+ELECTRONICS ....................................................................................................................................... 44
+Executive Summary: Electronics ................................................................................................................... 45
+Background: The Problem ............................................................................................................................ 47
+Discarded electronic waste ....................................................................................................................... 48
+Electronic waste collection in the U.S. and Massachusetts ........................................................................ 48
+Licensing requirements, regulations, and permits for electronics recyclers ................................................ 49
+
+Electronics recycling ................................................................................................................................. 50
+Market for downstream recycled components ........................................................................................... 51
+Electronics EPR Programs ........................................................................................................................ 52
+Program success in participating states .................................................................................................... 55
+PLASTICS AND PACKAGING .................................................................................................................. 57
+Executive Summary: Plastics and Packaging ................................................................................................ 58
+Background: The Problem ............................................................................................................................ 59
+Recycling rate of plastics and packaging in Massachusetts ....................................................................... 59
+Access to recycling in Massachusetts ....................................................................................................... 60
+Municipal costs of recycling in Massachusetts .......................................................................................... 61
+Plastics and Packaging EPR as a Possible Solution ....................................................................................... 62
+History of packaging EPR .......................................................................................................................... 62
+Packaging EPR laws in the U.S. today ....................................................................................................... 62
+How packaging EPR laws work ................................................................................................................. 63
+Covered materials ..................................................................................................................................... 64
+Producer responsibility organization (PRO) ............................................................................................... 65
+Collection convenience ............................................................................................................................. 65
+Performance standards ............................................................................................................................. 66
+Potential impacts of plastics and packaging EPR....................................................................................... 66
+Small businesses ...................................................................................................................................... 70
+Haulers and recyclers ............................................................................................................................... 71
+Ten benefits of packaging EPR for Massachusetts .................................................................................... 71
+Legislation and policy considerations ............................................................................................................ 72
+2025 state legislation ................................................................................................................................ 72
+Policy considerations ................................................................................................................................ 72
+APPENDICIES ...…………………………………………………………………………………………………….74
+
+EPR Commission Background
+Pursuant to Chapter 239 of the Acts of 2024, Section 108, the Massachusetts Legislature established a
+special legislative commission to recommend to the general court extended producer responsibility policies
+for the commonwealth.
+The Extended Producer Responsibility Commission (Commission) was formed in Spring 2025. The
+Commission consisted of the following:
+• The commissioner of environmental protection or a designee, who shall serve as chair
+• The secretary of economic development or a designee
+• The commissioner of public health or a designee
+• One person to be appointed by the attorney general, who shall have expertise in consumer
+protection
+• One person to be appointed by the senate chair of the joint committee on environment and natural
+resources
+• One person to be appointed by the senate chair of the joint committee on telecommunications,
+utilities and energy
+• One person to be appointed by the minority leader of the senate
+• One person to be appointed by the house chair of the joint committee on environment and natural
+resources
+• One person to be appointed by the house chair of the joint committee on telecommunications,
+utilities and energy
+• One person to be appointed by the minority leader of the house of representatives
+• One person to be appointed by the Massachusetts Association of Regional Planning Agencies
+• Ten additional persons to be appointed by the chair:
+o One of whom shall represent an organization representing product or packaging producers
+o One of whom shall represent retailers
+o One of whom shall represent waste haulers and material recovery facility operators
+o One of whom shall represent municipal officials or employees
+o One of whom shall represent a statewide or regional environmental protection organization
+o Three of whom shall represent environmental justice organizations
+o One of whom shall represent a statewide recycling advocacy organization
+o One of whom shall represent an environmental health and public health organization
+The chair considered geographic diversity in making appointments to the commission. The Massachusetts
+Department of Environmental Protection (MassDEP) strove to assemble the Commission with representation
+as instructed by the Legislature but was unable to fill one of the three environmental justice organizations.
+The Commission was charged with developing extended producer responsibility (EPR) policy
+recommendations to include, but not be limited to:
+1. Recommendations on specific EPR approaches and other strategies for product and packaging
+categories including, but not limited to, paint, mattresses, electronics, batteries, plastics and
+other packaging;
+2. A proposed structure for each product and packaging category including collection, processing
+and financial responsibility;
+3. Information on cost impacts of residential curbside collection or transfer station operations, on-
+site processing costs for each readily recyclable material type, management costs of non-readily
+recyclable materials and other cost factors;
+1 | Pag e
+
+4. Methods for incentivizing product and packaging production, including material reduction, reuse
+and lifecycle extensions; and
+5. Impacts on waste generation and waste stream contamination reduction.
+This report summarizes the recommendations of the Commission and provides further background
+information on each topic discussed.
+2 | Pag e
+
+EPR Commission: Executive Summary
+Commission appointees are listed in Table 1.
+Table 1. — Massachusetts Extended Producer Responsibility Commission members.
+Appointment category Name Organization
+MassDEP Commissioner or Designee John Beling MassDEP
+Executive Office of Economic Development Secretary Sarah Kalish Executive Office of Economic
+or Designee Development
+Massachusetts Department of Public Health Dalene LaPointe Massachusetts Department of
+Commissioner or Designee Kristopher Callahan Public Health
+Office of the Attorney General Appointee, Consumer Tracy Triplett Office of Attorney General
+Protection Expert Andrea Joy Campbell
+Senate Chair of the Joint Committee on Environment David Melly Environmental League of
+and Natural Resources Appointee Massachusetts
+Senate Chair of the Joint Committee on Michael Barrett Massachusetts State Senate
+Telecommunications, Utilities, and Energy Appointee
+Senate Minority Leader Appointee Sharon Byrne Kishida Recycling Professional
+House Chair of the Joint Committee on Environment Michael Day Massachusetts House of
+and Natural Resources Appointee Christine Barber Representatives
+House Chair of the Joint Committee on Abbie Webb Casella Waste Systems
+Telecommunications, Utilities, and Energy Appointee
+House Minority Leader Nominee Conor O'Shaughnessy Office of Representative Bradley
+Jones
+Massachusetts Association of Regional Planning Catherine Ratte Pioneer Valley Planning
+Agencies Commission
+Product/Packaging Producer Organization Magda Garncarz Associated Industries of
+Sam Larson Massachusetts
+Retailers Bill Rennie Retailers Association of
+Massachusetts
+Waste Haulers & Material Recovery Facility Operators Lew Dubuque National Waste and Recycling
+Association
+Municipal Officials or Employees Andrew Potter Town of West Stockbridge
+Josie Ahlberg MMA
+Statewide or Regional Environmental Protection Neil Rhein Keep Massachusetts Beautiful
+Organization
+Environmental Justice Organization (1) Jose Degado Arise for Social Justice
+Environmental Justice Organization (2) Leigh-Anne Cole Community Action Works
+Max Haworth
+Statewide Recycling Advocacy Organization Waneta Trabert MassRecycle
+Environmental Health and Public Health Organization Janet Domenitz MassPIRG
+3 | Pag e
+
+Commission process
+MassDEP engaged a third-party facilitator, GreenerU, to assist in facilitating the work of the Commission. The
+Commission met seven times over the course of 2025 with an initial meeting to establish the Commission
+ground rules, one dedicated meeting for each product category (paint, mattresses, batteries, electronics, and
+plastics and other packaging) for a total of five meetings, and one meeting to discuss and finalize the
+recommendations of the Commission.
+Commission meetings followed Commonwealth of Massachusetts’ (Commonwealth) open meeting law
+protocols. Agendas, minutes, presentations, and other materials from these meetings are available on the
+MassDEP website at https://www.mass.gov/info-details/extended-producer-responsibility-
+commission#commission-meetings.
+In addition, at its May 21, 2025, meeting, the Commission voted to establish two advisory groups: (a)
+electronics and (b) plastics and other packaging. Advisory groups were charged with gathering information on
+existing EPR programs, identifying questions and additional information, and sharing this information with the
+EPR Commission to assist in developing policy recommendations. Advisory groups consisted of MassDEP
+staff, Commission members, and members of the public. Each advisory group met twice between June and
+September 2025. Details and findings from the advisory groups are available on the MassDEP website at
+https://www.mass.gov/info-details/extended-producer-responsibility-commission#advisory-groups.
+Public comment
+Public comment was solicited throughout the process with time allotted at each meeting and a public
+comment portal on MassDEP’s website. All written public comments regarding the Commission’s work are
+available at the MassDEP website at https://www.mass.gov/info-details/extended-producer-responsibility-
+commission#public-comment.
+4 | Pag e
+
+Recommendations and Votes
+Following are Commission recommendations for each product category and a vote summary (Table 2).
+Paint
+The Commission recommends the Massachusetts legislature enact legislation establishing an EPR program
+for paint by July 1, 2026. The Commission recommends the development and implementation of a program
+(e.g., PaintCare) that aligns with programs already in place in other Northeast states (Connecticut, Maine,
+Rhode Island, Vermont, and New York), to provide consistency across the region.
+The Commission acknowledges proposed paint EPR legislation under consideration before the
+Massachusetts legislature at time of report publication: H.886, which includes aerosol-based paint, and
+S.647.1,2
+Mattresses
+The Commission recommends that the Massachusetts Legislature enact legislation to establish an EPR
+program for mattresses. The Commission recommends the development and implementation of a program
+that aligns with existing programs to the greatest extent possible.
+The Commission acknowledges proposed mattress EPR legislation under consideration before the
+Massachusetts legislature at the time of this recommendation—H.1023, H.3985, and S.614—but does not
+endorse any specific bill. H.1023 incorporates some of the elements contained in Oregon’s updated law,
+which the Commission recommends exploring.
+The Commission recommends consideration of the following questions:
+1. Should the mattress fee be a flat fee or a variable fee based on size of mattress or cost? Current EPR
+programs have a flat fee regardless of the size (twin, full, queen, king) or cost of the mattress.
+2. Should the disposal cost of mattresses that cannot be collected and recycled through the program
+be included?
+3. Should the fee be collected at the wholesale or retail level? In current mattress EPR programs the fee
+is collected at the point of retail sale.
+Batteries
+The Commission recommends that the Massachusetts Legislature enact legislation to establish an EPR
+program for batteries. The Commission recommends the development and implementation of a program that
+aligns with the Rechargeable Battery Association (PRBA) model EPR legislation to the greatest extent
+possible.
+The Commission acknowledges proposed battery EPR legislation under consideration before the
+Massachusetts legislature at the time of this recommendation—H.968 and S.556—but does not endorse any
+specific bill.
+The Commission recommends consideration of the following:
+1 The 194th General Court of the Commonwealth of Massachusetts, Bill H.886, “An act relative to paint recycling.” From
+https://malegislature.gov/Bills/194/H886, accessed May 23, 2025.
+2 The 194th General Court of the Commonwealth of Massachusetts, Bill S.647, “An act relative to paint recycling.” From
+https://malegislature.gov/Bills/194/S647, accessed May 23, 2025.
+5 | Pag e
+
+• As movement on EPR for batteries in other states is rapidly evolving to address various issues such
+as management of damaged, defective, recalled (DDR) batteries, embedded batteries in products,
+and proper collection and management solutions, harmonization of state programs will serve states
+and industry.
+• Impacts of any restriction on parties outside the EPR program from collecting batteries through
+existing infrastructures should be considered.
+Electronics
+The Commission endorses enactment of legislation to establish an EPR program for electronics. The
+Commission recommends the development and implementation of a program that aligns with existing
+programs in other states to the greatest extent possible.
+The Commission acknowledges proposed electronics EPR legislation under consideration before the
+Massachusetts legislature at the time of this recommendation—H.1015 and S.653—but does not endorse
+any specific bill.
+Specific recommendations on elements to consider in electronics EPR legislation are as follows:
+Covered products Year 1: Computers, laptops, tablets, monitors, televisions, printers, computer
+peripherals, cell phones; Year 2: fax machines, DVD players, VCRs, portable
+music players, video game consoles, digital converter boxes, cable/satellite
+receivers, scanners, small-scale servers, routers, modems
+Covered entities Households, public schools, government, small business or restrict number of
+units to return
+Performance goal Convenience standard and target reduction of electronics in the waste stream
+Collection/recycling service Must allow municipal electronics collection points to opt in
+Financial structure No fee to covered entities. Funding covered by producer based on market
+share of total cost, including orphaned electronics.
+Recycling standards Entities processing electronics on behalf of producers must have E-stewards,
+R2 certification or equivalent
+Outreach and education Comprehensive statewide outreach and education plan by producers
+Other recommended initiatives to consider
+Although most electronics EPR laws do not include issues related to right-to-repair, several states (California,
+Connecticut, New York, Oregon) have passed right-to-repair legislation or have legislation pending. A right-to-
+repair law would make extending the life of existing electronics easier by increasing consumer and repair
+shops’ access to necessary parts, tools, and documentation.
+Plastics and Packaging
+The Commission recommends further exploring the concept of EPR for plastics and other packaging. Due to
+the vast amount of technical information and expanded stakeholder engagement needed to advance such an
+6 | Pag e
+
+initiative, the Commission recommends that MassDEP be charged with establishing a subcommittee of its
+Solid Waste Advisory Committee to further investigate EPR for plastics and other packaging, and that the
+legislature appropriate the necessary resources to complete a needs assessment within two years of
+appropriation, which will provide data to determine how/whether EPR for plastics and other packaging could
+have a meaningful impact on advancing material recovery and waste reduction in the Commonwealth.
+Consideration should be given to the scope of covered materials. The subcommittee composition should
+represent relevant stakeholder interests and subject matter expertise.
+The Commission acknowledges proposed plastics and other packaging needs assessment legislation under
+consideration before the Massachusetts Legislature at this time—S.570—but does not endorse any specific
+bill.
+Commission votes
+Table 2. —Extended Producer Responsibility Commission votes on enacting stewardship legislation.
+Vote
+Commissioner Paint3 Mattresses4 Batteries5 Electronics6 Plastics and Packaging7
+John Beling, Chair Yea Yea Yea Yea Yea
+Rep. Christine Barber Yea Absent Absent Absent Absent
+Senator Mike Barrett Absent Absent Absent Absent Absent
+Sharon Byrne Kishida Yea Yea Yea Yea Yea
+Kris Callahan Yea Absent Yea Yea Abstain
+Leigh-Anne Cole/Max Haworth Yea Yea Absent Yea Yea
+Jose Delgado Yea Absent Yea Yea Yea
+Janet Domenitz Yea Abstain Yea Absent Absent
+Lew Dubuque Yea Yea Yea Yea Yea
+Magda Garncarz/Sam Larson Yea Yea Yea Nay Yea
+Sarah Kalish Yea Yea Yea Yea Abstain
+David Melly Yea Yea Yea Yea Yea
+Conor O’Shaughnessy Yea Absent Yea Yea Yea
+Andrew Potter/Josie Ahlberg Yea Absent Absent Yea Yea
+Catherine Ratte Yea Yea Yea Yea Yea
+Bill Rennie Nay Nay Yea Nay Yea
+Neil Rhein Yea Yea Yea Yea Yea
+Waneta Trabert Yea Yea Yea Yea Yea
+Tracy Triplett Yea Yea Yea Yea Abstain
+Abbie Webb Yea Absent Yea Yea Yea
+3 From a vote taken at the June 18, 2025, EPR Commission meeting.
+4 From a vote taken at the September 17, 2025, EPR Commission meeting.
+5 From a vote taken at the October 29, 2025, EPR Commission meeting.
+6 From a vote taken at the December 9, 2025, EPR Commission meeting.
+7 From a vote taken at the December 9, 2025, EPR Commission meeting.
+7 | Pag e
+
+BACKGROUND:
+PA I N T
+
+Executive Summary: Paint
+Americans generate more than 80 million gallons of leftover latex and oil-based paint every year.8 In the
+Commonwealth, an estimated 1.8 million gallons of leftover paint is generated annually, with more than half—
+67%—discarded in either a combustion facility (waste-to-energy) or a landfill.9,10
+When dumped in the trash or down the drain, leftover paint—particularly oil-based paint—can contaminate
+the environment with hazardous materials. According to MassDEP’s most recent waste characterization
+studies, paint accounts for 0.13% of all solid waste annually, or 6,100 tons, in Massachusetts.11
+Currently in Massachusetts, responsibility for the collection and appropriate disposal of household hazardous
+waste (HHW) falls predominately on municipalities. Most leftover paint that is recovered is collected by
+municipalities during an annual, one-day HHW event, which is an inconvenient and expensive method to
+divert paint away from household trash bins and drains. This collection method costs taxpayers approximately
+$2 million annually on paint alone.12 A third of Massachusetts residents have no access to municipal HHW
+collection services and only 23% of Massachusetts residents have access to year-round paint collection.13
+Paint is highly recyclable. Leftover oil-based paint can be used as industrial fuel.14 Approximately 70% of
+collected latex paint is reused or recycled back into paint or non-paint products.15
+EPR programs for paint have been operating successfully in 12 states and the District of Columbia, beginning
+with Oregon in 2010. PaintCare, a nonprofit 501(c)(3) organization established by the American Coatings
+Association, collects and recycles unwanted and leftover paint, preventing it from being discarded.16
+PaintCare collects leftover paint through participating retail stores and municipal HHW collection efforts,
+providing extensive access to this service year-round. It also provides consumers with information and
+resources on how much paint to buy, how to store paint longer, and ideas on how to use leftover paint. To
+date, PaintCare programs have collected nearly 80 million gallons of unwanted paint, 80% of which is
+recycled.17
+8 Product Stewardship Institute. EPR by product: paint, accessed May 23, 2025, from https://productstewardship.us/products/paint/.
+9 Commonwealth of Massachusetts, Executive Office of Energy and Environmental Affairs, Department of Environmental Protection.
+Summary of Waste Combustor Class II Recycling Program Waste Characterization Studies (2019 & 2022), accessed May 23, 2025, from
+https://www.mass.gov/guides/solid-waste-master-plan.
+10 Data from Product Stewardship Institute based on national sales figures scaled to the Massachusetts population multiplied by an
+estimated 10% of leftover paint annually.
+11 Waste Characterization Studies 2019 & 2022.
+12 Figures extrapolated from PaintCare Connecticut 2024 Annual Report and PaintCare Vermont 2024 Annual Report with costs
+indicated at $9.11 and $8.69 per gallon, respectively.
+13 Data from MassDEP 2024 Recycling Survey reported by municipalities, accessed June 6, 2025, from
+https://www.mass.gov/lists/recycling-solid-waste-data-for-massachusetts-cities-towns.
+14 Coatings World. EPR achievements: the case of paint in the U.S. November 2019: p. 42, accessed May 23, 2025, from
+https://productstewardship.us/wp-content/uploads/2023/05/EPR-Achievements-The-Case-of-Paint-in-the-U.S.-Published.pdf.
+15 Ibid.
+16 See details at https://www.paintcare.org/.
+17 PaintCare.com, Our Story, accessed May 23, 2025, from https://www.paintcare.org/our-
+story/#:~:text=To%20date%20PaintCare%20has%E2%80%A6%20*%20Collected%20an,pickups.%20*%20Hosted%20381%20paint%
+20drop%2Doff%20events.
+EPR background: paint | page 9
+
+Background: The Problem
+Americans generate more than 80 million gallons of leftover latex and oil-based paint every year.18 In
+Massachusetts, an estimated 1.8 million gallons of leftover paint is generated annually, with more than half—
+67%—disposed of in either a combustion facility (waste-to-energy) or a landfill (see Table 3).19,20 According to
+MassDEP waste characterization studies, paint accounts for 0.13% of all solid waste annually, or 6,100 tons,
+in Massachusetts.21
+Table 3. — Paint generation and disposition in Massachusetts (estimated).
+Paint generation and disposition Gallons (est.) Percent of total
+Total leftover paint generated annually 1,800,000 100%
+Discarded in trash 1,200,000 67%
+Landfill 420,000 24%
+Massachusetts combustion facility 780,000 43%
+Recycled, reused, collected with HHW, or disposed down 600,000 33%
+drain/sewer
+Processed by RECOLOR® into recycled paint22 360,000 60%
+No data available yet 240,000 40%
+Based on a 2007 study by the U.S. Environmental Protection Agency (EPA) released at a meeting of the Paint
+Product Stewardship Initiative, approximately 10% of consumer-purchased paint goes unused.23
+When dumped in the trash or down the drain, leftover paint—particularly oil-based paint—can contaminate
+the environment with hazardous materials. According to the EPA, leftover paint can also contain volatile
+organic compounds, fungicides, and, in the case of very old paint, significant quantities of hazardous metals
+such as mercury and lead.
+While latex paint is far less environmentally hazardous than solvent-based paints, the primary environmental
+toxicity of latex paint is to fish and aquatic life as a result of improper disposal into the water system.24 Other
+releases occur through wastewater treatment plants, illegal dumping or leachate from landfills into ground and
+surface water.
+Of all HHW, paint is the single most voluminous and expensive material collected and managed by
+municipalities.25
+18 Product Stewardship Institute. EPR by product: paint, accessed May 23, 2025, from https://productstewardship.us/products/paint/.
+19 Waste Characterization Studies 2019 and 2022.
+20 Data from Product Stewardship Institute based on national sales figures scaled to the Massachusetts population multiplied by an
+estimated 10% of leftover paint annually.
+21 Waste Characterization Studies 2019 & 2022.
+22 RECOLOR® is a women-owned surplus recycled latex paint retailer based in Hanover, Massachusetts.
+23 U.S. Environmental Protection Agency, Office of Strategic Environmental Management, Sector-Based Information and Resources: Paint
+and Coatings, accessed May 23, 2025, from https://archive.epa.gov/sectors/web/html/paint.html.
+24 Product Stewardship Institute, “Final paint technical report,” March 2004: p. 6, accessed May 27, 2025, from
+https://productstewardship.us/wp-content/uploads/2025/05/PaintTechnicalReportFinal3-21-04.pdf.
+25 U.S. EPA.
+EPR background: paint | page 10
+
+Currently in Massachusetts, responsibility for the collection and appropriate disposal of HHW falls
+predominately on municipalities. Most leftover paint that is recovered is collected by municipalities during an
+annual, one-day HHW event, which is an inconvenient and expensive method to divert paint away from
+household trash bins and drains. This collection method costs taxpayers approximately $2 million annually on
+paint alone.26 This figure could increase to approximately $16 million annually if all 1.8 million gallons of
+leftover paint generated each year were collected and recycled or properly managed.27 Only 23% of
+Massachusetts residents have access to year-round paint collection (see Table 4).28 A third of Massachusetts
+residents have no access to municipal HHW collection services.29
+Table 4. — Percentage of Massachusetts communities and residents with leftover paint collection access.
+Collection frequency % of communities % of population
+Year-round 26% 23%
+Weekly/monthly 2% 2%
+6-11 months of the year 5% 7%
+< 6 months of the year 16% 25%
+0 32% 32%
+No data 18% 11%
+26 PaintCare Connecticut and Vermont 2024 Annual Reports.
+27 Ibid.
+28 MassDEP 2024 Recycling Survey.
+29 Ibid.
+EPR background: paint | page 11
+
+Proposed Solution
+Paint is highly recyclable. Leftover oil-based paint can be used as industrial fuel.30 Approximately 70% of
+collected latex paint is reused or recycled back into paint or non-paint products.31
+EPR programs for paint have been operating successfully in 12 states and the District of Columbia, starting
+with Oregon in 2010 and followed by California, Connecticut, Rhode Island, Minnesota, Vermont, Maine,
+Colorado, D.C., Washington, New York, Illinois, and Maryland (see Figure 1). Four state legislatures have
+introduced paint EPR legislation in 2025, including Massachusetts, Missouri, New Hampshire, and New
+Jersey.
+Figure 1. — Paint EPR laws and bills in the United States.32
+PaintCare, a nonprofit 501(c)(3) organization established by the American Coatings Association, is the
+leading provider of paint stewardship in the U.S. PaintCare collects and recycles unwanted and leftover paint,
+30 Coatings World, EPR achievements: the case of paint in the U.S. November 2019: p. 42, accessed May 23, 2025, from
+https://productstewardship.us/wp-content/uploads/2023/05/EPR-Achievements-The-Case-of-Paint-in-the-U.S.-Published.pdf,.
+31 Ibid.
+32 Map courtesy of Product Stewardship Institute, Inc.
+EPR background: paint | page 12
+
+preventing it from being discarded.33 PaintCare also provides consumers with information and resources on
+how much paint to buy, how to store paint longer, and ideas on how to use leftover paint. To date, PaintCare
+programs nationwide have collected nearly 80 million gallons of unwanted paint with a recycling rate of more
+than 80%.34
+Results of PaintCare programs in other states
+Table 5 highlights a summary of PaintCare program results where active across the U.S. In all, 95% of
+residents are within 15 miles of a convenient paint drop-off location and an estimated 83% of all latex paint
+collected among state program participants is reused or recycled.
+Table 5. — Summary of PaintCare program results through 2024.35
+CA CO CT DC ME MN NY OR RI VT WA Total
+State
+characteristics
+Population 39.5 5.96 3.68 0.7 1.4 5.8 19.9 4.3 1.1 0.6 7.9 90.8
+(millions)
+Urbanization rate 95% 86% 86% 100% 39% 72% 87% 81% 91% 35% 83%
+Year-round drop-off sites
+Retail store 667 180 102 8 82 208 301 142 23 72 212 1,997
+HHW and other 208 42 58 0 47 61 33 52 4 11 67 583
+Totals 875 212 160 8 129 269 334 194 27 82 279 2,569
+Convenience
+% residence within 99.4% 97.5% 100% 100% 95.5% 98.3% 99.2% 98.3% 100% 99.8% 97.9%
+15 miles of drop-
+off site
+Paint processing
+Annual gallons 84 134 103 37 87 157 36 215 61 133 121 91
+processed per 1,000
+people*
+% latex reused or 87% 91% 82% 82% 82% 60% 83% 73% 82% 75% 87% 83%
+recycled
+Figure 2 illustrates how latex paint was processed in 2023 by state, which showcases that the vast majority of
+leftover latex paint was recycled into new paint.36 Figure 3 shows the progression of diverted latex paint in
+enacting states using the PaintCare stewardship program from 2011 through 2023. With ten states and the
+District of Columbia participating in 2023, nearly 8 million gallons of leftover paint were diverted from landfills.
+33 See details at https://www.paintcare.org/.
+34 PaintCare.com, Our Story, accessed May 23, 2025, from https://www.paintcare.org/our-
+story/#:~:text=To%20date%20PaintCare%20has%E2%80%A6%20*%20Collected%20an,pickups.%20*%20Hosted%20381%20paint%
+20drop%2Doff%20events.
+35 Based on PaintCare annual reports for Washington (2024), Oregon (2024), California (2024), Colorado (2024), Minnesota (2024),
+District of Columbia (2024), New York (2023), Connecticut (2024), Rhode Island (2024), Vermont (2024), and Maine (2024), available at
+PaintCare.com.
+36 Minnesota standards for recycling paint are more stringent than in other states, and thus a significant portion of leftover paint is applied
+toward “alternative/beneficial use,” which in this case is for landfill cover. Some emerging technologies allow for paint as an additive for
+concrete and other consumer products.
+EPR background: paint | page 13
+
+Figure 2. — How latex paint was processed by state under the PaintCare stewardship program in CY23.37
+Figure 3. — Gallons of diverted latex paint in states with the PaintCare stewardship program, 2011–2023.38
+37 Data from PaintCare.
+38 Ibid.
+EPR background: paint | page 14
+
+Roles and responsibilities of a paint stewardship program in Massachusetts
+If established, a state-approved paint stewardship program should consist of the roles and responsibilities
+detailed in Table 6. Figure 4 illustrates an example diagram of the paint stewardship program process.
+Table 6. — Roles and responsibilities of paint stewardship program.
+Party Roles and responsibilities
+State-approved paint 1. Develop and submit a detailed program plan to MassDEP for approval, which
+stewardship program requires drop-off convenience based on distance and population (e.g., 95% of
+provider (e.g., PaintCare) residents must be within 15 miles of a drop-off site, and one additional site must
+be added per 30,000 residents)
+2. Secure and contract with collection sites (e.g., retailers, HHW facilities, etc.)
+while ensuring equitable access in urban, suburban, and rural areas
+3. Provide supplies, training, educational materials, and logistical support for
+registration and reporting to retailers and collection sites
+4. Secure and contract transporters and recyclers and processors, prioritizing
+reuse and recycling over landfill and incineration
+5. Conduct public education and outreach to paint consumers
+6. Manage finances, using revenue exclusively for nonprofit program operations
+7. Determine a fee schedule for point-of-sale transactions
+8. Monitor producer compliance and reporting
+9. Report annually to MassDEP on program activities and results
+10. Ensure transparency and accountability through third-party financial audits and
+evaluations
+MassDEP 1. Ensure compliance with stewardship law
+2. Maintain information about paint stewardship program
+3. Review and approve program plan, including financial reports and fee structure
+4. Review and approve annual reports, including financial reports
+Manufacturers 1. Register with a state-approved paint stewardship program (e.g., PaintCare)
+(producers) 2. Charge a fee on all wholesale paint sold via retailers and direct-to-consumer
+outlets (e.g., online)
+Retailers 1. Pay paint stewardship fee to manufacturer when buying paint wholesale
+2. Pass fees onto consumers (optional)
+3. Register with state-approved paint stewardship program
+4. Report on all brands of paint sold (they may not sell paint from non-participating
+brands)
+5. Educate consumers about program and fee
+6. Volunteer their store as a drop-off site (optional)
+Consumers 1. Pay paint stewardship fee depending on container size at point of sale (fees vary
+from state to state and can be amended over time; see Table 5)
+2. Bring leftover paint to a collection site for proper management, whether paint
+was purchased before or after law is enacted
+Municipalities 1. Participate as collection sites via a contract with the state-approved paint
+stewardship program (optional)
+EPR background: paint | page 15
+
+Table 7. — PaintCare fees in Northeast states.39
+State < half pint > half pint 1–2 gallons > 2 gallons
+< 1 gallon ≤ 5 gallons
+Connecticut $0.00 $0.35 $0.75 $1.60
+New York $0.00 $0.45 $0.95 $1.60
+Maine $0.00 $0.35 $0.75 $1.60
+Rhode Island $0.00 $0.35 $0.75 $1.60
+Vermont $0.00 $0.65 $1.35 $2.45
+Figure 4. — Paint stewardship program journey and fee pathway under EPR.
+39 Data from Product Stewardship Institute.
+EPR background: paint | page 16
+
+Variations and elements of paint stewardship across states
+Table 7 identifies key policy elements and considerations for Massachusetts.
+Table 7. — Paint stewardship program policy elements and considerations.
+Element Paint program policy model
+Covered materials • Interior/exterior architectural paint
+• Optional phase-in:
+o Aerosols
+o Non-industrial specialty paints (e.g., furniture, craft, marine)
+o Paint products (e.g., paint thinners)
+Covered entities • Consumers of architectural paint (e.g., residents, contractors, small businesses)
+Collection convenience • Maintain and expand existing infrastructure
+• Convenient, free, ongoing collection
+Producer/responsible party • Tiered definition:
+o Brand owner or licensee or
+o First importer into state, a retailer in some cases
+Governance • Producer responsibility organization (PRO) runs program
+• Massachusetts DEP provides oversight and enforcement
+Funding • Consumer fee at point of sale
+Funding allocation • Collection
+• Transportation
+• Processing
+• Government administration
+• Education and outreach
+Performance standards • Reduce
+(waste management • Reuse
+hierarchy) • Paint-to-paint recycle
+• Recycle into another product (e.g., paving stones or concrete)
+• Incineration with energy recovery and alternative daily cover
+• Compliant disposal
+Outreach and education • Must include outreach and education program
+• Must include method for evaluating such efforts (e.g., consumer awareness study)
+• Must address consumers, painting contractors, and paint retailers
+Enforcement • Noncompliant producers may not sell or distribute paint in the state
+• State may impose civil penalties
+• No consumer fees may be used to pay penalties or for lobbying
+Program plan • Must be updated and resubmitted every five years
+• Must be approved by oversight agency
+• Must include details about the program as required by statute
+Annual report • Must contain where and how paint was collected and processed
+• Must contain program budget
+• Must contain evaluation of progress toward outreach and education goals and
+performance targets
+• Must contain results of an independent audit
+• Must be published online
+Implementation timeline • Agency has 120 days to review and approve plan
+Additional • Producers are provided antitrust provisions
+EPR background: paint | page 17
+
+Costs and Benefits
+A state-approved paint stewardship program would require administrative oversight from MassDEP’s Solid
+Waste Division. The costs for this would be paid by the paint stewardship organization.
+In addition to diverting upwards of 1 million gallons of latex and oil-based paint from Massachusetts disposal
+facilities, benefits include approximately $2 million in annual savings for taxpayers by reducing municipal
+collection and disposal of paint-related HHW. The savings would be closer to $16 million if the estimated
+annual quantity of 1.8 million gallons of leftover paint is collected and recycled or properly managed through a
+state-approved paint stewardship program.
+A paint stewardship program would significantly increase collection convenience for residents and businesses
+by requiring the establishment of paint drop-off locations within 15 miles of all parties. These drop-off
+locations would be available year-round with expanded acceptance hours, exponentially increasing the
+current year-round residential access of only 23% in Massachusetts.
+Additionally, the enactment of a paint stewardship program in Massachusetts would divert approximately
+420,000 gallons of unused paint from landfills, as well as 500 tons of paint containers (see Table 1).
+Additional benefits of paint EPR include:
+• Removal of hazardous waste in residents’ basements that pose a significant threat during flood
+events
+• Additional foot traffic at voluntary retail paint drop-off sites
+• Economic benefits of more than $7 million in job creation and other spending40
+• An estimated additional $1.5 million in economic benefits to the state spent on outreach, education,
+supplies, and program administration
+• A total of approximately 40 to 65 new full-time jobs based in Massachusetts
+• Programmatic efficiencies resulting from regional cost-sharing and increased program participation
+• Increased support for the expansion of a Massachusetts-based women-owned paint recycling
+business, RECOLOR®, and potentially other small businesses resulting from the recycled paint
+industry
+40 Assumes paint collection doubles from current municipal solid waste characterization to approximately 785,000 gallons at an average
+of $8.90 per gallon to transport and process based on costs in Connecticut and Vermont.
+EPR background: paint | page 18
+
+BACKGROUND:
+M AT T R E S S E S
+
+Executive Summary: Mattresses
+Between 75–90% of mattress components, including steel, wood, cotton, and foam, are recyclable.41 But
+according to the EPA, with data from the Department of Commerce, International Sleep Products Association
+(ISPA), and the Mattress Recycling Council (MRC), less than 10% of used mattresses are recovered for reuse
+or recycling nationally.42
+Landfilling, illegally dumping, or other improper disposal of mattresses waste valuable resources and
+contribute to pollution:
+• Ferrous metals (i.e., iron and steel) are the largest category of metals found in municipal solid waste
+collection.43 While steel is 100% recyclable, the EPA estimates that the recycling rate of ferrous
+materials from durable goods, including from furniture, to be 27.8%.44
+• Mattress foam is made up of materials such as polyurethane, flame retardants, and volatile organic
+compounds, which can leech into groundwater and soil and pose a threat to ecosystems.45
+• Mattresses are bulky and costly to transport.
+• Mattresses take up a considerable amount of space in landfills and are difficult to handle in municipal
+waste-to-energy facilities.46
+MassDEP reports that more than 600,000 mattresses and box springs are discarded annually in
+Massachusetts.47 On November 1, 2022, Massachusetts added mattresses to its waste disposal bans (310
+CMR 19.017), meaning these materials cannot be discarded in the state’s landfills, waste-to-energy facilities,
+or transferred for disposal unless they are contaminated.
+The nonprofit MRC operates recycling programs in states that have enacted mattress EPR laws: California,
+Rhode Island, Connecticut, and, most recently, Oregon. The program is funded through a flat-rate fee at the
+point of sale for consumers—including individuals, hotels, hospitals, and universities—for all mattresses and
+foundations (box springs), regardless of size or type. Both brick-and-mortar and e-commerce retailers are
+required to assess the fee at the point of sale.
+Program fees in current participating states range from $16.00–$22.50 to cover the costs of program
+administration, contracting, transportation, containers, collection events, education and outreach, and
+oversight.
+Data suggest that MRC’s mattress recycling program has made significant progress toward participating
+states’ goals. For example:
+• In its first year of implementation, the mattress recycling rate in Connecticut rose from 8.7% to
+63.5%.48
+• The City of San Diego saw a 25% decrease in illegal mattress dumping in 2023.49
+41 Estimates range between 75% (Mattress Recycling Council) and 90%, according to some recyclers.
+42 U.S. Environmental Protection Agency, “Facts and figures about materials, waste, and recycling for durable goods: furniture and
+furnishings.” Accessed June 10, 2025, at https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/durable-goods-
+product-specific-data#DurableGoodsOverview.
+43 U.S. Environmental Protection Agency, Ferrous metals: material-specific data, accessed June 27, 2025, from
+https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/ferrous-metals-material-specific-data.
+44 Ibid.
+45 CollectYourOldBed.com. The consequences of improperly disposing of a mattress. Accessed June 27, 2025, from
+https://collectyouroldbed.com/the-consequences-of-improperly-disposing-of-a-mattress/.
+46 MassDEP, Mattress Recycling, accessed June 27, 2025, from https://www.mass.gov/guides/mattress-recycling.
+47 Ibid.
+48 Product Stewardship Institute. “Up to 90% of materials in mattresses are recyclable.”
+49 Inside San Diego, City News Team, “City of San Diego celebrates success of mattress recycling program,” March 3, 2025, 11:16 a.m.,
+accessed June 30, 2025, from https://www.insidesandiego.org/city-san-diego-celebrates-success-mattress-recycling-program.
+EPR background: mattresses | page 20
+
+• Tallying up all four participating states through 2025, more than 500 million pounds of materials have
+been recycled throughout the lifetime of the program, saving 14.9 million cubic yards of landfill
+space.50
+While Massachusetts municipal mattress recycling programs have grown considerably since 2016, 27% of
+Massachusetts residents live in a community where there is either no municipal mattress collection program
+or there is no data available on a municipal program51. In these municipalities, residents must pay directly for
+mattress recycling and collection services. Mattress collection and recycling costs, which are paid for by
+municipalities or by fees paid by residents, are estimated at $12.4 million annually52. Municipal officials have
+stated that mattress recycling and/or disposal fees can create incentives for illegal dumping, which can
+increase management costs.
+A statewide mattress EPR program would alleviate costs to municipalities that absorb program costs via their
+municipal solid waste programs and are burdened with the administrative responsibilities of collection,
+contracting for recycling, and transportation. A mattress EPR program would provide clear, uniform
+instructions for residents and bulk users such as hotels, hospitals, and universities on end-of-life options for
+mattress removal. Yet another benefit is a reduction in illegal dumping, which can occur when mattress
+disposal options are expensive, unavailable, or unclear.
+Note that the MRC mattress EPR program does not include the cost of curbside pickup or in-home mattress
+removal, which some municipalities provide independently in states with an EPR program.
+50 Ibid.
+51 Based on data reported to MassDEP through the 2024 Municipal Solid Waste and Recycling Survey, accessed June 10, 2025.
+https://www.mass.gov/doc/2024-municipal-solid-waste-recycling-survey-responses/download.
+52 Mattress EPR Background Document, June 10, 2025, Product Stewardship Institute, https://www.mass.gov/doc/2025-06-10-mattress-
+background-document/download.
+EPR background: mattresses | page 21
+
+Background: The Problem
+Approximately 36 to 42 million mattresses are sold annually in the U.S., though these estimates are
+challenged by a lack of uniform national data collection methodology.53,54 Based on these figures, Americans
+discard 18–20 million mattresses annually, which is an approximate 45–50% mattress replacement rate,
+according to the MRC—meaning for every two mattresses sold, approximately one is thrown out.55
+Between 75–90% of mattress components, including steel, wood, cotton, and foam, are recyclable.56 But
+according to the EPA, with data from the Department of Commerce, ISPA, and the MRC, less than 10% of
+used mattresses are recovered for reuse or recycling nationally.57
+Landfilling, illegal dumping, or other improper disposal of mattresses waste valuable resources and contribute
+to pollution:
+• Ferrous metals (i.e., iron and steel) are the largest category of metals found in municipal solid waste
+collection.58 While steel is 100% recyclable, the EPA estimates the recycling rate of ferrous materials
+from durable goods, including from furniture, to be 27.8%.59
+• Mattress foam is made up of materials such as polyurethane, flame retardants, and volatile organic
+compounds, which can leech into groundwater and soil and pose a threat to ecosystems.60
+• Mattresses are bulky and costly to transport.
+• Mattresses take up a considerable amount of space in landfills and are difficult to handle in municipal
+waste-to-energy facilities.61
+Mattress removal and recycling in Massachusetts
+According to MassDEP, an estimated 600,000 mattresses and box springs are discarded annually in
+Massachusetts.62
+On November 1, 2022, Massachusetts added mattresses to its waste disposal bans (310 CMR 19.017),
+meaning these materials cannot be discarded in the state’s landfills, waste-to-energy facilities, or transferred
+for disposal unless they are contaminated with mold, bodily fluids, insects, or oil or hazardous substances.
+Leading up to the waste disposal ban, MassDEP provided $2.7 million in grants to 128 municipalities and 34
+additional regional participants to assist with mattress collection and recycling efforts. The state has also
+contracted with four vendors to accept and manage mattress recycling.63
+53 TheRoundUp.org, 39 official mattress industry statistics, accessed June 30, 2025, from https://theroundup.org/mattress-industry-
+statistics/#:~:text=Statistics%20show%20that%20the%20majority,firms%20are%20in%20the%20US?.
+54 Sleepdoctor.com. 25+ stats about mattresses, accessed June 30, 2025, from https://sleepdoctor.com/pages/reviews/statistics-about-
+mattresses.
+55 Mattress Recycling Council, Program Guide, 2021, page 2, accessed June 10, 2025, from https://mattressrecyclingcouncil.org/wp-
+content/uploads/2021/09/MRCprogramguide.pdf.
+56 Estimates range between 75% (Mattress Recycling Council) and 90%, according to some recyclers.
+57 U.S. Environmental Protection Agency, “Facts and figures about materials, waste, and recycling for durable goods: furniture and
+furnishings,” accessed June 10, 2025, at https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/durable-goods-
+product-specific-data#DurableGoodsOverview.
+58 U.S. Environmental Protection Agency, Ferrous metals: material-specific data, accessed June 27, 2025, from
+https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/ferrous-metals-material-specific-data.
+59 Ibid.
+60 CollectYourOldBed.com, “The consequences of improperly disposing of a mattress,” accessed June 27, 2025, from
+https://collectyouroldbed.com/the-consequences-of-improperly-disposing-of-a-mattress/.
+61 Massachusetts Department of Environmental Protection, Mattress Recycling, accessed June 27, 2025, from
+https://www.mass.gov/guides/mattress-recycling.
+62 Ibid.
+63 Commonwealth of Massachusetts, Operational Services Division: FAC90designatedDEP: Carpet and Mattress Recycling Services
+Statewide Contract, accessed July 2, 2025, from https://www.mass.gov/doc/fac90designateddep/download.
+EPR background: mattresses | page 22
+
+As of June 2025, there are nine known mattress recyclers in the state.64 As of 2024, an estimated 399,000
+mattresses and box springs were recycled or reused, or roughly 66% of the total estimated number of units
+discarded that year.
+Massachusetts’ mattress waste disposal ban and current recycling system, however, has resulted in a
+patchwork of municipalities and communities with widely varying options, policies, and costs (see Figure 5).
+For example:
+• The suburban community of Sudbury, with a median household income of $234,634 and a 2.6%
+poverty rate, will accept mattresses (from residents) at the Sudbury Transfer Station on Boston Post
+Road for a fee of $50 per item.65,66
+• The more urban community of Chelsea, with a median household income of $72,220 and a 20.6%
+poverty rate, offers no-cost curbside mattress pickup on Mondays and Thursdays for city trash
+customers.67,68 Those who are not city trash customers pay a fee of $40 per item for city mattress
+pickup. The service costs the city approximately $250,000 annually, which includes collection,
+temporary storage, transit to the facility, and recycling for roughly 4,000 units per calendar year.69
+• In western Massachusetts, the rural community of Chester, with a median household income of
+$87,308 and a 2.0% poverty rate, neither offers mattress disposal, nor provides resources or
+information on mattress disposal or recycling on its website.70,71
+64 Data from MassDEP review of available information including state contract vendors, general permits issued for mattress recycling
+operations, and other available information, conducted spring 2025.
+65 United States Census Bureau, Quick Facts: Sudbury town, Middlesex County, Massachusetts, data in 2023 dollars, accessed June 26,
+2025, from https://www.census.gov/quickfacts/fact/table/sudburytownmiddlesexcountymassachusetts,MA.
+66 Town of Sudbury, Transfer Station Fees, published February 15, 2024, accessed June 26, 2025, at
+https://sudbury.ma.us/transferstation/2024/02/15/transfer-station-fees/.
+67 United States Census Bureau, Quick Facts: Chelsea city, Massachusetts, data in 2023 dollars, accessed June 26, 2025, from
+https://recyclingworksma.com/recyclers/?fwp_material=mattresses.
+68 City of Chelsea, Massachusetts, Mattress Recycling, accessed June 25, 2026, from
+https://www.chelseama.gov/departments/public_works/trash,_recycle,___yard_waste/disposal_regulations/mattress_recycling.php.
+69 Information from Cate Fox-Lent, Commissioner, Chelsea Department of Public Works, provided to GreenerU on July 25, 2025.
+70 United States Census Bureau, Chester town, Hampden County, Massachusetts, data from 2023 estimates, accessed June 26, 2025,
+from https://test.data.census.gov/profile/Chester_town,_Hampden_County,_Massachusetts?g=060XX00US2501313485#income-and-
+poverty.
+71 Town of Chester, Transfer Station, accessed June 25, 2026, from https://townofchester.net/transfer-station/.
+EPR background: mattresses | page 23
+
+Figure 5. — Mattress recycling programs in Massachusetts.72
+Beyond municipal recycling programs, Massachusetts residents have some additional options:
+• When buying a new mattress, retailers will often offer to remove and recycle an old mattress as part
+of a new mattress delivery. There may be a separate fee for this service.
+• MassDEP’s Beyond the Bin identifies organizations that will accept or collect used mattresses for
+reuse or recycling. These organizations will typically charge a fee.
+Components of mattresses are recycled or reused by disassembling them using a combination of manual and
+automated equipment and organizing their raw materials.73 As shown and described in Figure 6, parts of
+mattresses can be recycled in the following ways:
+• Foam padding is turned into carpet underlayment or animal bed padding.
+• Fabric and fibers are used in industrial oil filters and other textile applications.
+• Steel springs are sent to scrap yards and ground up to be resold and reused to make new appliances
+and building materials.74
+• Wooden frames are shredded to produce landscaping mulch or burned as an alternative fuel source.
+72 Image from the Massachusetts Department of Environmental Protection, accessed June 25, 2025, from https://www.mass.gov/info-
+details/map-massachusetts-communities-that-provide-for-mattress-recycling.
+73 Data from Mattress Recycling Council.
+74 Massachusetts Department of Environmental Protection. HandUp Case Study. Accessed June 27, 2025, at
+https://www.mass.gov/doc/handup-case-study/download.
+EPR background: mattresses | page 24
+
+Figure 6. — How mattress components are recycled.75
+75 Image courtesy of the Mattress Recycling Council.
+EPR background: mattresses | page 25
+
+Proposed Solution
+The International Sleep Products Association (ISPA) is a trade association representing mattress
+manufacturers and component suppliers. In 2015, the ISPA formed the nonprofit Mattress Recycling Council
+(MRC) to operate recycling programs in states that have enacted mattress EPR laws. MRC in turn created a
+consumer-facing program, Bye Bye Mattress, to provide responsible mattress recycling currently in four
+states: California, Rhode Island, Connecticut, and, most recently, Oregon.
+As it exists in other states, the Bye Bye Mattress program is funded through a flat-rate fee at the point of sale
+for consumers—including individuals, hotels, hospitals, and universities—for all mattresses and foundations
+(box springs), regardless of size or type. Both brick-and-mortar and e-commerce retailers are required to
+assess the fee at the point of sale.
+How Mattress Recycling Council programs work
+MRC offers three channels for mattress and box spring collection:76
+• Via existing state solid waste collection infrastructure to establish collection sites at landfills, transfer
+stations, or public works yards or by working with curbside collectors such as municipalities or waste
+contractors
+• Via collection events for consumers
+• Via commercial volume programs
+MRC uses the point-of-sale fee to provide:
+• Program administration
+• Competitive bidding for contracts with collection sites, transporters, and mattress recyclers
+• Mattress and box spring transportation to recyclers and recycling
+• Containers for collection sites
+• Hosting collection events
+• Education and outreach efforts
+• Oversight and enforcement
+Flat vs. adjusted fee
+MRC uses a flat per-unit fee in each participating state, rather than assessing fees based on variables such as
+mattress size, density, content, or price. MRC has considered alternative formulas for calculating the mattress
+recycling fee and concluded that it was necessary to set a fee that:
+• Is simple and easy for consumers and retailers to understand and apply
+• Is easy to verify whether the retailer has applied and collected the fee correctly
+• Covers the full cost to dismantle and recycle the mattress being discarded
+• Allows MRC to budget revenues in a predictable manner
+In short, according to MRC, complexity may compromise program success, as complex fee schedules may
+decrease the likelihood of compliance from retailers, recyclers, and consumers. The current legislation filed in
+Massachusetts does not specifically identify fee structures, only that an assessment would be established in
+the plan to be approved by MassDEP.
+76 Mattress Recycling Council 2025.
+EPR background: mattresses | page 26
+
+Costs and benefits
+Program fees in current participating states range from $16.00–$22.50, as illustrated in Table 8. Fees are
+occasionally reassessed to adjust for inflation and market fluctuation (see Figure 7).
+Table 8. — Overview of Mattress Recycling Council programs in participating states.77
+Connecticut California Rhode Island Oregon
+Launch date May 1, 2015 Dec 30, 2015 May 1, 2016 Jan 1, 2025
+Flat fee in 2025 $16.00 $16.00 $20.50 $22.50
+State population 3,675,06978 39,431,26379 1,112,30880 4,272,37181
+Mattresses recycled to date 1,700,000 13,000,000 750,000 no data
+77 Data from Mattress Recycling Council.
+78 U.S. Census Bureau, Fast Facts: Connecticut, accessed June 27, 2025, from
+https://www.census.gov/quickfacts/fact/table/CT/PST045224.
+79 U.S. Census Bureau, Fast Facts: California, accessed June 27, 2025, from
+https://www.census.gov/quickfacts/fact/table/CA/PST045224.
+80 U.S. Census Bureau, Fast Facts: Rhode Island, accessed June 27, 2025, from
+https://www.census.gov/quickfacts/fact/table/RI/PST045224.
+81 U.S. Census Bureau, Fast Facts: Oregon, accessed June 27, 2025, from
+https://www.census.gov/quickfacts/fact/table/OR/PST045224.
+EPR background: mattresses | page 27
+
+Figure 7. — Cost of mattress recycling per unit sold, California: 2019–2025 budgeted.82
+One main benefit to a statewide mattress EPR program is alleviating costs to municipalities. As shown in
+Figure 1 above, Massachusetts’ 351 municipalities offer a range of mattress recycling options to residents,
+including collection events, drop-off sites, and free curbside pickup. Municipalities that offer no program leave
+residents without a clear option for disposal.
+Thus, a statewide mattress EPR program would alleviate costs to municipalities that absorb program costs via
+their municipal solid waste programs and are burdened with the administrative responsibilities of collection,
+contracting for recycling, and transportation. A mattress EPR program would provide clear, uniform
+instructions for residents and bulk users such as hotels, hospitals, and universities on end-of-life options for
+mattress removal. Yet another significant benefit is a reduction in illegal dumping, which can occur when
+mattress disposal options are expensive, unavailable, or unclear to residents.
+82 Data from California Used Mattress Recovery and Recycling 2025 Program Budget, July 1, 2024, submitted by Mattress Recycling
+Council California, LLC, to California Department of Resources Recycling and Recovery.
+EPR background: mattresses | page 28
+
+Program success in participating states
+Data suggest that MRC’s mattress recycling program has made significant progress toward participating
+states’ goals. For example:
+• In its first year of implementation, the mattress recycling rate in Connecticut rose from 8.7% to
+63.5%.83
+• The City of San Diego saw a 25% decrease in illegal mattress dumping in 2023.84
+• Tallying up all four participating states through 2025, more than 500 million pounds of materials have
+been recycled throughout the lifetime of the program, saving 14.9 million cubic yards of landfill
+space.85
+83 Product Stewardship Institute. “Up to 90% of materials in mattresses are recyclable.”
+84 Inside San Diego. City News Team. “City of San Diego celebrates success of mattress recycling program.” March 3, 2025, 11:16 a.m.
+Accessed June 30, 2025, from https://www.insidesandiego.org/city-san-diego-celebrates-success-mattress-recycling-program.
+85 Ibid.
+EPR background: mattresses | page 29
+
+BACKGROUND:
+B AT T E R I E S
+
+Executive Summary: Batteries
+The Commission was charged with identifying policy recommendations for batteries. Current battery EPR
+programs in other states focus on small to medium size batteries typically generated by a household. This
+includes a variety of everyday-use batteries, including lithium primary (single-use) and lithium-ion
+(rechargeable) batteries. Lithium-ion batteries are generally safe and unlikely to fail, but only so long as there
+are no defects and the batteries are not damaged. When lithium-based batteries fail to operate safely or are
+damaged, a chemical reaction may occur and cause a fire and/or explosion hazard. Damage from improper
+use, storage, or charging may also cause lithium-based batteries to fail.86 Oftentimes such common waste
+management processes, which include machines that crush waste, can damage lithium-based batteries that
+then ignite fires in waste collection vehicles and waste-handling facilities.
+One key danger for lithium-based batteries is thermal runaway. According to the Journal of Power Sources,
+thermal runaway is “a positive temperature feedback effect of a system with higher heat generation than
+effective cooling through the battery walls.”87 This uncontrolled heating can spread to other cells within larger
+batteries, leading to larger fires or explosions. Lithium-based battery fires also carry additional risks, including
+the release of flammable and toxic gases, the ejection of batteries during failure leading to secondary
+ignitions, and reignition after a fire is extinguished.88
+The EPA compiled a report in 2021 on fires caused by lithium-based batteries in the waste management
+system using publicly available news reports as the primary source of information. Their analysis found reports
+of 245 fires caused by lithium-ion batteries between 2013 and 2020, and noted that based on anecdotal
+evidence, lithium-ion battery fires in the waste management process are severely underreported, and the
+actual number of such fires is likely much higher. 89 A recent report from the National Waste & Recycling
+Association (NWRA) and Resource Recycling Systems (RRS) conducted in 2023 estimates that more than
+5,000 fires occur annually at recycling facilities alone, which indicates an average of 18 fires per material
+recovery facility per year.90
+In the first six months of voluntary data collection on lithium-based battery fires in Massachusetts, fire
+departments reported 50 lithium-ion battery-related fires across the state. 91 State Fire Marshal Jon Davine
+subsequently reported at least 135 lithium-based fires in Massachusetts in 2024 and approximately three
+dozen injuries to firefighters and civilians since late 2023.92 State Fire Marshal Davine reported to the
+Commission that these numbers do not include a rising number of fires in trash disposal vehicles and at
+transfer stations that some experts believe are caused by large numbers of improperly discarded batteries.93
+In Massachusetts, battery recycling is paid for by local governments, producers, and consumers.
+Municipalities collect household waste and lithium-based batteries at HHW facilities, drop-off centers and
+86 U.S. Department of Labor, Occupational Safety and Health Administration, "Preventing Fire and/or Explosion Injury from Small and
+Wearable Lithium Battery Powered Devices," Safety and Health Information Bulletin, January 18, 2019, 2, accessed August 15, 2025,
+from https://www.osha.gov/sites/default/files/publications/shib011819.pdf.
+87 Balakrishnan, P.G., Ramesh, R., Prem Kumar, T., “Safety mechanisms in lithium-ion batteries,” Journal of Power Sources, Vol. 155, No.
+2, (April 21, 2006): 401-414, https://doi.org/10.1016/j.jpowsour.2005.12.002.
+88 United States Fire Administration, "Lithium-Ion Batteries: Risks and Response Strategies," last reviewed November 7, 2024, accessed
+August 15, 2025, from https://www.usfa.fema.gov/a-z/lithium-ion-batteries/risks-and-response-strategies/.
+89 U.S. Environmental Protection Agency, An Analysis of Lithium-ion Battery Fires in Waste Management and Recycling, EPA 530-R-21-
+002, July 2021, https://www.epa.gov/system/files/documents/2021-08/lithium-ion-battery-report-update-7.01_508.pdf.
+90 Michael R. Timpane, "Metrics on the Lithium-based Battery Threat to U.S. Single Stream Material Recovery Facilities ('MRFs') Summary
+Opinion," Resource Recycling Systems (RRS), September 28, 2023, 11, accessed August 15, 2025, from https://resource-
+recycling.com/recycling/wp-content/uploads/sites/3/2024/01/RRS-Lithium-battery-opinion-final-2.pdf.
+91 Commonwealth of Massachusetts, "After Six Months, New Tracking Tool Identifies 50 Lithium-Ion Battery Fires," April 17, 2024,
+accessed August 6, 2025, from https://www.mass.gov/news/after-six-months-new-tracking-tool-identifies-50-lithium-ion-battery-fires.
+92 Massachusetts Department of Environmental Protection, Extended Producer Responsibility Commission, draft meeting minutes from
+July 16, 2025, accessed August 6, 2025, from https://www.mass.gov/info-details/extended-producer-responsibility-commission.
+93 EPR Commission minutes July 16, 2025.
+EPR background: batteries | page 31
+
+special events, supported by taxpayer dollars, user fees, or grants from MassDEP.94 According to MassDEP,
+269 municipalities report collecting lithium-ion batteries (268 report collecting other household batteries) and
+there are 337 battery collection locations in Massachusetts listed on the Beyond the Bin website.95
+Based on data from MassDEP's 2024 recycling and solid waste survey, which focuses on municipally
+provided services, the following access rates for battery recycling were reported:
+• Approximately 56% of the population has access to year-round household battery recycling services,
+with 53% having access to year-round lithium-ion battery recycling services.
+• An additional 27% to 30% of residents have limited access to household and lithium-ion battery
+recycling, respectively.
+• This leaves up to 17% of Massachusetts residents without access to battery recycling services
+through their municipality.96
+Consumers in Massachusetts also have access to collection services from organizations such as
+Call2Recycle, which offers collection sites and mail-in options for rechargeable and single-use batteries using
+their recycling boxes.97 This includes collection locations at retailers as well as municipal sites.
+Vermont passed the country’s first battery EPR law for single-use batteries in 2014. Since 2020, many battery
+EPR laws have been passed and are being implemented, encompassing a growing scope of materials. They
+all cover primary (single-use) batteries of less than 4.4 pounds, portable rechargeable batteries that weigh
+less than 11 pounds, and medium-format batteries. Some laws also include battery-containing products (such
+as electric toothbrushes). Three states have required a study on embedded batteries, i.e., batteries not
+intended for removal by the consumer. The inclusion of damaged, defective, and/or recalled (DDR) batteries
+in these programs is under consideration.
+A battery EPR program would bring financial benefits to Massachusetts municipalities and consumers by
+shifting the responsibility for funding battery collection, transportation, and recycling from them to battery
+producers. The producer responsibility organization (PRO) Call2Recycle spent $392,925 to collect 154,956
+pounds of batteries in Vermont in 2024.98 This extrapolates to roughly $2.52 per pound of batteries collected
+and $1.40 per household in Vermont.99 A similar model would translate to roughly $3.9 million in spending for
+battery collection, transportation, and recycling from a PRO in Massachusetts, resulting in avoided costs to
+municipalities and more consistent and convenient collection for consumers.100
+Some key considerations for EPR in Massachusetts are the inclusion of embedded batteries, DDR batteries,
+and how to account for battery collection performed outside of the battery EPR program.
+94 The Massachusetts Department of Environmental Protection CY2024 Recycling and Solid Waste Survey results use the categories of
+household batteries and lithium batteries. Household batteries is understood to mean all batteries used at home. Lithium batteries is
+understood to mean any battery chemistry that uses lithium. From https://www.mass.gov/lists/recyclingsolid-waste-data-for-
+massachusetts-cities-towns, accessed July 8, 2025.
+95 Data from RecycleSmart, Beyond the Bin, accessed August 6, 2025 from https://recyclesmartma.org/beyond-the-bin-search/.
+96 Data from MassDEP 2024 Recycling Survey reported by municipalities. From https://www.mass.gov/lists/recyclingsolid-
+waste-data-for-massachusetts-cities-towns, accessed July 8, 2025.
+97 Call2Recycle, "Store," accessed August 6, 2025, https://www.call2recycle.org/store/?srsltid=AfmBOorLt-
+FqXT5zKMBeNdcIk0zbLJNUzCJ7RE1f6nOMQKq6cEYnkdli.
+98 Call2Recycle, 2024 Vermont Annual Report, page 16, accessed August 15, 2025, from
+https://dec.vermont.gov/sites/dec/files/documents/2024%20Vermont%20Annual%20Report.pdf.
+99 According to the U.S. Census Bureau, Vermont had 279,612 households in 2023. Data from U.S. Census Bureau, 2023 American
+Community Survey 1-Year Estimates, Vermont, accessed August 15, 2025, from
+https://data.census.gov/profile/Vermont?g=040XX00US50.
+100 Figure derived from multiplying $1.40 by 2,800,984 households in Massachusetts. Data from U.S. Census Bureau, 2023 American
+Community Survey 1-Year Estimates, Massachusetts, accessed August 15, 2025, from
+https://data.census.gov/profile/Massachusetts?g=040XX00US25.
+EPR background: batteries | page 32
+
+Background: The Problem
+Rechargeable lithium-ion batteries were initially developed in the early 1970s following decades of exploration
+of lithium’s electrochemical properties.101 While lithium-based batteries are generally safe and appropriate for
+consumer use, they can cause fires and explosions when they fail due to defects, damage, or incorrect use,
+storage, or charging.102 Oftentimes common waste management processes, which include machines that
+crush waste, can damage lithium-based batteries that then ignite fires in waste collection vehicles and waste
+handling facilities.
+One key danger for lithium-based batteries is thermal runaway. According to the Journal of Power Sources,
+thermal runaway is “a positive temperature feedback effect of a system with higher heat generation than
+effective cooling through the battery walls.”103 This uncontrolled heating can spread to other cells in larger
+batteries, leading to fires or explosions. Lithium-based battery fires also carry additional risks, including the
+release of flammable and toxic gases, the ejection of batteries during failure leading to secondary ignitions,
+and reignition after a fire is extinguished.104
+While fires caused by lithium-based batteries have been on the rise for more than a decade, only recently
+have fire safety entities begun to quantify the problem. The EPA compiled a report in 2021 on fires caused by
+lithium-ion batteries in the waste management system using publicly available news reports as the primary
+source of information. Their analysis found reports of 245 fires caused by lithium-based batteries between
+2013 and 2020, and the facilities most affected were material recovery facilities (MRFs). The final report noted
+that based on anecdotal evidence, lithium-based battery fires in the waste management process are severely
+underreported, and the actual number of such fires is likely much higher. A key result from this study was that
+there was a large increase in lithium-based battery fires during the eight-year timeframe studied (see Figure
+8).105
+101 Reddy, Mogalahalli V., Mauger Alain, Julien, Christian M., Paolella, Andrea, and Zaghib, Karim, “Brief history of early lithium battery
+development,” Materials 2020, 13(8), 1884; https://doi.org/10.3390/ma13081884.
+102 U.S. Department of Labor, Occupational Safety and Health Administration, "Preventing Fire and/or Explosion Injury from Small and
+Wearable Lithium Battery Powered Devices," Safety and Health Information Bulletin, January 18, 2019, 2, accessed August 15, 2025,
+from https://www.osha.gov/sites/default/files/publications/shib011819.pdf.
+103 Balakrishnan, P.G., Ramesh, R., Prem Kumar, T., “Safety mechanisms in lithium-ion batteries,” Journal of Power Sources, Vol. 155, No.
+2, (April 21, 2006): 401-414, https://doi.org/10.1016/j.jpowsour.2005.12.002.
+104 United States Fire Administration, "Lithium-Ion Batteries: Risks and Response Strategies," last reviewed November 7, 2024,
+https://www.usfa.fema.gov/a-z/lithium-ion-batteries/risks-and-response-strategies/.
+105 U.S. Environmental Protection Agency, An Analysis of Lithium-ion Battery Fires in Waste Management and Recycling, EPA 530-R-21-
+002, July 2021, accessed August 15, 2025, from https://www.epa.gov/system/files/documents/2021-08/lithium-ion-battery-report-
+update-7.01_508.pdf.
+EPR background: batteries | page 33
+
+Figure 8. — Fires and facilities in the U.S. waste management system affected by lithium-based battery fires
+by year.106
+A recent report from the NWRA and RRS conducted in 2023 estimates that more than 5,000 fires occur
+annually at recycling facilities alone, which indicates an average of 18 fires per MRF per year.107 These data
+are also supported by a study conducted at the Shoreway Environmental Center MRF in San Carlos,
+California, in 2017, which tracked the lithium-based batteries pulled out of its incoming recyclables.108 In less
+than five weeks, they collected more than 1,000, meaning that more than five lithium-based batteries enter
+the facility every hour.109 These operational risks have also increased the cost of recycling facility insurance
+from under $0.20 to as high as $10 per $100 of insured property value.110
+Battery recycling
+While nation-wide battery recycling rates are unclear, Call2Recycle®, a U.S.-based nonprofit and the
+country’s largest consumer battery stewardship and collection program, reported that it collected more than 8
+million pounds of batteries for recycling in 2023, 5.4 million pounds of which were rechargeable.111
+106 U.S. Environmental Protection Agency, "The Importance of Sending Consumers' Used Lithium-ion Batteries to Electronic Recyclers or
+Hazardous Waste Collection Facilities," last updated March 5, 2025, , accessed August 15, 2025, from
+https://www.epa.gov/recycle/importance-sending-consumers-used-lithium-ion-batteries-electronic-recyclers-or-hazardous.
+107 Michael R. Timpane, "Metrics on the Lithium-based Battery Threat to U.S. Single Stream Material Recovery Facilities ('MRFs')
+Summary Opinion," Resource Recycling Systems (RRS), September 28, 2023, 11, accessed August 15, 2025, from https://resource-
+recycling.com/recycling/wp-content/uploads/sites/3/2024/01/RRS-Lithium-battery-opinion-final-2.pdf.
+108 U.S. Environmental Protection Agency, “Lithium ion batteries in the solid waste system,” SBWMA MRF survey (March 17, 2018),
+accessed August 6, 2025, from https://www.epa.gov/sites/default/files/2018-03/documents/timpane_epa_li_slides312_ll_1.pdf.
+109 RethinkWaste, "Lithium-based Battery Assessment," 2017, accessed August 15, 2025, from https://rethinkwaste.org/wp-
+content/uploads/legacy_media/7-a-attachment-d-lithium-based-battery-assessment-2017.original.pdf.
+110 National Waste & Recycling Association, "NWRA and RRS Release Report on Threat of Lithium Batteries to Waste and Recycling
+Infrastructure," January 10, 2024, accessed August 15, 2025, from https://wasterecycling.org/press_releases/nwra-and-rrs-release-
+report-on-threat-of-lithium-batteries-to-waste-and-recycling-infrastructure/.
+111 Call2Recycle, "Call2Recycle Releases 2023 U.S. National Battery Collection & Recycling Data," March 4, 2024, accessed August 15,
+2025, from https://www.call2recycle.org/call2recycle-releases-2023-u-s-national-battery-collection-recycling-data/.
+EPR background: batteries | page 34
+
+Increasing recycling rates for lithium-ion batteries could significantly reduce reliance on raw natural resources,
+cutting the need for newly extracted ore by up to 50% and curbing the emissions tied to mining and material
+processing.112 Raw materials account for half of the costs to produce lithium-ion batteries, so increasing
+recycling rates could also drive down battery costs.113 Municipal battery recycling programs also put a
+financial burden on municipal governments and taxpayers, as the responsibility to dispose/recycle batteries
+falls on them.
+Barriers to battery recycling programs
+According to the Product Stewardship Institute (PSI), there are multiple barriers to recycling programs for
+consumer batteries:
+• Awareness. Because different batteries are accepted at different locations, many consumers may be
+unaware of which batteries require recycling and where they can recycle them. Without clear
+information, they may attempt to recycle all battery types together, regardless of differences in
+materials or hazards.
+• Accessibility: Even when the intent to recycle exists, the lack of accessible drop-off locations or
+convenient collection options can prevent follow-through by consumers.
+• Embedded batteries: A growing number of batteries are embedded within electronic products,
+making it difficult for consumers to remove them. As a result, entire devices must be collected so the
+batteries can be safely removed and recycled.
+• Transparency. According to PSI, greater certainty is needed around battery processing practices.
+Some advocates call for the development of environmentally sound recycling standards, noting that
+even with high recovery rates, environmental impacts may occur during manufacturing, use, or end-
+of-life stages.
+Data collection on lithium-ion battery fires in Massachusetts
+In Massachusetts, State Fire Marshal Jon Davine began collecting data on lithium-ion batteries and the
+potential for fire hazards in fall 2023.114 In the first six months of voluntary data collection, fire departments
+reported 50 lithium-ion battery-related fires across the state. 115 Davine subsequently reported at least 135
+lithium-ion fires in Massachusetts in 2024 and approximately three dozen injuries to firefighters and civilians
+since late 2023.116 Davine reported to the Commission that these numbers do not include the rising number
+of fires in trash disposal vehicles and solid waste transfer stations that some experts believe are caused by
+large numbers of improperly discarded batteries.117
+Battery disposal and recycling in Massachusetts
+112 U.S. Environmental Protection Agency, An analysis of lithium-ion battery fires in waste management and recycling, July 2021, p. 7,
+accessed August 12, 2025, from https://www.epa.gov/system/files/documents/2021-08/lithium-ion-battery-report-update-7.01_508.pdf.
+113 Ibid.
+114 Commonwealth of Massachusetts, Executive Office of Public Safety and Security, Department of Fire Services, “DFS launches tool to
+track lithium-ion battery fires,” October 17, 2023, accessed August 6, 2025, from https://www.mass.gov/news/dfs-launches-tool-to-
+track-lithium-ion-battery-fires.
+115 Commonwealth of Massachusetts, "After Six Months, New Tracking Tool Identifies 50 Lithium-Ion Battery Fires," April 17, 2024,
+accessed August 6,2025, from https://www.mass.gov/news/after-six-months-new-tracking-tool-identifies-50-lithium-ion-battery-fires.
+116 Massachusetts Department of Environmental Protection, Extended Producer Responsibility Commission, meeting minutes from July
+16, 2025, accessed August 6, 2025, from https://www.mass.gov/info-details/extended-producer-responsibility-commission.
+117 EPR Commission minutes July 16, 2025.
+EPR background: batteries | page 35
+
+Massachusetts residents purchase about 63 million batteries each year, many of which replace old, spent
+batteries that are then discarded.118 Up to 6,000 tons of these batteries are discarded
+in the trash each year, according to Massachusetts waste characterization studies.119 According to PSI, the
+remainder may be stored in the home or recycled, as there is no comprehensive data available on the total
+volume or weight of batteries recycled within the state.
+Municipalities collect household and lithium-ion batteries at HHW facilities, drop-off centers and special
+events, supported by taxpayer dollars, resident fees or grants from MassDEP.120 According to MassDEP, 269
+municipalities report collecting lithium-ion batteries (268 report collecting other household batteries) and
+there are 337 battery collection locations in Massachusetts listed on Beyond the Bin.121 Some retailers take
+back batteries from consumers, but these outlets are not highly publicized, acceptance criteria change
+frequently, and are inconsistent.
+One challenge Massachusetts faces is high lithium-ion battery recovery costs that vary by vendor ($0.99–
+$5.50/lb), and costs are higher for DDR battery recycling since they pose an increased management burden,
+cost, and may require additional supplies. Additional data about spending from municipalities and other
+entities on battery recycling in Massachusetts is currently unavailable, although PSI is currently conducting a
+survey of municipalities to gather data about municipal costs of battery management in the Commonwealth.
+Based on data from MassDEP's 2024 recycling and solid waste survey, which focuses on municipally
+provided services, the following access rates for battery recycling were reported:
+• Approximately 56% of the population has access to year-round household battery recycling services,
+with 53% having access to year-round lithium-ion battery recycling services.
+• An additional 27% to 30% of residents have limited access to household waste and lithium-ion
+battery recycling, respectively.
+• This leaves up to 17% of Massachusetts residents without access to battery recycling services
+through their municipality.122
+It is important to note that since this survey is limited to municipally provided services, the actual statewide
+access rates are likely higher. Services from other entities, such as collection points provided by Call2Recycle
+and other private entities, are not included in these figures. Tables 9 and 10 provide a summary of the access
+rates reported by municipalities in the survey.
+118 The U.S. Environmental Protection Agency estimates that U.S. residents purchase 3 billion batteries per year
+scaled to the Massachusetts population; from
+https://web.archive.org/web/20110202212818/http://www.epa.gov/waste/conserve/materials/battery.htm, accessed July 8, 2025.
+119 Batteries comprised about 0.1% of 6 million tons of Massachusetts solid waste disposed, or approximately 6,000 tons. Massachusetts
+Department of Environmental Protection, “Waste characterization and capacity studies,” 2022, accessed July 8, 2025 at
+https://www.mass.gov/guides/solid-waste-master-plan#-waste-characterization-&-capacity-studies-
+120 MassDEP’s CY2024 Recycling and Solid Waste Survey results use the categories of household batteries and lithium batteries.
+Household batteries is understood to mean all batteries used at home. Lithium batteries is understood to mean any battery chemistry that
+uses lithium; from https://www.mass.gov/lists/recyclingsolid-waste-data-for-massachusetts-cities-towns, accessed July 8, 2025.
+121 Data from RecycleSmart, Beyond the Bin, accessed August 6, 2025, from https://recyclesmartma.org/beyond-the-bin-search/.
+122 Data from MassDEP 2024 Recycling Survey reported by municipalities, accessed August 15, 2025, from
+https://www.mass.gov/lists/recyclingsolid-waste-data-for-massachusetts-cities-towns/.
+EPR background: batteries | page 36
+
+Table 9. — Access to household battery collection in Massachusetts in 2024.123
+Collection opportunity Percent of communities Percent of population
+Year round 63% 56%
+Once a week 1% 1%
+Once a month 2% 2%
+Between 6 and 11 months per year 3% 6%
+Less than 6 months per year 7% 16%
+None 5% 6%
+No data 18% 11%
+Table 10. — Access to lithium-ion battery collection in Massachusetts in 2024.124
+Collection opportunity Percent of communities Percent of population
+Year round 60% 53%
+Once a week 2% 1%
+Once a month 2% 4%
+Between 6 and 11 months per year 3% 5%
+Less than 6 months per year 10% 20%
+None 5% 6%
+No data 18% 11%
+Residents in Massachusetts also have access to recovery services from organizations such as Call2Recycle.
+Call2Recycle is a U.S.-based, nonprofit PRO that works to advance battery collection and recycling with the
+support of battery and product manufacturers, to residents through collection sites. They also offer options to
+mail in rechargeable and single-use batteries using their recycling boxes, which are sometimes referred to as
+“premium services.”125
+123 Ibid.
+124 MassDEP 2024 Recycling Survey.
+125 Call2Recycle, "Store," accessed August 6, 2025, https://www.call2recycle.org/store/?srsltid=AfmBOorLt-
+FqXT5zKMBeNdcIk0zbLJNUzCJ7RE1f6nOMQKq6cEYnkdli.
+EPR background: batteries | page 37
+
+Proposed Solution
+According to PSI, the first EPR laws for batterie in the U.S. were established for batteries in 1991, when
+Vermont began a program for certain government-purchased rechargeable batteries. In 1994, Call2Recycle
+was formed to manage existing and future battery EPR laws. Two years later, a federal law focused on single-
+use mercury batteries, which paved the way for Call2Recycle to roll out a voluntary national program in states
+without battery EPR laws, which still exists today.
+Vermont passed the country’s first battery EPR law for single-use batteries in 2014. Since 2020, many EPR
+battery laws have been passed and are being implemented, encompassing a growing scope of batteries.
+These laws are referred to as “all battery laws,” which include primary (single-use) batteries of less than 4.4
+pounds, portable rechargeable batteries that are less than 11 pounds, and medium-format batteries. Some
+laws also include battery-containing products (such as electric toothbrushes). Three states have required a
+study on embedded batteries, i.e., not intended for removal by the consumer. The inclusion of DDR batteries
+is still under consideration. Table 11 and Figure 9 summarize current battery EPR laws in the U.S.
+Table 11. — Battery EPR laws in the United States (as of July 8, 2025).126
+State Enacted Amended Batteries covered
+California 2006 Rechargeable
+California 2022 Primary and rechargeable
+Colorado 2025 Primary, rechargeable, medium-format
+Connecticut 2025 Primary, rechargeable, medium-format, battery-
+containing devices
+District of Columbia 2020 2023 Primary and rechargeable
+Florida 1993 Rechargeable
+Illinois 2024 Primary, rechargeable, medium-format
+Iowa 1996 Rechargeable Ni-Cd and SSLA, mercuric oxide
+Maine 1995 Mercuric oxide batteries
+Maryland 1993 Rechargeable
+Maryland 1994 Mercuric oxide batteries
+Minnesota 1991 Rechargeable batteries
+Nebraska 2005 Primary, rechargeable, medium-format, battery-
+containing devices
+New Jersey 1991 Rechargeable Ni-Cd and SSLA, mercuric oxide
+batteries
+New Jersey 2023 Electric and hybrid vehicle batteries
+126 Data from the Product Stewardship Institute.
+EPR background: batteries | page 38
+
+New York 2010 2025 Rechargeable, medium-format
+Vermont 1991 Rechargeable Ni-Cd purchased by a government
+entity, mercuric oxide batteries
+Vermont 2010 2024 Primary, rechargeable, battery-containing
+devices
+Washington 2023 Primary, rechargeable, medium-format
+Figure 9. — Battery EPR laws and bills in the United States in 2025 (as of July 9, 2025).127
+PRBA, the industry association that represents large battery manufacturers in the U.S., has a model EPR bill
+that contains provisions for the most common household batteries except for the following:
+• Recalled batteries (see more below)
+• Non-consumer medical devices
+• Free liquid electrolyte batteries
+• Lead acid batteries (> 11 pounds)
+• Embedded batteries (for now; see more below)
+• Motor-vehicle batteries
+• Large batteries (> 25 pounds)
+127 U.S. Environmental Protection Agency, "The Importance of Sending Consumers' Used Lithium-ion Batteries to Electronic Recyclers or
+Hazardous Waste Collection Facilities,” accessed December 8, 2025, from https://www.epa.gov/recycle/importance-sending-
+consumers-used-lithium-ion-batteries-electronic-recyclers-or-hazardous.
+EPR background: batteries | page 39
+
+How battery EPR programs work
+According to PSI, in states with battery EPR laws, Call2Recycle, a PRBA-led PRO, develops a detailed
+program plan and submits it to the state's environmental oversight agency (i.e., MassDEP) for approval. Once
+approved, the organization manages the battery recycling program to meet all legal requirements.
+Program operations typically include:
+• Establishing and contracting with a network of convenient collection sites, such as retailers,
+municipalities and HHW facilities, and events in urban, suburban, and rural areas
+• Providing these collection sites with the necessary collection supplies, training, and educational
+materials
+• Contracting with transporters and processors to handle the collected batteries
+• Conducting public education and outreach, including statewide education campaigns
+• Funding the program by assessing fees on producers based on their market share
+• Collecting data on various metrics, including collection and processing volumes and public
+awareness
+• Submitting an annual report to the oversight agency detailing the program's activities and results
+• Ensuring transparency and accountability through regular audits and evaluations
+These programs have the following impacts on major stakeholder groups:
+• Producers. Usually defined by battery brand, producers must register with the state and participate in
+a program such as Call2Recycle, report their sales, and pay fees to fund the program in order to sell
+in a state with a battery EPR law.
+• Consumers. Consumers can recycle batteries for free at approved collection sites, such as HHW
+events/facilities, municipal collection points, and certain retailers, or they can pay for a premium
+collection service such as curbside pickup or mail-back boxes.
+• Transporters and processors. Transporters collect batteries from various locations, delivering them to
+processors who are required to recycle them in an environmentally responsible manner.
+• Retailers. In states with battery EPR laws, retailers are prohibited from selling batteries from non-
+compliant producers and often voluntarily serve as collection sites, but in New York and California,
+there are mandatory requirements for retailers of a certain size to serve as collection points and
+provide producer-funded educational materials.
+• Municipalities. Local governments typically act as collection sites for batteries at HHW and other
+locations, and they may also provide outreach, education, and premium services for a fee.
+EPR background: batteries | page 40
+
+Discussion: Battery EPR in Massachusetts
+Battery EPR laws mandate a specific number of year-round battery collection sites for residents. The criteria
+for these sites vary by state, with some requiring a minimum number per county (Vermont) or per capita
+(District of Columbia), while others mandate that retailers serve as collection sites (New York).
+The battery EPR law in Washington State requires at least one permanent, year-round collection site within a
+15-mile radius of 95% of residents and one site per 30,000 residents in urban areas. If Massachusetts were to
+adopt a similar law to Washington's, access to lithium-ion battery recycling could increase from the current
+53% (municipal access) to 95%.128
+An EPR program would bring financial benefits to Massachusetts municipalities and residents by shifting the
+responsibility for funding battery collection, transportation, and recycling from the municipalities to battery
+producers. The PRO Call2Recycle spent $392,925 to collect 154,956 pounds of batteries in Vermont in
+2024.129 This extrapolates to roughly $2.52 per battery it collected and $1.40 per household in Vermont.130 A
+similar model would translate to roughly $3.9 million in spending for battery collection, transportation, and
+recycling from a PRO in Massachusetts, resulting in avoided costs to municipalities, more consistent and
+convenient collection methodologies, increased recovery of batteries and reduced expenses associated with
+fires.131
+For example, solid waste and recycling facilities experience thousands of fires each year, most of which are
+believed to be caused by lithium-ion batteries. The damage caused by reported fires has ranged between
+$2,600 to more than $50 million.132 In addition, insurance for material recovery facilities has increased more
+than tenfold.133 Reducing batteries entering the waste or recycling stream will reduce the incidence of fires
+and their associated costs.
+Key considerations
+The following topics were raised as key issues during the July 16, 2025, EPR commission meeting by various
+stakeholders.
+Embedded batteries, found in products such as laptops and smart phones, present a challenge for assigning
+responsibility when they are collected. While many are already part of electronics EPR programs, there is
+increasing interest in ensuring both the batteries and their products are managed responsibly. Three state
+EPR programs—Washington, Vermont, and Illinois—require that studies be performed to determine how to
+safely manage and equitably finance the recycling of these items. Comments on this consideration voiced
+during the July 16, 2025, Massachusetts EPR Commission meeting included the following:
+• Commissioner Waneta Trabert, Vice President of MassRecycle and Director of Sustainable Materials
+Management for the City of Newton, flagged that one of the biggest areas of concern that is not
+addressed by the current battery EPR programs is embedded batteries. She noted that municipalities
+128 MassDEP, 2024 Recycling Survey, accessed November 21, 2025, from https://www.mass.gov/lists/recycling-solid-waste-data-for-
+massachusetts-cities-towns.
+129 Call2Recycle, 2024 Vermont Annual Report, page 16, accessed August 15, 2025, from
+https://dec.vermont.gov/sites/dec/files/documents/2024%20Vermont%20Annual%20Report.pdf.
+130 Vermont had 279,612 households in 2023. Data from U.S. Census Bureau, 2023 American Community Survey 1-Year Estimates,
+Vermont, accessed August 15, 2025, from https://data.census.gov/profile/Vermont?g=040XX00US50.
+131 Figure derived from multiplying $1.40 by 2,800,984 households in Massachusetts. Data from U.S. Census Bureau, 2023 American
+Community Survey 1-Year Estimates, Massachusetts, accessed August 15, 2025, from
+https://data.census.gov/profile/Massachusetts?g=040XX00US25.
+132 RRS fact sheet, Lithium-based Battery Fire Threat to U.S. Single Stream Material Recovery Facilities, accessed August 15, 2025, from
+https://drive.usercontent.google.com/download?id=1ZS32M83OmOi2_1rFYst5lyfd8akwaMSw&authuser=1&acrobatPromotionSource=G
+oogleDriveListView.
+133 Ibid.
+EPR background: batteries | page 41
+
+would still be financially responsible for educating consumers on how to dispose of products with
+embedded batteries safely since they are not included in the PRBA model bill.
+• Andrew Ferrara, Project Manager with Berkshire Environmental Action Team in Pittsfield, shared that
+they see embedded battery devices, especially vapes, “all the time” at river and park cleanups. He
+noted that battery recyclers do not currently accept electronics with embedded batteries, particularly
+vapes, hazardous waste companies will not take some of them, and there does not seem to be a safe
+or correct solution.
+Damaged, defective, and recalled (DDR) batteries pose significant safety and cost challenges due to their fire
+risk. While recalled batteries are often handled separately through manufacturer warranties, they are
+frequently collected at HHW facilities along with other DDR batteries. As a result, proponents of new battery
+EPR laws seek to include most or all DDR batteries in these regulations to ensure their safe management,
+though recalled batteries are currently exempt from the PRBA’s model bill. Comments on this consideration
+voiced during the commission meeting included the following:
+• Commission member Trabert raised the issue that many battery recall notices from manufacturers
+and retailers instruct consumers to take the recalled batteries to local HHW facilities. She cited a
+recent personal experience with this where she received a notice from Amazon that a device they
+purchased had been recalled and to take it to local HHW program. She mentioned that at a battery
+EPR strategy meeting of local governments a Washington State official found that eight out of nine
+recalls instructed consumers to take recalled batteries to HHW programs as well. This transfers the
+financial and logistical burden of managing these potentially hazardous items onto local and state
+governments.
+• Marc Boolish, Executive Director of PRBA, indicated that there is a provision in the model law that
+would enable stewardship organizations to seek compensation for DDR batteries. He shared that
+everyone who touches DDR batteries requires dangerous-goods training.
+Collection outside the battery EPR program: Some battery recycling companies operate independently of
+state battery EPR programs, often through contracts with original equipment manufacturers for valuable
+batteries such as those from electric vehicles. According to PSI, these recyclers view battery EPR programs
+as unnecessary regulation, while critics argue they cherry-pick the most profitable batteries and leave lower-
+value batteries for others to manage.
+• Daniel Zotos, Director of State Policy and Public Affairs, Redwood Materials, expressed support for
+EPR models for small consumer batteries on behalf of his company, a leading lithium-ion battery
+recycler in North America, however, the company believes current proposals in Massachusetts
+should better integrate the existing battery recycling industry. Redwood Materials advocates for an
+independent collection path for recyclers and waste management companies to work alongside a
+stewardship program, rather than being restricted by it. It highlights its own direct-to-consumer
+programs and the need to increase overall battery collection rates.
+• Carin Stuart, Director of Steward Services at Call2Recycle, shared that a balance is needed in
+battery EPR laws to ensure the program is not penalized for batteries that are recycled outside of its
+official system. The organization is held accountable to a proposed collection rate but faces a
+challenge when other recyclers collect batteries without being part of the program, which can make
+their performance appear lower than it is. While Call2Recycle supports a multi-player collection
+scheme, it emphasizes the need for a cohesive, collective voice in marketing and public education to
+avoid confusing consumers and to achieve higher collection rates.
+• Phil Goddard, Manager of Facility Compliance and Technology Development, Integrated Solid Waste
+Management, Town of Bourne, drew a comparison between these concerns and a concern he heard
+EPR background: batteries | page 42
+
+from RECOLOR®, a well-established recycled-paint company in Massachusetts RECOLOR® has
+expressed a fear that a paint EPR program may exclude them or negatively impact the system they
+have been building for years.
+EPR background: batteries | page 43
+
+BACKGROUND:
+E L E C T R O N I C S
+
+Executive Summary: Electronics
+Electronics ownership in the U.S. has burgeoned in recent decades. The average American household has 24
+devices, with total ownership of more than 3 billion electronic products in the U.S.134 Many of these products
+have increasingly shorter lifespans, resulting in electronics waste (e-waste) becoming the fastest-growing
+component of the municipal waste stream in the U.S.135
+E-waste by weight in landfills has steadily declined, however. A study by researchers at the Rochester Institute
+of Technology’s Institute for Sustainability and the Yale Center for Industrial Ecology has estimated that e-
+waste generation peaked in 2015 nationally and has been declining in the past decade.136 Additionally, the
+most recent EPA data showcase that electronics are the fastest declining product in the municipal solid waste
+stream as well as making up less than 1% by weight of all municipal solid waste.137 Although not a large
+fraction of overall weight, electronics contain a number of toxic components including lead, cadmium, arsenic,
+nickel, flame retardants, and other toxins.
+According to the Consumer Technology Association, manufacturers are producing electronic devices with
+fewer and lighter materials enabled by technological innovations. Materials used in consumer technology
+products have continuously improved and devices now result in much less e-waste. Problem materials have
+also been designed out of new products.
+In Massachusetts, of 4.5 million tons of municipal solid waste, 0.4% was characterized as computer-related
+electronics, brown goods, televisions, and computer monitors in 2022, which amounted to 18,000 tons.138
+This is a drop from 3.3%, or 155,000 tons in 2010 and 0.8%, or 54,500 in 2019.
+The EPA has illuminated concerns about the unsafe handling of e-waste, particularly in developing countries,
+resulting in harm to human health and the environment.139 These concerns include:
+● Open-air burning and acid baths used to recover materials from electronic components
+● Toxic materials leaching into the environment
+● Worker exposure to contaminants such as lead, mercury, cadmium, and arsenic
+● Irreversible health effects, including cancers, miscarriages, neurological damage, and diminished IQs
+● Brominated flame-retardant contents, which have been linked to endocrine disruption and thyroid
+dysfunction140
+In Massachusetts, fees charged to residents range from free to $50 per item to drop off, according to
+MassDEP. Furthermore, e-waste collection location in Massachusetts is an inconsistent patchwork. Some
+collectors, including municipalities, register on a section of the Recycle Smart website called Beyond the Bin,
+134 U.S. Environmental Protection Agency, “Helping communities manage electronic waste,” last updated June 23, 2025; accessed July
+21, 2025, from https://www.epa.gov/sciencematters/helping-communities-manage-electronic-waste.
+135 Ibid.
+136 Althaf, Shahana, Babbitt, Callie, and Chen, Roger, “The evolution of consumer electronic waste in the United States,” Journal of
+Industrial Ecology, June 2021: Vol. 25, No. 3: 693–706.
+137 U.S. Environmental Protection Agency, “Durable goods: product-specific data,” 2018 data, accessed July 22, 2025, from
+https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/durable-goods-product-specific-data.
+138 MassDEP Waste Characterization Studies 2010, 2019, and 2022. “Computer-related electronics” includes computer CPUs, laptop
+computers, notebook computers, processors, printers, scanners, keyboards, etc. This category does not include automated typewriters
+or typesetters, portable handheld calculators, portable digital assistants or other similar devices. “Brown goods” includes cell phones,
+iPods, PDAs, small electronic appliances such as toasters, telephones, stereos, radios, clocks, hair dryers, etc. “Televisions and
+computer monitors” mean a stand-alone display system containing a cathode ray tube (CRT) or any other type of display primarily
+intended to receive video programming via broadcast. Examples also include non-CRT units such as plasma and LCD monitors.
+139 U.S. Environmental Protection Agency, “Cleaning up electronic waste (e-waste),” accessed July 21, 2025, from
+https://www.epa.gov/international-cooperation/cleaning-electronic-waste-e-waste.
+140 National Institutes of Health, National Institute of Environmental Health Sciences, “Flame retardants,” accessed July 21, 2025 from
+https://www.niehs.nih.gov/health/topics/agents/flame_retardants.
+EPR background: electronics | page 45
+
+where consumers can search for one of 385 drop-off locations for computers and home electronics.141
+MassDEP received reporting from 288 out of 351 municipalities in 2024 with the following results:142
+● 276 municipalities reported that they collect televisions and computers.
+● Of those, 268 reported that they collect additional electronics, including DVDs, VCRs, phones,
+stereos, and other electronics.
+● 227 municipalities representing 4.9 million people (69% of state) reported collecting over 2,800 tons
+of electronics at a cost of up to $2 million. Recycling the remaining 18,000 tons currently being
+disposed through municipal efforts could cost up to $15 million annually.143 This does not include the
+cost of operating the collection point.
+Methods of municipal e-waste collection in Massachusetts also vary:
+● 126 municipalities reported drop-off trash with likely electronics collection at small transfer stations.
+● 110 municipalities reported curbside trash collection and likely similar electronics collection.
+● 29 municipalities reported both drop-off and curbside trash collection but did not specify whether e-
+waste was collected via drop-off or curbside.
+● 11 are subscription municipalities and did not indicate how e-waste is collected.144
+Collection frequency in Massachusetts also varies:
+● 214 municipalities collect e-waste year-round.
+● 62 collect electronics at varied frequencies, including one-day special collection events, monthly, or
+less frequently.
+Electronics EPR legislation has the potential to recover valuable electronics components, streamline
+electronics recycling programs across the state, clarify recyclable products and eligible entities to participate,
+and adhere to a variety of other safe, responsible and best practices in processing e-waste.
+141 RecycleSmartMA.org, “Beyond the Bin” database, accessed July 22, 2025 from https://recyclesmartma.org/beyond-the-bin-
+search/?_material=computers-home-electronics.
+142 Based on data reported by municipalities through the 2024 Municipal Solid Waste and Recycling Survey. See Open XLSX file, 207.69
+KB, 2024 Municipal Solid Waste & Recycling Survey Responses (English, XLSX 207.69 KB)
+143 MassDEP extrapolation of remaining electronics waste (18,000 tons) managed through municipal collection programs at $0.39/lb.
+144 Subscription trash collection is when the municipality does not play a role in providing solid waste management services to residents.
+Residents are required to independently subscribe for these services.
+EPR background: electronics | page 46
+
+Background: The Problem
+Electronics ownership in the U.S. has burgeoned in recent decades. The average American household has 24
+devices, with total ownership of more than 3 billion electronic products in the U.S.145 Many of these products
+have increasingly shorter lifespans, resulting in e-waste becoming the fastest-growing component of the
+municipal waste stream in the U.S.146
+E-waste by weight in landfills has steadily declined, however. A study by researchers at the Rochester Institute
+of Technology’s Institute for Sustainability and the Yale Center for Industrial Ecology has estimated that e-
+waste generation peaked in 2015 nationally and has been declining in the past decade.147 Additionally, the
+most recent EPA data showcase that electronics are the fastest declining product in the municipal solid waste
+stream as well as making up less than 1% by weight of all municipal solid waste.148 Although not a large
+fraction of overall weight, electronics contain a number of toxic components including lead, cadmium, arsenic,
+nickel, flame retardants, and other toxins.
+According to the Consumer Technology Association, manufacturers are producing electronic devices with
+fewer and lighter materials enabled by technological innovations. Materials used in consumer technology
+products have continuously improved and devices now result in much less e-waste. Problem materials have
+also been designed out of new products. For example, the old cathode ray tube (CRT) technology required
+leaded glass but has been replaced by two subsequent generations of video display technologies that
+produce better displays without leaded glass.149
+In Massachusetts, of 4.5 million tons of municipal solid waste, 0.4% was characterized as computer-related
+electronics, brown goods, televisions, and computer monitors in 2022, which amounted to 18,000 tons.150
+This is a drop from 3.3%, or 155,000 tons in 2010 and 0.8%, or 54,500 in 2019, as shown in Figure 11.
+145 U.S. Environmental Protection Agency, “Helping communities manage electronic waste,” published June 1, 2021, and last updated
+June 23, 2025; accessed July 21, 2025, from https://www.epa.gov/sciencematters/helping-communities-manage-electronic-waste.
+146 Ibid.
+147 Althaf, Shahana, Babbitt, Callie, and Chen, Roger, “The evolution of consumer electronic waste in the United States,” Journal of
+Industrial Ecology, June 2021: Vol. 25, No. 3: 693–706.
+148 U.S. Environmental Protection Agency, “Durable goods: product-specific data,” 2018 data, accessed July 22, 2025, from
+https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/durable-goods-product-specific-data.
+149 Data provided by Katie Reilly, Consumer Technology Association, on July 18, 2025.
+150 MassDEP Waste Characterization Studies 2010, 2019, and 2022. “Computer-related electronics” includes computer CPUs, laptop
+computers, notebook computers, processors, printers, scanners, keyboards, etc. This category does not include automated typewriters
+or typesetters, portable handheld calculators, portable digital assistants or other similar devices. “Brown goods” includes cell phones,
+iPods, PDAs, small electronic appliances such as toasters, telephones, stereos, radios, clocks, hair dryers, etc. “Televisions and
+computer monitors” mean a stand-alone display system containing a cathode ray tube (CRT) or any other type of display primarily
+intended to receive video programming via broadcast. Examples also include non-CRT units such as plasma and LCD monitors.
+EPR background: electronics | page 47
+
+Figure 11. — Percent change in computer-related electronics, brown goods, televisions, and computer
+monitors in Massachusetts municipal solid waste, 2010–2022.151
+Discarded electronic waste
+The EPA has illuminated concerns about the unsafe handling of e-waste, particularly in developing countries,
+resulting in harm to human health and the environment.152 These concerns include:
+● Open-air burning and acid baths used to recover materials from electronic components
+● Toxic materials leaching into the environment
+● Worker exposure to contaminants such as lead, mercury, cadmium, and arsenic
+● Irreversible health effects, including cancers, miscarriages, neurological damage, and diminished IQs
+● Brominated flame-retardant contents, which have been linked to endocrine disruption and thyroid
+dysfunction153
+Electronic waste collection in the U.S. and Massachusetts
+In 2009, the EPA estimated nationally that e-waste totaled 2.37 million tons; 25% of these electronics were
+collected for recycling, with the remainder disposed in landfills.154
+In Massachusetts, fees charged to residents range anywhere from free to $50 per item to drop off, according
+to MassDEP. Municipalities may use a state contract (FAC110) for the collection and recycling of mixed
+electronics, which is priced at $0.19–$0.39 per pound. Electronics retailers typically do not charge a fee,
+except for CRTs in some cases. Some retailers and manufacturers offer mail-back options.
+E-waste collection locations in Massachusetts are an inconsistent patchwork. Some collectors, including
+municipalities, register on a section of the Recycle Smart website called Beyond the Bin, where consumers
+can search for one of 385 drop-off locations for computers and home electronics.155 MassDEP received
+reporting from 288 out of 351 municipalities in 2024 with the following results:156
+151 MassDEP Waste Characterization Studies 2010, 2019, and 2022.
+152 U.S. Environmental Protection Agency, “Cleaning up electronic waste (e-waste),” accessed July 21, 2025, from
+https://www.epa.gov/international-cooperation/cleaning-electronic-waste-e-waste.
+153 National Institutes of Health, National Institute of Environmental Health Sciences, “Flame retardants,” accessed July 21, 2025 from
+https://www.niehs.nih.gov/health/topics/agents/flame_retardants.
+154 EPA “Cleaning up.”
+155 RecycleSmartMA.org, “Beyond the Bin” database, accessed July 22, 2025 from https://recyclesmartma.org/beyond-the-bin-
+search/?_material=computers-home-electronics.
+156 Based on data reported by municipalities through the 2024 Municipal Solid Waste and Recycling Survey. See Open XLSX file, 207.69
+KB, 2024 Municipal Solid Waste & Recycling Survey Responses (English, XLSX 207.69 KB)
+EPR background: electronics | page 48
+
+● 276 municipalities reported that they collect televisions and computers.
+● Of those, 268 reported that they collect additional electronics, including DVDs, VCRs, phones,
+stereos, and other electronics.
+● 227 municipalities representing 4.9 million people (69% of state) reported collecting more than 2,800
+tons of electronics at a cost of up to $2 million. Recycling the remaining 18,000 tons currently being
+disposed through municipal efforts could cost up to $15 million annually.157 This does not include the
+cost of operating the collection point.
+Methods of municipal e-waste collection in Massachusetts also vary:
+● 126 municipalities reported drop-off trash with likely electronics collection at small transfer stations.
+● 110 municipalities reported curbside trash collection and likely similar electronics collection.
+● 29 municipalities reported both drop-off and curbside trash collection but did not specify whether e-
+waste was collected via drop-off or curbside.
+● 11 are subscription municipalities and did not indicate how e-waste is collected.158
+Collection frequency in Massachusetts also varies:
+● 214 municipalities collect e-waste year-round.
+● 62 collect electronics at varied frequencies, including one-day special collection events, monthly, or
+less frequently.
+In 2004, MassDEP provided grant funding to municipalities to establish collection programs, but these grant
+programs are no longer in place. Costs of electronics collection throughout Massachusetts have not been
+calculated, but MassDEP awarded a grant to collect this information in 2025.
+Licensing requirements, regulations, and permits for electronics recyclers
+At present, there are two certification programs for responsible electronics recycling: R2, administered by the
+Sustainable Electronics Recycling International (SERI), and e-Stewards formed by the Basel Action
+Network.159 Each organization regularly updates its standards and requires that an accredited certification
+body audit a recycling facility before granting certification. Each recycling facility, as opposed to company,
+must pass an audit to be certified. Certificates are valid for a specified period before recertification to the
+current standard is required. R2 or e-Stewards may perform additional surveillance or surprise audits
+throughout the year.
+In general, certifications focus on:
+● Responsible management and a leadership commitment from the overall company to responsible
+electronics recycling practices
+● Legal requirements and compliance monitoring, which could include requirements regarding forced
+labor, non-discrimination policies, import/export compliance, and more
+● Environmental, health, and safety management systems and practices
+● Tracking throughput of materials (e.g., mass balance accounting, bills of lading) including
+documenting downstream disposition (where material outputs end up)
+● Packaging, storing, transporting, sorting/categorizing and recycling processes including
+documentation, recordkeeping procedures, equipment, etc.
+157 MassDEP extrapolation of remaining electronics waste (18,000 tons) managed through municipal collection programs at $0.39/lb.
+158 Subscription trash collection is when the municipality does not play a role in providing solid waste management services to residents.
+Residents are required to independently subscribe for these services.
+159 See https://sustainableelectronics.org/r2/ and https://e-stewards.org/the-e-stewards-standard/ for more information about standards
+and certification processes.
+EPR background: electronics | page 49
+
+● Data security and sanitization
+● Reuse and refurbishment processes
+● Management of materials of concern—also called focus materials—typically requiring greater care in
+the overall management and recycling process (e.g., batteries, CRTs, circuit boards, mercury, etc.)
+● Facility safety and security, including health and safety of workers as well as contingency planning
+and insurance
+In addition, some electronics recyclers may choose to pursue additional certifications beyond R2 or e-
+Steward via the International Organization for Standards (ISO). Manufacturers may also require recyclers to
+obtain these certifications. Certifications in quality management systems, environmental management
+systems, and occupational health and safety management systems can augment recyclers’ standards and
+assist in meeting R2 or e-Steward certification requirements.
+In Massachusetts, e-waste and CRT recycling are conditionally exempt from state hazardous waste
+regulations when managed for donation or recycling.160 If the e-waste—such as circuit boards or CRTs—are
+not handled in accordance with the regulatory requirements, they revert to being a hazardous waste subject
+to the full requirements of 310 CMR 30.0000.
+Electronics recycling
+Electronic products contain a number of valuable resources and materials that can be extracted and recycled
+in lieu of using virgin materials. These materials include low- or no-value materials such as plastics and glass,
+as well as high-value metals such as gold, copper, nickel, indium, and palladium.161,162
+The e-waste recycling process consists of the following phases:
+1. Consumer drops off electronics with an e-waste collector.
+2. Collector sends e-waste to an electronics recycler.
+3. Electronics recycler destroys personal information on reusable/refurbishable items and resells OR
+electronics recycler dismantles the devices either via shredding or manual dismantling processes.
+4. The electronics recycling process separates e-waste into commodities (metals, plastic, glass, etc.).
+Electronics recyclers ship individual commodities to downstream vendors.
+5. Commodities are processed and manufactured into new items.
+The recycling process can also vary greatly across recyclers from predominantly manual dismantling to
+advanced shredding technology, CRT glass cleaning systems, and flat panel display processing technology.
+Figure 12 from the Wisconsin Department of Natural Resources illustrates this cycle.
+160 Massachusetts Department of Environmental Protection, “310 CMR 30.000: Massachusetts Hazardous Waste Regulations,”
+accessed July 22, 2025, from https://www.mass.gov/regulations/310-CMR-30000-massachusetts-hazardous-waste-regulations.
+161 U.S. Environmental Protection Agency, “Electronics donation and recycling,” accessed July 21, 2025, from
+https://www.epa.gov/recycle/electronics-donation-and-recycling.
+162 U.S. Environmental Protection Agency, “Helping communities manage electronic waste,” published June 1, 2021, and last updated
+June 23, 2025; accessed July 21, 2025, from https://www.epa.gov/sciencematters/helping-communities-manage-electronic-waste.
+EPR background: electronics | page 50
+
+Figure 12. — Wisconsin’s e-cycling process.163
+Market for downstream recycled components
+According to the Consumer Technology Association, demand for recycled e-waste commodities includes the
+broad categories of metals, plastic, circuit boards, batteries, and glass. Prices for such commodities fluctuate,
+as they do for other recycled goods; metals (aluminum, copper, and circuit boards) are typically of higher
+value, whereas some materials have low, no, or even negative value (plastics, glass).
+163 Wisconsin Department of Natural Resources, “What happens when I e-cycle?” flyer, accessed July 22, 2025, from
+https://apps.dnr.wi.gov/doclink/waext/wa1627.pdf.
+EPR background: electronics | page 51
+
+Electronics EPR Programs
+According to PSI, electronics EPR programs have been in place in other U.S. states since 2004. Unlike
+categories such as paint or mattresses, electronics EPR programs vary significantly from state to state.
+Twenty-four states plus the District of Columbia have some form of electronics EPR program in place as of
+July 2025:
+● Ten states plus the District of Columbia require that electronics producers meet weight-based
+recycling goals based on a percentage of total sales of products covered under the law. In most
+cases, financial penalties are assessed against manufacturers based on the weight of electronics not
+recycled in comparison to the goals. In most cases, manufacturers’ fees are established via
+negotiation with recyclers.
+● Fifteen states operate programs based around other parameters, such as convenience standards,
+with manufacturers paying their assessed market share to a collection and recycling system or simply
+providing educational information for voluntary programs. Fees are established through a variety of
+means, ranging from negotiation with recyclers to state agencies setting rates.
+● California requires consumers to pay a recycling fee at the point of purchase for specific electronics.
+That fee is remitted to the state, which then reimburses the collection and recycling system for
+managing specific electronics covered under the program. This is not an EPR program by definition
+as the program is funded by consumers and run by the state government.
+Tables 12 and 13 provide a distilled list of program characteristics by participating states.
+Table 12. — Characteristics of state electronics EPR programs with weight-based goals.164
+State Penalties for unmet weight goals Products recycled Eligible entities
+Hawaii $1.50/lb Desktops, e-readers, laptops, Individuals,
+monitors, printers, tablets, businesses,
+televisions partnerships, LLCs,
+corporations,
+nonprofits,
+government, public
+benefit corporations,
+public authorities
+Indiana $0.40/lb @ < 50% goal met E-readers, laptops, monitors, Household/
+$0.30/lb @ ≥ 50% < 90% goal met tablets, televisions, computers, consumers, schools,
+$0.20/lb @ ≥ 90% goal met keyboards, printers, fax machines, businesses
+DVD players, VCRs
+Michigan None Televisions Households, small
+businesses (up to
+seven TVs/day)
+Minnesota $0.50/lb @ < 50% goal met Televisions, monitors, computers, Households
+$0.40/lb @ ≥ 50% < 90% goal met laptops, tablets, keyboards,
+$0.30/lb @ ≥ 90% goal met printers, fax machines, DVD
+players, VCRs
+164 Data from the Consumer Technology Association.
+EPR background: electronics | page 52
+
+New Jersey $0.50/lb Computers, monitors, laptops, Consumers, state
+portable computers, desktop entities, schools,
+printers, desktop fax machines, local governments,
+televisions small businesses
+(<50 FTEs)
+New York $0.50/lb @ < 50% goal met Computers, laptops/notebooks, e- Consumers,
+$0.40/lb @ ≥ 50% < 90% goal met readers, smart displays, smart businesses,
+$0.30/lb @ ≥ 90% goal met watches, virtual reality headsets corporations, limited
+(with processors), printers (<100 partnerships,
+lbs), keyboards, mice, external nonprofits, public
+hard drives, label printers (<100 corporations,
+lbs), digital picture frames, fax schools,
+machines (<100 lbs), government
+cable/satellite receivers, digital
+converter boxes DVD players,
+DVRs, video game consoles,
+portable digital music players,
+Projectors (with DVD player
+capability), FCRs, small-scale
+servers, televisions, cables/cords
+North Carolina None Televisions Households,
+nonprofits (<10
+FTEs)
+Pennsylvania $2/lb + 10% Computers, laptops, computer Households, small
+monitors, peripherals (printers, businesses (<50
+keyboards, mice), televisions FTEs)
+Texas None Televisions Households
+Washington, D.C. $0.58/lb @ < 50% goal met Computers, laptops, tablets, e- Households, small
+$0.46/lb @ ≥ 50% < 90% goal met readers, keyboards, mice, printers businesses,
+$0.35/lb @ ≥ 90% goal met (<100 lbs), computer monitors, nonprofits
+televisions, VCRs, DVRs, DVD
+players, game consoles, signal
+converter boxes,
+cable/satellite/digital media
+receivers
+Wisconsin $0.50/lb @ < 50% goal met Computers, laptops, small-scale Households, K12
+$0.40/lb @ ≥ 50% < 90% goal met servers, tablets, printers, monitors, schools
+$0.30/lb @ ≥ 90% goal met televisions, peripherals
+(keyboards, mice, cords,
+headsets, scanners, speakers,
+webcams, cable/satellite receivers,
+digital converter boxes, remotes,
+security/surveillance system
+cameras, streaming
+devices/receivers), DVRs, DVD
+players, fax machines, cell
+phones, telephones, VCRs, video
+game systems, portable hand-held
+video games
+EPR background: electronics | page 53
+
+Table 13. — Characteristics of state electronics EPR programs without weight-based goals.165
+State Program structure Products Eligible entities
+Connecticut Market share of total cost Computers (desktop, portable), Households
+computer monitors, printers, televisions,
+tablets, e-readers, phones > 4”
+Illinois Manufacturer takeback Computers, computer monitors, Any entity returning seven
+program meeting televisions, printers, keyboards, fax or fewer items
+convenience standards machines, VCRs, portable digital music
+players, DVD players, video game
+consoles, mice, scanners, digital
+converter boxes, cable/satellite
+receivers, DVRs, small-scale servers,
+home audio components, peripherals
+Maine Market share of total cost Televisions, monitors, laptops, tablets, Household/consumer,
+e-readers, game consoles, portable nonprofits, schools, small
+DVD players, digital picture frames, businesses (<100
+virtual-reality headsets employees)
+Maryland Manufacturer takeback Computers, e-readers, laptops, Any
+program monitors, tablets, televisions
+Missouri Manufacturer takeback Computers, e-readers, laptops, Households
+program monitors, tablets
+Oklahoma Manufacturer takeback Computers, e-readers, laptops, tablets, Households
+program monitors
+Oregon Manufacturer takeback Computers, laptops, tablets, monitors, Any returning seven or
+program meeting televisions, printers, computer fewer items
+convenience standards peripherals; in 2026 to include fax
+machines, DVD players, VCRs, portable
+music players, game consoles, digital
+converter boxes, cable/satellite
+receivers, scanners, small-scale
+servers, routers, modems
+Rhode Island Manufacturer takeback Computers, monitors, laptops, Households, schools
+program or participation televisions, tablets
+in state-run program
+South Carolina Manufacturer takeback Computers, monitors, laptops, Households
+program meeting televisions, tablets, printers
+convenience standards
+Utah Consumer education Computers, e-readers, keyboards, Households
+program only laptops, monitors, portable DVD
+players, printers, tablets, televisions
+Virginia Manufacturer takeback Computers, laptops, monitors Households
+program
+165 Data from the Consumer Technology Association.
+EPR background: electronics | page 54
+
+Vermont Manufacturer opt-out Computers, laptops, monitors, printers, Any returning seven or
+program or participation tablets, televisions fewer items
+in market share of total
+cost
+Washington Manufacturers implement Computers, laptops, monitors, Households
+an independent program Televisions, tablets, e-readers, portable
+DVD players
+West Virginia Takeback program or Computers, laptops, monitors, Households, nonprofits,
+higher registration fee televisions, tablets schools, government,
+small- to medium-sized
+businesses
+In developing an EPR solution for electronics recycling in Massachusetts, collection frequency and
+convenience should be taken into consideration. Population density resources are available through the
+Mass.gov website.166
+PSI identified the following typical implementation challenges of older laws regarding electronics EPR
+programs in other states:167
+• Limiting the scope of e-waste products and participating entities does not meet the need for e-
+waste diversion.
+• Producers may interpret weight-based goals as a ceiling versus a floor and may therefore stop
+paying or collecting once their goal has been reached, destabilizing program funding, and leaving
+municipalities to cover the remaining costs.
+• As the weight of electronic devices has decreased, weight-based metrics have become an
+insufficient measure of program success.
+• The lack of convenience standards limits access to services.
+• The lack of a coordinating body (PRO or clearinghouse) contributes to statewide inconsistency of
+outreach, education, and awareness.
+• When there is no funding mechanism defined, programs are funded inadequately.
+Program success in participating states
+Again, while programs vary in terms of eligible entities to participate and items collected, collection rates are
+more successful in some states than in others in terms of the weight of e-waste collected per capita,
+illustrated in Figure 3.
+166 Massachusetts Executive Office of Technology Services and Security, Bureau of Geographic Information, “MassGIS Data: 2020 U.S.
+Census.” Accessed July 22, 2025, from https://www.mass.gov/info-details/massgis-data-2020-us-census.
+167 Observations from the Product Stewardship Institute included in the Massachusetts EPR Commission electronics advisory group slide
+deck, June 30, 2025.
+EPR background: electronics | page 55
+
+Figure 13. — State electronics EPR program performance in pounds per capita.168
+Generally, PSI has identified 16 characteristics of stable electronics EPR programs:
+1. Scope should be comprehensive.
+2. Brands, manufacturers, and importers can be responsible parties.
+3. There can be one or more stewardship organizations, but will benefit from a coordinating body or
+PRO.
+4. Eligible entities should include, at a minimum, residents, schools, small businesses, and
+governments.
+5. Funding should be covered by producers according to market share, not weight-based goals.
+6. Performance goals should be established based on prior year’s data or a formula.
+7. Convenience should be based on population and distance to a collection site.
+8. Recyclers should be required to have e-Stewards or R2 certification.
+9. Operating standards should be based on a materials management hierarchy, where the state
+environmental agency provides an oversight and enforcement role, and all eligible collection sites can
+participate.
+10. Each stewardship plan should describe how a program will be implemented to meet the statute.
+11. Outreach and education campaigns should reach all residents, including educational materials for
+retailers; outreach programs should include evaluation according to awareness of the program.
+12. Electronics EPR laws should align with other such laws and have no negative effect on market
+competition.
+13. There should be no preemption of existing local laws.
+14. Disposal bans should be phased in once the recycling program is well established.
+15. Penalties, administrative, and agency oversight fees should be covered by producers.
+16. Each program should undergo an annual audit to include outcomes.
+168 Data provided by NCER to EPRC at a September 17, 2025, meeting.
+EPR background: electronics | page 56
+
+BACKGROUND:
+P L A S T I C S A N D
+PA C K A G I N G
+
+Executive Summary: Plastics and Packaging
+A 2024 report from The Recycling Partnership estimated that Massachusetts’ residential recycling rate was
+27%, which includes material captured through deposit return systems.169 In addition, 93% of single-family
+households in Massachusetts had access to recycling, as did 46% of multifamily households.
+According to MassDEP, households that may not have access to municipal recycling programs include some
+apartments of a certain size (determined by the municipality); condominiums; public housing; mixed-use
+parcels; rooming houses; and/or residents living in municipalities without regulations on private haulers to
+bundle trash and recycling pickup services.170
+While Massachusetts municipalities’ aggregate annual spending on waste and recycling is not publicly
+available, a MassDEP analysis showed that the cost of net single stream processing increased from $51.22
+per ton in 2020 to $70.60 per ton in 2024.171 The Massachusetts Municipal Association cites recent
+MassDEP data in determining that there has been an 18% increase in municipal solid waste disposal and
+recycling processing costs between 2021 and 2024.172
+EPR for packaging was first introduced in Europe in 1990 as a potential solution to address issues of landfill
+capacity and the high financial and environmental burdens of packaging waste.173 The 1991 Packaging
+Ordinance introduced container deposits, required retailers to accept used packaging, and set recycling
+targets for producers. By 2021, most European Union (EU) member states had packaging EPR systems, and
+a new packaging and packaging waste regulation Packaging and Packaging Waste Regulation will ensure full
+adoption by August 2026.174 The United Kingdom, Norway, Switzerland, and other non-EU countries have
+their own programs. Similar programs emerged in Canada; today, nearly all Canadian provinces have
+implemented some form of packaging EPR.
+Additionally, packaging EPR is also widely established in Australia, Brazil, Chile, China, Colombia, India,
+Japan, New Zealand, Peru, the Philippines, Singapore, South Africa, and South Korea.
+Since 2021, seven U.S. states—Maine, Oregon, Colorado, California, Minnesota, Maryland, and
+Washington—have enacted EPR legislation directed at packaging. On July 1, 2025, Oregon’s program was
+the first to officially begin. The others are expected to launch between 2026 and 2030.
+Packaging and plastics EPR legislation can create incentives for the use of sustainable packaging materials
+using eco-modulated fees that producers pay; the fees are lower for environmentally advantageous packaging
+materials. When companies switch from materials such as virgin plastic to recycled content, they directly
+reduce the carbon emissions associated with production. Improved recycling rates, another impact of plastics
+and packaging EPR programs, also drive measurable emissions reductions.175
+169 Ibid.
+170 Commonwealth of Massachusetts, Department of Environmental Protection, Implementing Mandatory Recycling and Private Hauler
+Regulations, accessed August 25, 2025, from https://www.mass.gov/lists/implementing-mandatory-recycling-private-hauler-regulations.
+171 Commonwealth of Massachusetts, Department of Environmental Protection, Municipal Solid Waste and Recycling data reports,
+accessed December 8, 2025, from https://www.mass.gov/lists/recycling-solid-waste-data-for-massachusetts-cities-towns.
+172 Massachusetts Municipal Association, testimony, “MMA asks Environment and Natural Resources Committee to support bills to
+encourage recycling and reduce plastics pollution,” May 29, 2025, accessed August 26, 2025, from
+https://www.mma.org/advocacy/mma-asks-environment-and-natural-resources-committee-to-support-bills-to-encourage-recycling-and-
+reduce-plastics-pollution/.
+173 Ibid.
+174 European Commission, Packaging Waste, accessed December 8, 2025, from https://environment.ec.europa.eu/topics/waste-and-
+recycling/packaging-waste_en.
+175 MMA testimony 2025.
+EPR background: plastics and packaging | page 58
+
+Background: The Problem
+Americans generate roughly 96 million tons of packaging waste annually—made primarily from plastic, paper,
+glass, and metal—yet only 39% is currently recycled.176 When it comes to non-bottle PET rigid plastic, that
+number is as low as 6%, whereas the highest rate cited is for cardboard at 54%.177
+Although the U.S. has more than 5,800 facilities that recover packaging material waste, 40% of households
+still do not have recycling services that match the convenience and quality of their trash collection.178 Even
+where services are available, differences in accepted materials create confusion for residents about what can
+and cannot be recycled.
+At the same time, the cost of operating municipal recycling systems has increased as markets for recycled
+materials have shifted in recent years due to changing international policies. Local governments currently
+bear significant costs for managing packaging waste, highlighting the pressing need for policies that can
+alleviate this strain.
+Recycling rate of plastics and packaging in Massachusetts
+Based on data from MassDEP, residents and businesses generate approximately 4.3 million tons of municipal
+solid waste each year.179 While Massachusetts-specific figures are not available, containers and packaging
+have historically made up the largest share of U.S. municipal solid waste, accounting for 28.1% in 2018 and
+30% in 2012, according to the EPA.180
+Massachusetts is a net exporter of waste for disposal, sending more waste out of state for disposal than it
+imports.181
+Table 14 compares estimated residential recycling rates by commodity in northeastern states based on data
+from The Recycling Partnership.
+176 U.S. Environmental Protection Agency, An Assessment of the U.S. Recycling System: Financial Estimates to Modernize Material
+Recovery Infrastructure, August 2024, from https://www.epa.gov/system/files/documents/2024-
+12/financial_assessment_of_us_recycling_system_infrastructure.pdf.
+177 Packaging Dive, 9 Stats about US packaging recycling, Jan. 24, 2025, from https://www.packagingdive.com/news/epa-packaging-
+materials-recycling-infrastructure-data/738151/.
+178 U.S. Environmental Protection AgencyIbid.
+179 Commonwealth of Massachusetts, Department of Environmental Protection, 2021 Solid Waste Data Update, June 2023, from
+https://www.mass.gov/doc/2021-solid-waste-data-update/download.
+180 U.S. Environmental Protection Agency, Containers and Packaging: Product-Specific Data, accessed Sept. 2025, from
+https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/containers-and-packaging-product-
+specific#:~:text=Containers%20and%20packaging%20make%20up,beverages%2C%20medications%20and%20cosmetic%20products
+.
+181 Commonwealth of Massachusetts, Department of Environmental Protection, 2023 Solid Waste Data Update, November 2024,
+accessed November 21, 2025, from https://www.mass.gov/doc/2023-solid-waste-data-update/download.
+EPR background: plastics and packaging | page 59
+
+Table 14. — Estimated residential recycling rates by commodity in the northeast United States.182
+Commodity MA CT ME NH RI NH NY NJ PA
+Cardboard 37% 38% 24% 29% 41% 29% 35% 37% 33%
+Mixed paper 28% 28% 18% 21% 30% 21% 26% 27% 23%
+Aseptic and gabletop 4% 14% 6% 4% 16% 4% 11% 7% 6%
+Glass container 41% 46% 60% 20% 31% 20% 57% 28% 21%
+Steel can 23% 23% 15% 17% 25% 17% 22% 23% 21%
+Aluminum can 35% 49% 82% 19% 27% 19% 61% 25% 23%
+PET bottle 34% 47% 65% 18% 26% 18% 59% 24% 21%
+Non-bottle PET 11% 12% 7% 9% 14% 9% 10% 10% 7%
+HDPE natural 30% 31% 18% 22% 33% 22% 29% 30% 27%
+HDPE colored 27% 27% 16% 20% 29% 20% 25% 27% 24%
+Polypropylene 12% 12% 6% 7% 13% 7% 10% 7% 6%
+Plastic nos. 3, 4, 6, 7 1% 2% 2% 2% 0.1% 2% 1% 0.4% 1%
+Bulky rigid plastic 0.4% 1% 1% 0.4% 0% 0.4% 7% 0.2% 0.1%
+Bold indicates highest rate per commodity category
+Access to recycling in Massachusetts
+A 2024 report from The Recycling Partnership estimated that Massachusetts’ residential recycling rate was
+27%, which includes material captured through deposit return systems.183 In addition, 93% of single-family
+households in Massachusetts had access to recycling, as did 46% of multifamily households.
+According to MassDEP, households that may not have access to municipal recycling programs include some
+apartments of a certain size (determined by the municipality); condominiums; public housing; mixed-use
+parcels; rooming houses; and/or residents living in municipalities without regulations on private haulers to
+bundle trash and recycling pickup services.184
+Some Massachusetts towns have 100% subscription programs, meaning the municipality does not offer solid
+waste service or recycling services. Of 36 municipalities with subscription programs in Massachusetts, 16
+have private hauler regulations (PHRs) that mandate bundled trash and recycling services. This accounts for
+56,101 households. The remaining 20 municipalities without PHRs represent 13,728 households. Among
+these municipalities, recycling access is unclear.185
+182 The Recycling Partnership, State of Recycling: The Present and Future of Residential Recycling in the U.S., 2024, from
+https://recyclingpartnership.org/wp-content/uploads/dlm_uploads/2024/05/SORR_Methodology-1-1.pdf.
+183 Ibid.
+184 Commonwealth of Massachusetts, Department of Environmental Protection, Implementing Mandatory Recycling and Private Hauler
+Regulations, accessed August 25, 2025, from https://www.mass.gov/lists/implementing-mandatory-recycling-private-hauler-regulations.
+185 Ibid.; additional data from MassDEP Hazardous and Solid Waste staff.
+EPR background: plastics and packaging | page 60
+
+Municipal costs of recycling in Massachusetts
+While Massachusetts municipalities’ aggregate annual spending on waste and recycling is not publicly
+available, a MassDEP analysis showed that the cost of net single stream processing increased from $51.22
+per ton in 2020 to $70.60 per ton in 2024.186
+The Massachusetts Municipal Association cites recent MassDEP data in determining that there has been an
+18% increase in municipal solid waste disposal and recycling processing costs between 2021 and 2024.187
+186 Commonwealth of Massachusetts, Department of Environmental Protection, Municipal Solid Waste and Recycling data reports,
+accessed December 8, 2025, from https://www.mass.gov/lists/recycling-solid-waste-data-for-massachusetts-cities-towns.
+187 Massachusetts Municipal Association, testimony, “MMA asks Environment and Natural Resources Committee to support bills to
+encourage recycling and reduce plastics pollution,” May 29, 2025, accessed August 26, 2025, from
+https://www.mma.org/advocacy/mma-asks-environment-and-natural-resources-committee-to-support-bills-to-encourage-recycling-and-
+reduce-plastics-pollution/.
+EPR background: plastics and packaging | page 61
+
+Plastics and Packaging EPR as a Possible Solution
+EPR for packaging is a policy framework that transfers the financial and operational responsibility for
+managing packaging waste from taxpayers and local governments to the producers who create and sell
+packaged products. Packaging EPR laws also create an extensive network of holding accountable all those
+involved in managing consumer packaging, including recyclers, local governments, and state oversight
+agencies. This approach seeks to increase waste reduction, recycling, and potentially composting, and foster
+sustainable packaging design. By making producers accountable for the full lifecycle of their packaging, EPR
+incentivizes innovations in material selection, waste reduction, and the creation of more effective recycling
+systems.188
+History of packaging EPR
+EPR first gained traction in Europe, with packaging as an initial focus.189 The idea—producers being held
+responsible for the post-consumer management of their products and packaging—was introduced in 1990 by
+Swedish professor Thomas Lindhqvist. With mounting concern over landfill capacity and the high
+environmental and fiscal burdens of packaging waste, German policymakers felt compelled to put theory into
+practice. The 1991 Packaging Ordinance introduced container deposits, required retailers to accept used
+packaging, and set recycling targets for producers. EPR policies quickly spread across Europe. By 2021,
+most EU member states had packaging EPR systems, and a new packaging and packaging waste regulation
+will ensure full adoption by August 2026. The United Kingdom, Norway, Switzerland, and other non-EU
+countries have their own programs.
+As European producer responsibility systems were evolving, similar waste management dynamics began to
+unfold in Canada.190 British Columbia led the way, becoming the first jurisdiction in North America to
+implement a full EPR program for packaging and printed paper in 2014. Over its first ten years, RecycleBC
+collected nearly two million tons of packaging and paper, invested more than $1 billion from producers,
+achieved higher than 98% plastic recycling rates, expanded access to cover 99% of residents, and ensured
+that 73% of recycled materials stayed in North America.191 Today, nearly all of Canada's provinces have
+implemented some form of packaging EPR.
+In addition to Europe and Canada, packaging EPR is also widely established in Australia, Brazil, Chile, China,
+Colombia, India, Japan, New Zealand, Peru, the Philippines, Singapore, South Africa, and South Korea.
+Packaging EPR laws in the U.S. today
+Since 2021, seven U.S. states—Maine, Oregon, Colorado, California, Minnesota, Maryland, and
+Washington—have enacted EPR legislation directed at packaging. Taking population into account, one in five
+Americans now live in a state with an EPR for packaging law.
+Maine was the first state to adopt EPR for packaging in July 2021, amended in 2025. Oregon followed in
+August of 2021, Colorado and California in 2022, Minnesota in 2024, and Maryland and Washington in 2025.
+Another seven states, including Massachusetts, introduced packaging EPR legislation in 2025 (Figure 14).
+188 Cassel, Scott, “Perspectives on Product Stewardship: Navigating an Extended Producer Responsibility Path to a Circular Economy,”
+2023, Bernan Press.
+189 Ibid.
+190 Product Stewardship Institute, Extended Producer Responsibility for Packaging and Paper Products: Policies, Practices, and
+Performance, September 2020, from https://productstewardship.us/wp-content/uploads/2022/11/PSI_EPR_for_PPP.pdf.
+191 Recycle BC, Program Overview and Impact, May 2024, from https://recyclebc.ca/wp-
+content/uploads/2024/05/2024_10YearsofImpactOverview.pdf.
+EPR background: plastics and packaging | page 62
+
+Oregon’s program officially began on July 1, 2025. The others are expected to launch between 2026 and
+2030. In the meantime, there are several program deadlines that stakeholders will be following, including
+rulemaking, producer registration and reporting, and submission and approval of program plans.
+Figure 14. — State packaging EPR laws and 2025 bills.
+Table 15. — U.S. packaging EPR laws.
+State Bill # Year Amended Implementation Program
+Maine LD 1541 2021 LD 1423 (2025) 2026 Link
+Oregon SB 582 2021 n/a 2025 Link
+Colorado HB 1355 2022 n/a 2026 Link
+California SB 54 2022 n/a 2027 Link
+Minnesota HF 3911 2024 n/a 2029 Link
+Maryland SB 901 2025 n/a 2029 Link
+Washington SB 5284 2025 n/a 2030 Link
+How packaging EPR laws work
+Each of the seven states with packaging EPR laws have somewhat different approaches. That said, the three
+most recent laws—in Minnesota, Maryland, and Washington—have more in common than the four that came
+before, such as industry-proposed performance targets and phased funding of the system (Table 16).
+EPR background: plastics and packaging | page 63
+
+Table 16. — U.S. packaging EPR laws comparison across states.
+ME OR CO CA MN MD WA
+Packaging covered Yes Yes Yes Yes Yes Yes Yes
+Paper products
+No Yes Yes No Yes Yes Yes
+covered
+Food serviceware Yes Yes Yes Yes Yes Yes Yes
+Multiple PRO
+No Yes After 2028 After 2030 After 2031 After 2033 After 2035
+possible
+Producer funds
+100% 28% 100% 100% Phased Phased Phased
+system
+Eco-modulated PRO PRO PRO PRO PRO PRO
+Regs.
+fees proposes proposes proposes proposes proposes proposes
+Performance PRO PRO PRO PRO
+Regs. Statute Statute
+targets develops proposes proposes proposes
+Covered materials
+All seven states regulate packaging and food serviceware (e.g., cups, lids, straws, utensils). Early EPR states
+like California and Oregon treated food serviceware as a distinct category separate from packaging. More
+recently, states have incorporated food serviceware into the definition of packaging. Five states also include
+paper products, generally defined to include magazines, flyers, brochures, booklets, catalogs, and other
+printed paper.
+With respect to packaging types, all states cover both primary and secondary packaging, while tertiary
+packaging—used to protect goods during transport—is often excluded except in the context of e-commerce
+(see Table 17 for descriptions and examples of packaging types). Each state’s program applies to packaging
+intended for consumer use; business-to-business packaging is generally excluded unless the material is
+ultimately distributed to end consumers. Compostable packaging is covered under every program, while two
+states provide exemptions for reusable and refillable packaging.
+Other exemptions generally fall into the following categories: small producers; federally regulated products
+(e.g., medical food, infant formula, drugs, animal medicine, pesticides); and products already managed under
+an EPR or deposit return system (e.g., architectural paint, beverage containers).
+EPR background: plastics and packaging | page 64
+
+Table 17. — Types of packaging.
+Packaging type Description Example
+Primary packaging Sales packaging most closely Plastic sleeve/film on the smartphone screen
+containing the product. or the tray that holds the phone inside the
+box.
+Secondary packaging Grouped packaging intended to Smartphone box with printed branding,
+bundle, sell in bulk, brand, or display technical specs, and contents.
+the product.
+Tertiary packaging Transport packaging protecting the E-commerce shipping box, possibly with
+product during transport. protective air pillows or paper inside.
+Producer responsibility organization (PRO)
+The “producer” is typically defined as the brand owner of a product sold in the state, or if that entity is outside
+the U.S., the importer or first seller. If neither applies, responsibility shifts to the retailer or distributor.
+In states with packaging EPR laws, producers generally fulfill their obligations by joining a PRO, a nonprofit
+entity approved by the state to operate the program on their behalf. The PRO collects fees from participating
+producers, which are typically based on the weight, material type, and recyclability of packaging, and uses
+those funds to reimburse municipalities for eligible recycling system costs, contracts with service providers,
+and investment in infrastructure, education, and outreach.
+The PRO is responsible for developing a stewardship plan, typically informed by input from an advisory
+council representing stakeholders across the value chain—waste haulers, local governments, retailers,
+environmental groups, recycling facilities, and manufacturers of goods from recycled products. This plan
+must be submitted to the state agency for approval, which also oversees audits and enforces penalties for
+noncompliance. In addition, the PRO is required to submit annual reports detailing packaging placed on the
+market, materials collected, and progress toward statutory goals for recycling, reuse, and source reduction.
+Although producers technically have the option to comply individually, in practice the PRO functions as the
+primary vehicle for meeting obligations and coordinating program activities. While most states authorize the
+creation of multiple PROs, they generally designate a single organization to launch the program.
+Circular Action Alliance (CAA) is the PRO selected to implement packaging EPR laws in four states: Oregon,
+Colorado, California, and Minnesota. CAA was founded in 2022 by companies in the food, beverage, and
+consumer goods industries to manage EPR compliance with these emerging laws.
+Collection convenience
+Packaging EPR programs are designed to ensure that all residents have reasonable and equitable access to
+recycling services for covered packaging. Programs must provide convenient collection options through
+curbside pickup or drop-off locations that serve both urban and rural areas, with several states emphasizing
+access for underserved communities. Packaging EPR programs also help reduce consumer confusion by
+requiring a statewide list of items deemed recyclable. These lists identify which types of packaging
+materials—such as paper, cardboard, plastics, metals, glass—are eligible for collection and recycling under
+the program.
+EPR background: plastics and packaging | page 65
+
+Performance standards
+Performance standards are designed to gauge the success and progress of the packaging EPR program and
+may be established through legislation, rulemaking, or proposed in the PRO stewardship plan. Performance
+targets for packaging generally focus on waste reduction, recycling rates, and recycled content. For example,
+California law mandates that by 2032, all single-use packaging and plastic food service ware must be
+recyclable or compostable, achieve a 65% recycling rate, and be reduced by 25% compared to 2023 levels.
+Colorado’s performance targets were informed by a needs assessment conducted by the CAA, which
+evaluated statewide recycling systems, existing infrastructure, services, and costs, and identified
+opportunities to help the state achieve its waste diversion goals.192 Based on this report, the legislature
+approved the “medium scenario,” a recycling system projected to increase paper and packaging recycling
+rates from 25% to a high-end estimate of 58% by 2035, while expanding curbside recycling at no cost to
+residents or the state.
+Potential impacts of plastics and packaging EPR
+Resource Recycling Systems, Inc. (RRS), a consulting firm that specializes in waste minimization, conducted a
+study for the Oregon Recycling Steering Committee in 2020 investigating the impact of EPR packaging
+programs on recycling rates in Europe and Canada. In every jurisdiction with available data, recycling rates
+increased after the implementation of an EPR program.193 In its memo on this topic, RRS noted that
+comparing data before and after EPR implementation can be difficult due to differences in data sources,
+quality, and reporting methods, and that it is even harder to compare recycling rates between different
+jurisdictions. Therefore, the data is most useful for comparing a single jurisdiction's performance over time
+rather than comparing it to another's.
+NWRA, a private-sector waste and recycling services industry representative, commissioned international
+environmental consulting firm Eunomia to conduct a study on packaging EPR. In its analysis of the most
+established packaging EPR programs in the EU—Germany, France, and Italy—Eunomia found that recycling
+rates have increased in all three countries since EPR was introduced. Specifically, Germany’s packaging
+recycling rate increased from 37.7% in 1991 to 76.2% in 2016. They also found that one of the drivers for
+increasing recycling rates in the EU was material-specific targets implemented through the Packaging and
+Packaging Waste Directive.194,195
+Most recently, The Recycling Partnership, a national nonprofit funded by numerous consumer brand
+manufacturers, released a report in 2023 that analyzed seven jurisdictions with EPR packaging programs:
+British Columbia, Quebec, Belgium, Spain, Portugal, the Netherlands, and South Korea. Five of these reached
+a recycling rate of more than 75% within the last five years (see Figure 15). Belgium is a top performer, with a
+95% recycling rate in 2020. In North America, British Columbia leads with an 81% recycling rate in 2021. The
+outcomes varied based on factors such as program start date, prior systems, and the scope of materials
+192 Circular Action Alliance, Colorado Needs Assessment, Jan. 2025, from
+https://static1.squarespace.com/static/64260ed078c36925b1cf3385/t/6799420fed5d6f0caf9b978f/1743456731209/Needs+Assessmen
+t+Full+Report+2025.pdf.
+193 Oregon Department of Environmental Quality, "Recycling Rates in States with EPR," accessed August 26, 2025, from
+https://www.oregon.gov/deq/recycling/Documents/rscRRSrates.pdf.
+194 National Waste & Recycling Association, "Extended Producer Responsibility for Packaging: Elements and Outcomes," (undated),
+accessed August 26, 2025, from https://wasterecycling.org/wp-content/uploads/2022/03/NWRA-report-v3-Final-Issued-.pdf.
+195 The EU’s Packaging and Packaging Waste Directive was enacted on February 11, 2025, and will go into effect in August 2026. The
+directive aims to prevent and reduce packaging waste, including through more reuse and refill systems; make all packaging on the EU
+market recyclable in an economically viable way by 2030; safely increase the use of recycled plastics in packaging; and decrease the use
+of virgin materials in packaging and put the sector on track to climate neutrality by 2050. Accessed August 26, 2025, from
+https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste_en.
+EPR background: plastics and packaging | page 66
+
+collected, with some programs handling only packaging while others, such as Canada's, also including
+paper.196
+Figure 15. — EPR for packaging recycling rates across international jurisdictions.197
+Packaging EPR programs have also significantly improved individual material recycling rates. In Belgium, the
+plastic recycling rate rose from 38% in 2012 to 52% in 2021. Spain's plastic container recycling rate saw an
+increase from 17% in 2002 to 75.8% in 2018. In Quebec, a comparatively weaker program, paper and
+cardboard recycling rates climbed from 56% to 72% after the implementation of the packaging EPR
+system.198
+The Recycling Partnership report also argued that the reason packaging EPR programs raise recycling rates
+is that they fill four gaps in recycling programs that can cause them to fall short:199
+1. Access and participation. EPR shifts the financial responsibility for recycling from taxpayers to the
+producers of products. This funding ensures a more robust and equitable recycling system. In regions
+with packaging EPR programs, including British Columbia, Quebec, Spain, and Belgium, 98–99% of
+residents have access to recycling services. This is a significant improvement over the U.S., where
+40% of households lack equitable access to recycling. EPR-funded programs also see much higher
+participation rates: in Quebec and British Columbia, 97% and 99% of residents who can recycle do
+so all or most of the time. This is in stark contrast to the overall U.S. household participation rate of
+72%.200
+2. Infrastructure. Under EPR, producers must invest in recycling infrastructure to meet performance
+standards. This contrasts with traditional recycling programs, which are often hindered by limited
+budgets, consumer unwillingness to pay, and unstable markets for recycled materials. By shifting
+196 The Recycling Partnership, "EPR Policy Report," page 8, accessed August 26, 2025, from https://recyclingpartnership.org/wp-
+content/uploads/dlm_uploads/2023/02/Recycling-Partnership-EPR-Policy-Report-final.pdf.
+197 Ibid.
+198 Ibid.
+199 This finding is echoed in the RRS memo on impact of EPR on recycling rates.
+200 The Recycling Partnership, "EPR Policy Report," p. 5.
+EPR background: plastics and packaging | page 67
+
+financial responsibility to producers, EPR encourages long-term investment in a more efficient
+recycling system.201
+3. Education. Funding for recycling education in the U.S. is often limited, relying on municipal efforts,
+grants, and nonprofits. A 2019 survey found that average spending on education was just $0.95 per
+household per year, with less than half of communities having dedicated budgets. In contrast,
+packaging EPR programs provide significantly more funding for recycling education. For example, in
+2021, British Columbia's packaging EPR program, RecycleBC, spent $1.54 per household, which is
+more than five times what Connecticut's RecycleCT spent in 2019 ($0.31 per household).202
+4. Market stability. Packaging EPR programs ensure recycling rates remain stable even during market
+downturns, such as during China’s 2018–2020 "National Sword" policy that prohibited recyclables
+from Western countries from entering the country.203 While many U.S. recycling programs suffered
+and even shut down due to low material values, Packaging EPR programs continued to improve
+recycling rates. This is because EPR shifts the financial burden from local governments and private
+facilities to producers, who are required to meet recycling performance goals regardless of market
+fluctuations. Essentially, EPR provides a stable funding source that insulates the recycling system
+from the unpredictable market for recycled materials.
+While packaging EPR programs focus on waste reduction, they are also powerful tools for achieving carbon
+reduction goals due to their impact on Scope 3 greenhouse gas emissions, which are indirect emissions from
+a company's value chain.204
+Packaging EPR laws encourage the use of sustainable packaging materials by charging lower fees for them.
+When companies switch from materials like virgin plastic to recycled content, they directly reduce the carbon
+emissions associated with production. Improved recycling rates, another impact of EPR programs, also drive
+measurable emissions reductions.205
+According to Eunomia’s report for the NWRA, France introduced eco-modulation to support design for
+recyclability, and its recycling rate has steadily increased since it was introduced compared to Germany’s;
+however, Italy’s rate has increased by more than France’s without eco-modulation. Eunomia thus claims that
+there is no definitive data that shows that EPR results in increased design-for-recycling of packaging.206
+The data needed for EPR compliance—such as material type and weight—is the same data needed to report
+on Scope 3 emissions. By collecting this information for EPR, companies can more easily and accurately
+report on their carbon footprints.207
+A primary concern raised about packaging EPR programs is the impact on consumers, primarily through an
+increase in the prices of goods using packaging covered by the program. A study often cited to support these
+concerns was authored by Calvin Lakhan, Faculty of Environment and Urban Change at York University,
+originally in 2019, and most recently updated in 2025. “Modeling direct and total economic impacts resulting
+201 Ibid., p. 6.
+202 Ibid.
+203 Upadhyaya, Nidhi, “Recycling is going to waste!” Atlantic Council EnergySource, August 28, 2019, accessed August 26, 2025, from
+https://www.atlanticcouncil.org/blogs/energysource/recycling-is-going-to-waste/.
+204 CEMA Systems, "Why EPR is Trending: The Intersection of Circular Economy, Climate Action, and Waste Reduction Mandates,"
+accessed August 26, 2025, from https://www.portal.cemasys.com/post/why-epr-is-trending-the-intersection-of-circular-economy-
+climate-action-and-waste-reduction-mandates.
+205 Ibid.
+206 NWRA report, p. 6.
+207 Ibid.
+EPR background: plastics and packaging | page 68
+
+from the adoption of Extended Producer Responsibility in New York State” aimed to understand the
+relationship between producer responsibility fees and the impact to the New York State economy.208 The
+study modeled a scenario intended to estimate the economic impact of proposed EPR packaging legislation
+on consumers.
+Lakhan’s study estimates that an EPR packaging program in New York State would place a direct financial
+burden of about $1.2 billion annually on producers.209 Lakhan uses the assumption, based on studies
+conducted by Thomas C. Kinnaman, et al., in 2020, that 80% of these direct costs will be passed onto the
+consumer.210 Lakhan details the increase in prices that products with different types of packaging would
+experience, and estimates the total price impact on a “basket of goods” to range from 4.25% to 6.75%.211 He
+identifies the following five impacts on consumers due to this cost increase:
+1. Higher prices for single-use products. Single-serve and individually packaged products will become
+more expensive, disproportionately affecting lower-income consumers who often buy smaller sizes.
+2. Packaging reformulation. To lower costs, producers may switch to cheaper, more recyclable
+materials, such as switching from plastic pouches to paperboard cartons.
+3. Bulk savings. Larger, bulk-sized products will be a better value, encouraging those who can afford it
+to buy more at once.
+4. Disparate impacts on products. Products that heavily use plastic, like dairy and cleaning supplies, will
+see greater price increases, while those in aluminum cans or cardboard boxes will be less affected.
+5. Inequitable burden. Low-income households will be disproportionately impacted as they often buy
+pre-packaged foods that use harder-to-recycle materials.
+There are several common criticisms of Lakhan’s research, many of which revolve around a lack of citations
+and references. The Recycling Partnership, in a response to Lakhan’s original paper, wrote the following:
+Studies citing consumer surveys, average grocery costs for families, increased consumer price
+indexes in EPR jurisdictions, assumptions of business practices, and assumptions about the elasticity
+and pricing of goods lack any supporting references. Key datasets and assumptions used in the New
+York state EPR for packaging white paper are missing, making it impossible to check the calculations
+from the study.212
+The Recycling Partnership also claims the paper uses “a mixture of proxy and out-of-date data” for
+calculations on producer costs and fails to take positive economic impacts into account in the input-output
+analysis.213
+Other organizations have conducted studies on packaging EPR’s impact to consumers, including from RRS in
+2020 and Columbia University Professor Satyajit Bose in 2022. RRS conducted a study examining the prices
+208 Lakhan, Calvin, "Modeling direct and total economic impacts resulting from the adoption of Extended Producer Responsibility in New
+York State," accessed August 26, 2025, from https://www.bcnys.org/sites/default/files/2025-
+03/EPR%20Study%20New%20York%202025%20FINAL%20030425.pdf
+209 Ibid.
+210 Unable to find the study referenced in Lakhan’s paper.
+211 Lakhan, “Modeling direct and total economic impacts,” 18. It is not clear how this range is calculated.
+212 The Recycling Partnership, “Extended Producer Responsibility: Responding to Claims About the Impact on Consumer Price,” p. 2,
+accessed August 26, 2025, from https://drive.google.com/file/d/1GcfT3I4NOAwzpFbjaM2c-Bt3ONOvYlC_/view.
+213 Ibid.
+EPR background: plastics and packaging | page 69
+
+of consumer goods in jurisdictions with and without EPR packaging programs.214 The team conducted a
+virtual shopping study, comparing product costs in Canadian provinces with and without these policies.
+Ultimately, they found no clear link between product prices and the presence of EPR policies.215
+Satyajit Bose, Professor of Practice and Associate Director of the Sustainability Management Program at
+Columbia University, conducted a study analyzing the potential impact of a nationwide EPR program on
+consumer prices, specifically for groceries.216 He estimated the maximum increase in a typical U.S.
+household's monthly grocery bill would be about $4, or roughly 0.69% of their total monthly grocery spending.
+This estimate assumes a worst-case scenario where EPR costs double a product's packaging cost. Given that
+a typical household's grocery bill can fluctuate by much more than this due to inflation, Bose notes that this
+change would be difficult to notice.
+Small businesses
+One concern about EPR packaging legislation is the impact on small businesses for whom compliance may
+be a burden. Each piece of EPR packaging legislation passed in the U.S. so far addresses this concern
+differently. Table 18 summarizes exemptions granted to small businesses.
+Table 18. — U.S. EPR packaging laws’ small-business exclusion thresholds.
+State Revenue threshold Weight of covered material sold Notes
+into state
+Maine217 $5 million gross 1 ton Threshold decreases to $2 million after
+revenue three years
+Oregon218 $5 million gross 1 metric ton Metric ton = 2,204 lbs
+revenue
+Colorado219 $5 million gross 1 ton
+revenue
+California220 $1 million sales into n/a Currently no exemption for small
+state producers regarding 2032 law for all
+packaging to be recyclable or
+compostable
+Minnesota221 $2 million global 1 ton
+revenue
+Maryland222 $2 million global 1 ton
+revenue
+214 Oregon Department of Environmental Quality, "Recycling Rates in States with EPR."
+215 Ibid.
+216 Bose, Satyajit, “Economic impacts to consumers from extended producer responsibility (EPR) regulation in the consumer packaged
+goods sector,” July 21, 2022, accessed August 26, 2025, from https://academiccommons.columbia.edu/doi/10.7916/n2af-vv87.
+217 38 Me. Rev. Stat. Ann. §2146(2).
+218 36A Or. Rev. Stat. § 459A.863(32); § 459A.872.
+219 Colo. Rev. Stat. § 25-17-713.
+220 Cal. Pub. Res. Code § 42060(a)(5); Cal. Code Regs. tit. 14, § 18980.5.2 (proposed July 2025),
+https://www2.calrecycle.ca.gov/Docs/Web/130779.
+221 Minn. Stat. § 115A.1441, subd. 13, 26(b)
+222 Md. Code, Env't § 9–2501(j) & (p)(2), https://mgaleg.maryland.gov/2025RS/bills/sb/sb0901E.pdf.
+EPR background: plastics and packaging | page 70
+
+State Revenue threshold Weight of covered material sold Notes
+into state
+Washington223 $5 million global 1 ton Threshold will be adjusted for inflation
+revenue beginning in 2031
+$5 million in state for
+agriculture
+Haulers and recyclers
+The changes EPR for packaging would make to the waste system would impact waste haulers and recyclers
+as well. An article published in 2020 by RRS highlights some of the conflicting opinions from waste haulers
+and recyclers.224 Their concerns largely revolve around a potential loss of control over local decision-making.
+Many waste haulers work to develop personal relationships with customers to understand their specific
+needs, which could be disrupted in a system that relies on a PRO to manage the entire process.
+There are also potential benefits to this legislation for these entities. EPR could improve equity and access to
+collection services, benefiting rural recycling systems and providing financial support for the long-distance
+transportation to end-markets often required in rural areas. EPR could also increase contamination-reduction
+efforts, increase quality and reduce sorting costs, and provide a stable flow of financial support into the
+market.225
+Ten benefits of packaging EPR for Massachusetts
+Packaging EPR offers Massachusetts a range of potential economic, environmental, and community benefits,
+including:
+1. Cost savings. Shifting more financial and operational responsibility to producers will provide
+meaningful financial relief for cities and towns.
+2. Efficiency. Creates more consistent, convenient, and comprehensive recycling programs across the
+Commonwealth.
+3. Clarity. Standardized educational and accepted materials reduce confusion over what can and
+cannot be recycled.
+4. Stability. Dedicated funding and systemwide coordination reduce the impact of market fluctuations
+on recycling systems.
+5. Infrastructure improvements. Producer funding can modernize recycling systems, expand
+technology, increase access, and upgrade facilities.
+6. Innovation. Companies are incentivized to design packaging that is easier to recycle, reuse, or
+compost.
+7. Environmental protection. Reduces litter, plastic pollution, and associated environmental impacts.
+8. Waste diversion. Diverting waste by increased reduction, reuse, recycling, and composting reduces
+the costs and impacts of in-state and out-of-state disposal.
+9. Climate progress. Supports Massachusetts’ waste reduction and climate goals.
+10. Economic development. Expands markets for recycled and composted materials and creates new
+job opportunities and economic development in recycling and composting.
+223 Rev. Code Wash. § 70A.102(16), (29)(b), https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5284-
+S2.sl.pdf.
+224 Colin Staub, "Recycling operators sound off on packaging EPR," Resource Recycling, December 22, 2020, https://resource-
+recycling.com/recycling/2020/12/22/recycling-operators-sound-off-on-packaging-epr/.
+225 Ibid.
+EPR background: plastics and packaging | page 71
+
+EPR background: plastics and packaging | page 72
+
+Legislation and policy considerations
+2025 state legislation
+State lawmakers across the U.S. introduced more than 148 EPR bills in 2025, with packaging remaining one
+of the primary areas of focus. This year, at least 13 states considered 30 bills related to packaging. Four bills
+were enacted this session, two creating new programs in Maryland (SB 901) and Washington (SB 5284), and
+two amending existing laws in Maine (LD 1423) and Oregon (SB 992). Seven bills—in Massachusetts, New
+Jersey, and North Carolina—are currently pending. Fourteen bills—in Hawaii, Illinois, Minnesota, New York,
+Tennessee, and Washington—will carry over to 2026.
+Policy consideration
+Over the past 25 years, through extensive stakeholder engagement, PSI developed 16 essential elements of
+EPR that serve as a framework for developing legislation, analyzing existing laws, and guiding
+implementation.226 These elements apply across product categories, including packaging. Table 19 below
+contains policy considerations for packaging EPR as they relate to each element.
+Table 19. — PSI’s 16 elements of packaging EPR.
+Element Description Policy considerations
+1. Covered materials Materials that are subject to Packaging (including food serviceware) and paper
+the EPR program products sold or distributed into the state
+2. Covered entities Stakeholders that may use the Single and multi-family residences, and some non-
+EPR program (receive free residential locations (schools, public buildings,
+recycling services) hospitality, etc.)
+3. Collection and Minimum level of collection Free, convenient statewide collection that maintains and
+convenience convenience that a program expands on current system; recycling “as convenient as
+plan must provide to covered trash” and available to covered entities
+entities
+4. Responsible party Defines who is responsible for Tiered hierarchy including brand owner,
+funding and managing the EPR manufacturer/licensee, and first importer into the state
+program
+5. Governance Defines roles for PRO, One PRO to start; option to add additional PRO after first
+advisory council, and state program cycle; option for independent producer plan;
+oversight multi-stakeholder advisory council
+6. Funding inputs How funding enters the EPR Producer fees based on material type, weight, and cost
+system to manage with adjustments made for eco-modulation
+7. Funding allocation How EPR program funds are Full responsibility (traditional EPR): 100% net cost of
+spent recycling (including collection, transportation,
+processing, education, agency costs); needs
+assessment often funded by PRO
+8. Design for Provisions beyond eco- PRO fee structure incentivizes environmental design
+environment modulated fees that minimize (e.g., toxics reduction, source reduction, PCR content,
+environmental and health etc.)
+impacts of covered materials
+226 Product Stewardship Institute, n 15.
+EPR background: plastics and packaging | page 73
+
+Element Description Policy considerations
+9. Performance Requirements and metrics to Specific performance targets set in program plan and
+standards gauge the success and informed by needs assessment
+progress of the EPR program
+10. Outreach and Provisions to ensure that PRO funds and implements statewide consistent
+education consumers, retailers, and outreach and education campaigns for wide reach;
+other key stakeholders are evaluated in annual reports
+informed about the EPR
+program
+11. Equity and Components that encourage Equity studies to identify how to improve access in
+environmental equitable and just practices underserved communities; advisory board
+justice (EJ) representation by EJ organization; living wages;
+workplace conditions study and/or requirement
+12. Enforcement and Measures to ensure PRO responsible for ensuring producers are compliant;
+penalties for compliance with EPR law and state enforces compliance and issues penalties for non-
+violation penalties for non-compliance compliant producers
+13. Stewardship plan Minimum components of a Participating producers; product categories; covered
+contents stewardship plan describing entities; funding mechanism; targets; collection &
+how responsible parties will convenience; education; integration with existing
+implement EPR program programs/infrastructure; compliance; reporting; closure
+plan; other info
+14. Annual report Minimum components of an Materials introduced; targets; costs; financial audit;
+contents annual report that responsible program issues; technical assistance provided;
+parties will submit to the state education; advisory board consultations; non-compliant
+producers; proposed amendments; recommendations
+for material changes; other info
+15. Implementation Schedule for the submission, Year 1 appoint PRO, advisory board, service providers
+timeline review, and approval of register and state conducts assessment; Year 2 create
+program plans statewide list, PRO submits first plan; Year 3 PRO
+implements approved plan, PRO covers costs and
+submits annual reports to state.
+16. Additional Additional sections of the bill Clear, consistent definitions
+components and that do not fit in other elements
+definitions and key definitions
+EPR background: plastics and packaging | page 74
+
+Appendices
+A. Letters on recommendations to the Legislature
+a. Paint: see https://www.mass.gov/doc/epr-commission-paint-letter/download
+b. Mattresses: see https://www.mass.gov/doc/epr-commission-mattress-
+recommendation/download
+c. Batteries: see https://www.mass.gov/doc/eprc-battery-recommendation/download
+B. Suggested edits to this report
+a. From Commissioner Trabert, received December 5, 2025
+b. From Commissioner Webb, received December 5, 2025
+C. Public comments: see https://www.mass.gov/doc/epr-commission-comments/download
+EPR background: plastics and packaging | page 75

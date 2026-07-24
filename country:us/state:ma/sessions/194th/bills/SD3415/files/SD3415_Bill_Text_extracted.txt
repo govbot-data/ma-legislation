@@ -1,0 +1,855 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Massachusetts Department of Correction
+Correctional Industries Program
+Participation and Recidivism
+An Analysis on Incarcerated Individuals Released in 2018
+Calendar Year 2024
+Executive Office of Public Safety and Security
+September 2024
+Maura T. Healey, Governor
+Terrence M. Reidy, Secretary of Public Safety and Security
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+COMMONWEALTH OF MASSACHUSETTS
+Maura T. Healey, Governor
+Kimberley Driscoll, Lieutenant Governor
+EXECUTIVE OFFICE OF PUBLIC SAFETY AND SECURITY
+Terrence M. Reidy, Secretary
+MASSACHUSETTS DEPARTMENT OF CORRECTION
+Shawn P. Jenkins, Interim Commissioner
+Rhiana Kohl, Ph.D., Executive Director, Strategic Planning and Research
+PREPARED BY
+Hollie Matthews, Deputy Director, Strategic Planning and Research
+Jiqiang Rong, Statistician, Research and Planning Division
+Benjamin Desrochers, Program Evaluation Manger, Research and Planning Division
+ACKNOWLEDGEMENTS
+The publication of this report would not be possible without the assistance of the following:
+Massachusetts Department of Correction, Massachusetts Correctional Industries
+Massachusetts Department of Correction, Research and Planning Division
+This and other Massachusetts Department of Correction publications can be accessed on the internet at:
+https://www.mass.gov/research-statistics-and-reports
+2
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Table of Contents
+Acknowledgments ........................................................................................................................... i
+Table of Contents ........................................................................................................................... ii
+Executive Summary ....................................................................................................................... 1
+Key Findings ................................................................................................................................... 1
+Introduction .................................................................................................................................... 1
+Methodology ................................................................................................................................... 3
+Program Participants, Hours worked and Payment Received ................................................. 3
+Program Participants and Associated Disciplinary Reports .................................................... 7
+Program Participants and Associated Recidivism .................................................................... 10
+Program Participants vs. Non-Participants ............................................................................... 12
+Summary ....................................................................................................................................... 15
+Works Cited .................................................................................................................................. 16
+Appendix ....................................................................................................................................... 17
+i
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Executive Summary
+The purpose of this study was to discuss Massachusetts Department of Correction (MADOC) incarcerated
+individuals’ participation in Correctional Industries (CI), focusing on the areas of program participation
+and hours worked, compensation, employment, and disciplinary reports. Recidivism rates1, based on a
+three-year follow-up of MADOC incarcerated individuals released during 2018 who participated in CI, are
+analyzed to see if reductions in recidivism were observed. 2 Regression analysis was performed to identify
+differences between the participants and non-participants based on key demographics.
+Key Findings
+• Less than 10% of incarcerated individuals released in 2018 participated in the CI program. Slightly
+over one-half of those individuals participated in the programs for less than six months.
+• Incarcerated individuals who worked for two or more years made an average of $5,973. In contrast,
+incarcerated individuals involved with the programs for less than six months made only $159.
+• Working in the CI programs for six months or more is associated with the reduced number of
+disciplinary reports (D-reports).
+• The incarcerated individuals who did not participate in the programs had the highest recidivism
+rate of 29%, which was reduced to 24% among incarcerated individuals involved in the programs
+for less than six months, and to 22% among incarcerated individuals who stayed with the programs
+for six or more months. Such reductions, however, were not statistically significant.
+Introduction
+Incarcerated individuals returning to the community after a period of incarceration typically face several
+difficult challenges upon release. Securing employment is one of the most important and difficult tasks for
+a formerly incarcerated individual to achieve (James, 2015). By obtaining a job that provides a living wage
+post-release, formerly incarcerated individuals are able to support themselves, build pro-social bonds and
+add structure to their lives that may help them desist from criminal behavior (Minnesota Department of
+Corrections, 2011). However, those who seek employment after release are often rejected due to their
+criminal history, and may lack the necessary education, work experience, or skills needed to maintain a
+long-term job, and may be barred from receiving occupational licensing depending on state law (Evans and
+Koenig, 2011; Wang and Bertman, 2022; Sibilla, 2020). A recent publication by the U.S. Justice
+Department found that one third of a cohort (n = 73,500) of incarcerated individuals released from federal
+prisons in 2010 did not find employment throughout the entire sixteen quarter follow up period. These
+1 The recidivism rate is calculated by dividing the number of incarcerated individuals reincarcerated by the number of
+incarcerated individuals in the release cohort.
+2 Pursuant to its own internal practices, MADOC employees are not permitted to contact incarcerated individuals after
+release, therefore the follow-up data on incarcerated individual’s employment after releases is not included in this report.
+1
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+findings highlight the difficulties that formerly incarcerated individuals face when searching for
+employment in the community (Carson et al, 2021).
+A growing body of research shows the impact of prison industry programing on the lives of those formerly
+incarcerated. Many of these programs can provide incarcerated individuals with a necessary level of training
+and work experience prior to release. Industry programs have been shown to increase employment across
+many states and demographics and have also been able to show significant reductions in recidivism, in
+addition to the more direct economic benefits to the state. In turn, those savings can be reinvested into
+continued programing (Evans and Koenig, 2011; Harris and Goldman, 2014; Prell, 2006)
+Results derived from an evaluation of the state of Washington’s CI program found that CI program
+participants displayed statistically lower rates of recidivism, quicker employment times from release, and
+higher earnings by the end of the study’s follow up period (Evans & Koenig, 2011). Similarly promising
+results were produced in an evaluation of Minnesota’s EMPLOY program. 76% of incarcerated individuals
+who participated in this program secured meaningful employment within the first year post-release and
+worked, on average, 400 more hours, earning up to $5,000 more than comparison groups. Not only did
+participants in this program have lower reconviction rates for new crimes, but they also showed a 17% less
+likely chance of reincarceration due to technical violations (Minnesota Department of Corrections, 2011).
+Likewise, recently released incarcerated individuals in Iowa’s private sector prison industry programs were
+also more likely to succeed in transitioning into their respective communities. 80% of individuals who
+participated in this type of programing obtained employment in the first quarter post-release, while only
+60% of the control group--those who did not participate in prison industry programming--obtained
+employment in the same time frame. By the end of the follow up period, which ranged between just under
+two years to four and one-half years depending on an incarcerated individual’s release date, only 11% of
+those who participated in programing were unable to find meaningful employment. Of those who did
+participate and subsequently found employment, nearly half maintained their first job for one year post-
+release and earned between $4,381 and $5,620 more than the comparison group by the end of the follow-
+up period. In terms of reconviction, between 95.5% and 95.6% of participants of prison industry programing
+had not been reconvicted by the end of the follow up period (Smith et al., 2006; Prell, 2006).
+California’s self-supporting program titled the California Prison Industry Authority (CALPIA) aims to
+achieve similar goals of lowering recidivism while providing integral work experience for the ex-
+incarcerated individual. This program has been optimized to provide the state more funding while
+providing a variety of goods and services that are sold in the private sector. CALPIA manages up to 57
+manufacturing, service, and consumable factories across 25 California DOC facilities (Harris and Goldman,
+2014). Between 2012 and 2013, CALPIA sold $180.2 million in products and services. Purchases and sales
+combined gave CALPIA a total economic impact of $375.4 million, a labor income impact of $92.6 million
+and an employment impact of 1,913 jobs. CALPIA participants experienced reincarceration between 26%
+and 38% less often in the three years post-release than other released California incarcerated individuals
+who did not participate in such programing. Furthermore, those who participated in CALPIA and the Career
+Technical Education Program between FY 2007-08 and 2010-11 had a recidivism rate of 7.13% (Harris
+and Goldman, 2014). A more recent evaluation continues to show significantly lower rates of rearrest and
+reconviction for CALPIA participants when compared to control groups (Hess and Turner, 2021).
+2
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Correctional Industries at the Massachusetts Department of Correction
+The mission of Correctional Industries (CI) at the MADOC is to foster a positive work ethic in incarcerated
+individuals by providing training and skills for a successful reentry into the community through work
+opportunities. With the acquired skills of on-the-job training and work ethics gained through CI, returning
+incarcerated individuals have a greater chance of being gainfully employed and succeeding after their
+release, thus reducing the possibility of recidivism.
+MADOC CI employs approximately 375 incarcerated individuals at eight institutions (See Appendix).
+Eligibility for CI is determined by a Classification Board after receipt of a request by the individual.
+MADOC CI served 262 state agencies and 1,493 non-state customers from July 1, 2020, to June 30, 2023.
+Its certification programs are made available to all eligible incarcerated individuals, where available. The
+Tablet Program is providing opportunities to provide valuable training on manufacturing process, leading
+to certification where applicable. CI program participants are paid an average hourly stipend rate of $1.10,
+ranging from $0.50 to $1.75 an hour.
+Methodology
+The analysis herein is based on the 2018 release to the community cohort and examines recidivism rates
+over a three-year follow-up period. The cohort includes criminally sentenced incarcerated individuals
+released to the community via parole or expiration of sentence. Areas examined include the number of
+program participants, the length of their participation, the amount of compensation, the difference in the
+number of disciplinary reports between program participants and non-participants, participants’
+demographics, and ultimately the relation between participation in the CI programs and recidivism. The
+data used in the analyses were derived from MADOC’s Inmate Management System (IMS).
+Recidivism data was gathered from the MADOC’s IMS, Massachusetts Parole Board’s SPIRIT Database,
+and the Massachusetts Board of Probation (BOP). Data was derived from the information available at the
+time of collection and is subject to change. The criminal activity of incarcerated individuals released to the
+community during 2018 was tracked through the Massachusetts Criminal Justice Information System
+(CJIS) to determine any re-incarceration within three years of the incarcerated individual’s release to the
+community.
+An incarcerated individual can be re-incarcerated in one of the following ways: technical violation of
+parole; violation of parole with a new offense; new court commitment to a Massachusetts county, state, or
+federal facility; technical violation of probation; or probation violation with a new offense. The recidivism
+rate is calculated by dividing the number of re-incarcerations by the number of releases in a given category.
+Program Participation, Hours Worked and Payment Received
+The data shows that only a small portion (8%) of the 2,006 incarcerated individuals released in 2018 were
+enrolled in CI programs at some time during their incarceration. The overwhelming majority of these
+incarcerated individuals did not participate in CI programs (Figure 1).
+3
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Incarcerated individuals who participated in the CI programs were enrolled in the programs for an average
+of 467 days, measured from the first day of their first payroll week to the last day of their final payroll week
+before release. However, slightly more than one-half of the program participants (53%) participated in the
+programs for less than six months and another fourteen percent (14%) participated in the programs for six
+months to less than one year, resulting in two-thirds of participants remaining in the programs for less than
+365 days (Figure 2).
+4
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Payroll data confirmed that incarcerated individuals who remained with the industries programs longer
+naturally worked more hours than those who did not participate in the program as long. As shown in Figure
+3, incarcerated individuals who participated in the programs for less than six months worked, on average,
+165 hours while incarcerated individuals who joined the programs for two or more years worked an average
+of 6,077 hours each, or 37 times more hours than their counterparts with the shortest participation history.
+When examining the average time worked per pay period, the large differences across categories of
+participation duration were reduced substantially. On average, incarcerated individuals who were involved
+in the programs longer worked about one hour more per pay period than their shorter duration counterparts,
+which was 20.6 hours for the less than six months group, 21.5 and 22.6 hours respectively for the two
+middle duration categories, and 24.1 hours for the longest duration group. It should be noted, however,
+that the differences across the categories of participation duration were not statistically significant at the
+95% confidence level3 (Figure 4).
+3 Statistical significance refers to whether any differences observed between groups being studied are “real” or due to
+chance. In most sciences, results yielding a p-value of .05 or 95% confidence level are on the borderline of statistical
+significance. At this level or higher, we would conclude that the differences observed between groups are not due to chance.
+5
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+By the same token, incarcerated individuals who participated in the CI programs for a longer period earned
+more money than those who participated for a shorter duration. As shown in Figure 5, incarcerated
+individuals who worked for two or more years made an average of $5,973. In contrast, incarcerated
+individuals involved with the programs for less than six months earned only $159. For incarcerated
+individuals that fell in the two middle categories, the total average payment they received also fell between
+the two ends of the spectrum. On average, CI program participants were paid an hourly rate of $0.93,
+ranging from $0.40 to $1.48 an hour.
+6
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Program Participation and Its Association with Disciplinary Reports (D-reports)
+Of the incarcerated individuals released in 2018, about 71% had at least one D-report during the time they
+were incarcerated before release. A higher percentage of incarcerated individuals who took part in the CI
+programs (81%) received at least one D-report compared to the incarcerated individuals who did not
+participate in the programs (70%).
+On average, incarcerated individuals who participated in the CI programs received 5.8 D-reports during the
+time they were incarcerated before their release in 2018, about the same as the 5.6 D-reports received by
+the non-program participants. Since the total number of D-reports tends to grow with the length of
+incarceration, the average number of D-reports received per year revealed that program participants
+received 1 D-report per year, lower than 1.6 D-reports that non-program participants received per year.
+Participation in the CI programs appears to reduce the number of D-reports that an incarcerated individual
+received on a yearly basis (Figure 7).
+7
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Across the durations of program participation, incarcerated individuals who participated in the CI program
+for a longer duration had fewer D-reports than their shorter duration counterparts. The differences, however,
+were not statistically significant. On the other hand, incarcerated individuals in the two longest duration
+categories had the lower average number of D-reports per year than the two shorter participation duration
+groups, indicating that working in the CI programs for one or more years is associated with the reduced
+number of D-reports per year (Figure 8).
+8
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+The number of D-reports reported in Figure 8 covers the entire time in which an individual was incarcerated.
+Figures 9 and 10 look at these numbers in two separate time periods: the time before program participation,
+and the time since program participation before release. As shown in Figure 9, incarcerated individuals in
+the six months to less than a year group had the highest total number of D-reports (4.4) and the highest
+average number of D-reports per year (1.4). On the other hand, participants in programs for one year to less
+than two years reported the lowest total number of D-reports (1.4) and the lowest average number of D-
+reports per year (0.3), with the other two participation duration groups falling somewhere between on both
+measurements. However, none of the differences shown here are statistically significant at the 95%
+confidence level (Figure 9).
+Compared with the number of D-reports that incarcerated individuals received before they joined the CI
+programs, participation in the programs appeared to reduce the number of D-reports received. The average
+number of D-reports per year decreased steadily as program participants moved from the shortest duration
+group to the longer duration categories. The average total number of D-reports was also much lower when
+comparing the three longer duration groups with the shortest duration group. This confirms that
+participation in the CI program for six months or more is associated with a reduced number of D-reports in
+total and per year (Figure 10).
+9
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+In summary, participation in the CI programs for a short amount of time may not necessarily lower the
+number of D-reports that incarcerated individuals received. However, staying with the programs for six
+months or more is associated with a reduced number of D-reports both in total and per year.
+Program Participation and Its Association with Recidivism
+A look into the relation between the length of program participation and recidivism reveals little difference
+between the rate of recidivism and program participation duration. The incarcerated individuals who
+participated in the programs for less than six months had a slightly higher recidivism rate of 24%, which
+was reduced marginally to 23% among incarcerated individuals whose involvement in the programs ranged
+from six months to less than a year and to 22% among incarcerated individuals who stayed with the
+programs for one or more years. In other words, the duration of program participation had little impact on
+the rate of recidivism (Figure 11).
+10
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Combining the above three length categories into two categories along the six-month line and comparing
+the data with that of non-participating individuals reveals that enrollment in the programs may have an
+effect on reducing overall recidivism. Compared with the recidivism rate (29%) of incarcerated individuals
+who were not enrolled in the programs, the rate of recidivism was lower among incarcerated individuals
+who participated in the programs for less than six months (24%), and for six or more months (22%). The
+differences, however, were not statistically significant at the 95% confidence level (Figure 12).
+11
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Program Participants vs. Non-Participants
+An investigation revealed that the key demographics of incarcerated individuals participating in the
+programs were statistically different from the same demographics of those individuals not participating in
+the programs in terms of gender, governing offense category, release institution security level, post-release
+supervision, age at release, general recidivism risk score, and time served in prison. There was no statistical
+difference between participating and non-participating individuals in relation to the demographics of
+race/ethnicity and mandatory sentence.
+Incarcerated individuals who worked half a year or more were more likely to be in the violent (person and
+sex offenses) as opposed to non-violent (drug, property, and other offenses) crime categories, in a lower
+institution security level at the time of release, and more likely to be subject to post-release supervision
+(parole only or parole & probation) than individuals who did not participate in the programs. They were
+also more likely to be males than females when compared with incarcerated individuals from the non-
+participation group, appeared to be older than non-participants at the time of release, had a lower recidivism
+risk score, and served longer time in prison (Figure 13).
+Given the demographic differences among the three categories of program involvement recognized above
+and the weak association between program enrollment and the lower rate of recidivism shown in Figure 12,
+a logistic regression analysis was performed to determine whether these variables had stronger influences
+on recidivism.
+12
+F
+V
+G
+R
+M
+G
+R
+P
+AGT*
+ig u re 1 3 . P a rtic ip a tio n in C o rre c tio
+a ria b le N a m e
+e n d e r *
+a c e / E th n ic ity
+a n d a to ry S e n te n c e
+o v e rn in g O ffe n s e C a te g o ry * *
+e le a s e In s titu tio n S e c u rity L e v e l* *
+o s t-re le a s e S u p e rv is io n *
+g e a t R e le a s e * *
+e n e ra l R e c id iv is m R is k S c o re * *
+im e S e rv e d * *
+d e n o te s p < .0 5 , * * d e n o te s p < .0 1
+n a l In d u s trie
+C
+MFWBHOYNNVMMMPNPPPMMM
+s P ro g ra m s b y K e y
+a te g o ry
+a le
+e m a le
+h ite
+la c k o r A fric a n A m
+is p a n ic
+th e r
+e soo
+n _ v io le n t
+io le n t
+a x im u m
+e d iu m
+in im u m
+re -R e le a s e / E L M O
+o s u p e rv is io n
+a ro le & P ro b a tio n
+a ro le O n ly
+ro b a tio n O n ly
+e a n A g e
+e a n R is k S c o re
+e a n N u m b e r o f D
+D e m
+e ric a
+a y s
+o
+n
+g ra p h ic
+N
+s
+o t W o rk
+9 1 .5 %
+9 5 .3 %
+9 1 .9 %
+9 0 .8 %
+9 4 .7 %
+8 8 .7 %
+9 0 .9 %
+9 2 .6 %
+9 5 .1 %
+8 8 .6 %
+9 4 .3 %
+9 3 .1 %
+9 3 .6 %
+8 4 .3 %
+9 3 .5 %
+9 0 .6 %
+8 8 .4 %
+9 2 .7 %
+3 7 .4
+6 .5 3
+1 ,2 2 6
+e d
+T
+Wh
+a
+o rk e d L e s s
+n H a lf-a -Y e a
+4 .4 %
+3 .0 %
+4 .3 %
+5 .2 %
+2 .8 %
+3 .8 %
+4 .7 %
+4 .0 %
+3 .0 %
+5 .6 %
+4 .8 %
+3 .0 %
+3 .1 %
+9 .3 %
+4 .1 %
+4 .4 %
+5 .0 %
+3 .8 %
+3 9 .3
+6 .4 8
+1 ,7 6 5
+r
+W o rk e
+H a lf-a
+Y e a r o
+M o re
+4 .1 %
+1 .7 %
+3 .8 %
+4 .0 %
+2 .5 %
+7 .5 %
+4 .4 %
+3 .4 %
+1 .9 %
+5 .8 %
+0 .9 %
+3 .9 %
+3 .3 %
+6 .4 %
+2 .4 %
+5 .0 %
+6 .6 %
+3 .5 %
+4 7 .6
+4 .4 2
+4 ,5 9 5
+d
+-r
+C o u n t
+1 ,6 0 3
+4 0 3
+9 8 1
+5 0 0
+4 7 2
+5 3
+4 7 4
+1 ,5 3 2
+1 ,1 0 9
+8 9 7
+3 1 4
+1 ,0 0 1
+4 2 3
+2 6 8
+8 0 7
+1 8 1
+3 0 1
+7 1 7
+2 ,0 0 6
+1 ,8 2 7
+2 ,0 0 6
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Logistic Regression Model
+The ten predictor variables in the logistic regression analysis included seven binary variables and three
+continuous variables. The binary variables were program participation, gender, race/ethnicity, mandatory
+sentence, governing offense category, release institution security level, and post-release supervision. The
+continuous variables were age at release, general risk score, and time served.
+• Program participation was measured using two binary indicators of whether an incarcerated individual
+worked for less than six months (4.1%) or for six months or more (3.6%); incarcerated individuals who
+did not participate in the programs served as the reference group (92.3%).
+• Gender was measured using a binary indicator of whether an incarcerated individual was male (79.9%);
+females served as the reference group (20.1%).
+• Race/ethnicity was measured using three binary indicators of Black or African American (24.9%),
+Hispanic (23.5%) and other races (2.6%). White was in the reference group (48.9%).
+• Mandatory sentence was measured using a binary indicator of whether the Massachusetts General Law
+governing an incarcerated individual’s governing offense contains a mandatory restriction (23.6%);
+those not having a governing offense containing a mandatory restriction served as the reference group
+(76.4%).
+• Governing offense category was measured using a binary indicator of whether an incarcerated
+individual committed a violent governing offense (44.7%); non-violent governing offense served as the
+reference group (55.3%).
+• Release institution security level was measured using three binary indicators: medium security level
+(49.9%), minimum security level (21.1%), and pre-release/Electronic Monitoring (ELMO) (13.4%);
+maximum security level served as the reference group (15.6%).
+• Post-release supervision was measured using three binary indicators of whether an incarcerated
+individual was placed under post-release supervision of parole and probation (9.0%), parole only
+(15.0%) or probation only (35.7%); no post-release supervision served as the reference group (40.3%).
+• Age at release was a continuous variable that measured the age of an incarcerated individual at the time
+of release. Incarcerated individuals in this study had an average age of 37.8 when they were released
+from prison, ranging from age 19 to 81.
+• General risk score, another continuous variable, was a measure of incarcerated individuals’ recidivism
+risk based on the COMPAS Risk Assessment4. On average, incarcerated individuals under analysis
+had a risk score of 6.5, ranging from a score of 1, the lowest risk, to a score of 10, the highest risk score.
+• Time served was a continuous variable that measured the number of days an incarcerated individual
+stayed in MADOC custody plus jail credits received prior to sentencing. Incarcerated individuals
+released in 2018 served an average of 1,371 days prior to their release, ranging from 1 to 18,358 days.
+4 COMPAS: Correctional Offender Management Profiling for Alternative Sanctions is an automated risk/needs assessment
+tool utilized to inform the development of an incarcerated individual’s personalized program plan. COMPAS has been
+normed and validated to the Massachusetts Department of Correction population.
+13
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+A simple logistic regression model that tested the impact of CI work participation on recidivism confirmed
+the findings shown in Figure 12. Compared with the incarcerated individuals who did not take part in the
+CI programs, participation in the programs for less than six months and for six months or more would
+reduce the odds of recidivism by a factor of 0.774 and 0.685 respectively. However, the reduction was not
+statistically significant at the 95% confidence level (Figure 14).
+The impact of program participation on recidivism remained largely intact with regards to incarcerated
+individuals who worked in the programs for less than six months when other predictor variables were
+introduced into the model. Participation in the programs for less than six months could reduce the odds of
+recidivism by a factor of 0.876. Conversely, enrollment in the programs for six months or more had no
+demonstrated beneficial effect on reducing recidivism and may increase the odds of recidivism by a factor
+of 1.144 when compared with incarcerated individuals who did not take part in the programs. However,
+neither effect is statistically significant (Figure 15).
+On the other hand, mandatory sentence, release institution security level, post-release supervision, general
+recidivism risk score, and age at release had statistically significant impacts on recidivism. Compared with
+incarcerated individuals with no post-release supervision, supervision by parole and probation, parole only,
+and probation only increased the odds of recidivism by a factor of 3.249, 4.943 and 2.131 respectively. As
+the risk score increased from low to high, the odds of recidivism increased by a factor of 1.229. In contrast,
+14
+F
+V
+W
+W
+F
+V
+W
+W
+G
+R
+R
+R
+M
+O
+R
+R
+R
+S
+S
+S
+G
+T
+A
+*
+ig u r e 1 4 . Im p a c t o f P r o g r a m P a r t ic
+a r ia b le N a m e
+o r k e d L e s s T h a n S ix M o n t h s
+o r k e d S ix M o n t h s O r M o r e
+ig u r e 1 5 . Im p a c t o f C o r r e c t io n a l In d
+a r ia b le N a m e
+o r k e d L e s s T h a n S ix M o n t h s
+o r k e d S ix M o n t h s O r M o r e
+e n d e r
+a c e / E t h n ic it y : B la c k o r A f r ic a n A m e
+a c e / E t h n ic it y : H is p a n ic
+a c e / E t h n ic it y : O t h e r
+a n d a t o r y S e n t e n c e * *
+f f e n s e C a t e g o r y
+e le a s e S e c u r it y L e v e l: M e d iu m *
+e le a s e S e c u r it y L e v e l: M in im u m * *
+e le a s e S e c u r it y L e v e l: P r e - r e le a s e / E
+u p e r v is io n : P a r o le & P r o b a t io n * *
+u p e r v is io n : P a r o le O n ly * *
+u p e r v is io n : P r o b a t io n O n ly * *
+e n e r a l R e c id iv is m R is k S c o r e * *
+im e S e r v e d
+g e a t R e le a s e *
+d e n o t e s p < .0 5 , * * d e n o t e s p < .0 1
+ip a t io n o
+u s t r ie s P
+r ic a n
+L M O * *
+n
+r
+T
+o g
+h
+r
+r
+a
+e
+m
+e - Y e a r R e c id iv is m
+C o e f f ic ie n t ( B )
+- 0 .2 5 6
+- 0 .3 7 9
+s o n T h r e e - Y e a r R
+C o e f f ic ie n t ( B )
+- 0 .1 3 2
+0 .0 6 9
+0 .3 6 5
+0 .1 7 8
+- 0 .0 6 2
+- 0 .9 4 3
+- 0 .6 4 6
+- 0 .1 5 3
+- 0 .3 2 3
+- 0 .6 9 3
+- 0 .9 4 5
+1 .1 7 8
+1 .5 9 8
+0 .7 5 7
+0 .2 0 7
+0
+- 0 .0 1 4
+( N
+e c id
+= 2
+O
+iv
+O
+,0 0 6 )
+d d s R a t io E x p (
+0 .7 7 4
+0 .6 8 5
+is m ( N = 1 ,8 2 7 )
+d d s R a t io E x p ( B
+0 .8 7 6
+1 .1 4 4
+1 .0 7 1
+1 .1 9 5
+0 .9 4
+0 .3 8 9
+0 .5 2 4
+0 .8 5 8
+0 .7 2 4
+0 .5
+0 .3 8 9
+3 .2 4 9
+4 .9 4 3
+2 .1 3 1
+1 .2 2 9
+1
+0 .9 8 6
+B
+)
+) S
+S
+ig
+ig
+n
+n
+if ic a n c e
+0 .3 2 8
+0 .1 8 7
+if ic a n c e
+0 .6 4 5
+0 .6 8 6
+0 .0 5 2
+0 .2 0 5
+0 .6 7 5
+0 .0 5 9
+< .0 0 1
+0 .2 5 2
+0 .0 3 4
+< .0 0 1
+< .0 0 1
+< .0 0 1
+< .0 0 1
+< .0 0 1
+< .0 0 1
+0 .4 5 8
+0 .0 2 3
+( p
+( p
+)
+)
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+compared with incarcerated individuals released from maximum security institutions, incarcerated
+individuals released from medium, minimum and pre-release/ELMO security institutions would decrease
+the odds of recidivism by a factor of 0.724, 0.500 and 0.389 correspondingly. Furthermore, compared with
+released incarcerated individuals whose governing offense contained no mandatory restrictions, mandatory
+restrictions would decrease the odds of recidivism by a factor of 0.637. And finally, as the age of the
+incarcerated individuals increased, the odds of recidivism would decrease by a small factor of 0.986.
+Gender, race/ethnicity, offence category, and time served appeared to have no statistically significant
+impacts on the rate of recidivism.
+Summary
+Less than 10% of incarcerated individuals released in 2018 participated in CI programs. On average, they
+were enrolled in the programs for 467 days with slightly more than one-half remaining in the programs for
+less than six months. Incarcerated individuals who stayed with the programs longer worked more hours and
+earned more money during the time they were with the programs than the incarcerated individuals who
+were not with the programs as long. On the other hand, they worked approximately as many hours per pay
+period as their shorter-participating counterparts.
+Participation in the CI programs for six months or more was associated with a reduced number of D-reports.
+Support for this association was found with both a reduced number of total D-reports and a reduction in the
+average number of D-reports per year that an incarcerated individual received during the time they were
+enrolled in the programs before release.
+Participation in the CI programs was associated with a lower rate of recidivism as well, though such an
+association did not pass statistical testing, and even reversed for the program participants in the programs
+for six months or more when controlled for the influences of other predictor variables. On the other hand,
+our analyses on the 2015, 2016, 2017 and 2018 release cohorts revealed that other variables, such as general
+recidivism risk score (2015, 2016, 2017, 2018), age at release (2015, 2018), post-release supervision (2016,
+2017, 2018), release institution security level (2016, 2017, 2018) and mandatory sentence (2016, 2017,
+2018) had stronger influences on the rate of recidivism than participation in a CI program.
+15
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Works Cited
+Carson, A., Sandler, D. H., Bhaskar, R., Fernandez, L. E., & Porter, S. R. (2021, December).
+Employment of persons released from Federal Prison in 2010. Office of Justice Programs,
+Bureau of Justice Statistics - Special Report.
+https://bjs.ojp.gov/content/pub/pdf/eprfp10.pdf
+Evans, M., & Koenig, S., Does Participation in Washington’s Correctional Industries Increase
+Employment and Reduce Recidivism? (2011). Washington State Department of Corrections.
+Retrieved from https://www.doc.wa.gov/docs/publications/reports/200-SR003.pdf.
+Harris, T. R., & Goldman, G., California Prison Industry Authority’s Economic Impact on California
+Fiscal Year 2012-2013 (2014). California Prison Industry Authority. Retrieved from
+https://www.calpia.ca.gov/wpcontent/uploads/calpia/news/Reports_and_Publications/Economic%2
+0Impact%20Report%202012-13.pdf.
+Hess, J., & Turner, S. F., CALIFORNIA PRISON INDUSTRY AUTHORITY, The Effect of Prison
+Industry on Recidivism: An Evaluation of California Prison Industry Authority (CALPIA) (2021).
+California Prison Industry Board. Retrieved April 4, 2024, from https://www.calpia.ca.gov/wp
+content/uploads/calpia/news/Reports_and_Publications/The%20Effect%20of%20Prison%20Industr
+y%20on%20Recidivism-V2-PIA.pdf.
+James, N., Offender Reentry: Correctional Statistics, Reintegration into the Community, and Recidivism
+(2015). Congressional Research Service. Retrieved from
+https://crsreports.congress.gov/product/pdf/RL/RL34287/25.
+Minnesota Department of Correction, AN OUTCOME EVALUATION OF MINNCOR’S EMPLOY
+PROGRAM (2011). Retrieved from https://mn.gov/doc/assets/03
+11EMPLOYEvaluation_tcm1089-272766.pdf.
+Prell, L., Iowa Private Sector Prison Employment Works (2006). Iowa Department of Corrections.
+Retrieved from http://publications.iowa.gov/13108/1/ICONDataDownloadIssue2-
+IowaPrivateSectorPrisonEmploymentWorks.pdf.
+Sibilla, N. (2020, August). Barred from working - A Nationwide Study of Occupational Licensing
+Barriers for Ex-Offenders. report/barred-from-working. https://ij.org/report/barred-from-working/
+Smith, C. J., Bechtel, J., Patrick, A., Smith, R. R., & Wilson-Gentry, L. (2006, May 1). Correctional
+Industries preparing incarcerated individuals for reentry: Recidivism & Post-release employment.
+National Institute of Justice. Retrieved from https://nij.ojp.gov/library/publications/correctional-
+industries-preparing-incarcerated individuals-reentry-recidivism-post-release.
+Wang, L., & Bertram, W. (2022, February 8). New Data on formerly Incarcerated People’s employment
+reveal labor market injustices. https://www.prisonpolicy.org/blog/2022/02/08/employment/
+16
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Appendix
+Massachusetts Correctional Industries Programs
+FACILITY NAME CORRECTIONAL INDUSTRIALS PROGRAM SPECIFICATION
+The Optical Shop is a full-scale eyewear laboratory providing services to
+many providers throughout Massachusetts. It utilizes the most current
+technology and equipment to produce a variety of eyewear and services.
+The incarcerated individuals currently working at this site grind, polish,
+and assemble eyeglasses for a number of customers. The industrial
+NORTH CENTRAL instructors at NCCI-Gardner are facilitating the process of testing
+CORRECTIONAL
+incarcerated persons working in the Optical Shop to gain a certification
+INSTITUTION
+from the American Board of Optometry, a nationally recognized
+(NCCI-GARDNER) organization. The test is designed to reveal the competency in the optical
+field and their overall knowledge. The individual taking this exam will be
+provided a certification from the American Board of Opticianry (ABO).
+This in turn, will allow the incarcerated individual to show qualifications
+and a work history to potential employers.
+MCI Shirley offers a sewing shop to incarcerated individuals who are
+interested in learning how to sew by producing sheets, towels, T-shirts and
+socks which are all manufactured at the facility. Incarcerated individuals
+learn valuable skills that are related to the various employment
+opportunities in the sewing industry within the state; MCI Shirley also
+offers a woodshop program where incarcerated individuals learn to build
+various types of wood furniture consisting of, but not limited to, desks,
+MCI SHIRLEY lockers, bookcases, kitchen cabinets, outdoor furniture, and credenzas.
+Participating incarcerated individuals are trained on current, state-of-the-
+art equipment including CNC (Computer Numerical Control) machines. A
+laser engraving site was also added to this location where incarcerated
+persons design and create such items as memorial plaques, wooden cutting
+boards, signs, and coasters. Incarcerated persons learn the latest
+technology for software design and machine work.
+The MCI Concord Wood Shop, MADOC’s secondary wood shop, absorbs
+the overflow from the MCI Shirley Wood Shop, enabling wood orders to
+be completed in a timelier manner. Skills are being taught to incarcerated
+MCI CONCORD5 persons, utilizing the latest technology for software design and machine
+work. They learn valuable skills that are related to various employment
+opportunities in the community. The Metal Finishing shop provides
+paint/enamel finishing services for items coming out of our Metal Shop.
+5 MCI-Concord ceased incarcerated individual housing operations on June 28, 2024.
+17
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Northeast Correctional Center is home to MADOC’s metal finishing
+operations that was modified and upgraded to utilize incarcerated persons
+in the pre-release phase of their sentence. The metal finishing operation
+NORTHEAST
+was transitioned from MCI Norfolk due to many challenges with aging
+CORRECTIONAL
+infrastructure in MCI Norfolk. This transition was critical to keep our
+CENTER
+products moving forward. Built inside an old body shop, this location
+strives to deliver a quality product in a timely fashion.
+MCI Framingham currently manufactures United States, Commonwealth
+of Massachusetts, POW/MIA, and custom flags, laundry bags and belt
+pouches. The incarcerated persons learn valuable skills that are related to
+MCI FRAMINGHAM
+the various employment opportunities in the sewing industry within the
+state. MCI Framingham’s Embroidery Shop can embroider caps, jackets,
+T-shirts, and many other items.
+MCI Norfolk has incarcerated individuals working in a wide range of
+manufacturing settings. The License Plate Shop, formerly located at MCI
+Cedar Junction, was relocated to MCI Norfolk. It is in this shop where
+incarcerated persons produce license plates in accordance with
+requirements set forth by the Registry of Motor Vehicles. In addition, MCI
+Norfolk houses a Clothing Shop where fabric is cut from rolls and sewn to
+create garments used in a number of areas throughout the Commonwealth.
+Blankets used throughout the MADOC are manufactured here as well; the
+Mattress Shop produces a variety of mattresses used in shelters, colleges
+and universities, jails and prisons, local police and fire departments, and
+nursing homes; the Janitorial shop provides a limited line of products
+designed for institutional use, specifically, body wash, hand soap, and floor
+finishing products. A portion of the line was discontinued due to new
+MCI NORFOLK
+directions received from the Ombudsman. The Metal operation
+manufactures custom-fabricated metal furniture and provides institutional
+repairs and upgrades according to provided specifications; the Upholstery
+Shop produces quality upholstered furniture such as chairs and sofas to
+both public entities such as libraries, hospitals, nursing homes, and private
+customers as well. Major reupholstery projects include several high school
+auditoriums and reupholstering seats for our very own Boston Red Sox at
+Fenway Park; the Binder Shop produces products integral to the MassCor
+product line and employee office needs such as vinyl binders and padfolios,
+and lastly, the Furniture Assembly Shop assembles various furniture items,
+most commonly, office chairs, from a number of outstanding furniture
+providers.
+The Massachusetts Treatment Center houses the Silkscreen and Sign shops.
+Incarcerated persons working in the Sign Shop manufacture a variety of
+standard street signs that are used on many roadways within the
+MASSACHUSETTS Commonwealth in addition to wall-mounted signs for indoor and outdoor
+TREATMENT CENTER use, and signs posted at parks, beaches, and other recreational areas;
+incarcerated individuals in the Silkscreen Shop produce high-quality
+custom decals for a variety of uses such as cornhole boards as well as silk-
+screened clothing.
+18
+
+Massachusetts Department of Correction Correctional Industries Program Participation and
+Recidivism, An Analysis on Incarcerated Individuals Released in 2018
+Printing is the trade that incarcerated individuals learn at Old Colony
+Correctional Center’s state-of-the-art Printing Plant. Incarcerated
+individuals working in the print shop use the latest technology to produce
+OLD COLONY
+a quality product and therefore also gain valuable skills which are easily
+CORRECTIONAL
+transferable to private industry. Products offered vary from letterhead to
+CENTER
+continuous forms, city and town reports, and business cards. There is also
+a Validation Shop that produces Registry of Motor Vehicle stickers and
+decals.
+19

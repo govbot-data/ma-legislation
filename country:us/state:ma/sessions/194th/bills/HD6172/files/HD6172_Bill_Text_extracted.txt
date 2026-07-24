@@ -1,0 +1,4142 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Office of the Child
+Advocate Annual
+Data Report
+FISCAL YEAR 2025
+MAY 2026
+THE COMMONWEALTH OF MASSACHUSETTS
+MARIA Z. MOSSAIDES, DIRECTOR
+HTTPS://WWW.MASS.GOV/LISTS/OCA-ANNUAL-REPORTS
+1
+
+Table of Contents
+About the Office of the Child Advocate .......................................................................................... 3
+Infographics about Children & Child Services in Massachusetts .................................................... 4
+Executive Summary ......................................................................................................................... 7
+Introduction .................................................................................................................................. 10
+OCA Quality Assurance Operations............................................................................................... 12
+Case Reviews ............................................................................................................................. 12
+State Agency Follow Up ............................................................................................................ 12
+Limitations of OCA Quality Assurance Data and Subsequent Analysis ..................................... 14
+OCA Quality Assurance Data Findings ........................................................................................... 16
+Complaint Line .......................................................................................................................... 17
+Critical Incident Reports ............................................................................................................ 25
+Foster Care Review Safety Alerts .............................................................................................. 33
+DCF Institutional Reports: Abuse and Neglect in Out-of-Home Settings .................................. 34
+Actions Taken and State Agency Follow-Up .................................................................................. 39
+Actions Taken by the OCA ......................................................................................................... 39
+State Agency Follow-Up ............................................................................................................ 40
+Conclusion ..................................................................................................................................... 46
+Appendix A: Complaint Line Data ................................................................................................. 48
+Appendix B: Critical Incident Report Data .................................................................................... 62
+Appendix C: Institutional Report Data .......................................................................................... 82
+Appendix D: DCF Case Review Data ............................................................................................ 101
+Appendix E: Acronyms ................................................................................................................ 102
+Appendix F: Glossary of Terms .................................................................................................... 103
+
+About the Office of the Child Advocate
+The Office of the Child Advocate (OCA) is an independent executive branch state agency with
+oversight and ombudsperson responsibilities, established by the Massachusetts Legislature in
+2008.1 The OCA’s mission is to ensure that children receive appropriate, timely and quality state
+services, with a particular focus on ensuring that the Commonwealth’s most vulnerable and at-
+risk children have the opportunity to thrive. Through collaboration with public and private
+stakeholders, the OCA identifies gaps in state services and recommends improvements in policy,
+practice, regulation, and/or law. The OCA also serves as a resource for families who are
+receiving, or are eligible to receive, services from the Commonwealth. The OCA executes its
+mission by:
+• Overseeing and monitoring the services delivered by child-serving state agencies.
+• Improving the collection, use, and transparency of state agency data.
+• Identifying gaps in and concerns with how state agencies and systems serve at-risk
+children, and recommending and advocating for solutions, including changes to improve
+coordination across agencies.
+• Advising on and leading efforts for systemic change in policies, programs, and practices
+affecting vulnerable and at-risk children.
+• Partnering with state agencies to improve service quality through the development and
+launch of innovation and incubation projects.
+• Serving as an ombudsperson, including providing information and referral support, for
+families who are receiving, or are eligible to receive, services from the Commonwealth.
+• Ensuring that state service agencies are trauma informed.
+• Promoting child and family wellbeing.
+OCA’s Core Values:
+• We are child centered.
+• We are trauma informed and responsive.
+• We believe diversity, equity, inclusion and belonging are central to our work.
+• We value collaboration.
+• We strive for excellence.
+Read our full Statement of Values.
+1 Office of the Child Advocate statute. M.G.L. c. 18C. https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18C.
+3
+
+Infographics about Children & Child Services in Massachusetts
+4
+
+5
+
+6
+
+Executive Summary
+The Office of the Child Advocate (OCA) provides independent oversight of state services for
+children and families to ensure they receive appropriate, timely and quality services, with a
+particular focus on ensuring that the Commonwealth’s most vulnerable and at-risk children
+have the opportunity to thrive. Established under Chapter 18C of the Massachusetts General
+Laws, the OCA fulfills this mandate through several core quality assurance functions, including
+operating a Complaint Line and receiving and reviewing critical incident reports, Department of
+Children and Families (DCF) reports of supported allegations of abuse and/or neglect in out-of-
+home settings (institutional reports), and Foster Care Review safety alerts.
+This report presents key data findings derived from the OCA’s quality assurance activities from
+Fiscal Year 2019 (FY19) through Fiscal Year 2025 (FY25), with a focus on FY25 – highlighting
+trends, emerging risks to children and youth, and opportunities to strengthen service delivery.
+As seen in Figure 1: Reports and Complaint Line Inquires Received by the OCA, in FY25, the
+OCA received and reviewed 1,750 reports and Complaint Line inquiries involving nearly 2,000
+children, reflecting both increased engagement with oversight systems and concerning shifts in
+the nature of harm experienced by children across the Commonwealth. This is the highest total
+volume of inquiries and reports in the OCA’s history, and an increase of 89% since FY20.
+Figure 1:
+Reports and Complaint Line Inquires Received by the OCA
+(FY20 -FY25)
+2000
+s e 1800 1,750
+ir 1600
+iu
+q n I
+d n 1
+1 1
+0
+2 4
+0
+0 0
+0
+0 0
+928 989
+1,136 1,243 1,314
+a
+s
+800
+t r 600
+o
+p 400
+e
+R 200
+0
+FY20 FY21 FY22 FY23 FY24 FY25
+Foster Care Review Safety Alert 0 0 0 35 15 26
+Critical Incident Report 328 349 320 320 281 240
+Complaint Line 328 430 519 482 532 993
+Institutional Report 272 210 297 406 486 491
+Total 928 989 1,136 1,243 1,314 1,750
+7
+
+Key data insights in this report include:
+• There has been a substantial increase in outreach to the OCA’s Complaint Line in
+recent years. In FY25, the OCA received 993 Complaint Line inquiries, an 87% increase
+from FY24 and a 203% increase since FY20. This reflects growing public awareness of the
+OCA and increased demand for system navigation support.
+• This growth coincided with a fourfold increase in direct youth engagement through the
+OCA’s Youth Engagement Initiative, which reached 195 children in congregate care
+placements in FY25.
+• There was a 15% decline in the number of critical incident reports sent to the OCA,
+driven by a reduction in the number of reports of a child witnessing an overdose. This
+aligns with a statewide reduction in overdose deaths. At the same time, critical incidents
+involving physical abuse more than doubled (from 11 in FY24 to 27 in FY25).
+• The OCA received the highest number of institutional reports on record (491),
+continuing a multi-year upward trend.2 The multi-year increase is primarily driven by an
+increase in supported allegations from residential schools and public schools. Of deep
+concern, supported allegations of physical abuse increased from FY24 to FY25 across
+several out-of-home settings, including congregate care (driven by an increase in reports
+from residential schools), foster care (driven by an increase in reports from kinship foster
+care placements), public schools, and child care settings.
+The OCA operates on the premise that independent investigation, monitoring, and public
+accountability can strengthen child serving state systems and reduce risks to children. By
+collecting and analyzing data on service concerns and serious incidents, the OCA identifies
+patterns of harm and emerging risks affecting vulnerable children and youth. This year’s report
+shows that indicators of serious harm to children increased across multiple data sources in
+FY25. An increase in reports involving physical abuse, serious injury, and improper behavior
+management appeared in several OCA oversight streams.
+The OCA translates its insights and findings into public reports, policy recommendations, and
+engagement with state leaders and agencies. By increasing transparency and elevating lessons
+learned from serious incidents, the OCA helps policymakers and agencies identify opportunities
+to strengthen safeguards, improve coordination across systems, and address gaps in services.
+In FY25, to strengthen system accountability and improve outcomes for children, the OCA
+conducted 1,262 reviews of DCF cases, identifying case practice concerns in 38%. Additionally,
+2 These trends may reflect improved reporting practices, changes in investigative outcomes, and/or a shift toward more frequent
+harm.
+8
+
+the OCA provided case-specific feedback to state agencies more than 460 times, contributing to
+case-specific improvements, increased coordination, and broader system learning.
+More broadly, the OCA has made substantive policy recommendations to better ensure child
+safety and wellbeing, including most notably the OCA’s recommendations in the December
+2025 Systemic Investigation Regarding the Death of A’zella Ortiz.3 Additional details on OCA
+activities and recommendations to advance the OCA’s mission can be found in the OCA’s FY25
+Annual Report.4
+3 Massachusetts Office of the Child Advocate. (2025). OCA Report Concerning A’zella Ortiz. https://www.mass.gov/doc/office-of-
+the-child-advocate-investigative-report-azella-ortiz-december-2025/download
+4 Massachusetts Office of the Child Advocate.(2025). OCA Annual Report Fiscal Year 2025. https://www.mass.gov/doc/oca-
+annual-report-fiscal-year-2025/download
+9
+
+Introduction
+The Office of the Child Advocate (OCA) provides independent oversight of state services for
+children and families to ensure they receive appropriate, timely and quality services, with a
+particular focus on ensuring that the Commonwealth’s most vulnerable and at-risk children
+have the opportunity to thrive. Established under Chapter 18C of the Massachusetts General
+Laws, the OCA fulfills this mandate through several core quality assurance functions, including
+operating a Complaint Line and receiving and reviewing critical incident reports, Department of
+Children and Families (DCF) reports of supported allegations of abuse and/or neglect in out-of-
+home settings (institutional reports), and Foster Care Review safety alerts.5 See Figure 2:
+Quality Assurance Core Functions at the OCA, for more details.
+This report presents key data findings derived from the OCA’s quality assurance activities from
+Fiscal Year 2019 (FY19) through Fiscal Year 2025 (FY25), with a focus on FY256 – highlighting
+trends, emerging risks to children and youth, and opportunities to strengthen service delivery.
+This analysis provides critical insight into the experiences of children involved with state systems
+and highlights opportunities to improve safety, service quality, and system coordination across
+the Commonwealth.
+The OCA operates on the premise that independent investigation, monitoring, and public
+accountability can strengthen child serving state systems and reduce risks to children. By
+collecting and analyzing data on service concerns and serious incidents, the OCA identifies
+patterns of injury and emerging risks affecting vulnerable children and youth. Through case
+reviews, investigations, systemic reviews, and research, the OCA examines not only individual
+incidents but also the broader policies, practices, and coordination challenges that contribute to
+those events and quality of services.
+The OCA translates its insights and findings into public reports, policy recommendations, and
+engagement with state leaders and agencies. By increasing transparency and elevating lessons
+learned from serious incidents, the OCA helps policymakers and agencies identify opportunities
+to strengthen safeguards, improve coordination across systems, and address gaps in services.
+Over time, this process is intended to support evidence-informed reforms, strengthen
+accountability in child-serving systems, and promote policies and practices that better safeguard
+children.
+Through sustained oversight and collaboration, the OCA seeks to ensure that children who
+receive state services are safe, supported, and less likely to experience preventable harm.
+5 OCA is not statutorily required to receive Foster Care Review safety alerts. For more information about Foster Care Review
+safety alerts, see the FY23 OCA Annual Report: https://www.mass.gov/doc/oca-annual-report-fiscal-year-2023/download
+6 The Massachusetts state fiscal year runs from July 1 through June 30. For example, FY25 is July 1, 2024, through June 30, 2025.
+10
+
+•Inquiries received from the general public, including the legislature
+Complaint
+•Available to anyone who wants to express concerns, ask questions, or receive
+Line resources and information about state services for children and families
+•Learn more: https://www.mass.gov/guides/oca-complaint-line
+•Child-serving state agencies are required to submit a critical incident report to the
+Critical
+OCA when a child receiving state services sustains a fatality, near fatality, serious
+Incident bodily injury, or emotional injury
+Reports •OCA staff review the circumstances of the incident, the reporting agency's service
+delivery, and state involvement with the child and family
+•DCF is required to submit their investigation report to the OCA when allegations
+Institutional of child abuse and/or neglect that occur in an out-of-home setting are supported
+•OCA staff review the DCF investigation to ensure the safety and wellbeing of the
+Reports
+child(ren) involved, review the quality of the investigation, and confirm necessary
+licensing entities are notified
+Foster Care •Received from DCF when a Foster Care Review panel is concerned for the safety of
+a child
+Review Safety
+•OCA staff review DCF case practice and response to the alert
+Alerts
+•This is not a statutory obligation
+•Initiated by the OCA on a case-by-case basis when the OCA determines that the
+actions or inactions of a state agency were egregious and may have significantly
+contributed to the harm of a child or young adult
+Investigations •Not all investigations are made public
+•For more information, refer to the OCA Protocol on the Release of Confidential
+Information: https://www.mass.gov/doc/oca-protocol-on-the-public-release-of-
+confidential-information/download
+Figure 2: Quality Assurance Core Functions at the OCA
+11
+
+OCA Quality Assurance Operations
+The OCA’s Quality Assurance (QA) Division is composed of professionals with expertise in clinical
+social work, child welfare, public health, data, and research. The QA Division works
+collaboratively to receive and document inquiries and reports submitted to the OCA. The
+following conventions guide the QA Division’s work in carrying out its duties.
+Case Reviews
+When a complaint, critical incident report, Foster Care Review safety alert, or institutional
+report is received, the OCA conducts an immediate review to learn more about the
+circumstances that brought it to the attention of the OCA and any state agency involvement
+with the child and family.
+While the OCA reviews all complaints and reports received from or about all child-serving state
+agencies, the OCA’s statutory mandate is to focus on the children in the care and/or custody of
+DCF and the Department of Youth Services (DYS).7 Complaints about DCF and reports received
+from DCF undergo a thorough review of the family’s DCF electronic record. The purpose of this
+review is to understand the family and their needs, to substantively review DCF’s understanding
+of the family and their needs, and to evaluate DCF’s efforts to assist and engage the family and
+protect the child from harm. In this context, the OCA will identify what worked well and where
+there are opportunities for improvement in policy, case practice or service delivery across the
+system or with the specific family.
+State Agency Follow-Up
+When the OCA identifies immediate or escalating risk to a child, a need for clarifying
+information or improved service delivery for a child or family, or a system-wide pattern or trend,
+the OCA follows a standard operating procedure of contacting a designated senior leadership
+liaison at the agency involved. Through these liaisons, the OCA ensures that all concerns
+identified through the OCA’s review are resolved appropriately and in a timely manner to
+ensure the safety and wellbeing of the children involved and, as appropriate, to improve
+services for the child and family. If the OCA determines that the actions or inactions of a state
+agency were egregious and significantly contributed to the harm of a child or young adult, the
+Child Advocate can choose to initiate an investigation.8
+7 See Appendix F: Glossary of Terms for a definition of state custody. Children in state custody are not always placed out-of-
+home.
+8 Not all investigations are made public; for more information, refer to the OCA Protocol on the Release of Confidential
+Information.
+12
+
+The OCA may follow up with an agency even when no case practice concerns are identified: for
+example, to point out an emerging issue, check on the wellbeing of a child, acknowledge the
+difficult nature of the work, and/or ensure trauma-informed practices are in place.
+The OCA does not always request a response to the feedback provided to a state agency. For
+example, if the child and family are no longer receiving services from the state agency, or there
+is an unfixable administrative error, the OCA may bring the agency’s attention to the matter for
+future policy, procedure, and training considerations without expecting a response.
+Figure 3: Logic and Process of OCA Quality Assurance Operations provides a graphic depiction
+of the process, data collected, and insights gleaned from the OCA quality assurance functions.
+Figure 3: Logic and Process of OCA Quality Assurance Operations
+13
+
+Limitations of OCA Quality Assurance Data and Subsequent Analysis
+The data the OCA collects through its quality assurance functions does not represent a random
+or representative sample of services provided by DCF, DYS, or other state agencies. Rather, the
+data reflects cases that come to the attention of the OCA through specific oversight
+mechanisms, including Complaint Line inquiries, critical incident reports, institutional reports,
+and Foster Care Review safety alerts.
+Broadly, the OCA is dependent on reporting by state agencies. Variations in state agency
+reporting practices or internal compliance with reporting requirements may therefore affect the
+completeness of the data available to the OCA, including demographic information. The OCA is
+continuously working to improve data collection for identity characteristics including race,
+ethnicity, sex assigned at birth, gender, and sexual orientation.
+The OCA’s quality assurance data collection system was substantially redesigned in FY23 to
+improve consistency and comparability of data across oversight activities. As a result, some
+analyses presented in this report are limited to data collected since FY23. The OCA takes
+continuous quality improvement seriously. As such, data maintained in the OCA’s database are
+continuously evolving. Comparison with prior year’s OCA reports is not recommended due to
+the significant amount of data cleaning and systems revisions the OCA has undertaken in recent
+years.
+Complaint Line Limitations
+The OCA implemented an updated coding structure in FY24 to capture more detailed
+information about the reasons individuals contact the OCA. Changes in coding practices may
+affect comparisons with earlier years of Complaint Line data. Individuals served by the
+Complaint Line are invited but not required to share demographic information. While the OCA is
+almost always able to collect information about the individual’s role/relationship to child (95%
+of the time), personal identity characteristics, such as race, ethnicity, gender identity, and sexual
+orientation are captured less often.
+Critical Incident Report Limitations
+Critical incident reporting requirements differ across agencies. DCF submits critical incident
+reports regarding children with any DCF involvement within the previous 12 months, including
+cases in which a report of abuse and/or neglect was screened out. In contrast, other agencies
+report only those critical incidents that occur while a child or family has an open case or is
+actively receiving services. These differences limit the comparability of reporting across
+agencies.
+14
+
+Institutional Report Limitations
+The Massachusetts system of investigating child abuse and/or neglect9 includes a mandatory
+report to the OCA (among other agencies) when DCF10 determines that a child was abused
+and/or neglected in certain out-of-home settings. The OCA analyzes institutional report data
+based on the date DCF supported the allegations of abuse and/or neglect. The COVID-19
+pandemic emergency period11 may have affected the data presented in this report. As a result,
+trends in institutional reports from FY20-FY22 should be interpreted with caution. For
+comparison purposes, FY19 data are included as the last full fiscal year prior to the
+implementation of pandemic-related emergency orders.
+9 The Massachusetts system is governed by M.G.L. c. 119 § 51B(l).
+10 Only DCF is mandated to send abuse and/or neglect reports to the OCA. However, the OCA may request reports of abuse
+and/or neglect from other agencies, such as the Department of Early Education and Care (EEC), as necessary.
+11 On March 10, 2020, Governor Charlie Baker declared a state of emergency in response to the Coronavirus outbreak. The state
+of emergency and all Emergency and Public Health Orders issued pursuant to the emergency terminated on June 15, 2021.
+15
+
+OCA Quality Assurance Data Findings
+Massachusetts maintains a broad and complex network of services designed to support the
+safety, health, and wellbeing of children and families. Across state agencies, providers, and
+community partners, these services reach hundreds of thousands of children each year and
+reflect a strong commitment to child protection, prevention, and care. Within this child-serving
+system, timely oversight and cross-agency coordination are essential to ensure that services
+function as intended—particularly for children with the most complex needs.
+As shown in Figure 4: OCA Quality Assurance by the Numbers, in FY25, the OCA received and
+reviewed 1,750 reports and Complaint Line inquiries involving nearly two thousand children
+across Massachusetts and a wide range of topics. The data in this report reflects both the
+strengths and the challenges of the Commonwealth’s child-serving systems. Through this report,
+the OCA seeks to share information about risks and harm faced by children receiving state
+services while still safeguarding the privacy of the children and families involved. These findings
+offer insight into how Massachusetts can build upon its existing service infrastructure to better
+prevent harm, respond to emerging risks, and support children and families more effectively
+across the Commonwealth.
+Figure 4: OCA Quality Assurance by the Numbers12,13
+12 Includes both complaints and information and referral inquiries.
+13 This is an unduplicated count of children named in critical incident reports, Foster Care Review safety alerts, institutional
+reports and adults and children named in Complaint Line inquiries. Complaint Line inquiries do not always name a specific child
+or children; therefore, this number is likely an undercount.
+16
+
+Complaint Line
+One of the most critical OCA statutory functions is
+OCA Complaint Line
+responding to concerns about state services provided to
+children. The OCA Complaint Line serves as a neutral, Phone: (617) 979-8360
+confidential resource and is available for anyone to
+Email: childadvocate@mass.gov
+express concerns or seek information and resources
+about a state service a child is receiving or is eligible to Website: Complaint Line Webform
+receive. While the Complaint Line operates Monday
+through Friday, 9:00am -5:00pm, anyone can email, submit a webform, or leave a voicemail at
+any time, and OCA Complaint Line staff will reach out within two business days. Anyone with
+concerns for a child receiving state services is encouraged to contact the OCA Complaint Line.
+Complaint Line staff are experienced social workers who serve as system navigators and are
+available to provide support, information, resources, non-legal advice and, at times, be a
+neutral arbitrator between an individual and the agency of concern. When Complaint Line staff
+determine that the decision making or practices of a state agency places—or could place—a
+child at substantial risk, Complaint Line staff contact the state agency involved to ensure the
+child’s safety and wellbeing, as well as improvement of services. As mandated reporters, if
+Complaint Line staff have reasonable cause to believe a child has been maltreated or is at
+substantial risk of maltreatment, a report of child abuse and/or neglect is filed with DCF.
+Key Insights
+There has been a substantial increase in outreach to the OCA’s Complaint Line in recent
+years. In FY25, the OCA received 993 Complaint Line inquiries, an 87% increase from FY24 and
+a 203% increase since FY20, when the OCA received 328 inquiries. The OCA served 826 people
+in FY25, 89% (738) of whom had never contacted the Complaint Line before. The OCA primarily
+attributes this growth to the increased public visibility of the OCA, the OCA’s substantial
+Complaint Line outreach efforts, including to youth, and the OCA’s ability to provide solution-
+focused systems navigation support or information.
+Figure 5: Complaint Line Inquiries shows the increase in use of the Complaint Line over time by
+individuals served and total inquiries. While each inquiry is presented as one case, an inquiry
+may involve additional conversations and information-gathering efforts between the OCA, the
+individual, and the state agency involved.
+17
+
+Figure 5:
+Complaint Line Inquiries
+(FY20-FY25)
+d
+e
+v r 1000
+e
+S
+s la 800
+u
+d
+iv 600
+id
+n
+I r 400
+o
+s
+e ir 200
+iu
+q
+n 0
+I FY20 FY21 FY22 FY23 FY24 FY25
+Individuals Served 324 429 514 472 522 826
+Total Inquiries 328 430 519 482 532 993
+Similar to recent years, 77% (765) of the Complaint Line inquiries involved a complaint while
+23% (228) were requests for information or a referral.14 Information and referral inquiries, as a
+proportion of all inquiries, increased slightly from FY20 (17%), suggesting a growing need for
+system navigation support or increased awareness of the Complaint Line as a resource. This
+data, as shown in Figure 6: Complaint Line Inquiries by Type of Inquiry, reinforces the
+Complaint Line’s important and growing role as a public entry point for families and
+professionals seeking to navigate complex child-serving systems.
+14 The OCA categorizes Complaint Line inquiries in one of two ways, complaint and information and referral. Complaint: An
+expression of dissatisfaction with any agency or program that provides services to a child of the Commonwealth. Information
+and referral: A request for information, referral, or education on a specific topic.
+18
+
+Figure 6:
+Complaint Line Inquiries by Type of Inquiry
+(FY20-FY25)
+1200
+s 1000
+e
+ir
+iu
+q 800
+n
+I
+f o 600
+r
+e
+b
+m 400
+u
+N
+200
+0
+FY20 FY21 FY22 FY23 FY24 FY25
+Information and Referral 56 49 65 90 108 228
+Complaints 272 381 454 392 424 765
+Total Inquiries 328 430 519 482 532 993
+Why Do Individuals Contact the Complaint Line?
+Most individuals contact the Complaint Line because they or their child have not received
+what they believe to be appropriate, adequate, or high-quality service. Often, they are
+contacting the OCA regarding interactions they had with specific personnel – whether that is a
+DCF caseworker, a judge, their attorney, or school personnel – or because they are unhappy
+with a decision that was made regarding the services a child is (or is not) receiving.
+As shown in Figure 7: Topic of Inquiry, year over year, the most frequent topic of Complaint Line
+inquiries is about DCF (634, 64% of inquiries). In FY25, inquiries related to DCF increased 77%
+compared to the prior year (359); a large increase after years of relative stability. Complaints
+about DCF personnel (293) are consistently the largest portion of DCF inquiries year over year.
+Inquries in this category increased 89% from FY24 to FY25 and drove the overall increased
+volume of inquiries about DCF. 15
+Complaint Line inquiries also involve the court system (125, 13% of inquiries). While the same
+proportion of inquiries involved the court system as last year, the number of inquiries increased
+81% from FY24 (69) to FY25 (125). A higher proportion of these inquiries related to
+disagreements with a judge’s decision and concerns about legal representation in FY25
+15 See Appendix A: Complaint Line Data, DCF for additional information.
+19
+
+compared to FY24. The OCA added visitation as a subcategory in FY25, and inquiries in this
+subcategory now account for 21% of inquiries about the court system.
+While making up a smaller portion of inquiries, those involving education (102, 10% of
+inquiries) increased 73% between FY24 (59) and FY25 (102), following a few years of slow
+growth. These inquiries most frequently involve special education, school staff responsiveness,
+and bullying.
+Complaint Line inquiries about the alleged abuse and/or neglect of a child (77, 8% of inquiries)
+also increased substantially, up 51% from FY24 (51) to FY25 (77). However, this variable has
+evolved over time both in definition and in coding structure. Prior year data is a helpful
+reference but may be unreliable.16 Abuse and/or neglect inquiries often involve concern
+expressed by the individual that a child has been abused or neglected in out-of-home care or by
+their custodial parent, or the individual is seeking information about what to do if they suspect
+abuse and/or neglect of a child.
+Inquiries also involved behavioral, mental and physical health (53, 5% of inquiries), and other
+services and system (152, 15% of inquiries).17 Inquiries in the “other” category are related to
+child treatment18, housing and homelessness, concerns for the physical conditions of a child’s
+living space, and access to financial resources and vouchers. There was an increase in every
+Complaint Line category in FY25 compared to FY24.
+16 “Abuse and/or Neglect” were originally a sub-category of the OCA Complaint Line category for DCF related complaints.
+However, the OCA observed that many of these Complaint Line inquiries did not involve current or prior DCF history for the child
+or family involved in the complaint. As such, the OCA removed Abuse and/or Neglect from the DCF-related Complaint Line
+category and made it a separate category under “Reason for Call.”
+17 Percentages will not sum to 100 because a Complaint Line inquiry may involve more than one area of concern.
+18 See Appendix F: Glossary of Terms for the definition of child treatment.
+20
+
+Figure 7:
+Topic of Inquiry
+(FY20 -FY25)
+700
+s
+e 600
+ir
+iu 500
+q
+n 400
+I
+f 300
+o
+r 200
+e
+b 100
+u
+N 0
+Behavioral,
+Abuse/ Mental and
+Court System DCF Education Other
+Neglect Physical
+Health
+FY20 3 38 211 41 54 40
+FY21 1 65 363 32 40 27
+FY22 5 64 379 58 35 30
+FY23 9 32 308 51 19 48
+FY24 51 69 359 59 26 64
+FY25 77 125 634 102 53 152
+Note: Counts will not sum to total number of inquiries. More than one topic may be selected for any inquiry.
+Who Contacts the Complaint Line?
+As shown in Figure 8: Complaint Line: Role or Relationship to Child, individuals who contact the
+Complaint Line are historically and predominantly biological parents. Youth and providers – such
+as foster parents, educators, behavioral health workers, case managers, attorneys, medical staff,
+legislators, legislative staff, and law enforcement – contact the Complaint Line less often, and for
+different reasons:
+• Parents are seeking insights and options about decisions affecting their children.
+• Providers often seek guidance or escalate concerns about child safety and system
+response.
+• Youth reach out to advocate for themselves or a peer, primarily concerning how they are
+treated, or for help accessing education, financial literacy, and behavioral health
+supports.
+21
+
+Figure 8:
+Complaint Line: Role or Relationship to Child
+(FY20-FY25)
+100%
+d 90%
+e
+v
+r 80%
+e
+S
+s
+70%
+la
+u 60%
+d
+iv 50%
+id
+n 40%
+I
+f
+o 30%
+t
+n
+e 20%
+c
+r e 10%
+P
+0%
+FY20 FY21 FY22 FY23 FY24 FY25
+Unknown 11 13 27 36 48 57
+Other 52 36 58 44 46 73
+Other Relative 48 63 69 81 75 108
+Provider 33 62 82 86 91 125
+Adoptive Parent 4 0 0 2 4 6
+Biological Parent 167 234 269 218 245 408
+Child/Self 4 1 5 7 8 66
+The OCA Complaint Line data indicates that many concerns raised by families, providers, and
+youth relate to system processes—such as communication, responsiveness, and decision-
+making—rather than allegations of immediate child safety risks. Within DCF-related inquiries,
+nearly half of complaints involve concerns about staff responsiveness, communication, or
+follow-through by DCF personnel. These patterns suggest that the challenges individuals are
+contacting the OCA about arise from difficulties navigating agency processes or understanding
+decision-making, rather than solely from disagreement about safety determinations.
+Overall, the substantial increase in Complaint Line inquiries and individuals served highlights
+the growing role of the OCA as both a system navigation resource and a venue for individuals
+seeking to raise concerns about Massachusetts’ child-serving systems. Through these
+interactions, the OCA hears daily about the challenges individuals navigating child-serving
+systems encounter as these systems work to meet children’s complex and evolving needs within
+the constraints of limited workforce capacity, resource limitations, and a complex statutory and
+regulatory framework. These trends underscore the importance of continued attention to
+workforce stability, service availability, and clear pathways for families and professionals seeking
+assistance.
+22
+
+For additional Complaint Line data including an analysis of trends in specific issue areas, who is
+contacting the OCA, demographic data to the extent it is available, and additional details about
+the inquiries, refer to Appendix A: Complaint Line Data.
+23
+
+Spotlight: Youth Engagement Initiative
+In FY25, the OCA launched a youth-focused outreach campaign to increase awareness of the
+Complaint Line, with an initial emphasis on congregate care settings. The OCA distributed
+posters statewide through the Children’s League of Massachusetts and to the Department of
+Mental Health (DMH) and DYS run residential programs, communicating the expectation that
+these posters be hung in a visible place within the facility. The OCA also conducted site visits to
+seven congregate care facilities between March and June 2025. OCA staff met with youth and
+program staff, shared information about the OCA, offered individual meetings, and treated them
+to pizza and snacks.
+Through these site visits, the OCA engaged 195 youth in group settings and met individually with
+85 youth in FY25. The site visits resulted in 47 Complaint Line cases involving 46 youth. The
+campaign significantly increased youth engagement with the Complaint Line: youth contacts
+rose from 2% of inquiries in FY24 to nearly 8% in FY25, including growth in youth reaching out
+independently of site visits to advocate for themselves or a peer.
+Complaint Line inquiries from youth most often focus on family visitation, the appropriateness
+and quality of placements, permanency planning, and access to education. Youth have contacted
+the OCA seeking access to general education curricula and financial literacy resources. They also
+advocate for improved treatment—both for themselves and their peers—by DCF personnel and
+program staff, including more frequent contact with caseworkers and clearer communication
+about their cases and available options while in placement.
+One example the OCA heard from youth in DCF custody during site visits is that they either did
+not know about or were unable to participate in Foster Care Reviews due to scheduling conflicts.
+When the OCA brought this to the attention of DCF senior leadership, DCF shifted practice to
+ensure Foster Care Reviews were held at times that accommodate youth schedules and is
+working to improve communication about the scheduling of the reviews.
+OCA’s advocacy on behalf of youth reached during site visits also resulted in DCF case reviews,
+leadership engagement in resolutions, clinical consultations, and corrected documentation
+errors among other improvements.
+This outreach made it clear that many concerns surface only after youth are contacted directly,
+and that the concerns youth bring to the attention of the OCA differ from concerns received by
+parents and providers. These findings indicate that proactive outreach provides important
+additional visibility into youth experiences and system performance. The OCA plans to continue
+and grow the Youth Engagement Initiative, starting with hiring a youth engagement manager in
+FY26.
+24
+
+Critical Incident Reports
+The OCA statute requires state agencies providing services to children or youth to notify the
+OCA if a child who is receiving a state service suffers a fatality, near fatality, serious bodily injury,
+or emotional injury.19 These are called critical incident reports (CIRs).
+The OCA categorizes and analyzes all events that led to the injury or death of the child involved
+in the critical incident. The Office of the Chief Medical Examiner (OCME) makes the final
+determination regarding the cause and manner of death; the critical incident report to the OCA
+provides information about the nature and circumstances of the event that led to the injury or
+death of a child or youth.
+Critical incident reports do not necessarily reflect evidence of wrongdoing by an agency; a
+critical incident can result from a car crash, illness, or other factors that are likely unrelated to
+the services provided by the reporting agency.
+Key Insights
+In FY25, the OCA received 240 critical incident reports involving 310 children and youth,20
+which is lower than the number the OCA received in previous years. Figure 9: Critical Incident
+Reports Received by the OCA shows year-over-year critical incident reporting trends, pointing
+to a steady decline in the receipt of these reports.
+Figure 9:
+Critical Incident Reports Received by the OCA
+(FY20-FY25)
+s t r o 3 4 5 0 0 0 328 349 320 320
+p 281
+e 300
+R 240
+t n 250
+e
+d 200
+ic
+n
+I
+la
+150
+c 100
+it
+ir 50
+C
+0
+FY20 FY21 FY22 FY23 FY24 FY25
+Fiscal Year
+19 See Appendix F: Glossary of Terms for definitions of fatality, near fatality, serious bodily injury and emotional injury.
+20 Each child can experience more than one incident within a report, for example both a serious bodily injury and an emotional
+injury. The total number of incidents in FY25 is 315.
+25
+
+Figure 10: Critical Incident Reports Received by State Agencies show the critical incident
+reports submitted each fiscal year by each child-serving state agency. The number of reports
+submitted by each agency is not a qualitative comparison between agencies. The number of
+children and youth served by each agency varies significantly as do the challenges faced by the
+populations served. Additionally, when a child or youth is receiving services from multiple
+agencies, each agency may submit a critical incident report, as appropriate.
+Notably, the number of reports from DCF decreased for the fourth fiscal year in a row from 243
+in FY24 to 194 in FY25. Additionally, in FY25 the OCA began receiving critical incident reports
+from the Executive Office of Housing and Livable Communities (EOHLC), which submitted four
+reports.
+Figure 10:
+Critical Incident Reports Received by State Agencies
+(FY20-FY25)
+400
+s t 350
+r
+o
+p 300
+e
+R
+t 250
+n
+e
+d 200
+ic
+n I
+la
+150
+c 100
+it
+ir
+C 50
+0
+FY20 FY21 FY22 FY23 FY24 FY25
+MCB 0 0 0 0 1 0
+MassHealth 0 0 0 0 0 1
+EOHLC 0 0 0 0 0 4
+DYS 11 30 12 7 15 23
+DPH 10 4 28 27 7 7
+DMH 2 2 3 6 2 0
+DDS 10 9 9 15 13 11
+DCF 295 304 268 265 243 194
+Emotional injury critical incidents remain the most frequently reported type of incident (150
+incidents in FY25), although the number of reported incidents in this category has decreased
+over time —a decrease of 33% from FY24 to FY25 and 53% from FY20 to FY25. Figure 11:
+Critical Incident by Type shows the type of critical incidents from FY20-FY25. The reduction in
+26
+
+emotional injuries is primarily driven by a decrease in reports of a child witnessing an overdose.
+This aligns with a statewide reduction in overdose deaths.21
+Figure 11:
+Critical Incident by Type
+(FY20-FY25)
+350
+d
+e 300
+v
+lo
+v n 250
+I
+h
+t u 200
+o
+Y
+r 150
+o
+n
+e 100
+r
+d
+lih
+50
+C
+0
+FY20 FY21 FY22 FY23 FY24 FY25
+Other 0 3 1 0 3 1
+Emotional Injury 321 265 274 217 224 150
+Serious Bodily Injury 94 110 71 63 61 77
+Near Fatality 15 35 28 48 35 23
+Fatality 58 53 78 93 70 64
+Note: Counts will not sum to total number of critical incident reports or Child or Youth Involved. Multiple
+children may appear in each report, and each child may experience more than one type of incident in a
+report.
+What are the Causes of Critical Incidents?
+The death or serious bodily injury of a child or young adult is a significant event that deserves
+prompt attention. Critical incident reports provide the OCA timely information about the cause
+and circumstances of the injury or death of a child or young adult. Using this information, the
+OCA categorizes the causes of all critical incidents, as shown in Figure 12: Cause of Critical
+Incidents.
+While the OCA receives critical incident reports involving different forms of violence, for the
+purposes of critical incident cause classification, the OCA categorizes these reports based on the
+relationship between the child and the individual causing harm.
+• Physical Abuse refers to incidents where a child is physically harmed by a caregiver.
+21 For additional information, see Appendix B: Critical Incident Report Data, Overdose
+27
+
+• Violence refers to situations in which a child is harmed by someone other than a
+caregiver, including community violence. Incidents in which a child witnesses’ domestic
+violence that results in a near fatality or fatality of another individual are classified as
+violence.22
+Figure 12:
+Cause of Critical Incidents
+(FY20 -FY25)
+160
+s t 140
+r
+o 120
+p
+e 100
+R 80
+t n 60
+e 40
+d
+ic 20
+n 0
+I
+Suicide/
+Physical Sexual Unintentional
+Medical Overdose Suicide SUID Violence Unknown
+Abuse Assault Injury
+Attempt
+FY20 35 147 21 1 30 17 46 27 8
+FY21 32 148 19 0 36 19 56 34 6
+FY22 57 140 18 1 17 18 32 22 15
+FY23 62 132 15 1 20 18 47 13 12
+FY24 51 91 11 2 24 18 38 37 13
+FY25 34 57 27 2 16 8 57 23 17
+Note: One child may be reported by multiple agencies with different causes of a critical incident. Sum
+will not equal the total number of children.
+Trends in the Causes of Critical Incidents
+Despite the overall reduction in the total number of critical incident reports received, critical
+incident reports about physical abuse rose in FY25 (27) after several lower years. All children
+harmed by physical abuse in a critical incident were under the age of 10, with more than half of
+the critical incidents resulting in the serious bodily injury or fatality of an infant (20). Most of the
+physical abuse happened in the child’s home, regardless of their age. Emotional injury critical
+incidents from witnessing the physical abuse of another child in the home, a category in which
+the OCA had rarely seen reports in prior years, also increased. Overall, this points to heightened
+vulnerability among infants and toddlers and suggests either increased incidence, improved
+reporting, or both.23
+22 To qualify for reporting to our office, sexual assault must result in fatality, near fatality or serious bodily injury to a child.
+23 For additional information see Appendix B: Critical Incident Report Data, Physical Abuse.
+28
+
+Critical incident reports involving an overdose declined from FY24 (91) to FY25 (57) for the sixth
+consecutive year. The decrease is driven by a reduction in emotional injury incidents from a
+child witnessing someone else’s overdose. These trends align with statewide reductions in
+overdose deaths reported by public health authorities. According to data from the Center for
+Disease Control, opioid-related overdose deaths in Massachusetts decreased by 36% in 2024,
+falling to the lowest levels since 2013.24 Still, the issue remains significant with many incidents
+related to witnessing an overdose submitted yearly. Comparatively, the numbers of fatalities,
+near fatalities or serious bodily injuries of a child from an overdose decreased even more
+steeply from FY24 (23) to FY25 (11), this is the first such reduction the OCA has reported. Near
+fatalities and fatalities are evenly split between children ages one-four and 10-19. For younger
+children, this suggests that children overdose after ingesting substances that have not been
+properly secured in the home, while older children are more likely to have experienced an
+overdose after purposefully consuming a substance. Most incidents occurred at home,
+underscoring the ongoing impact of the opioid crisis on family environments even as mortality
+trends improve.
+Encouragingly, the OCA received fewer critical incidents about a suicide or suicide attempt in
+FY25 (16) compared to FY20 (30) and FY21 (36), when the pandemic emergency orders were in
+place. Children between 10 and 14 were reported to witness suicides and attempts most often,
+while youth ages 10 to 19 were more prevalent in suicide attempts and fatalities. Most of these
+incidents occur at the child’s home, though some occurred at foster care placements and secure
+facilities.
+The OCA received eight critical incident reports regarding the sudden unexpected death of an
+infant (SUID). This is substantially fewer SUID reports compared to prior years when between 15
+and 17 SUIDs were reported to the OCA. While the number of reported deaths decreased, the
+number of children who witnessed these deaths remained the same (13), speaking to the
+consequential effects of SUID on older children.
+Medical critical incidents continue to account for a substantial share of child fatalities reported
+to the OCA, often involving children with complex health needs and predominantly affecting
+younger age groups, particularly children under 10. While critical incident reports due to a
+medical cause decreased in FY25 (34), it remains within the typical ranges over the past six
+years. These incidents highlight both the fragility of medically complex children and the reliance
+24 Massachusetts Department of Public Health. (2025). Healey-Driscoll Administration Observes Overdose Awareness Day and
+Upcoming Recovery and Prevention Months. https://www.mass.gov/news/healey-driscoll-administration-observes-overdose-
+awareness-day-and-upcoming-recovery-and-prevention-months?_ga=2.265695304.673041.1772545387-
+1022298048.1769014593&_gl=1*1xu4iox*_ga*MTAyMjI5ODA0OC4xNzY5MDE0NTkz*_ga_MCLPEGW7WM*czE3NzI2NDcwODY
+kbzkkZzEkdDE3NzI2NDcwOTkkajQ3JGwwJGgw
+29
+
+on the state system of care when medical complexity is beyond a caregiver’s capacity, financial
+or otherwise.
+Unintentional injury critical incident reports increased in FY25 (57), particularly those resulting
+in serious bodily injury to a child. Injuries due to a car crash increased substantially from FY24
+(9) to FY25 (13). This mirrors a national pattern of injuries as a leading and increasing cause of
+child mortality: data from the National Highway Traffic Safety Administration shows a
+nationwide increase in motor vehicle occupant fatalities among 15-17 years olds in 2022 and
+2023.25 Children of all ages are represented in the unintentional injury critical incidents reported
+to the OCA, with children ages 15-19 and under four years old more likely to be the subject of a
+report.
+Unknown causes of a critical incident in a report (17) involved 22 children. These events most
+frequently involve emotional injuries where the cause of death is not reported, fatalities and
+serious bodily injuries for which the intent was not determined at the time of reporting, or
+unexplained deaths. The vast majority (84%, 11) of the children who sustained physical harm
+from an unknown cause were under the age of 4.
+Finally, violence-related critical incident reports declined overall in FY25 (23) compared to FY24
+(37), including fewer firearm-related incidents However, when violence did occur, it
+disproportionately affected older teens, ages 15-19, often involved weapons, and frequently
+impacted youth already connected to state systems for violence intervention and prevention.
+These children were not at home or in an out-of-home placement when they experienced
+violence – typically they were in a public place, motor vehicle, or another private residence
+other than their home. A smaller but important subset of children experienced trauma from
+witnessing violence, most often involving harm to a parent.
+Demographics
+Race and ethnicity information is available for 75% (233 of the 310) of children involved in
+critical incident reports. Demographic data is more consistently available for children involved
+with DCF than for those connected to other agencies. Figure 13: Cause of Critical Incidents
+Stratified by Race and Ethnicity of Children presents the distribution of reports by race and
+ethnicity across OCA critical incident cause categories.
+The high proportion of missing race and ethnicity data is a key limitation, particularly for
+suicide-related events, where “unknown” accounts for a substantial share of incidents. As a
+result, findings related to these categories should be interpreted with caution.
+25 National Highway Traffic Safety Administration. (2025). Fatal Analysis Reporting System. https://www-
+fars.nhtsa.dot.gov/Main/index.aspx. Data beyond 2023 not available at time of writing.
+30
+
+Among incidents with available data, Black, non-Hispanic infants are disproportionately
+represented in sleep-related infant deaths (SUID), while Hispanic/Latino children are
+overrepresented in violence and physical abuse incidents. In contrast, medical related incidents
+are more evenly distributed across racial and ethnic groups compared to other categories.
+Overdose incidents more closely reflect the racial and ethnic distribution of the overall
+Massachusetts child population, suggesting that substance use impacts families across
+demographic groups.
+Overall, these findings should be interpreted cautiously given the extent of missing
+demographic data. The figure is intended to provide context on patterns of under- and
+overrepresentation by critical incident outcome, as well as the distribution of causes of critical
+incidents across racial and ethnic groups.
+Critical Incident Takeaways
+Critical incident reports provide an important lens into serious events affecting children involved
+with state agencies. Taken together, the FY25 critical incident report data reflects a complex
+landscape: the overall number of reports has decreased, driven primarily by a decrease in
+emotional injury reports from DCF, but reports of physical abuse and other physical harm are
+increasing or remaining the same.
+Continued monitoring of critical incident reporting patterns will be important to determine
+whether the observed decline reflects genuine improvements in child safety or changes in
+reporting practices. Ensuring consistent and comprehensive reporting remains critical to the
+Commonwealth’s ability to identify emerging risks, understand the experiences of vulnerable
+children, and strengthen systems designed to protect them.
+For additional critical incident report data and information, including presentation by the cause
+of the critical incident, reporting by state agencies, and additional demographic information,
+refer to Appendix B: Critical Incident Report Data.
+31
+
+Figure 13:
+Cause of Critical Incidents Stratified by Race and Ethnicity of Children
+(FY25 n=310)
+100%
+d
+e 90%
+v
+lo
+80%
+v
+n
+I
+h
+70%
+t
+u 60%
+o
+Y
+r
+50%
+o
+d 40%
+lih
+30%
+C
+f o 20%
+t
+n 10%
+e
+c
+r e 0%
+P Suicide/
+Physical Unintention DCF MA Child
+Medical Overdose Suicide Violence SUID Unknown All CIRs
+Abuse al Injury Population Population
+Attempt
+Black/African American, NH - n = 48 16% 10% 19% 0% 10% 20% 48% 29% 15% 14% 9%
+Hispanic/Latino - n = 61 21% 12% 37% 23% 23% 33% 0% 18% 20% 36% 22%
+Multi-racial, NH - n = 14 2% 8% 0% 5% 3% 10% 0% 0% 5% 8% 5%
+Another Race, NH - n = 3 0% 0% 0% 0% 0% 3% 10% 0% 1% 1% 9%
+White, NH - n = 107 37% 57% 22% 14% 30% 7% 24% 53% 35% 33% 55%
+Unknown - n = 77 23% 13% 22% 59% 33% 27% 19% 0% 25% 8% 0%
+Note: Another Race includes Asian, NH (8%), American Indian Alaska Native, NH <1%, Pacific Islander, NH <1%.
+Data sources:
+• DCF Population: DCF Data Request, 2026
+• MA Child Population: KidsCount, accessed September 2025
+32
+
+Foster Care Review Safety Alerts
+Federal and state laws require that DCF implement a Foster Care Review (FCR) process.26 This
+review applies only to children who are removed from the custody of their parents and occurs
+every six months while the child remains in placement. The review is a monitoring and quality
+assurance mechanism to measure progress toward a child’s permanency goal.
+A Foster Care Review is facilitated by a three-person panel consisting of a member of the DCF
+Foster Care Review Unit (an independent unit within DCF), an administrator from a DCF area
+office, and a community volunteer. When the Foster Care Review panel, through its review of
+progress toward a child’s permanency goal, becomes concerned for the safety of a child, the
+panel generates a safety alert. In July 2022 the OCA began receiving Foster Care Review safety
+alerts as part of the OCA’s long-term efforts to strengthen the Foster Care Review process. By
+receiving the Foster Care Review safety alert and conducting a review of the related DCF case,
+the OCA provides an additional layer of oversight to ensure that the needs and wellbeing of the
+child(ren) are addressed.27
+Key Insights
+In FY25, more than 11,000 Foster Care Reviews occurred, leading to 26 Foster Care Review
+safety alerts involving 36 children. This is higher than the number of alerts received in FY24 (15)
+and lower than the first year of data collection, FY23 (35). As shown in Table 1: Age of Children
+Appearing in Foster Care Review Safety Alerts, the children ranged in age from infants under
+one to 21 years old, with more 15–19-year-olds the subject of a safety alert compared to other
+age groups.
+Table 1: Age of Children Appearing in Foster Care Review Safety Alerts, FY25
+Age Grouping Percent of Children involved Number of Children
+0-4 Years old 19% 7
+5 -9 Years old 22% 8
+10-14 Years old 25% 9
+15-19 Years old 31% 11
+20+ 6% 2
+Total 100% 36
+Note: One child appears in two reports, at two different ages.
+As shown in Table 2: Reasons for Foster Care Review Safety Alert, concerns that prompted a
+safety alert include clinical issues regarding placement and safety concerns. Foster Care Review
+26 United States Social Security Act, 42 USC 675 Sec 475 (5)(B); Department of Children and Families statute MGL c. 18B, §6A.
+27 For more information about the OCA’s efforts to improve Foster Care Review, see the FY23 OCA Annual Report:
+https://www.mass.gov/doc/oca-annual-report-fiscal-year-2023/download
+33
+
+safety alerts about older foster children often involve self-harm, a child missing from care,
+and/or sibling gang-involvement. Concerns for younger children typically involved safety
+planning and placement visits.
+Table 2: Reasons for Foster Care Review Safety Alert, FY23-FY2528
+Safety Alert Reason FY23 FY24 FY25
+51A Filed by Reviewer 2 0 0
+Adolescent Planning 0 0 1
+Clinical Issues Regarding Placement 4 0 7
+ICPC: Lack of Contact, Communication, Information 1 0 0
+Insufficient Contact with Child 1 6 3
+Medical Concerns 0 0 3
+Not In Placement 16 4 3
+Other 10 3 0
+Placement Concerns: Caregiver Capacity or Higher Level of 0 2 1
+Care Needed
+Safety Concern 0 0 6
+Visitation Issues 1 0 2
+Total Safety Alerts 35 15 26
+DCF Institutional Reports: Abuse and/or Neglect in Out-of-Home Settings
+A critical part of the OCA’s responsibility is to ensure that children are safe and protected from
+harm across all settings, with a particular focus on children in out-of-home settings. The
+Massachusetts system of investigating child abuse and/or neglect29 includes a mandatory report
+to the OCA (among other agencies) when DCF30 determines that a child was abused and/or
+neglected in out-of-home settings. Out-of-home settings include foster care, congregate care,
+childcare, public schools, private schools, after-school and summer programs, residential and
+inpatient therapeutic programs, and school-funded transportation companies.31
+OCA staff review and analyze each report to evaluate the safety and wellbeing of the child(ren)
+involved in the incident, policy and practice concerns with the out-of-home setting, the quality
+of the DCF investigation, and trends and patterns related to the care of children in out-of-home
+settings. If the OCA identifies a concern in any of these areas, the OCA will immediately follow
+28 Foster Care Review safety alert categories are defined by DCF. For more information, see DCF’s Annual Foster Care Review
+Report.
+29 The Massachusetts system is governed by M.G.L. c. 119 § 51B(l).
+30 Only DCF is mandated to send abuse and/or neglect reports to the OCA. However, the OCA may request licensing reports
+from other agencies, such as the Department of Early Education and Care (EEC), as necessary.
+31 For information about DCF’s intake and response to allegations of abuse and/or neglect, refer to the DCF Protective Intake
+Policy.
+34
+
+up with DCF (as either the investigator of the report of abuse and/or neglect or the entity
+responsible for providing ongoing case management services to the child and family) and/or the
+licensing, regulatory, or funding agency to gather more information and ensure the concerns are
+addressed.
+The OCA acknowledges that the institutional reports submitted to the OCA do not provide a full
+picture of harm that occurs in out-of-home settings. The OCA only receives reports that were
+brought to the attention of DCF, screened in, and supported.
+Key Insights
+In FY25, the OCA received 491 institutional reports involving 691 children and 541 alleged
+perpetrators32 across out-of-home settings. As seen in Figure 14: Institutional Reports, this
+represents the highest volume of institutional reports on record, continuing a multi-year
+upward trend. While these numbers and trends are concerning, the OCA notes that there are
+two possible causes of an increase in reports: an increase in children experiencing harm in out-
+of-home settings, and an increase in professionals appropriately identifying and reporting harm
+experienced by children in out-of- home settings. The OCA cannot say, based on available data,
+to what extent the increase in institutional reports is driven by either of these potential causes.
+Figure 14:
+Institutional Reports
+(FY19-FY25)
+486 491
+s t 500 406
+r
+o p 260 272 297
+e R 300 210
+f
+o
+r e 100
+b
+m
+u N -100 FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Fiscal Year
+Insights by Out-of-Home Setting
+As shown in Table 3: Children Involved in Institutional Reports by Type of Out-of-Home
+Setting and Figure 15: Institutional Reports by Type of Out-of-Home Setting, the OCA classifies
+institutional reports by setting33 and collects information on the number of children impacted as
+well as the number of alleged perpetrators involved and reports received.
+32 While there are 541 known alleged perpetrators, many institutional reports also involved unknown or unnamed perpetrators.
+This is likely an undercount of perpetrators.
+33 See Appendix F: Glossary of Terms for definitions.
+35
+
+Table 3: Children Involved in Institutional Reports by Type of Out-of-Home (OOH) Setting,
+FY25
+Type of OOH Reports Children Alleged Service Provision or Capacity
+Setting Perpetrators
+Child Care 103 170 133 247,98934
+Congregate 133 174 152 3,67935
+Care
+Foster Care 93 151 119 5,20336
+Schools 101 128 94 989,576 37
+Other38 61 73 70 NA
+Grand Total 491 691 541 NA
+Note: Children can appear in more than one setting. Total of children and alleged perpetrators will not equal
+sum.
+Figure 15:
+Institutional Reports by Type of Out-of-Home Setting
+(FY19-FY25)
+s
+t r160
+o140
+p
+e120
+R100
+la 80
+n
+o 60
+it 40
+u
+t 20
+it 0
+s
+n FY19 FY20 FY21 FY22 FY23 FY24 FY25
+I
+Child Care 50 49 29 54 81 101 103
+Congregate Care 124 125 106 102 136 152 133
+Foster Care 44 60 59 64 84 87 93
+Schools 23 20 6 56 82 104 101
+All Other 19 18 10 21 23 42 61
+34 Department of Early Education and Care. Children Enrolled in Formal Early Education and Care, June 2025. Accessed
+4/21/2026.
+35 DCF served 1,677 children and youth in congregate care (Data Request 2025); DYS served 1,016 in residential placements for
+detained and committed youth (Data Request 2026); DMH served 181 children in residential services (Data Request 2025);
+DPH’s Bureau of Substance Additional Services treated 12 youth in residential programs (JJPAD Annual Report FY25); DESE
+served 793 students in residential schools (Data Request 2026). Data is unduplicated at the agency level, but a child may appear
+in more than one agency data set.
+36 DCF foster care. Data Request, 2025.
+37 Public and private schools only. Department of Elementary and Secondary Education. 2024-25 School Attending Children
+Report. Accessed 4/21/2026.
+https://profiles.doe.mass.edu/profiles/student.aspx?orgtypecode=5&fycode=2025&orgcode=02850000
+38 Other includes shelters, transportation companies, community-based programs, hospital and health care organizations, and
+unspecified settings. Combined because of small numbers.
+36
+
+As in prior years, the OCA received the highest number of reports regarding abuse and/or
+neglect in congregate care settings (133 reports), with allegations regarding abuse/neglect in
+residential schools occurring most frequently (85 reports).
+Although the total number of reports in congregate care has remained relatively stable over the
+past few years, supported allegations of physical abuse have increased (57 in FY25 compared to
+45 in FY24).39 This increase is driven by supported physical abuse allegations in residential
+schools. Reports of physical abuse are more common in secure facilities operated by DYS and
+residential schools, where the use of restraints, higher-acuity behavioral needs, and strict
+reporting requirements intersect. Common contributing factors identified by the OCA include
+improper behavior management in residential schools and secure facilities operated by DYS, and
+inadequate supervision and boundary issues in group homes.
+The number of institutional reports about children in foster care increased 7% from FY24 (87) to
+FY25 (93), following several years of slow but steady increases. This increase is especially
+concerning considering the overall reduction in the number of children placed in DCF foster
+care.40 Supported allegations of abuse and/or neglect in kinship foster care increased more than
+in the other types of foster care. Adding to the concern, physical abuse (24) increased both in
+count and as a proportion of reports from foster care settings, driven by reports from kinship
+foster care (12). Common contributing factors identified by the OCA include caregiver substance
+use, domestic violence, and inappropriate discipline practices, highlighting challenges in
+supporting foster parents to meet the needs of the children in their care.
+The number of reports from public schools stayed the same from FY24 (95) to FY25 (94),
+following several years of steep increases. There was a 340% increase in institutional reports
+from schools from FY19-FY25. These increases are primarily driven by allegations of neglect, but
+increases in physical abuse are also observed. Compared to other settings, public schools show
+a higher proportion of reports involving sexual abuse (13, 14%). Common contributing factors
+identified by the OCA include boundary issues and misconduct by caregivers.
+Institutional reports from child care settings (103) increased for the fourth consecutive year,
+doubling since FY19 (50). EEC licenses two types of child care: center-based and family-based
+(aka in-home). The increase in reporting is primarily driven by reports from center-based
+settings. However, supported allegations of abuse and/or neglect in child care remain rare,
+affecting less than 1% of children served in child care. Reported allegations from family child
+care settings involved physical abuse more frequently than allegations from center-based child
+39 The OCA began collecting subcategories for congregate care institutions (group home, residential school, DYS operated secure
+facilities) in FY24. Prior year data is not available.
+40 As reported by DCF. Data request 2025. See Appendix C: Institutional Report Data for additional foster care service numbers.
+37
+
+care. Common contributing factors identified by the OCA include improper behavior
+management in center-based child care and inadequate supervision in family child care.
+Institutional Reports Takeaways
+Overall, the FY25 institutional reports reflect a system under increasing pressure, with rising
+report volume and increasing reports of physical abuse. While most children in out-of-home
+care do not experience abuse and/or neglect, the persistence of fundamental caregiving
+concerns—particularly around supervision, behavior management, and emotional harm—
+points to systemic challenges that cut across settings. This underscores the need for continued
+oversight, stronger support for caregivers, and consistent, high-quality practices to better
+protect children across all environments.
+For additional institutional report data and information, including service population estimates,
+allegations, and the OCA incident concern categories by type of institution and subtype, refer to
+Appendix C: Institutional Report Data.
+38
+
+Actions Taken and State Agency Follow-Up
+When a Complaint Line inquiry, a critical incident report, institutional report, or Foster Care
+Review safety alert is received, the OCA conducts an initial review of the reported circumstances
+to triage the OCA’s response based on any immediate safety concerns for the child or needs of
+the family.41 When the OCA identifies immediate or escalating risk to a child, a need for
+clarifying information or improved service delivery for a child or family, or a system-wide
+pattern or trend, the OCA follows a standard operating procedure of contacting a designated
+senior leadership liaison at the agency involved on an immediate and ongoing basis. Through
+these liaisons, the OCA ensures that all concerns identified through the OCA’s review are
+resolved appropriately and in a timely manner to ensure the safety and wellbeing of the
+children involved and, as appropriate, to improve services for the child and family. If the OCA
+determines that the actions or inactions of a state agency were egregious and significantly
+contributed to the harm of a child or young adult, the Child Advocate can choose to initiate an
+investigation.42
+Actions Taken by the OCA
+Following the standard rigorous response to Complaint Line inquiries and review of critical
+incident reports, institutional reports, and Foster Care Review safety alerts received, the OCA
+took additional action in 47% (818) of the 1,750 reports and inquiries received.43 Table 4: OCA
+Actions Involving an External Agency shows the OCA action and follow-up with a state agency
+during FY25.
+A larger percentage of cases resulted in OCA action in FY25 (47%) compared to FY24 (38%),
+driven by increased referrals to services.44 In order of most to least frequently occurring, the
+OCA took the following actions in FY25:
+• Feedback to state agencies (462)
+• Referrals to services or providing system navigation support to Complaint Line contacts
+(347)45
+41 While all cases submitted to the OCA are reviewed, an in-depth review takes time; priority is determined based on the initial
+review and an assessment of current risk to the child(ren) involved.
+42 Not all investigations are made public; for more information, refer to the OCA Protocol on the Release of Confidential
+Information
+43 The OCA responds to all Complaint Line inquiries within two business days of the date of contact and reviews all cases it
+receives. These are standard expectations of the work and are not recorded as separate actions.
+44 This increase may be due to improved record collection about referrals to services.
+45 Referrals to service and system navigation often involves explaining to an individual how to navigate the state agency involved
+to resolve their concerns. For example, the OCA may explain the DCF chain of command and how the individual can access the
+DCF Ombudsman office.
+39
+
+• Filed a 51A46 report of abuse and/or neglect with DCF (6)
+• Conducted an investigation (2)47
+The OCA may choose not to take additional action if, for example, the OCA does not hear back
+from someone who contacted the Complaint Line, no case practice concerns are identified, the
+issue identified is known to the agency involved and being resolved through other avenues, or a
+variety of other reasons.
+Table 4: OCA Actions Involving an External Agency, FY25
+Function Reports or Reports or Percent Resulting in
+Inquiries Inquiries with Additional Action
+any OCA Action
+Complaint Line 993 522 53%
+Critical Incident Reports 240 117 49%
+Foster Care Review Safety Alerts 26 16 62%
+Institutional Reports 491 163 33%
+Total 1,750 818 47%
+State Agency Follow-Up
+In FY25, the OCA followed-up with designated state agency liaisons at DCF, the Department of
+Mental Health (DMH), the Department of Public Health (DPH), DYS, EEC, the Department of
+Elementary and Secondary Education (DESE), the Department of Transitional Assistance (DTA),
+and the Executive Office of Health and Human Services (EOHHS) regarding 26% (462) of the
+1,750 reports and inquiries received,48 including:
+• 17% (167) of 993 Complaint Line inquiries (153 complaints and 14 requests for
+information or a referral)
+• 49% (117) of 240 critical incident reports
+• 62% (16) of 26 Foster Care Review safety alerts
+• 33% (162) of 491 institutional Reports
+Proportionally, fewer cases resulted in follow-up with a state agency in FY25 compared to FY24
+(33%). The OCA followed-up with DCF in 396 of the 462 cases while 86 cases involved a state
+46 MGL c. 119 § 51A. https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter119/section51a
+47 Not all investigations are made public; for more information, refer to the OCA Protocol on the Release of Confidential
+Information
+48 As of the writing of this report, 19 cases remain open for FY25 as the OCA monitors the cases to ensure that all concerns are
+addressed.
+40
+
+agency other than DCF.49 The reasons for follow-up varied by agency, as did the actions taken by
+an agency to resolve the issues. OCA follow-up with agencies resulted in a variety of responses
+including case decision changes, clinical consultations, corrective documentation, workforce
+development and more. Table 5: Number and Description of Reports or Inquiries Prompting
+OCA Follow-Up with State Agencies provides an agency-by-agency overview of the number of
+reports or inquiries about which the OCA followed up and the reasons for that follow-up.
+49 The OCA may reach out to more than one agency to provide feedback in any given case.
+41
+
+Table 5: Number and Description of Reports or Inquiries Prompting OCA Follow-Up with State Agencies, FY2550
+Agency Report or OCA Reason for Follow-Up Agency Response to OCA Feedback
+Inquiries
+DCF 396 See “DCF Case Review and Follow-Up” for more information.
+DESE 1 Reporting and investigation coordination for children with disabilities OCA convened a meeting with DESE and EEC
+following an institutional report. to ensure cross-agency information sharing.
+DMH 7 Information about actions taken following a complaint or institutional DMH provided additional services and
+report. support; concern was discussed at the OCA
+led Interagency Residential School meeting;
+concerns were addressed with appropriate
+staff and by agency leadership.
+DPH 7 Ensuring mandated reporting, background checks and expectations are Retraining based on OCA feedback;
+clear within a program following a complaint, critical incident report, concerns were addressed with appropriate
+and institutional report. staff; clarification and rationale provided.
+DYS 20 See “DYS Follow-Up” for more information.
+EEC 47 Clarification on investigation outcomes, steps taken to monitor or Provided OCA with additional information or
+otherwise hold programs accountable, status of programs (opened, context that resolved any concerns and took
+closed), employment status of staff, cross agency-response steps, such as training, that resolved
+coordination. concerns with appropriate staff.
+Other 11 Other: national and out of state partners, such as professional Action steps were taken to resolve concerns.
+associations and other state child welfare agencies
+DTA: interagency coordination and collaboration
+EOHHS: eligibility criteria and Interagency Review Teams for Complex
+Case Resolution
+50 Number will not sum to total because the OCA occasionally reached out to more than one agency based on a report or inquiry.
+42
+
+DCF Case Review & Follow-Up
+While the OCA receives and reviews reports and inquiries from all executive child-serving state
+agencies, the OCA’s statutory mandate is to focus particularly on children in the care or custody
+of DCF or DYS. The OCA has established robust policies and protocols for in-depth review of DCF
+cases, which includes a thorough administrative review of the family’s DCF electronic record.51
+The multifaceted goals of the OCA’s DCF case review are to: 52
+• Ensure the safety and wellbeing of the children involved.
+• Gain an understanding of the child, family, and their needs.
+• Ensure DCF’s clinical formulation and resulting intervention and services provided to the
+child and family are appropriate and evolving.
+• Evaluate DCF’s efforts to promote the safety and permanence of the children involved.
+The OCA evaluates two DCF process points within the case review. These two categories are
+based on DCF policies and procedures and how they structure family engagement. They are:
+• Intake/Response: The DCF process of receiving, screening, and determining their
+response to a report of abuse and/or neglect53 and investigation into the report of abuse
+and/or neglect.54
+• Ongoing Case Practice: The DCF process of providing case management services to the
+child and family through an open DCF case.
+In this context, the OCA identifies what worked well in DCF case practice and where there are
+opportunities for improvement at the DCF area office level, at the regional level, across the
+system, or with a specific family.
+In FY25, the OCA received a total of 1,750 reports and Complaint Line inquiries. Those reports
+and inquiries led OCA to conduct 1,262 DCF case reviews.55 The OCA identified case practice
+concerns in 485 of the 1,262 (38%) DCF submitted or involved reports and inquiries.56 This
+includes case practice concerns in the following categories:
+• 195 Complaint Line inquiries (30% of all DCF involved Complaint Line inquiries (634))
+• 113 critical incident reports (58% of all DCF reported critical incident reports (194))
+51 DCF’s electronic database is iFamilyNet.
+52 While the OCA reviews all cases brought to its attention with the same goals, the OCA does not have access to other state
+agency data systems that would allow for detailed case review and more informed oversight. For that reason, case review
+findings are only presented for DCF.
+53 MGL c. 119 § 51A. https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter119/section51a
+54 MGL c. 119 § 51B. https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter119/section51b
+55 DCF case reviews are not conducted if the report or inquiry does not involve DCF. See OCA’s Review of DCF Cases for more
+information.
+56 See OCA Quality Assurance Operations, Case Reviews for more information.
+43
+
+• 22 Foster Care Review safety alerts (85% of all Foster Care Review Safety Alerts (26))
+• 155 institutional reports (32% of all institutional reports (491)).
+Concerns with ongoing case practice were more prevalent than with intake and response
+practices. Engagement with a child’s caregiver, particularly engagement with fathers, during
+ongoing case practice was the most frequently occurring concern noted by the OCA. Second
+most frequently occurring are concerns about clinical formulation during ongoing case practice,
+particularly DCF’s assessment of risk and neglect. Administrative concerns, such as
+documentation, occurred during both intake and response and ongoing case practice.
+The OCA followed up with DCF with a request for feedback regarding 396 case reviews (31%).57
+Most frequently, DCF addressed the feedback the OCA brought to them directly with the staff
+involved (81 case reviews) and involved agency leadership in the corrective action (51 case
+reviews). According to DCF, 63 case reviews that the OCA brought to the agency’s attention
+resulted from pertinent information not being documented in the DCF electronic record at the
+time of the OCA review. This year, a smaller portion of the concerns identified were a result of
+documentation concerns (63, 16% in FY25 compared to 110, 31% in FY24), which may hopefully
+signal an improvement in DCF case documentation, though many other factors may be at play.
+DCF also convened an Area or Regional Clinical Review Team (ACRT/RCRT) or specialist
+consultation to address the OCA-identified concerns within the appropriate area office in 52
+cases, took action to retrain staff using case examples highlighted by the OCA in 24 cases,
+corrected 12 administrative issues, and changed eight case decisions. DCF also filed 10 reports
+of abuse and/or neglect and modified four permanency plans based on OCA feedback. Table 6:
+DCF Response to OCA Feedback describes DCF’s response to the feedback OCA provided based
+on case review.
+Table 6: DCF Response to OCA Feedback, FY2558
+DCF Response Inquiries/Reports
+Concerns Addressed with Appropriate Staff 81
+Documentation Issue 63
+ACRT/RCRT/Specialist Consultation was Convened to Review Case 52
+Concerns Addressed by DCF Leadership 51
+Case Used as Example for Retraining 24
+Other59 13
+57 The OCA does not always request a response to the feedback provided to a state agency. For example, if the child and family
+are no longer receiving services from the state agency, or there is an unfixable administrative error, the OCA may bring the
+agency’s attention to the matter for future policy, procedure and training considerations without expecting a response.
+58 Number will not sum to total because DCF may provide more than one response to OCA’s feedback.
+59 Other responses to OCA feedback include the agency providing additional services to the child and/or family, changes in
+practice, clarification or rationale to the OCA on the issue brought to their attention or addressing concerns with agency
+leadership.
+44
+
+Table 6: DCF Response to OCA Feedback, FY2558
+DCF Filed a Report of Abuse and/or Neglect 10
+Administrative Issue Corrected 12
+Case Decision Change 8
+Permanency Plan Changed or Paused 4
+Total Case Reviews Resulting in Feedback to DCF 396
+Note: Number will not sum to total as DCF may provide more than one response to OCA’s feedback, or a
+response might not be expected/requested from OCA. See OCA Quality Assurance Operations, State Agency
+Follow Up for additional information.
+For additional information on OCA DCF case review and follow-up, refer to Appendix D: DCF
+Case Review Data
+DYS Follow-Up
+The OCA followed-up with DYS regarding 20 reported cases, including 13 critical incident
+reports, one Complaint Line inquiry and six institutional reports. The incidents the OCA followed
+up on include the use of force and serious injuries related to improper restraints, mental health
+crisis, community violence, and staff misconduct. When the OCA conducted follow-up with DYS,
+it was to seek information about the youth’s wellbeing and to ensure that safety planning was
+appropriately conducted and that youth are protected from further harm. In response, DYS
+provided clarification about the youth’s wellbeing and information about the action steps taken
+to ensure their protection. DYS also provided information about accountability actions against
+staff, such as termination, and progress on internal reviews.
+45
+
+Conclusion
+In FY25, the Office of the Child Advocate’s oversight activities revealed both encouraging
+developments and areas of concern across Massachusetts’ child-serving systems. Increased
+engagement with the OCA, particularly through the Complaint Line and Youth Engagement
+Initiative, suggests growing awareness of the OCA as a resource for families, youth, and
+professionals seeking assistance or raising concerns. At the same time, data collected through
+the OCA’s quality assurance functions point to several troubling patterns that warrant continued
+attention.
+Although the overall number of critical incident reports declined, indicators of serious harm to
+children increased across multiple data sources. Reports involving physical abuse, serious
+injury, and improper behavior management appeared in several oversight streams, including
+institutional reports, critical incident reports, and Complaint Line inquiries. The OCA also filed
+more reports of abuse and/or neglect with DCF based on information received through these
+oversight activities than in prior years, and several cases the OCA reviewed involved particularly
+egregious harm to children.
+One such case resulted in the OCA’s systemic investigation into the death of A’zella Ortiz, a
+young child whose death in October 2024 occurred while she and her family were involved with
+DCF. The investigation identified practice concerns related to clinical formulation, the
+identification and assessment of chronic neglect, and engagement with fathers—issues that
+have appeared in other cases reviewed by the OCA. While the OCA’s investigation benefits from
+retrospective analysis and access to information not always available to state agency staff, it
+nonetheless highlights critical areas where system practice can be strengthened.
+Taken together, the findings presented in this report underscore the importance of strong,
+consistent assessment and engagement practices in child protection work. Ensuring that
+patterns of chronic neglect are recognized, that family dynamics are fully understood, and that
+caregivers receive appropriate support are essential steps in preventing serious harm to
+children. Many of these issues were raised by the OCA in the A’zella Ortiz investigation report,
+and the OCA’s recommendations from that report are summarized in the text box below,
+Recommendations from the OCA Systemic Investigation Regarding the Death of A’zella Ortiz.
+Through continued oversight, transparency, and collaboration with state partners, the OCA will
+continue working to identify risks, strengthen systems of care, and promote policies and
+practices that improve safety and wellbeing for children and families across the Commonwealth.
+46
+
+Recommendations from the OCA’s Systemic Investigation Regarding the Death of A’zella Ortiz
+• Revise and update the DCF Case Closing Policy to provide greater clarity and guidance, with
+a particular focus on scenarios where a family has prolonged DCF involvement and/or their
+whereabouts are unknown.
+• Establish a structured quality assurance framework to guide DCF casework with intact
+families that is well-researched, well-resourced, and multifaceted.
+• Develop and implement a stand-alone policy about case consultations with the already
+existing DCF clinical specialists that includes procedures to make sure the recommendations
+are addressed.
+• Strengthen the definition of “clinical formulation,” to ensure that it is child-centered and
+guides assessment, casework, and decision-making.
+• Create and embed an understanding of chronic neglect into DCF casework, recognizing that
+chronic neglect is a subset of neglect with its own unique characteristics and risks.
+• Conduct a training needs-assessment of the DCF workforce to systematically identify the
+knowledge, skills, and capacity gaps with a particular focus on clinical formulation, child
+development and growth, parental engagement, substance use, and neglect.
+47
+
+Appendix A: Complaint Line Data
+The following section provides additional data regarding inquiries received through the OCA
+Complaint Line. The data is organized by “reason for inquiry”. The high-level reasons for the
+inquiry that the OCA captured in FY25 are:
+• DCF: A complaint or request for information about the Department of Children and
+Families.
+• Abuse and/or Neglect: A complaint or request for information about child abuse and/or
+neglect. The child may or may not be involved with DCF at the time of the complaint or
+request for information.
+• Behavioral, Mental and/or Physical Health: A complaint or request for information
+about services and systems related to physical, behavioral, and/or mental health.
+• Court System: A complaint or request for information about court systems, including
+probate and juvenile court.
+• Education: A complaint or request for information about access to and quality of
+education provided to a child.
+• Other: Complaints and requests for information not classified elsewhere.
+These topics are not mutually exclusive; a Complaint Line inquiry may involve more than one
+“reason for inquiry”. Additionally, the number of individuals served differs from the number of
+inquiries because individuals may contact the Complaint Line more than once and/or for
+different reasons. Each time an individual contacts the Complaint Line after their inquiry is
+closed, a new inquiry is created.
+The OCA categorizes Complaint Line inquiries in one of two ways: complaint and information
+and referral. A complaint is an expression of dissatisfaction with any agency or program that
+provides services to a child of the Commonwealth. Information and referral are a request for
+information, referral, or education on a specific topic.
+DCF
+As shown in Figure 16: Complaint Line Inquiries and Individuals Served involving DCF, the OCA
+received 634 inquiries related to DCF involving 524 individuals in FY25. From FY24 to FY25, there
+was a 77% increase in the number of Complaint Line inquiries after several years of relative
+stability. Despite the increase, the most frequent reasons individuals contacted the Complaint
+Line regarding DCF were similar to prior years.
+48
+
+Figure 16:
+Complaint Line Inquiries and Individuals Served involving DCF
+(FY20-FY25)
+700
+d
+e
+v
+r 600
+e
+S
+s
+la 500
+u
+d
+iv
+id 400
+n
+I
+r
+o 300
+s
+e
+ir
+iu 200
+q
+n
+I 100
+0
+FY20 FY21 FY22 FY23 FY24 FY25
+DCF 211 363 379 308 359 634
+Individuals Served 198 346 362 297 347 524
+As shown in Figure 17: Who Is Calling: Complaint Line Inquiries about DCF, biological parents
+are most frequently contacting the Complaint Line: 43% (272) of inquiries involving DCF were
+brought to the OCA by a biological parent in FY25.
+Figure 17:
+Who Is Calling: Complaint Line Inquiries about DCF
+d
+e (FY20-FY25)
+v
+r
+e
+S
+s
+100%
+la 90%
+u
+d 80%
+iv
+id 70%
+n 60%
+I
+f 50%
+o
+t 40%
+n
+e 30%
+c
+r e 20%
+P
+10%
+0%
+FY20 FY21 FY22 FY23 FY24 FY25
+Other 16% 7% 12% 8% 7% 4%
+Other Relative 19% 17% 14% 19% 16% 17%
+Provider 13% 15% 16% 22% 22% 14%
+Parent 47% 58% 53% 49% 49% 52%
+Child/Self 1% 0% 1% 2% 2% 9%
+Note: Chart does not include unknown or N/A categories. Totals will not sum to 100%.
+49
+
+Of the 634 inquiries about DCF the OCA received in FY25, 93% (588) were complaints and 7%
+(46) were requests for information and referral. As shown in Table 7: Complaint Line Inquiries
+about DCF, inquiries about DCF were most frequently about DCF personnel (293), including
+allegations of DCF staff not responding to an individual’s outreach, alleged disrespect by DCF
+personnel, missing paperwork (including safety plans and family assessments), and lack of
+follow-through of a family member’s visitation rights with children in out-of-home placements.
+This subcategory increased 89% from FY24 to FY25 and drove the overall increased volume of
+complaints about DCF.
+The second most frequent reason for DCF-related inquiries was concerns about a child’s
+placement (150)60 including concerns about inappropriate placements, placement changes or
+denial, length of time in a placement, and quality of placement. Some individuals expressed
+concerns about the type of placement, or inconsistent placement visits by workers.
+Concerns about the care and/or custody of a child involved with DCF was the third largest
+category (89). This includes complaints about removal or non-removal of children. Concerns
+about a Family Assessment and Action Plan came up in 30 inquiries.
+DCF-related information and referral requests included inquiries about what to do in case of
+suspected abuse and/or neglect, help understanding DCF policies and procedures, options for
+out-of-home placements, service coordination, payments and vouchers, records requests, and
+more.
+Table 7: Complaint Line Inquiries about DCF, FY24 & FY25
+Reason for Call FY24 FY25
+Care and Custody of Child(ren) 70 89
+DCF Case Management 31 8
+DCF Personnel 155 293
+Family Assessment and Action Plan 12 30
+Family Visits 1 65
+Parent/Caregiver Engagement 13 26
+Payment and Vouchers 2 9
+Permanency Goal Change 6 24
+Placement 98 150
+Policies and Procedure 3 30
+Records Requests 1 16
+Reunification 25 69
+Service Coordination 25 58
+60 Placement refers to an out-of-home placement. See Appendix F: Glossary of Terms for more information.
+50
+
+Table 7: Complaint Line Inquiries about DCF, FY24 & FY25
+Other61 77 140
+Total Cases 359 634
+Note: Sum will not equal number of inquiries. Multiple options may be selected for each inquiry.
+Alleged Abuse and/or Neglect
+As shown in Figure 18: Complaint Line Inquiries and Individuals Served: Abuse and/or Neglect
+of Children, the OCA received 77 inquiries about abuse and/or neglect, involving 70 individuals
+in FY25; 83% (64) were complaints while 17% (13) were requests for information and referral.
+The number of inquiries in this subcategory increased 51% from FY24 (51) to FY25 (77).
+However, this variable has evolved over time both in definition and in coding structure. Prior
+year data is a helpful reference but may be unreliable.62 Abuse and/or neglect inquiries often
+involve concern expressed by the individual that a child has been abused or neglected in out-of-
+home care or by their custodial parent, or the individual is seeking information about what to
+do if they suspect abuse and/or neglect of a child.
+Figure 18:
+Complaint Line Inquiries and Individuals Served: Alleged Abuse and/or
+Neglect of Children
+(FY20-FY25)
+d
+e
+v 100
+r
+e
+S
+s 80
+la
+u
+d 60
+iv
+id
+40
+n
+I
+r
+o 20
+s
+e
+ir 0
+iu
+q
+n -20
+I FY20 FY21 FY22 FY23 FY24 FY25
+Abuse/ Neglect 3 1 5 9 51 77
+Individuals Served 3 1 5 9 51 70
+61 Other DCF inquiries are regarding concerns about the lack of or inconsistent home visits or placement visits by a social worker
+and multi-agency involved youth.
+62 “Abuse and/or Neglect” was originally a sub-category of the OCA Complaint Line category for DCF related complaints.
+However, the OCA observed that many of these Complaint Line inquiries did not involve current or prior DCF history for the child
+or family involved in the complaint. As such, the OCA removed Abuse and/or Neglect from the DCF-related Complaint Line
+category and made it a separate category under “Reason for Call.”
+51
+
+As shown in Figure 19: Who is Calling: Complaint Line Inquiries about Abuse and/or Neglect,
+most inquiries in this category come from a parent, though children themselves contacted the
+OCA more about this topic in FY25.
+Figure 19:
+Who is Calling: Complaint Line Inquiries about Alleged Abuse and/or Neglect
+(FY22-FY25)
+d 100%
+e
+v r 90%
+e
+S 80%
+s
+la 70%
+u
+d 60%
+iv
+50%
+id
+n 40%
+I
+f o 30%
+t n 20%
+e
+c 10%
+r
+e 0%
+P
+FY22 FY23 FY24 FY25
+Other 44% 22% 8% 9%
+Other Relative 44% 44% 14% 13%
+Provider 11% 11% 18% 17%
+Parent 0% 22% 44% 52%
+Child/Self 0% 0% 2% 6%
+Note: Chart does not include unknown or N/A categories. Totals will not sum to 100%.
+Behavioral, Mental, or Physical Health
+As shown in Figure 20: Complaint Line Inquiries and Individuals Served: Behavioral, Mental,
+and Physical Health Systems, the OCA received 53 inquiries related to behavioral (46) or
+physical health (7) involving 43 individuals in FY25.63
+63 The OCA began using “behavioral health” as a unique category beginning in FY23.
+52
+
+Figure 20:
+Complaint Line Inquiries and Individuals Served: Behavioral, Mental and
+Physical Health Systems
+(FY20-FY25)
+d
+e
+v 60
+r
+e
+S
+s
+50
+la
+u 40
+d
+iv
+id 30
+n
+I
+r 20
+o
+s
+e 10
+ir
+iu
+q 0
+n FY20 FY21 FY22 FY23 FY24 FY25
+I
+Behavioral, Mental and
+54 40 35 19 26 53
+Physical Health
+Individuals Served 52 40 34 18 24 43
+As shown in Figure 21: Who is Calling: Complaint Line Inquiries about Behavioral, Mental, and
+Physical Health, inquiries in this subcategory typically come from parents followed by providers.
+Figure 21:
+Who Is Calling: Complaint Line Inquiries about
+Behavioral, Mental and Physical Health
+(FY20 -FY25)
+100%
+d
+e 90%
+v
+r e 80%
+S
+s 70%
+la
+u 60%
+d
+iv 50%
+id
+n 40%
+I
+f
+o 30%
+t
+n 20%
+e
+c
+r 10%
+e
+P
+0%
+FY20 FY21 FY22 FY23 FY24 FY25
+Other 13% 15% 3% 11% 24% 3%
+Other Relative 4% 2% 16% 5% 0% 5%
+Provider 9% 27% 22% 32% 28% 36%
+Parent 72% 51% 53% 53% 31% 56%
+Child/Self 0% 0% 6% 0% 14% 0%
+Note: Chart does not include unknown or N/A categories. Totals will not sum to 100%.
+53
+
+Of the 53 behavioral, mental, and physical health inquiries the OCA received in FY25, 62% (33)
+were complaints and 38% (20) were requests for information and referrals. As shown in Table 8:
+Complaint Line Inquiries about Behavioral, Mental, and Physical Health, inquiries about
+supportive services are the most frequently occurring, followed by service delivery. Other
+inquiries include questions and concerns about medication management.
+Table 8: Complaint Line Inquiries about Behavioral, Mental and Physical Health, FY24 and
+FY25
+Reason for Call FY24 FY25
+Access to Medication and Treatment 1 4
+Child is Not Receiving Enough Services/Supports 9 19
+Emergency Department Boarding 3 6
+Insurance and Payments 0 3
+Malpractice 2 2
+Out-of-home Placement Not Related to DCF 7 2
+Service Delivery 6 16
+Other 5 12
+Total 26 53
+Note: Sum will not equal number of inquiries. Multiple options may be selected for each inquiry.
+Court System
+As shown in Figure 22: Complaint Line Inquiries and Individuals Served: Court System, the OCA
+received 125 inquiries regarding the court system involving 105 individuals in FY25. This was an
+increase of 81% from FY24 (69) to FY25 (125), and 229% since FY20 (38).
+Figure 22:
+Complaint Line Inquiries and Individuals Served: Court System
+(FY20-FY25)
+d
+e
+v
+r 140
+e
+S
+s 120
+la
+u 100
+d
+iv
+id 80
+n
+I
+r
+60
+o
+s 40
+e
+ir 20
+iu
+q n 0
+I FY20 FY21 FY22 FY23 FY24 FY25
+Court Involvement 38 65 64 32 69 125
+Individuals Served 38 64 61 32 69 105
+54
+
+As shown in Figure 23: Who Is Calling: Complaint Line Inquiries about the Court System,
+inquiries in this subcategory overwhelmingly came from a parent, with a smaller proportion
+coming from providers in FY25.
+Figure 23:
+Who Is Calling: Complaint Line Inquiries about the Court
+d System
+e
+v r (FY20-FY25)
+e
+S
+s la 100%
+u
+d 80%
+iv
+id
+60%
+n
+I
+f o 40%
+t
+n 20%
+e
+c
+r e 0%
+P FY20 FY21 FY22 FY23 FY24 FY25
+Other Relative 15% 5% 15% 19% 17% 17%
+Provider 5% 15% 13% 10% 14% 5%
+Parent 65% 70% 59% 65% 64% 71%
+Child/Self 0% 2% 5% 3% 0% 2%
+Note: Chart does not include unknown or N/A categories. Totals will not sum to 100%
+Of the 125 court system inquiries the OCA received in FY25, 68% (85) were complaints and 32%
+(40) were requests for information and referrals. Table 9: Complaint Line Inquiries about the
+Court System describes the reasons that individuals contacted the Complaint Line about the
+court system. These inquiries often involved concerns about nonadherence or non-enforcement
+of a judge’s orders, perceived conflicts of interest with judges and attorneys, what to do in case
+of disagreement with a judge’s decisions, how to obtain legal representation, understanding
+visitation rights and opportunities, and navigating the legal system.
+Table 9: Complaint Line Inquiries About the Court System, FY24 & FY25
+Court Involvement Detail FY24 FY25
+Bias During Court Proceedings 3 21
+Concerns with Legal Representation 11 36
+Delay in Court Proceedings 4 5
+Disagreement with a Judge's Decision 28 72
+Visitation - 26
+Other 24 19
+Total 69 125
+Note: Sum will not equal number of inquiries. Multiple options may be selected for each inquiry.
+55
+
+Education
+As shown in Figure 24: Complaint Line Inquiries Involving the Education System, the OCA
+received 102 inquiries about education involving 89 individuals in FY25. This is an increase of
+73% between FY24 (59) and FY25 (102) following a few years of moderate increases.
+Figure 24:
+Complaint Line Inquiries Involving the Education System
+d (FY20-FY25)
+e
+v
+r
+e 120
+S
+s
+la 100
+u
+d
+iv 80
+id
+n 60
+I
+r
+o 40
+s
+e
+ir 20
+iu
+q
+n 0
+I FY20 FY21 FY22 FY23 FY24 FY25
+Education 41 32 58 51 59 102
+Individuals Served 41 31 58 51 59 89
+As shown in Figure 25: Who Is Calling: Complaint Line Inquiries about Education, although
+most inquiries in this subcategory are from a parent, there was a small increase in the number
+of inquiries coming from a youth in FY24 and FY25.
+Figure 25:
+Who Is Calling: Complaint Line Inquiries about Education
+(FY20-FY25)
+d
+e
+v
+r e 100%
+S
+s
+90%
+la 80%
+u
+d 70%
+iv 60%
+id
+50%
+n
+I
+f
+40%
+o 30%
+t
+n 20%
+e
+c 10%
+r
+e 0%
+P FY20 FY21 FY22 FY23 FY24 FY25
+Other 7% 3% 9% 13% 9% 1%
+Other Relative 14% 13% 14% 20% 9% 2%
+Provider 2% 13% 12% 6% 14% 16%
+Parent 76% 71% 64% 59% 64% 75%
+Child/Self 0% 0% 0% 0% 2% 3%
+Note: Chart does not include unknown or N/A categories. Totals will not sum to 100%
+56
+
+Of the 102 education inquiries the OCA received in FY25, 70% (71) were complaints and 30%
+(31) were requests for information and referrals. Table 10: Complaint Line Inquiries about
+Education describes the reasons people contacted the Complaint Line regarding education.
+While the reasons people contacted the OCA in FY25 are similar to FY24, the increase is
+particularly pronounced for concerns about school discipline, bullying, and Individualized
+Education Plans (IEPs) or 504 plans. Complaints about education often involved concerns about
+a school administration’s response to a student’s needs or concerns, including discipline
+practices, accessing or adhering to an Individualized Education Plan (IEP) or 504 plan, and the
+need for a different educational placement. Information and referral inquiries often involved
+bullying prevention, immigration, navigating the DESE problem resolution system, accessing
+education records, and accessing educational advocates.
+Table 10: Complaint Line Inquiries About Education, FY23 - FY25
+Education Detail FY23 FY24 FY25
+Bullying 1 11 18
+Individualized Education Plan (IEP) and/or 504 Plan 3 23 40
+Lack of Responsiveness of School Staff/Administrator 3 28 42
+Need for a Different Educational Placement 0 14 20
+Transportation Services 0 1 3
+Unfair or Inappropriate School Discipline 1 11 22
+Other 1 9 30
+Total 51 59 102
+Note: Sum will not equal number of inquiries. Multiple options may be selected for each inquiry.
+Other Systems and Services
+As shown in Figure 26: Complaint Line Inquiries and Individuals Served: Other Systems and
+Services, the OCA received 152 inquiries involving 141 individuals in FY25. This was an increase
+of 138% from FY24 (64) to FY25 (152) after several years of moderate increases.
+57
+
+Figure 26:
+Complaint Line Inquries and Individuals Served:
+Other Systems and Services
+d (FY20-FY25)
+e
+v
+r
+e 350
+S
+s la 300
+u
+d 250
+iv
+id 200
+n
+I
+r
+150
+o
+s
+100
+e
+ir 50
+iu
+q 0
+n FY20 FY21 FY22 FY23 FY24 FY25
+I
+Other 40 27 30 48 64 152
+Individuals Served 39 27 30 48 64 141
+As shown in Figure 27: Who Is Calling: Complaint Line Inquiries about Other Systems and
+Services, although inquiries in this category are most frequent from parents, an increasing
+number of inquiries are coming from youth in FY25. This category also has a higher proportion
+of providers compared to other categories.
+Figure 27:
+Who Is Calling: Complaint Line Inquiries about Other Systems and Services
+(FY20-FY25)
+d
+e 100%
+r
+e
+v 90%
+r
+e 80%
+S
+s la 70%
+u 60%
+d
+iv 50%
+id
+n 40%
+I
+f 30%
+o
+t 20%
+n
+e 10%
+c
+r
+e 0%
+P FY20 FY21 FY22 FY23 FY24 FY25
+Other Relative 15% 10% 17% 13% 8% 5%
+Provider 0% 24% 23% 15% 19% 24%
+Parent 38% 21% 40% 26% 37% 36%
+Child/Self 3% 0% 0% 4% 2% 13%
+Note: Chart does not include unknown or N/A categories. Totals will not sum to 100%
+58
+
+Of the 152 Other inquiries the OCA received in FY25, 45% (68) were complaints and 55% (84)
+were requests for information and referral. Table 11: Complaint Line Inquiries about Other
+Systems and Services describes the reasons people contacted the complaint about other
+services and systems not previously mentioned above. Inquiries in the Other category include
+complaints related to: child maltreatment that does not rise to the DCF definition of abuse
+and/or neglect, housing and living conditions, alleged false allegations against the individual
+contacting the Complaint Line, complaints about agencies in states other than Massachusetts,
+alleged professional misconduct and ethics violations against Commonwealth employees or
+contractors, alleged failure to respect legal rights, privacy violations, alleged discrimination by
+service providers, and barriers to accessing benefits.
+Information and referral inquiries include questions about mandated reporting, housing,
+financial assistance, and state service and systems navigation. Additional inquiries include the
+OCA’s position on policy debates and legislative actions and requests for previously released
+OCA reports.
+Table 11: Complaint Line Inquiries about Other Systems and Services, FY24 and FY25
+Other Detail FY24 FY25
+Child Treatment 7 30
+Financial Assistance 4 5
+Housing 6 12
+Living Conditions 2 5
+Mandated Reporter Training 5 10
+Perceived Discrimination 1 4
+Records Requests 2 3
+Missing or Absent Child 0 6
+Other 16 69
+Total 64 152
+Note: Sum will not equal number of inquiries. Multiple options may be selected for each inquiry.
+Demographics
+The following tables provide additional context about demographic information collected
+through Complaint Line inquiries. Individuals contacting the Complaint Line are invited but not
+required to share demographic information. While the OCA is almost always able to collect
+information about the individual’s role/relationship to the child (95% of the time), personal
+identity characteristics, such as race, ethnicity, gender identity and sexual orientation are
+captured less often.
+59
+
+Table 12: OCA Collection of Identity Characteristics for Individuals Served on the Complaint
+Line, FY25
+Characteristics Percent with Data Count with Data
+Sex Assigned at Birth 41% 341
+Gender Identity 34% 282
+Race, Ethnicity 35% 285
+Role/Relationship to Child 95% 783
+Sexual Orientation 26% 211
+Total -- 993
+As shown in Table 13: Availability of Race/Ethnicity of Individuals Served on the Complaint
+Line, in FY25, more demographic data was collected compared to prior years. The OCA is
+working to improve identity characteristic collection through continuous quality improvement
+initiatives.
+Table 13: Availability of Race/Ethnicity of Individuals Served on the Complaint Line
+Race/Ethnicity Category FY20 FY21 FY22 FY23 FY24 FY25
+Unknown/Unable to 306 409 492 453 393 541
+Determine/Decline to
+answer/Blank
+Data Available 5 4 5 9 116 285
+Individuals Served 311 413 496 462 509 826
+Percent with Data 2% 1% 1% 2% 23% 35%
+To the extent it is known, data on the race and ethnicity, sex assigned at birth, gender identity,
+and sexual orientation of individuals who contacted the Complaint Line is presented in Tables
+14-17. Where possible, data are compared with the Massachusetts and DCF consumer
+population.
+Table 14: Race and Ethnicity of Individuals Served on the Complaint Line Compared to the
+DCF Child/Youth Consumer Population and the Massachusetts Child Population, FY25
+Race, Ethnicity Complaint Line DCF Massachusetts
+Contacts Consumers64 Population65
+American Indian/Alaska Native, NH <1% <1% <1%
+Asian & Pacific Islander, NH 1% 1% 9%
+Black, NH 5% 14% 10%
+Hispanic or Latino 7% 36% 22%
+Multiple Races, NH 2% 7% 5%
+White, NH 19% 33% 55%
+64 Calculated based on child and youth consumers. DCF data request 12/22/2025
+65 Kids Count Data Center, accessed 09/10/2025
+60
+
+Table 14: Race and Ethnicity of Individuals Served on the Complaint Line Compared to the
+DCF Child/Youth Consumer Population and the Massachusetts Child Population, FY25
+Unknown 65% 9% -
+Total 100% (826) 100% (57,008) 100% (1,355,719)
+Note: Percents may not equal 100% because of rounding.
+Table 15: Sex Assigned at Birth of Individuals Served on the Complaint Line Compared to
+the Massachusetts Child Population, FY25
+Sex Assigned at Birth Complaint Line Contacts Massachusetts Population58
+Female 31% 49%
+Male 10% 51%
+Unknown 59% -
+Table 16: Gender Identity of Individuals Served on the Complaint Line, FY25
+Gender Identity Complaint Line Contacts
+Female 25%
+Male 8%
+Gender Non-Conforming <1%
+Non-Binary <1%
+Unknown 66%
+Table 17: Sexual Orientation of Individuals Served on the Complaint Line, FY25
+Sexual Orientation Percent of Individuals Served
+Straight/Heterosexual 22%
+Gay <1%
+Lesbian 1%
+Bisexual 1%
+Pansexual/Omnisexual <1%
+Queer <1%
+Questioning <1%
+Not Listed 1%
+Unknown 74%
+61
+
+Appendix B: Critical Incident Report Data
+The following section provides additional data regarding critical incidents reported to the OCA.
+The data is organized by the cause of the critical incident.
+The critical incident causes presented are mutually exclusive. Causes can result in physical injury
+(fatality, near fatality, serious bodily injury) or potential psychological harm (emotional injury).
+More than one child may be referenced in any given report; while the cause of the critical
+incident will remain the same for all children in the report, the type of incident (fatality, near
+fatality, serious bodily injury, emotional injury) is specific to the child who experienced the
+incident and may vary from one child to the next within the same report.
+Data presented includes year-over-year trends, ages of children involved, and reporting agency.
+The OCA may receive more than one report about the same child(ren) and incident(s) if they are
+served by more than one state agency, and the reported cause may vary based on the agency’s
+knowledge of events.
+Physical Abuse
+Figure 28: Physical Abuse Critical Incident Reports by Reporting Agency shows that the OCA
+received 27 critical incident reports about physical abuse. These reports involved 31 children,
+and 34 separate critical incidents. This includes seven fatalities, 23 serious bodily injuries and
+four emotional injuries as seen in Figure 29: Physical Abuse by Type of Critical Incident.
+There was a sharp increase in physical abuse critical incident reports in FY25 (27) compared to
+FY24 (11). This increase was primarily driven by reports of serious bodily injury and fatalities,
+following years of stability or declines. All critical incident reports related to physical abuse in
+FY25 came from DCF.
+62
+
+Figure 28:
+Physical Abuse Critical Incident Reports by Reporting Agency
+(FY20-FY25)
+30
+s
+t 25
+r
+o
+p 20
+e
+R 15
+t
+n 10
+e
+d
+ic 5
+n
+I 0
+DCF DPH Total Reports
+FY20 21 0 21
+FY21 19 0 19
+FY22 16 2 18
+FY23 15 0 15
+FY24 11 0 11
+FY25 27 0 27
+Figure 29:
+Physical Abuse by Type of Critical Incident
+(FY20-FY25)
+25
+d
+e
+v 20
+lo
+v
+n
+I
+h
+15
+t
+u
+o 10
+Y
+r
+o
+n 5
+e
+r
+d
+lih 0
+C FY20 FY21 FY22 FY23 FY24 FY25
+Emotional Injury 0 0 0 0 2 4
+Serious Bodily Injury 18 19 15 15 10 23
+Near Fatality 1 0 1 0 1 0
+Fatality 2 0 1 1 2 7
+Note: Will not sum to number of reports as children may experience more than one type of critical
+incident in a single report.
+As shown in Table 18: Age of Children Appearing in Physical Abuse Critical Incidents, in FY25,
+all the children involved in a physical abuse critical incident were five years old or younger, and
+56% were one year old or younger. One was in state custody, residing in foster care, at the time
+of the incident. The child’s parent or stepparent was the alleged perpetrator(s) in all but three
+cases.
+63
+
+Table 18: Age of Children Appearing in Physical Abuse Critical Incidents, FY25
+Physical Abuse Under 1 1 to 4 5 to 9 Grand Total
+Fatality 5 2 0 7
+Near Fatality 0 0 0 0
+Serious Bodily Injury 15 7 1 23
+Emotional Injury 0 3 1 4
+Grand Total 20 12 2 34
+Note: Will not sum to number of reports or children as multiple children may experience more than one type of
+critical incident in a single report.
+Overdose
+Figure 30: Overdose Critical Incident Reports by Reporting Agency shows that in FY25, the OCA
+received 57 critical incident reports related to an overdose. These reports involved 86 children
+and 86 critical incidents. This includes two fatalities, nine near fatalities, and 75 emotional
+injuries as shown in Figure 31: Overdose by Type of Critical Incident.
+This is a decrease from FY24 (91) and the sixth year in a row with a substantial decline in the
+number of overdose critical incident reports. Although the decrease is primarily driven by a
+decline in the number of emotional injuries due to an overdose, there has also been a small
+decline in the number of physical injuries to a child or youth from an overdose (23 in FY24
+compared to 11 in FY25).
+Most overdose critical incidents were reported by DCF (56) and of those, 75% (42) occurred at
+home. One child was in a DYS independent living arrangement at the time of the overdose.
+The substances involved included illicit opioids, over the counter medications, and alcohol, with
+older children often combining multiple substances.
+64
+
+Figure 30:
+Overdose Critical Incident Reports by Reporting Agency
+(FY20-FY25)
+160
+140
+s t 120
+r
+o
+p 100
+e
+R
+t
+80
+n
+e 60
+d
+ic
+40
+n
+I
+20
+0
+DCF DMH DYS Total Reports
+FY20 147 0 0 147
+FY21 144 0 4 148
+FY22 139 1 0 140
+FY23 132 0 0 132
+FY24 90 0 1 91
+FY25 56 0 1 57
+Figure 31:
+Overdose by Type of Critical Incident
+(FY20-FY25)
+d 200
+e
+v
+lo
+v 150
+n
+I
+h
+t
+r
+u 100
+o
+Y
+r
+o
+n 50
+e
+r
+d
+lih
+0
+C FY20 FY21 FY22 FY23 FY24 FY25
+Emotional Injury 209 192 185 159 113 75
+Serious Bodily Injury 13 10 16 5 3 0
+Near Fatality 7 18 15 25 19 9
+Fatality 2 3 3 5 1 2
+The age of children appearing in critical incident reports about an overdose ranged from one to
+19, as shown in Table 19: Age of Children Appearing in Overdose Critical Incidents. Children
+who were reported to have overdosed were more likely to be female (64%).
+65
+
+Table 19: Age of Children Appearing in Overdose Critical Incidents, FY25
+Overdose Under 1 1 to 4 5 to 9 10 to 14 15 to 19 20 to 26 Grand Total
+Fatality 0 0 0 1 1 0 2
+Near Fatality 0 5 0 1 3 0 9
+Serious Bodily Injury 0 0 0 0 0 0 0
+Emotional Injury 0 24 19 21 11 0 75
+Grand Total 0 29 19 23 15 0 86
+Sudden Unexpected Infant Death (SUID)
+Figure 32: SUID Critical Incident Reports by Reporting Agency shows that in FY25, the OCA
+received eight critical incident reports regarding the sudden unexpected death of an infant
+(SUID). These reports involved 21 children and 21 critical incidents. This included eight fatalities
+and 13 emotional injuries as shown in Figure 33: SUID by Type of Critical Incident.
+SUID-related fatality critical incidents reported to the OCA declined in FY25 (8) compared to
+prior reported years (15-18 each year). All SUID fatalities involved infants under 12 months. The
+age of children experiencing an emotional injury from witnessing a SUID ranged in age from one
+to 14 years old. All SUID related critical incidents reported to the OCA in FY25 were from DCF.
+Figure 32:
+SUID Critical Incident Reports by Reporting Agency
+(FY20-FY25)
+20
+18
+s 16
+t
+r o 14
+p e 12
+R
+t
+10
+n 8
+e
+d 6
+ic
+n 4
+I
+2
+0
+DCF DPH Total Reports
+FY20 16 1 17
+FY21 17 2 19
+FY22 17 1 18
+FY23 14 4 18
+FY24 18 0 18
+FY25 8 0 8
+66
+
+Figure 33:
+SUID by Type of Critical Incident
+(FY20 -FY5)
+25
+d
+e
+v lo 20
+v
+n
+I
+h
+15
+t
+u
+o 10
+Y
+r
+o
+n 5
+e
+r
+d
+lih
+C
+0
+FY20 FY21 FY22 FY23 FY24 FY25
+Emotional Injury 23 11 23 21 13 13
+Fatality 15 18 18 17 17 8
+Suicide and Suicide Attempt
+Figure 34: Suicide and Attempt Critical Incident Reports by Reporting Agency
+shows that in FY25, the OCA received 16 critical incident reports regarding a
+suicide or suicide attempt. These reports involved 22 children and 22 critical
+incidents. This includes five fatalities, two near fatalities, four serious bodily
+injuries and 11 emotional injuries as shown in Figure 35: Suicide and Attempt
+by Type of Critical Incident.
+This is a marked decrease, driven primarily by a decrease in children
+experiencing an emotional injury from witnessing a suicide or suicide attempt
+– following two years of increases.
+Most reports in FY25 were from DCF (14), with two reported by DYS. Most
+youth were in care and/or custody of the state at the time of the incident,
+including one in a residential facility and one in foster care. Neither of the incidents that
+occurred in an out-of-home setting resulted in fatality.
+67
+
+Figure 34:
+Suicide and Attempt Critical Incident Reports by Reporting Agency
+(FY20-FY25)
+s
+t
+r
+o
+p
+e
+R
+t
+n
+e
+d
+ic
+n
+I
+DCF DDS DMH DYS Total Reports
+FY20 28 0 2 0 30
+FY21 33 0 1 2 36
+FY22 12 0 2 3 17
+FY23 15 0 4 1 20
+FY24 18 1 1 4 24
+FY25 14 0 0 2 16
+Figure 35:
+Suicide and Attempt by Type of Critical Incident
+(FY20-FY25)
+d
+e
+v
+lo 35
+v
+n 30
+I
+h
+t 25
+u
+o Y 20
+r o 15
+n
+e 10
+r
+d lih 5
+C 0
+FY20 FY21 FY22 FY23 FY24 FY25
+Emotional Injury 30 19 6 12 23 11
+Serious Bodily Injury 13 17 7 7 5 4
+Near Fatality 2 8 1 7 4 2
+Fatality 3 2 5 3 5 5
+As shown in Table 20: Age of Children Appearing in Suicide and Suicide Attempt Critical
+Incidents, youth who experienced a physical injury from a suicide or suicide attempt were
+between 10 to 22 years old. Youth who experienced an emotional injury from witnessing a
+suicide or a suicide attempt were primarily between the ages of 11 and 15. The person who
+attempted or died by suicide was their parent, a parent’s spouse, or a sibling.
+68
+
+Table 20: Age of Children Appearing in Suicide and Attempt Critical Incidents, FY25
+Suicide/Suicide Under 1 1 to 4 5 to 9 10 to 14 15 to 19 20 to 26 Grand
+Attempt Total
+Fatality 0 0 0 3 1 1 5
+Near Fatality 0 0 0 0 2 0 2
+Serious Bodily 0 0 0 2 2 0 4
+Injury
+Emotional Injury 0 1 0 8 2 0 11
+Grand Total 0 1 0 13 7 1 22
+Medical Events
+Figure 36: Medical Event Critical Incident Reports by Reporting Agency show that in FY25, the
+OCA received 34 medically related critical incident reports. These reports involved 43 children
+and 43 critical incidents. This includes 24 fatalities, two near fatalities, and 17 emotional
+injuries, as shown in Figure 37: Medical Events by Type of Critical Incident. These reported
+events decreased from FY24 (51) to FY25 (34).
+Medical critical incident reports in FY25 came from DCF (17), DDS (10), DPH (5), and EOHLC (2).
+Figure 36:
+Medical Event Critical Incident Reports by Reporting Agency
+(FY20-FY25)
+70
+s 60
+t
+r o 50
+p 40
+e
+R 30
+t n 20
+e 10
+d
+ic 0
+n Total
+I DCF DDS DPH DYS EOHLC
+Reports
+FY20 18 9 8 0 0 35
+FY21 23 7 1 1 0 32
+FY22 28 9 20 0 0 57
+FY23 25 14 22 1 0 62
+FY24 33 12 5 1 0 51
+FY25 17 10 5 0 2 34
+69
+
+Figure 37:
+d Medical Events by Type of Critical Incident
+e
+v lo (FY20-FY25)
+v
+n
+I
+h
+60
+t u 50
+o
+Y 40
+r o 30
+n 20
+e
+r d 10
+lih
+0
+C FY20 FY21 FY22 FY23 FY24 FY25
+Emotional Injury 18 18 21 6 33 17
+Serious Bodily Injury 2 0 0 1 1 0
+Near Fatality 0 2 4 4 5 2
+Fatality 24 17 40 49 31 24
+As shown in Table 21: Age of Children Appearing in Medical Event Critical Incidents, youth who
+experienced a physical injury due to a medical cause ranged in age from birth to 19 years old,
+with 80% being under the age of 10.
+The 26 children who died or nearly died were mostly at home. Two children were in state
+custody, one was in a shelter, one in a private residence other than home, and the location of
+the child’s death was not reported in one case. Up to half of medical event child fatalities
+reported to the OCA involve a child with complex medical needs.
+Seventeen children experienced an emotional injury by witnessing an unexpected medical
+death or near fatality related to pre-existing chronic conditions of a sibling, a parent, or another
+relative. The events were the result of complications from pre-existing medical conditions as
+well as incidents of cardiac arrest.
+Table 21: Age of Children Appearing in Medical Event Critical Incidents, FY25
+Medical Under 1 1 to 4 5 to 9 10 to 14 15 to 19 Unknown Grand
+Total
+Fatality 5 8 6 0 4 1 24
+Near Fatality 1 0 0 0 1 0 2
+Serious Bodily 0 0 0 0 0 0 0
+Injury
+Emotional 1 2 7 5 2 0 17
+Injury
+Grand Total 7 10 13 5 7 1 43
+70
+
+Unintentional Injury
+Figure 38: Unintentional Injury Critical Incident Reports by Reporting Agency shows that in
+FY25, the OCA received 57 critical incident reports regarding an unintentional injury. These
+reports involving 60 children and 61 critical incidents. This includes 10 fatalities, five near
+fatalities, 38 serious bodily injuries and eight emotional injuries, as shown in Figure 39:
+Unintentional Injury by Type of Critical Incident. This is an increase from FY24 (38) to FY25 (57),
+primarily driven by an increase in reports from DYS. The number of reports in this category is
+within normal range when compared with prior years.
+Most reports came from DCF (42), followed by DYS (11).
+Figure 38:
+Unintentional Injury Critical Incident Reports by Reporting Agency
+(FY20-FY25)
+s
+t
+r
+o
+p
+e
+R
+t
+n
+e
+d
+ic Total
+n DCF DDS DPH DYS EOHLC MassHealth
+I Reports
+FY20 43 1 0 2 0 0 46
+FY21 51 0 1 4 0 0 56
+FY22 25 0 3 4 0 0 32
+FY23 45 0 0 2 0 0 47
+FY24 36 0 0 2 0 0 38
+FY25 42 1 1 11 1 1 57
+Figure 39:
+d
+e
+v Unintentional Injury by Type of Critical Incident
+lo
+v
+n (FY20-FY25)
+I
+h
+t
+u 50
+o
+Y 40
+r o 30
+n 20
+e
+r d 10
+lih
+0
+C FY20 FY21 FY22 FY23 FY24 FY25
+Emotional Injury 8 11 11 5 7 8
+Serious Bodily Injury 34 44 22 26 28 38
+Near Fatality 4 5 4 11 0 5
+Fatality 7 5 6 10 6 10
+71
+
+As shown in Figure 40: Mechanism Involved in Unintentional Injury, the most frequently
+reported unintentional injury mechanisms are car crashes (15), falls (10), fires/burns (4), bodily
+force (i.e., restraint) (7), and drowning (7). Six emotional injuries were caused by a child
+witnessing the fatal or life-threatening injury of another individual due to a car crash (4),
+drowning (1), and a fall (1). According to DPH, injuries are a leading cause of death among
+Massachusetts children, particularly drowning, poisoning, and transportation injuries.66
+66 Massachusetts Department of Public Health. Injury Surveillance Program, Injury Fatalities Among MA Children Aged 0-17
+Years 2021 (2023). https://www.mass.gov/doc/2021-child-injury-deaths-summary-
+pdf/download#:~:text=In%202021%2C%20there%20were%2065,suffocations%2C%20poisonings%2C%20and%20drownings
+72
+
+Figure 40:
+Mechanism Involved in Unintentional Injury Incidents
+(FY23-FY25)
+4
+Unknown 0
+2
+0
+Other 1
+1
+Struck by or against (Bat, pushed into wall, 3
+3
+etc.)
+2
+2
+Knife/Sharp Object 0
+1
+3
+Gun/Projectile 2
+1
+4
+Fire/Burn 6
+8
+FY25
+10
+FY24
+Fall 12
+9
+FY23
+6
+Drowning 3
+9
+13
+Car Crash 9
+9
+7
+Bodily Force (kick, punch, bite, etc.) 2
+1
+1
+Asphyxia (hanging or strangulation) 0
+2
+2
+Animal Bite/Sting/Attack 0
+1
+0 2 4 6 8 10 12 14
+Incident Reports
+73
+
+As shown in Table 22: Age of Children Appearing in Unintentional Injury Critical Incidents, the
+age of children appears in a critical incident report about an unintentional injury ranged from
+under one to 26.
+Table 22: Age of Children Appearing in Unintentional Injury Critical Incidents, FY25
+Injury Under 1 1 to 4 5 to 9 10 to 14 15 to 19 20 to 26 Unknown Grand Total
+Fatality 1 3 1 3 1 1 0 10
+Near Fatality 0 2 0 1 2 0 0 5
+Serious Bodily Injury 12 8 0 4 12 1 1 38
+Emotional Injury 0 1 3 2 2 0 0 8
+Grand Total 13 14 4 10 17 2 1 61
+Unknown Cause
+Figure 41: Unknown Cause Critical Incident Reports by Reporting Agency shows that in FY25,
+the OCA received 17 critical incident reports regarding unknown causes. These reports involved
+22 children and 22 critical incidents. This includes eight fatalities, one near fatality, four serious
+bodily injuries, and nine emotional injuries, as shown in Figure 42: Unknown Cause by Type of
+Critical Incident.
+This is a 31% increase in FY25 (17) compared to FY24 (13), driven by an increase in reports from
+DCF. Most of the reports involve infants and very young children who received services from
+DCF (94%, 16) while 6% (1) were involved with DPH. Two children were in state custody at the
+time of the event, including one who sustained a serious bodily injury, and one who witnessed a
+near fatality or fatality from unknown causes. One child was in foster care, one in a shelter, one
+in a residence other than their home, and one in a public place, while the remainder were at
+home. These events most frequently involve emotional injuries where the cause of death is not
+reported, fatalities and serious bodily injuries for which the intent was not determined at the
+time of reporting, or unexplained deaths.
+74
+
+Figure 41:
+Unknown Cause Critical Incident Reports by Reporting Agency
+(FY20-FY25)
+18
+s 16
+t
+r o 14
+p 12
+e
+R 10
+t 8
+n
+e 6
+d 4
+ic
+n 2
+I 0
+Total
+DCF DDS DMH DPH DYS
+Reports
+FY20 6 0 0 1 1 8
+FY21 4 2 0 0 0 6
+FY22 13 0 0 1 1 15
+FY23 7 1 2 1 1 12
+FY24 11 0 0 2 0 13
+FY25 16 0 0 1 0 17
+Figure 42:
+Unknown Cause by Type of Critical Incident
+(FY20-FY25)
+18
+d
+e 16
+v
+lo 14
+v
+n 12
+I
+h 10
+t
+u
+o 8
+Y
+r 6
+o
+n 4
+e
+r 2
+d
+lih 0
+C FY20 FY21 FY22 FY23 FY24 FY25
+Emotional Injury 7 5 17 10 12 9
+Serious Bodily Injury 0 0 0 0 0 4
+Near Fatality 0 0 0 0 0 1
+Fatality 4 3 4 6 4 8
+Note: One child may experience more than one critical incident. Number of children in chart will not
+sum to total number of children involved.
+As shown in Table 23: Age of Children Appearing in Unknown Cause Critical Incidents, 84% (11)
+of the children who sustained physical harm from an unknown cause (13) were under the age of
+four.
+75
+
+Table 23: Age of Children Appearing in Unknown Cause Critical Incidents, FY25
+Unknown Cause 0 to 4 5 to 9 10 to 14 15 to 19 Grand Total
+Fatality 6 2 0 0 8
+Near Fatality 1 0 0 0 1
+Serious Bodily Injury 4 0 0 0 4
+Emotional Injury 3 2 2 2 9
+Grand Total 14 3 3 2 22
+Note: One child may experience more than one critical incident. Number of critical incidents will not sum to
+total number of children involved.
+Violence
+Figure 43: Violence Critical Incident Reports by Reporting Agency shows that in FY25, the OCA
+received 23 critical incident reports regarding violence. These reports involved 26 children and
+27 critical incidents. This includes one fatality, four near fatalities, nine serious bodily injuries, 13
+emotional injuries, as shown in Figure 44: Violence by Type of Critical Incident. Thirteen
+children were reported to the OCA as having witnessed violence. The victim of violence was the
+child’s parent in nine of the reports. One of the child witnesses was in state custody, though
+they were missing from care at the time of the incident.
+This is a decrease in FY25 (23) compared to FY24 (37), primarily driven by a decrease in reports
+from DCF. Most of the reports involving youth who experienced a violence-related critical
+incident were receiving services from DCF (73%, 19) while 30% (7) were involved with DYS, and
+four percent (1) was involved with EOHLC. Eight children were in state custody at the time of the
+event, including one who died, three who were near fatally injured, and four who sustained
+serious bodily injuries. None of the children were in an out-of-home placement at the time of
+the incident.
+There is a not discernable trend in critical incident reports of violence. Firearms played a role in
+56% (15) of these physical injuries, although there were fewer gun-involved incidents reported
+in FY25 compared to FY24.
+76
+
+Figure 43:
+Violence Critical Incident Reports by Reporting Agency
+(FY20-FY25)
+s
+t
+r
+o
+p
+e
+R
+t
+n
+e
+d
+ic
+n DCF DMH DYS EOHLC MCB Total Reports
+I
+FY20 19 0 8 0 0 27
+FY21 14 1 19 0 0 34
+FY22 18 0 4 0 0 22
+FY23 11 0 2 0 0 13
+FY24 29 1 6 0 1 37
+FY25 15 0 7 1 0 23
+Figure 44:
+Violence by Type of Critical Incident
+(FY20-FY25)
+30
+d
+e
+v lo 25
+v
+n I
+h
+20
+t
+u 15
+o
+Y
+r 10
+o
+n
+e 5
+r
+d
+lih 0
+C FY20 FY21 FY22 FY23 FY24 FY25
+Emotional Injury 27 9 11 4 21 13
+Serious Bodily Injury 14 21 10 8 12 9
+Near Fatality 1 2 3 1 6 4
+Fatality 0 5 1 4 6 1
+Note: One child may experience more than one critical incident. Number of children in chart will not
+sum to total number of children involved.
+As shown in Table 24: Age of Children Appearing in Violence Critical Incidents, 77% (20) of the
+children who sustained physical harm from violence were between the ages of fifteen to
+eighteen.
+77
+
+Table 24: Age of Children Appearing in Violence Critical Incidents, FY25
+Violence 1 to 4 5 to 9 10 to 14 15 to 19 Grand Total
+Fatality 0 0 0 1 1
+Near Fatality 0 0 0 4 4
+Serious Bodily Injury 0 0 0 9 9
+Emotional Injury 1 2 4 6 13
+Grand Total 1 2 4 20 27
+Note: One child may experience more than one critical incident. Number of critical incidents will not sum to
+total number of children involved.
+Critical Incident Reports by State Agencies and Cause of Critical Incident, FY20-
+FY25
+Figure 45 through Figure 48 below shows the total critical incident reports by each state agency,
+broken down by the cause of the critical incident. Charts for agencies with five or fewer reports
+are not included (DDS, EOHLC, MassHealth, MCB).
+Figure 45:
+Cause of Critical Incident: DCF, All Types of Incidents
+(FY20 -FY25)
+160
+147
+144
+139
+140
+132
+120
+s
+t r 100 90
+o
+p
+e
+R
+t
+80
+n
+e
+d 56
+ic 60 51
+n I 43 45 42
+36
+40 33 33
+20 18 23 28 25 17 21 19 16 1 1 5 1 27 28 12 15 18 14 25 19 14 18 11 29 15 6 13 7 11 16
+4
+0
+Medical Overdose Physical Suicide/ Unintentional Violence Unknown
+Abuse Suicide Injury
+Attempt
+78
+
+Figure 46:
+Cause of Critical Incident: DMH, All Types of Incidents
+(FY20 -FY25)
+5
+4
+s
+t r 4
+o
+p e 3 2 2 2
+R
+t n 2 1 1 1 1 1
+e d 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ic
+n 0
+I
+Overdose Suicide/ Suicide Violence Unknown
+Attempt
+FY20 FY21 FY22 FY23 FY24 FY25
+Figure 47:
+Cause of Critical Incident: DPH, All Types of Incidents
+(FY20 -FY25)
+25 22
+20
+s
+t r 20
+o
+p
+e 15
+R
+t n 10 8
+e 5 5
+d 3
+ic
+n
+5 1
+0 0
+2
+0 0 0 0 0
+1
+0 0 0 0
+1
+0 0
+1 1
+0
+1 1 2 1
+I
+0
+Medical Physical Abuse Sexual Assault Unintentional Unknown
+Injury
+FY20 FY21 FY22 FY23 FY24 FY25
+Figure 48:
+Cause of Critical Incident: DYS, All Types of Incidents
+(FY20 -FY25)
+19
+20
+s 15
+t
+r
+o 11
+p
+e
+R
+t n
+10 8
+7
+e 6
+d
+ic 4 4 4 4 4
+n 5 3
+I 2 2 2 2 2 2
+1 1 1 1 1 1 1 1 1
+0 0 0 0 0 0 0 0 0 0
+0
+Medical Overdose Suicide/ Suicide Unintentional Violence Unknown
+Attempt Injury
+FY20 FY21 FY22 FY23 FY24 FY25
+79
+
+Demographic Data
+Figure 49 through Figure 51 provide additional details about the race, ethnicity, age, and gender
+of children named in critical incident reports. These data are presented to promote
+transparency regarding data availability and quality. They should be interpreted with caution, as
+the OCA only has demographic and identity characteristics if it is reported to us, and often those
+data are not reported. Improvements in data collection and coding over time have increased the
+completeness of demographic information; as a result, observed increases in reports for certain
+groups may reflect enhanced data capture rather than changes in risk.
+Recent reductions in critical incident reporting—particularly from DCF—appear to influence the
+demographic composition of cases received by the OCA. Currently, the OCA does not have
+sufficient information to report on sexual orientation or transgender status of children and
+youth appearing in critical incident reports.
+Figure 49:
+Race/Ethnicity of Children Appearing in Critical Incident Reports
+(FY21-FY25)
+450
+d
+e
+v 400
+lo
+v 350
+n
+I
+h 300
+t
+u o 250
+Y
+r 200
+o
+n 150
+e
+r d 100
+lih
+C 50
+0
+FY21 FY22 FY23 FY24 FY25
+Black/African American, NH 6 21 17 66 48
+Hispanic/Latino 20 34 103 102 61
+Multi-racial, NH 10 14 6 10 14
+Another Race, NH 0 1 5 0 3
+White, NH 31 38 71 155 107
+Unknown 396 339 215 54 77
+80
+
+Figure 50:
+Age of Children Appearing in Critical Incident Reports
+(FY21-FY25)
+500
+d
+e 450
+v
+lo 400
+v
+n 350
+I
+h 300
+t
+u o 250
+Y
+r
+200
+o
+n
+150
+e r 100
+d
+lih 50
+C 0
+FY21 FY22 FY23 FY24 FY25
+Under 1 58 63 53 45 58
+1 to 4 79 95 91 81 76
+5 to 9 88 97 70 90 46
+10 to 14 100 98 105 86 58
+15 to 19 133 94 85 80 67
+20 to 26 4 2 9 4 3
+Note: Age is missing/unknown for two children who appeared in critical incident reports in FY25.
+Figure 51:
+Sex Identified at Birth of Children Appearing in Critical Incident Reports
+(FY21-FY25)
+d
+e
+v FY25 53% 43% 4%
+lo
+v n FY24 51% 46% 3%
+I
+h t FY23 55% 44% 1%
+u
+o
+Y FY22 45% 41% 14%
+r
+o
+d
+FY21 53% 47% <1%
+lih
+C 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+FY21 FY22 FY23 FY24 FY25
+Male 244 202 223 195 165
+Female 215 184 176 176 134
+Unknown 2 62 3 10 11
+81
+
+Appendix C: Institutional Report Data
+The following section provides additional data about institutional reports submitted to the OCA.
+The data is organized by the following types and sub-types of institutions:
+oCenter-based
+Child Care
+oFamily
+oResidential schools
+Congregate Care oGroup homes
+oDYS-operated secure facilities
+oComprehensive foster care (CFC)
+Foster Care oKinship
+oUnrelated/unrestricted/pre-adoptive
+oPublic
+School
+oPrivate
+oCommunity based programs
+Other Out-of-Home oTransportation providers
+settings oHospital or healthcare
+oOther/unspecified
+Figure 52: Out-of-Home Settings and Sub-Settings
+This appendix includes information on the estimated service population size for each type of
+institution, year-over-year trends in reporting, and the distribution of maltreatment types
+within supported allegations, including neglect, physical abuse, sexual abuse, and commercial
+sexual exploitation of children (exploitation).
+To better identify trends and patterns about harm to children occurring out-of-home, the OCA
+developed an incident concern categorization system. This system describes the nature of
+supported allegations. It is unique to the OCA and referred to as contributing factors. Incident
+concerns do not always meet the DCF threshold for supported or substantiated concern for
+abuse and/or neglect. Prevalence of incident concerns are also presented for each type and
+sub-type of institution.
+82
+
+FY19 data are included when analyzing institutional reports to account for the potential
+influence of the COVID-19 pandemic emergency orders from March 2020 through June 2021.67
+FY19 is the last full fiscal year before the orders were put into place.
+Child Care
+In 2025, EEC licensed over 9,000 child care facilities and served 247,989 children as of June
+2025.68 Most (80%) of children who attend child care are served in a center-based child care,
+while approximately 20% are served in a provider’s home (family child care).69
+As shown in Figure 53: Institutional Reports: Child Care, in FY25 the OCA received 103
+institutional reports that occurred in child care settings involving 170 children and 133 alleged
+perpetrators. There was a small (2%) increase in institutional reports from child care settings
+from FY24 to FY25 and a large (110%) increase from FY20 to FY25. There is a concerning post-
+pandemic (after FY22) increase in institutional reports from child care settings, primarily center-
+based child care.
+Figure 53:
+Institutional Reports: Child Care
+(FY19-FY25)
+120 101 103
+s
+t r 100 81
+o
+p
+e 80
+R
+la 60
+50 49 54
+n
+o 29
+it 40
+u
+t it 20
+s
+n
+I 0
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Fiscal Year
+As shown in Table 25: Type of Child Care Involved in Institutional Reports, supported
+allegations of abuse and/or neglect in child care facilities remain rare. The OCA estimates that
+less than 1% (170) of children who were served in an EEC licensed or funded child care program
+sustained a supported allegation of abuse and/or neglect in FY25.70
+67 On March 10, 2020, Governor Charlie Baker declared a state of emergency in response to the Coronavirus outbreak. The state
+of emergency and all Emergency and Public Health Orders issued pursuant to the emergency terminated on June 15, 2021.
+68 Massachusetts Department of Early Education and Care. About the Department of Early Education and Care. Accessed
+4/21/2026. https://www.mass.gov/about-the-department-of-early-education-and-care-eec
+69 Data Request, 2025
+70 Calculated as the number of children with a supported allegation of abuse and/or neglect in child care (170) divided by total
+EEC child care service capacity (269,940). Limitations: Actual children served may be lower (unused capacity) or higher (child
+turnover resulting in more unique children served annually).
+83
+
+Table 25: Type of Child Care Involved in Institutional Reports, FY25
+Metric Center-Based Child Care Family Child Care All Child Care
+Number of Reports
+Received 79 (77%) 24 (23%) 103 (100%)
+Number of Children
+Appearing in Reports 130 (76%) 40 (24%) 170 (100%)
+Number of Children
+Served 201,278 (81%)71 46,711 (19%)72 247,989 (100%)73
+Number of Alleged
+Perpetrators 102 (77%) 31 (23%) 133 (100%)
+Estimate of
+Abuse/Neglect in the
+System <1% <1% <1%
+Figures 54: Institutional Reports: Center Based Child Care and Figure 55: Institutional Reports:
+Family Child Care show institutional reports over time for each child care license type, broken
+down by the type of maltreatment involved (e.g. neglect, physical abuse, sexual
+abuse/exploitation).
+71 Massachusetts Early Education and Care. Number and Capacity of EEC Licensed and Funded Program, Center-Based Child Care
+June 2025. Accessed 4/21/2026.
+https://app.powerbigov.us/view?r=eyJrIjoiZmNlNjUwMmEtYzM1NC00OGU2LWIyYWQtMzg1MDk2MmE3MDJkIiwidCI6IjNlODYxZ
+DE2LTQ4YjctNGEwZS05ODA2LThjMDRkODFiN2IyYSJ9&pageName=9949865fcf248b434d7d
+72 Massachusetts Early Education and Care. Number and Capacity of EEC Licensed and Funded Program, Family Child Care June
+2025. Accessed 4/21/2026.
+https://app.powerbigov.us/view?r=eyJrIjoiZmNlNjUwMmEtYzM1NC00OGU2LWIyYWQtMzg1MDk2MmE3MDJkIiwidCI6IjNlODYxZ
+DE2LTQ4YjctNGEwZS05ODA2LThjMDRkODFiN2IyYSJ9&pageName=9949865fcf248b434d7d
+73 Massachusetts Early Education and Care. Children Enrolled in Formal Early Education and Care, June 2025. Accessed
+4/21/2026.
+https://app.powerbigov.us/view?r=eyJrIjoiZmNlNjUwMmEtYzM1NC00OGU2LWIyYWQtMzg1MDk2MmE3MDJkIiwidCI6IjNlODYxZ
+DE2LTQ4YjctNGEwZS05ODA2LThjMDRkODFiN2IyYSJ9&pageName=9949865fcf248b434d7d
+84
+
+Figure 54: Figure 55:
+Institutional Reports: Center-Based Child Institutional Reports: Family Child Care
+Care(FY19-FY25) (FY19-FY25)
+100 100
+90 8078 90
+80 80
+70 62 70
+s s
+n o 60 n o 60
+it
+a g 50 38 39
+it
+a g 50
+e 40 32 32 e 40
+llA
+30 25 24
+llA
+30 23
+19 19
+1 2 0 0 15 9 12 4 13 0 0 0 1 4 3 0 1 2 0 0 15 1011 14 3 7 2 5 3 3 6 1 0 0 1 1 0 0
+0 0
+Neglect Physical Abuse Sexual Neglect Physical Abuse Sexual
+Abuse/Explotation Abuse/Explotation
+FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Note: Totals will not sum to number of reports or children. Multiple allegations and children may
+appear in each report.
+Table 26: Type of Maltreatment Involved in Institutional Reports from Child Care presents
+information on the type of maltreatment involved in institutional reports, broken down by child
+care license type. Physical abuse is more prevalent in center-based child care compared to
+family child care. Neither license type sustained supported allegations of sexual abuse or
+exploitation in FY25.
+Table 26: Type of Maltreatment Involved in Institutional Reports from Child Care, FY2574
+Form of Maltreatment Center-Based Child Care Family Child All Child
+Care Care
+Neglect 99% (78) 96% (23) 98% (101)
+Physical Abuse 49% (39) 25% (6) 44% (45)
+Sexual Abuse/Exploitation 0% (0) 0% (0) 0% (0)
+Total Institutional Reports 79 24 103
+Note: Percents will not sum to 100%. Cases can contain more than one supported allegation.
+As shown in Table 27: OCA Incident Concern Categories Institutional Reports from Child Care,
+overall, there were high levels of improper behavior management, inadequate supervision, and
+74 Percents will not sum to 100%. Cases can contain more than supported allegation.
+85
+
+risk of emotional harm in institutional reports reviewed by the OCA. Inadequate supervision is
+more prevalent in center-based child care, while improper behavior management is more
+prevalent in family child care.
+Table 27: OCA Incident Concern Categories Institutional Reports from Child Care, FY2575
+OCA Incident Concern Category Center-Based Family Child Care
+Child Care
+Boundary Issues 0% 0%
+Failure to Provide for Basic Needs 0% 8%
+Failure to Provide Health/Medical Care 3% 8%
+Improper Behavior Management 57% 38%
+Improper/Inadequate Supervision 41% 58%
+Risk of Emotional/Psychological Harm 30% 33%
+Physical Injury 19% 21%
+Sexual Abuse/Exploitation 0% 8%
+Total Institutional Reports 79 24
+Note: Percents will not sum to 100%. Cases can contain more than one Incident Concern Category.
+Congregate Care
+In 2025, EEC licensed 322 congregate care facilities with the capacity to provide services on
+average to 5,254 children daily.76 In FY25, congregate care was provided by the following state
+agencies:
+• DCF provided congregate care services to 1,677 children77
+• DMH served 181 youth in residential treatment programs78
+• DPH served 12 youth in residential substance use treatment programs79
+• DYS served 1,016 youth in a staff or hardware secure facility80
+75 Percents will not sum to 100%. Cases can contain more than one incident concern category.
+76 Data Request, 2025. Daily service capacity should not be compared with annual service provision.
+77 Data Requests, 2025 and 2026.
+78 Data Requests, 2025 and 2026.
+79 Massachusetts Juvenile Justice Policy and Data Board. (2025). JJPAD Annual Report Fiscal Year 2025.
+https://www.mass.gov/doc/oca-annual-report-fiscal-year-2025/download
+80 Relevant Agency Data Requests, 2025 and 2026.
+86
+
+As shown in Figure 56: Institutional Reports: Congregate Care, in FY25, the OCA received 133
+institutional reports from congregate care settings involving 174 children. Year over year,
+congregate care settings yield the most institutional reports.81 In FY25, these reports came from
+residential schools (85, 64%), group homes (30, 23%), and secure facilities (18, 14%). 82,83
+Reports from congregate care settings decreased by 13% from FY24 to FY25 but increased 7%
+from FY19 to FY25. The trend is relatively stable over time.
+Figure 56:
+Institutional Reports: Congregate Care
+(FY19-FY25)
+s
+t
+r
+o 200 152
+p e 124 125 136 133
+R 150 106 102
+la
+n 100
+o
+it
+u 50
+t
+it
+s 0
+n
+I FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Fiscal Year
+As shown in Table 28: Type of Congregate Care Involved in Institutional Reports, supported
+allegations of abuse and/or neglect in child care facilities are most frequently occurring in
+residential schools. The OCA estimates that 14% of students sustain an allegation of abuse
+and/or neglect in residential schools.84
+Table 28: Type of Congregate Care Involved in Institutional Reports, FY25
+Residential Group DYS Operated All Congregate
+Metric Schools Homes Secure Facilities Care
+Number of Reports Received 85 (64%) 30 (23%) 18 (14%) 133 (100%)
+Number of Children Appearing in
+Reports 113 (65%) 48 (28%) 21 (12%) 174 (100%)
+Number of Children Served 793 1,870 1,197 3,679
+Number of Alleged Perpetrators 95 (63%) 32 (21%) 25 (16%) 152 (100%)
+Estimate of Abuse/Neglect in the
+System 14% 2% 2% 5%
+Note: Children can appear in more than one setting. Total of children will not equal sum.
+81 These settings have strict protocols for mandated reporting, high levels of accountability, and children with high needs,
+including those receiving residential services related to juvenile justice, behavioral health and disability services.
+82 Numbers will not sum to 100% because reports can be supported for multiple allegations, such as abuse and/or neglect.
+83 Some cases involve more than one type of abuse; sums will not equal 100%.
+84 Calculated as the number of children with a supported allegation of abuse and/or neglected in a residential school (113)
+divided by the total number of children served by a residential school in FY25 (793).
+87
+
+Figures 57 through Figure 59 show institutional reports over time for each congregate care
+setting type, broken down by the type of maltreatment involved (e.g. neglect, physical abuse,
+sexual abuse/exploitation). The number of reports from congregate care settings involving
+physical and/or sexual abuse is higher in FY25 compared to FY24, although that is driven entirely
+by increases in reports from residential schools.
+Figure 57:
+Institutional Reports: Secure Facility
+(FY24-FY25)
+100
+80
+s
+n
+o it 60 FY24 FY25
+a
+g 40
+e 23
+llA
+20
+18
+12 10
+1 0
+0
+Neglect Physical Abuse Sexual
+Abuse/Explotation
+Figure 58:
+Institutional Reports: Group Home
+(FY24-FY25)
+100
+80
+s FY24 FY25
+n
+o 60
+it 41
+a
+g 40 29
+e
+llA
+20
+13
+8 4 5
+0
+Neglect Physical Abuse Sexual
+Abuse/Explotation
+88
+
+Figure 59:
+Institutional Reports: Residential Schools (FY24-FY25)
+100
+81 83
+80
+s n FY24 FY25
+o 60
+it 39
+a
+g 40
+e llA
+20
+20
+4 11
+0
+Neglect Physical Abuse Sexual
+Abuse/Explotation
+Table 29: Type of Maltreatment Involved in Institutional Reports from Congregate Care
+presents information on the type of maltreatment involved in institutional reports, broken
+down by the type of congregate care setting.
+Table 29: Type of Maltreatment Involved in Institutional Reports from Congregate Care,
+FY25
+Form of Maltreatment Residential Group Homes Secure Facilities All
+Schools Congregate
+Care
+Neglect 98% (83) 97% (29) 100% (18) 98% (130)
+Physical Abuse 46% (39) 27% (8) 56% (10) 43% (57)
+Sexual
+Abuse/Exploitation 13% (11) 17% (5) 0% 12% (16)
+Total Institutional
+Reports 85 30 18 133
+Note: Percents will not sum to 100%. Cases can contain more than supported allegation.
+Table 30: OCA Incident Concern Categories Institutional Reports from Congregate Care
+presents the percentage of reports with an OCA incident concern category, broken down by
+congregate care setting.
+Table 30: OCA Incident Concern Categories Institutional Reports from Congregate Care,
+FY25
+OCA Incident Concern Category Residential Group Secure
+Schools Homes Facilities
+Boundary Issues 22% 43% 22%
+Failure to Provide for Basic Needs 1% 4% 6%
+Failure to Provide Health/Medical Care 2% 4% 0%
+Improper Behavior Management 52% 25% 67%
+89
+
+Table 30: OCA Incident Concern Categories Institutional Reports from Congregate Care,
+FY25
+Improper/Inadequate Supervision 31% 43% 26%
+Risk of Emotional/Psychological Harm 31% 39% 22%
+Physical Injury 31% 7% 39%
+Sexual Abuse/Exploitation 14% 18% 0%
+Total Institutional Reports 85 30 18
+Note: Percents will not sum to 100%. Cases can contain more than one incident concern category.
+Foster Care
+As seen in Table 31: Number of Children and Youth Served in Foster Care by DCF, in FY25 5,203
+children and youth received foster care services through DCF, including kinship placements,
+comprehensive foster care placements, and unrelated/pre-adoptive/unrestricted foster care
+placement types.85,86 The number of children served in foster care was lower in FY25 than prior
+years.87
+Table 31: Number of Children and Youth Served in Foster Care by DCF, FY22-FY25
+Type of Foster Care FY22 FY23 FY24 FY25
+Comprehensive Foster Care 1,081 962 992 881
+Kinship Foster Care 3,169 3,001 2,923 2,612
+Unrelated/Pre- 2,387 2,204 1,923 1,710
+adoptive/Unrestricted
+Total 6,637 6,167 5,838 5,203
+As shown in Figure 60: Institutional Reports: Foster Care, in FY25 the OCA received 93
+institutional reports from foster care settings involving 151 children. There was a small increase
+Figure 60:
+Institutional Reports: Foster Care
+(FY19-FY25)
+s
+t r o 100 84 87 93
+p
+e 60 59 64
+R
+la
+44
+n 50
+o
+it
+u
+t
+it 0
+s
+n
+I FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Fiscal Year
+85 See Appendix F. Glossary of Terms for definitions of each foster care type.
+86 Data Request, 2025
+87 Massachusetts Department of Children and Families. (n.d). DCF Annual Reports. https://www.mass.gov/info-details/dcf-
+reports-and-dashboards
+90
+
+in reports from FY24-FY25 (7%) and an 111% increase from FY19 to FY25, driven by increases in
+reports involving kinship foster care. During the same time, the number of foster care
+placements, including the number of children placed in kinship foster care, decreased.
+As shown in Table 32: Type of Foster Care Involved in Institutional Reports, the OCA estimates
+that up to 3% (151) of children and youth in foster care were the victim of a supported
+allegation of abuse and/or neglect in FY25.88
+Table 32: Type of Foster Care Involved in Institutional Reports, FY25
+Metric Comprehensive Kinship Unrelated/Pre- All Foster
+Foster Care adoptive/ Care
+Unrestricted
+Number of Reports
+16 (17%) 54 (58%) 23 (25%) 93 (100%)
+Received
+Number of Children
+27 (18%) 88 (58%) 39 (26%) 151 (100%)
+Appearing in Reports
+Number of Children
+881 (17%) 2,612 (50%) 1,710 (33%) 5,203 (100%)
+Served
+Number of Alleged
+20 (17%) 73 (61%) 26 (22%) 119 (100%)
+Perpetrators
+Estimate of Abuse/
+3% 3% 2% 3%
+Neglect in the System
+Note: Children can appear in more than one setting. Total of children will not equal sum.
+Figure 61 through Figure 63 show institutional reports over time for each type of foster care
+setting, broken down by the type of maltreatment involved (e.g. neglect, physical abuse, sexual
+abuse/exploitation). In FY25, reports from kinship placements were the largest portion of
+reports from foster care settings.
+88 Calculated as the number of children with a supported allegation of abuse and/or neglect in foster care (151) divided by the
+total number of children served in foster care (5,203).
+91
+
+Figure 61:
+Institutional Reports: Kinship Foster Care
+(FY19-FY25)
+60
+44
+s
+n
+o 40 27 30 29
+it 22 20 23
+a
+g e llA 20 4 6 6 7 7 2 12 2 2 4 3 0 1 2
+0
+Neglect Physical Abuse Sexual Abuse/Explotation
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Figure 62:
+Institutional Reports: Unrelated, Unrestricted and Preadoptive Foster
+Care
+(FY19-FY25)
+60
+s 39
+n 32
+o 40
+it a g e llA 20 13 17 13 11 19 6 8 1 3 5 7 6 1 5 1 2 7 6 4
+0
+Neglect Physical Abuse Sexual Abuse/Explotation
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Figure 63:
+Institutional Reports: Comprehensive Foster Care
+(FY19-FY25)
+60
+s
+n
+o 40
+it 20
+a
+g e llA 20 5 8 6 10 9 12 1 3 4 2 5 4 6 1 2 0 3 4 2 0
+0
+Neglect Physical Abuse Sexual Abuse/Explotation
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+As shown in Table 33: Type of Maltreatment Involved in Institutional Reports from Foster
+Care, of the 93 supported reports, 81% (75) involved neglect, 26% (24) involved physical abuse,
+92
+
+and 6% (6) involved sexual abuse/exploitation.89 Compared to FY24, this is a decrease in the
+prevalence of neglect (-94%) and sexual abuse (-13%), and an increase in the prevalence of
+physical abuse (17% in FY24) in reported cases.
+Table 33: Type of Maltreatment Involved in Institutional Reports from Foster Care, FY25
+Form of Comprehensive Kinship Unrelated/ Pre-adoptive/ All
+Maltreatment Foster Care Unrestricted Foster
+Care
+Neglect 75% (12) 81% (44) 89% (19) 81% (75)
+Physical Abuse 38% (6) 22% (12) 26% (6) 26% (24)
+Sexual
+Abuse/Exploitation 0% (0) 4% (2) 17% (4) 6% (6)
+Total Institutional
+Reports 16 54 23 93
+Note: Percents will not sum to 100%. Cases can contain more than one supported allegation.
+Table 34: OCA Incident Concern Categories Institutional Reports from Foster Care presents the
+percentage of reports with an OCA incident concern category, broken down by type of foster
+care setting. The most prevalent OCA-identified incident concern category for foster care is risk
+of emotional and/or psychological harm (58%) followed by improper or inadequate supervision
+(40%). The type of concerns presented varied by foster care setting, however:
+• Kinship: Events include substance use by the kinship foster parent(s), inadequate
+supervision in the home, and domestic violence/intimate partner violence. Supported
+reports of physical abuse were the result of the kinship foster parent’s use of
+inappropriate physical discipline.
+• Comprehensive Foster Care: Events include lack of supervision, substance use, and
+failure to seek mental health support for children in their care. Supported reports of
+physical abuse were the result of inappropriate physical discipline. Sexual abuse reports
+related to inappropriate physical touch and sexual contact with a foster parent or foster
+sibling.
+• Unrelated, Unrestricted, and Pre-adoptive: Events include foster parent substance use,
+domestic violence between foster parents, improper behavior management, and
+inadequate supervision resulting in harm. Physical abuse reports related to a foster
+parent’s inappropriate discipline practices. Sexual abuse reports related to inappropriate
+physical touch and sexual contact with a foster parent or foster sibling.
+89 Some reports involve more than one type of abuse; sums will not equal 100%.
+93
+
+Table 34: OCA Incident Concern Categories Institutional Reports from Foster Care, FY25
+OCA Incident Concern Category Comprehensive Kinship Unrelated/
+Foster Care Pre-adoptive/
+Unrestricted
+Boundary Issues 6% 13% 9%
+Failure to Provide for Basic Needs 0% 9% 17%
+Failure to Provide Health/Medical Care 0% 9% 9%
+Improper Behavior Management 44% 18% 26%
+Improper/Inadequate Supervision 31% 44% 39%
+Risk of Emotional/Psychological Harm 56% 69% 35%
+Physical Injury 25% 18% 22%
+Sexual Abuse/Exploitation 13% 4% 17%
+Total Institutional Reports 16 54 23
+Note: Percents will not sum to 100%. Cases can contain more than one incident concern category.
+School
+DESE reported that 866,945 children were enrolled in public schools and 102,631 in private
+school in the 2024/25 school year.90
+As shown in Figure 64: Institutional Reports: Schools, in FY25, the OCA received 101
+institutional reports about schools, including 128 children or youth. Ninety-four institutional
+reports were about public schools, involving 121 children, while seven institutional reports were
+about private schools involving seven children. Institutional reports concerning abuse and/or
+neglect in public schools have increased steadily and substantially since FY19.
+90 Massachusetts Department of Elementary and Secondary Education. (2025). 2024-25 School Attending Children Report.
+Accessed 4/21/2026. https://profiles.doe.mass.edu/statereport/schoolattendingchildren.aspx
+94
+
+Figure 64:
+Institutional Reports: Schools
+(FY19-FY25)
+120 104 101
+s 100
+t 82
+r
+o
+p 80
+e
+R 56
+la 60
+n
+o
+it
+u t 40 23 20
+it
+s n 20 6
+I
+0
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Fiscal Year
+As shown in Table 35: Type of School Involved in Institutional Reports, the OCA estimates that
+less than 1% (121) of children served in public schools sustained a supported allegation of abuse
+and/or neglect in FY25.91
+Table 35: Type of School Involved in Institutional Reports, FY25
+Metric Public school Private School All Schools
+Number of Reports Received 94 (93%) 7 (7%) 101 (100%)
+Number of Children
+Appearing in Reports 121 (94%) 7 (6%) 128 (100%)
+Number of Alleged
+Perpetrators 86 (91%) 8 (9%) 94 (100%)
+Number of Children Served 866,945 (90%) 102,631 (10%) 989,576 (100%)
+Estimate of Abuse/Neglect in
+the System <1% <1% <1%
+Figure 65: Institutional Reports: Public School and Figure 66: Institutional Reports: Private
+School shows institutional reports over time for school type (public or private), broken down by
+the type of maltreatment involved (e.g. neglect, physical abuse, sexual abuse/exploitation).
+91 Calculated as the number of children with a supported allegation of abuse and/or neglect in public schools (121) divided by
+total children enrolled in public schools (915,932). Limitations: Actual children served may be lower or higher because of churn
+within schools.
+95
+
+Figure 65: Figure 66:
+Institutional Reports: Public School Institutional Reports: Private School
+(FY19-FY25) (FY19-FY25)
+70 70
+60
+56
+60 60
+47
+s 50 s 50
+n n
+o it
+a
+40
+28 26
+o it
+a
+40
+g 30 23 g 30
+e llA 20 1514 18 20 13 e llA 20
+10 10
+10 3 3 3 0 6 4 0 6 10 0 1 1 5 2 7 5 0 0 0 0 2 1 3 2 0 2 1 0 3 0
+0 0
+Neglect Physical Abuse Sexual Neglect Physical Abuse Sexual
+Abuse/Explotation Abuse/Explotation
+FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Table 36: Type of Maltreatment Involved in Institutional Reports from Schools presents
+information on the type of maltreatment involved in institutional reports, broken down by
+school type.
+Table 36: Type of Maltreatment Involved in Institutional Reports from Schools, FY2592
+Form of Maltreatment All
+Public school Private Schools Schools
+Neglect 60% (56) 71% (5) 60% (61)
+Physical Abuse 28% (26) 43% (3) 29% (29)
+Sexual 13% (13)
+Abuse/Exploitation 14% (13) 0% (0)
+Total Institutional
+Reports 94 7 101
+Note: Percents will not sum to 100%. Cases can contain more than one supported allegation.
+As shown in Table 37: OCA Incident Concern Categories Institutional Reports from Schools,
+improper behavior management and risk of emotional/psychological harm were the most
+frequently occurring incident concern categories identified by the OCA in reports from schools.
+Table 37: OCA Incident Concern Categories Institutional Reports from Schools, FY2593
+OCA Incident Concern Category Public School Private School
+Boundary Issues 20% 14%
+92 Percents will not sum to 100%. Cases can contain more than supported allegation.
+93 Percents will not sum to 100%. Cases can contain more than one incident concern category.
+96
+
+Table 37: OCA Incident Concern Categories Institutional Reports from Schools, FY2593
+Failure to Provide for Basic Needs 2% 0%
+Failure to Provide Health/Medical Care 4% 29%
+Improper Behavior Management 47% 57%
+Improper/Inadequate Supervision 21% 29%
+Risk of Emotional/Psychological Harm 40% 29%
+Physical Injury 17% 29%
+Sexual Abuse/Exploitation 15% 0%
+Total Institutional Reports 94 7
+Note: Percents will not sum to 100%. Cases can contain more than one Incident Concern Category.
+Other Out-of-Home Settings
+Other out-of-home settings include community-based organizations, hospital and healthcare
+settings, and transportation providers (e.g. school bus providers). As shown in Figure 67:
+Institutional Reports: Other Settings, reports from these settings have gone up since FY21,
+although the overall numbers remain relatively low.
+Figure 67:
+Institutional Reports: Other Settings
+(FY19-FY25)
+25
+s
+t
+r 20
+o
+p
+e
+R 15
+la
+n
+o 10
+it
+u
+t 5
+it
+s
+n
+I 0
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Community Based Program 0 0 0 4 7 9 20
+Hospital/Health Care 1 6 3 4 9 17 16
+Other/Unspecified 9 10 4 4 2 2 5
+Transportation 9 2 3 9 5 14 20
+97
+
+Table 38: Type of Institution Involved in Other/Unknown Institutional Reports, FY25
+Metric Community Hospital/ Other/ Transportation
+Based Program Health Care Unspecified
+Number of Reports
+Received 20 16 5 20
+Number of Children
+Appearing in Reports 25 19 6 23
+Number of Alleged
+Perpetrators 21 21 7 21
+Figure 68 through Figure 71 show institutional reports over time for each “other” setting type,
+broken down by the type of maltreatment involved (e.g. neglect, physical abuse, sexual
+abuse/exploitation).
+Figure 68:
+Institutional Reports: Community Based Organization
+(FY19-FY25)
+17
+s 20 0 0 0 2 2 6 0 0 0 0 0 1 4 0 0 0 2 5 4 2
+n
+o 0
+it
+a
+g Neglect Physical Abuse Sexual Abuse/Explotation
+e
+llA
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Figure 69:
+Institutional Reports: Hospital or Health Care
+(FY19-FY25)
+17 16
+20
+s n o 6 3 4 9 2 2 2 3 6 4 2 0 0 1 2 4
+it
+a 0
+g
+e
+llA Neglect Physical Abuse Sexual Abuse/Explotation
+FY20 FY21 FY22 FY23 FY24 FY25
+Figure 70:
+Institutional Reports: Other or Unspecified Setting
+(FY19-FY25)
+20
+s
+n 9
+o 6
+it a g 3 4 2 2 4 1 2 1 1 0 0 4 2 1 1 0 0 0 0
+e
+llA 0
+Neglect Physical Abuse Sexual Abuse/Explotation
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+98
+
+Figure 71:
+Institutional Reports: Transportation Provider
+(FY19-FY25)
+s n 20 6 1 2 7 2 10 12 3 0 0 1 1 3 3 0 1 1 1 0 0 0
+o 0
+it
+a
+g Neglect Physical Abuse Sexual Abuse/Explotation
+e
+llA
+FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Table 39: Type of Maltreatment Involved in Institutional Reports from Other Settings presents
+information on the type of maltreatment involved in institutional reports, broken down by
+“other” setting type.
+Table 39: Type of Maltreatment Involved in Institutional Reports from Other Settings, FY25
+Form of Community Hospital or Other/Unspecified Transportation
+Maltreatment Based Healthcare Providers
+Programs
+Neglect 85% (17) 100% (16) 80% (4) 60% (12)
+Physical Abuse 20% (4) 25% (4) 80% (4) 15% (3)
+Sexual
+Abuse/Exploitation 10% (2) 25% (4) 0% (0) 0% (0)
+Total Institutional
+Reports 20 16 5 20
+Note: Percents will not sum to 100%. Cases can contain more than one supported allegation.
+As shown in Table 40: OCA Incident Concern Categories Institutional Reports from Foster Care
+the most common incident concern category identified by the OCA in “other” reports were
+improper/inadequate supervision and risk of emotional/psychological harm.
+Table 40: OCA Incident Concern Categories Institutional Reports from Foster Care, FY25
+OCA Incident Concern Category Community Hospital or Other/ Transportation
+Based Healthcare Unspecified Providers
+Programs
+Boundary Issues 25% 38% 20% 10%
+Failure to Provide for Basic Needs 0% 6% 0% 15%
+Failure to Provide Health/Medical
+Care 5% 13% 0% 5%
+Improper Behavior Management 40% 31% 80% 20%
+Improper/Inadequate Supervision 50% 31% 40% 45%
+99
+
+Table 40: OCA Incident Concern Categories Institutional Reports from Foster Care, FY25
+Risk of Emotional/Psychological
+Harm 50% 50% 80% 35%
+Physical Injury 25% 6% 40% 10%
+Sexual Abuse/Exploitation 15% 25% 0% 0%
+Total Institutional Reports 20 16 5 20
+Note: Percents will not sum to 100%. Cases can contain more than one Incident Concern Category.
+100
+
+Appendix D: DCF Case Review Data
+OCA insights into DCF policy and case practice are described through structured and narrative
+fields in the OCA data collection system, which the OCA analyzes to identify opportunities for
+systemic improvement.
+The following provides additional information about OCA findings from DCF case reviews
+resulting from reports and inquiries involving DCF in FY25, stratified by two process points and
+in alignment with how DCF work is organized: intake/response and ongoing case practice.
+Refer to Appendix F: Glossary of Terms for case review categories and definitions.
+Total OCA Reviews of DCF Cases: 1,262
+Table 41: Practice Concerns Identified in DCF-Involved Reports and Inquiries, FY25
+Case Practice Concerns Intake/Response Ongoing Total Cases
+Administrative 67 31 98
+Adult Consumer Engagement 14 60 74
+Care and Custody 6 18 24
+Clinical Formulation 6 49 55
+Collateral Contact 15 51 66
+DCF Specialist Consultation 11 66 77
+Family Visits NA 4 4
+Inadequate Service Provision, NA 13 13
+Coordination, or Access
+Inconsistent Home Visits NA 20 20
+Inconsistent Placement Visits NA 35 35
+Interagency Collaboration NA 14 14
+Interviewing/Engaging Children 16 47 63
+None 811 513 1324
+Not Applicable 194 394 588
+Other Concern 16 58 74
+Outcome Decision 57 NA NA
+Permanency Planning NA 33 NA
+Physical and Medical Needs Not NA 14 NA
+Met
+Policy Non-Compliance 14 29 43
+Premature Case Closing NA 10 NA
+Safety Planning 14 27 41
+Total Cases with a Concern 129 226 485
+Note: Counts will not sum to total. Cases can contain more than one concern at either process point.
+101
+
+Appendix E: Acronyms
+State Agencies
+DCF Department of Children and Families EOHHS Executive Office of Health and
+Human Services
+DDS Department of Developmental Services
+EOHLC Executive Office of Housing and
+DESE Department of Elementary and
+Living Communities
+Secondary Education
+MassHealth Massachusetts Medicaid
+DMH Department of Mental Health
+Program
+DPH Department of Public Health
+MCB Massachusetts Commission for the
+DTA Department of Transitional Assistance Blind
+DYS Department of Youth Services OCA Office of the Child Advocate
+EEC Department of Early Education and
+Care
+Other Acronyms Appearing in the Report
+ACE Adverse Childhood Experience FY Fiscal Year
+ACRT/RCRT Area or Regional Clinical Review JJPAD Juvenile Justice Policy and Data
+Team
+NF Near Fatality
+CCWT Center for Childhood Wellbeing and
+NH Non-Hispanic
+Trauma
+QA OCA Quality Assurance Division
+CDC Centers for Disease Control and
+Prevention SBI Serious Bodily Injury
+CFC Comprehensive Foster Care SUID Sudden Unexpected Infant Death
+CIR or CIRs Critical Incident Report(s)
+CL OCA Complaint Line
+EI Emotional Injury
+IEP Individualized Education Plan
+ICPC Interstate Compact on the Placement
+of Children
+F Fatality
+FCR Foster Care Review
+FCR SA Foster Care Review Safety Alert
+102
+
+Appendix F: Glossary of Terms
+Key Terms
+51A/51B: A report of suspected child abuse and/or neglect filed under Massachusetts General
+Laws Chapter 119, Section 51A and subsequent 51B response.
+Area or Regional Clinical Review Team: A collaborative, multidisciplinary group designed to
+ensure consistent, safety-focused, and clinically informed decision-making for children and
+families involved with the Department of Children and Families.
+Child Treatment: An individual who contacts the Complaint Line to express concern, ask
+questions or seek resources about how a caregiver is or is not caring for and/or providing for the
+safety and wellbeing of a child that does not rise to the DCF definition of abuse and/or neglect.
+Critical Incident Report: State agencies providing services to children or youth must notify the
+OCA if a child suffers a fatality, near fatality, serious bodily injury, or emotional injury. These are
+referred to as critical incident reports.94
+Emotional Injury: An emotional injury occurs when a child is known to witness the fatality or
+life-threatening incident of an individual related to an unexpected medical event, overdose,
+violent act, or suicide.
+Fatality: In terms of a critical incident, fatality occurs when a child between birth to 24 years old
+dies.
+Foster Care Review Safety Alert: Safety alerts are generated by Foster Care Reviewers at the
+end of a Foster Care Review if an immediate safety concern is identified for the child/youth. The
+safety alert is immediately sent to the DCF area office responsible for the case. The DCF Area
+Director must document a response to the safety alert within one working day.
+Foster Care Review: A Foster Care Review panel convenes every six months for every child in
+out-of-home placement to provide oversight and ensure that every child and youth under the
+state's custody has a permanency plan, which is defined as a safe and permanent home. The
+implementation of a Foster Care Review process is a federal requirement.95
+Institutional Report: DCF reports of supported allegations of abuse and/or neglect occurring in
+facilities or programs serving children. For more information refer to the DCF Protective Intake
+Policy.
+94 Office of the Child Advocate statute. M.G.L. c. 18C. https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18C
+95 United States Social Security Act, 42 USC 675 Sec 475 (5) (B). https://www.ssa.gov/OP_Home/ssact/title04/0475.htm
+103
+
+Medical Event: In terms of a critical incident, a medical event relates to a non-injury health
+event, such as a heart attack. Medical events can result in fatality, near fatality, or serious bodily
+injury. If they are witnessed, they can result in an emotional injury.
+Near Fatality: Near fatalities are accidental, the result of a medical condition, or the result of
+abuse and/or neglect. A near fatality designation is dependent on verbal certification by a
+physician that the child or young adult’s condition is considered life-threatening.
+Out-of-Home Setting: Out-of-home settings include foster care, congregate care, child care,
+public schools, private schools, after-school and summer programs, residential and inpatient
+therapeutic programs, school-funded transportation companies, and more.
+Physical Abuse: In terms of a critical incident, physical abuse relates to an intentional act that
+causes injury or physical suffering and is perpetrated by a caregiver. Physical abuse can result in
+fatality, near fatality, or serious bodily injury. If witnessed, it can result in an emotional injury.
+Serious Bodily Injury: Serious bodily injuries are accidental, the result of an underlying medical
+condition, or the result of abuse and/or neglect, and lead to bodily injury “which involves a
+substantial risk of death, extreme physical pain, protracted and obvious disfigurement, or
+protracted loss or impairment of the function of a bodily member, organ, or mental faculty, or
+emotional distress.”96
+Sexual Assault: In terms of a critical incident, sexual assault results in a fatality, near fatality, or
+serious bodily injury. If witnessed, it can result in an emotional injury.
+State Care and/or Custody: A state agency, such as DCF or DYS, has obtained temporary or
+permanent legal custody of a child. Children in state custody may stay in their home or be
+placed out-of-home.
+Unintentional Injury: In terms of a critical incident, injury relates to non-medical physical harm
+that is unintentional. Injuries can result in a fatality, near fatality, or serious bodily injury. If they
+are witnessed, they can result in an emotional injury.
+Violence: In terms of a critical incident, violence relates to an intentional act that causes injury
+or physical suffering that is not sexual in nature and is not perpetrated by a caregiver. Violence
+can result in a fatality, near fatality, or serious bodily injury. If witnessed, it can result in an
+emotional injury.
+96 M.G.L. c. 18C § 5. https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18C/Section5
+104
+
+Settings and Sub-Settings
+Center Based Child Care: Group and school age child care and includes several types of early
+education and care programs, such as preschools, kindergarten, before/after school programs
+and summer programs.97
+Child Care: Regular, non-residential, out-of-home care for children under 14 (or under 16 with
+special needs).
+Community Based Program: Programs that provide services to children and their families that
+do not meet the other type of institutional categories. This includes religious, recreational, and
+educational programs.
+Comprehensive Foster Care: Foster homes that offer more intense therapeutic care and
+supports for children with more complex needs. This service is only provided by licensed foster
+care agencies in accordance with the licensing requirements of EEC and DCF.98
+Congregate Care: A wide range of out-of-home group placements for children that provide 24-
+hour supervision in a variety of structured settings. This includes group homes, residential
+treatment programs, and secure facilities for those involved in the juvenile justice system. These
+placements offer both short-term stabilization as well as longer-term group care. Parents and
+caregivers can place their child in select congregate care programs, though children are
+commonly placed in congregate care through DCF, DMH, DYS or other state agencies within or
+outside of Massachusetts.
+Family Child Care: Family Child Care programs are a type of child care for a small group of
+children in a private residence.99
+Foster Care: When a child is removed from their home due to abuse and/or neglect, foster care
+is one type of setting in which they may be placed. As the Commonwealth’s designated child
+protective services agency and the one that serves more children and families than any other
+EOHHS agency, DCF places the most children in foster care, however DYS can also place children
+in foster care.
+Group Home: Out-of-home 24/7 services that provide flexible individualized treatment,
+rehabilitation, and support/supervision services that vary in intensity based upon individual
+youth and family needs. Educational services are not provided on site. Includes DCF placements
+97 Massachusetts Department of Early Education and Care. (n.d.). Learn about Group and School Age Child Care programs.
+https://www.mass.gov/info-details/learn-about-group-and-school-age-child-care-programs
+98 Massachusetts Department of Children and Families. (2026). Annual Report FY2024. https://www.mass.gov/doc/fy2024-dcf-
+annual-report/download
+99 Massachusetts Department of Early Education and Care. (n.d.). Learn about Group and School Age Child Care programs.
+https://www.mass.gov/info-details/learn-about-group-and-school-age-child-care-programs
+105
+
+for treatment residence, medically complex, emergency residence, and independent living
+programs.100
+Independent living: A wide range of residential options that afford youth to live on their own
+and still access resources.
+Kinship Foster Care: Foster care placements provided by persons related by either blood,
+marriage, or adoption (e.g., adult sibling, grandparent, aunt, uncle, first cousin) or other adult to
+whom the child and/or parent(s) ascribe the role of the family based on cultural and affectional
+ties or individual family values. This can include a person who the family or child has a strong
+bond with and is significant in their life (e.g., teacher or parent(s) of the placed child’s friend).101
+Residential School: Out-of-home 24/7 treatment services that are integrated with an onsite
+special education school. Children receiving residential school services need self-contained,
+integrated treatment, and educational program due to severity of behavioral risk to self or
+others preventing them from safely attending school offsite.102
+Secure Facility: Operated by DYS, secure facilities are staff-secured or locked facilities where
+education and other services are provided on site to youth who are held pretrial or because
+they have been committed to DYS post-adjudication.
+Unrelated Foster Care: An individual(s) who has been licensed by DCF as a partnership resource
+to provide foster/pre-adoptive care for a child, usually not previously known to the individual(s).
+Formerly called unrestricted foster care.
+OCA DCF Case Review & Institutional Report Incident Concern Categories
+Adult Consumer Engagement: In relation to case review findings, this refers to a determination
+that one or more of the following occurred: The parent was not assessed as part of a family
+assessment and action plan; the parent was not contacted as part of ongoing case
+management; or the parent was not visited or contacted monthly, and a reasonable explanation
+is not documented in the case record to support why these actions did not occur.
+Boundary Issues: In relation to an institutional report, this refers to a concern that a provider
+violated physical and/or emotional boundaries with a child.
+100 Massachusetts Department of Children and Families. (2024). Annual Report FY2023. https://www.mass.gov/doc/fy2023-dcf-
+annual-report/download
+101 Massachusetts Department of Children and Families. (2026). Annual Report FY2024. https://www.mass.gov/doc/fy2024-dcf-
+annual-report/download
+102 Massachusetts Department of Children and Families. (2024). Annual Report FY2023. https://www.mass.gov/doc/fy2023-dcf-
+annual-report/download
+106
+
+Care and/or Custody of Child: In relation to OCA case review findings, this refers to a concern
+that DCF left the child in the care and/or custody of a parent or caregiver or removed the child
+from the care and/or custody of a parent or caregiver.
+Clinical Formulation: DCF is not holistically assessing the family based on all available
+information to create a realistic plan of required changes that will promote a child’s safety,
+permanency, and wellbeing. Clinical formulation requires a thorough review of DCF’s history
+with the family.
+Collateral Contact: In relation to OCA case review findings, this refers to a determination that
+the risk posed to the child was not fully assessed because the DCF case management team did
+not contact professionals and/or natural supports or did not ask questions that elicited
+information necessary to inform clinical formulation. Cases are not identified for this concern if
+the barrier to obtaining information is the result of parent/caregiver refusal to provide releases
+of information.
+DCF Case Management: In relation to the Complaint Line, this refers to DCF’s response to a
+report of abuse and/or neglect; removal of a child; service coordination or case oversight;
+frequent changes in social workers.
+DCF Personnel: In relation to the Complaint Line, this refers to delay or lack of response to a
+parent or caregiver’s questions or concerns; unprofessional communication; non-adherence to
+home-visiting requirements as outlined in the DCF Ongoing Casework and Documentation
+Policy.
+DCF Specialist Consultation: In relation to case review findings, this refers to a determination
+that a DCF specialist consultation was not completed during the response although there were
+identified complex or high-risk factors that warranted one.
+Delayed or no Health Care: In relation to an institutional report, this refers to a concern that a
+provider failed to ensure the child had proper and timely physical, dental, or behavioral health
+care.
+Failure to Meet Basic Needs: In relation to an institutional report, this refers to a concern that
+the provider did not meet the child’s needs for food, shelter, and clothing. This also includes
+situations where there are safety concerns regarding the physical environment where services
+are provided.
+Improper Behavior Management: In relation to an institutional report, this refers to a concern
+that a caregiver and/or staff did not respond properly to a child who is exhibiting problematic
+and/or concerning behaviors.
+107
+
+Improper/Inadequate Supervision: In relation to an institutional report, this refers to a concern
+that a caregiver and/or staff engaged in behaviors, activities, or actions that prevented them
+from being able to properly supervise the child, such as not conducting required bed checks,
+sleeping while working, etc.
+Inadequate Education: In relation to an institutional report, this refers to a concern that a
+caregiver did not ensure the child had proper educational opportunities.
+Inconsistent Home Visits: In relation to case review findings, this refers to a determination that
+family participants in an open DCF case have not been visited by the DCF social worker monthly,
+and there is a lack of documentation regarding attempts to visit the family if such attempts were
+made.
+Inconsistent Placement Visits: In relation to case review findings, this refers to no
+documentation in the record that a child in DCF custody is being visited monthly in their
+placement, such as foster care or congregate care.
+Interagency Collaboration: In relation to case review findings, this refers to a child having
+additional agency involvement (DDS, DMH, DYS) and no documentation in the record that DCF is
+collaborating on an ongoing basis with the agency.
+Interviewing/Engaging Children: In relation to case review findings, this refers to a
+determination that the social worker is not performing full, protective, developmentally
+appropriate interviews with the child as part of their ongoing case management responsibilities.
+Outcome Decision: In relation to case review findings, this refers to an OCA disagreement with
+an intake or response decision either regarding a critical incident or a prior DCF intake and
+response involving the same family. This could mean a disagreement with a screening decision,
+with a finding of abuse and/or neglect, with a finding on the alleged perpetrator, or with a
+categorization of a case as either emergency or nonemergency.
+Payments/Voucher: In relation to the Complaint Line, this refers to assistance with child care
+tuition and eligibility for guardianship subsidy.
+Permanency Planning: A formalized strategy or set of actions designed to ensure long-term
+stability, wellbeing, and security of a child who is involved in the child welfare protection
+system, typically due to circumstances such as abuse, neglect, or family disruption. The primary
+goal of a permanency plan is to provide a safe and permanent living arrangement for the child,
+focusing on their best interests and overall welfare. In relation to case review findings, this
+refers to at least one of the following areas: There was not a permanency planning conference
+for a child in DCF custody in conjunction with DCF’s permanency planning policy and/or when it
+108
+
+was clinically appropriate; a child in DCF custody was not progressing toward their permanency
+goal; the current permanency goal for the child was not appropriate.
+Placement/Permanency: In relation to the Complaint Line, this refers to length of stay in out-of-
+home placement; delays in reunification; foster care placement and/or denial of placement with
+kin; concern for the wellbeing of a child in foster care or congregate care.
+Premature Case Closing: In relation to case review findings, this refers to a determination that a
+DCF case was closed with one or more of the following conditions: the protective concerns that
+led to the family’s involvement were not addressed; the case closed with protective concerns
+due to lack of family cooperation; collateral contacts were not performed prior to case closure;
+the case closed after the critical incident without appropriate services/supports in place.
+Risk of Emotional/Psychological Harm: In relation to an institutional report, this refers to a
+concern that a caregiver and/or staff allowed children to be exposed to behaviors, activities, or
+actions that pose a risk of harming a child’s emotional or psychological state.
+Safety Planning: In relation to case review findings, this refers to a concern that DCF approved
+an individual(s) responsible for ensuring a child’s safety and that individual was not an
+appropriate caregiver and/or was not aware of the safety plan and DCF’s concern for the child.
+Visitation: In relation to the Complaint Line, this refers to concerns about the frequency of visits
+with children in DCF custody; concerns about interactions between a child and parent during
+DCF supervised visits.
+109
+
+Commonwealth of Massachusetts
+Office of the Child Advocate
+Phone
+Main Office: (617) 979-8374
+Complaint Line: (617) 979-8360
+Address
+One Ashburton Place, 11th Floor
+Boston, MA 02108
+Website
+https://www.mass.gov/orgs/office-of-the-child-advocate
+Contact
+childadvocate@mass.gov
+110

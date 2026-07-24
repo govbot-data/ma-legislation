@@ -1,0 +1,133 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+SENATE DOCKET, NO. 3606 FILED ON: 1/16/2026
+SENATE . . . . . . . . . . . . . . No. 3090
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+William N. Brownsberger and David M. Rogers
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act relative to consumer connected devices.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS:
+William N. Brownsberger Suffolk and Middlesex
+David M. Rogers 24th Middlesex
+Pavel M. Payano First Essex 7/20/2026
+1 of 1
+
+SENATE DOCKET, NO. 3606 FILED ON: 1/16/2026
+SENATE . . . . . . . . . . . . . . No. 3090
+By Mr. Brownsberger and Mr.Rogers of Cambridge, a joint petition (accompanied by bill,
+Senate, No. 3090) (subject to Joint Rule 12) of William N. Brownsberger and David M. Rogers
+for legislation relative to consumer connected devices. Consumer Protection and Professional
+Licensure.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to consumer connected devices.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws, as appearing in the 2022 Official Edition, are hereby
+2 amended by inserting after chapter 93L the following chapter:-
+3 CHAPTER 93M
+4 THE REGULATION OF INTERNET CONNECTED DEVICES
+5 Section 1. As used in this chapter, the following terms shall have the following meanings
+6 unless the context clearly requires otherwise:
+7 “Connected consumer product”, any device or other physical object that is intended for
+8 consumer use and is capable of connecting to the Internet, either directly or indirectly, including
+9 the physical device, associated mobile application and necessary cloud infrastructure.
+1 of 5
+
+10 “Consumer”, a person that owns or leases from a lessor consumer electronic equipment
+11 that the person or the lessor purchased or used in the commonwealth.
+12 “End of life”, the point at which the manufacturer ceases providing technical support,
+13 security updates, or bug fixes for the software, hardware, or firmware, necessary for the product
+14 to securely function, even if the product is still in use.
+15 “End of sale”, the point at which a manufacturer stops selling the product, which shall be
+16 no less than 1 year before the end of life.
+17 “Firmware”, means low-level software that is embedded into hardware devices that
+18 provides the essential instructions needed for hardware operation, acting as a middle layer
+19 between the hardware and higher-level software such as device operating systems or
+20 applications.
+21 “Internet service provider” or “ISP”, a company or organization that provides individuals
+22 and businesses with access to the internet through infrastructure and networking technologies
+23 that connect to the global internet, such as broadband, fiber, DSL, and mobile data, often
+24 including electronic mail and web hosting.
+25 “Manufacturer” or “original equipment manufacturer” or “OEM”, a business engaged in
+26 the business of selling, leasing, or otherwise supplying new consumer electronic devices, or parts
+27 of equipment, manufactured by or on behalf of itself, to any individual or business.
+28 “Minimum guaranteed support time frame”, means the minimum amount of time for
+29 which a company has publicly committed to providing technical support, security updates or bug
+2 of 5
+
+30 fixes for the software, hardware, or firmware, expressed as continuing until a specific date or for
+31 a specified period of time that commences with the purchase of the device.
+32 “Point of sale” or “POS”, an electronic terminal used by merchant employees for
+33 consumer purchases or services.
+34 “Product web page”, a web page specific to the particular connected consumer product
+35 that contains features and information about the product.
+36 “Security updates”, updates released to address vulnerabilities in the software, hardware,
+37 or firmware used by a connected consumer product.
+38 “Technical support”, contractor- or manufacturer-provided assistance addressing
+39 technical issues for consumer electronic equipment, including but not limited to troubleshooting,
+40 repair, updates and usage guidance.
+41 “Vulnerability”, means a flaw in the software, hardware, or firmware running on a
+42 connected consumer product that lessens the security and integrity of the software, hardware or
+43 firmware needed to operate the product.
+44 Section 2. (a) For any connected consumer product manufactured on or after January 1,
+45 2026, the manufacturer shall disclose a minimum guaranteed support period during which
+46 technical support, security updates and bug fixes shall be provided for the product's essential
+47 software, firmware, and hardware.
+48 (b) Disclosures required under subsection (a) shall: (i) be made at the point of sale, where
+49 practicable; (ii) be displayed in a clear and conspicuous manner on the product packaging and on
+3 of 5
+
+50 the manufacturer's website or product-specific webpage; and (iii) specify the end-of-life date or
+51 the length of support from the date of sale.
+52 (c) A manufacturer shall not shorten the disclosed support period after the sale of a
+53 product but may extend the support period by issuing updated disclosures.
+54 (d) Not less than 6 months prior to the end of the minimum guaranteed support period,
+55 the manufacturer shall notify consumers of the forthcoming end-of-life, including a list of
+56 features that will no longer function and any cybersecurity risks; performance degradation;
+57 reduced interoperability; or other changes that may result from the discontinued product support.
+58 (e) Manufacturers shall deliver notifications required under subsection (d) by one or more
+59 of the following methods:
+60 (i) in-product messaging through an associated application or user interface;
+61 (ii) email communications, where the manufacturer possesses consumer contact data; or
+62 (iii) posting on the product-specific webpage.
+63 (f) Internet service providers that supply or lease connected consumer products shall be
+64 responsible for ensuring that such products: (i) continue to receive security updates if still in
+65 active deployment; or
+66 (ii) if declared end-of-life, are replaced, at no cost to the consumer, with comparable
+67 products capable of receiving security updates.
+68 Section 3. (a) A violation of any provision of this chapter shall constitute an unfair or
+69 deceptive act or practice under section 2 of chapter 93A. The attorney general shall have all the
+4 of 5
+
+70 powers and duties under chapter 93A for the enforcement of this chapter, including the authority
+71 to promulgate rules and regulations necessary to carry out its provisions.
+72 (b) Any person who suffers an ascertainable loss of money or property, real or personal,
+73 as a result of a manufacturer’s or service provider’s violation of this chapter may bring an action
+74 under chapter 93A, section 9, to recover actual damages, including but not limited to:
+75 (i) costs to repair or replace the affected product;
+76 (ii) costs of substitute or alternative products;
+77 (iii) shipping, installation and setup costs;
+78 (iv) consequential damages resulting from product failure;
+79 (v) lost income or wages from interruptions to use;
+80 (vi) other documented financial losses;
+81 (vii) reasonable attorney’s fees and costs; and
+82 (viii) injunctive or declaratory relief as appropriate.
+83 (c) The rights and remedies established by this chapter shall be in addition to any other
+84 rights or remedies available under state or federal law.
+5 of 5

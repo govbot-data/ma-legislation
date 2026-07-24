@@ -1,0 +1,892 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2024 MOR-EV Report
+ANNUAL REPORT TO THE SENATE AND HOUSE COMMITTEES ON WAYS AND
+MEANS, THE JOINT COMMITTEE ON TRANSPORTATION, AND THE JOINT
+COMMITTEE ON TELECOMMUNICATIONS, UTILITIES AND ENERGY
+Massachusetts Department of Energy Resources
+December 12, 2025
+
+Table of Contents
+Acronyms .................................................................................................................................. i
+List of Figures and Tables .......................................................................................................ii
+Introduction ............................................................................................................................. 1
+Section I. Overview of the MOR-EV Program from 2014–2023 ......................................... 3
+Section II. MOR-EV Program Offerings in 2024 .................................................................. 4
+Section III. Demographic Analysis ...................................................................................... 17
+Section IV. Recommendations to Reduce Disparities in Program Participation ............ 22
+Appendix: MOR-EV Data ..................................................................................................... 24
+Acronyms
+AGHI Annual gross household income
+AGI Adjusted gross income
+BEV Battery electric vehicle
+CBO Community-based organization
+CSE Center for Sustainable Energy
+CUV Crossover utility vehicle
+DOER Department of Energy Resources
+EEA Executive Office of Energy and Environmental Affairs
+EV Electric vehicle
+FCEV Fuel cell electric vehicle
+GECA Green Energy Consumers Alliance
+GHG Greenhouse gas
+HHI Household income
+ICEV Internal combustion engine vehicle
+LDV Light-duty vehicle
+LEP Limited English Proficiency Speaker
+MOR-EV Massachusetts Offers Rebates for Electric Vehicles
+MSRP Manufacturer's suggested retail price
+i
+
+National HHI National average household income
+OEJE Office of Environmental Justice & Equity
+OEM Original equipment manufacturer
+PHEV Plug-in hybrid electric vehicle
+State Median HHI State median household income
+SUV Sport utility vehicle
+ZEM Zero emission motorcycle
+ZEV Zero emission vehicle
+List of Figures and Tables
+Figure 1: 2024 MOR-EV Rebate Offerings
+Figure 2: MOR-EV rebates issued and total rebate spend by payment date between
+August 2023 and December 2024
+Figure 3: Total Number of Rebates and Amount of Funding Issued by payment date in
+2024Figure 3: Total Number of Rebates and Amount of Funding Issued by
+Figure 4: Vehicle Price Distribution (MOR-EV Standard Rebates)
+Figure 5: Vehicle Manufacturer Distribution (MOR-EV Used Rebates)
+Figure 6: Vehicle Price Distribution (MOR-EV Used Rebates)
+Figure 7: Vehicle & Applicant Type Distribution (MOR-EV Trucks)
+Figure 8: Vehicle Model Distribution (MOR-EV Trucks)
+Figure 9: Vehicle Price Distribution (MOR-EV Trucks)
+Figure 10: Annual Household Income of Survey Respondents
+Figure 11: National Household Income of Car Buyers
+Figure 12: Racial Identity of Survey Respondents versus 2020 Massachusetts Census
+DataError! Reference source not found.
+Table 1: Number of rebates issued and associated rebate spend by purchase or lease
+date during each phase of the MOR-EV program
+Table 2: Program Participation by Model (MOR-EV Standard Rebates)
+Table 3: Vehicle Age Distribution (MOR-EV Used Rebates)
+ii
+
+Table 4: Applicant Income Qualification by Program (MOR-EV+)
+Table 5: 2024 MOR-EV Community Partners
+Table 6: MOR-EV Light-Duty Vehicle Survey Participation Rates, 2014-2024
+Table 7: MOR-EV Trucks Survey Participation Rate, 2024
+Table 8: Percentage of Light-Duty Vehicle Survey Respondents Considered Low- to
+Moderate-IncomeError! Reference source not found.
+iii
+
+Introduction
+The Massachusetts Offers Rebates for Electric Vehicles (MOR-EV) program aims to
+provide air pollution emission reductions for the Commonwealth by increasing the use
+of zero emission vehicles (ZEVs). The Massachusetts Department of Energy Resources
+(DOER) oversees and a third-party program administrator (the Center for Sustainable
+Energy, or CSE) implements MOR-EV.
+MOR-EV provides incentives to residents, businesses, non-profits, and public entities
+to electrify light-, medium-, and heavy-duty vehicles. The MOR-EV program offerings
+currently include but are not limited to a standard rebate for new ZEVs, a point-of-sale
+rebate option to enable improved cost accessibility at the time of vehicle purchase or
+lease, rebates for used ZEVs, and a rebate adder intended for Commonwealth
+residents with limited income that can be combined with other MOR-EV rebates.
+The underlying objectives of MOR-EV include:
+• Increasing consumer awareness and adoption of ZEVs.
+• Increasing consideration of ZEVs in vehicle purchase or lease decisions.
+• Reducing greenhouse gas (GHG) emissions from the transportation sector.
+• Improving air quality and associated health benefits.
+• Enhancing vehicle fuel diversity and security.
+• Promoting economic growth.
+In 2023, DOER established a culturally competent outreach campaign designed to
+expand and improve education and information dissemination about MOR-EV
+programs and incentives to diverse populations. This campaign utilizes various
+strategies, including but not limited to, development of language accessible materials
+and webinars, presentations at community meetings, tabling at community events, and
+working closely with community-based organizations. In addition, MOR-EV provides
+additional rebate funding to medium- and heavy-duty vehicles to further minimize air
+pollution impacts.
+Following program updates in 2023, including new regulations, MOR-EV participation
+reached record levels in 2024. With the addition of the point-of-sale rebates, an income
+qualifying adder, a used vehicle rebate, a trade-in adder, and an increase in rebate
+value from $2,500 to $3,500, all of which occurred in late 2023 to early 2024, program
+1
+
+expenditures reached more than $71 million1 in calendar year 2024, providing over
+18,600 rebates. Last year’s spend was nine times the average annual expenditures
+between 2014 and 2022 and the number of rebates granted increased by six times
+over the same period.
+Contributing to the program’s growth was an increased focus on expanding
+engagement with communities and dealers. In calendar year 2024, the MOR-EV
+program participated in 23 community events, engaged with over 45 organizations to
+expand the outreach network in communities, and reached a total of 305 enrolled
+dealers in the point-of-sale program with broad geographic representation across the
+Commonwealth.
+Table 1 below summarizes the growth of the program by the program phases outlined
+in Sections 1 and 2 (pp. 4-29).
+Table 1: Number of rebates issued and associated rebate spend by purchase or lease
+date during each phase of the MOR-EV program2
+Phase Dates Rebates Rebate Average Monthly
+Issued Spend Rebate/Expenditure
+Phase 1 June 2014 – January 1,738 $4,101,000 87 rebates/
+2016 $205,050
+Phase 2 February 2016 – 12,087 $24,725,500 345 rebates/
+December 2018 $706,443
+Phase 3 January 2019 – 1,911 $2,860,200 212 rebates/
+December 2019 $317,800
+Phase 4 January 2020 – 2,536 $5,544,000 211 rebates/
+December 2020 $462,000
+Phase 5 January 2021 – July 15,760 $44,679,000 508 rebates/
+2023 $1,411,258
+Phase 6 August 2023 – 20,804 $76,098,500 1,224 rebates/
+December 2024 $4,514,676
+1 This includes the MOR-EV Light Duty program and the MOR-EV Pick Up and Class 2b program. The
+Class 3-8 program is not included in these statistics due to the small number of applications submitted
+through the Class 3-8 program and the variable rebate values per vehicle class, ranging from $15,000
+to $90,000.
+2 This is based off of the date of purchase or lease in the application rather than the date the rebate
+was paid as the rebate offerings available for the purchase or lease of an electric vehicle is dependent
+on which phase of the program the vehicle was purchased or leased under. This does not include the
+Class 3-8 program for the same reason noted in footnote 1.
+2
+
+This report provides detailed information for 2024 on the MOR-EV program consistent
+with Section 41 of Chapter 179 of the Acts of 2022. 3.
+Section I. Overview of the MOR-EV Program from
+2014–2023
+Between 2014 and 2023, MOR-EV provided rebates for the purchase or lease of battery
+electric vehicles (BEVs), fuel-cell electric vehicles (FCEVs), and plug-in hybrid electric
+vehicles (PHEVs) with a purchase price below a certain threshold. The design of MOR-
+EV evolved several times over the years. Details of the various phases of the program
+are included below.
+Phase 1: June 2014–January 2016
+Phase 1 included rebates of $2,500 for BEVs (including cars, CUVs, SUVs, and pickup
+trucks), PHEVs with an onboard battery size of 15 kWh or more (referred to as PHEV
+Plus), and fuel-cell electric vehicles (FCEVs). Phase 1 also included rebates of $1,500
+for PHEVs with an onboard battery of less than 15 kWh and $750 for fully electric zero
+emission motorcycles (ZEMs).
+Phase 2: February 2016–December 2018
+Phase 2 continued the rebate levels from Phase 1 for vehicles with a manufacturer’s
+suggested retail price (MSRP) of less than $60,000. Vehicles with an MSRP greater than
+or equal to $60,000 received a rebate of $1,000.
+Phase 3: January–December 2019
+During Phase 3, rebates were reduced from $2,500 to $1,500 for BEVs and FCEVs, and
+from $750 to $450 for ZEMs, while all rebates for PHEVs were eliminated. The program
+did not provide rebates for any vehicles with a MSRP of $50,000 or higher. Additionally,
+due to budget constraints, MOR-EV was suspended from October through December
+2019, during which time the program provided notice to potential participants that
+rebates would no longer be available. Rebates were ultimately provided to these EV
+purchasers.
+3 M.G.L. c. 25A, § 19; St. 2022, c. 179, § 41 (“An Act Driving Clean Energy and Offshore Wind”)
+3
+
+Phase 4: January–December 2020
+Phase 4 resumed the program at similar rebate levels as were offered in Phases 1 and
+2 with two adjustments: (1) PHEV Pluses received a $1,500 rebate instead of a $2,500
+rebate (and were designated as eligible by having a range of 25 or more electric miles
+rather than onboard battery size) and (2) ZEM rebates concluded. Beginning June 25,
+2020, commercial and nonprofit fleets (including rental cars, company cars, and
+delivery vehicles) also became eligible to receive rebates.
+Phase 5: January 2021–July 2023
+MOR-EV rebates were available for the purchase or lease of BEVs, FCEVs, and eligible
+PHEVs. In 2021, MOR-EV offered a $2,500 rebate for eligible BEVs and FCEVs as well
+as a $1,500 rebate for eligible PHEVs with an all-electric range of at least 25 miles. In
+2021, fleets were limited to a maximum of ten rebates per calendar year, but this cap
+was removed in 2022.
+Due to the passage of the 2022 Act Driving Clean Energy and Offshore Wind, the
+vehicle price cap increased from $50,000 to $55,000 for BEVs and FCEVs that were
+purchased on or after November 10, 2022, and the rebate amount increased to $3,500
+for BEV and FCEV rebate applications that were approved on or after this date. As of
+July 1, 2023, the MOR-EV program only accepted applications for purchases or leases
+of PHEVs that took place on or before June 30, 2023.4
+Section II. MOR-EV Program Offerings in 2024
+Figure 1 illustrates the rebate offerings that were active in 2024, the relative incentive
+value, available methods of securing a rebate, and eligible applicants.
+Rebate applications for light-duty vehicles (LDV), pickup trucks, and Class 2b vehicles
+were available for eligible applicants within 90 days of vehicle purchase or lease.
+Rebates listed as being available at the point-of-sale (or lease) could be claimed at a
+participating Massachusetts auto dealership. Any MOR-EV+ rebate adders and Used
+rebates, which are only available to eligible residents, required redemption of an
+approved pre-qualification voucher issued by the program administrator to be claimed
+at the dealership.
+4 The 2022 Act defined ZEVs as those that produce “no engine exhaust carbon emissions,” therefore
+excluding PHEVs from the program.
+4
+
+Figure 1: 2024 MOR-EV Rebate Offerings
+s •Standard •Used •MOR-EV+ •Trade-in s •Trucks s •Class 3-8
+e e e
+lc •$3,500 •$3,500 •$1,500 •$1,000 lc •$7,500 lc •$15,000-
+ih •Point-of- •Point-of- adder to adder to ih •Post- ih $90,000
+e e e
+V sale or post- sale or post- Standard, Standard, V purchase V •Post-
+y t u d • p O u p r e c n h a to s e • p O u p r e c n h a to s e U Tr s u e c d k , s or U an s d e / d o , r b 2 s •O re p s e id n e t n o t s, y t u D p b u u r t c re h b a a se te
+t h g - r b e u s s id in e e n s t s s e , s, r w e h s o id m en e t e s t •P sa o l i e n t o - r o p f- ost- • M Po O s R t- -E+ s a lC b no u n si p n r e o s fi s t e s s , , y v a - m res u e s r t v b e e d in
+iL and certain HHI purchase purchase d and public e advance
+nonprofit thresholds •Open to •Open to n fleets H •Open to
+fleets or residents residents a s d n residents,
+participate who who trade in k a businesses,
+in a state or participate a qualifying c u m - nonprofits,
+r
+federal in a state or ICEV when T u and public
+income- federal acquiring a p id fleets
+qualifying income- ZEV u k e M
+c
+program qualifiying iP
+program
+Figure 2 below demonstrates the total number of rebates issued between August 2023
+and December 2024 for each of the MOR-EV rebate offerings, as well as the total
+expenditure for each during that time period. It should be noted that the MOR-EV+ and
+Trade-in offerings are adders and not their own rebates and can only be combined with
+a base rebate such as the MOR-EV Standard, MOR-EV Used, or MOR-EV Trucks rebate.
+The MOR-EV standard rebate offering continues to be the most prevalent, equaling
+85% of total program spend during this period.
+5
+
+Figure 2: MOR-EV rebates issued and total rebate spend by payment date between
+August 2023 and December 20245
+25,000 $76M $80,000,000
+21,791
+$70,000,000
+d
+20,000 e
+$60,000,000 u
+s
+d s
+e
+u s s 15,000 $50,000,000
+i
+s e t a
+i
+s e t
+a
+b
+$40,000,000
+b
+e r
+fo
+e 10,000 e
+r
+fo
+$30,000,000 u
+la
+#
+$20,000,000
+v
+la
+5,000 t o
+T
+$10,000,000
+$3.9M
+1,137 $4.1M $3.8M
+602 $900k 246$250k 551 48
+0 $-
+Standard Used MOR-EV+ Trade-in Trucks Class 3-8
+Rebates Issued Rebate Spend
+This section focuses on LDVs and light-duty pickup trucks and other Class 2b vehicles
+like SUVs and vans, given that they currently and historically represent over 90% of
+rebate spending.6 The figures and data in this section are derived from data provided
+by the MOR-EV Program Administrator to DOER.
+2024 Program Overview: Light-Duty Vehicles
+MOR-EV Standard
+MOR-EV Standard rebates continue to be the most active component of the overall
+program in terms of volume and spending as shown in Figure 3.
+5 This is based off of the date that payment was sent for each of the rebate offerings.
+6 In calendar year 2024, 91% of issued rebate funds were for LDVs and 4% were for MOR-EV Trucks
+rebates.
+6
+
+Figure 3: Total Number of Rebates and Amount of Funding Issued by payment date in
+2024
+d 18,000 $70,000,000
+e d
+u s 15,000 $60,000,000 e u
+s I s e
+ta
+12,000
+$
+$
+4
+5
+0
+0
+,
+,
+0
+0
+0
+0
+0
+0
+,
+,
+0
+0
+0
+0
+0
+0 s s I tn
+u
+b e R 9,000 $30,000,000 o m
+fo
+r
+e
+6,000
+$20,000,000
+A
+e
+ta
+b 3,000 $10,000,000 b
+m e
+R
+u 0 $0
+N
+MOR-EV Standard MOR-EV Used MOR-EV Trade-In MOR-EV Trucks
+Total Number of Rebates Total Rebate Amount
+Participation Rates (MOR-EV Standard)
+S&P Global registration data recorded 20,992 Massachusetts registrations of MOR-EV-
+eligible vehicles in this time frame. In comparison, the MOR-EV rebate data shows
+15,709 approved MOR-EV Standard applications, resulting in an overall program
+participation rate of 75% for the reporting period. In 2023, the overall program
+participation rate was 66%.
+As shown in Table 2, Tesla Model Y had the highest number of rebates and highest
+participation rate (nearly 100%), compared to 83% in 2023. The Tesla Model 3 and
+Nissan LEAF models achieved the second highest participation rates at ~90% each,
+followed by Chevy Equinox (~89%), Subaru Solterra (~85%), and Hyundai Kona Electric
+(~84%).
+Table 2: Program Participation by Model (MOR-EV Standard Rebates)
+Eligible Vehicle Model Registered in MA Rebated by MOR-EV Participation Rate
+Tesla Model Y 7,824 7,806 99.8%
+Tesla Model 3 3,158 2,831 89.6%
+Hyundai IONIQ 5 1,586 933 58.8%
+Honda Prologue 1,305 245 18.8%
+Toyota bZ4X 852 546 64.1%
+Volkswagen ID.4 715 500 69.9%
+Ford Mustang Mach-E 688 402 58.4%
+Chevrolet Equinox 547 486 88.8%
+7
+
+Eligible Vehicle Model Registered in MA Rebated by MOR-EV Participation Rate
+Subaru Solterra 468 396 84.6%
+Kia Niro EV 431 269 62.4%
+Hyundai IONIQ 6 410 284 69.3%
+Kia EV6 405 211 52.1%
+BMW i4 392 18 4.6%
+Nissan Ariya 338 237 70.1%
+Chevrolet Blazer EV 304 226 74.3%
+Tesla Model X 281 0 0%
+Tesla Model S 180 0 0%
+Hyundai Kona Electric 161 135 83.9%
+Audi Q4 e-tron 155 0 0%
+Nissan LEAF 132 119 90.2%
+There are many reasons why an eligible vehicle may not have received a rebate
+including, but not limited to, lack of awareness, certain vehicle trims may have pushed
+the vehicle above the price cap, administrative burden, buyers who do not consider
+the incentive worth the time and effort to apply.
+Vehicle Price (MOR-EV Standard)
+The average total MSRP for eligible new vehicles was $49,170. As detailed in Figure
+4Error! Reference source not found., over half of MOR-EV Standard rebates (56%)
+were issued to vehicles with a total MSRP between $50,000 and $55,000. This is similar
+to the 57% Standard rebates issued during the 2023 reporting timeframe with a total
+MSRP between $50,000 and $55,000. During the 2024 reporting period, 58% of
+Standard rebates issued were for new vehicle purchases and 42% were for leases.
+8
+
+Figure 4: Vehicle Price Distribution (MOR-EV Standard Rebates)
+$50,001-$55,000 56%
+$45,001-$50,000 29%
+$40,001-$45,000 11%
+$35,001-$40,000 3%
+$30,001-$35,000 1%
+$25,001-$30,000
+$20,001-$25,000
+$15,000-$20,000
+0% 10% 20% 30% 40% 50% 60%
+Application Pathway (MOR-EV Standard)
+Dealership point-of-sale applications7 accounted for 88% of Standard rebates issued
+in 2024, compared to just over 80% in 2023. Approximately 12% of Standard rebates
+were issued directly to applicants through the post-purchase application pathway.
+Rebates redeemed through 305 participating dealers (as of August 2025) were
+predominantly from Tesla dealerships, which issued 72% of all Standard point-of-sale
+rebates.
+MOR-EV Used
+The Used rebate was available through post-purchase applications or at a participating
+dealership with presentation of an approved prequalification voucher. To be eligible
+for a Used rebate, applicants must participate in a state or federal income-based
+assistance program or meet certain income thresholds.
+Program Qualification (MOR-EV Used)
+Approximately 32% of Used rebate recipients in 2024 were eligible based on
+participation in another income-based assistance program and around 68% were
+eligible based on household income (HHI). In comparison, in 2023, 70% of MOR-EV
+Used applicants qualified for the rebate based on HHI.
+7 As of August 2025, there are 305 participating dealerships that offer MOR-EV rebates, representing
+22 automotive brands.
+9
+
+Vehicle Characteristics (MOR-EV Used)
+Unlike the new vehicle program, where rebate distribution is more concentrated
+among a few models, the Used program shows a broader distribution of rebates across
+various models (see Figure 5). This broader distribution may be attributed to the
+diversity of the used vehicle market and the availability of inventory.
+Figure 5: Vehicle Manufacturer Distribution (MOR-EV Used Rebates)
+37%
+21%
+16%
+8% 7%
+4% 4%
+1%
+0.4% 0.4% 0.3% 0.2% 0.2% 0.1%
+Used vehicle ages ranged from 2–11 years old (see Table 3), with an average age of 4
+years old, based on model year, at the time of application.
+Table 3: Vehicle Age Distribution (MOR-EV Used Rebates)
+Model Years 2023 2024
+2020-2023 65% 81%
+2017-2019 33% 16%
+2016 or older 1% 3%
+Vehicle Price (MOR-EV Used)
+The average used vehicle purchase price was $23,300; individual vehicle prices ranged
+between $3,900 and the maximum of $40,000, as shown in Figure 6. Most used
+vehicles (66%) were sold within the purchase price range of $15,000 to $25,000, which
+was the same in 2023.
+10
+
+Figure 6: Vehicle Price Distribution (MOR-EV Used Rebates)
+$35,001-$40,000 3%
+$30,001-$35,000 7%
+$25,001-$30,000 19%
+$20,001-$25,000 43%
+$15,001-$20,000 23%
+$10,001-$15,000 4%
+$3,500-$10,000 1%
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50%
+Application Pathway (MOR-EV Used)
+Dealership point-of-sale applications accounted for 46% of Used rebates issued and
+the remaining 54% were issued to approved applicants after the vehicle purchase or
+lease date.
+MOR-EV+
+The MOR-EV+ rebate adder is limited to income-qualifying Massachusetts residents
+and can be combined with a Standard, Used, or Trucks8 rebate. MOR-EV+ was available
+through post-purchase applications or at a participating dealership with the
+presentation of an approved prequalification voucher.
+Program Qualification (MOR-EV+)
+Of the 1,466 MOR-EV+ recipients, 38% qualified through MassHealth, 28% through the
+Massachusetts Health Connector, and 21% through the Supplemental Nutrition
+Assistance Program (SNAP); these relative proportions have not changed significantly
+since 2023. The remaining 12% of applicants qualified through various other programs,
+as detailed in Table 4.
+8 Only 12 MOR-EV+ adders were issued in combination with Trucks rebates in 2024 and have been
+excluded from this analysis.
+11
+
+Table 4: Applicant Income Qualification by Program (MOR-EV+)
+MassHealth 38%
+Massachusetts Health Connector 28%
+Supplemental Nutrition Assistance Program (SNAP) 21%
+Low-Income Home Energy Assistance Program (LIHEAP) 4%
+Mass Save® Income Eligible Programs 4%
+Massachusetts Health Safety Net 3%
+Supplemental Security Income (SSI) 1%
+Vehicle Characteristics (MOR-EV+)
+In the first five months of offering the MOR-EV+ rebate adder (August to December
+2023), the issuance of the adder was distributed relatively evenly between new and
+used vehicles with a slightly higher proportion of new vehicles. In 2024, the program
+trends skewed toward more used vehicles: specifically, 64% MOR-EV+ adders were
+issued in combination with a Used rebate, while 36% were issued in combination with
+a Standard rebate.
+MOR-EV Trade-In
+To qualify for the Trade-In adder, the associated ICEV9 needed to be at least 12 years
+old based on the model year at the time of trade-in, have a market value greater than
+$0 as demonstrated by its trade-in value, and be up to date on inspections, among
+other criteria.
+There were 387 Trade-In rebate adders issued during the reporting period. Of these,
+292 (75%) were provided in combination with a Standard rebate; 72 (19%) with a Used
+rebate; and 23 (6%) Trade-In adders were combined with the MOR-EV+ adder and a
+Standard or Used rebate (representing a total rebate for that applicant of $6,000).
+MOR-EV Trucks
+MOR-EV Trucks incentivizes purchases and leases of light-duty pickup trucks and other
+Class 2b vehicles like SUVs and vans. Rebates are available for both individual and fleet
+purchases and leases but can only be claimed through the post-purchase application
+pathway.
+9 An internal DOER analysis of rebated ICEVs between the launch of the Trade-in Adder in December
+2023 and May 2025 suggested that approximately 40% are still registered in Massachusetts.
+12
+
+As shown in Figure 7, vehicles for individual use comprised most of the rebates issued
+during the reporting period. The most popular models rebated through the program
+are shown in Figure 8.
+Figure 7: Vehicle & Applicant Type Distribution (MOR-EV Trucks)
+388
+s
+e
+lc
+ih
+e
+V
+fo
+r
+e
+b
+m
+u
+N
+69
+40 33
+7 4 1 4 1 4 3
+Individual Business Educational Institution Government/ Public
+Agency
+Pick-up Truck SUV Utility Van Utility Truck
+Figure 8: Vehicle Model Distribution (MOR-EV Trucks)
+Ford F-150 Lightning 341
+Rivian R1T 78
+Rivian R1S 78
+Ford E-Transit 48
+Chevrolet Silverado EV 3
+Chevrolet Silverado 2
+Chevrolet Silverado 3WT 2
+Mercedes e-Sprinter 1
+Chevrolet Silverado RST 1
+0 50 100 150 200 250 300 350 400
+Vehicle Price
+Figure 9 illustrates that during the reporting period, most of the rebated pickup trucks
+and Class 2b ZEVs fell into the $70,000-$80,000 total MSRP range. However, this
+13
+
+distribution was expected given that the pricing for pickup trucks in 2024 was still
+relatively high10 compared to ICEV counterparts.
+Figure 9: Vehicle Price Distribution (MOR-EV Trucks)
+1%
+16%
+12%
+72%
+Under $50,000 $50,000 to $59,999 $60,000 to $69,999 $70,000 to $80,000
+Dealership Engagement
+CSE partnered with the Massachusetts-based organization Energy New England (ENE)
+again this reporting period to support dealer engagement and continued education.
+ENE utilized its expansive auto dealer network and local outreach channels to enroll
+Massachusetts dealers in the point-of-sale program and provide on-demand dealer
+support during the reporting period. Throughout the program year, MOR-EV hosted
+33 large dealership webinars covering program details, applicant eligibility, and
+vehicle requirements, and assisted over 250 dealer staff with the dealership application
+process.
+In addition to online support, ENE advanced the MOR-EV program through in-person
+outreach. ENE representatives visited dealerships upon request to discuss the benefits
+of the MOR-EV program and ensure program education by providing dealer training,
+answering dealer inquiries, and delivering marketing materials for display. To support
+broader program education and outreach, ENE staffed tables at several events11 to
+share information about the MOR-EV rebate programs with the public.
+10 For example, the Model Year 2024 starting MSRPs for the all-electric Ford F-150 Lighting and Rivian
+R1T were $55,000 and $71,700 respectively, compared to the starting MSRP of $36,570 for a Ford F-150.
+11 In-person events (and approximate number of attendees): Mass. Independent Auto Dealer Association
+MIADA event (150), Westborough Sustainability Event (70), Salem Kicks Gas (240), Recharge America
+14
+
+Culturally Competent Outreach
+In 2024, MOR-EV continued to support a linguistically diverse and culturally competent
+outreach campaign. The culturally competent outreach campaign is designed to
+ensure that all communities across Massachusetts have equitable access to information
+about EVs and rebates. Recognizing that trust and familiarity are essential to effective
+outreach, the program relies on close collaboration with local community-based
+organizations (CBOs) to reach residents where they live, work, and gather.
+The Green Energy Consumers Alliance (GECA) continued its role as the core MOR-EV
+partner for 2024, serving as the CBO aggregator and leading on-the-ground efforts of
+the culturally competent outreach campaign.
+Over the course of the reporting year, GECA and the CSE Equity Team led the efforts
+to connect MOR-EV with more than 45 organizations, expanding the MOR-EV outreach
+network to communities across Boston, Lowell, Worcester, Springfield, Pittsfield, and
+New Bedford. While many organizations expressed enthusiasm for supporting the
+program, real-world challenges such as scheduling constraints and limited staff
+capacity often made formal participation difficult. Even so, several CBOs became active
+partners; Table 5 lists the 2024 CBO partners.
+The community partners helped share information through community events, town
+halls, and online sessions. At these events, GECA and the CBOs presented EV basics
+(EV 101) and MOR-EV program details while local EV ambassadors brought the
+material to life by sharing their own experiences driving electric vehicles. These
+personal stories helped dispel the perception that EVs are out of reach and created
+space for attendees to ask candid questions.
+Table 5: 2024 MOR-EV Community Partners
+Community-Based Organization Name Location
+Allston Brighton Health Collaborative (ABHC) Boston
+Alternatives for Community & Environment (ACE) Boston
+Berkshire Regional Planning Commission (BRPC) Pittsfield
+Coalition for a Better Acre (CBA) Lowell
+Berkshires (100), Sustainable Plymouth Car Show & EV Workshop (100), Longwood Boston (100), Get
+Charged Up Regional EV Expo (100), Holyoke Gas & Electric Event (150), Westfield Big Rig and Pumpkin
+Fest (300), Recharging Careers and a Clean Energy Future for Western Mass (100), Hingham EV Ride &
+Drive (50), Mass. State Auto Dealers Association (MSADA) 2024 Annual Meeting (200), Ride Clean Mass
+kickoff (50), and Mass Fleet Advisor Vehicle Showcase (40).
+15
+
+Community-Based Organization Name Location
+Codman Square Neighborhood Development Corporation (CSNDC) Boston
+Quincy Asian Resources, Inc. (QARI) Quincy
+Westside Legends Pittsfield
+GECA also expanded the campaign’s reach through statewide engagement. During
+the reporting period, nine EV 101 webinars were hosted online, offering interactive
+Q&A sessions that made information more accessible and approachable to a wide
+audience. Local CBO partners such as QARI provided MOR-EV outreach information
+for attendees at their annual Lunar New Year’s Festival and the August Moon Festival
+and provided EV 101 presentations in-language to their Vietnamese and Chinese
+community members. Additionally, Westside Legends in Pittsfield provided
+community outreach through interactive events such as their Annual Soap Box
+Derby. In total, GECA and the other CBOs attended 23 community events where
+program staff distributed flyers, answered questions, and held more than 460 one-on-
+one conversations with residents about MOR-EV and electric vehicles. These direct
+interactions provided valuable insight into the concerns and motivations of community
+members and informed future outreach approaches.
+GECA and CSE tailored outreach materials and social media posts to reflect the needs
+of each community. GECA and the CBOs amplified these efforts through their digital
+platforms, newsletters, and blog posts, ensuring that information about MOR-EV
+rebates reached both local networks and statewide audiences.
+The conversations, engagement, and partnerships fostered through this outreach
+campaign have laid a strong foundation for a more inclusive approach to EV adoption.
+By meeting communities where they are and centering their voices, MOR-EV continues
+to grow into a program that not only expands rebate access but also strengthens trust
+and long-term engagement across Massachusetts.
+Finally, DOER hosted a series of community-based listening sessions, in partnership
+with CSE and GECA. These sessions created space for CBOs working to share feedback
+on barriers to EV adoption, charging infrastructure gaps, and fleet electrification needs:
+• In February 2024, DOER held two feedback sessions to specifically explore fleet
+electrification needs.12
+12 Representatives from the following organizations participated in the February 2024 fleet electrification
+outreach sessions: Making Opportunity Count (MOC), Green Energy Consumers Alliance, Quincy Asian
+Resources, Worcester Roots, and Westside Legends.
+16
+
+• Another session in November 2024 focused on general program feedback and
+equity concerns.13
+These conversations highlighted the importance of adequate infrastructure that
+supports not just individual drivers but also ride-share and community fleets, and
+accessible rebate information, particularly for multilingual communities. Feedback
+from these types of sessions informs ongoing improvements to the MOR-EV program
+and broader equity strategies.
+Section III. Demographic Analysis
+DOER does not collect race, ethnicity, and income level data for all MOR-EV rebate
+recipients. The following section provides a summary of limited voluntary and
+anonymous post-rebate survey data that includes demographic information about
+some program participants.
+Through the MOR-EV program administrator, rebate recipients are invited to voluntarily
+participate in an anonymous online survey upon approval of their application and again
+when they receive notification that their rebate check has been sent. For rebates issued
+at the point of sale or lease, the participating dealership must enter a customer email
+address, which is later used to send the survey to the rebate recipient. The surveys take
+approximately 10-15 minutes to complete. Respondents have the option to save their
+progress and resume the survey later if desired.
+Survey Participation Rate
+Table 6and Table 7 below illustrate the relative proportion of rebate recipients who
+have responded to the surveys over time. It appears likely that the growing segment of
+point-of-sale rebates since 2023 has impacted the LDV rebate survey response rate.
+Since many recipients do not have direct engagement with MOR-EV, they may be less
+likely to complete the survey. In 2024, the survey was conducted with MOR-EV Trucks
+rebate recipients for the first time; the Trucks survey participation rate was much higher,
+further suggesting that post-purchase applicants are more likely to engage with the
+program than point-of-sale applicants.
+13 Representatives from the following organizations participated in the November 2024 feedback
+session: Green Energy Consumers Alliance, All In Energy, and Solsis Energy.
+17
+
+Table 6: MOR-EV Light-Duty Vehicle Survey Participation Rates, 2014-2024
+Percentage of rebate
+Survey Total number of Total number of
+recipients that responded
+Year survey respondents rebate recipients14
+to survey
+2014 342 528 65%
+2015 603 985 61%
+2016 846 1,643 51%
+2017 1,515 3,037 50%
+2018 2,654 5,944 45%
+2019 1,645 3,277 50%
+2020 1,071 2,534 42%
+2021 1,946 5,374 36%
+2022 1,125 3,742 30%
+2023 1,691 10,480 16%
+2024 4,463 18,291 24%
+Table 7: MOR-EV Trucks Survey Participation Rate, 202415
+Percentage of rebate
+Survey Total number of Total number of
+recipients that responded
+Year survey respondents rebate recipients
+to survey
+2024 284 423 67%
+Survey Data: Household Income Analysis
+The State Median Household Income (State Median HHI) in Massachusetts is $94,48816.
+Figure 10 illustrates the self-reported income distribution of 2024 survey respondents
+compared to the previous survey years.
+There was some deviation between the reported HHI in 2021–2023 versus 2024 among
+LDV survey respondents. Between 2021 and 2023, 61% of survey respondents
+reported HHI above the State Median HHI; in 2024, it was 75% of respondents.
+14 Includes MOR-EV rebates issued for zero emission motorcycles, PHEVs, extended range PHEVs, BEVs,
+and FCEVs.
+15 Individual recipients only; fleets are not included in the analysis.
+16 U.S. Census. 2024. Massachusetts – Income and Poverty. Massachusetts - Census Bureau Profile.
+18
+
+The 2024 MOR-EV Trucks survey results indicated that the pickup truck rebate recipient
+group is potentially comprised of higher income earners than the LDV group, with an
+average annual HHI of $281,600, versus an average HHI of $194,500 for light-duty
+rebate recipients in 2024.
+Figure 10: Annual Household Income of Survey Respondents
+Approximately 26% of 2024 survey respondents could be considered low- or
+moderate-income17 based on reported annual HHI. This result is nearly identical to
+other recent survey years as shown in Table 8: Percentage of Light-Duty Vehicle Survey
+Respondents Considered Low- to Moderate-IncomeTable 8.
+Table 8: Percentage of Light-Duty Vehicle Survey Respondents Considered Low- to
+Moderate-Income
+Percent of Total LDV Survey Respondents 2021-2023 2024
+Low-income (≤$56,700) 8% 9%
+Moderate-income (≥$56,701 and ≤$113,500) 18% 17%
+17 EEA OEJE focuses on advancing environmental justice and equity for low-and moderate-income
+populations and has defined low-income as less than or equal to 60% of State Median HHI and moderate
+income as 61%-120% of State Median HHI.
+19
+
+Survey Respondent Income Compared to National Average Income of EV Buyers
+The 2023 Car Buyer Journey Study by Cox Automotive provides insight into how
+income corresponds to ICEV and EV purchases at the national level.
+Figure 11 illustrates the
+Figure 11: National Household Income of Car Buyers
+average National Household
+Income (NHHI) of vehicle
+Used
+•Average NHHI: buyers based on the vehicle
+ICEV
+$96,000
+Buyer type per the 2023 Cox
+Automotive study results.
+New According to 2024 MOR-EV
+•Average NHHI:
+ICEV
+$115,000 survey data, 46% of
+Buyer
+respondents reported
+having a HHI of $140,000 or
+greater, which is the average
+EV •Average NHHI:
+Buyer $140,000 NHHI for an EV buyer.
+Survey Respondent Income Compared to Federal EV Tax Credit Thresholds
+The income-based thresholds to qualify for the federal New Clean Vehicle Tax Credit18
+in 2024 were as follows:
+• $300,000 for married couples filing jointly or a surviving spouse.
+• $225,000 for heads of households.
+• $150,000 for all other filers.
+When requesting HHI values, the MOR-EV survey does not capture whether
+respondents have filed taxes or applied for federal tax credits, whether taxes were filed
+jointly or as head of household, etc. However, using 2024 survey data, 33% of
+respondents reported an annual HHI of $150,000 or less and 64% of respondents
+reported an HHI of $300,000 or less.
+Survey Data: Racial Identity Analysis
+The options available for individuals to identify their race in the MOR-EV surveys
+expand beyond the races and ethnicities defined by the U.S. Census Bureau;
+18 https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after.
+20
+
+specifically, the survey separates Asian identities and includes a category specifically
+for Middle Eastern and North African identities, which the 2020 U.S. Census data does
+not. Additionally, the Census reports that people identifying as Asian make up 7% of
+Massachusetts’ total ethnic composition; therefore, 7% is used as the 2020
+Massachusetts Census value across all three Asian sub-ethnicities from the survey due
+to a lack of detailed state-level data.
+The survey results illustrated in Figure 12 suggest that Black or African American and
+Hispanic or Latino residents are still underrepresented among the responses
+compared to the overall racial composition of the state. Groups where the survey
+indicates potentially greater program participation versus the respective statewide
+representation include pickup truck rebate recipients identifying as White or Caucasian
+and LDV rebate recipients who identify as East Asian.
+Figure 12: Racial Identity of Survey Respondents versus 2020 Massachusetts Census
+Data
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+White or Black or Native East Asian South Asian Southeast Native Middle Hispanic or Other Prefer not to
+Caucasian African American or Asian Hawaiian or Eastern or Latino answer
+American Alaskan other Pacific North
+Native Islander African
+2021-2023 2024 LDV 2024 Trucks MA 2020 Census
+21
+
+Section IV. Recommendations to Reduce
+Disparities in Program Participation
+2023 Follow-up
+Following the 2023 MOR-EV Report release, DOER implemented the following
+recommendations contained therein:
+• DOER identified improvements to the voluntary survey data process, including
+adding new survey questions and revising existing questions.
+• DOER is engaging with the state’s investor-owned utilities to identify
+opportunities for cross-promotion of income-based Mass Save® programs and
+the MOR-EV+ and Used offerings. In addition, DOER and MassCEC actively
+cross-promote key transportation programs and pilots that overlap with MOR-
+EV objectives, including but not limited to the new Ride Clean Mass program for
+ride share and taxi drivers and the Mass Fleet Advisor program that provides
+businesses and non-profits with free technical consultations for developing fleet
+electrification plans.
+• As of the 2024 report release, DOER is exploring potential near-term strategies
+to cost-effectively manage the availability of program funding while also
+meeting the Commonwealth’s clean transportation and equity goals that could
+be facilitated through an amendment to the current MOR-EV program
+regulation, 225 CMR 26.00.
+2024 Recommendations
+Statute establishes much of the MOR-EV program and may require legislative action
+for sweeping structural changes and/or additional funding. The Massachusetts state
+legislature authorized funding into fiscal year 2027, however it is unclear how long this
+funding will be available to maintain program operations, which will be dependent on
+rebate volume, program changes, other incentives, etc.
+There are still questions about projected program impacts, particularly the implications
+of the retirement of the federal EV tax credit in September 2025 and the extent to which
+MOR-EV rebates influence or will continue to influence ZEV adoption. In the interim,
+DOER will consider implementation of recommendations that aim to strategically
+target rebate spending in certain market segments and reduce program free ridership.
+These potential actions include:
+22
+
+• Introduce program changes through regulations to help extend the program’s
+financial solvency to further support the Commonwealth’s equitable clean
+transportation goals. This may include reducing the vehicle price cap for certain
+rebates, simplifying the program to reduce confusion and burden on applicants,
+diverting more funding to fleets versus individuals in the medium- and heavy-
+duty categories, and broadening eligibility for MOR-EV+ to include moderate-
+income as well as low-income residents.
+• Improve access to information for MOR-EV applicants and potential applicants,
+such as incorporating more educational resources on the MOR-EV landing page
+(e.g., benefits of EVs, types of charging and best practices) and having the
+program administrator conduct more proactive outreach to applicants about
+home EV charging incentives based on their utility provider.
+• Incorporate community feedback provided to DOER and/or the MOR-EV
+program administrator with regards to barriers to entry for EV adoption when
+such recommendations can be addressed within the scope of the MOR-EV
+program and DOER’s authority.
+• Continue to work and collaborate with community partners to provide
+information, tools, and resources for the public, including Limited English
+Proficiency Speakers (LEPs).
+23
+
+Appendix: MOR-EV Data
+Report Data
+Historic and calendar year 2024 data for the following categories are available in
+accordance with the requirements of the 2022 Climate Act.
+https://www.mass.gov/doc/calendar-year-2024-legislative-mor-ev-report-
+appendix/download
+1. Total number and value of light-duty BEV rebates issued
+2. Light-duty BEV rebates issued by zip code
+3. Light-duty BEV rebates issued by municipality
+4. Rebates issued by vehicle type and weight
+5. Light-duty BEV rebates issued by vehicle make
+6. Light-duty BEV rebates issued by vehicle model
+7. Light-duty BEV rebates issued by applicant type
+8. Light-duty BEV rebates issued by program
+Raw Data
+Annual MOR-EV data is posted online by DOER and is available to download:
+https://www.mass.gov/info-details/mor-ev-rebate-program#additional-information
+Data Dashboards
+The MOR-EV website has two online dashboards that can be filtered and provide data
+visualizations. The data populating these dashboards can also be downloaded.
+• Light-duty rebates: https://mor-ev.org/statistics
+• Trucks and Class 3-8 rebates: https://mor-ev.org/statistics-trucks
+24

@@ -1,0 +1,1372 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE DOCKET, NO. 5767 FILED ON: 3/17/2026
+HOUSE . . . . . . . . . . . . . . . No. 5436
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Michael S. Day
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act establishing MassQuantum.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Michael S. Day 31st Middlesex 3/17/2026
+1 of 1
+
+HOUSE DOCKET, NO. 5767 FILED ON: 3/17/2026
+HOUSE . . . . . . . . . . . . . . . No. 5436
+By Representative Day of Stoneham, a petition (subject to Joint Rules 12 and 9) of Michael S.
+Day for legislation to establish quantum investment and tax incentive programs for certain
+quantum science research, development, manufacturing or commercialization. Revenue.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act establishing MassQuantum.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws are hereby amended by inserting after chapter 23N the
+2 following chapter:-
+3 CHAPTER 23O
+4 Massachusetts Quantum Center
+5 Section 1 . As used in this chapter, the following words shall, unless the context clearly
+6 requires otherwise, have the following meanings:—
+7 ''Affiliate'', any business which directly or indirectly controls or is controlled by or is
+8 under direct or indirect common control of another business including, but not limited to, any
+9 business with which a business is merged or consolidated, or which purchases all or substantially
+10 all of the assets of a business.
+11 ''Board'', the board of directors of the Massachusetts Quantum Center.
+1 of 56
+
+12 ''Center'', the Massachusetts Quantum Center established by section 2.
+13 ''Certification proposal'', a written proposal submitted by a quantum computing company
+14 for approval as a certified quantum company pursuant to section 4.
+15 ''Certified quantum company'', a company that has been certified by the center for
+16 participation in the commonwealth quantum investment program and the quantum tax incentive
+17 program, established by section 4.
+18 ''Company'', a business corporation, partnership, firm, unincorporated association or other
+19 entity engaged or proposing to engage in economic activity within the commonwealth, and any
+20 affiliate thereof, which is, or the members of which are, subject to taxation under chapter 62, 63,
+21 64H or 64I.
+22 ''Department'', the department of revenue established pursuant to section 1 of chapter 14.
+23 ''Eligible new job'', a new job that shall not replace an existing job in the commonwealth
+24 and which may be a retained job; provided, however, that ''eligible new job'' may be further
+25 defined by rules, regulations or guidelines promulgated by the center pursuant to section 4;
+26 provided further, that an ''eligible new job'' shall be deemed to have been created in the
+27 commonwealth on the first day for which Massachusetts personal income tax withholding is
+28 required in connection with the compensation paid to an employee of a quantum company or the
+29 first day for which Massachusetts estimated tax payments are payable by a partner of a
+30 partnership constituting a quantum sciences company.
+2 of 56
+
+31 ''Enterprise'', a small business, as defined in chapters 23A or 40F, which has its principal
+32 place of business in the commonwealth and is, or proposes to be, engaged in research and
+33 development or manufacturing in the quantum industry.
+34 ''Equity investment'', (a) a share in a quantum company certified pursuant to section 4,
+35 whether or not transferable or denominated stock, or similar security; (b) interest of a limited
+36 partner in a limited partnership; or (c) warrant or right, other than a right to convert, to purchase,
+37 sell or subscribe to a share, security or interest of a kind specified in clauses (a) or (b); provided,
+38 however, that when making an equity investment in an enterprise pursuant to section 4, the
+39 center shall receive not less than 3 per cent of the equity in said enterprise.
+40 ''Independent research institution'', a nonprofit research organization that holds tax-
+41 exempt status granted under section 501(c)(3) of the Internal Revenue Code and shall be
+42 organized and operated exclusively for scientific or educational purposes.
+43 ''New state revenue'', revenue derived from a quantum company by the creation of any
+44 eligible new jobs or by new commercial activity that would otherwise not have taken place in the
+45 commonwealth or as may be defined by any rules or regulations promulgated by the center
+46 pursuant to section 4.
+47 ''Permanent full-time employee'', an individual who: (i) is in an employment relationship
+48 which, at its inception, does not have a termination date which is a date certain or which is
+49 determined with reference to the completion of some specified scope of work; (ii) works a
+50 minimum number of weekly hours as the center may specify by rule, regulation or guideline; and
+51 (iii) receives employee benefits at least equal to those provided to other full-time employees of
+52 the employer, which shall be a quantum sciences company.
+3 of 56
+
+53 ''Person'', a natural person, corporation, association, partnership or other legal entity.
+54 ''Program'', the commonwealth quantum sciences investment program established by
+55 section 4.
+56 ''Professional investor'', a bank, bank holding company, savings institution, trust
+57 company, insurance company, investment company registered under the federal Investment
+58 Company Act of 1940, pension or profit-sharing trust or other financial institution or institutional
+59 buyer, licensee under the federal Small Business Investment Act of 1958 or any person,
+60 partnership or other entity of whose resources a substantial amount shall be dedicated to
+61 investing in securities or debt instruments and whose net worth exceeds $250,000.
+62 ''Qualified security'', a note, stock, treasury stock bond, debenture, evidence of
+63 indebtedness, certificate of interest or participation in a profit-sharing agreement, preorganization
+64 certificate or subscription, transferable share, investment contract, certificate of deposit for a
+65 security, certificate of interest or participation in a patent or application therefor, or in royalty or
+66 other payments under such a patent or application; in general, any interest or instrument security,
+67 so-called, or any certificate for, receipt for, guarantee of, or option, warrant or right to subscribe
+68 to or purchase any of the foregoing; and debt of and partnership interest in, as a general or
+69 limited partner, any general or limited liability partnership organized under the laws of the
+70 commonwealth, and debt of and membership interest in any limited liability company organized
+71 under the laws of the commonwealth.
+72 ''Quantum science'', means the use of the laws of quantum physics for the storage,
+73 transmission, manipulation, computing, or measurement of information.
+4 of 56
+
+74 ''Quantum company'', a business corporation, partnership, firm, unincorporated
+75 association or other entity engaged in quantum science research, development, manufacturing or
+76 commercialization in the commonwealth, and any affiliate thereof, which is, or the members of
+77 which are, subject to taxation under chapter 62, 63, 64H or 64I.
+78 ''Real estate project'', real property where, after a quantum sciences company is certified,
+79 construction or renovation shall be initiated which, when completed, shall result in an increase in
+80 the assessed value of the real property of at least 100 per cent over its assessed value as of the
+81 date of certification; provided, however, that if a real estate facility is a business incubator
+82 facility and is designated as a certified quantum sciences company pursuant to section 4, each
+83 business which executes a binding lease for space in that facility after the date on which the
+84 construction or renovation activity begins shall be eligible for separate designation as a certified
+85 quantum sciences company.
+86 ''Revenue'', receipts, fees, rentals or other payments or income received or to be received
+87 on account of obligations to the center including, but not limited to, income on account of the
+88 leasing, mortgaging, sale or other disposition of a project or proceeds of a loan made by the
+89 center in connection with any project, and amounts in reserves or held in other funds or accounts
+90 established in connection with the issuance of bonds and the proceeds of any investments
+91 thereof, proceeds of foreclosure and any other fees, charges or other income received or
+92 receivable by the center.
+93 ''Seed capital'', financing that is provided for the development, refinement and
+94 commercialization of a product or process and other working capital needs.
+5 of 56
+
+95 ''Taxpayer'', a certified quantum sciences company or person subject to the taxes imposed
+96 by chapter 62, 63, 64H or 64I.
+97 Section 2. (a) There is hereby created a body politic and corporate to be known as the
+98 Massachusetts Quantum Center. The center is hereby constituted a public instrumentality and the
+99 exercise by the center of the powers conferred by this chapter shall be considered to be the
+100 performance of an essential governmental function.
+101 The center is hereby placed in the executive office of economic development but shall
+102 not be subject to the supervision, or control of said office, or of any board, bureau, department,
+103 or other center of the commonwealth, except as specifically provided in this chapter.
+104 (b) The center shall be governed and its corporate powers exercised by a board of
+105 commissioners consisting of 5 commissioners : One of whom shall be the Secretary of the
+106 Executive Office of Technology Services and Security or their designee, one of whom shall be
+107 the Secretary of Economic Development who shall serve as Chair of the Commission, one of
+108 whom shall be an industry leader appointed by the Speaker of the House from a list of three
+109 provided by the New England Venture Capital Association, each of whom shall have direct
+110 experience serving as an officer of a quantum computing focused start up corporation based in
+111 the Commonwealth of Massachusetts, one of whom shall be an industry leader appointed by the
+112 Senate President from a list of three provided by the Associated Industries of Massachusetts,
+113 each of whom shall have direct experience serving as an officer of a Fortune 500 corporation
+114 which has invested significantly in quantum computing, and one of whom shall be an academic
+115 leader in the field of Quantum computing chosen by the Governor from a list of three provided
+116 by the President of the University of Massachusetts in collaboration with the Executive Director
+6 of 56
+
+117 of the Association of Independent Colleges and Universities of Massachusetts. Each appointed
+118 member shall serve a term of 5 years. Any person appointed to fill a vacancy in the office of an
+119 appointed commissioner of the board shall be appointed in a like manner and shall serve for only
+120 the unexpired term of such commissioner. Any commissioner shall be eligible for reappointment.
+121 Appointing authorities may remove their appointees for any reason or no reason at all.
+122 (c) Three commissioners shall constitute a quorum and the affirmative vote of a
+123 majority of commissioners present at a duly called meeting if a quorum is present shall be
+124 necessary for any action to be taken by the board. Any action required or permitted to be taken at
+125 a meeting of the commissioners may be taken without a meeting if all of the commissioners'
+126 consent in writing to such action and such written consent is filed with the records of the minutes
+127 of the meetings of the board. Such consent shall be treated for all purposes as a vote at a meeting.
+128 Each commissioner shall make full disclosure, under subsection (d), of their financial interest, if
+129 any, in matters before the board by notifying the state ethics commission, in writing, and shall
+130 abstain from voting on any matter before the board in which they have a financial interest, unless
+131 otherwise permissible under chapter 268A.
+132 The members of the commission shall receive an annual renumeration in an amount
+133 equal to one quarter of the salary of the Secretary of Administration and Finance. Each member
+134 shall be entitled to reimbursement for their actual and necessary expenses incurred in the
+135 performance of his official duties.
+136 (d) The provisions of chapter 268A shall apply to all ex-officio commissioners or their
+137 designees and employees of the center. The provisions of chapter 268A shall apply to all other
+138 commissioners of the center, except that the center may purchase from, sell to, borrow from, loan
+7 of 56
+
+139 to, contract with or otherwise deal with any person in which any commissioner of the center is in
+140 any way interested or involved; provided, however, that such interest or involvement is disclosed
+141 in advance to the members of the board and recorded in the minutes of the board; and provided,
+142 further, that no commissioner having such an interest or involvement may participate in any
+143 decision of the board relating to such person. Employment by the commonwealth or service in
+144 any agency thereof shall not be deemed to be such an interest or involvement.
+145 (e) The Board shall have the power to appoint and employ an Executive Director, and to
+146 fix compensation and conditions of employment. The Executive Director shall be the chief
+147 executive, administrative and operational officer of the center and shall direct and supervise
+148 administrative affairs and the general management of the center. The Executive Director shall
+149 appoint and employ a chief financial and accounting officer and may, subject to the general
+150 supervision of the board, employ other employees, consultants, agents, including legal counsel,
+151 and advisors, and shall attend meetings of the board. The chief financial and accounting officer
+152 of the center shall be in charge of its funds, books of account and accounting records. No funds
+153 shall be transferred by the center without the approval of the board and the signatures of the chief
+154 financial and accounting officer and the treasurer, as appointed by the board pursuant to
+155 subsection (g).
+156 (f) Neither the center nor any of its officers, agents, employees, consultants or advisors
+157 shall be subject to the provisions of sections 9A, 45, 46 and 52 of chapter 30, or to chapter 31, or
+158 to chapter 200 of the acts of 1976.
+159 (g) The board shall bi-annually elect 1 of its members as treasurer and 1 of its members
+160 as secretary. The secretary shall keep a record of the proceedings of the board and shall be
+8 of 56
+
+161 custodian of all books, documents, and papers filed by the board and of its minute book and seal.
+162 The secretary shall cause copies to be made of all minutes and other records and documents of
+163 the center and shall certify that such copies are true copies, and all persons dealing with the
+164 center may rely upon such certification.
+165 (h) All officers and employees of the center having access to its cash or negotiable
+166 securities shall give bond to the center at its expense in such amounts and with such surety as the
+167 board may prescribe. The persons required to give bond may be included in one or more blanket
+168 or scheduled bonds.
+169 (i) Neither members of the center nor any person executing bonds or policies of
+170 insurance shall be liable personally thereon or be subject to any personal liability or
+171 accountability by reason of the issuance thereof. The board of commissioners may purchase
+172 liability insurance for board members, officers and employees and may indemnify said persons
+173 against claims of others.
+174 (j) The center shall continue as long as it shall have bonds or insurance policies or
+175 guarantee commitments outstanding and until its existence is terminated by law. Upon the
+176 termination of the existence of the center, all right, title and interest in and to all of its assets and
+177 all of its obligations, duties, covenants, agreements and obligations shall vest in and be
+178 possessed, performed and assumed by the commonwealth.
+179 (k) Any action of the center may take effect immediately and need not be published or
+180 posted unless otherwise provided by law. The center shall be subject to all other provisions of
+181 said chapter 30A, and records pertaining to the administration of the authority shall be subject to
+182 section 42 of chapter 30 and section 10 of chapter 66 . All moneys of the center shall be
+9 of 56
+
+183 considered to be public funds for purposes of chapter 12A . The operations of the center shall be
+184 subject to chapter 268A and chapter 268B and all other operational or administrative standards
+185 or requirements to the same extent as the office of the state treasurer.
+186 (l) Any documentary materials or data whatsoever made or received by any member or
+187 employee of the center and consisting of, or to the extent that such materials or data consist of,
+188 trade secrets or commercial or financial information regarding the operation of any business
+189 conducted by an applicant for any form of assistance which the center is empowered to render or
+190 regarding the competitive position of such applicant in a particular field of endeavor, shall not be
+191 deemed public records of the center and specifically shall not be subject to the provisions of
+192 section 10 of chapter 66 . Any discussion or consideration of such trade secrets or commercial or
+193 financial information may be held by the board in executive sessions closed to the public, but the
+194 purpose of any such executive session shall be set forth in the official minutes of the center and
+195 no business which is not directly related to such purpose shall be transacted nor shall any vote be
+196 taken during such executive session.
+197 Section 3. The center shall have all powers necessary or convenient to carry out and
+198 effectuate its purposes, including, without limiting the generality of the foregoing, the powers:
+199 (1) to adopt and amend bylaws, regulations and procedures for the governance of its
+200 affairs and the conduct of its business without regard to chapter 30A ;
+201 (2) to establish standards requiring that any grant, loan or other appropriation of funds
+202 pursuant to this chapter be subject to an intellectual property agreement between the center and
+203 the recipient person; provided said intellectual property agreements balance the opportunity for
+204 the commonwealth to benefit from the patents, royalties, and licenses with the need to ensure
+10 of 56
+
+205 that essential quantum science research is not unreasonably hindered by the intellectual property
+206 agreements;
+207 (3) to adopt an official seal for the functional name MassQuantum;
+208 (4) to maintain offices at places within the commonwealth as it may determine and to
+209 conduct meetings of the center in accordance with the by-laws of the authority and the second
+210 paragraph of section 59 of chapter 156B;
+211 (5) to sue and be sued, to prosecute and defend actions relating to its properties and
+212 affairs, and to be liable in tort in the same manner as a private person; provided however, that the
+213 center is not authorized to become a debtor under the United States Bankruptcy Code;
+214 (6) to appoint officers and employees and to engage consultants, agents and advisors;
+215 (7) to enter into contracts and agreements and execute all instruments necessary or
+216 convenient thereto for accomplishing the purposes of this chapter; such contracts and agreements
+217 may include, without limiting the foregoing, construction agreements, purchase or acquisition
+218 agreements, loan or lease agreements, partnership agreements including limited partnership
+219 agreements, joint ventures, participation agreements, service agreements with quantum entities,
+220 nanotechnology entities, photo generative entities, educational or other financial institutions or
+221 intermediaries, and agreements with one or more persons for the servicing of loans made by the
+222 center including the receipt by such servicer of payments made by a user under a financing
+223 document; provided, however, that the center shall contract with another public authority for the
+224 performance by that authority of core administrative functions, as determined by the secretary of
+225 economic development which may include, but shall not be limited to, human resources,
+226 financial management, information technology, legal, procurement and asset management, to
+11 of 56
+
+227 minimize the administrative costs and expenses of the center. Any such payments shall constitute
+228 trust funds to be held and applied solely as provided in such agreement for the servicing of loans,
+229 shall constitute pledged funds of the center and shall be entitled to the same protection when
+230 received by a person for the servicing of loans, without the need for filing and recording of the
+231 servicing agreement under the provisions of chapter 106 or otherwise except in the records of
+232 the center, as is afforded to funds received by an issuer and pledged to a trustee under section 14
+233 of chapter 40D.
+234 (8) to acquire real and personal property, or any interest in real or personal property, by
+235 gift, purchase, transfer, foreclosure, lease or otherwise including rights or easements; to hold,
+236 sell, assign, lease, encumber, mortgage or otherwise dispose of any real or personal property, or
+237 any interest therein, or mortgage any interest owned by it or under its control, custody or in its
+238 possession; to release or relinquish any right, title, claim, lien, interest, easement or demand
+239 however acquired, including any equity or right of redemption in property foreclosed by it; to
+240 take assignments of leases and rentals, proceed with foreclosure actions, or take any other actions
+241 necessary or incidental to the performance of its corporate purposes;
+242 (9) to invest any funds held in reserves or sinking funds, or the Massachusetts Quantum
+243 Investment Fund, or any funds not required for immediate disbursement, in such investments as
+244 may be provided in any financing document relating to the use of such funds, or, if not so
+245 provided, as the board may determine;
+246 (10) to review and recommend changes in laws, rules, programs, and policies of the state
+247 and its agencies and subdivisions to further the enhancement of quantum industry financing,
+248 infrastructure and development within the commonwealth;
+12 of 56
+
+249 (11) to appear in its own behalf before boards, commissions, departments or other
+250 agencies of municipal, state or federal government;
+251 (12) to obtain insurance;
+252 (13) to apply for and accept subventions, grants, loans, advances and contributions from
+253 any source of money, property, labor or other things of value, to be held, used and applied for its
+254 corporate purposes, provided however, that the center shall not accept funding from any source,
+255 including any federal agency, if the receipt of said funding would limit the center's ability to
+256 promote all forms of quantum research or growth of that industry in the Commonwealth;
+257 (14) to borrow money in order to implement the purposes of this chapter and, without
+258 limiting the generality of the foregoing, to augment the means of securing financing authorized
+259 by law for or otherwise available to public bodies and other users;
+260 (15) to lend money to and to acquire or hold obligations issued by public bodies or other
+261 users at such prices and in such manner as the center shall deem advisable and sell such bonds
+262 acquired or held by it at prices without relation to cost and in such manner as the center shall
+263 deem advisable and to secure its own issues of bonds with such obligations held by it;
+264 (16) to act as the central entity and coordinating organization of quantum initiatives on
+265 behalf of the commonwealth and to work in collaboration with governmental entities, bodies,
+266 centers, institutes and facilities and promote all areas of quantum research and innovation to
+267 advance the commonwealth's interests and investments in quantum industries;
+268 (17) to promulgate a code of ethics to address collaborative state and business research
+269 activities; provided, further, that said code of ethics shall include recommendations, and
+13 of 56
+
+270 proposed legislation if necessary, addressing the issue of exclusive licensing agreements for
+271 intellectual property developed using state funds between state-funded colleges and universities
+272 and private companies and institutions. Said code shall be forwarded to the clerks of the house
+273 and senate who shall forward the same to the joint committee on economic development and
+274 emerging technologies.
+275 (18) to enter into agreements with public and private entities that deal primarily with
+276 quantum science, nanotechnology, and related technology fields in order to distribute and
+277 provide leveraging of monies or services for the purposes of furthering scientific research in the
+278 commonwealth, aiding in the promotion the quality of quantum of residents, fostering jobs in
+279 quantum industries, and promoting overall economic growth within the commonwealth by
+280 fostering collaboration and investments in quantum sciences in the commonwealth;
+281 (19) to provide and pay for such advisory services and technical assistance as may be
+282 necessary or desired to carry out the purposes of this chapter;
+283 (20) to establish and collect such fees and charges as the center without further
+284 appropriation shall determine to be reasonable; and to receive and apply revenues from fees and
+285 charges to the purposes of the center or allotment by the commonwealth or any political
+286 subdivision thereof;
+287 (21) to make loans to any person for the acquisition, construction, alteration, or any
+288 combination thereof, or other financing of a project, including but not limited to loans to lending
+289 institutions under terms and conditions requiring the proceeds of such loans to be used by such
+290 lending institutions for the making of loans to users for qualified projects;
+14 of 56
+
+291 (22) to disburse, appropriate, grant, loan or allocate funds for the purposes of investing in
+292 quantum industries and emerging technologies, as directed in this chapter;
+293 (23) to provide assistance to local entities, local authorities, public bodies and private
+294 corporations for the purposes of maximizing opportunities for the expansion of quantum
+295 industries and advanced technologies in the commonwealth and attracting new quantum entities
+296 and advanced technology investments to Massachusetts, fostering new innovative research
+297 applications to the commonwealth and creating new manufacturing and development initiatives
+298 in the commonwealth;
+299 (24) to prepare, publish and distribute, with or without charge, as the center may
+300 determine, such studies, reports and bulletins and other material as the Center deems appropriate;
+301 (25) to exercise any other powers of a corporation organized under chapter 156B; and
+302 (26) to engage accountants, architects, attorneys, engineers, planners, real estate experts
+303 and other consultants as may be necessary in its judgment to carry out the purposes of this act
+304 and fix their compensation;
+305 (27) to take any actions necessary or convenient to the exercise of any power or the
+306 discharge of any duty provided for by this act;
+307 (28) enter into agreements or other transactions with any person, including without
+308 limitation any public entity or other governmental instrumentality or agency in connection with
+309 its powers and duties under this chapter;
+310 (29) to institute and administer the Massachusetts Quantum Investment Fund, established
+311 pursuant to section 4 for the purposes of making appropriations, allocations, grants or loans to
+15 of 56
+
+312 leverage development and investments in quantum science. The center shall implement an
+313 application and grant process for these purposes.
+314 (30) to operate as a licensed small business investment corporation pursuant to the
+315 provisions of the Small Business Investment Act of 1958, 15 U.S.C. section 661 et seq., as
+316 amended; provided, however, that as an alternative, the board may establish a subsidiary
+317 corporation to operate as a licensed small business investment corporation pursuant to said Small
+318 Business Investment Act of 1958, 15 U.S.C. section 661 et seq., and to make investments in
+319 qualified securities of enterprises through such subsidiary;
+320 (31) to track and report to the general court on federal initiatives that have an impact on
+321 quantum science companies doing business in the commonwealth; and
+322 (32) to create award programs to acknowledge successful companies, public and private
+323 institutions and programs in industry-specific areas, as determined by the center.
+324 (33) to facilitate the growth of the industry by matching industrial needs with local site
+325 specific opportunities by: establishing a directory of commercial spaces across the
+326 Commonwealth which meet a variety of industrial use cases; serving as a central, individualized
+327 clearinghouse on behalf of state and local government for firms seeking to expand, move within
+328 or relocate to the Commonwealth.
+329 Section 4. (a) There shall be established a commonwealth quantum investment program
+330 which shall be administered by the center. The purpose of the program shall be to expand
+331 quantum sciences-related employment opportunities in the commonwealth by supporting and
+332 stimulating research and development, manufacturing and commercialization in quantum
+16 of 56
+
+333 industries. Quantum sciences companies certified pursuant to subsection (b) shall be eligible for
+334 participation in the program.
+335 (b) The center may, upon a majority vote of the board, certify a quantum company as a
+336 certified quantum company upon: (i) the timely receipt, as determined by the center, of a
+337 certification proposal supported by independently verifiable information, signed under the pains
+338 and penalties of perjury by a person expressly authorized to contract on behalf of the quantum
+339 company and which shall include, but not be limited to: (A) an estimate of the projected new
+340 state revenue the company expects to generate during the period for which the company seeks
+341 certification, together with a plan, including precise goals and objectives, by which the company
+342 proposes to achieve the projected new state revenue, including for each tax year, an estimate of
+343 new commercial revenue that the commonwealth would not otherwise have received, an estimate
+344 of the number of permanent full-time employees to be hired or retained, an estimate of the year
+345 in which the company expects to hire or retain the employees, an estimate of the projected
+346 average salaries of said employees, an estimate of the projected taxable income pursuant to
+347 chapter 62 or 63 generated by said employees and an estimate of the methods by which the
+348 company shall obtain new employees and pursue a diverse workforce; (B) documentation of an
+349 agreement, if any, between the company and banking institutions with which the company shall
+350 have agreed to establish accounts and by which the banking institutions shall have agreed to
+351 commit a specified percentage of the funds deposited in the accounts for loans made thereby to
+352 companies under the small business capital access program established pursuant to section 57 of
+353 chapter 23A; and (C) if appropriate, documentation that the company has received approval for a
+354 certified project, pursuant to section 3F of chapter 23A; and (ii) findings made by the center,
+355 based on the certification proposal, documents submitted therewith and any additional
+17 of 56
+
+356 investigation by the center, and incorporated in its approval, that: (A) the company shall meet all
+357 statutory requirements and any other criteria that the center may prescribe including, but not
+358 limited to criteria in the following areas: whether the company has sufficient business contacts
+359 with the commonwealth as evidenced by its business activity within the commonwealth
+360 including, but not limited to, the number of full-time employees employed in the commonwealth;
+361 the company's potential to further technological advancements; the company's potential to offer a
+362 breakthrough medical treatment for a particular disease, or medical condition; the company's
+363 potential for leveraging additional funding or attracting additional resources to the
+364 commonwealth; the company's potential to promote quantum sciences manufacturing in the
+365 commonwealth; and evidence of potential royalty income and contractual means to recapture
+366 such income for the purposes of this chapter, as the center considers appropriate; and (B) a
+367 certified quantum sciences company shall meet the new state revenue and employment growth
+368 projections, as specified in the certification proposal, over the period for which it receives
+369 benefits.
+370 (c) A certified quantum sciences company may, upon a majority vote of the board, be
+371 eligible for the following benefits which shall be awarded by the board on a competitive basis:
+372 (1) benefits from the quantum sciences tax incentive program established by subsection (d); (2)
+373 grants, loans or other investments from the Massachusetts Quantum Investment Fund established
+374 by section 5; (3) equity investments from the Small Business Equity Investment Fund established
+375 by section 6; (4) assistance from the center to obtain designation as a certified project as defined
+376 in section 3A of chapter 23A; (5) assistance from the center in accessing economic incentive
+377 programs within the Massachusetts office of business development, including access to the
+378 technical, human, financial, training, educational and site-finding resources necessary to expand
+18 of 56
+
+379 or locate in the commonwealth; (6) assistance from the center in obtaining federal grants; (7)
+380 assistance from the center in facilitating clinical trials; (8) preference for funding for quantum
+381 science job training programs; or (19) preference for pre-permitted industrial land as identified
+382 by the Massachusetts Development Finance Agency.
+383 (d) There shall be established a quantum tax incentive program. The center, in
+384 consultation with the department, may annually authorize incentives, including incentives carried
+385 forward or refunded pursuant to subsections (m), (n) and (r) of section 6 of chapter 62, paragraph
+386 17 of section 30 of chapter 63, the second time it appears, section 31M of said chapter 63, the
+387 second time it appears, paragraph 6 of subsection (f) of section 38 of said chapter 63, subsection
+388 (j) of section 38M of said chapter 63, section 38U of said chapter 63, section 38V of said chapter
+389 63, section 38W of said chapter 63, section 38CC of said chapter 63, the second paragraph of
+390 subsection (c) of section 42B of said chapter 63 and subsection (xx) of section 6 of chapter 64H
+391 in a cumulative amount, including the current year cost of incentives allowed in previous years,
+392 that shall not exceed $500,000,000 annually. The center may, in consultation with the
+393 department, limit any incentive to a specific dollar amount or time duration or in any other
+394 manner deemed appropriate by the department; provided, however, that the department shall
+395 only allocate any such incentives among commonwealth certified quantum sciences companies
+396 pursuant to subsection (b) and shall award such tax incentives pursuant to subsection (c).
+397 The center shall provide an estimate to the secretary of administration and finance of the
+398 tax cost of extending benefits to a proposed project before certification, as approved by the
+399 commissioner of revenue, based on reasonable projections of project activities and costs. Tax
+400 incentives shall not be available to a certified quantum sciences company unless expressly
+401 granted by the secretary of administration and finance in writing.
+19 of 56
+
+402 (e)(1) Certification granted pursuant to subsection (b) shall be valid for 5 years starting
+403 with the tax year in which certification is granted. Each certified quantum sciences company
+404 shall file an annual report with the center detailing whether it has met the specific targets
+405 established in the proposal pursuant to subclause (A) of clause (i) of subsection (b).
+406 (2) The certification of a quantum sciences company may be revoked by the center after
+407 an independent investigation and determination that representations made by the certified
+408 quantum sciences company in its certification proposal are materially at variance with the
+409 conduct of the company after receiving certification; provided, however, that the center shall
+410 review the certified quantum sciences company at least annually; provided, further, that a project
+411 with an actual return on investment that is less than 70 per cent of the return on investment
+412 projected in the certification proposal shall be deemed to contain a material variance for a
+413 revocation determination. If the center determines not to revoke certification upon a finding that
+414 the actual return on investment for the project is less than 70 per cent, the center shall provide its
+415 reasons for the decision in writing to the secretary of administration and finance, the
+416 commissioner of revenue and the clerks of the house of representatives and the senate, who shall
+417 forward the same to the house and senate committees on ways and means, the joint committee on
+418 revenue and the joint committee on economic development and emerging technologies. The
+419 center shall post these reasons on the internet for public access.
+420 (3) Under this subsection, revocation shall take effect on the first day of the tax year in
+421 which the center determines that a material variance commenced. The commissioner of revenue
+422 shall, as of the effective date of the revocation, disallow any credits, exemptions or other tax
+423 benefits allowed by the original certification of tax benefits under this section. The department
+424 shall issue regulations to recapture the value of any credits, exemptions or other tax benefits
+20 of 56
+
+425 allowed by the certification under this section; provided, however, that the recapture provisions
+426 in subsection (m) of section 6 of chapter 62 and section 38U of chapter 63 shall apply. If the
+427 original certification allowed sales and use tax exemptions pursuant to subsection (xx) of section
+428 6 of chapter 64H, the purchaser shall accrue use tax as of the date of revocation on a portion of
+429 the sales price on which exemption was claimed that is proportionate to the remaining useful
+430 quantum of the property.
+431 (4) Nothing in this subsection shall limit any legal remedies available to the
+432 commonwealth against any certified quantum sciences company.
+433 (f) Capital funding may be revoked only by the center after an independent investigation
+434 and determination that representations made by the company in its certification proposal are
+435 materially at variance with the conduct of the company after certification; provided, further, that
+436 a quantum sciences company generating less than 70 per cent of the projected new state revenue
+437 in the certification proposal shall be deemed to contain a material variance for the purposes of a
+438 revocation determination. If the center does not revoke certification despite said material
+439 variance, the center shall provide its reasons for the decision in writing to the secretary of
+440 administration and finance, the commissioner of revenue and the clerks of the house of
+441 representatives and the senate, who shall forward the same to the house and senate committees
+442 on ways and means, the joint committee on bonding, capital expenditures and state assets and the
+443 joint committee on economic development and emerging technologies. A notice of revocation
+444 under this subsection shall specify the date on which the revocation is effective, which shall be
+445 the date of the notice or the date on which the center determined that the material variance
+446 commenced. The secretary of administration and finance shall, as of the effective date of the
+447 revocation, disallow any loans, grants or other benefits allowed by the original certification
+21 of 56
+
+448 under this section. The department may issue regulations to recapture any grants or loans
+449 allowed by the certification under this section.
+450 (g) The center shall revoke the certification of a quantum sciences company when
+451 independent investigations conducted in 2 consecutive years determine that representations made
+452 by the company in its project proposal are deemed materially at variance, pursuant to paragraph
+453 (2) of subsection (e) or subsection (f).
+454 (h) The board, in consultation with the executive office of administration and finance
+455 and the executive office of economic development, shall promulgate rules, regulations or
+456 guidelines necessary to carry out the provisions of this section.
+457 Section 5. (a) There shall be established and placed within the center a fund to be known
+458 as the Massachusetts Quantum Investment Fund, hereinafter in this section referred to as the
+459 fund, to be held by the center separate and apart from its other funds, to finance the activities of
+460 the center. The fund shall be credited any appropriations, bond proceeds or other monies
+461 authorized by the general court and specifically designated to be credited thereto, such additional
+462 funds as are subject to the direction and control of the center, any pension funds, federal grants
+463 or loans, royalties or private investment capital which may properly be applied in furtherance of
+464 the objectives of the fund, any proceeds from the sale of qualified investments secured or held by
+465 the fund, any fees and charges imposed relative to the making of qualified investments as defined
+466 by the center, secured or held by the fund and any other monies which may be available to the
+467 center for the purposes of the fund from any other source or sources. Any revenues, deposits,
+468 receipts, or funds received through the receipt of royalties, interest, dividends, or the sale of
+469 equity instruments shall be deposited in the fund, and shall be available to the center for the
+22 of 56
+
+470 purposes described in this section, without further appropriation. All available moneys in the
+471 fund that are unexpended at the end of each fiscal year shall not revert to the General Fund and
+472 shall be available for expenditure in the subsequent fiscal year.
+473 (b) The center shall invest and reinvest the fund and the income thereof only as follows:
+474 (1) making qualified investments pursuant to subsection (c); (2) defraying the ordinary and
+475 necessary expenses of administration and operation associated with the center; provided,
+476 however, that said administrative and operational expenses shall not exceed 15 per cent of the
+477 maximum amount authorized to be expended from the fund in a fiscal year; (3) investing any
+478 funds not required for immediate disbursement in the purchase of such securities as may be
+479 lawful investments for fiduciaries in the commonwealth; (4) paying binding obligations
+480 associated with such qualified investments which shall be secured by the fund as the same
+481 become payable; and (5) paying principal or interest on qualified investments secured by the
+482 fund or paying any redemption premium required to be paid when such qualified investments
+483 shall be redeemed prior to maturity; provided, however, that monies in the fund shall not be
+484 withdrawn at any time in such an amount as would reduce the amount of the fund to less than the
+485 minimum requirement thereof established by the board, except for the purpose of paying binding
+486 obligations associated with qualified investments which shall be secured by the fund as the same
+487 become payable.
+488 (c) The fund shall be held and applied by the center, subject to the approval of the board,
+489 to make qualified investments, grants, research and other funding and loans designed to advance
+490 the following public purposes for the quantum sciences in the commonwealth: (1) to stimulate
+491 increased financing for the expansion of research and development by leveraging private
+492 financing for highly productive state-of-the-art research and development facilities, equipment
+23 of 56
+
+493 and instrumentation and by providing financing related thereto including, but not limited to,
+494 financing for the construction or expansion of such new facilities; (2) to make targeted
+495 investments, including research funding, proof of concept funding and funding for the
+496 development of devices, drugs or therapeutics and to promote manufacturing activities for new
+497 or existing advanced technologies and quantum research; (3) to make matching grants to
+498 colleges, universities, independent research institutions, nonprofit entities, public
+499 instrumentalities, companies and other entities in connection with support from the federal
+500 government, industry and other grant-funding sources related to the expansion of research and
+501 development and to increase and strengthen economic development, employment opportunities
+502 and commercial and industrial sectors in the field of quantum; (4) to provide bridge financing to
+503 colleges, universities, independent research institutions, nonprofit entities, public
+504 instrumentalities, companies and other entities for the receipt of grants as described in clause (3)
+505 awarded or to be awarded by the federal government, industry or other sources; (5) to provide
+506 fellowships, co-ops, high school internships, for which additional consideration shall be given to
+507 minority students at schools where at least 80 per cent of the student population is eligible for
+508 free or reduced lunch, college internships, for which additional consideration shall be given to
+509 minority students enrolled full-time or part-time at a community college, loans and grants; (6) to
+510 provide workforce training grants to prepare individuals for quantum careers; (7) to provide
+511 funding for development, coordination and marketing of higher education programs; (8) to make
+512 qualified grants to certified quantum companies for site remediation, preparation and ancillary
+513 infrastructure improvement projects; and (9) to otherwise further the public purposes set forth
+514 herein; provided further, that the center shall file an annual report, not later than December 1,
+515 with the house and senate committees on ways and means detailing the following: (i) the total
+24 of 56
+
+516 funds expended on high school internships; (ii) the total funds expended on college internships;
+517 (iii) the number of students participating in the internship programs from each high school,
+518 school district, college and university in the commonwealth; (iv) the percentage of high school
+519 internships awarded to minority students attending schools where at least 80 per cent of the
+520 student population is eligible for free or reduced lunch; (v) the percentage of college internships
+521 awarded to minority students enrolled full-time or part-time at a community college; (vi) the
+522 racial and ethnic composition of the high school and college internship programs; and (vii) an
+523 analysis of the impact of the college internship program on the ability of its participants to enter
+524 the full-time job market in the quantum science industries after graduation.
+525 (d) Proceeds of the fund may be used by the center to fund quantum sciences initiatives
+526 including: (1) international trade initiatives; (2) qualified grants to graduate level and doctoral
+527 students and post-doctoral fellows for living expenses from the Higher Education Grant Fund
+528 established by section 8; (3) equity investments from the Small Business Equity Investment Fund
+529 established by section 7; (4) joint academic and industrial research and development and
+530 commercial business exchanges between the commonwealth and Israel, in collaboration with the
+531 Massachusetts international trade council; (5) the Massachusetts Technology Transfer Center,
+532 established by section 12 of chapter 40G to fund activities that facilitate the transfer of
+533 technology from the commonwealth's research institutions to the commonwealth's quantum
+534 industries, for productive use by such industries and to make targeted investments in proof of
+535 concept funding for emerging technologies; (6) the Massachusetts Science, Technology
+536 Engineering, and Mathematics Grant Fund, established by section 2MMM of chapter 29; or (7) a
+537 program to promote the research and development of plant-made pharmaceuticals and industrial
+538 products through field trials, in collaboration with the department of agricultural resources.
+25 of 56
+
+539 (e) The center shall make no such qualified investment pursuant to clause (1) of
+540 subsection (b) unless: (1) said investment has been approved by a majority vote of the board; (2)
+541 the recipient is a certified quantum sciences company pursuant to section 5 or a project or
+542 initiative listed in subsection (d); (3) the center finds, to the extent possible, that a definite benefit
+543 to the commonwealth's economy may reasonably be expected from said qualified investment;
+544 provided, further, that in evaluating a request or application for funding, the center shall consider
+545 the following: (i) the appropriateness of the project; (ii) whether the project has significant
+546 potential to expand employment; (iii) the project's potential to enhance technological
+547 advancements; (iv) the project's potential to lead to a breakthrough medical treatment for a
+548 particular disease or medical condition; (v) the project's potential for leveraging additional
+549 funding or attracting resources to the commonwealth; (vi) the project's potential to promote
+550 manufacturing in the commonwealth; and (vii) evidence of potential royalty income and
+551 contractual means to recapture such income for the purposes of this chapter, as the center
+552 considers appropriate; (4) to the extent said investment is a capital investment made pursuant to
+553 clause (8) of subsection (c), the investment has been approved by the secretary of the executive
+554 office of administration and finance upon request of the center; provided, however, that said
+555 request shall be submitted to the secretary in writing and shall, include but not be limited to: (i) a
+556 description of the project or program to be funded; (ii) the economic benefits to the
+557 commonwealth which can reasonably be expected from said project or program; (iii) a copy of
+558 the proposed contract or other document executing the transaction between the center and the
+559 recipient of the funds; (iv) a description of the contractual or other legal remedies available to the
+560 center upon non-performance of the contract or other document executing the transaction by the
+561 recipient including, but not limited to, any provisions for restitution or reimbursement of the
+26 of 56
+
+562 funds granted, loaned or otherwise invested in or with the recipient; and (v) any other
+563 information as the secretary may determine; and (5) said qualified investment conforms with the
+564 rules approved by the board.
+565 Said rules shall set the terms and conditions for investments which shall constitute
+566 qualified investments including, but not limited to, loans, guarantees, loan insurance or
+567 reinsurance, equity investments, grants awarded pursuant to clause (3) of subsection (c), other
+568 financing or credit enhancing devices, as established by the center directly or on its own behalf
+569 or in conjunction with other public instrumentalities, or private institutions or the federal
+570 government. Said rules shall provide that qualified investments made pursuant to clauses (1) and
+571 (2) of said subsection (c) shall involve a transaction with the participation of at least 1 at-risk
+572 private party.
+573 Said rules shall establish the terms, procedures, standards and conditions which the center
+574 shall employ to identify qualified applications, process applications, make investment
+575 determinations, safeguard the fund, advance the objective of increasing employment
+576 opportunities, oversee the progress of qualified investments and secure the participation of other
+577 public instrumentalities, private institutions or the federal government in such qualified
+578 investments. Said rules shall provide for negotiated intellectual property agreements between the
+579 center and a qualified investment recipient which shall include the terms and conditions by
+580 which the fund's support may be reduced or withdrawn.
+581 (f) The center may solicit investments by private institutions or investors in the activities
+582 of the fund and may reach agreements with such private institutions or investors regarding the
+583 terms of any such investments including, but not limited to, the rights of such investors to
+27 of 56
+
+584 participate in the income or appropriation of the fund. To further the objective of securing
+585 investments by private institutions or investors in the activities of the fund pursuant to the
+586 preceding sentence, the center may develop a proposal creating a separate investment entity
+587 which shall permit the commingling of the fund's resources with the maximum participation by
+588 such private institutions or investors in a manner consistent with the public purpose of the fund
+589 and under the terms and conditions established to protect and preserve the assets of the fund.
+590 (g) Copies of the approved rules, and any modifications, shall be submitted to the clerks
+591 of the house of representatives and the senate, who shall forward the same to the house and
+592 senate committees on ways and means and the joint committee on economic development and
+593 emerging technologies.
+594 (h) Qualified investment transactions made by the center pursuant to this section shall
+595 not, except as specified in this chapter, be subject to chapter 175, or any successor thereto, and
+596 shall be payable solely from the Massachusetts Quantum Investment Fund established by this
+597 section and shall not constitute a debt or pledge of the full faith and credit of the commonwealth,
+598 the center or any subdivision of the commonwealth.
+599 (i) The center shall not make expenditure from or commitment of the assets of the fund
+600 including, but not limited to, the making of qualified investments secured by the fund, if
+601 following the making of said qualified investment, the amount of the fund shall be less than the
+602 minimum requirement established by the board.
+603 Section 6. (a) There shall be established and placed within the center a fund to be known
+604 as the Small Business Equity Investment Fund, hereinafter in this section referred to as the fund,
+605 to be held by the center separate and apart from its other funds. The fund shall be credited any
+28 of 56
+
+606 appropriations, bond proceeds or other monies authorized by the general court and specifically
+607 designated to be credited thereto, such additional funds as are subject to the direction and control
+608 of the center, any pension funds, federal grants or loans, royalties or private investment capital
+609 which may properly be applied in furtherance of the objectives of the fund, any proceeds from
+610 the sale of qualified investments secured or held by the fund, any fees and charges imposed
+611 relative to the making of qualified investments as defined by the center, secured or held by the
+612 fund and any other monies which may be available to the center for the purposes of the fund
+613 from any other source or sources. Any revenues, deposits, receipts, or funds received through the
+614 receipt of royalties, interest, dividends, or the sale of equity instruments shall be deposited in the
+615 fund, and shall be available to the center for the purposes described in this section, without
+616 further appropriation. All available moneys in the fund that are unexpended at the end of each
+617 fiscal year shall not revert to the General Fund and shall be available for expenditure in the
+618 subsequent fiscal year.
+619 (b) The center shall invest and reinvest the fund and the income thereof only as follows:
+620 (1) making qualified equity investments pursuant to subsection (c); (2) investing funds not
+621 required for immediate disbursement in the purchase of such securities as may be lawful
+622 investments for fiduciaries in the commonwealth; (3) paying binding obligations associated with
+623 such qualified investments which shall be secured by the fund as the same become payable; and
+624 (4) paying principal or interest on qualified investments secured by the fund or paying any
+625 redemption premium required to be paid when such qualified investments shall be redeemed
+626 prior to maturity; provided, however, that monies in the fund shall not be withdrawn at any time
+627 in such an amount as would reduce the amount of the fund to less than the minimum requirement
+29 of 56
+
+628 thereof established by the board, except for the purpose of paying binding obligations associated
+629 with qualified investments which shall be secured by the fund as the same become payable.
+630 (c) The fund shall be held and applied by the center to make qualified equity investments
+631 in enterprises seeking to raise seed capital; provided, however, that said qualified equity
+632 investments shall not exceed $6,000,000 in any 1 enterprise. The center shall not make such
+633 qualified equity investments unless: (1) said investment has been approved by a majority vote of
+634 the board; (2) the recipient is a quantum sciences company certified pursuant to section 5; and
+635 (3) the center finds, to the extent possible, that a definite benefit to the commonwealth's economy
+636 may reasonably be expected from said qualified investment. In evaluating a request or
+637 application for funding, the center shall consider whether: (i) the proceeds of the equity
+638 investment shall only be used to cover the seed capital needs of the enterprise except as
+639 hereinafter authorized; (ii) the enterprise has a reasonable chance of success; (iii) the center's
+640 participation is necessary to the success of the enterprise because funding for the enterprise is
+641 unavailable in the traditional capital markets or contingent upon matching funds, or because
+642 funding has been offered on terms that would substantially hinder the success of the enterprise;
+643 (iv) the enterprise has reasonable potential to create a substantial amount of primary employment
+644 in the commonwealth; (v) the enterprise's principals have made or are prepared to make a
+645 substantial financial and time commitment to the enterprise; (vi) the securities to be purchased
+646 shall be qualified securities; (vii) there shall be a reasonable possibility that the center shall, at a
+647 minimum, recoup its initial investment; (viii) binding commitments have been made to the center
+648 by the enterprise for adequate reporting of financial data to the center, which shall include a
+649 requirement for an annual or other periodic audit of the books of the enterprise, and for such
+650 control on the part of the center as the board shall consider prudent over the management of the
+30 of 56
+
+651 enterprise, to protect the investment of the center including the board's right to access, without
+652 limitation, financial and other records of the enterprise; and (ix) a reasonable effort has been
+653 made to find a professional investor to invest in the enterprise and such effort was unsuccessful;
+654 and (4) said qualified equity investment conforms with the rules approved by the board.
+655 Said rules shall establish the terms, procedures, standards and conditions which the center
+656 shall employ to identify qualified applications, process applications, make investment
+657 determinations, safeguard the fund, advance the objective of increasing employment
+658 opportunities, oversee the progress of qualified equity investments and secure the participation of
+659 other public instrumentalities, private institutions or the federal government in such qualified
+660 equity investments. Said rules shall provide that each recipient of a qualified investment shall be
+661 required to pay a fee as a condition of such receipt, and said fee may take the form of points, an
+662 interest rate premium or a contribution of warrants or other forms of equity or consideration to
+663 the fund. Said rules shall provide for negotiated agreements between the center and each
+664 recipient of a qualified investment regarding the terms and conditions by which the fund's
+665 support thereof could be reduced or withdrawn.
+666 (d) The center may solicit investments by private institutions or investors in the activities
+667 of the fund and may reach agreements with such private institutions or investors regarding the
+668 terms of such investments including, but not limited to, the rights of such investors to participate
+669 in the income or appropriation of the fund. To further the objective of securing investments by
+670 private institutions or investors in the activities of the fund pursuant to the preceding sentence,
+671 the center may develop a proposal relative to the creation of a separate investment entity which
+672 shall permit the commingling of the fund's resources with the maximum participation by such
+31 of 56
+
+673 private institutions or investors consistent with the public purpose of the fund and under the
+674 terms and conditions established to protect and preserve the assets of the fund.
+675 (e) Copies of the approved rules, and any modifications thereto, shall be submitted to the
+676 clerks of the house of representatives and the senate, who shall forward the same to the house
+677 and senate committees on ways and means and the joint committee on economic development
+678 and emerging technologies.
+679 (f) Qualified equity investment transactions made by the center pursuant to this section
+680 shall not, except as specified in this chapter, be subject to chapter 175, or any successor thereto,
+681 and shall be payable solely from the Small Business Equity Investment Fund established by this
+682 section and shall not constitute a debt or pledge of the full faith and credit of the commonwealth,
+683 the center or any subdivision of the commonwealth.
+684 (g) The center shall not make expenditure from or commitment of the assets of the fund
+685 including, but not limited to, the making of qualified investments secured by the fund, if
+686 following the making of said qualified investment, the amount of the fund shall be less than the
+687 minimum requirement established by the board.
+688 Section 7. (a) There shall be established and placed within the center a fund to be known
+689 as the Higher Education Grant Fund, hereinafter in this section referred to as the fund, to be held
+690 by the center separate and apart from its other funds. The fund shall be credited any
+691 appropriations, bond proceeds or other monies authorized by the general court and specifically
+692 designated to be credited thereto, such additional funds as are subject to the direction and control
+693 of the center, any pension funds, federal grants or loans, royalties or private investment capital
+694 which may properly be applied in furtherance of the objectives of the fund, any proceeds from
+32 of 56
+
+695 the sale of qualified investments secured or held by the fund, any fees and charges imposed
+696 relative to the making of qualified investments as defined by the center, secured or held by the
+697 fund and any other monies which may be available to the center for the purposes of the fund
+698 from any other source or sources. Any revenues, deposits, receipts, or funds received through the
+699 receipt of royalties, interest, dividends, or the sale of equity instruments shall be deposited in the
+700 fund, and shall be available to the center for the purposes described in this section, without
+701 further appropriation. All available moneys in the fund that are unexpended at the end of each
+702 fiscal year shall not revert to the General Fund and shall be available for expenditure in the
+703 subsequent fiscal year.
+704 (b) The center shall invest and reinvest the fund and the income thereof only as follows:
+705 (1) making qualified grants pursuant to subsection (c); (2) investing funds not required for
+706 immediate disbursement in the purchase of such securities as may be lawful investments for
+707 fiduciaries in the commonwealth; (3) paying binding obligations associated with such qualified
+708 investments which shall be secured by the fund as the same become payable; and (4) paying
+709 principal or interest on qualified investments secured by the fund or paying any redemption
+710 premium required to be paid when such qualified investments shall be redeemed prior to
+711 maturity; provided, however, that monies in the fund shall not be withdrawn at any time in such
+712 an amount as would reduce the amount of the fund to less than the minimum requirement thereof
+713 established by the center, except for the purpose of paying binding obligations associated with
+714 qualified investments which shall be secured by the fund as the same become payable.
+715 (c) The fund shall be held and applied by the center to make qualified grants to graduate
+716 level and doctoral students and post-doctoral fellows studying or employed in quantum science
+717 for living expenses; provided, however, that the center shall make no such qualified grants unless
+33 of 56
+
+718 said grant has been approved by a majority vote of the board. Grants awarded from the fund
+719 shall, in addition to any restrictions adopted by the center, shall be awarded in $10,000
+720 increments not to exceed $30,000 annually per recipient and further restrictions include: (1)
+721 recipients shall be enrolled in a graduate or doctorate level program or shall be working as
+722 postdoctoral fellows at a college, university, independent research institution or an academic
+723 medical center in the commonwealth; (2) recipients shall be commonwealth residents; and (3)
+724 the annual total household income of a recipient shall not exceed 300 per cent of the federal
+725 poverty level. The center shall make no such qualified grants pursuant to said clause (1) of said
+726 subsection (b) unless such qualified grant conforms with rules approved by the board.
+727 Said rules shall establish the terms and conditions for grants which constitute qualified
+728 grants and shall establish the terms, procedures, standards and conditions which the center shall
+729 employ to identify qualified applications, process applications, make grant determinations,
+730 safeguard the fund, oversee the progress of qualified grants and secure the participation of other
+731 public instrumentalities, private institutions or the federal government in such qualified grants.
+732 (d) The center may solicit investments by private institutions or investors in the activities
+733 of the fund and may reach agreements with such private institutions or investors regarding the
+734 terms of any such investments including, but not limited to, the rights of such investors to
+735 participate in the income or appropriation of the fund. To further the objective of securing
+736 investments by private institutions or investors in the activities of the fund pursuant to the
+737 preceding sentence, the center may develop a proposal creating a separate investment entity
+738 which shall permit the commingling of the fund's resources with the maximum participation by
+739 such private institutions or investors in a manner consistent with the public purpose of the fund
+740 and under the terms and conditions established to protect and preserve the assets of the fund.
+34 of 56
+
+741 (e) Copies of the approved rules, and any modifications thereto, shall be submitted to the
+742 clerks of the house of representatives and the senate, who shall forward the same to the house
+743 and senate committees on ways and means and the joint committee on economic development
+744 and emerging technologies.
+745 (f) Qualified grants and investment transactions made by the center pursuant to the
+746 provisions of this section shall not, except as specified in this chapter, be subject to the
+747 provisions of chapter 175, or any successor thereto, and shall be payable solely from the Higher
+748 Education Grant Fund, established by this section and shall not constitute a debt or pledge of the
+749 full faith and credit of the commonwealth, the center or any subdivision of the commonwealth.
+750 (g) The center shall not make expenditure from or commitment of the assets of the fund
+751 including, but not limited to, the making of qualified investments secured by the fund, if
+752 following the making of said qualified investment, the amount of the fund shall be less than the
+753 minimum requirement established by the board.
+754 Section 8. (a) There shall be established and placed within the center the Massachusetts
+755 Small Business Matching Grant Fund, hereinafter referred to in this section as the fund, to be
+756 held by the center separate and apart from its other funds. The fund shall be credited any
+757 appropriations, bond proceeds or other monies authorized by the general court and specifically
+758 designated to be credited thereto, such additional funds as are subject to the direction and control
+759 of the center, any pension funds, federal grants or loans, royalties or private investment capital
+760 which may properly be applied in furtherance of the objectives of the fund, any proceeds from
+761 the sale of qualified investments secured or held by the fund, any fees and charges imposed
+762 relative to the making of qualified investments as defined by the center, secured or held by the
+35 of 56
+
+763 fund and any other monies which may be available to the center for the purposes of the fund
+764 from any other source or sources. Any revenues, deposits, receipts, or funds received through the
+765 receipt of royalties, interest, dividends, or the sale of equity instruments shall be deposited in the
+766 fund, and shall be available to the center for the purposes described in this section, without
+767 further appropriation. All available moneys in the fund that are unexpended at the end of each
+768 fiscal year shall not revert to the General Fund and shall be available for expenditure in the
+769 subsequent fiscal year.
+770 (b) The center shall invest and reinvest the fund and the income thereof only as follows:
+771 (1) making qualified grants pursuant to subsection (c); (2) investing any funds not required for
+772 immediate disbursement in the purchase of such securities as may be lawful investments for
+773 fiduciaries in the commonwealth; (3) paying binding obligations associated with such qualified
+774 investments which shall be secured by the fund as the same become payable; and (4) paying
+775 principal or interest on qualified investments secured by the fund or paying any redemption
+776 premium required to be paid when such qualified investments shall be redeemed prior to
+777 maturity; provided, however, that monies in the fund shall not be withdrawn at any time in such
+778 an amount as would reduce the amount of the fund to less than the minimum requirement thereof
+779 established by the center, except for the purpose of paying binding obligations associated with
+780 qualified investments which shall be secured by the fund as the same become payable.
+781 (c) Notwithstanding any provision of this chapter to the contrary, a company need not be
+782 a certified quantum company, as established in section 4, to be eligible for matching grants
+783 pursuant to this section. The fund shall be held and applied by the center to make qualified loans,
+784 grants or other investments to stimulate increased financing for quantum sciences and high
+785 technology research and development, manufacturing and commercialization in the
+36 of 56
+
+786 commonwealth by matching grants to public agencies, independent research institutions,
+787 nonprofits or to quantum sciences or high technology companies to increase and strengthen the
+788 commonwealth's economic development, employment opportunities and commercial and
+789 industrial sectors. The fund shall provide matching grants to commonwealth-based quantum
+790 sciences or high technology companies that receive small business innovation research or small
+791 business technology transfer grants from the Small Business Administration, pursuant to 15
+792 U.S.C. section 638, to assist companies that have developed new commercialization-ready
+793 technologies to reach production and create manufacturing jobs in the commonwealth. Said
+794 matching grants shall be used to create manufacturing jobs and may be used for, without
+795 limitation, the creation of, and capital improvements for, production facilities, workforce
+796 training, product marketing and purchasing infrastructure for product manufacturing. Said
+797 matching grants shall be distributed to eligible companies that have commercialization-ready
+798 technologies developed with assistance from the Small Business Administration in the form of
+799 $1 in matching funds for every $1 granted from the small business innovation research phase IIB
+800 grants, phase III grants and the commercialization pilot project established by 15 U.S.C. section
+801 638. Said matching grants shall be awarded in consultation with the Small Business Association
+802 of New England. No such grant to any company shall exceed $5,000,000 annually and the center
+803 shall make no such qualified loan, grant or other investment unless: (1) said loan, grant or
+804 investment has been approved by a majority vote of the board; (2) the center finds that, to the
+805 extent possible, a definite benefit to the commonwealth's economy may reasonably be expected
+806 from said qualified loan, grant or investment; provided, however, that in evaluating a request or
+807 application for funding, the center shall consider whether: (i) the loan, grant or investment shall
+808 stimulate increased financing for quantum sciences and high technology research and
+37 of 56
+
+809 development, manufacturing and commercialization; (ii) the enterprise has a reasonable chance
+810 of success; (iii) center participation is necessary; (iv) the enterprise has the reasonable potential
+811 to create a substantial amount of new employment in the commonwealth; (v) the principals of the
+812 enterprise have made or are prepared to make a substantial financial and time commitment to the
+813 enterprise; (vi) binding commitments have been made to the center by the enterprise for adequate
+814 reporting of financial data to the center, which shall include a requirement for an annual or other
+815 periodic audit of the books of the enterprise, and for such control on the part of the center as the
+816 board shall consider prudent over the management of the company to protect the investment of
+817 the center including the board's right to access, without limitation, financial and other records of
+818 the enterprise; and (vii) a reasonable effort has been made to find a professional investor to
+819 invest in the enterprise and whether such effort was unsuccessful; and (3) said loan, grant or
+820 other investment conforms with rules approved by the board.
+821 Said rules shall define quantum sciences technology and high technology for purposes
+822 hereof; provided, however, that such definition shall include companies engaging in research and
+823 development, commercialization or manufacturing in the commonwealth. Said rules shall
+824 establish the terms and conditions for investments which constitute qualified investments, and
+825 may include, but not be limited to, loans, guarantees, loan insurance or reinsurance, equity
+826 investments or other financing or credit enhancing devices, as made by the center directly or on
+827 its own behalf or in conjunction with other public instrumentalities, private institutions or the
+828 federal government. Said rules shall establish the terms, procedures, standards and conditions
+829 which the center shall employ to identify qualified applications, process applications, make
+830 investment determinations, safeguard the fund, advance the objective of increasing employment
+831 opportunities for the citizens of the commonwealth, oversee the progress of qualified
+38 of 56
+
+832 investments and secure the participation of other public instrumentalities, private institutions or
+833 the federal government in such qualified investments. Said rules shall provide that each recipient
+834 of a qualified investment shall be required to pay a fee as a condition of such receipt, and said fee
+835 may take the form of points, an interest rate premium or a contribution of warrants or other forms
+836 of equity or consideration to the fund. Said rules shall provide for negotiated agreements
+837 between the center and each recipient of a qualified investment regarding the terms and
+838 conditions by which the fund's support thereof could be reduced or withdrawn.
+839 (d) The center may solicit investments by private institutions or investors in the activities
+840 of the fund and may reach agreements with such private institutions or investors regarding the
+841 terms of any such investments including, but not limited to, the rights of such investors to
+842 participate in the income or appropriation of the fund. To further the objective of securing
+843 investments by private institutions or investors in the activities of the fund pursuant to the
+844 preceding sentence, the center may develop a proposal relative to the creation of a separate
+845 investment entity which shall permit the commingling of the fund's resources with the maximum
+846 participation by such private institutions or investors consistent with the public purpose of the
+847 fund and under the terms and conditions established to protect and preserve the assets of the
+848 fund; provided, however, that if the creation or operation of such a separate entity would require
+849 additional or clarifying amendments to the enabling act of the center, said proposal shall include
+850 proposed statutory language with regard thereto. Any additional clarifying amendments to the
+851 enabling act shall be submitted by the center to the clerks of the house of representatives and the
+852 senate, who shall forward the same to the house and senate committees on ways and means and
+853 the joint committee on economic development and emerging technologies.
+39 of 56
+
+854 (e) Copies of the approved rules, and any modifications thereto, shall be submitted to the
+855 clerks of the house of representatives and the senate, who shall forward the same to the house
+856 and senate committees on ways and means and the joint committee on economic development
+857 and emerging technologies.
+858 (f) Qualified investment transactions made by the center pursuant to the provisions of this
+859 section shall not, except as specified in this chapter, be subject to the provisions of chapter 175,
+860 or any successor thereto, and shall be payable solely from the Massachusetts Small Business
+861 Matching Grant Fund, established by this section and shall not constitute a debt or pledge of the
+862 full faith and credit of the commonwealth, the center or any subdivision of the commonwealth.
+863 (g) The center shall not make expenditure from or commitment of the assets of the fund
+864 including, but not limited to, the making of qualified investments secured by the fund, if
+865 following the making of said qualified investment, the amount of the fund shall be less than the
+866 minimum requirement established by the board.
+867 (h) The center shall develop a plan ensuring that fund disbursements made pursuant to
+868 this section shall be distributed throughout all regions of the commonwealth.
+869 Section 9. (a) There shall be established and placed within the center a fund to be known
+870 as the Massachusetts Quantum Sciences Education Fund, hereinafter in this section referred to as
+871 the fund, to be held by the center separate and apart from its other funds. The fund shall be
+872 credited any appropriations, bond proceeds or other monies authorized by the general court and
+873 specifically designated to be credited thereto, such additional funds as are subject to the direction
+874 and control of the center, any pension funds, federal grants or loans, royalties or private
+875 investment capital which may properly be applied in furtherance of the objectives of the fund,
+40 of 56
+
+876 any proceeds from the sale of qualified investments secured or held by the fund, any fees and
+877 charges imposed relative to the making of qualified investments as defined by the center, secured
+878 or held by the fund and any other monies which may be available to the center for the purposes
+879 of the fund from any other source or sources. Any revenues, deposits, receipts, or funds received
+880 through the receipt of royalties, interest, dividends, or the sale of equity instruments shall be
+881 deposited in the fund, and shall be available to the center for the purposes described in this
+882 section, without further appropriation. All available moneys in the fund that are unexpended at
+883 the end of each fiscal year shall not revert to the General Fund and shall be available for
+884 expenditure in the subsequent fiscal year.
+885 (b) The center shall invest and reinvest the fund and the income thereof only as follows:
+886 (1) making qualified grants pursuant to subsection (c); (2) investing any funds not required for
+887 immediate disbursement in the purchase of such securities as may be lawful investments for
+888 fiduciaries in the commonwealth; (3) paying binding obligations associated with such qualified
+889 investments which shall be secured by the fund as the same become payable; and (4) paying
+890 principal or interest on qualified investments secured by the fund or paying any redemption
+891 premium required to be paid when such qualified investments shall be redeemed prior to
+892 maturity; provided, however, that monies in the fund shall not be withdrawn at any time in such
+893 an amount as would reduce the amount of the fund to less than the minimum requirement thereof
+894 established by the center, except for the purpose of paying binding obligations associated with
+895 qualified investments which are secured by the fund as the same become payable.
+896 (c) The fund shall be held and applied by the center to make qualified grants to
+897 secondary, vocational and technical schools for purchasing or leasing necessary equipment to
+898 train students in quantum sciences technology and research; provided, however, that the center
+41 of 56
+
+899 shall make no such qualified grants unless: (1) said grant has been approved by a majority vote
+900 of the board; (2) the grant recipient shall be a secondary or vocational technical school; provided,
+901 however, that if funds remain after consideration of grant applications submitted by secondary or
+902 vocational technical schools, the center may make qualified grants to community colleges
+903 established by chapter 15A or any other general or special law; (3) the grant recipient has
+904 identified and properly trained instructors to use the equipment to be purchased or leased; and (4)
+905 said qualified grants conform with the rules approved by the board.
+906 Said rules shall set the terms and conditions for grants which constitute qualified grants
+907 and shall set forth the terms, procedures, standards and conditions which the center shall employ
+908 to identify qualified applications, process applications, make investment determinations,
+909 safeguard the fund, advance the objective of increasing employment opportunities for the
+910 citizens of the commonwealth, oversee the progress of qualified grants, and secure the
+911 participation of other public instrumentalities, private institutions or the federal government in
+912 such qualified grants.
+913 (d) The center may solicit investments by private institutions or investors in the activities
+914 of the fund and may reach agreements with such private institutions or investors regarding the
+915 terms of any such investments including, but not limited to, the rights of such investors to
+916 participate in the income or appropriation of the fund. To further the objective of securing
+917 investments by private institutions or investors in the activities of the fund as established in the
+918 preceding sentence, the center may develop a proposal relative to the creation of a separate
+919 investment entity which shall permit the commingling of the fund's resources with the maximum
+920 participation by such private institutions or investors in a manner consistent with the public
+42 of 56
+
+921 purpose of the fund and under terms and conditions established to protect and preserve the assets
+922 of the fund.
+923 (e) Copies of the approved rules, and any modifications thereto, shall be submitted to the
+924 clerks of the house of representatives and the senate and shall forward the same to the house and
+925 senate committees on ways and means and the joint committee on economic development and
+926 emerging technologies.
+927 (f) Qualified grants and investment transactions made by the center pursuant to the
+928 provisions of this section shall not, except as specified in this chapter, be subject to the
+929 provisions of chapter 175, or any successor thereto, and shall be payable solely from the
+930 Massachusetts Quantum Sciences Education Fund, established by this section and shall not
+931 constitute a debt or pledge of the full faith and credit of the commonwealth, the center or any
+932 subdivision of the commonwealth.
+933 (g) The center shall not make expenditure from or commitment of the assets of the fund
+934 including, but not limited to, the making of qualified investments secured by the fund, if
+935 following the making of said qualified investment, the amount of the fund shall be less than the
+936 minimum requirement established by the board.
+937 Section 10. There shall be a 19–member advisory board to be appointed by the governor,
+938 the Speaker of the House of Representatives and the Senate President to advise the center. The
+939 members shall include: Six appointed by the Speaker of the House including a leader or their
+940 designee of a large corporation with significant investments in quantum computing, which may
+941 include data center infrastructure, a leader or their designee of a medium or small quantum start
+942 up corporation based in the Commonwealth, an academic who focuses on quantum research, a
+43 of 56
+
+943 sitting House Member, a Massachusetts resident who has made capital investments in Quantum
+944 start-ups, a leader in workforce development; six appointed by the President of the Senate
+945 including a leader or their designee of a large corporation with significant investments in
+946 quantum computing, which may include data center infrastructure, a leader or their designee of a
+947 medium or small quantum start up corporation based in the Commonwealth, an academic who
+948 focuses on quantum research, a sitting member of the Senate, an intellectual property attorney
+949 who practices in the Commonwealth, a leader in environmental advocacy; one appointed by the
+950 Governor who shall be selected by a list of three offered by the Massachusetts Municipal
+951 Association; the administrator of MassWorks as provided for in Section 63 of Chapter 23A or
+952 their designee; the President of MassDevelopment or their designee; the Secretary of Labor and
+953 Workforce Development or their designee; the President of the Commonwealth Corporation or
+954 their designee; the Secretary of Education or their designee; and the Executive Director of the
+955 Massachusetts Water Resources Authority or their designee.
+956 Each member of the advisory board shall serve a term of two years, provided any non-ex-
+957 officio member may be removed for any reason or no reason at all by their appointing authority,
+958 and any member whose term has expired shall be eligible for reappointment without limit.
+959 Members of the advisory board shall serve without compensation, provided, however,
+960 they may seek reimbursement for expenses incurred pursuant to board work.
+961 The Executive Office of Economic Development shall be responsible for facilitating the
+962 clerical, administrative and reimbursement needs of the Commission.
+44 of 56
+
+963 Service on the advisory board shall not be construed as employment by Massachusetts
+964 Quantum Center or the Commonwealth, and no benefits or pension eligibility shall issue as a
+965 result of such service.
+966 The advisory board shall meet at least four times each government fiscal year. The
+967 advisory board may meet more frequently, and no limit shall be imposed, except one created by
+968 the council itself, on the ability of subdivisions of the council to meet. The advisory board shall
+969 provide sector specific insights, assist with program design and evaluation and enhance the
+970 networking capacity of the agency.
+971 The advisory board shall not be a state agency for the purposes of chapter 268A and shall
+972 not be subject to section 11A1/2 of chapter 30A or chapter 66.
+973 Section 11. The center shall develop a comprehensive, internet-based quantum sciences
+974 sector database for the organization of all relevant information, as determined by the center,
+975 related to the quantum sciences sector in the commonwealth. Access to said database shall be
+976 limited at the discretion of the center's president. Any documentary materials or data received by
+977 the center from any entity, private or public, for the express purpose of adding information to the
+978 quantum science database shall be exempt from section 10 of chapter 66 and the board may hold
+979 any discussion or consideration of database materials in executive session closed to the public,
+980 notwithstanding the provisions of section 11A1/2 of chapter 30A, but the purpose of any such
+981 executive session shall be set forth in the official minutes of the center and business not directly
+982 related to such purpose shall not be transacted nor shall any vote be taken during such executive
+983 session.
+45 of 56
+
+984 Section 12. (a) The exercise of the powers granted by this chapter shall be for the benefit
+985 of the people of the commonwealth and for the improvement of their living conditions; and as
+986 the operation of the center shall constitute the performance of essential governmental functions,
+987 the center shall not be required to pay any taxes or assessments, except as otherwise provided by
+988 this chapter, and the notes or bonds issued under this chapter, their transfer and the income
+989 therefrom, including any profit made on the sale thereof, at all times shall be free from taxation
+990 by and within the commonwealth.
+991 (b) The lands and tangible personal property of the center shall be deemed to be public
+992 property used for essential public and governmental purposes and shall be exempt from taxation
+993 and from betterments and special assessments.
+994 Section 13. The center shall annually complete a detailed report setting forth its
+995 operations and accomplishments; its receipts and expenditures during such fiscal year; its assets
+996 and liabilities at the end of its fiscal year; the anticipated return on investment to the
+997 commonwealth from the investment of funds administered by the center during such fiscal year;
+998 a complete report detailing all companies classified as a certified quantum sciences company; a
+999 complete list of grants awarded by the center; a list of other funding activities; reports of patents
+1000 or products resulting from funded activities; the status of construction of any real estate project
+1001 resulting from certification, including whether construction is on-time and on-budget; and a
+1002 tracking of job creation as a result of funded projects. The center shall annually submit the report
+1003 to the governor, the secretary of administration and finance, the state comptroller and the clerks
+1004 of the house of representatives and senate, who shall forward the same to the house and senate
+1005 committee on ways and means and the joint committee on economic development and emerging
+46 of 56
+
+1006 technologies on or before October 1. The report shall be posted on the internet in a manner
+1007 accessible to the public.
+1008 Section 14. (1)(a) Notwithstanding the provisions of chapter 32, or of any general or
+1009 special law to the contrary, the center shall establish 1 or more optional retirement programs that
+1010 qualify under section 401, 408 or 457 of the Internal Revenue Code, as may be amended from
+1011 time to time, or contracts providing retirement and death benefits may be purchased by
+1012 employees of the center who elect to participate in the program. The benefits offered to
+1013 employees of the center in such optional retirement program shall be provided through such
+1014 custodial accounts or individual or group annuity contracts, which may be fixed or variable in
+1015 nature, or a combination thereof; provided, that at all times, those annuity contracts issued by
+1016 licensed insurers under the optional retirement program shall provide the minimum values and
+1017 guarantees required by the laws governing such contracts in the commonwealth; and provided,
+1018 further, that the benefits shall be payable only to employees of the center in the program or their
+1019 beneficiaries, and such benefits shall be paid only by the selected providers in accordance with
+1020 the terms of the custodial accounts, annuity contracts or certificates providing coverage to the
+1021 employee of the center; and provided, further, that such optional retirement program shall not
+1022 allow an employee of the center to withdraw contributions while an active participant in the
+1023 center's optional retirement program.
+1024 (b) The center shall select at least 2 but no more than 4 providers for the optional
+1025 retirement program and enter into contracts with them in accordance with the laws governing the
+1026 procurement of services for executive agencies of the commonwealth, provided, further, that the
+1027 selected providers shall be authorized to conduct business within the commonwealth, and each
+1028 and every provider or issuer of annuity contracts under the optional retirement program which is
+47 of 56
+
+1029 a quantum insurance company shall hold a certificate of authority to do quantum insurance
+1030 business in the commonwealth, maintain the minimum required capital and surplus required for
+1031 quantum insurance companies under the laws of the commonwealth, be a member of the
+1032 commonwealth's quantum association and be a member of the quantum associations in any and
+1033 all jurisdictions where required by law with similar retirement programs funded in whole or in
+1034 part through the provider's annuities in which employees of the center participating in the
+1035 optional retirement program may participate upon transfer of employment; and provided, further,
+1036 that said board shall coordinate the transfer of funds and information between payroll centers, the
+1037 selected providers and employees of the center participating in the plan.
+1038 (2)(a) Participation in the optional retirement program provided by this section shall be
+1039 limited to employees of the center who are otherwise eligible for membership in the state
+1040 employees' retirement system as established under the provisions of chapter 32.
+1041 (b) Elections to participate in the optional retirement program shall be made as follows:
+1042 (i) Any eligible employee of the center who is initially appointed on or after the effective
+1043 date of the optional retirement program may elect in writing to participate in the optional
+1044 retirement program within 90 days of the effective date of the appointment. Any such election
+1045 shall be effective as of the effective date of appointment. If an eligible employee of the center
+1046 fails to make an election as provided in this paragraph, such employee shall become a member of
+1047 the state employees' retirement system established under the provisions of said chapter 32.
+1048 (ii) Any eligible employee of the center who is a member of any retirement system
+1049 established by the provisions of said chapter 32 on the effective date of the optional retirement
+1050 program but who has less than 10 years of creditable service on the effective date of the optional
+48 of 56
+
+1051 retirement program may elect in writing to participate in the optional retirement program within
+1052 90 days after the effective date of the optional retirement program. Any such election shall
+1053 become effective on the first day of the next pay period following such election, and shall
+1054 constitute a waiver of all retirement benefits to which the individual may be entitled as an
+1055 employee under any retirement system established under the provisions of said chapter 32.
+1056 (iii) Any employee of the center who is a member of any retirement system established
+1057 by the provisions of said chapter 32 but who has less than 10 years of creditable service on the
+1058 date such employee becomes eligible to participate in the optional retirement program may elect
+1059 in writing to participate in such optional retirement program within 90 days of the date said
+1060 employee becomes eligible. Any such election shall become effective on the first day of the next
+1061 pay period following such election, and shall constitute a waiver of all retirement benefits to
+1062 which the individual may be entitled as an employee under any retirement system established by
+1063 the provisions of said chapter 32.
+1064 (iv) Any eligible employee of the center electing to participate in the optional retirement
+1065 program shall be ineligible for membership in the state employees' retirement system while he
+1066 remains continuously employed by the center; provided, that the election by an eligible employee
+1067 to participate in the optional retirement program shall be irrevocable while the employee
+1068 continues to meet the eligibility requirements; provided, however, that if an employee becomes
+1069 ineligible to continue in the optional retirement program, the employee shall thereafter
+1070 participate in the state employees' retirement system established in accordance with the
+1071 provisions of said chapter 32.
+49 of 56
+
+1072 (3)(a) Any eligible employee of the center electing to participate in the optional
+1073 retirement program shall not be required to make contributions to the state employee's retirement
+1074 system but shall contribute to the optional retirement program an amount equal to the
+1075 contribution which would have been required had such employee been a member of the state
+1076 employees' retirement system.
+1077 (b) For each eligible employee of the center electing to participate in the optional
+1078 retirement program, the center shall contribute an amount equal to 5 per cent of each employee's
+1079 regular compensation, as defined in section 1 of chapter 32, to the optional retirement program
+1080 and a plan established to provide quantum and disability benefits to all participants in the
+1081 program; provided, however, that not more than 1 per cent of said contribution shall be made to
+1082 the plan established to provide said quantum and disability benefits; provided, further, that the
+1083 balance of said contribution shall be remitted to the appropriate provider for application to the
+1084 participating employee's contract or custodial account, less any monthly fees established by the
+1085 board in order to cover the reasonably necessary direct costs incurred by the board in
+1086 establishing and administering the plan.
+1087 (c) If any eligible employee of the center is a member of any retirement system
+1088 established by the provisions of said chapter 32 at the time such employee elects to participate in
+1089 the optional retirement program, the employee may direct that the amount of the accumulated
+1090 total deductions, and any interest to which the employee would be entitled under said chapter 32
+1091 if the employee withdrew from the system, credited to such employee's account in such
+1092 retirement system be transferred directly to such employee's account in the optional retirement
+1093 program. Any such transfer shall be made in the form of a direct trustee-to-trustee transfer in
+1094 compliance with the requirements of subchapter D of chapter 1 of the Internal Revenue Code.
+50 of 56
+
+1095 (d) The funds accumulated under the optional retirement program shall be exempt from
+1096 taxation. The rights of a participant to a custodial account, an annuity, the annuity contracts or
+1097 certificates providing coverage to participants, and all right in and to the funds accumulated
+1098 under the custodial accounts, annuity contracts or certificates shall be exempt from taxation,
+1099 including income taxes levied under the provisions of said chapter 62. No assignment of any
+1100 right in or to any funds or annuities under the optional retirement program shall be valid except
+1101 such assignment as may be made for the purpose of making restitution in the case of dereliction
+1102 from duty by any participant as established in section 15 of said chapter 32 if such assignment
+1103 does not violate the restrictions of the Internal Revenue Code; provided that nothing in this
+1104 section shall prevent a participant's custodial account or annuity from being attached, taken on
+1105 execution, assigned, or subject to other process to satisfy a support order under chapters 208,
+1106 209, or 273 if such order constitutes a qualified domestic relations order under the terms of the
+1107 Internal Revenue Code.
+1108 (e) Any eligible employee of the center enrolled in the optional retirement program who
+1109 retires and wishes to retain his group insurance coverage as provided in chapter 32A, or retires
+1110 and wishes to enroll in group insurance coverage pursuant to said chapter 32A, may do so in the
+1111 same manner, and subject to the same limitations and requirements as an active employee
+1112 member of the state employees' retirement system. Any eligible employee of the center enrolled
+1113 in the optional retirement program who retains or enrolls in the group insurance coverage upon
+1114 retirement shall be deemed to have authorized his optional retirement program plan provider to
+1115 deduct from the retired employees account, on a monthly basis, and forward to the group
+1116 insurance commission, an amount equal to the retired employee's share of the premium as set by
+1117 said chapter 32A and each annual appropriation act. Each optional retirement program plan
+51 of 56
+
+1118 provider shall be required to deduct and forward said premium amounts, as determined by the
+1119 group insurance commission, to the group insurance commission in advance of the month for
+1120 which the premium is due and in a manner as may be prescribed by the group insurance
+1121 commission. For group insurance commission purposes employees who were members of the
+1122 state retirement system when they became eligible to participate in the optional retirement
+1123 program, and who then enrolled in the optional retirement program, may add their time in the
+1124 state retirement system to their time in the optional retirement program in determining years of
+1125 creditable service.
+1126 (f) No contribution shall be made under any provision of this section in excess of, or on
+1127 the basis of compensation in excess of, any limitation that may be imposed pursuant to federal
+1128 law including, but not limited to, the limitations in 26 U.S.C. sections 401(a)(17), 402(g), 403(b)
+1129 and 415, to the extent such limitations apply. The center may adopt rules and regulations as it
+1130 deems necessary to carry out the purposes of this section including, but not limited to, rules or
+1131 regulations establishing such limitations only when it determines that such limitations are
+1132 necessary to comply with applicable provisions of the Internal Revenue Code.
+1133 Section 15. The center shall be subject to section 16G of chapter 6A and section 56 of
+1134 chapter 23A.
+1135 SECTION 2. The Massachusetts Technology Collaborative shall cause to be conducted a
+1136 study of the current status of quantum science industries in the Commonwealth. Said study shall
+1137 provide the Commissioners established in section 2 of Chapter 23O with clear analysis regarding
+1138 the major stakeholders in industry, government and academia, the approach of other states and
+1139 nations, areas for collaboration, growth and development. The Massachusetts Technology
+52 of 56
+
+1140 Collaborative shall cause said study to be filed with the governor and the Clerks of the House
+1141 and Senate.
+1142 SECTION 3. Section 70 of Chapter 23A of the General Laws as appearing in the Official
+1143 2022 Edition, as amended by Chapter 238 of the Acts of 2024 is hereby further amended by
+1144 striking said section and inserting therof:-
+1145 Section 70. (a) The terms defined in paragraph (zz) of section 6 of chapter 64H shall
+1146 apply to this section unless the context clearly requires otherwise.
+1147 (b) The secretary of the executive office of economic development, in consultation with
+1148 the commissioner of revenue, shall determine qualifications for qualified quantum corporations
+1149 and data centers, to qualify for a sales and use tax exemption pursuant to paragraph (zz) of
+1150 section 6 of chapter 64H.
+1151 (c) To apply for the sales and use tax exemption pursuant to paragraph (zz) of section 6
+1152 of chapter 64H, the owner or operator of a data center or quantum corporation shall submit to the
+1153 secretary of economic development an application on a form prescribed by the commissioner of
+1154 revenue that shall include:
+1155 (i) the name, address and telephone number of the owner or operator;
+1156 (ii) the address of the site where the qualified data center or quantum corporation is or
+1157 will be located, including, but not limited to, information sufficient to identify the facility
+1158 composing the data center or quantum corporation facility, and the expected commercial
+1159 operations date of each data center or quantum corporation building that will be located at the
+1160 data center or quantum corporation facility;
+53 of 56
+
+1161 (iii) the anticipated aggregate square feet of the qualified data center or quantum
+1162 corporation for which the sales and use tax exemption is being sought; provided, that in
+1163 determining whether the facility has the required square footage, the total square footage of the
+1164 data center or quantum corporation facility shall include the space that houses the computer
+1165 information technology equipment, quantum equipment, networking, data processing or data
+1166 storage, including, but not limited to, servers and routers and the following spaces that support
+1167 the operation of enterprise information technology equipment including, but not limited to, office
+1168 space, meeting space, loading dock space and mechanical and other support facilities;
+1169 (iv) the anticipated investment associated with the qualified data center or quantum
+1170 corporation for which the sales and use tax exemption is being sought;
+1171 (v) the anticipated number of jobs that the data center or quantum corporation will create
+1172 and maintain within 1 year, 5 years and 10 years of operations after certification; and
+1173 (vi) an affirmation, signed by an authorized executive representing the owner or operator,
+1174 that the data center or quantum corporation is expected to satisfy the certification requirements in
+1175 this section as a qualified data center or quantum corporation.
+1176 (d)(1) Within 60 days after receiving a completed application, the secretary of economic
+1177 development shall review the application submitted by the owner or operator of a data center or
+1178 quantum corporation and certify the data center or quantum corporation as a certified qualified
+1179 data center or quantum corporation if the data center meets all requirements of this section.
+1180 (2) The secretary shall issue a written certification that the data center or quantum
+1181 corporation qualifies for the sales and use tax exemption or provide written reasons for its denial
+1182 and an opportunity for the applicant to cure any deficiencies.
+54 of 56
+
+1183 (3) Failure to approve or deny the application within 60 days after the date the owner or
+1184 operator submits the application to the secretary shall constitute approval of the qualified data
+1185 center or quantum corporation and the secretary shall issue written certification to the owner or
+1186 operator within 14 days.
+1187 (4) The certification shall provide the following information related to each data center or
+1188 quantum corporation:
+1189 (i) the effective date of the certification;
+1190 (ii) the total square footage of the qualified data center or quantum corporation;
+1191 (iii) the total amount of land costs, construction costs, refurbishment costs and eligible
+1192 data center or quantum equipment; and
+1193 (iv) the beginning and ending dates of the sales and use tax exemption for the first data
+1194 center or quantum building, which shall begin on the effective date of the certification and be
+1195 valid for qualification period, and for a qualified data center or quantum corporation that is
+1196 comprised of more than 1 data center building, the expected commercial operations dates and
+1197 expected qualification periods for subsequent data center buildings expected to be located at the
+1198 qualified data center or quantum corporation.
+1199 (5) The secretary shall send a copy of the certification to the commissioner of revenue.
+1200 (e) The effective date of the certification shall be the date on which the application was
+1201 submitted to the secretary or a prospective date stated in the application that does not exceed 5
+1202 years after the date on which the application was submitted; provided, that the certification shall
+1203 be valid through the qualification period.
+55 of 56
+
+1204 (f) The secretary and commissioner shall review the certification after 10 years.
+1205 (g)(1) For the purposes of this section, the term “material noncompliance” shall mean the
+1206 failure of a qualified data center or quantum corporation to substantially achieve the investment
+1207 requirements and minimum number of jobs pursuant to paragraph (zz) of section 6 of chapter
+1208 64H.
+1209 (2) The secretary may revoke the certification of a qualified data center or quantum
+1210 corporation after an investigation by the executive office of economic development, in
+1211 consultation with the department of revenue, and a written determination that the qualified data
+1212 center or quantum corporation is in material noncompliance with this section, paragraph (zz) of
+1213 section 6 of chapter 64H or the certification.
+1214 (3) Revocation shall take effect on the first day of the tax year in which the executive
+1215 office of economic development determines the qualified data center to be in material
+1216 noncompliance. The commissioner of revenue shall, as of the effective date of the revocation,
+1217 disallow any credits, exemptions or other tax benefits allowed by the original certification of tax
+1218 benefits pursuant to paragraph (zz) of section 6 of chapter 64H.
+1219 (h) Each qualified data center or quantum corporation shall file a report with the secretary
+1220 and commissioner prior to the end of the tenth year of the qualification period detailing whether
+1221 it has met the specific investment requirements pursuant to paragraph (zz) of section 6 of chapter
+1222 64H.
+1223 (i) The secretary, in consultation with the commissioner of revenue, shall promulgate
+1224 regulations and shall issue instructions or forms necessary for the implementation of this section.
+56 of 56

@@ -1,0 +1,309 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+SENATE . . . . . . . . . . . . . . No. 2780
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+SENATE, December 8, 2025.
+The committee on Telecommunications, Utilities and Energy to whom was referred the
+petition (accompanied by bill, Senate, No. 2269) of James B. Eldridge, Jason M. Lewis and Sal
+N. DiDomenico for legislation to implement the Smart Residential Solar Permitting Platform to
+issue permits instantly and issue permit revisions instantly for residential solar photovoltaic
+systems, report the accompanying bill (Senate, No. 2780).
+For the committee,
+Michael J. Barrett
+
+FILED ON: 11/25/2025
+SENATE . . . . . . . . . . . . . . No. 2780
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act facilitating distributed energy resources in the commonwealth.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Chapter 25A of the General Laws is hereby amended by striking out
+2 section 14 in its entirety and replacing it with the following section:-
+3 Section 14. (a) A state agency, building authority, local governmental body or the
+4 judiciary may contract for energy conservation, building decarbonization and energy efficiency
+5 projects that have a total project cost of $300,000 or less, directly and without further
+6 solicitation, with electric and gas utilities, their subcontractors, contractors certified by the
+7 division of capital asset management and maintenance, and other providers of energy
+8 conservation, building decarbonization and energy efficiency services authorized under sections
+9 19 and 21 of chapter 25 and section 11G. For the purposes of this section, "energy conservation,
+10 building decarbonization and energy efficiency projects'' shall mean projects to promote energy
+11 conservation, building decarbonization and energy efficiency, including, but not limited to: (i)
+12 energy conserving modification to windows and doors; (ii) caulking and weatherstripping; (iii)
+13 insulation; (iv) automatic energy control systems; (v) hot water systems; (vi) equipment required
+14 to operate variable steam, hydraulic and ventilating systems; (vii) plant and distribution system
+1 of 13
+
+15 modifications; (viii) devices for modifying fuel openings and thermal conduits; (ix) electrical or
+16 mechanical motor or furnace ignition systems; (x) utility plant system conversions; (xi)
+17 replacement or modification of lighting fixtures; (xii) energy recovery systems; (xiii) on-site
+18 electrical generation equipment using new renewable energy generating sources as defined in
+19 section 11F; (xiv) decarbonization activities; and (xv) cogeneration systems.
+20 (b) For purposes of this section, "total project cost'' shall mean all construction costs of an
+21 energy conservation project applicable to a discrete building or property, whether borne by the
+22 utility, agency, authority, body or the judiciary including, without limitation, the costs associated
+23 with equipment purchase and installation of such equipment. Ancillary services provided at no
+24 cost by utilities, such as auditing and design, shall not be considered part of project cost.
+25 (c) A state agency, building authority, local governmental body or the judiciary may pay
+26 for such energy conservation, building decarbonization and energy efficiency projects through
+27 additions to their monthly utility bills.
+28 (d) Sections 44A to 44M, inclusive, of chapter 149 and section 39M of chapter 30 shall
+29 not apply to contracts entered into under this section.
+30 (e) Notwithstanding subsection (a), the division of capital asset management and
+31 maintenance may contract for energy conservation, building decarbonization and energy
+32 efficiency projects that have a total project cost of not more than $500,000, directly and without
+33 further solicitation, with electric and gas utilities, their subcontractors, contractors certified by
+34 said division, and other providers of such energy conservation, building decarbonization and
+35 energy efficiency projects authorized under section 11G and sections 19 and 21 of chapter 25.
+2 of 13
+
+36 SECTION 2. Chapter 25A of the General Laws is hereby amended by inserting at the
+37 end thereof the following new section:
+38 Section 25(a): As used in this section, the following words shall have the following
+39 meanings unless the context clearly requires otherwise:
+40 “Commissioner”, the commissioner of the Department of Energy Resources.
+41 "Commonwealth smart solar permitting platform", software, or a combination of
+42 software, that, at a minimum, and consistent with chapter 143 of the General Laws except as
+43 otherwise provided in this section; chapter 40C of the General Laws, as amended by sections 38
+44 and 39 of chapter 239 of the Acts of 2024; section 3 of chapter 470 of the Acts of 1973, as
+45 amended by sections 92 and 93 of chapter 239 of the Acts of 2024, and the other laws of the
+46 commonwealth, allows contractors and other qualified parties to submit, via electronic means
+47 and without the need for follow-up manual review, applications to install or construct a
+48 residential solar energy system; automatically performs robust code compliance checks and
+49 reviews an application to install or construct such a system; generates an approval via electronic
+50 means, without the need for follow-up manual review, to a code-compliant application and issues
+51 a permit or permit revision; accepts online payments of fees or charges if fees or charges are
+52 levied; and issues a permit or permit revision upon receipt of payment.
+53 "Department", the Department of Energy Resources.
+54 “Form and format”, the arrangement, organization, configuration, structure, or style of, or
+55 methods of delivery of, required information or the substantive equivalent of required
+56 information, except that “form and format” shall not mean the altering of the substance of
+57 information or the addition or omission of information.
+3 of 13
+
+58 (b) The department shall procure, implement, administer and make available a
+59 commonwealth smart solar permitting platform that, at a minimum:
+60 (i) publishes, on a publicly accessible internet website, all permitting documentation and
+61 forms required to construct or install a residential solar energy system in the commonwealth;
+62 (ii) provides customer support and training to assist users to navigate the commonwealth
+63 solar permitting platform;
+64 (iii) allows contractors and other qualified parties to submit, via electronic means 24
+65 hours a day, seven days a week except when the permitting platform is down for an upgrade or
+66 maintenance, applications to install or construct a residential solar energy system within the
+67 commonwealth;
+68 (iv) automatically performs robust code compliance checks and reviews applications to
+69 install or construct residential solar energy systems up to the maximum capacity allowed by a
+70 200-amp main service disconnect providing power to a detached one- or two-family dwelling,
+71 including but not limited to a determination of whether an application aligns with the
+72 requirements of chapter 40C of the General Laws, as amended by sections 38 and 39 of chapter
+73 239 of the Acts of 2024; section 3 of chapter 470 of the Acts of 1973, as amended by sections 92
+74 and 93 of chapter 239 of the Acts of 2024; chapter 143 of the General Laws other than the
+75 second paragraph of section 98 of chapter 143, which shall not apply to this section; and other
+76 laws of the commonwealth;
+77 (v) generates an approval via electronic means, without the need for follow-up manual
+78 review, to a code-compliant application and issues a permit or permit revision;
+4 of 13
+
+79 (vi) produces construction documents to be used in the inspection of the residential solar
+80 energy system and for recordkeeping purposes;
+81 (vii) generates an inspection checklist to streamline, and improve the quality and
+82 thoroughness of, the final inspection;
+83 (viii) is capable of processing permit applications for solar energy systems and associated
+84 equipment including, but not necessarily limited to, photovoltaic panels, energy storage systems,
+85 main electrical panel upgrades, and main breaker derates for detached one- and two-family
+86 dwellings; and
+87 (ix) is capable of processing, at a minimum, a substantial majority of permit applications
+88 for such systems in a substantial majority of jurisdictions in the commonwealth.
+89 (c) The department shall fully implement a commonwealth smart solar permitting
+90 platform and make it available within 12 months of the effective date of this section.
+91 (d) The department shall provide access to, and facilitate use of, the commonwealth smart
+92 solar permitting platform to municipalities at no charge. For use of the commonwealth platform,
+93 the department may charge a reasonable fee or charge to contractors, providers of plan reviews
+94 and inspection services, and other professionals engaged in the installation or construction of
+95 residential solar energy systems.
+96 (e) Within 18 months of the effective date of this section, a municipality shall allow for
+97 the submission of applications to construct a residential solar energy system either through the
+98 commonwealth smart solar permitting platform or through an alternative automated solar
+99 permitting platform that generates an approval via electronic means, without the need for follow-
+5 of 13
+
+100 up manual review, to a code-compliant application, issues a permit or permit revision, and
+101 otherwise satisfies the requirements set forth in paragraphs (b) and (d) of this section in a manner
+102 substantially equivalent to, or better than, that of the commonwealth platform; provided, that
+103 such an alternative platform shall not require a user to submit documentation other than what is
+104 required by the commonwealth platform,
+105 (f) A municipality proposing less than full compliance with subsection (e) of this section
+106 shall, within 18 months of the effective date of this section, provide the department a detailed
+107 analysis demonstrating why adopting neither the commonwealth platform nor an alternative
+108 platform is feasible given the conditions and timeline required in this section and shall propose a
+109 secondary alternative method that, within 24 months of the effective date of this section, allows
+110 contractors and other qualified parties to submit, via electronic means, applications to install or
+111 construct a residential solar energy system; automatically performs robust code compliance
+112 checks and reviews an application to install or construct such a system; generates an approval via
+113 electronic means, without the need for follow-up manual review, to a code-compliant application
+114 and issues a permit or permit revision; accepts online payments of fees or charges if fees or
+115 charges are levied; and issues a permit or permit revision upon receipt of payment.
+116 (g) A municipality that allows for the submission of residential solar energy system
+117 applications through the commonwealth smart solar permitting platform or through an alternative
+118 or secondary alternative platform may charge a reasonable fee or charge to contractors, providers
+119 of plan reviews and inspection services, and other professionals engaged in the installation or
+120 construction of residential solar energy systems.
+6 of 13
+
+121 (h) A municipality that implements an alternative or secondary alternative automated
+122 solar permitting platform shall submit a compliance report to the department within 60 days of
+123 the municipality’s implementation of the alternative or secondary alternative platform. The
+124 department shall establish guidelines for preparation and submission of the compliance report,
+125 which report shall include, at a minimum, (i) the date the alternative or secondary alternative
+126 system was made available to residential end users, to contractors engaged in the installation of
+127 residential solar energy systems, and to providers of plan reviews and inspection services; (ii) the
+128 software used by the alternative or secondary alternative system; (iii) clear and convincing
+129 documentation that the alternative or secondary alternative performs the functions set forth in
+130 subsections (b) and (d) of this section in a manner and on a schedule substantially equivalent to,
+131 or better than, that of the commonwealth platform.
+132 (i) If the department determines that a compliance report submitted pursuant to paragraph
+133 (h) of this section is insufficient to verify whether the platform satisfies the requirements set
+134 forth in paragraphs (b) and (d) of this section in a manner substantially equivalent to, or better
+135 than, that of the commonwealth platform, the municipality shall grant the department access to
+136 the alternative or secondary alternative platform. The department may take further action to
+137 determine whether the platform satisfies the requirements set forth in paragraphs (b) and (d) of
+138 this section in a manner substantially equivalent to, or better than, that of the commonwealth
+139 platform; may, consistent with state law, make its findings publicly available; and may, in the
+140 event that it determines that the platform is not satisfactory, take action to encourage and secure
+141 compliance with paragraphs (b), (d) and (h) of this section and authorize the appropriate parties
+142 in the municipality’s jurisdiction to utilize the commonwealth smart solar permitting platform.
+7 of 13
+
+143 (j) A municipality that implements an alternative or secondary alternative automated
+144 solar permitting platform pursuant to this section shall, commencing with April 1, 2028, submit
+145 an annual report to the department. The department may establish guidelines for the annual
+146 reports required under this paragraph, which report shall include, at a minimum: (i) the number
+147 of permits approved by the municipality for residential solar energy systems through the
+148 alternative or secondary alternative platform and the relevant characteristics of those systems; (ii)
+149 the number of permits approved by the municipality for such systems through means other than
+150 the alternative or secondary alternative platform and the relevant characteristics of those systems;
+151 (iii) documentation demonstrating that the alternative or secondary alternative platform continues
+152 to satisfy the requirements set forth in paragraphs (b), (c) and (d) of this section in a manner
+153 substantially equivalent to, or better than, that of the commonwealth platform.
+154 (k) If the department determines that the annual report submitted pursuant to paragraph
+155 (k) of this section is insufficient to verify that the alternative or secondary alternative automated
+156 solar permitting platform meets the requirements set forth in paragraphs (b) and (d) of this
+157 section in a manner substantially equivalent to, or better than, that of the commonwealth
+158 platform, the municipality shall provide the department, at the department’s request, access to the
+159 platform. The department may take further action to determine whether the platform satisfies the
+160 requirements set forth in paragraphs (b) and (d) of this section in a manner substantially
+161 equivalent to, or better than, that of the commonwealth platform; may, consistent with state law,
+162 make its findings publicly available; and may, in the event that it determines that the platform is
+163 not satisfactory, take action to encourage and secure compliance with paragraphs (b), (d) and (j)
+164 of this section and authorize the appropriate parties in the municipality’s jurisdiction to utilize
+165 the commonwealth smart solar permitting platform.
+8 of 13
+
+166 (l) The department and municipalities shall authorize electronic signatures, stamps, seals,
+167 and other certifications and documents as appropriate in order to enable the commonwealth
+168 smart solar permitting platform or an alternative or secondary alternative automated solar
+169 permitting platform to accept the permit application and issue a permit.
+170 (m) To defray the cost of procuring, implementing, administering and making available
+171 the commonwealth smart solar permitting platform, the department may adopt, amend, and
+172 repeal rules and regulations providing for the charging of, and setting the amounts of, solar
+173 permit fees to be collected by the Department, municipality, or third party.
+174 (n) To satisfy the requirements of this section, the department may, at its discretion,
+175 procure goods and services by means of an advertised competitive bidding process that utilizes a
+176 request for proposals or request for qualifications.
+177 (o) The commissioner shall provide training opportunities at no charge on the use of the
+178 commonwealth smart solar permitting platform to contractors, providers of plan reviews and
+179 inspection services, and other professionals engaged in the installation or construction of
+180 residential solar energy systems.
+181 (p) The commissioner may, in accordance with chapter 30A of the General Laws, the
+182 State Administrative Procedure Act, adopt rules and regulations governing the form and format
+183 of applications for permits, approval documents, specifications and other information exchanged
+184 through the commonwealth smart solar permitting platform or any alternative or secondary
+185 alternative platform.
+186 (q) Notwithstanding any law, rule or regulation to the contrary, the commissioner shall
+187 have the authority to waive requirements related to signatures, stamps, seals, certifications, or
+9 of 13
+
+188 notarizations, whether imposed by statute or by state or local regulation and whether imposed by
+189 the department or another department or agency, in order to enable the commonwealth smart
+190 solar permitting platform or any alternative or secondary alternative platform to accept permit
+191 applications and issue permits.
+192 (r) A person exchanging information through either the commonwealth smart solar
+193 permitting platform or an alternative or secondary alternative automated solar permitting
+194 platform in a form and format acceptable to the department shall not be subject to a licensing
+195 sanction, civil penalty, fine, permit disapproval, revocation, or other sanction for failure to
+196 comply with a form or format requirement imposed otherwise by statute, ordinance, or rule that
+197 requires submission of the information in physical form, including but not limited to any
+198 requirement that the information be in a particular form or of a particular size, be submitted with
+199 multiple copies, be physically attached to another document, be an original document, or be
+200 signed, stamped, sealed, certified, or notarized.
+201 (s) Neither a public entity nor a public employee shall be held liable under for injury
+202 caused by release of a permit through the commonwealth smart solar permitting platform or any
+203 alternative or secondary alternative platform.
+204 SECTION 3. Section 6 of chapter 62 of the General Laws, as appearing in the 2022
+205 Official Edition, is hereby amended by striking out subsection (d) and inserting in place thereof
+206 the following subsection:-
+207 (d) any owner or tenant of residential property located in the commonwealth who is not a
+208 dependent of another taxpayer and who occupies said property as his principal residence, shall be
+209 allowed a credit equal to 15 per cent of the net expenditure for a renewable energy source
+10 of 13
+
+210 property or $2,500, whichever is lesser; provided, however, that in the case of a newly
+211 constructed residence the credit shall be available to the original owner/occupant. Any taxpayer
+212 entitled to this credit for any taxable year, the amount of which exceeds his total tax due for the
+213 then current taxable year, may carry over the excess amount, as reduced from year to year, and
+214 apply it to his tax liability for any one or more of the next succeeding three taxable years;
+215 provided, however, that in no taxable year may the amount of the credit allowed exceed the total
+216 tax due of the taxpayer for the relevant taxable year. For taxable years beginning on or after
+217 January first, two thousand twenty-seven, if the amount of the credit allowable under this
+218 subsection shall exceed the taxpayer's tax liability for such year, and the taxpayer meets the
+219 definition of low to moderate income, as defined in section 38d of chapter 121b in the general
+220 laws, or resides in an environmental justice population, as defined in section 62 of chapter 30 of
+221 the general laws, the excess shall be treated as an overpayment of tax to be credited or refunded,
+222 provided, however, that no interest shall be paid thereon. Joint owners of a residential property
+223 shall share any credit available to the property under this subsection in the same proportion as
+224 their ownership interest.
+225 As used in this section, the following words shall have the following meanings:
+226 "Renewable energy source property'', property, including materials and component parts
+227 thereof, separately purchased and assembled by such residential property owner;
+228 (A) which, when installed in connection with a dwelling, transmits or uses: (1) solar
+229 energy or any other form of renewable energy which the commissioner may specify by
+230 regulation, for the purpose of heating or cooling such dwelling or providing hot water for use
+11 of 13
+
+231 within such dwelling, or which produces electricity for such purposes, or (2) wind energy for
+232 nonbusiness residential purposes;
+233 (B) the original use of which begins with the taxpayer;
+234 (C) which can reasonably be expected to remain in operation for at least five years; and
+235 (D) which meets performance and quality standards, if any, that have been prescribed by
+236 the commissioner by regulation; and are in effect at the time of the acquisition of the property.
+237 "Net expenditure'', the total of the purchase price for any renewable energy source
+238 property, plus installation cost, less any credits received pursuant to the Internal Revenue Code
+239 and less grants or rebates received from the United States Department of Housing and Urban
+240 Development.
+241 SECTION 4. Subsection (f) of section 139 of chapter 164 of the General Laws, as
+242 appearing in the 2022 Official Edition, is hereby amended by striking out the words “The
+243 maximum amount of generating capacity eligible for net metering by a municipality or other
+244 governmental entity shall be 10 megawatts.”
+245 SECTION 5. Subsection (i) of section 139 of chapter 164 of the General Laws, as
+246 appearing in the 2022 Official Edition, is hereby amended by striking out the words “that are not
+247 net metering facilities of a municipality or other governmental entity under subsection (f)” both
+248 times they appear.
+249 SECTION 6. Subsection (l) of section 139 of chapter 164 of the General Laws, as
+250 appearing in the 2022 Official Edition, is hereby amended by inserting, in numbered item (ii),
+12 of 13
+
+251 after the words “chapter 40B,” the following words:- “or where the single parcel contains multi-
+252 family housing in a zoning district that is compliant with section 3A of Chapter 40A”.
+13 of 13

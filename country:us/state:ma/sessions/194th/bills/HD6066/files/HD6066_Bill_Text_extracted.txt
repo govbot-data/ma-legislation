@@ -1,0 +1,1140 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Crumbling Concrete Stakeholder Working
+Group Final Report
+March 31, 2026
+1
+
+Contents
+Acknowledgements and about the working group ......................................................... 4
+Working group membership ........................................................................................ 4
+Working group charge .............................................................................................. 5
+Timeline and methods ................................................................................................ 5
+Executive summary.................................................................................................... 6
+Understanding the challenge ...................................................................................... 8
+Why the private market cannot solve this problem alone ............................................... 9
+Insurance market limitations .................................................................................. 9
+Lending and mortgage constraints .......................................................................... 9
+Information and disclosure challenges .................................................................... 9
+Why state intervention is important ........................................................................... 10
+Protecting homeowners from catastrophic loss ..................................................... 10
+Protecting municipalities from loss of revenue ....................................................... 10
+Preserving housing stock ...................................................................................... 10
+Addressing a systemic construction issue ............................................................. 10
+What Massachusetts is doing today ........................................................................... 11
+Foundation testing program .................................................................................. 11
+Insurance protections .......................................................................................... 11
+Quarry testing regulations ..................................................................................... 12
+Inspection requirements ...................................................................................... 12
+Property tax abatement ........................................................................................ 12
+Previous study of the issue ................................................................................... 12
+Understanding Connecticut’s approach ..................................................................... 13
+Remediation options ................................................................................................ 14
+Massachusetts Foundations Solutions Indemnity Company (MFSIC) ....................... 15
+Massachusetts Concrete Foundation Replacement Program (MCFRP) .................... 18
+Financial sources for concrete remediation ........................................................... 20
+Lending options ....................................................................................................... 22
+2
+
+Supplemental loan program ................................................................................. 23
+Low-interest loan with monthly repayments ........................................................... 23
+Low-interest forgivable loan .................................................................................. 24
+Pyrrhotite prevention and further regulation .......................................................... 24
+Introduce continuing education requirements on pyrrhotite .................................... 25
+Incorporate MassDOT aggregate licensure standards into the state building code .... 26
+Require submission and retention of concrete batch tickets ................................... 28
+Launch a statewide public education campaign on pyrrhotite ................................. 29
+Encourage pyrrhotite testing for remediation eligibility ............................................ 29
+Conclusion ............................................................................................................ 30
+Appendix ................................................................................................................. 31
+Letter from concrete research and testing ............................................................. 31
+Creating the Massachusetts Crumbling Concrete Assistance Fund (CCAF) .............. 33
+3
+
+Acknowledgements and about the working group
+The Crumbling Concrete Stakeholder Working Group was established pursuant to Section
+105 of Chapter 9 of the Acts of 2025 to develop recommendations addressing the
+deterioration of residential foundations caused by the presence of pyrrhotite in concrete
+aggregate.
+The working group was convened by the Secretary of the Executive Office of Housing and
+Livable Communities (EOHLC) to evaluate the scope of the issue in Massachusetts and
+propose legislative, regulatory, and administrative strategies to support homeowners
+impacted by failing foundations.
+The working group includes 17 members representing a range of perspectives, including
+impacted homeowners and community advocates, relevant state agencies and regulators,
+members of the Massachusetts Legislature, and experts in insurance, mortgage lending,
+construction materials, and municipal administration.
+Working group membership
+Name Organization
+Ed Augustus (Chair) Executive Office of Housing and Livable Communities
+Jason Robertson Massachusetts Department of Transportation
+Ross Seavey Office of Consumer Affairs and Business Regulation
+Jackie Horigan Massachusetts Division of Insurance
+Kevin Cuff Massachusetts Division of Banks
+Lisa Sears Massachusetts Attorney General’s Office
+Ann Refolo Massachusetts Attorney General’s Office
+James Murphy Massachusetts House of Representatives
+Paul Feeney Massachusetts Senate
+John Marsi Massachusetts House of Representatives
+Peter Durant Massachusetts Senate
+Michelle Loglisci Massachusetts Residents Against Crumbling Foundations
+Karen Riani Massachusetts Residents Against Crumbling Foundations
+Craig Dauphinais Massachusetts Concrete and Aggregate Producers Association
+Andrew Golas Town of Charlton
+Christopher Stark Massachusetts and Rhode Island Insurance Federation
+Darryl Caffee Massachusetts Mortgage Bankers Association
+4
+
+Working group charge
+Section 105 of Chapter 9 of the Acts of 2025 directs the Secretary of Housing and Livable
+Communities to convene a stakeholder working group to make recommendations for
+regulatory and legislative changes necessary to address the deterioration of residential
+foundations caused by the presence of pyrrhotite. Specifically, the working group was
+tasked with examining:
+I. Which executive office, department, agency or bureau within an executive office, if
+any, is best equipped to administer a program to assist residential property owners
+impacted by the presence of pyrite or pyrrhotite or which executive office or
+department is best equipped to oversee a new agency or bureau;
+II. Relevant models to assist impacted homeowners including, but not limited to, a
+captive insurance company, a supplemental loan program, an interstate agreement
+with a captive insurance company with expertise in assessing residential property
+foundation claims, property tax abatement and waiving local and state permit fees;
+III. Models to assist impacted homeowners including, but not limited to:
+a. Insurance surcharges on certain homeowners’ insurance policies which
+shall not exceed $12 annually and when and on which policies the surcharge
+would apply; and
+b. Other sources of state and federal funding opportunities; and
+IV. Methods to improve consumer protection through means including disclosures,
+appointment of a homeowner advocate within a department, agency or bureau to
+assist impacted homeowners and consumer education.
+The working group is required to submit a report and recommendations to the Clerks of the
+Senate and House of Representatives, the Joint Committee on Environment and Natural
+Resources, the Joint Committee on Housing, and the House and Senate Committees on
+Ways and Means no later than March 31, 2026.i
+Timeline and methods
+The working group first convened on October 23, 2025, and met several times as a full body
+while also conducting more frequent discussions through three specialized subgroups.
+These subgroups were established to focus on key areas of policy development:
+• The remediation subgroup, which evaluated approaches to foundation
+replacement programs.
+5
+
+• The lending subgroup, which examined financing mechanisms and possible
+solutions to support affected homeowners.
+• The prevention subgroup, which explored regulatory and administrative reforms to
+prevent future occurrences of crumbling foundations.
+Members of the working group also engaged in several fact-finding efforts to better
+understand the scope and impact of the problem. These efforts included:
+• Touring the home of an impacted Massachusetts resident to observe firsthand the
+effects of pyrrhotite deterioration on residential foundations.
+• Consulting extensively with officials and program administrators from Connecticut,
+including representatives of the Crumbling Foundations Solutions Indemnity
+Company (CFSIC).
+• Reviewing the results of previous Massachusetts studies and the findings of the
+2019 Massachusetts crumbling concrete commission report.
+• Examining policy approaches implemented in Canada and other states for similar
+challenges.
+Through these meetings and consultations, the working group sought to understand both
+the technical causes of the problem and the range of policy tools available to address it.
+The recommendations contained in this report represent the consensus reached by the
+members of the Crumbling Concrete Stakeholder Working Group. They do not necessarily
+reflect the official positions of the Healey-Driscoll Administration, its constituent agencies,
+nor those of individual working group members. Rather, these are recommendations
+submitted to the Legislature by the working group as an independent advisory body for
+consideration and potential future action.
+Executive summary
+The deterioration of residential foundations caused by the presence of pyrrhotite presents
+a significant and growing challenge for homeowners, municipalities, and the
+Commonwealth of Massachusetts. This issue, which has been documented across at
+least 52 municipalities and likely impacts thousands of homes statewide, results in
+progressive and irreversible structural damage. Once deterioration begins, the only
+permanent solution is full foundation replacement, typically costing between $100,000
+and $250,000 per home. These costs, combined with substantial declines in property
+values and the lack of insurance coverage, create severe financial hardship for affected
+homeowners and broader fiscal risks for municipalities. Though the total number of
+6
+
+impacted homes is unknown, it is likely between 1,000 and 10,000 homes in
+Massachusetts.
+The working group finds that private markets are not equipped to address this problem.
+Homeowners insurance policies overwhelmingly exclude coverage for pyrrhotite-related
+damage and traditional lending mechanisms are constrained by declining property values
+and the inability to underwrite loans against compromised collateral. These structural
+limitations result in a situation where individual households bear disproportionate risk,
+while private actors lack the tools or incentives to provide comprehensive solutions.
+Given these conditions, the working group concludes that coordinated state intervention is
+critical. Without action, homeowners may face long-term housing instability,
+municipalities may experience erosion of their tax base, and the Commonwealth risks the
+loss of existing housing stock at a time of significant housing shortage. The issue also
+reflects a broader systemic failure in the construction materials supply chain, rather than
+isolated homeowner or contractor error, further underscoring the need for a collective
+response. Massachusetts has taken initial steps, including funding for foundation testing,
+insurance protections, aggregate testing requirements, and strengthened inspection
+rights, but these measures alone are insufficient to address the scale of the problem.
+To respond effectively, the final report recommends establishing a comprehensive
+remediation framework supported by a dedicated and sustained funding stream. The
+report outlines two primary programmatic approaches to remediation: a captive insurance
+program modeled after Connecticut’s existing program and a Massachusetts-based
+program administered by one of the quasi-governmental agencies like MassHousing,
+Massachusetts Housing Partnership, or Community Economic Development Assistance
+Corporation (CEDAC). In addition, the report outlines additional options to support
+homeowners including supplemental and low-interest loan programs.
+In terms of funding, the final report recommends funding levels of $20 million to $30
+million annually over a five-to-ten-year period, supported by a combination of potential
+revenue sources. This would enable substantial remediation efforts with the option for the
+legislature to extend or sunset the program as the extent of the need becomes clearer. In
+parallel, the report advances a series of prevention and consumer protection strategies,
+including enhanced professional education, improved material traceability, and expanded
+public awareness efforts, to reduce the likelihood of future occurrences.
+7
+
+Understanding the challenge
+Across parts of the Northeastern United States, certain residential foundations built since
+the 1980s were constructed using concrete aggregate containing the mineral pyrrhotite, an
+iron sulfide that can react with oxygen and water over time. When pyrrhotite is present in
+concrete aggregate, the mineral can oxidize and expand, gradually weakening the concrete
+and causing internal cracking. Over time, this chemical reaction leads to progressive
+structural deterioration of the foundation, often beginning with hairline cracks that expand
+into large horizontal or spider-web patterns throughout the basement walls.
+Unlike typical foundation settling or cracking, deterioration caused by pyrrhotite is
+irreversible. Once the reaction begins, the concrete will continue to degrade until the
+foundation is structurally compromised. The only permanent solution is complete
+replacement of the affected foundation. Foundation replacement requires lifting the
+home, removing the entire existing foundation, and constructing a new one. This process
+typically costs between $100,000 and $250,000 or more, placing it beyond the financial
+reach of most homeowners. Homeowners insurance policies exclude coverage for this
+type of damage because it is considered a material defect rather than a sudden or
+accidental event.
+The scope of the problem in Massachusetts remains uncertain. Detecting pyrrhotite
+requires core sampling, which can cost several thousand dollars, or an inspection by a
+trained inspector once significant cracking appears. Some homeowners may be reluctant
+to test their foundations because confirmation of pyrrhotite can significantly reduce
+property values and many homeowners still don’t know if this is a potential concern for
+them to consider. Nevertheless, known cases have been reported across multiple
+communities. Massachusetts Residents Against Crumbling Foundations has gathered
+reports from at least 52 municipalities in Massachusetts with one or more homes
+suspected or confirmed to contain pyrrhotite-affected foundations. Though the total
+number of impacted homes is unknown, it is likely between 1,000 and 10,000 homes in
+Massachusetts. Similar issues have been extensively documented in neighboring
+Connecticut, where 3,500-4,000 homes were affected and where the state ultimately
+implemented a comprehensive remediation program. Geologists have identified at least
+three other distinct sources of pyrrhotite that affect Massachusetts homes, in addition to
+the pyrrhotite source from Connecticut. A letter documenting all four sources is included
+in the appendix.
+8
+
+Why the private market cannot solve this problem alone
+The deterioration of residential foundations caused by pyrrhotite presents a unique
+challenge that traditional housing and insurance markets are not equipped to address.
+Several structural characteristics of the problem prevent private markets from providing
+adequate solutions for affected homeowners.
+Insurance market limitations
+Homeowners insurance companies usually do not cover damage caused by pyrrhotite-
+related deterioration. Insurers generally categorize the issue as a latent construction
+defect or material defect, rather than a sudden or accidental loss. As a result, claims for
+foundation failure due to pyrrhotite are typically denied under standard policy exclusions,
+which has been upheld by the Connecticut Supreme Court.ii
+Lending and mortgage constraints
+Homeowners with deteriorating foundations often face challenges with traditional
+mortgage and lending systems. While homeowners are technically eligible to refinance
+their mortgage with a lender or take advantage of a federal program like FHA 203(k), in
+practice, the few homeowners who have replaced their foundations have used savings or
+retirement funds to do so.
+Mortgage lenders are reluctant to extend financing for foundation replacement when the
+underlying property value is considered compromised. In fact, many homeowners may be
+hesitant to disclose the extent of needed repairs to their lender or insurer due to concerns
+about potential impacts on their mortgage terms, insurance coverage, or access to credit.
+Information and disclosure challenges
+Many homeowners do not pursue testing for pyrrhotite unless visible deterioration has
+already begun. At the same time, the discovery of pyrrhotite significantly reduces property
+values and complicates future property sales. This dynamic creates a strong disincentive
+for homeowners to test their foundations, limiting the amount of reliable information
+available about the scope of the problem. Without clear data, private markets cannot
+accurately assess or price the associated risks.
+Taken together, these factors create a situation in which individual homeowners face
+catastrophic losses while the private market lacks the tools to provide adequate
+insurance, financing, or remediation programs.
+9
+
+Why state intervention is important
+Given the limitations of private markets, public intervention is left to address the
+deterioration of residential foundations caused by pyrrhotite. Without coordinated action,
+many affected homeowners would face financial hardship, potentially resulting in long-
+term housing instability. Given the inaction of the federal government on this issue and the
+limited resources of most municipalities, this issue most clearly fits within state
+responsibilities.
+Protecting homeowners from catastrophic loss
+For many households, their home represents their largest financial investment. When a
+foundation begins to deteriorate due to pyrrhotite, the homeowner may face both the cost
+of replacement and a sharp decline in property value. Without assistance, families may be
+left in homes that are unsafe or unmarketable while still being responsible for their
+mortgage payments and property taxes. The impact of declining home values can leave
+residents trapped in their homes and unable to transition to more suitable
+accommodation as they age or their family grows.
+Protecting municipalities from loss of revenue
+The presence of pyrrhotite in a foundation has a direct fiscal impact on a municipality’s
+property tax revenues. Most towns allow taxpayers who have a crumbling foundation due
+to the presence of pyrrhotite to file for an abatement on their property taxes. The
+depreciation schedule can result anywhere from 20 to 100% of the property value. Since
+pyrrhotite is more concentrated in some smaller towns in Massachusetts, those
+communities have faced more fiscal pressure than others.
+Preserving housing stock
+Massachusetts faces a significant shortage of housing across many regions. The
+Massachusetts statewide housing plan, “A Home for Everyone”, estimated that the South-
+Central Massachusetts area alone needs an additional 20,500 housing units by 2035 to
+meet demand.iii Allowing homes with deteriorating foundations to become uninhabitable
+would further reduce the state’s housing supply and place additional pressure on already
+constrained housing markets. Supporting remediation of affected homes helps preserve
+existing housing units and maintain neighborhood stability.
+Addressing a systemic construction issue
+Unlike typical home maintenance challenges, pyrrhotite-related foundation failures stem
+from systemic issues in the construction materials supply chain. Individual homeowners
+had no practical ability to detect or prevent the use of defective aggregate when their
+10
+
+homes were built. In fact, the issue of pyrrhotite was not known widely to people in the
+construction industry until well into the 2000s. Significant litigation has not found
+homeowners, insurance companies, homebuilders, contractors, or aggregate producers
+at fault. Much like a natural disaster, this challenge is hard to blame on any one party and
+thus requires a collective solution.
+What Massachusetts is doing today
+Massachusetts has taken several steps in recent years to better understand and address
+the issue of crumbling concrete foundations.
+Foundation testing program
+Since Fiscal Year 2019, the Commonwealth has provided funding to reimburse
+homeowners for core testing or structural engineer inspections of residential foundations
+to determine whether pyrrhotite is present. The program operates as a reimbursement
+program and has been funded through annual legislative earmarks. The state has funded
+$246,000 in core sample testing for concerned homeowners since FY19, covering 154
+homeowners (as of the start of FY26). To date, everyone who has submitted an application
+for reimbursement for a core test or inspection has received one, although in FY26, the
+Division of Occupational Licensure was required to reimburse homeowners without
+receiving a funded earmark to do so.iv
+Initially, the program focused on homes located within a geographic radius of the J. J.
+Mottes Concrete Company in Stafford Springs, Connecticut, which had been linked to
+defective concrete used in residential construction. In subsequent years, eligibility was
+expanded to allow reimbursement for core testing and inspections across Massachusetts
+as concerns about other aggregate sources emerged.
+Insurance protections
+In 2021, the Massachusetts Division of Insurance issued a bulletin instructing insurers not
+to cancel, non-renew, or increase premiums on homeowners policies solely because a
+home may contain a foundation affected by pyrrhotite. This measure was intended to
+prevent homeowners from losing insurance coverage while policymakers evaluate longer-
+term solutions. This protection has been vital for impacted homeowners to be transparent
+about their challenges with pyrrhotite and work on solutions without fearing other
+consequences.v
+11
+
+Quarry testing regulations
+On October 17, 2023, Governor Healey signed into law Chapter 56 of the Acts of 2023, “An
+Act relative to requiring the Highway Division of the Massachusetts Department of
+Transportation to establish a department and licensure process to oversee quarries
+producing concrete aggregate.” On September 12, 2025, MassDOT promulgated new
+regulations requiring testing of aggregate used in concrete production to detect the
+presence of pyrrhotite. Any entity selling concrete aggregate for use in Massachusetts
+(whether it is mined in Massachusetts or another state) is required to acquire a license and
+complete testing. These requirements aim to prevent defective aggregate from entering the
+construction supply chain and to reduce the likelihood of future cases of pyrrhotite.vi
+Inspection requirements
+As part of Governor Healey’s Affordable Homes Act of 2024, HLC promulgated new
+regulations to protect prospective homebuyers by ensuring their right to obtain a home
+inspection is not unfairly waived, restricted, or undermined in residential real estate
+transactions. It prohibits sellers and their agents from requiring or encouraging buyers to
+waive their right to a home inspection as a condition for having their offer accepted except
+in limited, clearly defined circumstances. Before or at the signing of the first purchase
+contract, the seller or agent must provide a separate written disclosure affirming the
+buyer’s right to do a home inspection. This is a critical step when combined with some of
+the other recommendations in this report to minimize the risk of unsuspecting buyers
+purchasing a pyrrhotite-impacted foundation.
+Property tax abatement
+Municipalities are allowed to offer tax abatement to homeowners with crumbling
+foundations and many municipalities have set up programs to do so. As foundations are
+replaced, municipalities also have the flexibility to streamline permitting, waive local fees,
+and offer other small incentives that make the replacement process less painful.
+Previous study of the issue
+In 2019, Massachusetts convened a commission to study the problem of crumbling
+concrete foundations and identify potential policy responses. That report identified the
+presence of pyrrhotite in certain aggregate sources and highlighted the need for additional
+testing, consumer protection, and long-term remediation strategies. This initial report was
+essential to ground the findings of this working group, along with the ongoing research and
+12
+
+advocacy of many of the initial commission’s members. The report is linked in the
+footnotes of this report.vii
+Understanding Connecticut’s approach
+Connecticut has been at the forefront of responding to the pyrrhotite-related foundation
+failures in the United States. The core of their response has been a program called the
+Crumbling Foundations Solutions Indemnity Company (CFSIC).
+CFSIC is a state-chartered captive insurance company created to administer funding for
+the replacement of residential foundations affected by pyrrhotite. The organization
+operates as a nonprofit entity overseen by the Connecticut Insurance Department, along
+with an independent board of directors designated by the legislature.
+The Connecticut program is funded primarily through two sources:
+• Approximately $300 million in state general obligation bonds (programming $25
+million per year).
+• A $12 annual surcharge on homeowners insurance policies through 2031
+(generating roughly $11 million per year).
+Capitol Region Council of Governments in Connecticut also received a $2 million HUD
+Community Project Funding earmark to support low- and moderate-income homeowners
+for costs not covered by CFSIC. Three insurers in Connecticut also made a one-time
+commitment in 2019 of $15.5 million total to support the CFSIC program, while liability
+litigation was still pending.
+Under the program, eligible homeowners may receive up to $205,000 in tax-free
+reimbursement for foundation replacement costs. The program primarily covers the cost
+of replacing the deteriorating concrete foundation itself, while additional low-interest loan
+programs are available to help homeowners finance related repairs and restoration work.
+The program has a range of resources and supports to ensure the funds are well spent and
+prioritized, including:
+• Eligibility and damage verification. A licensed engineer evaluates a homeowner’s
+foundation to ensure that it has pyrrhotite and that a full replacement is required or
+appropriate. CFSIC uses these severity assessments to rate priority and timeline for
+replacement across three different severity levels. In addition, there are two types
+of claimants: Type 1 claimants, who need to replace their foundation, and Type 2
+13
+
+claimants, who require reimbursement for already replacing their foundation before
+the remediation program came into effect.
+• Financial and oversight screening. CFSIC ensures that it is an owner-occupied
+property where the home insurance claim was denied and that the state of
+Connecticut is the payer of last resort.
+• Contractor qualification. CFSIC controls and continuously evaluates who is
+approved to complete remediation work. Homeowners can choose from the list of
+pre-qualified contractors.
+• Scope and construction oversight. CFSIC oversees the project scope and cost
+estimate to fit with their program cost guidelines, performs engineering and
+inspection reviews at key stages and makes payments directly to contractors at key
+stages, including a deposit, milestone progress and a final payment.
+• Annual audits. CFSIC undertakes an annual external audit and publishes
+transparent financial records showing the usage of funds.
+Connecticut also provides financial assistance for diagnostic testing, offering 50%
+reimbursement for core testing, or 100% reimbursement for visual inspections used to
+determine whether further testing is necessary.
+As of March 2026, Connecticut had deployed approximately $190 million in funding to
+remediate more than 1,500 homes affected by pyrrhotite deterioration.
+The Connecticut approach is a potential model for other states confronting similar
+problems. Connecticut’s legislature has continued to support this program over time,
+seeing positive results for residents without any scandals around waste, fraud, or abuse.
+The experience of CFSIC demonstrates both the scale of resources required to address the
+issue and the importance of establishing a dedicated administrative structure to manage
+testing, eligibility determination, remediation funding and contractor performance review.
+Remediation options
+The working group focused on three main options for a grant-style remediation program: (1)
+joining CFSIC’s existing programs, (2) creating a Massachusetts version with the same
+model as CFSIC, or (3) developing a new model within Massachusetts. The working group
+deprioritized joining CFSIC because that would have created complications requiring
+action from the CFSIC board and potentially the Connecticut legislature. The other two
+options are outlined below.
+14
+
+Massachusetts Foundations Solutions Indemnity Company (MFSIC)
+This solution would create a model that broadly mirrors what Connecticut has been doing
+to support impacted homeowners since 2019. To do this, Massachusetts could use the
+CFSIC approach with a specific Massachusetts-based board of directors and enabling
+structure such that no approval from the Connecticut legislature or CFSIC board of
+directors would be required. This is how the process could work:
+1. Get legislative approval. Massachusetts passes legislation creating two entities:
+MFSIC and a Massachusetts Crumbling Foundation Concrete Assistance Fund
+(CFCAF).
+2. Establish the CFCAF entity. CFCAF would be a nonprofit trust incorporated in
+Massachusetts with a board consisting of a state official or group of officials from
+Massachusetts. This entity would receive funds from the Massachusetts legislature
+and then deploy them through the captive insurance company. The main two
+ongoing roles for CFCAF would be to approve the annual audit of MFSIC and
+approve any changes to the board of directors of MFSIC.
+3. Incorporate a captive insurer. MFSIC would be a captive insurance company
+incorporated in Connecticut and wholly owned by CFCAF. Captives are commonly
+used by healthcare systems, universities, and other systems to insure their own
+risks. Connecticut used a captive model because the state was paying for the
+capital to remediate homes but still wanted the rigor of insurance-style claims
+evaluation. Twenty-seven states have captive enabling statutes, but Massachusetts
+is not one of them. Many large Massachusetts-based companies operate captives
+that are incorporated in Connecticut, Vermont, or other states.
+4. Establish a board of directors. MFSIC would have a board of directors established
+by statute that would control the more detailed policies and operations of the board
+over time. Connecticut currently has a real estate agent, two owners of impacted
+residential buildings, the CEO of a city or town impacted by pyrrhotite, an
+investment advisor, the leader of the regional council of government, and
+representatives from the insurance and banking industries that do not have a direct
+interest in the programs. Connecticut House and Senate leaders also appoint four
+ex-officio designees to sit on the board. A similar model in Massachusetts could
+work well to ensure a broad spectrum of oversight.
+5. Hire a superintendent and consultants. MFSIC would be run day-to-day by a
+superintendent. MFSIC would conduct a search process to determine the best
+captive insurance management company or superintendent. The superintendent
+would then oversee a team of consultants including actuaries, claim managers,
+captive managers, public outreach, legal services, and other services needed. By
+15
+
+not having any full-time employees, MFSIC could get off the ground quickly and
+remain nimble as needs change. Auditing would be done by an external firm
+reporting directly to the board of directors.
+6. Incorporate best practices. CFSIC has copyrighted their systems for training
+contractors, evaluating claims, and running their program. Their board is willing to
+share all their resources, guidelines, and manuals with MFSIC for a one-time royalty
+fee. While using CFSIC’s systems would not be required, it would save MFSIC
+significant time in getting off the ground to gain access to a well-structured system,
+rather than risking delays or mismanagement from trying to develop a new
+approach from scratch.
+7. Establish oversight. MFSIC would be subject to a range of oversight and regulation
+beyond the board. Connecticut has a claw back provision where the legislature can
+take funds back if needed, which Massachusetts could have as well. The
+Massachusetts legislature could also decide not to pass on funds to the entity at
+any time if it has concerns. MFSIC would be regulated by the Connecticut Insurance
+Department for compliance with baseline Connecticut insurance requirements, but
+Massachusetts would set up additional reporting requirements to ensure oversight
+from the Massachusetts legislature and state officials.
+Project costs and timeline of the MFSIC model
+CFSIC paid out claims of $25 million to $30 million annually between 2023 and 2025 for
+foundation replacements. The professional and administrative fees to process those funds
+totaled $1.5 million to $1.8 million per year. Connecticut specified in statute that
+administrative fees should not exceed 10% and these fees represent about 4% annually.
+Once the operation is running, the working group anticipates that the MFSIC administrative
+costs would be comparable in the $1.5 million to $1.8 million range per year unless the
+volume of claims payouts were dramatically higher or lower.viii
+In terms of timeline, the CFSIC administrator told the working group he thinks that this
+model could be stood up and paying out claims within one year of an enabling statute
+taking effect. The new entities would need to be incorporated and approved for operations.
+Importantly, the nonprofit trust would need to receive federal tax-exempt status before
+receiving funds. A new board of directors needs to be appointed, then MFSIC would need
+to open and consider applications, receive funding, and start disbursing claims. The exact
+timeline is to be determined, but if MFSIC is following the CFSIC model closely, it would
+likely enable the program to launch faster than any other option.
+Opportunities for this model
+There are three reasons this model is a strong option to consider:
+16
+
+1. It is a proven model. CFSIC has been widely praised as an effective and well-run
+solution for impacted homeowners in Connecticut. By having clear standards on
+prioritization for remediation, cost controls, and contractor approvals, CFSIC has
+made sure that remediation work is done with a high standard at a reasonable price.
+2. It could operate nimbly. Statutory programs in Massachusetts can sometimes
+become outdated or overly complicated for state agencies to deploy in practice. It
+can be difficult to anticipate at the outset of a program what the implementation
+needs and challenges will be. Using the administrator model, Connecticut is able to
+oversee the program while still providing flexibility to spend on different team needs
+over time.
+3. It can get off the ground quickly. Some homeowners have been waiting for over a
+decade for support from the state. Many are trapped in their homes because their
+equity is underwater. The CFSIC model would be the fastest to deploy resources
+and support homeowners as soon as possible.
+Drawbacks of this model
+This model also has a couple of potential drawbacks:
+1. The administrative fee may be higher. Costs may be higher than if Massachusetts
+ran this program through one of its quasi-public government agencies. Although
+consultants provide nimbleness, they are often more expensive.
+2. Using a captive insurance model could add unnecessary complexity and
+regulation. There is no actual insurance or risk pooling being provided.
+Massachusetts has deployed other grant programs such as Climate Ready Housing
+or the Underutilized Properties Program that manage this sort of project-specific
+funding.
+Other factors to consider
+If the legislature endorses this approach, it should enable MFSIC without overly prescribing
+program policies or details in the legislation. This ensures that the board of directors has
+the space to weigh trade-offs in detail and make decisions that can change over time as
+circumstances change, with strong input from the legislature.
+In addition, it likely makes sense to establish a sunset provision for this fund. CFSIC is
+closing its claims application process in 2030. This gave impacted homeowners over a
+decade to test and apply for state support. The legislature and MFSIC could determine the
+right eligibility window to ensure that impacted homeowners receive support without
+saddling the state with an unfunded liability indefinitely into the future. For longer term
+17
+
+claims, the State could set aside some portion of the funds to be paid out in certain
+circumstances for homes with pyrrhotite foundations.
+Finally, enabling legislation should consider whether some state fees should be waived to
+minimize the cost of replacing a foundation. Note that the State Senate proposed
+establishing a Crumbling Concrete Assistance Fund in its FY2026 Budget. The language of
+that approach is in the appendix.
+Massachusetts Concrete Foundation Replacement Program (MCFRP)
+This second possible solution would create a model that broadly mirrors the Connecticut
+model with all functions run through the Commonwealth. This model sets up an agency
+that is administered and run by a quasi-governmental entity, potentially Community
+Economic Development Assistance Corporation (CEDAC), MassHousing, or
+Massachusetts Housing Partnership (MHP). These agencies have experience administering
+programs similar to the concrete remediation program outlined below. As quasi-
+governmental agencies under the Executive Office of Housing and Livable Communities,
+they have the nimbleness to adjust the program as needed, while maintaining a strong
+connection to Massachusetts state government. There would be a similar cost limit on
+administrative operations at 10% of the proposed Crumbling Concrete Assistance Fund.
+The agency would have the power to develop eligibility requirements and guidelines for
+replacement of foundations affected by pyrrhotite. The agency would also have similar
+statutory duties as prescribed under the Connecticut enabling legislation. These duties
+would include:
+1. Publicly posting information regarding structurally sound concrete and the dangers
+of pyrite and pyrrhotite.
+2. Administration and oversight over the Crumbling Concrete Assistance Fund.
+3. Providing assistance to homeowners who are affected or have previously replaced
+their foundations.
+4. Assisting homeowners to obtain additional financing necessary to fully fund the
+replacement of concrete foundations that have deteriorated due to pyrrhotite.
+5. Approving contractors and other vendors for eligibility to perform foundation
+replacements on behalf of claimants.
+6. Disbursing financial assistance to approved contractors and other vendors.
+7. Ensuring that financial assistance is solely used for replacing concrete foundations
+that have been affected.
+8. Requiring the disclosure of any funds received for replacement of a foundation prior
+to receiving disbursement from the fund.
+9. Applying for any federal funds made available.
+18
+
+Project costs and timeline of the MCFRP model
+The MCFRP model would mirror a lot of the same functions as the CFSIC model, but some
+of the processes and requirements might end up being different as the program is
+designed specifically for the Massachusetts context. Because of that, it may take 12 to 24
+months to fully launch the program and have all of the systems in place. The annual cost to
+administer the program will need to be determined once the program details are fleshed
+out in more detail. The working group recommends establishing a cap of $1.5 million per
+year or 10% of annual fund disbursement, whichever is less, to enable the agency flexibility
+and resources to execute the model well while still saving money compared to the MFSIC
+program.
+Opportunities for this model
+There are a couple of opportunities presented in the MCFRP model:
+• Massachusetts-based design. Using this model allows Massachusetts to design a
+program that works for our context, while learning and building on what worked in
+Connecticut. While the Connecticut approach has worked well, there may be other
+models that work equally as well. By running the program in Massachusetts, there
+would be no regulation or licenses required from Connecticut to run the program
+unless Massachusetts chose to purchase the IP from the CFSIC program.
+• The right level of flexibility. Quasi agencies have access to the resources and
+support of state government, but with more nimbleness than executive offices or
+departments. They are required to submit audits every year and should build out an
+advisory council to ensure there is stakeholder input on the program’s design.
+Drawbacks of this model
+There are, however, a couple of drawbacks as well:
+• It may take more time. As mentioned above, designing a new program would likely
+take longer to deploy funding, set up contractor vetting, and determine the best
+financial flows for the product. With upfront funding and priority focus from
+leadership, the program could be up and running sooner.
+• Split focus. Each of the quasi agencies runs a wide range of programs. While paying
+for administrative costs would allow the agency to hire dedicated staff to run the
+program, it would be different than an entirely new entity focused solely on a
+concrete remediation program.
+19
+
+Massachusetts non-governmental approach to this model
+If the legislature wanted to pursue an alternative to one of these quasi agencies, another
+option would be to create a nonprofit based in Massachusetts and subcontract with the
+states current Guaranty Fund manager or other third party administrator to operate a fund
+with similar structures and claims operating to CFSIC. This management company or TPA
+would be responsible for the management and operational frameworks that enable its
+member guaranty associations to discharge their statutory responsibilities to handle
+promptly and efficiently covered claims against insolvent property and casualty insurers.
+The current Guaranty Fund managers are also authorized to furnish related or compatible
+services to property and casualty insurers and insurer organizations, and employs
+approximately 30 people in the Boston area. They, along with a set of contractors, could
+operate a program similar to CFSIC at a similar cost without needing to use a captive
+insurance structure specifically.
+Financial sources for concrete remediation
+To make progress on the backlog of impacted homeowners and build an economy of scale
+with setting up a full program of applications, contractor vetting, and more, the working
+group recommends funding this program at $20 million to $30 million per year over ten
+years. While Massachusetts is in a difficult fiscal environment, delaying action on this
+issue will only increase the cost to replace foundations and increase the risk of structural
+collapse. The final report has identified the following sources for the legislature to consider
+for funding the concrete remediation work:
+• Bond funding. Bond authorization for this program would also work as a source of
+revenue. Connecticut allocates $25 million per year from its authorization to
+CFSIC. A comparable allocation each year from the governor’s Capital
+Improvement Plan would work well for this program as long as it were consistent
+over time. Additional analysis by the Executive Office for Administration and
+Finance would need to determine whether the bonds issued would be taxable or
+not.
+• Earmarks. While the full program should have a stable and consistent revenue
+stream, an initial earmark of $1 million would be important so that the
+infrastructure can be developed for this program to receive funds and the work can
+be started as soon as possible.
+• Fee on concrete aggregate. Even though aggregate producers are not at fault for
+the pyrrhotite crisis, this would be a clear link between the concrete foundation
+crisis and the means to fund it. Charging $6 per cubic yard of concrete sold in
+20
+
+Massachusetts would bring in about $19.5 million per year, based on an estimate
+of 3.25 million cubic yards sold each year.ix This would modestly increase the cost
+of any project involving concrete. For example, a new home typically uses 100 to
+150 cubic yards of concrete, which would add about $600 to $900 to the project
+cost. Aggregate producers fear that homebuilders might switch to concrete
+alternatives in some cases if this fee were introduced and question why their
+industry should be singled out if there is no specific fault or misconduct on their
+part.
+• Homeowners insurance surcharge. Connecticut charges $12 per year whenever a
+homeowner secures or renews a homeowners insurance policy, which goes to
+funding their remediation program. If Massachusetts charged half of that fee at $6
+per year, the state would collect about $10 million per year, based on an estimate
+of 1.7 million homeowners insurance policies in Massachusetts (including condos
+and homeowners, but excluding renters).x If it charged $12 per year, the state would
+collect about $20 million per year. While the state should be mindful of the
+implications of adding new surcharges or fees, especially at a time when
+consumers are already facing significant affordability challenges, this equates to
+$0.50 to $1.00 per month for a set period of ten years and would enable the
+remediation program to be funded without requiring general revenue
+• Line-item appropriation. Providing a source of revenue through the legislature’s
+annual budget process is always an option. The Legislature would need to
+appropriate $20 million to $30 million per year for five to ten years to make
+significant progress on the challenge.
+The potential and limitations of federal funding
+Securing federal funding for this work remains difficult. Under the Robert T. Stafford
+Disaster Relief and Emergency Assistance Act (42 U.S.C. § 5121 et seq.), a state’s governor
+must submit a formal request that the president must approve before the Federal
+Emergency Management Agency (FEMA) can provide aid for natural disasters. Former
+Connecticut Governor Dannel Malloy requested a major disaster declaration but was
+denied because crumbling foundations and other slow‑moving natural disasters like
+drought and sea‑level rise are not eligible for FEMA assistance under current law.
+There have been recent unsuccessful attempts by members of the Massachusetts
+congressional delegation to create a carveout that would deem crumbling foundations
+caused by pyrrhotite eligible for FEMA funding. Additionally, members of the delegation
+have supported reinstating the casualty loss tax deduction so that out‑of‑pocket concrete
+remediation costs could be deducted from taxable income. Proposals have included
+allowing residents to amend their federal tax returns retroactively to 2018, when the Tax
+21
+
+Cuts and Jobs Act eliminated the deduction, extending beyond the usual three‑year limit
+for amended returns.
+Funds from the Community Development Block Grant (CDBG) program and the HOME
+Investment Partnerships Program can support testing and remediation of homes with
+crumbling foundations, but only in communities that qualify for those funding streams and
+it would require those municipalities to prioritize scarce local funding for these expensive
+projects.
+Finally, members of the Massachusetts congressional delegation could pursue a one‑time
+federal earmark to support a regional testing and remediation program. This may require
+creating or partnering with a tax-exempt entity to serve as the recipient. Eligibility rules for
+federal earmarks change annually and differ between the House and Senate.
+Lending options
+When assessing lending options in today's market, individuals may encounter constraints
+due to lenders' requirements regarding the structural integrity, safety, and soundness of
+the property serving as collateral. Lenders are typically unable to extend credit for
+properties with unresolved foundation issues until such repairs are completed, with
+limited exceptions like construction or renovation loans, which generally feature interest
+rates above prevailing market levels.
+Another important factor is the individual's equity in the collateral. For standard financing
+products, properties with deficiencies related to structural integrity, safety, and soundness
+are generally considered to have no lendable value until appropriate remediation occurs;
+such assets are often appraised on a "subject to" repair basis. Conversely, certain
+products, such as construction or renovation loans, evaluate collateral and establish
+equity based on proposed plans and specifications, allowing the use of projected "as built"
+or "as repaired" values when determining collateral values. Accordingly, the lending
+subgroup recommends the creation of products that assess property value based on the
+"as built" or "as repaired" value.
+As a result, the focus for this section is on two different use cases. If a homeowner is
+eligible for a remediation program, a supplemental lending program can be an important
+tool to finance costs that are not directly covered by the foundation replacement such as
+repairing the driveway, fixing the lawn, or replacing a sewer line. Connecticut offers the
+Supplemental Collapsing Foundation Loan Program, which is a loan-loss guarantee fund
+encouraging banks to offer loans for these uses. The program offers up to $75,000 to
+individuals who receive a new foundation through CFSIC at interest rates of 3 to 5%.
+22
+
+For individuals that are not eligible for a remediation program, a broader low or no-interest
+loan program could be another option for Massachusetts to offer for the full replacement
+of a foundation. Banks approached by homeowners are often unwilling to offer home
+refinancing or second lines of credit to fund a foundation replacement since the collateral
+is compromised. In other words, even if homeowners wanted to take on additional debt to
+do the replacement themselves, it would be hard to get financing without securitizing
+against other assets or facing extremely high interest rates. Because Connecticut offers a
+robust remediation program, it does not offer support for any lending product for the full
+cost of foundation replacement. Although the working group believes the best solution is
+to fund a remediation program, it has outlined two options for a larger lending program if
+the legislature is unable to fund a full remediation program.
+Supplemental loan program
+The Connecticut Housing Finance Authority has provided a $2 million loan-loss guarantee
+fund for private lenders participating in the Supplemental Collapsing Foundation Loan
+Program, which was capped at $20 million. This provided a backstop for private lenders
+but required them to offer loans at lower rates than they may have offered with their own
+underwriting standards. As a result, while some lenders have participated in the program,
+as of the report writing, no private banks are currently offering supplemental loans to
+homeowners receiving CFSIC assistance. Private banks generally will only participate in a
+program if they are able to make enough money from interest repayments, origination fees,
+or other funding that pay for the cost of issuing loans.
+In order to ensure that a program like this works in Massachusetts, a quasi-agency like
+MassHousing, Massachusetts Housing Partnership, or CEDAC would likely need to offer
+some combination of a higher guarantee fund, allow banks to charge higher interest rates,
+or provide some other subsidy.
+Resources required to operate the program
+This would likely require a limited amount of funding from the legislature to guarantee and
+administer a program like this by a state quasi agency. The quasi agency could use a
+portion of the funds allocated for the remediation program to support this program.
+Low-interest loan with monthly repayments
+This option would entail a quasi-governmental agency guaranteeing or offering low-interest
+loans for homeowners to replace their foundation. This mechanism would require fewer
+resources from the state, since it would ultimately receive payback for most of the loans
+provided. It could provide some relief and support to homeowners who have higher
+incomes or property values but cannot access existing lines of credit or face high interest
+23
+
+rates. Any loan program would need to make sure that it had appropriate consumer
+protections in place.
+Resources required to operate the program
+Depending on whether this program involved direct lending from a quasi or an incentive for
+private lender participation, the program would likely need about $100 million in lending
+capacity. Ultimately, the funds returned to the state could be put back into other state
+programs or priorities once they are repaid.
+Low-interest forgivable loan
+Another option to consider is a low-interest loan that is paid back at the point of sale or
+transfer for the property. The program could be structured such that the loan is forgivable
+up to the negative equity amount. After the property is sold and the mortgage is repaid, any
+remaining funds would go back to the state loan program. If the loan were fully repaid, then
+any remaining equity would go to the home seller. This approach would enable any
+impacted homeowner to replace their foundation. In practice, this would likely look like the
+state paying the contractor directly and then placing a lien on the property. It would cost
+the state less but be less generous to homeowners.
+With the traditional remediation program, a home could have $100,000 of negative equity,
+receive a $200,000 grant payment, and then ultimately sell the property for a gain of
+$100,000. Using this low-interest forgivable loan approach, if a home had $100,000 of
+negative equity, the state would pay for the $200,000 foundation replacement, but then at
+sale, the state would receive $100,000 paid back, while forgiving $100,000 of the loan cost.
+The impacted homeowner would lose out on the upside of selling their home for positive
+equity unless the home appreciated significantly, but they would be able to remediate their
+home without needing to pay out of pocket.
+Resources required to operate the program
+A state quasi agency would likely need to operate this program directly. It would likely
+require $20 to $30 million in dedicated funding each year using the sources listed in the
+remediation section to operate since the timing and amount of repayment would be
+uncertain. However, the cost per house remediation would ultimately be lower and any
+repaid funds after the crisis is over could be put towards the Ccmmonwealth’s Affordable
+Housing Trust Fund or another key state priority.
+Pyrrhotite prevention and further regulation
+While the sections above focused on support for homeowners who are impacted by
+pyrrhotite in their foundations, this section focuses on prevention and regulation to ensure
+24
+
+that stakeholders across Massachusetts know about this problem and that we minimize
+future harm to homeowners. A defining feature of the pyrrhotite crisis has been the
+difficulty of identifying and tracing the source of defective concrete. Historically, concrete
+batch documentation has not been retained by local building departments, and
+homeowners frequently lack records indicating where aggregate materials originated. This
+absence of traceability has complicated consumer protection efforts, delayed diagnosis,
+and hindered enforcement and remediation.
+The crisis has also revealed uneven levels of awareness among professionals who play
+critical roles in real estate transactions and construction oversight. Real estate brokers,
+home inspectors, and local building officials are often on the front lines
+of identifying potential risks, yet many receive limited or no formal training on
+pyrrhotite, warning signs, or appropriate consumer disclosures. As a result, affected
+homes may be sold without adequate testing or disclosure, transferring significant
+financial risk to unsuspecting buyers.
+Despite years of advocacy by impacted homeowners and some public officials, public
+awareness of pyrrhotite remains limited outside of the most heavily impacted regions.
+Many homeowners are unaware of the risks, the availability of testing, or the existence of
+state support until substantial damage has already occurred. This lack of awareness
+increases long-term costs to homeowners and the commonwealth alike.
+Together, these challenges underscore the need for a more coordinated, preventive, and
+education-driven response—one that embeds pyrrhotite awareness into professional
+standards, aligns state regulatory systems, improves documentation and traceability, and
+ensures clear, accessible public information.
+Introduce continuing education requirements on pyrrhotite
+The Commonwealth could require continuing education on pyrrhotite for licensed
+professionals who play a central role in residential construction and real estate
+transactions, including all real estate professionals, home and building inspectors, and
+other relevant licenses as determined by their respective boards. Specifically, every real
+estate professional and home inspector could be required to take training on pyrrhotite
+ahead of their next license renewal.
+This training should cover best practices for identifying potential pyrrhotite risks,
+understanding appropriate testing protocols, communicating risks to consumers,
+and complying with disclosure obligations. Incorporating this content into existing
+continuing education frameworks would raise baseline competency across professions
+without creating new licensure barriers. Even for real estate professionals or inspectors
+25
+
+who are not primarily working in hotspot regions, knowing about this challenge is critical,
+as the full scope of the crisis statewide is unknown at this time. By ensuring that
+professionals who advise homeowners and buyers are properly informed, the state can
+reduce preventable harm and improve early detection.
+Real estate brokers and salespersons are required to complete twelve hours of continuing
+education per two-year renewal cycle. Massachusetts General Law Chapter 112, Section
+87XX 1/2 provides some specific direction on continuing education requirements. Home
+inspectors are required to complete twelve continuing education hours per renewal cycle
+as well. Chapter 112 Section 223 authorizes the Division of Occupational Licensure (DOL)
+to broadly set these standards.
+Beyond these continuing education requirements, the Massachusetts Municipal
+Association, the Citizen Planner Training Collaborative, and other professional
+associations should offer trainings for municipal leaders to ensure that they are providing
+the latest information to homeowners in their area.
+Implementation Pathway: Relevant continuing education requirements
+are determined by a combination of Massachusetts General Laws, regulation, and
+administrative action by the licensing boards. Requiring pyrrhotite training to be included
+could be accomplished through a range of different administrative or regulatory changes.
+However, including a directive in crumbling concrete legislation that “all applicable
+Massachusetts boards of licensure shall require pyrrhotite continuing education for
+license renewal in a matter determined by the board” would ensure that this occurs. This
+would direct action from agencies, while allowing for individual boards to determine what
+specific training is needed and how often it should be required.
+Incorporate MassDOT aggregate licensure standards into the state building
+code
+In Massachusetts, the current concrete aggregate testing and licensing regime is
+structured as an aggregate-source regulatory program administered by the Massachusetts
+Department of Transportation (MassDOT). The statutory foundation was established by
+Chapter 56 of the Acts of 2023, which inserted Section 79 into Chapter 6C of the General
+Laws. Section 79 requires any person seeking to mine, extract, or otherwise operate a
+quarry, sand and gravel operation, or other aggregate source for the purpose of producing
+“concrete aggregate” to obtain a license from MassDOT. The statute makes clear that its
+scope is limited to aggregate intended for use in cement concrete for foundations,
+structural elements, or infrastructure, including roadways and bridges. It does not apply to
+aggregate produced solely for other non-concrete purposes. As part of licensure, the
+26
+
+statute requires submission of an operations plan, a geological source report prepared by
+a licensed professional geologist, and aggregate testing that must include testing for
+pyrrhotite, including a total sulfur test conducted by an accredited laboratory.
+MassDOT implemented this statutory mandate through the adoption of regulation 700
+CMR 19.00. The regulation establishes detailed requirements for licensure, including the
+contents of the operations plan, standards for geological source reports, and specific
+testing and documentation requirements addressing sulfur, pyrrhotite, and framboidal
+pyrite in concrete aggregate. Together, the statute and the regulation form a
+comprehensive regulatory program governing Massachusetts-based aggregate mines that
+are producing aggregate for use in cement concrete within the Commonwealth, even if
+they are mining in other states.
+As of the writing of this report, fewer than 30 licenses have been granted in the first year the
+regulations have been in effect.xi While participation is expected to continue increasing
+over time, it remains important to amend the Massachusetts Building Code to require the
+MassDOT aggregate license for all concrete. Without a building code hook, the MassDOT
+program operates upstream of construction and is not directly enforceable at the point
+when concrete is poured for one- and two-family homes.
+Under the current framework, a jurisdictional gap exists between material regulation and
+building code approval. State law authorizes MassDOT to license aggregate sources
+producing concrete aggregate and to require testing for sulfur, pyrite, and pyrrhotite, but it
+does not require local building officials to verify that concrete used in residential and
+commercial construction is derived from a licensed and compliant source. The
+Massachusetts Building Code governs permitting and inspections for all buildings,
+including one- and two-family dwellings, and specifies material standards but not source
+licensing requirements. As a result, a building inspector may lawfully approve a foundation
+pour without any mechanism to confirm compliance with the MassDOT aggregate
+licensing program. Integrating or cross-referencing these requirements into
+the building code would clarify enforcement responsibilities, reduce uncertainty for
+builders and inspectors, and establish a coherent end-to-end regulatory framework that
+fully carries out the legislature’s intent.
+Implementation Pathway: The Board of Building Regulations and Standards (BBRS) has a
+subcommittee focused on structural material changes to the building code and will work
+to incorporate this technical change when the next edition comes out.
+27
+
+Require submission and retention of concrete batch tickets
+A key challenge of the pyrrhotite crisis has been the inability of homeowners or commercial
+purchasers to determine where their concrete was sourced and who poured the
+foundation. This information is not typically kept with other home records and so it is
+challenging or impossible to track that information down.
+Batch tickets are a critical accountability tool when pouring new concrete foundations
+because they provide a contemporaneous, verifiable record of what materials were
+delivered to a specific site and when. A batch ticket documents the concrete producer,
+aggregate source location, plant location, mix design, quantities, time of batching, and
+delivery information, creating a direct chain of custody from material source to placement.
+This information allows building officials, engineers, and homeowners to confirm that the
+concrete used for a foundation matches the approved specifications and was produced
+using compliant aggregate sources. In the event of a future defect or structural concern,
+batch tickets make it possible to trace the concrete back to the supplier and aggregate
+source, enabling targeted investigation and remediation rather than speculative or
+destructive testing years after construction.
+Including batch tickets as a required part of foundation pours also strengthens
+enforcement and consumer protection by closing a common documentation gap at the
+point of construction. Without batch tickets, there is no reliable way for inspectors or
+owners to confirm that compliant materials were actually delivered to a site, even where
+upstream licensing and testing requirements exist. Requiring batch tickets aligns
+residential construction practice with industry standards already common in commercial
+and infrastructure projects and creates a durable record that persists beyond final
+inspection. This documentation requirement supports quality control, deters substitution
+of noncompliant materials, and provides long-term protection for homeowners by ensuring
+that responsibility for concrete performance can be clearly assigned if problems emerge.
+Implementation Pathway: While the batch ticket requirement could be addressed
+through legislation, it is more direct and administratively efficient to implement through a
+change to the building code as adopted by the BBRS. There are still some details of the
+process that need to be further determined, such as when the batch ticket would be
+checked, who is responsible for retaining those records, and what specific information
+should be required. The goal of the batch tickets is to ensure that all new concrete
+poured is traceable and compliant with state testing requirements without causing
+significant delays to homebuilding in Massachusetts.
+28
+
+Launch a statewide public education campaign on pyrrhotite
+Despite ongoing efforts by advocates and state agencies, public understanding of
+pyrrhotite remains limited. A state agency should run a public education and awareness
+campaign to inform homeowners, homebuyers, and professionals about the risks
+associated with pyrrhotite and the steps individuals can take to protect themselves. This
+campaign should include clear guidance on testing, disclosure obligations,
+available assistance programs, and the statutory right of home purchasers to obtain
+inspections.
+In addition, the Commonwealth should maintain a centralized, easy-to-navigate webpage
+explaining the pyrrhotite crisis, available resources, and recommended actions for
+affected and at-risk residents, either posted on the website of the agency implementing a
+concrete remediation program. Improved public awareness can reduce costly missteps,
+prevent uninformed transactions, and encourage earlier testing and intervention.
+Implementation Pathway: This action could be taken by administrative action with
+existing agencies. Legislative appropriations would help the campaign to increase its
+reach.
+Encourage pyrrhotite testing for remediation eligibility
+Even with ongoing education and public awareness campaigns, there is a real risk of
+homeowners buying a house with a pyrrhotite-impacted foundation that leaves them
+underwater on their mortgage. A core test can cost $2,000 to $5,000 and take several
+weeks to receive analysis back from a lab on whether a concrete foundation has pyrrhotite.
+Requiring this test statewide may be impractical, but there should be incentives for
+suspected homes to test for pyrrhotite.
+One option to consider would be a pyrrhotite disclosure similar to the lead disclosure
+currently in place. As part of a home sale, Massachusetts could require a disclosure form
+to be signed for any home built between 1980 and 2026 that says the seller has or has not
+tested the foundation and pyrrhotite has or has not been identified. This would raise the
+visibility of the challenge for potential buyers. This notice could be phased out once a
+remediation program is in place.
+The state could also consider two options that Connecticut currently pursues. First, any
+home purchased after the remediation program is in place would be ineligible for
+remediation grant funding if they did not test for pyrrhotite at the time of purchase. This
+creates a strong incentive for homeowners to make sure that they are testing or doing an
+inspection if there is any reason for that risk. Second, foundations that are replaced by a
+remediation grant could be tested to ensure that there is no pyrrhotite. While this would
+29
+
+add time and cost to the remediation process, Connecticut pursues this path because
+impacted homeowners often want to be absolutely sure that their new foundation is safe
+and not impacted.
+Implementation Pathway: The first option to create a pyrrhotite disclosure would require
+legislative action. The second two options could be done through administrative actions by
+the agency implementing the remediation program.
+Conclusion
+The deterioration of residential foundations due to pyrrhotite represents a slow-moving
+natural disaster impacting thousands of residents across the state. Without decisive and
+sustained action, affected homeowners will continue to face significant financial hardship,
+municipalities will experience ongoing fiscal impacts, and the Commonwealth of
+Massachusetts risks further strain on its already limited housing supply. The
+recommendations set forth in this report are designed to provide a comprehensive and
+balanced approach that addresses immediate remediation needs while also establishing
+long-term safeguards to prevent recurrence.
+While the precise structure of the program may be determined through the legislative
+process, the core components of both financial assistance for foundation replacement
+and proactive measures to improve awareness and accountability are essential to an
+effective response. Timely action will not only provide relief to impacted homeowners but
+also protect the long-term stability of Massachusetts communities and housing markets.
+30
+
+Appendix
+Letter from concrete research and testing
+31
+
+Text version for accessibility:
+Subject: Petrographic Examinations of Massachusetts Pyrrhotite-Bearing Reactive
+Aggregates
+Concrete Research & Testing (CRT) was asked by Michelle Loglisci to document the
+currently known pyrrhotite-bearing reactive aggregate used for residential foundations in
+Massachusetts. CRT has been heavily involved in the petrographic examination of
+residential foundations showing distress related to the presence of pyrrhotite-bearing
+aggregate in both Connecticut and Massachusetts since 2008. CRT has examined cores
+from more than several hundred of these foundations.
+During the first International Conference on Iron Sulfide Reactivity (ICISR 2024) I presented
+a paper titled “Petrographic Examination of Concrete Aggregates Involved in Iron-Sulfide
+Reactions in Residential Concrete Foundations in Connecticut and Massachusetts”. This
+paper detailed the lithology of the aggregates from the Becker Quarry in Connecticut and
+the Rutland Quarry in Massachusetts (a copy of the paper is attached).
+The first homes detected with this problem in Massachusetts were located in south-
+central Massachusetts and were all related to aggregate derived from the Becker Quarry in
+Connecticut. In more recent years, many homes in central Massachusetts have been
+found to have defective concrete foundations although aggregate from these homes was
+determined to be from a quarry in Rutland, Massachusetts. The Becker quarry supplied
+both crushed stone and natural gravel, while the aggregate from the Rutland Quarry is a
+crushed stone.
+More recently homes (or condos) in the northern part of the state have been found to have
+defective concrete foundations. Concrete samples that I have examined in the areas of
+Winchendon and Dracut have shown the presence of pyrrhotite-bearing reactive coarse
+aggregate. The coarse aggregate in these two structures are both crushed natural gravel
+aggregates, although show significant differences in lithology (they contains different rock
+types). This would indicate that there are at least two more additional sources of reactive
+pyrrhotite-bearing aggregate in the northern part of the state that were used in the
+construction of residential foundations. I will soon be receiving samples from a foundation
+in Ashburnham that was recently removed due to the defective concrete.
+Attached are photographs showing cross-section views of the sectioned concrete samples
+containing the reactive aggregates from the Rutland Quarry and the Winchendon and
+Dracut foundations. Photomicrographs showing examples of the reactive aggregate are
+also provided.
+32
+
+In conclusion, there are currently four known distinct sources of reactive pyrrhotite-
+bearing aggregate that were used for the construction of residential foundations in
+Massachusetts. 1) Crushed stone/crushed natural gravel from the Becker Quarry –
+Supplied to south-central Massachusetts 2) Crushed Stone from Rutland Quarry –
+Supplied to central Massachusetts 3) Crushed Natural Gravel – Supplied to northern
+Massachusetts (Dracut area) 4) Crushed Natural Gravel – Supplied to northern
+Massachusetts (Winchendon area)
+Nick Scaglione, President & Petrographer Concrete Research & Testing, LLC
+Creating the Massachusetts Crumbling Concrete Assistance Fund (CCAF)
+The Massachusetts Senate has previously adopted language in the Senate version of the
+FY2026 Budget (S.2525) that would establish this fund (“Crumbling Concrete Assistance
+Fund”) under Chapter 29 of the General Laws.
+This fund would be credited with:
+1. Appropriations or other money authorized by the general court that is specifically
+designated to be credited to this fund.
+2. Funds from private and public sources, including but not limited to gifts, grants,
+donations, and settlements.
+3. Federal funds made available by the United States Department of Housing and
+Urban Development Section 108 Loan Guarantee Program.
+4. Interest earned on the assets of the fund.
+The funds that are disbursed can be used to:
+1. Provide financial assistance to owners of real residential property that have
+deteriorated due to the presence of pyrite or pyrrhotite.
+2. Minimize negative fiscal impacts on municipalities in which such property is
+located.
+3. Reimburse the owner that presents satisfactory evidence that they have previously
+repaired and replaced their foundation affected by pyrite or pyrrhotite prior to the
+establishment of the fund.
+Under the language that has been previously passed by the Senate, any amounts that were
+issued from the fund to impacted homeowners for the repair or replacement of concrete
+foundations that have deteriorated due to the presence of pyrrhotite would be exempt from
+taxation under Chapter 62 of the Massachusetts General Laws.
+Annually, the Secretary of Housing and Livable Communities would report on the activities
+of the fund from the previous calendar year to the clerks of the House of Representatives
+33
+
+and the Senate, the Senate and House Committees on Ways and Means, the Joint
+Committee on Environment and Natural Resources, and the Joint Committee on Housing.
+Full language of this proposal:
+SECTION 30. Said chapter 29 is hereby further amended by inserting after section 2JJJJJJ
+the following 3 sections:-
+Section 2KKKKKK. (a) There shall be established a Crumbling Concrete Assistance Fund
+which shall be administered by the secretary of housing and livable communities. The fund
+shall be credited with: (i) appropriations or other money authorized by the general court
+and specifically designated to be credited to the fund; (ii) funds from public and private
+sources, including, but not limited to, gifts, grants, donations and settlements received by
+the Commonwealth that are specifically designated to be credited to the fund; (iii) federal
+funds received under subsection (b); and (iv) interest earned on the assets of the fund.
+Amounts credited to the fund shall be expended, without further appropriation, to: (A)
+provide financial assistance to owners of residential real property for the repair or
+replacement of concrete foundations of such residential real property that have
+deteriorated due to the presence of pyrite or pyrrhotite; (B) minimize negative fiscal
+impacts on municipalities in which such property is located; and (C) reimburse the owner
+of a residential real property that presents satisfactory evidence, as determined by the
+secretary, that said owner has paid for and replaced their concrete foundation that
+deteriorated due to the presence of pyrite or pyrrhotite prior to the establishment of the
+fund; provided, however, that the reimbursement shall not exceed the funding the owner
+would have received had they applied for financial assistance through the fund. The
+unexpended balance in the fund at the end of a fiscal year shall remain available for
+expenditure in subsequent fiscal years. No expenditure made from the fund shall cause
+the fund to be in deficit at any point.
+(b) The secretary of housing and livable communities may apply for, receive and deposit
+any federal funds, including, but not limited to, funds made available by the United States
+Department of Housing and Urban Development Section 108 Loan Guarantee program,
+into the fund. The secretary shall seek to maximize available federal reimbursements for
+money spent from the fund.
+(c) Amounts issued from the fund to impacted homeowners for the repair or replacement
+of concrete foundations that have deteriorated due to the presence of pyrrhotite shall be
+exempt from taxation under chapter 62.
+(d) Annually, not later than June 1, the secretary of housing and livable communities shall
+report on the activities of the fund from the previous calendar year to the clerks of the
+34
+
+senate and house of representatives, the senate and house committees on ways and
+means, the joint committee on environment and natural resources and the joint committee
+on housing.
+(e) The secretary of housing and livable communities shall promulgate regulations or issue
+other guidance to set rules for the expenditure of the funds under this section.
+i https://www.mass.gov/info-details/crumbling-concrete-stakeholder-working-group
+ii https://www.hurwitzfine.com/blog/connecticut-supreme-court-requires-imminent-danger-of-collapse-for-
+crumbling-concrete-coverage
+iii https://www.mass.gov/info-details/central-massachusetts-housing-snapshot
+iv Massachusetts Division of Occupational Licensure
+v https://www.mass.gov/doc/bulletin-2021-12-crumbling-foundations-due-to-high-concentrations-of-
+pyrrhotite-in-home-construction-issued-october-6-2021/download
+vi https://www.mass.gov/info-details/aggregate-source-licensing-for-the-production-of-cement-concrete
+vii https://malegislature.gov/Bills/191/HD4724
+viii https://crumblingfoundations.org/wp-content/uploads/2025/12/CFSIC-2025-AFS-Final.pdf
+ix Massachusetts Concrete Aggregate Producers Association Estimate
+x https://www.mass.gov/doc/the-2024-massachusetts-market-for-home-insurance/download
+xi https://www.mass.gov/info-details/aggregate-source-license-list-for-cement-concrete-700-cmr-1900
+35

@@ -1,0 +1,818 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+This Report was drafted in consultation with:
+2
+
+Table of Contents
+1. Legislative Authority ........................................................................................................ 5
+2. Introduction ....................................................................................................................... 6
+3. Public Safety Planning & Mitigation Plans .................................................................... 9
+a. State Involvement in Public Safety Planning ............................................................. 9
+b. FWC Boston 26 Public Safety & Security Planning Groups .................................. 11
+i. Public Safety Communication and Interoperability ...................................................... 11
+ii. Tactical Operations ....................................................................................................... 12
+iii. Intelligence & Investigations ........................................................................................ 13
+iv. Explosive Ordinance Disposal/Chemical, Biological, Radiological, Nuclear and
+Explosive....................................................................................................................... 13
+v. Transportation Network Security .................................................................................. 14
+vi. Public Information and Public Affairs .......................................................................... 15
+vii. Capability Development & Readiness .......................................................................... 16
+viii. FIFA FanFest & Boston Celebration Zone ................................................................... 16
+ix. Health & Medical Services ........................................................................................... 17
+x. Command, Control & Coordination ............................................................................. 17
+xi. Non-Competition Venues ............................................................................................. 18
+xii. Dignitary, VIP & Team-in-Transit Protective Security ................................................ 19
+xiii. Emergency Management & Preparedness .................................................................... 20
+xiv. Boston Stadium and Last Mile Integration ................................................................... 21
+4. Transportation and Traffic Mitigation Planning......................................................... 22
+a. Boston 26 Transportation Working Group Structure ............................................ 22
+b. Transportation and Traffic Mitigation Planning Focus Areas............................... 22
+i. Transportation and Road/Rail Construction ................................................................. 22
+ii. Transportation and Road/Rail Maintenance ................................................................. 22
+iii. Incident response .......................................................................................................... 23
+iv. Wayfinding Signage...................................................................................................... 23
+v. Travel and Roadway Congestion Mitigation ................................................................ 23
+vi. Rail and Regional Transport ......................................................................................... 24
+5. Budget Considerations.................................................................................................... 25
+a. Costs ............................................................................................................................. 25
+3
+
+b. Funding ........................................................................................................................ 25
+i. Federal grant funding .................................................................................................... 25
+ii. State supplemental funding ........................................................................................... 26
+iii. Federation Internationale de Football Association (FIFA) funding ............................. 26
+iv. Private funding and sponsorship ................................................................................... 26
+6. Conclusion ....................................................................................................................... 27
+7. Appendix A ...................................................................................................................... 28
+8. Appendix B ...................................................................................................................... 30
+4
+
+1. Legislative Authority
+Section 2 of Chapter 9 of the Acts of 2025 requires the following:
+8000-0600: … not later than December 31, 2025, the executive office of public safety and
+security , in consultation with the Massachusetts Department of Transportation and executive
+office for administration and finance, shall submit a report to the house and senate committee on
+ways and means which shall include, but not be limited to: (i) public safety mitigation plans
+associated with the 2026 World Cup matches hosted in Massachusetts; (ii) transportation and
+traffic mitigation planning associated with the impacts of the 2026 World Cup matches hosted in
+Massachusetts; (iii) the estimated cost of implementation of the plans in clauses (i) and (ii); and
+(iv) estimated federal or private funds available to fund the mitigation plans in clauses (i) and
+(ii).
+5
+
+2. Introduction
+The 2026 FIFA World Cup (FWC) represents a landmark moment for North American soccer.
+The tournament will be jointly hosted by Canada, Mexico and the United States—the first time
+three nations have shared hosting duties. FIFA awarded the tournament based on a promise of
+world-class infrastructure, economic impact and broad regional cooperation. Eleven of the
+sixteen host cities are in the United States. Boston earned its selection as a host city because of
+its rich sports culture, global accessibility, and proven ability to host major international events.
+The Boston region’s inclusion underscores New England’s enthusiasm for soccer and its capacity
+to welcome fans from around the world.
+One hundred and four World Cup matches will be held across North America in June and July
+2026. Seven of the matches will be held in Foxborough at Gillette Stadium, home to both the
+New England Patriots and the New England Revolution. The stadium, renamed “Boston
+Stadium” for the duration of the World Cup game, will undergo FIFA-specific upgrades to meet
+international standards for player, media and fan facilities. Beyond the stadium, competing
+national teams and FIFA officials will stay in area hotels and train at area facilities.
+Preparations for the tournament are well underway, with coordinated efforts among local, state,
+and federal agencies to ensure a seamless and secure experience. Key planning areas include
+enhanced transportation infrastructure, public safety measures, and celebratory initiatives
+designed to showcase Boston and our Commonwealth. Boston 26 (B26), a 501c4 nonprofit
+organization, is the organizing committee leading the strategic planning and execution of the
+seven matches in our state, including the official celebratory events. B26 is overseen by a three-
+member Board1 and an Honorary Board assists with fundraising activities and sources.2
+B26 is responsible for the fan experience, from transportation and wayfinding to spectator
+participation. They play a key role in transportation and traffic mitigation planning, especially
+around coordination, integration and information sharing. B26 is coordinating with the relevant
+local, regional, state and national government authorities, the stadium staff, the training facilities,
+the Airport authority, other transportation authorities and stakeholders, hotel authorities and
+other non-public stakeholders.
+The primary source of security funding for the tournament is the FIFA World Cup Grant
+Program (FWCGP), administered by the U.S. Department of Homeland Security (DHS) through
+the Federal Emergency Management Agency (FEMA). FWCGP provides the 11 host cities with
+$625,000,000 in federal funding to enhance security and preparedness for the games.
+Massachusetts is eligible for $46,053,187.00 of that grant. The grant program provides funds
+available to each Host City Committee Task Force through the State Administrating Agency
+1 Board members are Jim Nolan, COO of Kraft Sports & Entertainment, Brian Biello, President of The New
+England Revolution and Martha Sheridan, President and CEO of Meet Boston.
+2 Honorary Board members are Ron O’Hanley (Chair), Miceal Chamberlain, Chris Davis, Jim Davis, John Fish,
+Brian Foard, Jason Robins, Martha Sheridan and Marcel Vernon.
+6
+
+(SAA). The Office of Grants and Research (OGR) is the SAA for Massachusetts. The grant
+award will be received by OGR and passed directly to B26, as required by the terms of the
+FWCGP.
+The FWCGP has an unusual payment structure. While OGR is the sole conduit to FEMA for
+FWCGP, it does not receive or manage the awarded funds. Under the terms of the grant, OGR
+must pass 100% of the funds through to the Host City Planning Committee, B26, which is then
+responsible for distributing funds to the subrecipients.
+Because FWCGP is a reimbursement program, no funds will actually be transferred at the time
+of the award. Instead, either subrecipients or B26 will be required to advance the funds from
+their own coffers and seek reimbursement. Subrecipients will submit requests for reimbursement
+to B26, which will review the required documentation of approved expenditures, verify its
+accuracy, and forward the request for reimbursement to OGR. OGR will then submit the
+reimbursement request to FEMA for processing.
+While FEMA is required to make reimbursements within 30 days of submission, any issues with
+the submitted documentation will result in FEMA requesting further information, delaying the
+funds and restarting the clock for reimbursement. The timeliness of reimbursement will depend
+on B26’s ability to manage the reimbursement requests and ensure that complete, detailed
+documentation is submitted to OGR and FEMA.
+After the tournament concludes and B26 ends operations, OGR will be responsible for
+maintaining records pertaining to FWCGP in the manner usually required for FEMA grants.
+Unlike other FEMA grant programs, OGR will not receive any funding for the management and
+administration of the program despite building and managing the selection process, processing
+reimbursements, and maintaining detailed records; only B26 and the subrecipients are eligible
+for reimbursement for M&A costs.
+The source(s) of transportation funding has similar complications. Further details on the
+currently projected transportation needs are detailed in Section 5, “Budget Considerations.”
+There is currently an effort to establish federal funding within existing Federal Transit
+Administration grant programs that will supplement any state transit funds.
+In addition to the multiple funding challenges outlined above, the state is facing other planning
+obstacles at this late stage. The first Boston Stadium matches are just six months away, and
+there are several unknowns. For example, the location of the official FIFA FanFest (also known
+as the FIFA Fan Festival), the primary public viewing event, has not been selected and is a key
+component to the fan experience and celebration. While the state does not have a role in
+committing to a location, it does have a role in planning to deliver a safe and secure environment
+for the selected location. Until the location is identified, planning, coordination and preparation
+is limited and projected costs may need to be updated once a location is finalized.
+Similarly, the locations of team base camps and associated hotels, locations that provide lodging
+and practice space for a team throughout the tournament have not been finalized. The
+Commonwealth does not have an officially designated team base camp but teams will have the
+opportunity to choose a location throughout the winter. If a site in the Commonwealth is chosen,
+7
+
+security and transportation planning around the location will need to occur. This report captures
+the relevant state agencies, but does not necessarily encapsulate all costs, including to
+municipalities, other state agencies and out-of-state costs.
+8
+
+3. Public Safety Planning & Mitigation Plans
+a. State Involvement in Public Safety Planning
+At the state level, the FWC Boston 2026 Executive Steering Group (ESG), led by EOPSS
+Special Security Advisor John D. Pinkham, State Police Lieutenant Colonel/Deputy
+Superintendent (Retired) was established to run point on public safety and security. ESG, in
+coordination with Boston 26, designated 14 Public Safety and Security Planning Groups (PG).
+PGs are composed of local, state and federal government agencies, and include both public and
+private partners where appropriate (a list of PG participants is provided in Appendix A). PGs
+have specific missions and focus areas and are tasked with identifying a range of strategic risks
+to help inform policy makers, government leaders and the prioritization of public safety and
+security resources during the FIFA 2026 time-period in Massachusetts. While the lists of risks
+cannot identify all specific threats, it seeks to comprehensively categorize threat types for
+thorough planning of a safe event.
+DHS assigned Special Event Assessment Rating (SEAR) to all FWC matches. Matches from the
+start of the tournament through the quarterfinals are designated SEAR 2. The two semi-final
+matches, the Bronze Final (third-place match), and the Final will be SEAR 1 events (See
+Appendix B for Boston Stadium matches and corresponding schedule). SEAR 1 and 2 events are
+eligible for the appointment of a Federal Coordinating team.
+The team assigned to World Cup events in Boston will be led by the Secret Service and
+supported by a representative from the Cybersecurity and Infrastructure Security Agency the
+U.S. Coast Guard, Sector Boston and the Transportation Security Administration.
+An overview of the full reporting structure and ESG is included below for additional context.
+9
+
+10
+
+b. FWC Boston 26 Public Safety & Security Planning Groups
+Included below are summaries of each PG’s Mission and Focus, the key identified risks (in
+bold), corresponding mitigation approaches and strategies, and work to date. The PGs continue
+to meet, and plans are continually revised and updated as tournament parameters become more
+defined.
+i. Public Safety Communication and Interoperability
+Planning Group Mission & Focus:
+The Communications and Interoperability PG was established to ensure secure, coordinated and
+resilient communications among public safety, emergency response and security partners to
+support FIFA World Cup 2026 operations through strategic interoperability planning and
+technology integration. It is a dedicated, multi-agency, multi-disciplinary working group formed
+to support the Boston Stadium, the City of Boston and surrounding areas involved in or impacted
+by FIFA World Cup 2026. The group is composed of technical and managerial representatives
+of private, local, state, and federal partners to ensure that public safety communications are fully
+interoperable, redundant and responsive to the unique demands of this multi-day international
+event.
+Risk Identification & Mitigation Measures:
+Interoperability Planning
+• Establish a unified communications framework among and between private, local, state,
+federal, and FIFA public safety partners.
+Technology Integration
+• Deploy secure and resilient systems including LMR, broadband (FirstNet/5G), and
+satellite for failover support and operational continuity.
+Unified Command Communications
+• Develop Standard Operating Procedures for real-time incident coordination through
+Unified Command Centers, Regional Emergency Communications Centers, Public Safety
+Answer Points (PSAP) and Tactical Operations Centers.
+Public Access to Emergency Services
+• Advise and support best practices for PSAP operations and PSAP resilience.
+Training & Exercises
+• Provide interoperable communications proofs of concept in coordination with preplanned
+training and/or tabletop exercises aligned with FIFA timelines.
+11
+
+Cybersecurity and Physical Protection
+• Vigilantly monitor voice and data communication networks for cyber threats with rapid
+response protocols.
+• Ensure physical infrastructure, operations centers and system are secure, resilient and
+redundant.
+• Develop Primary, Alternate, Contingency, and Emergency (PACE) framework and plans.
+International Coordination
+• Support collaboration with FIFA Security, INTERPOL, and international security
+delegations for effective communications across disparate systems.
+ii. Tactical Operations
+Planning Group Mission & Focus:
+The Tactical Operations PG is established to provide the most effective and efficient public
+safety service for all stakeholders at both competition and non-competition venues by delivering
+a coordinated, intelligence-based and rapid-response security framework. In collaboration with
+local, state and federal partners, this PG will facilitate the seamless execution of all activities
+through coordinated planning, proactive risk identification and mitigation, maintenance of public
+order and support of emergency response operations.
+Risk Identification & Mitigation Measures:
+Venue Coordination and Security
+• Collaborate with law enforcement partners for on and off-site planning and preventative
+measures to include Boston Stadium, training facilities, hotels and public events.
+• Include threat assessments, crowd monitoring and quick response forces as mitigation
+strategies
+Contingency & Emergency Response Planning
+• Establish protocols for crowd management, protests, traffic incidents, active attackers and
+security breaches.
+• Deploy tactical operations personnel (SERT, STOP/SWAT, K9, POP) and rapid response
+units based on service tiers that are structured based on intelligence and threat mitigation
+strategies.
+Intelligence & Threat Monitoring
+• Partner with intelligence agencies to monitor real-time threats, analyze reports and adjust
+protection postures.
+• Disseminate daily intelligence updates to all relevant personnel.
+12
+
+iii. Intelligence & Investigations
+Planning Group Mission & Focus:
+The mission of this PG is to fully understand the threat environment and to mitigate potential
+threats through vetting suspicious activity and investigating expressed or implied threats not only
+during the event, but also during the planning phase.
+Risk Identification & Mitigation Measures:
+Complex, Coordinated Terrorist Attack or Lone Actor Attack
+• Conduct special event threat assessment, threat briefings, tactics, techniques and
+procedures and coordinate with other working groups for planning purposes.
+• Coordinate and share information with FIFA Intelligence Team, National Fusion Center
+Network, FIFA host communities, local, state and federal law enforcement and public
+safety partners.
+• Provide Behavioral Observation & Suspicious Activity Recognition (BOSAR) training.
+• Vet and investigate suspicious or criminal activity.
+• Conduct site assessments as requested/available.
+Increase in Threat Level to Events/Matches
+• Vet and investigate suspicious or criminal activity.
+• Conduct a Joint Special Event Assessment, which requires coordination and information
+sharing with FIFA Intelligence Team, the National Fusion Center Network, FIFA host
+communities, local, state and federal law enforcement and public safety.
+Large-Scale Domestic Protests & Demonstrations or Large-Scale Public Disorder Incident
+• Vet and investigate suspicious or criminal activity.
+• Utilize open-source information and subscription tools for sentiment analysis and
+publicly available information on large gatherings for public safety planning.
+• Coordinate and share information with FIFA Intelligence Team, National Fusion Center
+Network, FIFA host communities, local, state and federal law enforcement and public
+safety.
+• Participate in BOSAR and Intelligence Teams (subject to approval and availability).
+iv. Explosive Ordinance Disposal/Chemical, Biological,
+Radiological, Nuclear and Explosive
+Planning Group Mission & Focus:
+The mission of this PG is to ensure the safety and security of all attendees by providing
+coordinated planning, prevention and response strategies for potential Chemical, Biological,
+13
+
+Radiological, Nuclear and Explosive threats. The involves close coordination with local, state
+and federal experts to ensure the highest level of pre-planning, prevention and day of security.
+Risk Identification & Mitigation Measures:
+Chemical Hazards
+• Conduct continuous aerial and ground monitoring for chemical threats.
+• Conduct rapid identification of potential contaminants to support timely response and
+mitigation.
+Biological Hazards
+• Leverage state and federal expertise for ongoing air monitoring of biological agents
+throughout the operational period.
+Radiological Hazards
+• Conduct comprehensive aerial and ground measurements to detect radiological
+signatures.
+• Compare day of anomalies and pre-event readings as needed.
+Nuclear Hazards
+• Provide initial response and incident management.
+• Continue nuclear incident response, mitigation, and handling expertise by the New
+England FBI Regional Stabilization team.
+Explosive Hazards
+• Conduct pre-event sweeps using explosive detection canines and monitoring equipment.
+• Conduct visual inspections by bomb technicians, provide guidance to venue security and
+offer event visibility.
+v. Transportation Network Security
+Planning Group Mission & Focus:
+The mission of this PG is to ensure the security and safety of all transportation networks,
+employees, and system users traveling to and from FIFA World Cup 2026 sites in the Boston
+Area of Responsibility (AOR), from Boston to Providence, RI. This will be accomplished
+through coordinated planning and communication with agencies and stakeholders, implementing
+risk-based security measures, and deploying effective, integrated incident response when needed.
+Risk Identification & Mitigation Measures:
+Transportation Hub and Infrastructure Assessments
+• Conduct assessments on critical sites with partner agencies to identify vulnerabilities
+relevant to the sites, environment and FIFA events.
+• Recommend mitigations for operational and physical improvements to protect people and
+assets throughout the events.
+14
+
+Coordinated Operations Plan
+• Incorporate facets of the upcoming B26 Mobility Plan, to develop comprehensive,
+coordinated operation plans to address normal and incident operations during the
+operational period.
+Public Transportation Vehicle and Route Security
+• Share security situational reports for all hubs, transit systems and partner agencies.
+• Conduct pre-event inspections, and then regular inspections of vehicles, storage,
+maintenance and power facilities during and after event transit periods.
+Intelligence monitoring
+• Coordinate regularly with state, local and federal intelligence offices and partner
+agencies.
+vi. Public Information and Public Affairs
+Planning Group Mission & Focus:
+The mission of this PG is to develop a comprehensive public safety communications plan to
+ensure accurate, timely, and accessible public messaging before, during and after the tournament.
+This approach will strengthen public trust, enhance situational awareness and ensure
+coordination across jurisdictions and agencies during one of the world’s largest sporting events.
+Risk Identification & Mitigation Measures:
+Routine Operations
+• Provide pre-scripted multilingual messages for fan safety and overall public awareness.
+Emergency Conditions
+• Activate Joint Information System and Joint Information Center coordinated alerts and a
+“one message, many messengers” approach across established channels.
+Information Integrity
+• Monitor rumors and provide rapid rebuttal as needed.
+Accessibility
+• Provide translation, captioning and inclusive outreach through trusted messengers.
+Operational Resilience
+• Provide advanced establishment of multi-platform dissemination.
+15
+
+vii. Capability Development & Readiness
+Planning Group Mission & Focus:
+This PG is dedicated to strengthening preparedness efforts in anticipation of the 2026 Boston
+World Cup. Using a whole community approach that engages both public and private
+stakeholders, the group delivers targeted training and hosts specialized courses to address
+capability gaps. It also designs and conducts meaningful exercises to validate plans, test response
+coordination and identify organizational challenges, including testing the work of other PGs. In
+collaboration with stakeholders, the PG maintains a comprehensive list of World Cup-related
+exercises conducted from 2025 to 2026.
+Risk Identification & Mitigation Measures:
+The PG conducted a Training and Exercise Needs Assessment to identify capability gaps. The
+PG used the Strategic Risk Assessment to inform the group’s preparedness plan, aligning
+training and exercise priorities with identified threats, hazards, and desired capabilities.
+viii. FIFA FanFest & Boston Celebration Zone
+Planning Group Mission & Focus:
+The mission of this PG is to plan and deliver a safe and secure environment for the FIFA Fan
+Fest through a joint, multi-agency, risk-based approach, implementing a public safety and
+protective security effect that enhances fan and public confidence, supports community
+engagement and leaves a legacy for future special event planning. The goal is to implement
+public safety and security operational plans focused on prevention, preparedness, response, and
+recovery to address a wide spectrum of risks and threats while supporting interoperability across
+all participating local, state and federal agencies and Host City Committee.
+Risk Identification & Mitigation Measures:
+Operational Tempo and Competing Resourcing Demands from Parallel Events
+• Ensure the ability of public safety agencies and the private security sector to meet
+operational and resource demands.
+Lone Actor Opportunistic or Premeditated Attacks
+• Utilize low-tech, high-impact tactics including edged weapons, firearms, vehicle
+ramming, incendiary devices, improvised explosives or unmanned aerial systems.
+Large-Scale Public Disorder Incident
+• Develop an operation plan to address crowd agitation, fans without tickets, rival fan
+confrontations within the downtown Boston Celebration Zone.
+16
+
+Severe Weather Event Causes Wide-Scale Infrastructure Damage, Flooding
+• Ensure and effective strategy to effectuate evacuation and cancellation of programming
+and events.
+ix. Health & Medical Services
+Planning Group Mission & Focus:
+The mission of this PG is to ensure the coordinated planning, readiness and delivery of safe,
+effective and equitable public health and medical services across the AOR. Additionally, this
+group is focused on safeguarding the health and well-being of athletes, spectators, staff, and the
+broader community through a unified, multi-agency, and multi-jurisdictional approach before,
+during, and after tournament operations.
+Risk Identification & Mitigation Measures:
+Operational Demand and Health/Medical Needs from FWC 26/Parallel Events degrade
+EMS and Healthcare capacity across MA
+• Implement plans to mitigate demands on the EMS system by providing alternatives for
+low-acuity medical complaints.
+• Work to make sure each municipal EMS Service has adequate backup from private
+ambulance services and mutual aid.
+Mass Casualty Incident Related to or in the Area of FWC 26
+• Augment day-to-day mutual aid and plans with more robust resourcing, and increased
+coordination from the municipal through state level.
+Importation of a Communicable/Infectious Disease
+• Massachusetts Department of Public Health to work with public health and healthcare
+partners to monitor surveillance systems to prevent spread of infectious disease.
+x. Command, Control & Coordination
+Planning Group Mission & Focus:
+This PG is responsible for developing and implementing a scalable and flexible framework that
+enables a consistent multi-agency approach to integration, timely information exchange and
+coordinated response across all levels of government and partner agencies. The framework is an
+adaptable 'hub-and-spoke' model based on best practices from previous state and international
+large-scale, special events, designed to adjust dynamically in response to the tournament phase,
+operational tempo, concurrent planned events, and/or the ability to coordinate the response
+17
+
+efforts to a major incident or declared state of emergency, while supporting continuity of
+operations across the AOR.
+Risk Identification & Mitigation Measures:
+Operational tempo and resourcing demands from parallel events during operation period
+• Support the work of the other Boston 26 public safety and security function/mission
+specific planning groups to ensure integrated and cohesive operational delivery.
+• Ensure that decision-making is informed by timely, validated, and synthesized
+information drawn from across public-safety disciplines, enabling a shared understanding
+of risks, interdependence, and the potential impacts of major incidents or emergencies.
+• Strengthen situational awareness and decision support for senior public safety officials.
+Lack of clarity regarding public safety and security roles, responsibilities and budget
+accountability between all stakeholders.
+• Ensure that decision-making is informed by timely, validated, and synthesized
+information drawn from across public-safety disciplines, enabling a shared understanding
+of risks, interdependence, and the potential impacts of major incidents or emergencies.
+• Establish the principles for clear lines of authority, information sharing, decision-making
+and scalable interagency coordination across the AOR, leading up to, and during
+tournament operations.
+• Strengthen situational awareness and decision support for senior public safety officials.
+Potential for limited Emergency Management Assistance Compact support provided by
+surrounding states to address staffing, specialized equipment and capability shortfalls.
+• Align with support the work of the other Boston 26 public safety and security
+function/mission specific planning groups to ensure integrated and cohesive operational
+delivery.
+• Strengthen situational awareness and decision support for senior public safety officials.
+• Establish the principles for clear lines of authority, information sharing, decision-making
+and scalable interagency coordination across the AOR, leading up to, and during
+tournament operations.
+xi. Non-Competition Venues
+Planning Group Mission & Focus:
+The mission of this PG is to ensure the proper coordination and planning of safety, security and
+operational readiness of all FIFA World Cup Boston 26 non-competition venues, including
+VIP/VVIP hotels, FIFA staff accommodations, Team Base Camps and training sites. The
+group’s further mission is to deliver a coordinated, proactive, and resilient security framework
+18
+
+that protects guests, staff and property while maintaining an atmosphere of hospitality,
+accessibility and excellence consistent with FIFA standards.
+Risk Identification & Mitigation Measures:
+Unauthorized Access or Credential Compromise at VIP/VVIP and FIFA Staff Hotels.
+• Implement layered access control and credential verification measures at each hotel in
+coordination with hotel security and FIFA Accreditation.
+• Conduct pre-event site assessments and daily coordination meetings with local first
+responders.
+Medical or Fire Emergencies in High-Occupancy Hotel Environments.
+• Coordinate with local fire departments and EMS agencies to pre-position response units
+and confirm hospital routing plans.
+• Conduct walk-throughs / pre-incident planning with facility engineers and public health
+partners.
+Disruptive Protests or Public Disorder at Hotel or Fan-Facing Venues.
+• Utilize open-source intelligence and social-media monitoring (via Boston BRIC and
+Fusion Center partners) to anticipate demonstrations or crowd activity.
+• Establish protest buffer zones and ingress/egress contingency plans.
+Continuity Disruptions (Utilities, Transportation, or Logistics Failures).
+• Maintain communication channels public safety professionals hotel operations, and
+transportation providers to mitigate supply or power interruptions.
+• Develop contingency lodging and relocation plans for VIP/VVIP guests if required.
+xii. Dignitary, VIP & Team-in-Transit Protective Security
+Planning Group Mission & Focus:
+This PG is established to ensure the comprehensive safety, security and efficient movement of
+high-profile individuals, including FIFA officials, FIFA VVIPs and VIPs, government
+dignitaries, international guests and participating national teams.
+Risk Identification & Mitigation Measures:
+Protective Operations Planning
+• Develop and execute detailed protection plans tailored for each dignitary/VVIP, VIP and
+national team, to consider risk assessments and threat mitigation strategies.
+Movement & Route Security
+• Coordinate safe and efficient movement between airports, hotels, stadiums, training
+facilities and events, with secure motorcades and real-time monitoring of transit routes.
+19
+
+Venue Coordination
+• Collaborate with stadium and hotel security teams for secured entry, VIP-specific access
+and secure holding areas.
+Contingency & Emergency Response Planning
+• Establish protocols for medical emergencies, protests, traffic disruptions, and security
+breaches involving VIPs or teams.
+Intelligence & Threat Monitoring
+• Coordinate with intelligence agencies to monitor real-time threats, analyze intelligence
+reports, and update protection postures accordingly.
+Interagency Collaboration
+• Coordinate with transportation authorities, local police and FIFA security to eliminate
+operational gaps.
+xiii. Emergency Management & Preparedness
+Planning Group Mission & Focus:
+The PG’s mission is to ensure all appropriate stakeholders at the local, state and federal levels of
+government are integrated to provide a unified all-hazard approach for natural, technological and
+human-caused hazards. Additionally, the group’s focus is to ensure that public safety resources,
+including the use of mutual aid, are identified, allocated and deployed to support the AOR
+through the established Incident Command System.
+Risk Identification & Mitigation Measures:
+Resource and Funding Shortages for Daily Operations and Large-Scale Emergencies
+• Conduct needs assessments, justify budget requests and seek emergency funding.
+• Maximize resource efficiency by coordinating and pooling across different jurisdictions
+and sectors, optimizing use and ensuring needs-based deployment.
+Staffing Shortages and Bandwidth
+• Ensure deployment of public safety personnel within AOR is risk-based and
+proportionate.
+Conflict and Duplication of Effort
+• Collaborate with local, state, and federal authorities to ensure unified planning and
+response operations.
+20
+
+xiv. Boston Stadium and Last Mile Integration
+Planning Group Mission & Focus:
+To deliver an integrated operational plan for the Boston Stadium and Last Mile corridor that
+ensures public safety, crowd efficiency, accessibility, and a positive fan experience, aligned with
+FIFA 2026 standards.
+Risk Identification & Mitigation Measures:
+High Pedestrian Volume and Crowd Congestion
+• Create line-flow designs, pedestrian screening areas and coordinated ingress/egress
+routes.
+Emergency Incidents or Evacuations
+• Conduct joint drills, emergency egress procedures and integration with Unified
+Command Centers.
+Traffic Disruptions and Transport Delays
+• Create contingency routing plans and coordinate with Transportation Network Security
+PG.
+Accessibility Challenges for Attendees
+• Incorporate accessible routes, shuttle services and mobility aid stations.
+Unauthorized Commercial Activity and Brand Violations
+• Create enforcement protocols and perimeter integrity measures in partnership with FIFA
+Brand Protection.
+Communication Breakdowns Among Agencies
+• Create shared situational awareness tools and unified incident reporting systems.
+21
+
+4. Transportation and Traffic Mitigation Planning
+a. Boston 26 Transportation Working Group Structure
+Mission & Focus
+The FWC Boston Transportation Working Group (TWC) is managing the transportation and
+traffic mitigation planning associated with the FIFA 2026 World Cup matches. The TWC is a
+coordinating body, bringing together the relevant stakeholders and government agencies to plan
+and deliver safe and reliable transportation system for the upcoming matches, related activities
+and fan events in the Boston host city region.
+The mission of the TWC is to ensure the coordinated planning for transport, traffic and
+pedestrian movement throughout the FIFA 2026 World Cup matches, related activities and fan
+events in the Boston host city region. The TWC is focused on minimizing the effect on the
+greater transport network by effective mitigation planning, ensuring coordination between the
+respective stakeholders and agencies (including shared communications strategies) and
+coordinating a seamless customer experience for upcoming matches and events.
+b. Transportation and Traffic Mitigation Planning Focus Areas
+The TWC focused on transportation and traffic mitigation measures, as well as other related
+topics that stem from those core issues. While their work is ongoing, a summary of their
+findings and mitigation plans to date follows below.
+i. Transportation and Road/Rail Construction
+• Impose work stoppage on match days, including on permitted projects, on all major
+routes between Boston and Foxborough.
+• Complete an 800-foot permanent, ADA accessible level boarding platform and a 600-foot
+temporary platform at Foxboro Station to accommodate upwards of 20,000 MBTA train
+passengers per match.
+• Impose MBTA work stoppages on projects that impact service delivery on match days.
+• Continue Fare gate installations at South Station and Back Bay Station.
+• Establish queuing setup at South and Foxboro Stations with support from area partners.
+• Install Fare gates at Ruggles Station.
+ii. Transportation and Road/Rail Maintenance
+• Prior to and during game operation period, continue general maintenance activities,
+including pothole repair, large litter/debris pickup, tree trimming, catch basin cleaning,
+etc.
+• Limit maintenance activities to emergency response-related on match days.
+22
+
+• Stage maintenance crews, accident recovery crews, electricians, bridge inspection teams,
+and Temporary Traffic Control Plan contractors in designated locations for quick
+response.
+• Continue maintenance of all major transit facilities within the city center, including
+upgrades at Airport Blue line Station in preparation for the World Cup.
+• Continue State of Good Repair for track and signal work.
+• Continues MBTA assessment of the state of good repair at our most heavily used
+facilities and where possible, make necessary repairs or put in place appropriate protocols
+to ensure safe travel for customers.
+iii. Incident response
+• Position tow trucks and heavy tow equipment at strategic locations on match days.
+• Increase Highway Assistance Program vehicles and extend patrol hours on match days.
+• Utilize state police Incident Management protocols, including Quick Clearance.
+• Protect trains and buses available on match days.
+• Place EMS availability along the train routes.
+• Utilize the existing MBTA incident management protocols.
+• Provide additional MBTA security personnel, enhance safety measures and improve
+emergency preparedness through coordination with local law enforcement and event
+organizers, including stationing at Commuter Rail crossings along the SS to Foxboro
+corridor.
+• Include additional Transit staff (ambassadors) at key locations to assist with wayfinding,
+questions, and overall information.
+iv. Wayfinding Signage
+• Add 20 new, full-color PCMS boards at strategic locations along routes to the stadium.
+• Create and place static way-finding signs at strategic locations along routes to the
+stadium.
+• Update wayfinding at key downtown MBTA stations and add additional wayfinding
+signage specific for FIFA events at key MBTA locations.
+• Deploy advanced multilanguage wayfinding systems designed to guide large numbers of
+international and domestic visitors on various and would include mobile app integrations
+to help travelers navigate complex transit hubs and station networks with confidence.
+v. Travel and Roadway Congestion Mitigation
+• Review Southeast Expressway Zipper Lane use opportunities.
+• Utilize portable cameras to monitor traffic at strategic and new locations between Boston
+and Foxborough.
+23
+
+• Encourage work-from-home on match days.
+• Deploy the Ted Williams Tunnel Relief Lane for heavy flight days at Logan.
+• Through outreach messaging, encourage use of Mass511 to provide travel time
+information to drivers through outreach messaging.
+• Monitor travel times on match days using RITIS probe data.
+• Google Maps and Waze to provide enhancements to their mapping platforms.
+vi. Rail and Regional Transport
+• Provide additional service (and extended hours – if necessary) between Logan Airport
+and Airport Station/South Station and within the central core service area to move Fans
+and match goers before and after events.
+• Propose more frequent service on MBTA heavy rail, light rail, ferry, and bus to better
+accommodate the FIFA rules around clearing premises after matches.
+24
+
+5. Budget Considerations
+a. Costs
+Across departments, the Executive Office of Public Safety and Security is currently tracking
+$22.6 million in total costs. This amount includes $20.6 million at the Massachusetts State
+Police for security and labor on match days and in the 10 days leading up to and two days after
+games begin and end (June 1, 2026 to July 11, 2026) and $2 million in expenses at
+Massachusetts Emergency Management Agency for EMS strike teams, personnel, and
+Emergency Operations Center. However, these initial estimates may change as additional
+operational planning for the World Cup games, Fan Fest, and other associated events evolve and
+do not include public safety costs to cities and towns at this time.
+MBTA is tracking approximately $30 million in operating costs based on current plans,
+including $11 million in labor costs and $19 million in materials and service costs. Some of these
+costs are security related and may be reimbursed through the DHS/FEMA federal grant, but not
+all.
+In addition, capital improvements at Foxboro Station are underway at $32.7 million, most of
+which is supported through MBTA revenue bonds, with $5 million of the total coming from Fair
+Share funding.
+As noted above, cost estimates will be refined in the coming months as operating plans advance.
+In particular, additional busing costs at Regional Transit Authorities and costs at the Department
+of Public Health and Department of Conservation and Recreation may emerge. Total spending
+needs may be offset by federal funding, but beyond that, there is currently no identified source of
+financial support.
+b. Funding
+i. Federal Grant Funding
+OGR has a submission pending with DHS/FEMA for $46 million in support, the maximum
+allocation for the state, under the FWCGP. This federal grant is a competitive opportunity being
+offered to support the safety and security needs of our Massachusetts state and local entities
+directly involved with providing services for the Boston 2026 World Cup events. The available
+funds of $46 million fall below the more than $95 million in grant application received from
+state and local agencies seeking funding for identified needs.
+Upon official award notification from DHS/FEMA, B26 will be the sole recipient of funds from
+OGR and all projects and subawards approved by DHS/FEMA that were included in the state
+application. This means all federal dollars will ultimately be awarded, administered, and
+managed by B26. Decisions and grant awards are tentatively expected in early 2026, with a
+period of performance from July 5, 2025 to August 30, 2026.
+25
+
+OGR also serves as the SAA for the Counter-Unmanned Aircraft Systems Grant Program
+(CUASGP), which was established in response to growing national security concerns
+surrounding the unlawful or nefarious use of unmanned aircraft systems. OGR anticipates a
+minimum of $3.3 million in available funding.
+The program’s priorities are shaped by Executive Order 14305, “Restoring American Airspace
+Sovereignty,” and recommendations from the White House FIFA World Cup Task Force and
+subject matter experts from the field. The CUASGP provides funding to enhance state and local
+capabilities to detect, identify, track, or monitor unmanned aircraft systems (as defined in 49
+U.S.C. § 44801), consistent with Titles 18 and 49 of the U.S.C. This funding supports U.S. state,
+local, tribal, and territorial governments in combatting the unlawful use of unmanned aircraft
+systems that pose a threat to the safety and security of the American people, communities, and
+institutions. Grant awards are tentatively expected in early 2026, with a period of performance
+from July 5, 2025 to August 30, 2026.
+The grants were both established under H.R.1, the One Big Beautiful Bill Act. Apart from this
+funding above, there is currently an effort to establish federal funding within existing Federal
+Transit Administration grant programs that will supplement any state transit funds.
+ii. State supplemental funding
+As enacted in Chapter 73 of the Acts of 2025, $10 million in supplemental funding has been
+appropriated for certain costs pertaining to the 2026 World Cup matches to be hosted in the
+Commonwealth. Eligible costs include support for transportation, public safety, wayfinding and
+signage, services for individuals with disabilities, equity, inclusion and sustainability efforts and
+volunteer support costs. The funding was deposited in the Sports and Entertainments Events
+Fund established in section 13W of chapter 23A of the General Laws, which is administered by
+the Massachusetts Office of Travel and Tourism (MOTT) under the Executive Office of
+Economic Development.
+iii. Federation Internationale de Football Association (FIFA)
+funding
+The Commonwealth has not received details on the amount of funding, if any, that FIFA is
+providing for security or transportation planning and management at this time.
+iv. Private funding and sponsorship
+Information on private funding or sponsorships obtained by B26 has not been made available to
+the state at this time.
+26
+
+6. Conclusion
+The 2026 FIFA World Cup tournament is an exciting opportunity for Massachusetts. As one of
+the host cities in North America, our state is progressing with public safety and transportation
+and traffic mitigation planning for both matches and fan experiences. This work is a joint and
+collaborative effort between numerous local, state and federal government agencies and private
+partners.
+In the public safety planning space, the 14 planning groups have specific missions and focus
+areas and are tasked with identifying a range of strategic risks and mitigation strategies to help
+inform policy makers, government leaders and the prioritization of public safety and security
+resources during World Cup time period in our state. On the transportation side, the working
+group has several key transportation and traffic focus areas they are continuing to work through.
+All the groups are making tremendous progress, and their work is ongoing.
+However, the World Cup does not come without its challenges. Specifically, the sources,
+allocation, control, responsibility, and accountability for funding are still being negotiated and
+understood. The state’s role has been defined by the federal government as a pass-through for
+funding, which has limited the state’s control and authority over the existing funding. In
+addition to funding complexities, there are several key locations yet to be identified before all
+planning and mitigation strategies can be outlined. With the games just six months away, our
+state is well positioned for a successful event, but more needs to be done to optimize execution.
+27
+
+7. Appendix A
+Planning Group Members
+The following agencies participate in the relevant planning and working groups:
+Amtrak Emergency Management
+Amtrack Police Department
+Boston Regional Intelligence Center
+Boston Stadium
+Boston Stadium Impacted Communities
+Cellular Carriers & Service Providers (FirstNet Authority, Verizon Frontline, T-Priority)
+City of Boston EMS
+City of Boston OEM
+City of Boston Police Department
+City of Boston Public Health Commission
+City of Cambridge Police Department
+City of Newton (Police and Fire)
+City of Providence, RI Fire Department
+City of Providence, RI Emergency Management Agency
+City of Providence, RI Police Department
+City of Quincy (Police and Fire)
+Commonwealth Fusion Center
+Cumberland County, RI Emergency Management Agency
+Federal Communications Commission
+FIFA 26 Security Operations / Venue Safety Teams
+FIFA Boston 26 Host Committee
+Gillette Stadium Team OPS and Patriot Place
+Hospital representatives
+Keolis Security and Emergency Management
+Kraft Sports & Entertainment
+Massachusetts Department of Fire Services
+Massachusetts Department of Public Health
+Massachusetts Department of Transportation Highway Division
+Massachusetts Department of Transportation Security & Emergency Management Departments
+Massachusetts Emergency Management Agency
+Massachusetts Executive Office of Public Safety & Security
+Massachusetts Executive Office of Technology Services & Security
+Massachusetts National Guard
+Massachusetts Office of the Governor
+Massachusetts State 911 Department
+Massachusetts State Police
+MassPort
+MBTA Police Department
+28
+
+MBTA Railroad Operations
+Metropolitan Law Enforcement Council
+National Counterterrorism Center
+National Telecommunications and Information Administration
+New Hampshire State Police
+New York State Police
+Rhode Island Department of Public Health
+Rhode Island Department of Transportation
+Rhode Island Emergency Management Agency
+Rhode Island Office of the State Fire Marshal
+Rhode Island State Police
+Southeastern Massachusetts Regional 911 District
+Town of Dedham (Police and Fire)
+Town of Foxborough Office of Emergency Management
+Town of Foxborough Department of Public Works
+Town of Foxborough Fire Department
+Town of Foxborough Police Department
+Town of Smithfield, RI (Police and Fire)
+U.S. Alcohol, Tobacco, Firearms, and Explosives Bureau
+U.S. Coast Guard
+U.S. Customs and Border Patrol
+U.S. Cybersecurity & Infrastructure Security Agency
+U.S. Department of Homeland Security BioWatch Program
+U.S. Department of Homeland Security
+U.S. Department of State
+U.S. Environmental Protection Agency
+U.S. Federal Bureau of Investigation
+U.S. Federal Emergency Management Agency
+U.S. Federal Protective Service
+U.S. Health and Human Service Administration for Strategic Preparedness and Response
+U.S. Homeland Security Investigations
+U.S. Homeland Security Office of Intelligence and Analysis
+U.S. Secret Service
+U.S. Transportation Security Agency
+29
+
+8. Appendix B
+Match List
+On December 6th, FIFA announced the national teams that will be playing at the Boston
+Stadium, along with the match schedule below:
+• June 13 at 9 PM: Haiti vs. Scotland
+• June 16 at 6 PM: Norway vs. March 26 playoff finalist (either Iraq, Bolivia, or Suriname)
+• June 19 at 6 PM: Scotland vs. Morocco
+• June 23 at 4 PM: England vs. Ghana
+• June 26 at 3 PM: Norway vs. France
+• June 29 at 4:30 PM: Round of 32
+• July 9th at 4 PM: Quarterfinal
+30
+
+31

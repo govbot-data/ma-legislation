@@ -1,0 +1,1687 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+DEPARTMENT OF PUBLIC UTILITIES
+ADVANCED TRANSMISSION SOLUTIONS
+REPORT
+2025
+SUBMITTED TO THE JOINT COMMITTEE ON TELECOMMUNICATIONS, UTILITIES AND
+ENERGY PURSUANT TO SECTION 121 OF AN ACT PROMOTING A CLEAN ENERGY
+GRID, ADVANCING EQUITY, AND PROTECTING RATEPAYERS
+
+TABLE OF CONTENTS
+LIST OF ABBREVIATIONS ................................................................................................................................. 5
+INTRODUCTION .................................................................................................................................................. 7
+1. CURRENT STATE OF ADVANCED TRANSMISSION SOLUTIONS ....................................................... 10
+Overview ........................................................................................................................................................... 10
+Jurisdiction ........................................................................................................................................................ 11
+Current Policy Trends ....................................................................................................................................... 11
+Federal policy................................................................................................................................................ 12
+State policy.................................................................................................................................................... 13
+Current Industry Trends .................................................................................................................................... 14
+Cost-Effectiveness ............................................................................................................................................ 15
+Benefits ............................................................................................................................................................. 16
+Challenges ......................................................................................................................................................... 16
+Lack of recognition ....................................................................................................................................... 17
+Misaligned incentives ................................................................................................................................... 17
+Legacy planning ............................................................................................................................................ 18
+Execution limitations .................................................................................................................................... 18
+2. DYNAMIC LINE RATINGS ........................................................................................................................... 18
+Overview ........................................................................................................................................................... 18
+Current Industry Trends .................................................................................................................................... 21
+Benefits ............................................................................................................................................................. 24
+Reduced Generator Congestion .................................................................................................................... 24
+Access to Lower Cost and Zero Carbon Electricity with Less Curtailment ................................................. 25
+Maximization of the Value of Planned Investments ..................................................................................... 25
+Improved Reliability ..................................................................................................................................... 26
+Improved Resilience ..................................................................................................................................... 26
+Cost-Effectiveness ............................................................................................................................................ 26
+Challenges ......................................................................................................................................................... 28
+Accuracy Limits ............................................................................................................................................ 28
+Integration Complexity ................................................................................................................................. 28
+DLR Risks ..................................................................................................................................................... 29
+Cybersecurity ................................................................................................................................................ 29
+Technological Maturity ................................................................................................................................. 29
+3. ADVANCED POWER FLOW CONTROL ..................................................................................................... 30
+Overview ........................................................................................................................................................... 30
+Current Industry Trends .................................................................................................................................... 31
+
+Benefits ............................................................................................................................................................. 33
+Reduced Congestion ..................................................................................................................................... 33
+Maximization of the Value of Planned Investments ..................................................................................... 33
+Improved Reliability ..................................................................................................................................... 34
+Access to Lower Cost and Zero Carbon Electricity...................................................................................... 34
+Cost-Effectiveness ............................................................................................................................................ 35
+Challenges ......................................................................................................................................................... 35
+Limited Deployments.................................................................................................................................... 35
+System Planning and Regulatory Limitations............................................................................................... 36
+Market Changes ............................................................................................................................................ 36
+Unintended Risks .......................................................................................................................................... 36
+4. TOPOLOGY OPTIMIZATION ....................................................................................................................... 37
+Overview ........................................................................................................................................................... 37
+Current Industry Trends .................................................................................................................................... 37
+Benefits ............................................................................................................................................................. 39
+Reduced Generator Curtailment or Congestion ............................................................................................ 39
+Maximization of the Value of Planned Investments ..................................................................................... 39
+Improved Resilience and Reliability ............................................................................................................. 39
+Cost-Effectiveness ............................................................................................................................................ 39
+Challenges ......................................................................................................................................................... 40
+Data Accuracy ............................................................................................................................................... 40
+System Strain ................................................................................................................................................ 40
+Market Impact ............................................................................................................................................... 40
+5. ADVANCED RECONDUCTORING .............................................................................................................. 41
+Overview ........................................................................................................................................................... 41
+Current Industry Trends .................................................................................................................................... 41
+Benefits ............................................................................................................................................................. 42
+Maximization of the Value of Planned Investments ..................................................................................... 42
+Improved Resilience ..................................................................................................................................... 42
+Cost-Effectiveness ............................................................................................................................................ 42
+Challenges ......................................................................................................................................................... 43
+Installation Complexity ................................................................................................................................. 43
+Conductor Durability .................................................................................................................................... 43
+6. STORAGE AS A TRANSMISSION ASSET .................................................................................................. 43
+Overview ........................................................................................................................................................... 43
+Current Industry Trends .................................................................................................................................... 44
+
+Benefits ............................................................................................................................................................. 45
+Reduced Generator Curtailment or Congestion ............................................................................................ 45
+Maximization of the Value of Planned Investments ..................................................................................... 45
+Improved Reliability ..................................................................................................................................... 46
+Cost-Effectiveness ............................................................................................................................................ 46
+Challenges ......................................................................................................................................................... 47
+7. CONCLUSION ................................................................................................................................................. 47
+APPENDIX 1: TECHNICAL SESSION .............................................................................................................. 50
+APPENDIX 2: WRITTEN RESPONSES ............................................................................................................ 50
+
+Department of Public Utilities – Advanced Transmission Solutions Report 5
+LIST OF ABBREVIATIONS
+2024 Climate Act or An Act Promoting a Clean Energy Grid, Advancing Equity, and Protecting Ratepayers,
+Act St. 2024, c. 239
+AAR Ambient-Adjusted Ratings
+ACSR Aluminum-Conductor Steel-Reinforced
+Advancing GETs
+Act Advancing Grid-Enhancing Technologies Act of 2024, S. 3918, 118th Cong. (2024)
+APFC Advanced Power Flow Control
+Building Integrated Grids with Inter-Regional Energy Supply Act, H.R. 5551/S. 2827,
+BIG WIRES Act 118th Cong. (2023)
+CETA Clean Electricity and Transmission Act, H.R. 6747, 118th Cong. (2023)
+CIGRE Conseil International des Grands Réseaux Électriques
+Department or DPU Department of Public Utilities
+DERMS Distributed Energy Resource Management System
+DLR Dynamic Line Ratings
+DOE U.S. Department of Energy
+DOER Department of Energy Resources
+DSR Distributed Series Reactor
+EDC Electric Distribution Company
+EFSB Energy Facilities Siting Board
+ENTSO-E European Network of Transmission System Operators for Electricity
+EPRI Electric Power Research Institute
+ERCOT Electric Reliability Council of Texas
+ESMPs Electric Sector Modernization Plans
+FACTS Flexible AC Transmission Systems
+FERC Federal Energy Regulatory Commission
+GETs Grid-Enhancing Technologies
+GRIP Grid Resilience and Innovation Partnerships
+GW Gigawatt
+INL Idaho National Laboratory
+ISO Independent System Operator
+
+Department of Public Utilities – Advanced Transmission Solutions Report 6
+ISO-NE ISO New England Inc.
+LTTP Longer-Term Transmission Planning
+MassCEC Massachusetts Clean Energy Center
+MISO Midcontinent Independent System Operator
+MW Megawatt
+MWh Megawatt Hour
+NECEC New England Clean Energy Connect
+NERC North American Electric Reliability Corporation
+NOI Notice of Inquiry or Investigation
+NYISO New York Independent System Operator
+PFC Power Flow Controller
+PJM Pennsylvania-New Jersey-Maryland Interconnection
+PSCs Public Service Commissions
+PUCs Public Utility Commissions
+RFF Resources for the Future
+RFP Request for Proposals
+RTO Regional Transmission Organization
+SATA Storage as a Transmission Asset
+SATOAs Storage as Transmission-Only Assets
+SCADA Supervisory and Control Data Acquisition
+SLRs Static Line Ratings
+SPP Southwest Power Pool
+TO Transmission Owners
+
+Department of Public Utilities – Advanced Transmission Solutions Report 7
+INTRODUCTION
+The aging U.S. electric grid is experiencing a period of high, rapid electricity demand growth and an increased
+need to host new forms of generation (including solar and storage). According to ISO New England Inc.
+(“ISO-NE”), electricity demand in the region is projected to increase from approximately 25 gigawatt (“GW”)
+summer peak in 2025 to 32 GW by 2045 (i.e., by almost 30 percent). Meanwhile, winter demand is expected to
+increase by approximately 74 percent from a 23 GW all-time winter peak recorded in 2004 to 40 GW by 2045.1
+Substantial additional investment will be necessary to both meet this demand growth and decarbonize the
+electric grid. According to the U.S. Department of Energy (“DOE”), the U.S. transmission system will need to
+expand 2.4 to 3.5 times the size of the 2020 system by 2050 to achieve 100 percent emission reductions while
+reliably meeting electricity demand at lowest power system costs.2
+Faced with rising demand, the aging grid is not keeping up, leading to lengthening interconnection queues both
+regionally and nationally. An estimated 70 percent of transmission infrastructure is over 25 years old. In some
+cases, grid components are far past their 50-year life expectancy.3 Meanwhile, demand to interconnect to the
+grid is leading to growing delays. As of April 2025, approximately 37 GW of proposed new generation
+resources have joined the ISO-NE interconnection queue.4 Notably, the queue has grown by 80 percent in the
+last eight years.5 As of 2024, over 1,570 GW of generation and an estimated 1,030 GW of storage capacity
+remain in the transmission interconnection queue nationally. National average interconnection timelines have
+increased from less than two years before 2007 to over four years for projects built after 2018.6
+To meet the required needs, significant investments in distribution and transmission infrastructure are needed.
+According to ISO-NE, total investment needed to meet a winter high peak scenario of 57 GW will total between
+1 See ISO-NE, Forecast Report of Capacity, Energy, Loads, and Transmission (2025) available at
+https://isonewswire.com/2025/05/19/iso-ne-innovations-push-electricity-forecast-further-into-the-
+future/, last accessed August 29, 2025. (ISO-NE projects that New England will transition from a
+summer peak system, i.e., when highest electricity demand occurs in the summer, to a winter peak
+system by the mid-2030s).
+2 DOE, National Transmission Planning Study (2024) at 2, available at www.energy.gov/gdo/national-
+transmission-planning-study.
+3 NGA, Advanced Grid Technologies: Governor Leadership to Spur Innovation and Adoption (2025) at 5,
+available at www.nga.org/publications/advanced-grid-technologies-governor-leadership-to-spur-
+innovation-and-adoption/.
+4 ISO-NE, Resource Mix (2025), available at www.iso-ne.com/about/key-stats/resource-mix, last
+accessed July 14, 2025.
+5 ISO-NE, FERC Accepts ISO-NE’s Interconnection Process Changes (April 2025), available at
+https://isonewswire.com/2025/04/09/ferc-accepts-iso-nes-interconnection-process-changes/, last
+accessed July 14, 2025.
+6 LBNL, Queued Up: Characteristics of Power Plants Seeking Transmission Interconnection (April
+2024), available at https://emp.lbl.gov/publications/queued-2024-edition-characteristics.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 8
+$23-26 billion by 2050.7 Such substantial investments would likely lead to significant increases in
+Massachusetts electricity bills. As of July 1, 2025, weighted average transmission costs comprise
+approximately 15.4 percent of a typical Massachusetts customer’s electricity bill.8 To maintain affordable rates
+while ensuring reliability and connecting clean energy resources, new cost-effective solutions to improve the
+transmission system are needed.
+Recognizing the need for cost-effective solutions to meet growing electricity transmission needs, section 121 of
+the 2024 Act Promoting a Clean Energy Grid, Advancing Equity, and Protecting Ratepayers, St. 2024, c. 239
+(“2024 Climate Act” or “Act”), directed the Department of Public Utilities (“Department” or “DPU”), in
+coordination with the Department of Energy Resources (“DOER”), to conduct an independent investigation that
+examines the use of emerging grid solutions. Specifically, the Act calls for a review of advanced conductors,
+grid-enhancing technologies (“GETs”), and other advanced transmission technologies that can enhance the
+performance of the Commonwealth’s transmission and distribution systems. The objective of the investigation
+is to review current industry trends and the potential costs and benefits of these technologies to determine
+whether and how they can improve Massachusetts electric transmission and distribution infrastructure. The Act
+also requires the DPU to identify jurisdictional and cost-sharing issues involved in requiring a transmission and
+distribution utility to implement such advanced transmission technologies.
+On June 2, 2025, DPU opened an “Investigation into the Use of Advanced Conductors, Grid-Enhancing
+Technologies and Other Advanced Transmission Technologies to Enhance the Performance of the
+Commonwealth’s Transmission System in Applications that are Subject to Federal Jurisdiction,” docketed as
+D.P.U. 25-69. As part of the investigation, the Department cooperated with DOER and the Massachusetts
+Clean Energy Center (“MassCEC”) to convene a stakeholder session on June 23, 2025, to discuss the key issues
+related to these technologies. MassCEC prepared a summary memorandum of the session, which is included in
+the appendix. The Department also requested written feedback from Massachusetts electric distribution
+(“EDC”) and transmission companies and technology providers to further inform the investigation. Seventeen
+respondents, including the three Massachusetts EDCs,9 have submitted written feedback, which is also included
+in the appendix.
+7 Clean Energy Transmission Working Group, Report to the Legislature (December 2023) at 16, available
+at www.mass.gov/doc/clean-energy-transmission-working-group-final-report/download.
+8 DPU records based on Company filing.
+9 The Massachusetts EDCs are Eversource, National Grid, and Unitil.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 9
+This report refers to all the grid technologies and applications identified in the legislation as “advanced
+transmission solutions.”10,11 Advanced transmission solutions include GETs and other solutions that can expand
+transmission capacity within the footprint of the existing grid, i.e., without building new electric transmission or
+distribution facilities. The report reviews the following advanced transmission solutions:
+▪ Dynamic line ratings (“DLR”);
+▪ Advanced Power Flow Control (“APFC”);
+▪ Topology optimization;
+▪ Advanced reconductoring; and
+▪ Storage as a transmission asset (“SATA”).
+The report is organized as follows:
+▪ Section 1 describes the current state of all relevant advanced transmission solutions, including
+the shared potential benefits and limitations;
+▪ Sections 2-6 provide a focused analysis of each advanced transmission solution. Each section
+begins with an overview of the technology, followed by a review of industry trends, known
+benefits, cost-effectiveness considerations, and key limitations;
+▪ Section 7 summarizes key findings of the report and offers a review of the next steps; and
+▪ Appendix 1 includes MassCEC’s summary memorandum of the stakeholder session and a copy
+of the presentation delivered during the session. Appendix 2 provides written responses received
+from stakeholders.
+10 This report uses the term “advanced transmission solutions” in line with industry practice (sometimes
+also referred to as advanced transmission technologies or “ATTs”) and a common understanding that
+these solutions are currently deployed mostly on the transmission grid. DOE uses the same terminology
+in its 2024 report Pathways to Commercial Liftoff: Innovative Grid Deployment. However, as further
+identified in this report, these technologies may similarly apply to the distribution grid. The term also
+encompasses all grid-enhancing technologies (DLR, APFC, and topology optimization) as well as
+advanced reconductoring and storage as a transmission asset.
+11 A common list of the technologies defined as advanced transmission solutions (or technologies) does not
+exist, which was an issue raised during the stakeholder session. Participants suggested that technologies
+such as clean-air breakers, DERs, or energy storage should be identified as GETs. They also suggested
+that technologies that can detect abnormalities in transmission lines should be included. FERC has not
+used consistent terminology from order to order, reflecting the evolving understanding and maturity of
+these technologies. Similarly, the Working for Advanced Transmission Technologies (“WATT”)
+Coalition and Advancing Modern Powerlines (“AMP”) Coalition, both industry groups, define high
+performance conductors as those with carbon or composite cores or superconducting capabilities,
+whereas the DOE considers any conductor that can increase line capacity by more than 50 percent and
+uses composite core a superconductor. The lack of a common definitions can be a barrier, but it also
+reflects rapid technological progress in the fields of transmission technologies and materials science.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 10
+1. CURRENT STATE OF ADVANCED TRANSMISSION
+SOLUTIONS
+Overview
+Increasing electricity demand from manufacturing, data centers, and the electrification of transportation and
+buildings, along with federal and state energy policy and regulatory objectives, are driving the need to invest in
+the U.S. transmission and distribution systems. Transmission plays a key role in integrating electricity
+generation sources across large geographies and time zones.
+In Massachusetts, transmission will enable an increasing share of renewable energy resources in the state’s
+electricity mix. For example, the New England Clean Energy Connect (“NECEC”) transmission line, slated to
+be fully operational in 2026, will bring 1,200 megawatts (“MW”) of renewable, non-emitting Canadian
+hydroelectricity into New England. In addition, on March 31, 2025, ISO-NE published a request for proposals
+(“RFP”) to procure additional transmission capacity to bring wind resources from Northern Maine to high-load
+centers in southern New England, including in Massachusetts.12 The RFP includes an in-service target date of
+December 31, 2035. More recently, ISO-NE and the New England states issued a new 2025 Longer-Term
+Transmission Planning (“LTTP”) RFP, which aims to address long-term transmission needs and integrate new
+renewable resources.13
+Adding new transmission facilities to the grid presents several challenges, including complex planning, siting,
+and cost-allocation processes. Construction of new transmission lines can take between ten and 15 years to
+complete and often face local opposition. Advanced transmission solutions may offer an option to bridge near-
+term- and long-term needs by expanding capacity without the need for new lines. If deployed rapidly, these
+solutions can help the U.S. meet its ten-year peak demand needs.14
+The remainder of this section discusses issues related to jurisdictional authority, followed by current policy and
+industry trends, cost effectiveness, benefits, and challenges associated with advanced transmission solutions.
+12 Press Release, DPU Approves Settlement for New England Clean Energy Connect (January 27, 2025),
+available at www.mass.gov/news/dpu-approves-settlement-for-new-england-clean-energy-connect.
+13 Press Release, Massachusetts and Regional Partners Issue First-in-the-Nation Competitive
+Transmission Solicitation to Unlock Affordable Electricity in New England (April 1, 2025), available at
+www.mass.gov/news/massachusetts-and-regional-partners-issue-first-in-the-nation-competitive-
+transmission-solicitation-to-unlock-affordable-electricity-in-new-england.
+14 Massachusetts Executive Office of Energy & Environmental Affairs, Pop-Up Forum on Grid-
+Enhancing Technologies (July 24, 2023), recording available at www.mass.gov/info-details/pop-up-
+forum-on-grid-enhancing-technologies.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 11
+Jurisdiction
+The federal and state governments share authority over interstate electricity transmission lines. Pursuant to the
+Federal Power Act of 1935, the federal government has jurisdiction over the interstate sale and transmission of
+electricity while state governments maintain jurisdiction over transmission siting and construction.15
+The Federal Energy Regulatory Commission (“FERC”), an independent agency housed within the DOE,
+exercises federal authority over interstate sales and transmission of electricity. FERC plays a pivotal role in
+regulating interstate transmission as it is responsible for approving transmission rates and regional planning
+processes, including the adoption of advanced transmission solutions. FERC-approved transmission charges
+flow through to customers via the retail transmission charge on customer distribution utility electric bills.16
+State governments regulate electric distribution via state public utility commissions (“PUCs”) or public service
+commissions (“PSCs”), state energy offices, and siting authorities. In Massachusetts, these authorities include
+DPU, DOER, and the Energy Facilities Siting Board (“EFSB”). DPU Siting Division staff serve as staff to the
+EFSB and the DPU Commission on siting matters. EFSB is an independent board that has jurisdiction over
+large energy facilities, including high voltage electric transmission lines.17 EFSB approval is required prior to
+the commencement of construction of any EFSB-jurisdictional facility in the Commonwealth, and no state
+agency may issue a construction permit for any facility unless EFSB has approved the petition to construct the
+facility.18
+Current Policy Trends
+Federal and state governments have taken an increasingly active role in facilitating the adoption of advanced
+transmission solutions. Key FERC initiatives and orders will lead to the inclusion of advanced technologies in
+transmission planning and potentially require DLR adoption by all regional transmission organizations. Many
+states are promoting advanced transmission solutions through mandates, incentives, and performance criteria.
+15 16 U.S.C. §§ 791 et seq.; 16 U.S.C. § 824(b)(1) (“[Part II of the Federal Power Act] shall apply to the
+transmission of electric energy in interstate commerce and to the sale of electric energy at wholesale in
+interstate commerce, but … shall not apply to any other sale of electric energy.”).
+16 FERC regulates transmission charges pursuant to the Federal Power Act. 16 USCS § 791a. The 1997
+Massachusetts Restructuring Act requires retail electric and gas bills to separately reflect transmission
+charges. G.L. c. 164, § 1D (added by St. 1997, c. 164, § 193).
+17 Section 2016 of the Federal Power Act, grants FERC “backstop“ siting authority whereby FERC may
+issue a permit for the construction or modification of electric transmission facilities in a DOE-designated
+national interest electric transmission corridor if a state siting authority—(i) has not made a
+determination on an application seeking approval by the later of—(I) one year after the filing of such
+application; or (II) 1 year after the designation of the relevant National Interest Electric Transmission
+Corridor; (ii) has conditioned its approval in such a manner that the proposed construction or
+modification will not significantly reduce transmission congestion or is not economically feasible; or
+(iii) has denied an application seeking approval. 16 U.S.C. § 824p(b)(1)(C) (2021).
+18 G.L. c. 164, §§ 69H to 69Q; and §§ 69S to 69W. The EFSB’s jurisdiction over energy infrastructure
+was expanded in 2024 with many of the changes going into effect on March 1, 2026, and applying to
+projects filed on or after July 1, 2026. See generally, St. 2024, c. 239.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 12
+Federal policy
+FERC has considered advanced transmission solutions across several proceedings in the last five years. The
+most notable orders include:
+▪ FERC Order 881 (2021) requires transmission owners to implement ambient-adjusted ratings
+(“AAR”) and requires market operators to establish and implement systems and procedures
+necessary to allow transmission owners to implement DLR;19,20
+▪ FERC Advance Notice of Proposed Rulemaking (2024) may expand and build on Order 881
+by requiring transmission providers to consider real-time variables, which would necessitate the
+implementation of DLR.21 The proposed rulemaking introduces congestion-based metrics to
+identify candidate lines for the deployment of DLR;22
+▪ FERC Order 2023 (2023) requires transmission owners (“TO”) to incorporate specific
+alternative transmission technologies into their interconnection study processes.23 Notably,
+Order 2023 excludes DLR, partly because it depends on variable conditions;24 and
+▪ FERC Order 1920 (2024) requires transmission providers, e.g., ISO-NE, to consider DLR,
+APFC, advanced conductors, and transmission optimization as part of their potential solutions
+for long-term transmission system planning.25,26
+19 See AES, Smarter Use of the Dynamic Grid (April 2024) at 14, available at
+https://www.aes.com/sites/aes.com/files/2024-04/Smarter-Use-of-the-Dynamic-Grid-Whitepaper.pdf
+(The required systems and procedures include items such as monitoring equipment, software, and
+hardware to submit and host line data.).
+20 Order No. 881, Managing Transmission Line Ratings, 177 FERC ¶ 61,179 (2021).
+21 Implementation of Dynamic Line Ratings, 187 FERC ¶ 61,201 (June 27, 2024).
+22 Id.
+23 Order 2023 excluded DLR from the list. but a separate Notice of Inquiry (NOI) specific to DLR issued
+in 2022 could introduce further reform. FERC also issued a Notice of Proposed Rulemaking in 2022,
+proposing to require public utility transmission providers to include consideration of DLR and APFCs in
+transmission planning, which FERC recognizes may offer a more efficient or cost-effective alternative.
+24 ESIG, Utility Perspectives on Making Grid-Enhancing Technologies Work (July 2025) at 10, available
+at www.esig.energy/wp-content/uploads/2025/07/ESIG-Grid-Enhancing-Technologies-report-2025.pdf.
+25 Order No. 1920, Building for the Future Through Electric Regional Transmission Planning and Cost
+Allocation, 187 FERC ¶ 61,068 (June 11, 2024).
+26 Brattle Group, Incorporating GETs and HPCs into Transmission Planning Under FERC Order 1920
+(April 2025), available at www.brattle.com/wp-content/uploads/2025/04/Incorporating-GETs-and-
+HPCs-into-Transmission-Planning-Under-FERC-Order-1920.pdf.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 13
+FERC may consider other policies in the future. For example, FERC held a technical conference considering a
+shared savings incentive for transmission technologies.27
+Lawmakers in Congress have also proposed several bills, including:
+▪ The Clean Electricity and Transmission Act (CETA) would require transmission providers to
+consider deploying grid-enhancing assets, broadly defined as technologies that can increase
+capacity, efficiency, and reliability and defer investment in transmission facilities. The bill
+would also enable interconnecting customers to request consideration of grid-enhancing assets.
+▪ Building Integrated Grids with Inter-Regional Energy Supply Act (BIG WIRES Act) would
+require each interregional transmission planning region to incorporate GETs, energy efficiency,
+and demand response into its determination of interregional transfer capability.
+▪ Advancing Grid-Enhancing Technologies Act (Advancing GETs Act) would require FERC
+to establish a shared savings mechanism to incentivize GETs deployment by returning some of
+the savings attributable to investments in grid-enhancing technologies to developers.
+State policy
+In the context of the distribution system, the Massachusetts DPU established a new cost allocation framework to
+approve and finance distributed generation (“DG”) related infrastructure upgrades, called the Capital
+Investment Projects (“CIPs”). The DPU observed that where the interconnection of DG facilities triggered the
+need for upgrades of the electric power system, the significantly higher than historical interconnection costs
+associated with those upgrades routinely prevented projects in the interconnection queue from moving forward.
+Through the CIPs, the DPU adopted a cost allocation design whereby ratepayers will help fund the initial
+construction of these infrastructure upgrades, but will be partially reimbursed over time from fees charged to
+DG facilities that are able to interconnect due to the upgrades. In consideration thereof, the Massachusetts DPU
+recognized the potential benefits of advanced technologies and service offerings when considering
+infrastructure upgrades.28
+Recent legislation also recognizes these benefits. In 2024, the Governor signed into law a requirement for cost-
+effectiveness and timetable analysis of GETs, among other strategies. Now, when proposing capital
+improvements or additions to the distribution system in base rate and other proceedings, the law: (1) directs
+27 FERC Docket Nos. RM20-10-000, AD19-19-000, Electric Transmission Incentives Policy Under
+Section 219 of the Federal Power Act (The “Workshop to Discuss Certain Performance-based
+Ratemaking Approaches” was held on September 10, 2021 and is available at www.ferc.gov/news-
+events/events/workshop-discuss-certain-performance-based-ratemaking-approaches-09102021. This
+link includes the agenda and transcript, among other materials).
+28 See e.g., NSTAR Elec. Co. Capital Investment Project Proposal Petitions, D.P.U. 22-52/22-53/22-54/22-
+55, at 146-150 (2024) (encouraging the EDC to consider advanced technologies where possible and to
+leverage its existing grid modernization and future electric sector modernization plan to coordinate the
+deployment of interconnection-related investments and to maximize the benefits of each). In other
+dockets before the DPU, stakeholders have proposed distribution investments similar GETs, for example
+DERMS. DPU, Grid Modernization and AMI Resources, www.mass.gov/info-details/grid-
+modernization-and-ami-resources#electric-sector-modernization-plans (last accessed August 14, 2025).
+
+Department of Public Utilities – Advanced Transmission Solutions Report 14
+each EDC to conduct a cost-effectiveness and timetable analysis of multiple strategies, including the
+deployment of advanced transmission technologies, advanced conductors, grid-enhancing technologies, or
+energy storage used as a distribution or transmission resource; and (2) permits each company to propose a
+performance incentive mechanism recovered from ratepayers to provide a financial incentive for the company’s
+cost-effective deployment of these investments.29
+Current Industry Trends
+Advanced transmission solutions are now commercially available but remain underutilized. Nationally, utilities
+have not adopted transmission grid-enhancing technologies including DLR, APFC, and topology optimization
+at scale.30 Advanced conductors remain a niche choice for select reconductoring projects for challenging
+locations where traditional steel core conductors cannot meet the sag clearance allowances. Most storage
+solutions remain used as a generation asset rather than a transmission asset.31 In Massachusetts, both National
+Grid and Eversource have deployed GETs, advanced conductors, and batteries on a limited scale. According to
+the DOE, six to twelve large operational, no regrets deployments across the nation for each technology can tip
+the scales. 32
+Globally, deployment and investment in advanced transmission solutions is greater than in the United States. In
+countries such as Belgium, the Netherlands, Italy, India, and China, large-scale advanced reconductoring
+projects have been deployed quickly expand transmission capacity.33 China, in particular, has now deployed
+over 370 miles of advanced conductors.34 European transmission operators have used GETs since the late
+2000s and now have multiple scaled deployments. For example, Belgium’s transmission operator, Elia, has
+over 30 active DLR deployments. Transmission operator in the United Kingdom, National Grid, has deployed
+48 advanced power flow control devices across its grid, unlocking 1.5 GW of electric capacity and saving an
+estimated $500 million over seven years.35
+29 G.L. c. 164, § 150 (added by St. 2024, c. 239, § 82). See also, St. 2024, c. 239, § 60; G.L. c. 164, § 69H
+(EFSB, in its review of linear projects, must make a determination that “in the case of large clean
+transmission and distribution infrastructure facilities, small clean transmission and distribution
+infrastructure facilities and natural gas pipelines, due consideration has been given to advanced
+conductors, advanced transmission technologies, grid enhancement technologies, non-wires or non-
+pipeline alternatives, the repair or retirement of pipelines and other alternatives in an effort to avoid or
+minimize expenditures”.)
+30 DOE, Pathways to Commercial Liftoff: Innovative Grid Deployment (April 2024) at 34, available at
+www.energy.gov/sites/default/files/2025-07/LIFTOFF_DOE_Innovative-Grid-Deployment.pdf.
+31 Id.
+32 Id. at 5.
+33 MIT, A Roadmap for Advanced Transmission Technology Adoption (September 2024) at 5, available at
+https://ceepr.mit.edu/wp-content/uploads/2024/09/MIT-CEEPR-RC-2024-06.pdf 5.
+34 DOE, supra note 30.
+35 MIT, supra note 33.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 15
+Cost-Effectiveness
+Advanced grid solutions generally are more cost-effective than traditional transmission system upgrades.
+Nationally, deploying these solutions could help defer between five and 35 billion dollars in transmission and
+distribution infrastructure costs over the next 5 years.36 Available evidence supports this estimate. In reviewing
+28 projects from around the world for a 2022 report, the Idaho National Laboratory assessed that net savings far
+exceed the costs of GETs.37 For example, a DOE study showed that DLR and APFC applications in New York
+cost less than 25 percent of traditional upgrades. In Pennsylvania, a DLR solution deployed on two
+transmission lines cost less than $1 million compared to a traditional upgrade estimated to cost between $13-68
+million.38 A study in Illinois, Indiana, Ohio, Pennsylvania, and Virginia estimated that adoption of three ATTs
+would cost about $100 million and yield about $1 billion in annual production cost savings.39
+High costs associated with initial advanced technology deployments can pose barriers to the wider use of such
+technologies. Advanced technologies may require investment in additional foundational infrastructure and/or
+capacity. In other instances, the technologies simply cost more upfront. This can include expenses for
+specialized equipment, custom software development, integration with existing legacy systems, extensive
+testing and validation, and the high cost of initial pilot projects due to a lack of economies of scale. However,
+investments in advanced technologies often reduce the costs of future deployments and lead to long-term
+savings and efficiencies.
+Cost-effective solutions are especially important given the transmission capacity needed to support future
+electrification. For example, in a high-winter-peak scenario, ISO-NE estimates that New England will need to
+invest $23-26 billion in transmission infrastructure in order to meet a 57 GW winter peak by 2050.40 New
+England ratepayers already are subject to the highest transmission costs in the United States.41 Between 2011
+and 2020, annual average spending on transmission in New England reached $5.90 per every MW hour
+(“MWh”) of annual load. In contrast, Floridians spent $0.17 per every MWh of annual load over the same
+period, the lowest in the country.42 Advanced transmission solutions could help minimize the investment
+needed to add transmission capacity and thus help maintain affordability.
+36 DOE, supra note 30, at 25.
+37 INL, A Guide to Case Studies for Grid Enhancing Technologies (October 2022), available at
+https://inl.gov/content/uploads/2023/03/A-Guide-to-Case-Studies-for-Grid-Enhancing-
+Technologies.pdf.
+38 DOE, supra note 30, at 20.
+39 MIT, supra note 33.
+40 ISO-NE, 2050 Transmission Study (February 2024), available at www.iso-ne.com/static-
+assets/documents/100008/2024_02_14_pac_2050_transmission_study_final.pdf.
+41 DOE, National Transmission Needs Study (October 2023), available at
+https://www.energy.gov/sites/default/files/2023-12/National%20Transmission%20Needs%20Study%20-
+%20Final_2023.12.1.pdf.
+42 Id.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 16
+Benefits
+Advanced transmission solutions have three distinct advantages over traditional, wires-based solutions:
+▪ Lower cost and faster to install. GETs can cost orders of magnitude less than traditional,
+wires-based solutions, with some deployments paying back in less than a year. Installing GETs
+takes between six months and two years, sometimes less, and in some instances (topology
+control, DLR) can be implemented without outages. Advanced conductors are often cheaper on
+a per unit cost basis (e.g., dollar per MVA of transfer capacity). When used to reconductor along
+existing rights-of-way, advanced conductors can take nearly half the amount of time needed to
+reconductor compared to deploying conventional conductors. Building new lines with advanced
+conductors requires smaller rights-of-way and fewer towers.43
+▪ Complementary to existing equipment. Unlike construction or refurbishment of major
+transmission lines, advanced transmission solutions can integrate into the existing grid without
+the need for extensive replacements or new rights-of-way. Because advanced transmission
+solutions complement existing facilities, transmission owners can enhance capacity, flexibility,
+and reliability of their systems at lower cost. These solutions can help maximize the value of
+existing assets while also offering a scalable and affordable option to expand capacity.44
+Advanced transmission solutions could support 20-100GW of incremental peak demand across
+the existing U.S. grid if installed individually and potentially more if installed in strategic
+combinations.45
+▪ Portable and reversible. A subset of advanced transmission solutions (e.g., DLR and APFCs)
+have a distinct advantage in that they are portable, and their installation is reversible. Thus, if
+installation at a specific location does not provide the expected benefits, the technology can be
+moved elsewhere. Topology optimization is entirely software-based and therefore does not
+require hardware installation. This reduces the investment risk and further enhances cost-
+effectiveness. Further, given the increasing need to expand transmission capacity quickly,
+portability can help ensure any changes to expected planning outcomes can be adjusted at a
+relatively low cost.46
+Challenges
+Advanced transmission solutions offer clear operational and economic benefits, but their deployment has been
+limited. In reviewing traditional planning processes, Brattle Group, a consultancy, has identified four key
+barriers to adoption, including:
+▪ Lack of recognition;
+43 Brattle Group, supra note 26, at 14-15.
+44 Id. at 15-16.
+45 DOE, supra note 30, at 3.
+46 Brattle Group, supra note 26, at 16-17.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 17
+▪ Misaligned incentives;
+▪ Legacy planning; and
+▪ Execution limitations.
+Lack of recognition
+Technology providers aver that transmission owners have not yet recognized and embraced advanced
+transmission solutions. They argue that transmission owners are typically more conservative in embracing new
+technologies, preferring certainty and reliability over something untested or unknown. Further, even if
+transmission solutions are recognized, transmission owners and regional transmission organizations might see
+these technologies as operational tools rather than key elements to consider in transmission planning.47 For
+example, the Southwest Power Pool’s (“SPP’s”) current transmission planning tariff does not recognize some
+technologies as potential solutions in transmission planning. Technologies like DLR are seen as less predictable
+because they do not provide the same firm capacity rating or could lead to an overly optimistic rating.48
+Although industry reports and developers cite lack of recognition as a barrier, in Massachusetts this challenge is
+not as prominent. The state’s two largest transmission owners, Eversource and National Grid, have recognized
+the benefits of advanced transmission solutions and have deployed several projects throughout Massachusetts
+and their other service areas. Both transmission owners report that the evaluation of grid-enhancing
+technologies is a standard step in federally regulated transmission planning process.49 ISO-NE is also in the
+process of developing recommendations and issuing guidance on the application of GETs in the planning
+process. ISO-NE plans to issue a transmission planning technical guide addressing GETS by the end of 2025.50
+Misaligned incentives
+Misaligned incentives also deter the adoption of GETS. During DPU’s stakeholder session, lack of incentives
+was among the first challenges mentioned.51 Further, the conservative industry culture would tend towards
+penalizing failures rather than rewarding a successfully implemented innovative solution.52 This leaves little
+incentive for utilities to take on the risk of adopting new technologies or solutions.
+Although less costly than traditional upgrades, advanced transmission solutions can also have high initial
+investment needs. TOs may choose to avoid new technologies if they have to bear the initial costs associated
+with operationalizing them. For example, if the expenses related to preparing operations for reliable
+47 Id. at 32-33.
+48 Id.
+49 See Appendix 2.
+50 ISO-NE, Overview of Grid Enhancing Technologies: ISO New England Perspective (June 2025), at
+Slide 14, available at https://www.iso-ne.com/static-
+assets/documents/100024/2025_06_18_gets_iso_presentation.pdf.
+51 See Appendix 1. Page 5.
+52 Brattle Group, supra note 26, at 32-33.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 18
+deployment of advanced transmission technologies do not qualify for cost recovery as capital expenses, the TOs
+would have to absorb these expenses. Such costs could be considerable from the TOs’ perspective, including
+the time spent on training staff to understand the new technologies and how to incorporate them into existing
+operations and models to benefit ratepayers, as well as the need to design new cost recovery methodologies
+acceptable to regulators.
+Legacy planning
+Existing planning methodology does not fully capture the benefits of advanced transmission solutions, which
+make them less favorable in cost-benefit analyses. Legacy grid planning is based on static and deterministic
+methods over specified target years, which is not well suited to adequately assess dynamic conditions on the
+grid. For example, static methodology does not capture short-term issues like renewable energy fluctuations or
+the impact of growing electric vehicle adoption and DERs. As a result, it undervalues more cost-effective and
+scalable solutions in favor of long-term upgrades such as large transmission lines or substations.53
+Execution limitations
+Transmission providers face challenges in the deployment of advanced transmission solutions. From an
+operational perspective, adding advanced transmission technologies means departing from established practices
+and may increase the risk of unintended consequences. Some advanced transmission solutions can introduce
+system conditions that fall outside the scope of traditional contingency and stability assessments, which could
+create unexpected interactions and challenge system reliability. Operators already know how existing
+technologies operate, how to model them, how they interface with other assets, how to procure them, and their
+likelihood of recovering these costs in regulatory proceedings. Such familiarity supports predictable planning
+and stable operations, while new technologies introduce new uncertainties. Further, should anything go wrong,
+TOs risk incurring financial penalties for not meeting the required reliability and security standards.54
+2. DYNAMIC LINE RATINGS
+Overview
+According to the DOE, DLR comprise several technologies and methodologies for determining conductor
+thermal ratings based on improved, more granular, or real-time data. DLR uses sensing devices and algorithms
+to calculate the amount of capacity a transmission line can safely carry (the “ampacity” of the line), which
+informs dispatch decisions.55 A typical DLR system includes sensors on or near lines, communication gateways
+that relay information between the sensors and grid operators, analytical systems to process DLR data, and
+supervisory and control data acquisition (“SCADA”) systems that enable operators to make final decisions.
+53 Id. at 32-34.
+54 AES, supra note 19, at 16.
+55 Clean Energy Transmission Working Group, supra note 7, at 37.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 19
+Figure 1 below depicts a typical DLR system.
+Figure 1 — Conceptual DLR system (Source: DOE)56
+Traditionally, grid operators have relied on static line ratings (“SLRs”) to measure the maximum ampacity.57
+SLRs are based on conservative assumptions about the transmission line operating environment, such as static
+weather conditions, average wind speeds and direction, average ambient temperatures, and solar conditions for
+summer and winter seasons.58 This results in a theoretical, rather than actual or real-time, thermal rating based
+on expected environmental conditions. SLRs often vary by season, referred to as “seasonal static ratings.”59
+While DLRs use the same methods as SLR, DLRs incorporate a more-sophisticated time varying component,
+which provides a more accurate estimate of varying thermal limits.60 Collectively, DLR technologies include
+dynamic thermal line ratings, AARs, real-time thermal ratings, forecasted dynamic line ratings, or analysis of
+existing lines with previously gathered data. DLR systems can be weather-based or asset-based, measuring
+environmental or conductor conditions, respectively.61
+AARs, which are widely used across the United States, use line-specific data and ambient air temperature data
+to determine conductor thermal ratings. Although technically a subset of DLRs, AARs are less dynamic than
+56 DOE, Advanced Transmission Technologies (December 2020), available at
+www.energy.gov/sites/prod/files/2021/02/f82/Advanced%20Transmission%20Technologies%20Report
+%20-%20final%20as%20of%2012.3%20-%20FOR%20PUBLIC.pdf.
+57 INL, Dynamic Line Rating, https://inl.gov/national-security/dynamic-line-rating/, (last visited July 3,
+2025).
+58 DOE, Dynamic Line Rating: Report to Congress (June 2019) at 11, available at
+www.energy.gov/sites/prod/files/2019/08/f66/Congressional_DLR_Report_June2019_final_508_0.pdf.
+59 IRENA, Innovation landscape brief: Energy as a Service, International Renewable Energy Agency
+(2020) at 6, available at www.irena.org/-
+/media/Files/IRENA/Agency/Publication/2020/Jul/IRENA_Energy-as-a-Service_2020.pdf.
+60 DOE, supra note 58, at 4.
+61 Id.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 20
+DLR because they do not monitor changes in real time. However, AARs are more dynamic than the traditional
+SLR. Figure 2 below shows how line ratings vary over time depending on the type of line rating used.
+Figure 2—Line Rating Comparison (SLR, AAR, DLR) (Source: RFF)62
+In principle, DLR systems allow grid operators to optimize line use. DLRs enable operators to relax line rating
+restrictions when conditions permit, therefore allowing operators to safely increase transfer capability of the
+individual line and, as a result, reduce congestion or help avoid curtailment. A joint study by DOE and Oncor
+found that DLRs can increase transfer capability by five to 25 percent, relative to SLR.63 In addition, DLR
+devices can typically be installed faster and at a lower cost relative to reconductoring and rebuilding lines,
+which can take several years and require extended line outages. DLR technologies also protect the equipment
+from safety hazards by increasing situational awareness.64
+Despite their benefits, DLR systems are not without limitations. According to a recent report by the Resources
+for the Future (“RFF”), DLR is likely most effective in cooler environments where it adds the most transfer
+capacity. Therefore, DLR is best suited to environments with plentiful wind or congestion during winter peaks
+62 RFF, Expanding the Possibilities: When and Where Can Grid-Enhancing Technologies, Distributed
+Energy Resources, and Microgrids Support the Grid of the Future? (September 2023) at 3, available at
+https://media.rff.org/documents/Report_23-13.pdf.
+63 Brattle Group, Unlocking the Queue with Grid-Enhancing Technologies (January 2021), available at
+www.brattle.com/wp-
+content/uploads/2021/06/21200_unlocking_the_queue_with_grid_enhancing_technologies.pdf.
+64 RFF, supra note 62, at 4.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 21
+rather than environments with high solar generation in high temperature conditions.65 DLR technology is also
+subject to data and modelling errors.
+The following sub-sections describe current industry trends, benefits, and limitations of DLR in more detail.
+Current Industry Trends
+DLR systems are reaching commercial maturity. The European Network of Transmission System Operators for
+Electricity (“ENTSO-E”) has assigned DLR an eight-out-of-nine on its technology readiness level scale,
+indicating that operators have successfully deployed DLR across the European grid and validated its
+performance.66 ENTSO-E also considers DLR as part of its ten-year network development plan, indicating
+possible future expansion.67 LineVision, a Massachusetts based DLR provider,68 states that its sensors have
+reached technology readiness level 9 with deployments over 500 sites across four continents, including projects
+with seven-of-the-ten largest utilities in the United States.69 Broadly, the market supply of DLR systems is
+increasingly competitive. As of 2025, several companies around the world specialize in providing DLR
+systems, including LineVision,70 Smart Wires,71 Heimdall Power,72 Ampacimon,73 Sumitomo Electric,74 and
+others.
+DLRs have gained traction with transmission system operators worldwide, but Europe has emerged as an early
+adopter. In Europe, transmission organizations began piloting DLR in the late 2000s. Belgium has over 30
+65 Id. at 5.
+66 ENTSO-E, Technopedia. Dynamic Line Rating (DLR) (March 2025), available at
+https://www.entsoe.eu/technopedia/techsheets/dynamic-line-rating-dlr/.
+67 ENTSO-E, Implementation Guidelines for TYNDP 2024 (April 2025), available at
+https://eepublicdownloads.blob.core.windows.net/public-cdn-container/tyndp-
+documents/TYNDP2024/foropinion/CBA_Implementation_Guidelines.pdf.
+68 LineVision, LineVision’s Grid-Enhancing Technology, www.linevisioninc.com/sensors-and-software
+(last accessed July 14, 2025).
+69 See Appendix 2. Line Vision Response. Page 8.
+70 Id.
+71 SmartWires, Smart Wires Cements Position as Grid Enhancing Technology Leader with New Dynamic
+Rating Offering (August 2022), available at www.smartwires.com/2022/08/25/smart-wires-cements-
+position-as-grid-enhancing-technology-leader-with-new-dynamic-rating-offering/.
+72 Heimdall Power, What is Dynamic Line Rating?, https://heimdallpower.com/dynamic-line-rating/ (last
+accessed July 14, 2025)
+73 Ampacimon, Dynamic Line Rating, www.ampacimon.com/dynamic-line-rating (last accessed July 14,
+2025).
+74 Sumitomo, Dynamic Line Rating System,: https://sumitomoelectric.com/products/high-voltage-
+cable/dynamic-line-rating-system, (last accessed July 14, 2025).
+
+Department of Public Utilities – Advanced Transmission Solutions Report 22
+active DLR deployments, while across Belgium and France, DLR has been deployed across 27 lines including
+all high voltage alternating current interconnection lines.75, 76 As of 2017, Spain uses DLR sensors on existing
+220 kV transmission lines.77 Slovenia has deployed DLR systems across 27 high-voltage lines since 2013.78
+While DLR deployment is not as prominent in the United States, there are several pilot programs underway. In
+Massachusetts, National Grid and Eversource are testing DLR technology on their respective systems. National
+Grid has proposed installing DLR on transmission lines that would help integrate offshore wind into
+Massachusetts. Across the region, National Grid has integrated DLR on two 115 kV lines in Rhode Island and
+four 115 kV lines in Western New York. The Company found that DLR can increase capacity for some
+transmission line segments by ten to 20 percent, especially valuable on higher voltage lines.79 With funding
+from DOE, Eversource has partnered with the University of Connecticut (“UConn”) to install DLR sensors
+strategic points on the 20.26-mile, 345 kilovolt transmission line between the town of Carver and the Cape Cod
+Canal.80 In March 2024, Great River Energy, a not-for-profit wholesale electric power cooperative based in
+Minnesota and Wisconsin, and Heimdall Power, a technology provider, announced the largest DLR deployment
+in the U.S. to date with 52 sensors to be installed and the potential to increase transmission capacity by 42.8
+percent.81
+Through grant funding and support, the Federal government has been active in moving the industry towards
+more DLR deployment. DOE, through the Grid Deployment Office, is managing a $10.5 billion Grid
+Resilience and Innovation Partnerships (“GRIP”) program aimed at enhancing grid flexibility, including
+through investment in DLR deployments.82 In addition to providing funding for the DLR deployment with
+UConn and Eversource mentioned above, the DOE recently granted Dominion Energy in Virginia $33.7 million
+to alleviate transmission system congestion using DLR.83 FERC has taken an active role in modifying the
+country’s regulatory framework to permit, or even require, new line rating methodologies. FERC Orders No.
+881 and 881-A require all transmission providers to adopt AAR for evaluating transmission service by July
+75 DOE, Pathways to Commercial Liftoff: Innovative Grid Deployment (April 2024) at 34, available at
+Pathways to Commercial Liftoff: Innovative Grid Deployment.
+76 ENTSO-E, supra note 66.
+77 Id.
+78 Id.
+79 See Appendix 2. National Grid Response. Page 6.
+80 Jaclyn Severance, UConn Receives Department of Energy Grant Supporting Offshore Wind Grid
+Integration, UConn Today, November 20, 2023, available at https://today.uconn.edu/2023/11/uconn-
+receives-department-of-energy-grant-supporting-offshore-wind-grid-integration/.
+81 DOE, supra note 75, at 36.
+82 DOE, Grid Resilience and Innovation Partnerships (GRIP) Program, www.energy.gov/gdo/grid-
+resilience-and-innovation-partnerships-grip-program (last accessed July 14, 2025).
+83 DOE, supra note 75, at 36.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 23
+2025. The orders also require organized market operators to provide and maintain systems and procedures that
+allow transmission owners to implement DLR.84, 85
+Currently, most organized electricity market operators in the U.S. use static seasonal line ratings. In line with
+Order 881 most now also accept AAR, including ISO-NE. 86 Four out of seven organized markets can accept
+DLR. Figure 3 below shows the map of organized markets in the United States and line rating methodologies
+each uses.
+Figure 3—Line Rating Methodologies Across Organized Markets in the U.S. (Source: DOE)87
+While DLR systems improve the overall economic efficiency of operating the electric power system and benefit
+end-users of electricity, they may negatively affect certain participants in wholesale markets.88 For example,
+peaking and other generation plants that depend on a constrained network to maintain profitability may be
+disadvantaged if DLR reduces congestion. Notably, ISO-NE is actively engaged in understanding and
+84 FERC may introduce further changes following its June 28, 2024 Advanced Notice of Proposed
+Rulemaking on Dynamic Line Ratings.
+85 Press Release, FERC Rule to Improve Transmission Line Ratings Will Help Lower Transmission Costs,
+December 16, 2021, available at www.ferc.gov/news-events/news/ferc-rule-improve-transmission-line-
+ratings-will-help-lower-transmission-costs (FERC Docket No. RM20-16, Order No. 881).
+86 DOE, supra note 56, at 10.
+87 Id.
+88 DOE, supra note 58, at 21.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 24
+considering the implications of DLR and other advanced transmission solutions for the region.89 ISO-NE had
+previously installed DLR as a pilot project in mid-to late-1990s.90 The technology did not receive widespread
+adoption as it was still in the early stages of development.
+Benefits
+The main operational feature of all DLR systems is increased visibility of real-time conditions on the
+transmission network. With additional visibility, operators can more accurately determine current carrying
+capacity limits of transmission lines and safely maximize line utilization. Efficient line utilization can, in turn,
+help increase capacity and defer some of the infrastructure investment that would otherwise be needed to relieve
+congestion. DLR also allows grid operators to ensure cost-efficient dispatch through more accurate
+transmission capacity forecasts, which can enable a favorable commitment of generators in day-ahead markets
+and improved dispatch within real-time markets. With enhanced situational awareness of the transmission
+system, DLR systems also help grid operators improve reliability and resilience.91
+Reduced Generator Congestion
+DLR helps reduce generator curtailment due to congestion by allowing transmission lines to carry more
+electricity when real-time conditions allow. Under typical operations and using traditional line rating
+methodologies, grid operators may be required to take protective actions (e.g., load shedding, generator
+curtailment) to maintain spare capacity requirements that may result in interruptions and outages. With DLR,
+operators can calculate true thermal limits of the transmission lines and, under the right circumstances, allow
+additional headroom, which can in turn help avoid curtailment. According to the DOE, DLR can increase line
+capacity by ten to 30 percent on average.92
+When conditions are favorable, DLR can help ensure cost-effective dispatch. Grid operators establish day-
+ahead and real-time dispatch based on expected transmission constraints and electricity demand. If constraints
+are expected to be lower due to DLRs, operators can establish a more favorable commitment of generators.93
+For example, when DLR estimates provide for periods of increased capacity, grid operators can commit lower
+89 Press Release, ISO-NE Forum Will Explore Potential Use Of Grid-Enhancing Technologies, April 28,
+2025, available at https://isonewswire.com/2025/04/28/iso-ne-forum-will-explore-potential-use-of-grid-
+enhancing-technologies/.
+90 ISO-NE, supra note 50, at Slide 8.
+91 DOE, supra note 58, at 5.
+92 DOE, supra note 75, at 5.
+93 DOE, supra note 58, at 5.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 25
+cost electricity to flow and reduce congestion costs.94 Similarly, periods of increased transmission capacity can
+enable more power trade across interconnected markets, resulting in reduced congestion and lower costs.95
+Access to Lower Cost and Zero Carbon Electricity with Less Curtailment
+DLR facilitates integration of renewable generation by reducing curtailment due to avoided grid congestion,
+most promisingly for wind generation.96 In areas rich with wind resources, wind simultaneously spins the
+turbines and cools the nearby transmission lines.97 During periods of peak wind generation, DLR enables
+transmission owners to safely increase transmission capacity and help avoid curtailment. For the same reasons,
+DLR may also lower interconnection costs for wind generators if smaller interconnection facilities are needed.98
+In 2022, National Grid launched a DLR system in western New York near two large wind farms. The project is
+expected to reduce wind curtailment in the region by 350 MW and increase overall transmission capacity by an
+average of 190 MW.99, 100 In Belgium, DLRs have provided daily savings of €500,000 since 2008 amid an
+expansion in wind generation.101
+Maximization of the Value of Planned Investments
+When deployed under optimal circumstances, DLR offers a faster and more cost-effective solution to expanding
+transmission capacity than traditional wire upgrades. DLR can help increase effective transmission capacity by
+an average of ten to 30 percent at less than five percent of the cost of a traditional line capacity expansion.102
+The technology is relatively quick to deploy and can be scaled in fewer than three months after initial
+implementation.103 As a result, DLR is particularly well suited to serve as a bridge between future expansion
+94 EPRI, Dynamic Line Ratings (June 2024) at 3, available at
+www.epri.com/research/products/000000003002030550.
+95 IRENA, supra note 59, at 10.
+96 Id.
+97 Id.
+98 FERC, Managing Transmission Line Rating (August 2019) at 18, available at
+www.ferc.gov/sites/default/files/2020-09/Managing-Transmission-Line-Ratings_Staff-Paper.pdf (FERC
+Docket No. AD19-15-000).
+99 National Grid launched the project in 2022 for two 30-mile 115kV transmission lines in western New
+York, in partnership LineVision, which provides DLR sensors and software solutions.
+100 DOE, supra note 75, at 79.
+101 Neil Chatterjee, Grid Technology Could Save Billions But For A Policy Vacuum, Utility Dive,
+March 25, 2024, available at www.utilitydive.com/news/grid-technology-could-save-billions-
+Chatterjee/711068/.
+102 DOE, supra note 75, at 5.
+103 Id.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 26
+and near-term needs. However, for lines reaching the end of their useful life, it may be more cost-effective to
+invest in repairs or upgrades rather than in DLR.104
+Improved Reliability
+DLR technology can improve grid reliability by providing real-time data about line conditions. With improved
+data, operators can respond more accurately to changing conditions, optimize power flow, prevent overloading,
+and reduce the risk of outages. For example, in some instances DLR can result in lower transmission capacity
+when a line is above its safe operating limit. When this happens, DLR can inform the grid operator on the need
+to reduce power flow to prevent failures, which in turn improves safety and reliability.105
+Improved Resilience
+DLR can increase operational visibility of the grid, which improves decision making, especially during extreme
+conditions. Understanding when conditions may exceed constraints is critical in situations where lines may sag
+below clearances, making the system vulnerable to faults and safety hazards. DLR offers a way to improve
+situational awareness by providing a more granular picture of the current weather and asset conditions by
+location. With better situational awareness, operators in turn have an easier time ensuring the lines are operated
+safely even under extreme conditions.106 For example, during the 13-day cold snap between December 25,
+2017 and January 8, 2018, a “bomb cyclone” constrained a large portion of the Northeast U.S. grid due to high
+demand for natural gas for both heating and electricity generation.107 As a result, the grid operator needed
+power from other available generation, which was limited due to transmission capacity constraints.108 In
+response, ISO-NE increased transmission line ratings, knowing cold conditions allow for additional headroom
+in line with DLR principle. ISO-NE increased import limits from 1,400 MW to 1,600 MW from New York,
+which helped avoid blackouts and reduce congestion costs.109
+Cost-Effectiveness
+Existing studies and pilots indicate that DLR is a cost-effective solution, costing a fraction of conventional
+technologies. A recent DOE study of a DLR application in New York showed that it cost less than 25 percent
+104 FERC, supra note 98, at 18.
+105 DOE, supra note 75, at 15.
+106 DOE, supra note 58, at 6.
+107 ISO-NE, Cold Weather Operations: December 24, 2017–January 8, 2018 (January 2018), available at
+www.iso-ne.com/static-assets/documents/2018/01/20180112_cold_weather_ops_npc.pdf.
+108 NREL, On the Road to Increased Transmission: Dynamic Line Ratings, May 16, 2024, available at
+www.nrel.gov/news/detail/program/2024/on-the-road-to-increased-transmission-dynamic-line-ratings.
+109 Brattle Group, Improving Transmission Operation with Advanced Technologies: A Review of
+Deployment Experience and Analysis of Incentives (June 2019) at 26, available at www.brattle.com/wp-
+content/uploads/2021/05/16634_improving_transmission_operating_with_advanced_technologies.pdf.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 27
+of traditional upgrades.110 PPL Electric Utilities in Pennsylvania deployed DLR for less than $1 million on two
+congested lines for an expected $23 million in reduced congestion costs. Reconductoring or rebuilding the
+same lines would have cost an estimated $50 million.111 In Pennsylvania-New Jersey-Maryland Interconnection
+(“PJM”), an RTO, one study found that deploying a $500,000 DLR system could save $4 million.112 In an
+earlier 2017 study, American Electric Power found that a hypothetical DLR deployment on PJM’s high-voltage
+lines would cost approximately $500,000 across three sections. The resulting net congestion savings from
+improved line management were estimated at $4 million over the same year, or a two-month payback period.113
+Despite positive early results, successful deployments require favorable conditions to offer the most benefit.
+The technology is most economically viable in climates with meaningful temperature changes and high wind
+speeds.114 Under optimal conditions, DLR can increase transmission capacity by ten to 30 percent upwards of
+90 percent of the time.115 Such results are most achievable on shorter lines that are congested or operate at or
+near their maximum rated capacity. Additionally, the potential benefits of DLR ascertained in studies have
+mostly relied on comparisons to SLR. As utilities move towards AAR following FERC Order 881, these
+previous studies may be outdated.
+Costs associated with DLR implementation could erode the potential benefits if not managed carefully. To be
+effective, the number of devices along the line must be sufficient to enable a reliable and accurate rating for the
+entire line. Adding additional devices improves accuracy but not without additional cost. Therefore, DLR
+implementation requires a careful and systematic analysis of the critical segments of the line to be monitored
+against the potential costs of adding additional devices.116 Operators must also consider equipment installation
+costs, as well as maintenance and calibration expenses, which increase overall expenditures.
+DLR costs could also extend beyond direct project expenditures. DLR allows operators to utilize their assets at
+near full capacity, which accelerates aging and reduces thermal headroom. According to stakeholder feedback
+to the DOE, such use, if not managed carefully, can reduce asset lifespan and accelerate maintenance cycles.
+Historically, equipment designed for operation for 40 years could last up to 60 years when operated under the
+design limit. With new DLR schemes, assets could potentially be used at full capacity more frequently, which
+in turn, could require higher operations and maintenance and capital expenditures.117
+110 DOE, supra note 75, at 16.
+111 Ampacimon, The First U.S. Electric Utility to Integrate Dynamic Line Ratings into Real-Time and
+Market Operations, http://www.ampacimon.com/success-stories/the-first-u-s-electric-utility-to-
+integrate-dynamic-line-ratings-into-real-time-and-market-operations (last accessed July 14, 2025).
+112 DOE, supra note 75, at 16.
+113 DOE, supra note 58, at 15.
+114 DOE, supra note 75, at 24.
+115 Id. at 15.
+116 DOE, supra note 58, at 14.
+117 Id. at 22.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 28
+Challenges
+Accuracy Limits
+DLR technology relies on monitoring equipment that is subject to potential measurement and modeling errors.
+Measurement errors occur when the direct-measurement sensors send faulty data or malfunction, for example,
+when communication connectivity is lost. Sensors may send imprecise or inconsistent data due to calibration
+issues. In some instances of light loading conditions, the sensors themselves have proven less accurate than
+anticipated.118 Modeling errors occur when the underlying mathematical rating model provides inaccurate
+information. This can be caused by incorrect or inaccurate inputs, such as from erroneous weather forecasts or
+topological circuit and conductor data. Modeling input assumptions may also become outdated as the physical
+and mathematical properties of the overhead lines change over time through continuous use.119 Conseil
+International des Grands Réseaux Électriques (“CIGRE”) found that the emissivity of the line changes with age,
+which affects the impact of solar radiation and its thermal-radiative properties.120 If not updated regularly, the
+models may become inaccurate.121
+Operators have a few solutions available to ensure the reliability and accuracy of DLR systems. One solution to
+measurement error is to revert back to established line rating methods. For example, if system operators
+become aware of a malfunction, the operators can switch from DLR to SLR. To avoid modeling errors, system
+operators could perform robust transmission line characterization before implementing DLR solutions.122
+Another emerging solution is to use confidence intervals in DLR calculations that rate conditions on power lines
+more conservatively for lower confidence parameters such as weather predictions.123
+Integration Complexity
+Integrating DLR into grid operations requires changes to how control rooms operate, which can introduce new
+complexities. At a minimum, accommodating DLR systems requires adding a new terminal, a dedicated
+workstation or screen for the operator in the control room, and providing additional training for employees.
+Employees must also adapt to the learning curve and begin to trust the accuracy of the new system.124 To
+overcome these challenges, grid operators must ensure that real-time information is accurate, and ease learning
+118 Id. at 13.
+119 Id.
+120 CIGRE, Guide for Selection of Weather Parameters for Bare Overhead Conductor Ratings (2006),
+available at www.scribd.com/document/458777917/CIGRE-Guide-for-Selection-of-Weather-
+Parameters-for-Bare-Overhead-Conductor-Ratings-pdf.
+121 DOE, supra note 58, at 13.
+122 CIGRE, supra note 120.
+123 M. A. Bucher & G. Andersson, Robust Corrective Control Measures in Power Systems With Dynamic
+Line Rating, IEEE Transactions on Power Systems, vol. 31, no. 3, pp. 2034-2043, May 2016.
+124 DOE, supra note 58, at 13.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 29
+by ensuring the new system is well integrated into existing operations. INL has suggested replacing the original
+static line limit information with the new DLR instead of adding a new terminal. This approach would limit the
+information introduced on display and reduce integration complexity for operators.125
+DLR Risks
+DLR may introduce new technology-specific operating risks that may be difficult to control. For example, if
+the weather unexpectedly changes after scheduling the transmission line to operate above the thermal limit
+based on the previous forecast, the decision may impose a safety risk. The line could be at risk of clearance-
+height violations or could even incur permanent damage due to overheating. This type of risk is new to
+standard operating procedures and means that additional variables must be incorporated into real-time dispatch
+operations. Further, if the conductors become overheated or damaged due to incorrect sensor placement,
+unforeseen conditions, or premature degradation, the net benefit of deploying DLR could erode.126
+Cybersecurity
+DLR deployment can increase the risk of exposure to cyberattacks. DLR relies on wireless communications
+across a network of monitoring equipment, which can be vulnerable to denial-of-service attacks.127 According
+to the INL, compliance with the North American Electric Reliability Corporation’s cybersecurity standards is
+challenging when deploying DLR systems. Operators also lack standard guidance for implementing
+cybersecurity for DLR.128
+Technological Maturity
+There is no uniform agreement on the technological maturity of DLR. LineVision considers DLR
+technologically mature, while ENTSO-E considers DLR to be nearing commercial maturity. According to the
+Electric Power Research Institute (“EPRI”), U.S. researchers continue to study the technological readiness and
+have not reached a final conclusion.129 One reason agreement is lacking is because DLR does not currently
+have a consistent testing methodology to ensure unbiased results. As a result, existing studies may not be
+reliable. To remedy this and encourage further DLR adoption, EPRI recommends that authors and researchers
+of previous pilots and deployments share their technical results more widely.130
+125 INL, Variable Transmission Line Ratings (November 2024), available at
+https://inl.gov/content/uploads/2024/03/POWER_Variable-Ratings.pdf.
+126 DOE, supra note 58, at 14.
+127 Id. at 22.
+128 INL, Cybersecurity Considerations for Dynamic Line Rating Deployment (November 2024), available
+at https://inl.gov/content/uploads/2024/03/Cybersecurity-Considerations-for-Dynamic-Line-Rating-
+Deployment.pdf.
+129 EPRI, Dynamic Line Ratings (June 2024), available at
+www.epri.com/research/products/000000003002030550.
+130 Id.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 30
+3. ADVANCED POWER FLOW CONTROL
+Overview
+Power flow is driven by four key parameters of the power system: (1) the voltage on the sending end of the
+line; (2) the voltage on the receiving end of the line; (3) the reactance of the line; and (4) the voltage phase
+angle difference between both ends.131 APFCs can change power flow direction by adjusting line reactance.132
+APFCs are physical devices typically located at substations that automatically or manually adjust the
+impedance, or total resistance, of a power pathway.133 According to the DOE, APFCs are most applicable on
+meshed networks with multiple transmission ties. The technology is best suited to longer lines ranging between
+30 to 45 miles for voltages under 230 kV and 60 miles for voltages between 230-500 kV.134 Notably, APFCs
+can be applied not only on the transmission grid but also on the distribution and sub-transmission grids.135
+One key benefit of APFC is its ability to unlock additional capacity. Normally, power flows along the path of
+least resistance through the grid, with generation and demand creating a push-and-pull effect. Through this
+process, some lines may operate below or above their design capacity. For example, in a hypothetical case
+where three transmission lines share the same maximum design capacity, one might operate at 28 percent of
+capacity, the second at 40 percent capacity, and the third at 105 percent. With the use of APFCs, however, grid
+operators can redistribute power across all three lines closer to 98 percent, while also increasing the total
+transfer capacity, so that each is operating close to its design capacity. The result is a material increase in the
+amount of power carried by underutilized lines and a slight reduction on the overloaded line. The redistribution
+also keeps the previously overloaded line in service and maintains the reliability of the transmission system.136
+Figure 4 below, summarizes impacts before and after the introduction of APFC.
+131 DOE, supra note 56, at 16.
+132 DOE, supra note 75, at 13.
+133 WATT Coalition, Unlocking Power: A Playbook on Grid Enhancing Technologies for State and
+Regional Regulators and Policymakers (November 2024) at 13, available at https://watt-
+transmission.org/wp-content/uploads/2024/11/Unlocking-Power-What-are-Grid-Enhancing-
+Technologies.pdf.
+134 DOE, supra note 75, at 24.
+135 EPRI, Benefits and Value of New Power Flow Controllers (May 2018) at 1-1, available at
+www.epri.com/research/products/000000003002013930.
+136 Clean Energy Transmission Working Group, supra note 7, at 38.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 31
+Figure 4—Illustrative Impact of APFC on the Grid (Source: WATT coalition)137
+Best use cases for APFC are still being developed. In a recent study on implications of using multiple APFCs
+for system operations and reliability, INL and EPRI have found that while APFC solutions increase the
+complexity of system operations, they also create opportunities to enhance capacity and reliability of the grid
+and accommodate renewable energy deployment.138
+Current Industry Trends
+Traditional power flow controller (“PFC”) technology has existed in the U.S. since the early 1900s and
+continues to be used today.139 These technologies include phase-shifting transformers and load tap-changing
+transformers.140 For example, the Michigan-Ontario power line uses five such phase-shifting transformers to
+counter loop-flows around Lake Erie.141 While widely used, traditional PFCs offer limited control capability
+and a relatively slow response time.142
+More recent PFCs introduced in the 1970s offer better controllability and faster performance, though they are
+comparatively more expensive and complex to implement.143 These newer technologies, also considered
+traditional PFCs, include flexible AC transmission systems (“FACTS”) devices and variable frequency
+transformers (“VFT”).144 Eversource states it has decades of experience operating numerous FACTS devices.
+137 WATT Coalition, supra note 133.
+138 INL, Implementation and Operation of Power Flow Control Solutions for Transmission Systems (May
+2024), available at https://inldigitallibrary.inl.gov/sites/sti/sti/Sort_111370.pdf.
+139 DOE, supra note 56, at 16.
+140 Id.
+141 Id.
+142 EPRI, supra note 135, at 1.
+143 Id.
+144 DOE, supra note 56, at 16.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 32
+In June 2023, the utility placed into service one of the world's first Static Synchronous Compensators with grid
+forming capabilities serving New York’s first offshore wind farm.145 American Electric Power, a utility which
+operates across eleven U.S. states, has been using FACTS devices since 1998. The use of PFCs has expanded
+transmission capacity and helped mitigate high power losses on American Electric Power’s transmission
+system. The technology added 770 MW of transfer capacity where a new line would have added only
+670 MW.146
+APFCs as a technology is the newest development in power flow control. APFCs are smaller, cheaper,
+modular, and can be scaled or redeployed.147 APFC improves upon traditional FACTS devices through the use
+of modular digital power flow control technology to enable fast and accurate control of power flow.148 In some
+APFCs the ability to control both active and reactive power is limited relative to FACTS devices, however, their
+modular configuration and lower cost allows operators to install several devices to achieve the desired level of
+controllability and capacity.149 One example of new APFC is the distributed series reactor (“DSR”) technology
+in which multiple small, modular devices are installed along a transmission line to provide the same capability
+as a single, larger system.150 APFCs offer a more cost-effective solution, are easier to deploy than older PFCs,
+and can save space. For example, SmartWires claims its APFCs increase transfer capacity using 25 percent less
+substation space than the traditional PFC solution.151
+According to a 2018 EPRI report, APFC is reaching a point of maturity and is ready to be installed by
+utilities.152 Some APFCs are already commercially available in various models and types. For example,
+PowerLine Guardian, a DSR developed by SmartWires, has already been installed on multiple high-voltage
+lines across North America and Europe.153 The device enables utilities to better monitor and dynamically
+control the flow of power across transmission lines by adjusting magnetic properties of the line. SmartWires
+expects growing adoption, especially in light of FERC Orders 2023 and 1920, which require consideration of
+APFC in interconnection and transmission planning studies, respectively.154
+145 See Appendix 2, Eversource Response at 4.
+146 DOE, supra note 56, at 16.
+147 WATT Coalition, supra note 133.
+148 AES, supra note 19, at 5.
+149 EPRI, supra note 135, at 1.
+150 DOE, supra note 56, at 16.
+151 SmartWires, What is Advanced Power Flow Control? (February 2024), available at
+www.smartwires.com/2024/02/07/what-is-advanced-power-flow-control.
+152 EPRI, supra note 135, at 1-1.
+153 Id.
+154 Smart Wires, Technology in Focus: APFC and PSTs (July 2024), available at
+www.smartwires.com/2024/07/22/technology-in-focus-apfc-and-psts/.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 33
+Benefits
+APFCs offer operational, economic, and environmental benefits. APFCs help create a more flexible and
+resilient power grid, reduce congestion, allow for greater integration of renewables, and help maximize the
+value of existing transmission assets.
+Reduced Congestion
+APFCs’ main benefit is enabling operators to manage real-time power flows across the transmission network.
+By helping balance the flow across lines more effectively, operators can use APFC to increase total power
+transfer capability and thus relieve congestion.155 According to the DOE, APFCs can increase line capacity by
+ten to 25 percent on average.156 Active control of power flows also provides more flexibility to manage
+congestion compared to passive measures.157 In New York, 15 APFCs are helping NYISO manage congestion
+by expanding substation transfer capacity by 185 MW.158 In Australia, APFCs are expected to allow an
+additional 170 MW of power to be transferred into New South Wales, which will deliver net benefits of up to
+$180 million to electricity customers.159
+Maximization of the Value of Planned Investments
+APFCs can help maximize the use of existing assets and defer upgrades in support of more effective and
+efficient transmission expansion.160 A 2018 EPRI study of Southwest Power Pool found that, in most cases,
+APFCs cost several times less than traditional transmission upgrades. For example, where APFC costs for four
+cases examined ranged between $1.5 million and $5.2 million, traditional project costs for the same lines were
+between $7.15 million and $60.2 million.161 Although the results are context-specific, the cost-saving potential
+is clear.162
+APFCs also offer additional transmission expansion flexibility, which can help improve the efficiency of grid
+planning and reduce expansion costs. APFCs such as DSR are highly mobile, scalable, and can be deployed
+rapidly, allowing operators to install them gradually as the system evolves and needs change. In some cases,
+APFCs can defer conventional solutions until the need has fully materialized, saving ratepayers money.
+155 AES, supra note 19, at 5.
+156 DOE, supra note 75, at 5.
+157 DOE, supra note 56, at 17.
+158 EPRI, Presentation to ERCOT Technology and Security Committee: Introduction to Grid Enhancing
+Technologies (August 2024) at Slide14, available at www.ercot.com/files/docs/2024/08/12/4-
+introduction-to-grid-enhancing-technologies-gets-.pdf.
+159 WATT Coalition, supra note 133.
+160 DOE, supra note 56, at 18.
+161 EPRI, supra note 135.
+162 DOE, supra note 56, at 18.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 34
+Further, in cases where the needs changed so much that the APFC solution is no longer needed, the device can
+be moved elsewhere in the system.163
+Improved Reliability
+APFCs can make the grid more flexible and responsive to faults, disturbances, and other unplanned situations,
+thereby making the grid more resilient. Compared to traditional PFCs, APFCs can better mitigate the effect of
+transients and other electrical phenomena that can destabilize the grid. The fast and controlled response can
+improve reliability by quickly and accurately responding to changing conditions and system violations,
+especially with the loss of system inertia. APFC can also provide reactive power support and other forms of
+compensation needed to accommodate intermittency of variable renewable energy resources on the grid.164 The
+DOE recently provided a grant to Algonquin Power Fund America to use APFCs to improve grid stability and
+increase renewable energy delivery in Texas and Illinois.165
+Access to Lower Cost and Zero Carbon Electricity
+APFC solutions accelerate the integration of renewable resources by enabling faster deployment and unlocking
+additional transfer capacity. APFC can be deployed within one or two years compared to the significantly
+longer development timelines typical for traditional transmission upgrades. This enables faster connection of
+additional renewable power and facilitates access to zero carbon electricity.166 In the United Kingdom, National
+Grid Electricity Transmission was able to enable over two GW of renewable capacity across Northern England
+by deploying 48 APFCs.167 Additional capacity will accelerate the integration of new wind power in Scotland
+and can deliver an estimated $500 million savings in avoided curtailment costs.168 In Colombia, APFC-enabled
+redistribution across overloaded lines unlocked 300 MW of capacity for renewable energy resources to connect
+reliably to the grid. Notably, the utility found that alternate solutions were more expensive, took longer to
+install, were more disruptive, and provided less flexibility.169
+163 Id. at 19.
+164 Id.
+165 WATT Coalition, Case Studies and Modeling on the Value of Grid Enhancing Technologies (January
+2024), available at https://watt-transmission.org/wp-content/uploads/2024/01/Case-Studies-and-
+Modeling-on-the-Value-of-Grid-Enhancing-Technologies-%E2%80%93-January-2024-.pdf.
+166 American Council on Renewable Energy, Assessment and Evaluation of Grid Enhancing Technologies
+(GETs) (February 2025) at 26, available at https://acore.org/resources/assessment-and-evaluation-of-
+grid-enhancing-technologies-gets/.
+167 WATT Coalition, supra note 165.
+168 WATT Coalition, supra note 133.
+169 Id.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 35
+Cost-Effectiveness
+Studies and research increasingly show that APFCs can be more cost effective than traditional upgrades. A
+2018 EPRI study of APFC technologies examined how economic benefits varied with the number and size of
+phase angle controllers, a type of APFC, installed.170 According to the results, one power flow device
+implemented in the PJM region offered annual cost savings of $39 million from reduced congestion, while
+17 devices saved $196 million.171, 172 EPRI concluded that APFCs can be economically sound as a congestion-
+reduction measure, but the cost-benefit depends on the specific technology used.173 In another case, Vermont
+Electric Power Company is planning to install APFC to increase transfer capacity across regional borders and
+increase the useful life of other transmission assets.174 Vermont Electric Power Company estimates that the
+APFC solution is 16 percent less expensive than a traditional option and can be deployed in half the time. The
+solution can also double the output of the affected substation within the same footprint in the future by adding
+additional devices if the upgrade is needed.175 In Colombia, APFCs already help prevent outages, which has
+saved more than $70 million over a three-and-a-half-year period. By avoiding redispatch, the country has saved
+an estimated $20.5 million a year at the estimated cost of $1.5-4 million for the system.176
+Challenges
+Limited Deployments
+According to the DOE, APFC deployments have been limited due to their physical characteristics (i.e., space
+requirements), the current level of technological maturity, and insufficient incentives. The solution is best
+suited for overhead transmission systems that have sufficient space for equipment, which limits its use in
+underground and otherwise spatially restricted transmission systems.177 Current modeling tools and methods
+are inadequate in analyzing APFC effects on voltage and stability limits.178 Planners may be unfamiliar with
+how to properly model the impact of APFCs on the grid and thus be reluctant to adopt them. Operators also do
+170 DOE, supra note 56, at 17.
+171 DOE, Next-Generation Grid Technologies (November 2021) at 24, available at
+www.energy.gov/sites/default/files/2022-
+05/Next%20Generation%20Grid%20Technologies%20Report%20051222.pdf.
+172 See id. (Notably, adding additional devices offered diminishing returns).
+173 EPRI, supra note 135, at 1-1.
+174 WATT Coalition, supra note 133, at 13.
+175 Smart Wires, supra note 154.
+176 WATT Coalition, supra note 165.
+177 DOE, supra note 56, at 19.
+178 Id. at 20.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 36
+not benefit from avoided congestion savings, which flow to consumers, and thus have little economic incentive
+to proactively investigate and deploy APFCs.179
+System Planning and Regulatory Limitations
+Current transmission planning processes and ownership structure may limit APFC implementation. According
+to the DOE, planners may be unfamiliar with how to properly model the impact of APFCs on the grid.180 For
+example, an APFC solution would not be effective in directing power flows over a transmission path if the path
+is unavailable due to an unplanned outage.
+There are exceptions with older and well-studied technologies, like phase shifting transformers, but newer PFCs
+(including APFCs) are more difficult to implement.181 APFCs also require the consent of transmission owners
+to be installed, which adds another layer of integration and planning complexity. Third parties cannot install
+APFC system without the owners’ approval, which could impede the ability of new market participants to
+propose APFC solutions in a competitive transmission solicitation.
+Market Changes
+Current market structure limits adoption, as it is not well suited to accommodate the additional flexibility
+provided by APFCs. Existing markets assume that transmission infrastructure is static, meaning the underlying
+transmission network remains unchanged or constant during the market interval (five or 15 minutes).
+Widespread deployment of APFCs will introduce dynamic changes to the grid. Altering power flows in real-
+time outside of market operations can lead to financial shortfalls and added complexity during settlement.
+Wider integration of APFC capabilities into system models that guide market prices has not been thoroughly
+investigated. New market mechanisms may be needed to accommodate additional flexibility before the
+technology can be deployed at scale.182
+Unintended Risks
+APFC can be difficult to manage as it requires deploying and maintaining numerous devices across a wide
+area.183 Therefore, if mismanaged, APFC can result in widespread impacts due to sizeable adjustments to line
+impedances. As a result, a solution in one area may create conflicts or adverse effects in other areas.
+179 Id. at 19.
+180 Id. at 20.
+181 DOE, supra note 171, at 25-26.
+182 DOE, supra note 56, at 20.
+183 Grid Insights, Presentation, Improving Grid Performance: Innovative Solutions for Evaluating Grid-
+Enhancing Technologies (GETs) in Generation Interconnection and Transmission Planning, July 10,
+2024, available at www.ferc.gov/media/presentation-improving-grid-performance-innovative-solutions-
+evaluating-grid-enhancing.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 37
+4. TOPOLOGY OPTIMIZATION
+Overview
+Topology optimization is a method of optimizing the layout of the electric grid system within a defined
+boundary, given load conditions and constraints, with the goal of maximizing the performance of the system.
+Optimization may correct for potential dispatch inefficiencies that result from built-in redundancies in the
+transmission network. While such redundancies support system reliability, they might not be needed during all
+operating periods. Traditionally, operators manage real-time congestion by redispatch of generation resources.
+Topology optimization improves this redispatch by including transmission infrastructure as a dispatchable asset
+using topology control.184
+Topology control, an application of topology optimization, uses software solutions, including with the use of
+artificial intelligence or physical models of the grid, to identify ways to reconfigure the grid by rerouting power
+flows around bottlenecks, reducing congestion, and optimizing transmission capabilities. Operators reconfigure
+the grid through real-time switching of transmission branch elements (transmission lines and transformers) by
+opening and closing circuit breakers to redirect power flows.185 Reconfiguring the grid at large scale is complex
+and represents a challenging mathematical problem requiring advanced computing and system-level methods.186
+Therefore, topology control software algorithms are used to automatically identify the best configuration
+options to manage congestion, respond to contingencies, such as overloads and constraints, and help with
+planning outages.187
+Topology control works similarly to hardware-based FACTS devices in that they both redirect or optimize
+power flows across the network.188 Software can also be used with existing equipment where the switching
+infrastructure is already in place and circuit breakers are controlled remotely over the SCADA.189
+Current Industry Trends
+Topology control has been used since the early 1980s, though mostly during extreme events. System operators
+would use topology control in certain emergency conditions as a corrective mechanism to address reliability
+concerns such as low voltage events or to maintain system reliability. However, the system functioned based on
+184 DOE, supra note 56, at 11.
+185 RFF, Expanding the Possibilities: When and Where Can GETS, DERs, and Microgrids Support the Grid
+of the Future? (September 2023) at 7, available at www.rff.org/publications/reports/expanding-the-
+possibilities-when-and-where-can-grid-enhancing-technologies-distributed-energy-resources-and-
+microgrids-support-the-grid-of-the-future/.
+186 DOE, supra note 171, at 14.
+187 RFF, supra note 185, at 7.
+188 Id.
+189 Id.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 38
+sets of assumed and pre-defined system conditions that operators could refer to when the switch was needed.
+These pre-defined solutions were not necessarily optimized and/or could not handle unforeseen conditions.190
+Traditional topology control methods are based on legacy topologies, limited sensing, and rudimentary control.
+For example, system operators use manual process and personal expertise to identify switching candidates
+ahead of events, often relying heavily on historical, documented switching actions evaluated under previous
+events.191 As a result, topology control is time-consuming and switching actions must still be evaluated in real-
+time to avoid unintended consequences.192 In practice, this requires operators to perform topology control on an
+ad hoc basis based on operator knowledge.193
+The industry is changing as advances in artificial intelligence and improvements in algorithms help automate
+the topology optimization process. Modern algorithms can systematically and automatically identify optimal
+transmission control actions, which has increased the viability of topology control as a solution to transmission
+challenges. When integrated into control operations, the software can automatically provide the system’s
+current state from existing operator tools, evaluate switching options, and present possible actions to the system
+operator as another means to mitigate abnormal conditions.194
+In Massachusetts, the topology optimization developer NewGrid is developing key software features for
+technology optimization and demonstration purposes with $250,000 in grant support from MassCEC in the
+ISO-NE region. The project is expected to demonstrate the software’s capability in devising solutions for grid
+congestion and wider integration of renewables to the Massachusetts grid.195 NewGrid has deployed its
+topology optimization tool in other jurisdictions as well.196
+The future of topology optimization may be tied to new advances in computing, including data-driven analysis,
+real-time analytics, machine learning, and artificial intelligence. For example, advanced software or “digital
+twin” models can provide the system’s current state, evaluate switching options, and present possible control
+actions to operators. These capabilities assist with reducing costs, mitigating abnormal conditions, improving
+reliability, or increasing resilience.197
+190 DOE, supra note 56, at 11.
+191 DOE, supra note 171, at15.
+192 Id. at 11.
+193 RFF, supra note 185, at 7.
+194 DOE, supra note 56, at 11.
+195 MassCEC, Grid Technology Research & Development. Past Projects. NewGrid,
+www.masscec.com/grid-modernization-and-infrastructure-planning/research-development (last accessed
+July 14, 2025).
+196 NewGrid, Topology Optimization Case Studies (May 2024), available at https://newgridinc.com/wp-
+content/uploads/2024/05/topology-optimization-case-studies.pdf.
+197 DOE, supra note 171, at 15.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 39
+Benefits
+Reduced Generator Curtailment or Congestion
+Topology optimization can help reduce congestion by increasing transmission capacity. According to DOE,
+topology optimization can increase line capacity between five-to-50 percent on average.198 SPP piloted
+topology optimization to relieve congestion on transmission lines downstream from wind resources. High wind
+generation was creating real-time transmission congestion resulting in 285 MW of wind curtailment. SPP used
+topology optimization software to identify three switching actions that diverted power flows around the
+congested elements and provided enough relief to avoid the need for any wind curtailments, reducing
+congestion and overall production costs.199
+Maximization of the Value of Planned Investments
+Topology optimization improves the usage of the existing transmission system and does not require installation
+of new hardware, thus maximizing the value of existing assets. Topology optimization may also help defer
+investment in new, costly equipment by making more use out of existing lines. Although topology optimization
+is more applicable in the real-time operations and operations-planning environment, considering topology
+switching in system planning increases the long-term value of transmission upgrades and can be considered
+when making infrastructure investment decisions.200
+Improved Resilience and Reliability
+Topology optimization can be used when responding to contingencies to help eliminate overloads and
+violations, minimizing outages and increasing reliability. If a natural disaster disrupts the state of the lines,
+optimal corrective actions can accelerate recovery while keeping customer interruptions to a minimum,
+increasing overall system resilience. The technology also improves operations planning by finding
+reconfiguration solutions for outages and real-time disruptions.201
+Cost-Effectiveness
+Existing cost -benefit studies and pilot results of topology optimization are promising. Early research on
+topology optimization showed the potential for up to 25 percent production cost savings, though the impact is
+reduced to 16 percent when ensuring reliability (i.e., meeting N-1 criteria) of the proposed solution. In PJM,
+reconfigurations identified by optimization software led to a 50 percent decline in real-time congestion costs,
+with an estimated value of approximately $100 million per year across PJM.202 In SPP, estimated real-time
+market savings from using topology optimization are three percent of the congestion costs, equivalent to savings
+198 DOE, supra note 75, at 5.
+199 DOE, supra note 56, at 12.
+200 Id. at 12.
+201 RFF, supra note 185, at 8.
+202 Id.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 40
+of between $18-44 million.203 In the United Kingdom, National Grid found that adopting topology optimization
+would increase the transfer capability on thermally limited lines by as much as 12.3 percent, which could lead to
+estimated annual cost savings of approximately $50 million.204
+Most important in cost assessment is the fact that topology optimization relies on algorithms designed to operate
+within existing systems, and thus does not require additional capital investments or hardware installations. This
+makes topology optimization a lower cost solution than other GETs that require physical equipment, such as
+APFCs, and may even reduce the need to build new lines.
+Challenges
+Data Accuracy
+Underlying potential data inaccuracy is a limitation for topology optimization applications. Optimization
+algorithms use approximations and simplifying assumptions to model large systems such as the electric grid. If
+the underlying data are not precise or operators are not confident in the algorithms, opportunities for topology
+optimization might prove limited. Further development of algorithms and solutions to balance model size,
+speed, and accuracy are therefore needed to reduce the underlying risk and confidence in topology optimization
+software.205
+System Strain
+While topology optimization maximizes asset utilization, it also results in more wear and tear. Frequent
+switching of circuit breakers can expedite their aging, add to maintenance costs, and negatively impact
+reliability by increasing breaker failure rates. As more variable renewable energy and inverter-based resources
+are deployed, the combined effect of increased usage can lead to reliability problems. Ways to mitigate some of
+these challenges include incorporating parameters such as switching rates into algorithms and quantifying the
+costs of increased switching, although more studies are needed.206
+Market Impact
+Topology optimization impacts participants in existing electricity markets, creating winners and losers in the
+process. For example, transmission rights holders receive revenues from a share of congestion charges in day-
+ahead energy markets. Topology optimization changes and reconfigures congestion in real time, which can
+impact day-ahead market structures and lead to financial losses if market participants are unable to account for
+203 DOE, supra note 56, at 12.
+204 Id.
+205 DOE, supra note 171, at 17.
+206 RFF, supra note 185, at 9.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 41
+these dynamic changes.207 Market participants will need to adapt to a more active role by the market operator,
+or market structures may need reform to account for changes due to the use of topology optimization.208
+5. ADVANCED RECONDUCTORING
+Overview
+Conductors and cables are the fundamental hardware that carries electricity across the transmission line.
+Advanced reconductoring refers to the process of replacing existing transmission lines with advanced
+conductors. Advanced conductors are more efficient and thus offer an opportunity to increase transmission
+capacity along existing lines without the challenges associated with new transmission line construction.209 The
+best overhead conductors benefit from advances in new materials and manufacturing to offer better
+performance, lower losses, higher current-carrying capacity, lower weight, and lower sag at high
+temperatures.210
+Utilities and transmission system operators have used reconductoring as part of basic maintenance for decades,
+however, the type of conductor used is changing. The Aluminum Conductor Steel Reinforced (“ACSR”), a
+conductor type with a steel core surrounded by aluminum, remains the most used conductor globally. In
+contrast, advanced conductors employ advanced aluminum alloys, steel, and composite materials in novel ways
+that provide enhanced performance over conventional overhead conductors. Advanced conductors are used in a
+variety of applications to increase transmission capacity and to provide enhanced strength and in harsh
+environments. Common types of new overhead conductors include Aluminum Conductor Composite
+Reinforced, Aluminum Conductor Composite Core, and Aluminum Conductor Carbon Fiber Reinforced.211
+Current Industry Trends
+While advanced conductors represent the newest technology, traditional aluminum conductors dominate the
+industry. Currently, approximately one percent of the existing transmission lines in the United States are
+reconductored each year. Of this one percent, an even smaller fraction of these projects use advanced
+conductors.212
+207 Id.
+208 DOE, supra note 171, at 17.
+209 INL, Advanced Conductor Scan Report (December 2023) at 1, available at
+https://inl.gov/content/uploads/2024/10/23-50856_R12a_-
+AdvConductorsScanProjectReportCompressed.pdf.
+210 DOE, supra note 56, at 25-26.
+211 Id. at 26.
+212 Energy Innovation - Grid Lab, Supporting Advanced Conductor Deployment: Barriers And Policy
+Solutions (April 2024), available at www.2035report.com/wp-content/uploads/2024/04/Supporting-
+Advanced-Conductor-Deployment-Barriers-and-Policy-Solutions.pdf.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 42
+Advanced conductors offer better performance but remain largely untested, which is the main barrier to their
+deployment. Utilities are concerned about how to work with new materials and evaluate their durability.
+Despite these barriers, INL predicts that advanced conductors will most likely see widespread adoption in the
+future. Market competition is active, and new technologies are being actively introduced.213
+Benefits
+Maximization of the Value of Planned Investments
+Advanced overhead conductors can help maximize the value of existing transmission corridors by leveraging
+existing assets to increase transmission capacity. Compared to traditional conductors, advanced conductors
+have up to two times the maximum current-carrying capacity and can be installed on existing transmission
+towers and rights-of-way. By reconductoring existing transmission lines, operators can often double the
+capacity without needing new approvals. 214 Relative to building new transmission lines, reconductoring is
+faster to complete and less expensive, in some instances half the cost of a new transmission line.215
+Improved Resilience
+Advanced overhead conductors can improve the overall resilience of the transmission grid due to their
+improved strength. For example, advanced conductors are more capable of withstanding stress from extreme
+natural conditions such as high winds, physical loading from snow and ice, or heat from wildfires or heatwaves.
+Overhead lines reconductored with advanced materials also experience less sag due to their robust nature. In
+emergency situations or during contingencies when lines operate above their design capacity limits, reduced sag
+can help avoid flashovers (a type of disruptive, electrical discharge event) and the resulting unintended
+consequences.216
+Cost-Effectiveness
+Given the large number of new and developing technologies, cost effectiveness depends highly on the specific
+type of new conductor used. Though there is not yet a systematic review of the cost and benefits of advanced
+reconductoring, early assessments are promising. Research from the University of California Berkeley and
+GridLab found that advanced reconductoring could be cost effective: wide-scale deployment of advanced
+conductors could quadruple the projected transmission capacity added by 2035 while saving $85 billion in
+energy system costs. By 2050, reconductoring combined with a robust build-out of new transmission could
+provide a total savings of $180 billion compared to a business-as-usual scenario.217
+Advanced overhead conductors are more expensive upfront than conventional conductors. However, due to
+their improved properties and operational characteristics, advanced conductors can still reduce total project
+213 INL, supra note 209.
+214 DOE, supra note 56, at 26.
+215 Id.
+216 Id. at 27.
+217 Energy Innovation - Grid Lab, supra note 212.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 43
+costs and offer more long-term benefits. For example, advanced overhead conductors have lower weight, and
+therefore require less robust and less costly transmission towers. Due to lower sag, the towers can be placed
+farther apart thus further decreasing project costs. Advanced overhead conductors also offer 25 to 40 percent
+fewer electrical losses to conventional conductors, which makes them more cost efficient over lifetime use.218
+Vermont Electric Power Company found that using advanced conductors reduced line energy losses enough to
+result in a lower lifetime expense despite the higher upfront cost.219
+Challenges
+Installation Complexity
+Advanced reconductoring is new and thus utilities are less familiar with new material properties and designs.
+Installation of advanced conductors requires new tools and techniques for installation, especially for splicing
+and connecting two spans, and additional training for staff.220
+Conductor Durability
+Utilities have expressed concern regarding the lack of knowledge on the durability of new conductors.
+According to the INL, most utilities prefer to conduct multiple pilots and test programs deploying advanced
+conductors at a large scale.221
+6. STORAGE AS A TRANSMISSION ASSET
+Overview
+Using storage as a transmission asset refers to the process of using energy storage systems, including batteries
+or pumped hydro, to support the transmission grid. Energy storage located along a transmission line can be
+operated to inject or absorb real and reactive power, mimicking transmission line flows. As a result, energy
+storage may be used in place of building a new transmission line.222
+218 DOE, supra note 56, at 27.
+219 Energy Innovation - Grid Lab, supra note 212.
+220 DOE, supra note 56, at 28.
+221 INL, supra note 209.
+222 Kumaraswamy et al., Redrawing The Network Map: Energy Storage As Virtual Transmission, Fluence
+(2020), available at
+https://info.fluenceenergy.com/hubfs/Collateral/Storage%20as%20Transmission%20White%20Paper.pd
+f.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 44
+Energy storage is dual use as it can be deployed as a generation resource or as a transmission asset. When used
+as a transmission asset, energy storage can quickly add transmission capacity and thus help solve grid
+congestion or resolve transmission needs faster than building new lines.223
+Current Industry Trends
+As early as 2010, DOE identified energy storage as a potential solution to defer or avoid transmission and
+distribution upgrades. At the time, the technology was still maturing, and DOE emphasized the need to fully
+understand its potential costs and benefits. For example, few large-scale demonstrations had been implemented
+and their impacts were relatively unknown.224
+Today, the technology is mature enough that multiple countries have made extensive plans to add more storage
+capacity as a transmission asset on their grids. According to Navigant, a cumulative 35.5 GW of energy storage
+for critical infrastructure, including approximately 25 percent for direct transmission and distribution needs, is
+expected to be deployed by 2027.225
+The regulatory framework for storage as a transmission asset is evolving. In 2017, FERC issued a policy
+statement supporting the deployment of energy storage for the dual uses of regulated transmission service and
+competitive market service. This allowed storage owners to earn revenue through market operations when the
+storage asset was not required for transmission needs.226 In 2023, FERC approved the implementation of
+storage as a transmission asset in the SPP and ISO-NE regions with certain limitations. For ISO-NE, the
+aggregate amount of storage cannot exceed 300 MW for charging and discharging capacity, and the total
+capacity at one single substation is limited to 30 MW. These limitations are intended to minimize the likelihood
+of transmission level storage causing sudden power impacts and associated disruptions.227
+Utility Dive, a trade newsletter covering the utility industry, reports that energy storage remains underused in
+the U.S. transmission grid as there are unsolved regulatory and market design questions at the grid operator
+223 Id.
+224 DOE, Electric Power Industry Needs for Grid-Scale Storage Applications (December 2010), available
+at www.energy.gov/oe/articles/electric-power-industry-needs-grid-scale-storage-applications.
+225 Ian McClenny, T&D Asset Operators Look to Critical Energy Storage, Electricity Today, available at
+www.electricity-today.com/overhead-td/td-asset-operators-look-to-critical-energy-storage (last accessed
+July 14, 2025).
+226 PNNL, Enabling Principles for Dual Participation by Energy Storage as a Transmission and Market
+Asset (February 2022), available at www.pnnl.gov/main/publications/external/technical_reports/PNNL-
+32196.pdf.
+227 AFRY, How Can Storage as Transmission Only Assets (SATOAS) Help Solve The Increasing Electric
+Transmission Challenges in The US?, https://afry.com/en/insight/how-can-storage-transmission-only-
+assets-satoas-help-solve-increasing-electric-transmission (last accessed July 14, 2025).
+
+Department of Public Utilities – Advanced Transmission Solutions Report 45
+level.228 This is especially true with “dual-use” storage assets that provide both market and reliability services.
+A Quanta Technology report on the feasibility of the technology, prepared for the New York Battery and
+Energy Storage Technology, shares similar concerns for NYISO area.229 In their report, Quanta Technology
+recommends changing the current market rules and transmission planning tariffs to improve the feasibility of
+storage, including allowing storage as a transmission asset recovery under ISO tariffs, allowing batteries as
+flexible system resources, and including storage in need and solution assessments for grid planning.
+Benefits
+Reduced Generator Curtailment or Congestion
+Storage as a transmission asset can help reduce generator curtailment by increasing transmission capacity. The
+technology can increase transmission transfer capability by balancing individual transmission line loading and
+mitigating system voltage or stability issues under normal or contingency conditions.230 Renewable energy
+output is often limited by the thermal ratings of a single transmission facility. Battery storage can help the
+transmission facility avoid exceeding thermal ratings and thus prevent curtailment.231
+Maximization of the Value of Planned Investments
+One benefit of using storage as a transmission asset is that it maximizes the use of existing infrastructure by
+providing operational flexibility. Storage offers a viable solution as it avoids the need for expansive
+transmission lines and provides an intermittent locational resource capable of responding to grid dispatch needs.
+When used this way, storage primarily controls power flows to achieve better load balancing among
+transmission facilities, which in turn enables more efficient use of existing transmission facilities.232
+Storage is also modular and relatively quick to deploy, which can make it a cost-saving solution for immediate
+system needs. Depending on applicable regulations, battery storage can be deployed as much as 80 percent
+faster than transmission lines. A typical 100 MW or larger battery installation can be built in approximately one
+to two years.233
+Storage can be planned flexibly and built incrementally, adapting as needs change. A 200-300 MW energy
+storage project deployed along a 220 kV transmission line can fit onto a site equivalent in size to 0.37 miles
+228 Brian Martucci, Energy Storage Underused As Transmission Asset Amid Unresolved Questions, Experts
+Say, Utility Dive, September 24, 2024, available at www.utilitydive.com/news/energy-storage-
+underused-transmission-asset-ferc/727946/.
+229 Quanta Technology, Storage as Transmission Asset Market Study (January 2023), available at
+https://cdn.ymaws.com/ny-best.org/resource/resmgr/reports/SATA_White_Paper_Final_01092.pdf.
+230 Id. at 8.
+231 Twitchell J.B., Energy Storage as a Transmission Asset: Definitions and Use Cases, 37 The Elec.J. 7-10
+(December 2024), available at www.sciencedirect.com/science/article/pii/S1040619024000769.
+232 Quanta Technology, supra note 229, at 7.
+233 Kumaraswamy et al., supra note 222.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 46
+(600 meters).234 Unlike traditional transmission lines, storage can be connected across multiple points on the
+grid and relocated if necessary. As a result, the risks of stranded assets and overbuilding of the transmission
+infrastructure are minimized.235
+Improved Reliability
+Transmission level- storage supports grid functionality through ensuring security and resiliency. Battery
+storage can preserve system performance in the event of a temporary transmission outage or even prevent
+blackouts.236 Storage also provides a range of critical ancillary services, including frequency and voltage
+control and special protection schemes. Amid the increased retirements of synchronous generators, storage is a
+viable option to avoid otherwise-necessary costly transmission upgrades.237
+Cost-Effectiveness
+Deploying battery storage as a transmission asset has been increasingly cost effective in a number of
+applications globally. In Germany, installing 1,300 MW of storage capacity on the transmission grid is
+expected to lower redispatch costs by EUR 130 million (approximately $148.2 million in U.S. dollars) per
+year.238 In Australia, deploying 100 MW of storage is expected to result in as much as AUD $34 million
+(approximately $23.5 million in U.S. dollars) in savings from the reduction in electricity prices due to storage
+during periods of peak renewable generation.239 In Massachusetts, National Grid’s $81 million six MW battery
+storage project in Nantucket, commissioned in 2019, is expected to defer investment in a $200 million
+submarine cable saving ratepayers $120 million.240
+As of 2025, New York has conducted the most comprehensive cost-benefit assessment to date. The study
+assessed three use cases of storage as a non-wires alternative at the bulk transmission system level. The results
+have shown that battery projects can provide between $13 - $55 million in cost savings to the grid compared to
+traditional transmission solutions. Table 1 below, presents the cost estimates of the traditional solutions
+compared to the storage as transmission asset option and the associated annual cost savings.
+234 Id.
+235 Quanta Technology, supra note 229, at 7.
+236 Kumaraswamy et al., supra note 222.
+237 Quanta Technology, supra note 229, at 7-8.
+238 Kumaraswamy et al., supra note 222.
+239 Id.
+240 Quanta Technology, supra note 229, at 10.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 47
+Table 1—Cost Comparison Storage as Transmission Asset (SATA) vs Traditional (Source: Quanta technology241).
+Challenges
+Currently, the main challenge to a higher adoption rate of storage as a transmission asset is the lack of clear
+planning criteria at the regional transmission organization level. According to the Pacific Northwest National
+Laboratory, regional transmission planning processes have been slow to incorporate storage technologies. The
+analysis identified five key barriers this has caused, including:
+▪ Lack of clarity for how and when storage will be considered;
+▪ Difficulty representing storage in power flow models;
+▪ Weak links between transmission and generation planning processes;
+▪ Financial disincentive for utilities to consider lower-cost options; and
+▪ Lack of regulatory review procedures.242
+7. CONCLUSION
+Advanced transmission solutions are a useful addition to the transmission system toolkit. In the past, new
+transmission needs usually required investment in expensive and lengthy system expansions. However, the
+current pace of new electricity demand poses challenges for the traditional approach to system expansion.
+Advanced transmission solutions offer a flexible, cost effective, and scalable option transmission owners and
+planners can use to improve system performance and expand transmission capacity. Compared to traditional
+upgrades, advanced transmission solutions are faster to install, cost a fraction of the expense, complement the
+existing assets, and are reversible in some cases. Most importantly, all the technologies investigated in this
+report are ready to be deployed and can be cost-effective when applied in the right environment. Transmission
+system stakeholders in public and private sectors are actively studying the potential of advanced transmission
+241 Id.
+242 PNNL, supra note 226.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 48
+solutions to transform the grid by deploying pilots, developing new policies, and analyzing potential impacts
+and benefits.
+The primary benefit of advanced transmission solutions is the potential to expand capacity on the transmission
+system. According to the DOE’s estimate, deploying these technologies nationally could increase the capacity
+of the existing grid to support 20-100 GW of incremental peak demand when installed individually, or even
+more when installed in strategic combinations. GETs could increase incremental transmission capacity to
+support five to-15 percent higher peak load from 2023 levels when installed individually. Although an estimate
+for the potential benefit in ISO-NE is not readily available, given the New England region’s projected
+74 percent increase in peak demand to 40 GW by 2045, the potential for advanced transmission solutions to
+expand transmission capacity merits consideration given Commonwealth’s significant clean energy deployment
+needs.243,244 DLR is most effective in areas rich with wind resources, including offshore wind. National Grid in
+the United Kingdom was able to increase line ratings by nine percent using LineVision’s DLR sensors on a
+critical double circuit connecting offshore wind to the grid.245
+Advanced transmission solutions can deploy relatively quickly, enabling more interconnections while new
+transmission and distribution assets are being developed. Depending on the advanced transmission technology
+considered, typical deployment time is between six months and five years.246 In contrast, traditional solutions
+take over a decade to complete. Given ISO-NE’s 36.8GW interconnection queue, which includes 20.5GW in
+the Commonwealth, advanced transmission solutions could be a tool to bridge short-term needs with long-term
+solutions.247 Over the long term, New England will need both gigawatts of new renewable energy generation
+and transmission capacity to meet increasing electricity demand and climate goals.248 However, in the short
+term, these solutions could enable a faster path towards the state’s energy objectives.
+Advanced transmission solutions also offer increased resiliency, reliability, and adaptability. For example,
+DLR offers increased operational visibility of the grid, which helps improve decision making, especially during
+243 Massachusetts Executive Office of Energy & Environmental Affairs, Clean Energy and Climate Plan
+for 2050, December 2022, available at https://www.mass.gov/doc/2050-clean-energy-and-climate-
+plan/download.
+244 See ISO-NE, Forecast Report of Capacity, Energy, Loads, and Transmission (2025) available at
+https://isonewswire.com/2025/05/19/iso-ne-innovations-push-electricity-forecast-further-into-the-
+future/, last accessed August 29, 2025.
+245 LineVision., How Dynamic Line Ratings Accelerate Renewable Energy Integration,
+www.linevisioninc.com/news/how-dynamic-line-ratings-accelerate-renewable-energy-integration (last
+accessed August 12, 2025).
+246 In some cases, DLR deployment can take as little as three months.
+247 ISO-NE, ISO New England Overview and Regional Update” (April 2025) at Slide 16, available at
+www.iso-ne.com/static-assets/documents/100023/isone_2025_04_23_nh_bia.pdf.
+248 Synapse Energy Economics, Transmission Congestion in New England: Planning for the Future, June 9,
+2025, www.synapse-energy.com/transmission-congestion-new-england-planning-future (last accessed
+July 23, 2025).
+
+Department of Public Utilities – Advanced Transmission Solutions Report 49
+extreme conditions. ISO-NE used DLR principles to prevent blackouts and reduce congestion costs during the
+2018 cold snap.249 APFCs are designed to make the grid more flexible and responsive to faults, disturbances,
+and other unplanned events. Topology optimization can help grid operators find reconfiguration solutions
+during unplanned outages. Advanced conductors are better able to withstand extreme weather conditions due to
+lower sag, corrosion resistance, and better durability. High-temperature, low-sag conductors perform especially
+well in snowy conditions, which could be important if ISO-NE transitions to a winter peaking system.
+Through pilots and studies, advanced transmission solutions have been proven a cost-effective solution under
+the right conditions, typically when used to relieve congestion. For example, PPL invested less than $1 million
+on DLR installation on two congested lines and saved an expected $23 million in reduced congestion costs.250
+In PJM, one APFC device offered annual cost savings of $39 million from reduced congestion, while
+17 devices saved $196 million.251, 252 In SPP, topology optimization is helping save three percent of the
+congestion costs, equivalent to savings of between $18-44 million.253 While the potential savings from
+applications throughout the country are promising, in New England the benefits may be limited because the
+region is one of the least congested in the country due to previous investment in transmission.254 New England
+is projected to invest another $6.5 billion in asset condition and reliability transmission projects through
+2030.255 While GETs are not necessarily well suited to replace assets that have reached the end of their useful
+life, advanced reconductoring and storage could be an alternative.256
+Despite the many benefits of advanced grid solutions investigated in this report, these technologies have not
+been widely adopted in the U.S. and in Massachusetts, in particular. The state’s two main transmission owners,
+Eversource and National Grid, have deployed a few pilots in the state and are both in the process of adopting
+AAR ratings in compliance with FERC Order 881. National Grid has adopted the use of ACSS, an advanced
+conductor, as standard practice across the Massachusetts transmission operations. National Grid also has
+installed two APFCs in central Massachusetts and has two DLR deployments in New England. Eversource,
+reports using advanced conductors and various power flow controllers, including APFCs, in the state, and is
+deploying a DLR project between the Cape Cod Canal and the town of Carver, Massachusetts. However, as is
+the case nationally, widescale adoption is not common. Eversource and National Grid note that advanced
+249 Brattle Group, supra note 109, at 26.
+250 Ampacimon, supra note 111.
+251 DOE, supra note 171, at 24.
+252 Id.
+253 DOE, supra note 56, at 12.
+254 Synapse Energy Economics, supra note 248.
+255 Connecticut Department of Energy & Environmental Protection, Transmission Solutions White Paper
+(February 2025), available at https://portal.ct.gov/-/media/deep/energy/transmission/transmission-white-
+paper-final.pdf.
+256 To date, advanced conductors in Massachusetts have been limited to specific challenging locations.
+
+Department of Public Utilities – Advanced Transmission Solutions Report 50
+transmission technologies are not the right solution for every situation and must be evaluated on a case-by-case
+basis.
+Stakeholders and advisors involved managing the grid and deploying advanced transmission solutions note
+barriers and concerns regarding deployment of advanced transmission technologies. Currently, the benefits and
+advantages of advanced transmission solutions are not reflected in the transmission owner’s business model.
+Ratepayers and other market participants may benefit, but utilities absorb increased operating and technology
+risks. GETs system modeling is not yet robust enough to be readily adopted into operations or to be included in
+planning. Additional concerns commonly cited in literature include challenges around accuracy limits for DLR
+and topology optimization, unintended risks and market changes for APFCs, and installation complexity and
+durability for advanced conductors.
+Federal regulations and regional planning policies will strongly influence deployment of advanced transmission
+technologies. FERC has considered these technologies across four dockets in the last decade. In particular,
+FERC’s regulations related to cost recovery for GETs will influence deployment of these technologies. ISO-NE
+is in the process of issuing recommendations for guidance on the application of GETs in the planning processes,
+tentatively expected by the end of 2025.257 Once the guidance is issued, a broader assessment of needs and
+applicability of various advanced transmission technologies to specific segments will also likely be necessary in
+ensuring wider adoption.258 Both federal and state legislatures have either passed or considered laws related to
+these technologies. DOE has supported pilots and studies with funding and expertise. As these examples show,
+entities with jurisdictional authority over advanced transmission solutions are active in developing new policies
+and regulations, and the decisions they make will ultimately shape the field for decades to come.
+APPENDIX 1: TECHNICAL SESSION
+APPENDIX 2: WRITTEN RESPONSES
+DPU will append the included zip files to this document as a PDF when it is ready to submit.
+257 ISO-NE, supra note 50.
+258 LineVision in its written response echoes this recommendation. See Appendix 2. LineVision.

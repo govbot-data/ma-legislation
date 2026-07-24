@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE . . . . . . . . No. 5255
+The Commonwealth of Massachusetts
+________________________________________
+HOUSE OF REPRESENTATIVES, March 18, 2026.
+The committee on Revenue, to whom was referred the petition
+(accompanied by bill, House, No. 3279) of Christopher J. Worrell relative
+to taxation and investment in digital financial assets, reports
+recommending that the accompanying bill (House, No. 5255) ought to
+pass.
+For the committee,
+ADRIAN C. MADARO.
+
+FILED ON: 3/13/2026
+HOUSE . . . . . . . . . . . . . . . No. 5255
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act allowing for fiscal resilience through authorization of strategic investment in stable
+digital financial assets.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws are hereby amended by inserting after chapter 64N the
+2 following new chapter:-
+3 CHAPTER 64O. Taxation and Investment in Digital Financial Assets
+4 Section 1. Intent
+5 (a) It shall be the intent of the General Court to authorize the state treasurer and public
+6 pension funds to:
+7 (i) permit the inclusion of bitcoin and other stable digital financial assets to serve as
+8 stores of value and provide a hedge against inflation, thereby protecting the purchasing power of
+9 state funds;
+10 (ii) ensure that the investment strategies employed by the state treasurer and public
+11 pension funds are aligned with the goal of enhancing the economic security and financial
+12 resilience of the commonwealth; and
+1 of 4
+
+13 (ii) allow flexibility in investment decisions to respond to changing economic conditions
+14 and emerging opportunities that may offer better protection or returns on state funds.
+15 Section 2. Definitions
+16 As used in this chapter, the following terms shall have the following meanings unless the
+17 context clearly requires otherwise:
+18 "Bitcoin", the decentralized digital currency launched in 2009, a digital asset which is
+19 the basis of the Bitcoin exchange traded product which is regulated by the federal securities and
+20 exchange commission.
+21 "Digital financial asset", any digital representation of value that is recorded on a
+22 cryptographically secured distributed ledger of virtual currency, cryptocurrencies, natively
+23 electronic assets including stablecoins and non-fungible tokens or other exclusively digital assets
+24 that confer economic, proprietary or access rights or powers that are not cash; provided,
+25 however, that for the purposes of taxation pursuant to sections 58 to 65C, inclusive, digital assets
+26 shall be considered a cash equivalent.
+27 "Exchange-traded product”, any financial instrument that is approved by the federal
+28 securities and exchange commission, the federal commodities future trading commission,or the
+29 division of banks that is traded on a United States regulated exchange and derives its value from
+30 an underlying pool of assets, such as stocks, bonds, commodities or indexes.
+31 “Private key”, a unique element of cryptographic data used for signing transactions on a
+32 blockchain, which is known to the owner of the private key.
+2 of 4
+
+33 “Qualified custodian”, any federal or state-chartered bank, trust company or special
+34 purpose depository institution or a company regulated by the state which custodies digital assets
+35 for an approved exchange-traded product.
+36 “Secure custody solution”, a technological product or blended product and service which
+37 has the following characteristics:
+38 (1) The cryptographic private keys that secure digital assets are exclusively known by
+39 and accessible by a government entity;
+40 (2) the cryptographic private keys that secure digital assets are exclusively contained
+41 within an encrypted environment and accessible exclusively via end-to-end encrypted channels;
+42 (3) The cryptographic private keys that secure digital assets are never contained by,
+43 accessible by, or controllable via a smartphone;
+44 (4) Any hardware that contains the cryptographic private keys that secure digital assets is
+45 maintained in at least 2 geographically diversified and specially designated secure data centers;
+46 (5) The secure custody solution enforces a multi-party governance structure for
+47 authorizing transactions, enforces user access controls and logs all user-initiated actions;
+48 (6) The provider of the secure custody solution has implemented a disaster recovery
+49 protocol that ensures customer access to assets in the event the provider becomes unavailable;
+50 and
+51 (7) The secure custody solution undergoes regular code audits and penetration testing
+52 from audit firms; provided, however, that any identified vulnerabilities shall be promptly
+53 remedied.
+3 of 4
+
+54 Section 4. Application and investment
+55 (a) The state treasurer may invest public funds in Bitcoin from the following funds:
+56 (1) The General Fund;
+57 (2) The Commonwealth Stabilization Fund established pursuant to section 2H of chapter
+58 29;
+59 (3) The State Retiree Benefits Trust Fund established pursuant to section 24 of chapter
+60 32A; or
+61 (4) Any other state fund deemed appropriate as requested by the state treasurer and
+62 approved by the General Court.
+63 (b) The amount of public funds that the state treasurer may invest in Bitcoin shall not
+64 exceed 10 per cent of the total amount of public funds in the applicable account.
+65 (c) Any digital assets acquired by any of the funds listed in subsection (b) shall be held:
+66 (i) directly by the state treasurer through the use of a secure custody solution; (ii) on behalf of the
+67 state by a qualified custodian; or (iii) in the form of an exchange-traded product issued by a
+68 registered investment company.
+69 SECTION 2. Section 1 shall take effect upon enactment.
+4 of 4

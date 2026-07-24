@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE DOCKET, NO. 1032 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 3755
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Steven Owens
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act establishing driver privacy protections.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Steven Owens 29th Middlesex 1/14/2025
+Lindsay N. Sabadosa 1st Hampshire 1/21/2025
+Sean Garballey 23rd Middlesex 1/29/2026
+Carmine Lawrence Gentile 13th Middlesex 2/17/2026
+Justin Thurber 5th Bristol 2/17/2026
+Marjorie C. Decker 25th Middlesex 2/19/2026
+Samantha Montaño 15th Suffolk 2/19/2026
+Natalie M. Higgins 4th Worcester 2/23/2026
+Margaret R. Scarsdale 1st Middlesex 3/2/2026
+Nick Collins First Suffolk 3/9/2026
+David M. Rogers 24th Middlesex 3/13/2026
+1 of 1
+
+HOUSE DOCKET, NO. 1032 FILED ON: 1/14/2025
+HOUSE . . . . . . . . . . . . . . . No. 3755
+By Representative Owens of Watertown, a petition (accompanied by bill, House, No. 3755) of
+Steven Owens and Lindsay N. Sabadosa for legislation to establish driver privacy protections.
+Transportation.
+[SIMILAR MATTER FILED IN PREVIOUS SESSION
+SEE HOUSE, NO. 3404 OF 2023-2024.]
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act establishing driver privacy protections.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws are hereby amended by inserting after chapter 90J the
+2 following chapter:-
+3 CHAPTER 90K. DRIVER PRIVACY PROTECTIONS.
+4 Section 1. As used in this chapter, the following words shall have the following meanings
+5 unless the context requires otherwise: -
+6 “Automated license plate reader system” or “ALPR system”, an automated system of one
+7 or more mobile or fixed high-speed cameras used in combination with computer algorithms to
+8 convert images of license plates into computer-readable license plate identifying data.
+1 of 6
+
+9 “Automated license plate reader data” or “ALPR data”, all data collected by automated
+10 license plate reader systems, including but not limited to the GPS coordinates, location, date and
+11 time, speed of travel, photograph, license plate number, or other identifying information;
+12 provided that ALPR data does not include tolling data.
+13 “Toll collection technology”, any technology used for toll collection or assessment,
+14 including radio-frequency identifying transponders and automated license plate reader systems.
+15 “Tolling data”, any data captured or created by toll collection technologies, including,
+16 without limitation, GPS coordinates or other vehicle location information, dates and times
+17 traveled, images, vehicle speed, and license plate numbers, existing in any form or medium,
+18 whether electronic, paper or otherwise, and any copies thereof;
+19 “Preservation request”, written notice obtained by a federal, state or municipal law
+20 enforcement agency or a defendant in a criminal case requesting that certain tolling data be
+21 preserved and retained for a specified period of time from the date such request is received;
+22 provided, that such preservation request shall be accompanied by an affidavit stating: (i)
+23 the
+24 parameters identifying which tolling data must be preserved, including, without
+25 limitation, the
+26 license plate numbers, if any, and the dates, times, and locations; and (ii) that such
+27 specified
+28 period of time is necessary to obtain a search warrant or production order compelling the
+29 production of such tolling data;
+2 of 6
+
+30 “Production order”, an order or summons obtained by a defendant in a criminal case
+31 charged with a felony requiring the department or an agent of the department to produce tolling
+32 data; provided, that such order or summons shall be issued in compliance with Massachusetts
+33 30 Rule of Criminal Procedure 17(a)(2); provided further, that any tolling data produced
+34 in response to such order or summons shall be deemed privileged for the purposes of complying
+35 therewith;
+36 “Search warrant”, (i) a federal search warrant issued upon a determination of probable
+37 cause by a court or justice authorized to issue warrants in criminal cases that meets the
+38 requirements of the Federal Rules of Criminal Procedure; or (ii) a state search warrant issued
+39 pursuant to the requirements of sections 2 through 3A, inclusive, of chapter 276 by a court or
+40 justice authorized to issue warrants in criminal cases.
+41 “Vehicle data”, GPS information revealing the location of vehicles that is created by the
+42 hardware or software in vehicles and that is collected or accessed by private parties other than
+43 the driver, including but not limited to original equipment manufacturers, vehicle software
+44 providers, and aftermarket analysts of onboard diagnostics.
+45 Section 2.
+46 Persons acting under color of state law shall not:
+47 (a) use an ALPR system to track or otherwise monitor activity protected by Articles II or
+48 XVI of the Massachusetts Declaration of Rights or the First Amendment to the United States
+49 Constitution;
+3 of 6
+
+50 (b) retain ALPR data longer than 14 days except in connection with a specific criminal
+51 investigation based on articulable facts linking the data to a crime;
+52 (c) disclose or permit access to ALPR data except as required in a judicial proceeding;
+53 (d) sell, lease, rent, or purchase ALPR data or vehicle data; or
+54 (e) access ALPR data from other governmental or non-governmental entities except
+55 pursuant to a valid search warrant.
+56 Section 3.
+57 (a) Notwithstanding any general or special law or regulation to the contrary, toll
+58 collection technologies shall only be used to identify the location of any vehicle for tolling
+59 purposes under section 13 of chapter 6C of the general laws.
+60 (b) The department of transportation, and any agent acting on its behalf, shall not access,
+61 search, review, disclose, or exchange tolling data in its possession, custody, or control except as
+62 necessary to:-
+63 i. assess, collect or pursue the payment tolls or fines or surcharges related to unpaid tolls;
+64 ii. install, maintain or repair an ALPR or transponder system or a system storing tolling
+65 data;
+66 iii. respond to a reasonable belief that an individual is at imminent risk of serious physical
+67 injury, death or abduction in accordance with this section;
+68 iv. comply with a search warrant, production order, or preservation request issued in
+69 connection with the investigation or prosecution of a felony.
+4 of 6
+
+70 (c) Notwithstanding any general or special law or regulation to the contrary, the
+71 department of transportation shall permanently erase or destroy all tolling data in its possession,
+72 custody, or control not later than 120 days following the date on which the tolling data was
+73 created; provided, however, that the department may retain tolling data beyond the 120-day
+74 period as necessary to comply with a search warrant, production order, or preservation request,
+75 or as necessary to collect unpaid tolls or fines or surcharges related to unpaid tolls.
+76 Section 4. Law enforcement access to toll collection and vehicle data
+77 (a) No toll collection or vehicle data shall be shared with or provided to any law
+78 enforcement entity or any law enforcement official without a search warrant; provided, however,
+79 that a law enforcement entity or official may request and obtain such data without a search
+80 warrant if it reasonably believes that an individual is at imminent risk of serious physical injury,
+81 death or abduction and that such data is necessary to solve such situation. The request shall be
+82 narrowly tailored to address the emergency and subject to the following limitations:
+83 (i) the request shall document the factual basis for believing the existence of a situation
+84 that requires obtaining toll collection or vehicle data without delay because an individual is at
+85 imminent risk of serious physical injury, death, or abduction; and
+86 (ii) not later than 48 hours after the government office obtains access to records, it shall
+87 file with the office of the attorney general a written notice describing with particularity the
+88 grounds for such emergency access and the parameters of the tolling data or vehicle data
+89 accessed, searched, reviewed or disclosed.
+90 Section 5.
+5 of 6
+
+91 Notwithstanding any general or special law or regulation to the contrary, ALPR data,
+92 tolling data, and vehicle data collected, retained, disclosed, sold, rented, leased, purchased, or
+93 accessed in violation of this chapter shall not be admitted, offered or cited by any governmental
+94 entity for any purpose in any criminal, civil, or administrative proceeding; provided, however,
+95 that an individual whose rights have been violated by the improper transfer of or access to these
+96 data, may introduce evidence concerning such data in a civil action brought pursuant to section 6
+97 or may grant permission to another party in a civil proceeding to introduce such evidence.
+98 Section 6. Enforcement.
+99 (a) Any aggrieved person may institute a civil action in a district or superior court for
+100 damages resulting from a violation of this chapter, or in superior court for injunctive relief to
+101 restrain any such violation.
+102 (b) If in any such action a willful violation is found to have occurred, the violator shall
+103 not be entitled to claim any privilege absolute or qualified. In addition to any liability for such
+104 actual damages as may be shown, the violator shall be liable for treble damages, or, in the
+105 alternative, exemplary damages of not less than one hundred and not more than one thousand
+106 dollars for each violation, together with costs and reasonable attorney’s fees.
+107 (c) The attorney general shall enforce this chapter and shall have the power to petition the
+108 court for injunctive relief and other appropriate relief against any person that fails to comply
+109 therewith.
+6 of 6

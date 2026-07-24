@@ -1,0 +1,1774 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Massachusetts Sheriffs’ Association
+Chapter 126, Section 40
+Quarterly Population Report
+Q4 2025
+Franklin County
+Sheriff's Office
+Page 1 of 24
+
+Overview of Quarterly Population Report for the Individual Massachusetts Sheriffs' Offices
+In compliance with the Massachusetts General Laws, Part I, Title XVIII, Chapter 126, Section 40:
+Recording and reporting of data on population of jails and houses of correction
+Section 40. The sheriff shall record, without limitation, the following data for each person committed to
+a jail or house of correction: (i) probation central file number; (ii) fingerprint-based state identification
+number, if available; (iii) race and ethnicity; (iv) offense-based tracking number; (v) type of release; (vi)
+type of admission; (vii) length of sentence; (viii) jail credit from pretrial incarceration; (ix) earned time;
+(x) program participation and outcome during incarceration; (xi) case disposition; and (xii) bail amount
+or reason if no bail set.
+Aggregate data on the population of each jail and house of correction shall be assembled into a
+quarterly report with the reported data covering the entire quarterly period. The reports prepared by the
+sheriff shall contain no identifying information relating to an individual inmate or detainee.
+Each quarter the sheriff shall deliver the report from each jail and house of correction to the secretary
+of public safety and security, the house and senate chairs of the joint committee on the judiciary, the
+house and senate chairs of the joint committee on public safety and homeland security and the clerks
+of the house of representatives and the senate.
+This report was produced in partnership with the Executive Office of Public Safety & Security by
+utilizing data from the Commonwealth of Massachusetts Criminal Justice Cross-Tracking System.
+Data Definitions & Disclaimer:
+Probation Central File (PCF) Number: A number assigned for identification purposes to an individual by the
+Massachusetts Probation Service. The PCF is not supported by fingerprint-based identification.
+State Identification Number (SID): A unique ten-character alphanumerical identifier supported by fingerprint
+identification assigned to an individual by the Department of State Police through the Automated Fingerprint
+Identification System (AFIS). The SID is created upon the fingerprinting of a person by a Criminal Justice Agency.
+Offense-Based Tracking Number (OBTN): A unique identifier for a specific fingerprint/arrest/custody event that links
+the individual to fingerprints taken. An individual may have multiple OBTNs on file when they have multiple events.
+Disclaimer: The SID, PCF, and OBTN are generated during an individual’s first interaction with the criminal justice
+system. There is often a lag time before the FBI can produce these numbers and they are not immediately available
+during intake. Officers manually add this information once it is received, but some SIDs, PCFs, and OBTNs may not be
+included in this report due to when the data was extracted.
+Important Data Note:
+The statute requires three specific data points that are not owned by the Sheriffs' Offices. These three include: case
+disposition, bail amount, and reason if no bail set, which originate with the Trial Court. As such, the Sheriffs are
+unable to populate these fields. The MSA, in consultation with the Trial Court and EOPSS, are working to refine these
+metrics so that they can be retrieved from the Cross-Tracking System and reported on electronically.
+Page 2 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Franklin 2847716 MA21236366 JFCH1J2513684 White Not Hispanic/Latino 10/1/25 Pre-Trial
+Franklin 5558077 MA21211047 JFCH1J2513686 White Not Hispanic/Latino 10/2/25 Pre-Trial
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino 10/2/25 Pre-Trial
+Franklin 5477668 MA21149738 JFCH1J2513690 White Not Hispanic/Latino 10/3/25 Pre-Trial
+Franklin 455499 MA00804407 JFCH1J2513689 White Unavailable 10/3/25 Pre-Trial
+Franklin 2116334 MA09105911 TSB2202500405 White Hispanic/Latino 10/3/25 Pre-Trial
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino 10/4/25 Pre-Trial
+Franklin 5381028 MA21190710 JFCH1J2513698 White Not Hispanic/Latino 10/6/25 Pre-Trial
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino 10/7/25 Sentenced 20 540 317
+Franklin 5596977 MA21239435 TGRF202500373 White Not Hispanic/Latino 10/7/25 Pre-Trial
+Franklin 2876276 MA10168089 HFCH2H2513702 White Hispanic/Latino 10/7/25 Sentenced 383 56
+Franklin 5497051 MA21236197 HFCH1H2513701 White Hispanic/Latino 10/7/25 Sentenced 7.5 270 53
+Franklin 5676869 MA21302972 HFCH1H2513704 White Not Hispanic/Latino 10/8/25 Sentenced 60
+Franklin 2193308 MA09454455 TATH202500204 Black/African American Not Hispanic/Latino 10/8/25 Pre-Trial
+Franklin 5203480 MA10617668 JFCH1J2513708 White Not Hispanic/Latino 10/9/25 Pre-Trial
+Franklin 3022644 MA21016383 HFCH2H2513707 White Not Hispanic/Latino 10/9/25 Sentenced 15 396 198
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino 10/9/25 Sentenced 30 566 164
+Franklin 5500971 MA21267799 HFCH2H2513706 White Not Hispanic/Latino 10/9/25 Sentenced 7.5 270 65
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino 10/10/25 Sentenced 20 180 58
+Franklin 3043065 MA21159985 JFCH1J2513713 White Not Hispanic/Latino 10/10/25 Pre-Trial
+Franklin 1096431 MA10189029 TGRF202500377 Black/African American Not Hispanic/Latino 10/10/25 Pre-Trial
+Franklin 2917424 MA10399640 TGRF202500380 White Not Hispanic/Latino 10/11/25 Pre-Trial
+Franklin 5100442 MA10542821 JFCH1J2513716 White Not Hispanic/Latino 10/11/25 Pre-Trial
+Franklin 2358355 MA09801987 TGRF202500383 White Not Hispanic/Latino 10/14/25 Pre-Trial
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino 10/14/25 Sentenced 20 360 88
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino 10/14/25 Sentenced 30 365 89
+Franklin 2812132 MA10125527 JFCH1J2513727 White Hispanic/Latino 10/15/25 Pre-Trial
+Franklin 5309770 MA21034843 TORA202500253 White Not Hispanic/Latino 10/15/25 Pre-Trial
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino 10/15/25 Pre-Trial
+Franklin 3180106 MA21227620 JFCH1J2513728 White Hispanic/Latino 10/16/25 Pre-Trial
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino 10/16/25 Pre-Trial
+Franklin 5558077 MA21211047 HFCH1H2513733 White Not Hispanic/Latino 10/17/25 Sentenced 5 150 35
+Franklin 1873602 MA09821873 HFCH1H2513732 Black/African American Not Hispanic/Latino 10/17/25 Sentenced 12.5 365 91
+Franklin 1929254 MA09316971 TATH202500209 White Not Hispanic/Latino 10/17/25 Pre-Trial
+Franklin MA30018393 TGRF202500385 Black/African American Not Hispanic/Latino 10/17/25 Pre-Trial
+Franklin 3154612 MA10583906 TGRF202500386 White Not Hispanic/Latino 10/19/25 Pre-Trial
+Franklin 5175043 MA21077093 JFCH1J2513736 White Not Hispanic/Latino 10/20/25 Pre-Trial
+Franklin 2040356 MA10019586 TORA20250015A7merican Indian/Alaska NativNeot Hispanic/Latino 10/20/25 Pre-Trial
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino 10/21/25 Sentenced 20 180 22
+Franklin 3218387 MA21032800 JFCH1J2513742 White Hispanic/Latino 10/21/25 Pre-Trial
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino 10/21/25 Pre-Trial
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino 10/21/25 Sentenced 20 90 29
+Franklin 5094515 MA21055132 TMOT202500129 White Not Hispanic/Latino 10/22/25 Pre-Trial
+Franklin 2195014 MA10105683 JFCH1J2513745 White Not Hispanic/Latino 10/23/25 Pre-Trial
+Franklin 839291 MA10096482 TGRF202500389 Black/African American Hispanic/Latino 10/23/25 Pre-Trial
+Franklin 5546987 MA21202909 HFCH1H2513752 White Hispanic/Latino 10/24/25 Sentenced 60
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino 10/24/25 Sentenced 20 910 126
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino 10/24/25 Pre-Trial
+Franklin 2360566 MA21135674 TGRF202500391 White Not Hispanic/Latino 10/25/25 Pre-Trial
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino 10/27/25 Sentenced 20 545 29
+Franklin 2917424 MA10399640 TGRF202500393 White Not Hispanic/Latino 10/27/25 Pre-Trial
+Franklin 2987428 MA10385398 HFCH1H2513760 White Not Hispanic/Latino 10/28/25 Sentenced 365 214
+Franklin 2178356 MA10555942 TGRF202500395 White Not Hispanic/Latino 10/28/25 Pre-Trial
+Franklin 5474726 MA21266679 JFCH1J2513759 White Not Hispanic/Latino 10/28/25 Pre-Trial
+Franklin 2620113 MA09999371 JFCH1J2513763 White Hispanic/Latino 10/29/25 Pre-Trial
+Franklin 3180106 MA21227620 White Hispanic/Latino 10/29/25 Sentenced 20 408 64
+Franklin 5304100 MA21139792 TGRF202500396 White Not Hispanic/Latino 10/29/25 Pre-Trial
+Franklin 1995541 MA21268434 JFCH1J2513765 Asian/Pacific Islander Not Hispanic/Latino 10/30/25 Pre-Trial
+Franklin 2402428 MA09821899 TGRF202500397 White Not Hispanic/Latino 11/1/25 Pre-Trial
+Franklin 5515741 MA21178726 TORA202500265 White Not Hispanic/Latino 11/1/25 Pre-Trial
+Franklin 5637441 MA21271356 HFCH1H2513770 White Not Hispanic/Latino 11/3/25 Sentenced 10 910 361
+Franklin 502214 MA00956840 JFCH1J2513771 White Not Hispanic/Latino 11/3/25 Pre-Trial
+Franklin 2456089 MA10344235 White Not Hispanic/Latino 11/3/25 Pre-Trial
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino 11/4/25 Sentenced 20 90
+Franklin 5582246 MA21228613 JFCH1J2513773 White Unavailable 11/4/25 Pre-Trial
+Franklin 5502994 MA10540686 JFCH1J2513774 White Hispanic/Latino 11/4/25 Pre-Trial
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino 11/5/25 Sentenced 20 730 91
+Page 3 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Franklin 5699020 JFCH1J2513778 White Not Hispanic/Latino 11/5/25 Pre-Trial
+Franklin 5461632 MA21138242 HFCH1H2513777 White Not Hispanic/Latino 11/5/25 Sentenced 20 180
+Franklin 2411756 MA10138693 HFCH1H2513779 White Hispanic/Latino 11/6/25 Sentenced 20 365 50
+Franklin 1918632 MA09209450 JFCH1J2513780 White Not Hispanic/Latino 11/6/25 Pre-Trial
+Franklin 5438433 MA21166901 JFCH1J2513782 White Not Hispanic/Latino 11/7/25 Pre-Trial
+Franklin 5005967 MA10356446 JFCH1J2513781 White Not Hispanic/Latino 11/7/25 Pre-Trial
+Franklin 5451009 MA21261652 HFCH1H2513784 White Not Hispanic/Latino 11/10/25 Sentenced 368 126
+Franklin 2616476 MA10005938 JFCH1J2513786 White Not Hispanic/Latino 11/10/25 Pre-Trial
+Franklin 3147593 MA10584960 JFCH1J2513785 White Hispanic/Latino 11/10/25 Pre-Trial
+Franklin 2620113 MA09999371 HFCH1H2513788 White Hispanic/Latino 11/10/25 Sentenced 90 75
+Franklin 5518890 MA21274979 HFCH2H2513791 White Not Hispanic/Latino 11/12/25 Sentenced 17.5 1460 664
+Franklin 5139221 MA21214743 JFCH1J2513790 White Not Hispanic/Latino 11/12/25 Pre-Trial
+Franklin 5670580 MA30020170 JFCH1J2513792 White Not Hispanic/Latino 11/12/25 Pre-Trial
+Franklin 2358355 MA09801987 JFCH1J2513789 White Not Hispanic/Latino 11/12/25 Pre-Trial
+Franklin 3126249 MA10545119 JFCH1J2513793 Black/African American Not Hispanic/Latino 11/13/25 Pre-Trial
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable 11/14/25 Pre-Trial
+Franklin 5115420 21253773 JFCH1J2513795 White Not Hispanic/Latino 11/14/25 Pre-Trial
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino 11/14/25 Sentenced 20 138 40
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino 11/14/25 Pre-Trial
+Franklin 5293244 MA21017225 TGRF202500403 White Not Hispanic/Latino 11/17/25 Pre-Trial
+Franklin 2456089 MA10344235 White Not Hispanic/Latino 11/17/25 Sentenced 16 365 81
+Franklin 3,039,899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino 11/17/25 Sentenced 10 365
+Franklin 5293244 MA10222804 JFCH1J2513805 White Not Hispanic/Latino 11/18/25 Pre-Trial
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino 11/18/25 Sentenced 20 149 78
+Franklin 1192635 MA10330063 JFCH1J2513804 White Not Hispanic/Latino 11/18/25 Pre-Trial
+Franklin 2746910 MA10085669 JFCH1J2513806 Black/African American Not Hispanic/Latino 11/18/25 Pre-Trial
+Franklin 2980211 MA10255236 TGRF202500405 White Not Hispanic/Latino 11/19/25 Pre-Trial
+Franklin 3202683 MA10640038 JFCH1J2513810 White Hispanic/Latino 11/20/25 Pre-Trial
+Franklin 1096431 MA10189029 HFCH1H2513811 Black/African American Not Hispanic/Latino 11/20/25 Sentenced 10 180 46
+Franklin 5389209 MA21084048 JFCH1J2513815 White Not Hispanic/Latino 11/21/25 Pre-Trial
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino 11/21/25 Pre-Trial
+Franklin 5455446 MA21190267 HFCH1H2513816 White Not Hispanic/Latino 11/21/25 Sentenced 569 81
+Franklin 3003045 MA10408205 HFCH1H2513822 White Not Hispanic/Latino 11/24/25 Sentenced 540 161
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino 11/24/25 Pre-Trial
+Franklin 3171973 MA21030419 JFCH1J2513825 White Not Hispanic/Latino 11/25/25 Pre-Trial
+Franklin 5175043 MA21077093 HFCH1H2513823 White Not Hispanic/Latino 11/25/25 Sentenced 387 59
+Franklin 5438433 MA21166901 HFCH1H2513824 White Not Hispanic/Latino 11/25/25 Sentenced 180 149
+Franklin 3073827 MA10524935 JFCH1J2513826 Black/African American Not Hispanic/Latino 11/26/25 Pre-Trial
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino 11/26/25 Pre-Trial
+Franklin 3153031 MA21072430 JFCH1J2513831 White Not Hispanic/Latino 11/28/25 Pre-Trial
+Franklin 5451009 MA21261652 White Not Hispanic/Latino 11/28/25 Sentenced 368 126
+Franklin 2178356 White Not Hispanic/Latino 11/28/25 Pre-Trial
+Franklin 3154612 Ma10583906 TGRF202500412 White Hispanic/Latino 11/29/25 Pre-Trial
+Franklin 1961858 MA09503054 TGRF202500414 White Not Hispanic/Latino 11/30/25 Pre-Trial
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino 12/1/25 Sentenced 270 38
+Franklin 5574712 MA21223417 TGRF202500415 White Not Hispanic/Latino 12/1/25 Pre-Trial
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino 12/1/25 Sentenced 10 90 2
+Franklin 3094135 MA09412779 TSB2202500477 White Not Hispanic/Latino 12/1/25 Pre-Trial
+Franklin 2929178 JFCH1J2513840 White Not Hispanic/Latino 12/2/25 Pre-Trial
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino 12/2/25 Sentenced 10 180 100
+Franklin 5632101 MA21266955 JFCH1J2513845 Asian/Pacific Islander Not Hispanic/Latino 12/3/25 Pre-Trial
+Franklin 2004866 MA09303205 HFCH1H2513843 Black/African American Not Hispanic/Latino 12/3/25 Sentenced 181 83
+Franklin 5282527 MA21177307 HFCH1H2513842 Black/African American Not Hispanic/Latino 12/3/25 Sentenced 365 30
+Franklin 2043611 MA09624261 White Not Hispanic/Latino 12/4/25 Pre-Trial
+Franklin 3218387 MA21032800 JFCH1J2513847 White Hispanic/Latino 12/4/25 Pre-Trial
+Franklin 5364873 MA21105516 TGRF202500481 White Not Hispanic/Latino 12/5/25 Pre-Trial
+Franklin 5063513 MA21281382 TGRF202500420 White Not Hispanic/Latino 12/5/25 Pre-Trial
+Franklin 1984837 MA09300909 JFCH1J2513850 Black/African American Not Hispanic/Latino 12/5/25 Pre-Trial
+Franklin 5165317 MA10648339 TATH202500231 White Not Hispanic/Latino 12/7/25 Pre-Trial
+Franklin 5595802 HFCH1H2513852 White Not Hispanic/Latino 12/8/25 Sentenced 10 365 37
+Franklin 3154612 MA10583906 JFCH1J2513854 White Hispanic/Latino 12/8/25 Pre-Trial
+Franklin 5621777 MA21258600 JFCH1J2513853 White Not Hispanic/Latino 12/8/25 Pre-Trial
+Franklin 5155736 MA10533425 TGRF202500425 Asian/Pacific Islander Not Hispanic/Latino 12/9/25 Pre-Trial
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino 12/9/25 Pre-Trial
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino 12/9/25 Sentenced 10 365 96
+Franklin 5497051 MA21236197 HFCH1H2513858 White Hispanic/Latino 12/9/25 Sentenced 7.5 288 115
+Franklin 2921071 MA10312545 HFCH1H2513859 White Not Hispanic/Latino 12/10/25 Sentenced 10 378
+Page 4 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Franklin 1922103 MA10570319 TSC1202500389 White Not Hispanic/Latino 12/10/25 Pre-Trial
+Franklin 5596977 MA21239435 TGRF202500428 White Not Hispanic/Latino 12/10/25 Pre-Trial
+Franklin 455499 MA00804407 JFCH1J2513861 White Not Hispanic/Latino 12/10/25 Pre-Trial
+Franklin 2682098 MA10029075 HFCH1H2513860 White Not Hispanic/Latino 12/10/25 Sentenced 10 730 403
+Franklin 3153031 MA21072430 HFCH1H2513866 White Not Hispanic/Latino 12/12/25 Sentenced 10 365 76
+Franklin 2653930 MA21068459 JFCH1J2513865 White Not Hispanic/Latino 12/12/25 Pre-Trial
+Franklin 2695633 MA10476929 TATH202500235 White Not Hispanic/Latino 12/12/25 Pre-Trial
+Franklin 5544938 MA21201373 JFCH1J2513873 White Not Hispanic/Latino 12/15/25 Pre-Trial
+Franklin 3147593 MA10584960 JFCH1J2513872 White Hispanic/Latino 12/15/25 Pre-Trial
+Franklin 2771916 MA10244102 JFCH1J2513871 White Not Hispanic/Latino 12/15/25 Pre-Trial
+Franklin 2696277 MA10062249 JFCH1J2513874 White Hispanic/Latino 12/15/25 Pre-Trial
+Franklin 5208136 MA21202240 JFCH1J2513877 White Unavailable 12/16/25 Pre-Trial
+Franklin 5477842 MA21149999 HFCH1H2513878 White Not Hispanic/Latino 12/16/25 Sentenced 30
+Franklin 5220091 MA10603150 JFCH1J2513875 White Not Hispanic/Latino 12/16/25 Pre-Trial
+Franklin 5389209 MA21084048 HFCH1H2513876 White Not Hispanic/Latino 12/16/25 Sentenced 60 26
+Franklin 2403633 MA21181460 JFCH1J2513880 White Not Hispanic/Latino 12/17/25 Pre-Trial
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino 12/18/25 Pre-Trial
+Franklin 5468564 MA21267180 HFCH2H2513881 White Not Hispanic/Latino 12/18/25 Sentenced 10 365 112
+Franklin 5357107 MA21066589 TGRF202500434 White Not Hispanic/Latino 12/18/25 Pre-Trial
+Franklin MA30023175 JFCH1J2513887 White Not Hispanic/Latino 12/19/25 Pre-Trial
+Franklin JFCH1J2513885 White Not Hispanic/Latino 12/19/25 Pre-Trial
+Franklin 1772685 MA10339268 JFCH1J2513886 White Not Hispanic/Latino 12/19/25 Pre-Trial
+Franklin 5666543 MA21295104 JFCH1J2513884 Black/African American Hispanic/Latino 12/19/25 Pre-Trial
+Franklin 2674489 MA21104839 TSB2202500501 White Not Hispanic/Latino 12/20/25 Pre-Trial
+Franklin 2879947 MA10240849 White Hispanic/Latino 12/20/25 Pre-Trial
+Franklin TSB2202500503 Black/African American Not Hispanic/Latino 12/21/25 Pre-Trial
+Franklin 5094135 MA10463043 JFCH1J2513894 White Not Hispanic/Latino 12/22/25 Pre-Trial
+Franklin 2236413 HFCH2H2513896 Black/African American Hispanic/Latino 12/23/25 Sentenced 20 365 110
+Franklin 3043065 MA21159985 HFCH1H2513897 White Not Hispanic/Latino 12/23/25 Sentenced 270 74
+Franklin 2771916 MA10244102 White Not Hispanic/Latino 12/23/25 Sentenced 110 550 66
+Franklin 5060052 MA10420178 TGRF202500436 White Not Hispanic/Latino 12/24/25 Pre-Trial
+Franklin 5558783 MA21212544 TGRF202500438 White Not Hispanic/Latino 12/25/25 Pre-Trial
+Franklin 5683874 MA30003462 TMOT202500153 White Not Hispanic/Latino 12/25/25 Pre-Trial
+Franklin 2619959 MA10097223 TGRF202500440 White Not Hispanic/Latino 12/27/25 Pre-Trial
+Franklin 3178663 MA10606771 JFCH1J2513908 White Not Hispanic/Latino 12/29/25 Pre-Trial
+Franklin 5707563 JFCH1J2513906 White Not Hispanic/Latino 12/29/25 Pre-Trial
+Franklin 2371752 MA10447860 TGRF202500442 White Not Hispanic/Latino 12/29/25 Pre-Trial
+Franklin 5635176 MA21269290 JFCH1J2513907 White Not Hispanic/Latino 12/29/25 Pre-Trial
+Franklin 5060184 MA10420623 TGRF202500445 White Hispanic/Latino 12/29/25 Pre-Trial
+Franklin 5667268 TSB2202500519 White Not Hispanic/Latino 12/30/25 Pre-Trial
+Franklin 5005967 JFCH1J2513911 White Not Hispanic/Latino 12/30/25 Pre-Trial
+Franklin JFCH1J2513915 White Not Hispanic/Latino 12/31/25 Pre-Trial
+Franklin 5707695 MA30023964 TSB2202500520 White Not Hispanic/Latino 12/31/25 Pre-Trial
+Franklin 5596977 MA21239435 JFCH1J2513916 White Not Hispanic/Latino 12/31/25 Pre-Trial
+Franklin 5641462 MA21275227 TGRF202500448 White Not Hispanic/Latino 12/31/25 Pre-Trial
+Franklin 5507620 MA21172180 JFCH1J2513913 White Unavailable 12/31/25 Pre-Trial
+Franklin 3189192 MA10623197 TGRF202500449 White Not Hispanic/Latino 12/31/25 Pre-Trial
+Franklin 3194474 MA10644485 JFCH1J2512947 Black/African American Not Hispanic/Latino Pre-Trial 10/2/25
+Franklin 5664540 MA21293828 JFCH1J2513586 White Not Hispanic/Latino Pre-Trial 10/2/25
+Franklin 2934325 MA10230779 HFCH1H2412806 White Not Hispanic/Latino Sentenced 10/3/25 910
+Franklin 3017512 MA10401572 JFCH1J2412759 Black/African American Hispanic/Latino Pre-Trial 10/3/25
+Franklin 2412303 MA09805915 JFCH1J2513420 White Not Hispanic/Latino Pre-Trial 10/3/25
+Franklin 1929254 MA09316971 TORA202500098 White Not Hispanic/Latino Pre-Trial 10/6/25
+Franklin 2770441 MA10478512 HFCH1H2513418 White Hispanic/Latino Sentenced 10/6/25 10 180 28
+Franklin 1752085 MA09443388 JFCH1J2513303 White Not Hispanic/Latino Pre-Trial 10/7/25
+Franklin 2514517 MA30002698 TGRF202500359 White Not Hispanic/Latino Pre-Trial 10/7/25
+Franklin 5381028 MA21190710 JFCH1J2513698 White Not Hispanic/Latino Pre-Trial 10/7/25
+Franklin 2116334 MA09105911 TSB2202500405 White Hispanic/Latino Pre-Trial 10/8/25
+Franklin 2217939 White Not Hispanic/Latino Sentenced 10/8/25 542 128
+Franklin 917092 MA09436530 TATH202500148 White Not Hispanic/Latino Pre-Trial 10/8/25
+Franklin 3022644 MA21016383 JFCH1J2513610 White Not Hispanic/Latino Pre-Trial 10/9/25
+Franklin 2768554 MA10105400 TGRF202500307 White Not Hispanic/Latino Pre-Trial 10/9/25
+Franklin 5139221 MA212147432 JFCH1J2513612 White Not Hispanic/Latino Pre-Trial 10/9/25
+Franklin 5500971 MA21267799 JFCH1J2513645 White Not Hispanic/Latino Pre-Trial 10/9/25
+Franklin 5596977 MA21239435 TGRF202500373 White Not Hispanic/Latino Pre-Trial 10/10/25
+Franklin 5585616 MA21230796 JFCH1J2513541 White Not Hispanic/Latino Pre-Trial 10/10/25
+Franklin 2859484 MA10170687 HFCH1H2412506 White Not Hispanic/Latino Sentenced 10/10/25 10 573 57
+Page 5 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Franklin 5559609 MA21215399 JFCH1J2513674 White Not Hispanic/Latino Pre-Trial 10/13/25
+Franklin 5267190 MA10651530 TORA202500181 White Not Hispanic/Latino Pre-Trial 10/14/25
+Franklin 2917424 MA10399640 TGRF202500380 White Not Hispanic/Latino Pre-Trial 10/14/25
+Franklin 5446804 MA21134387 White Not Hispanic/Latino Pre-Trial 10/14/25
+Franklin 5100442 MA10542821 JFCH1J2513716 White Not Hispanic/Latino Pre-Trial 10/14/25
+Franklin 2358355 MA09801987 TGRF202500383 White Not Hispanic/Latino Pre-Trial 10/15/25
+Franklin 2520249 MA10190868 JFCH1J2513666 White Not Hispanic/Latino Pre-Trial 10/15/25
+Franklin 2858990 MA21023309 HFCH1H2513468 Black/African American Not Hispanic/Latino Sentenced 10/15/25 90
+Franklin 2771916 MA10244102 HFCH1H2512863 White Not Hispanic/Latino Sentenced 10/15/25 540 66
+Franklin 2812132 MA10125527 JFCH1J2513727 White Hispanic/Latino Pre-Trial 10/16/25
+Franklin 2307257 MA09751004 JFCH1J2513654 White Not Hispanic/Latino Pre-Trial 10/16/25
+Franklin 5249640 MA10635407 HFCH1H2513228 White Not Hispanic/Latino Sentenced 10/16/25 365 64
+Franklin 5669632 MA21297071 JFCH1J2513198 Black/African American Not Hispanic/Latino Pre-Trial 10/17/25
+Franklin 5558077 MA21211047 JFCH1J2513686 White Not Hispanic/Latino Pre-Trial 10/17/25
+Franklin 5136340 MA10548630 HFCH1H2513294 White Not Hispanic/Latino Sentenced 10/17/25 180 35
+Franklin 5203480 MA10617668 JFCH1J2513708 White Not Hispanic/Latino Pre-Trial 10/17/25
+Franklin MA30018393 TGRF202500385 Black/African American Not Hispanic/Latino Pre-Trial 10/18/25
+Franklin 1916424 MA09223726 JFCH2J2513469 Black/African American Not Hispanic/Latino Pre-Trial 10/20/25
+Franklin 5003128 MA10339524 HFCH1H2513403 White Not Hispanic/Latino Sentenced 10/20/25 10 270 119
+Franklin 3154612 MA10583906 TGRF202500386 White Not Hispanic/Latino Pre-Trial 10/20/25
+Franklin 2962226 MA21012582 HFCH1H2513210 White Not Hispanic/Latino Sentenced 10/21/25 10 365 28
+Franklin 5207033 MA10655658 HFCH1H2513590 White Not Hispanic/Latino Sentenced 10/21/25 2.5 180 75
+Franklin 360645 MA00927879 TORA202500188 White Not Hispanic/Latino Pre-Trial 10/21/25
+Franklin 5659022 MA21289615 TSB2202401965 White Not Hispanic/Latino Pre-Trial 10/23/25 3285 414
+Franklin 3218387 MA21032800 JFCH1J2513742 White Hispanic/Latino Pre-Trial 10/24/25
+Franklin 2195014 MA10105683 JFCH1J2513745 White Not Hispanic/Latino Pre-Trial 10/24/25
+Franklin 5515741 MA21178726 TORA202500239 White Not Hispanic/Latino Pre-Trial 10/24/25
+Franklin 5094515 MA21055132 TMOT202500129 White Not Hispanic/Latino Pre-Trial 10/24/25
+Franklin 2435214 MA09755643 JFCH2J2412624 Black/African American Not Hispanic/Latino Pre-Trial 10/24/25
+Franklin 839291 MA10096482 TGRF202500389 Black/African American Hispanic/Latino Pre-Trial 10/26/25
+Franklin 1776139 MA10533313 JFCH1J2513668 White Not Hispanic/Latino Pre-Trial 10/27/25
+Franklin 2360566 MA21135674 TGRF202500391 White Not Hispanic/Latino Pre-Trial 10/27/25
+Franklin 2847716 MA21236366 JFCH1J2513684 White Not Hispanic/Latino Pre-Trial 10/28/25
+Franklin 2987428 MA10385398 JFCH1J2513501 White Not Hispanic/Latino Pre-Trial 10/28/25
+Franklin 3180106 MA21227620 JFCH1J2513728 White Hispanic/Latino Pre-Trial 10/29/25
+Franklin 3158390 MA21135417 TATH202500177 White Not Hispanic/Latino Pre-Trial 10/29/25
+Franklin 5304100 MA21139792 TGRF202500396 White Not Hispanic/Latino Pre-Trial 10/30/25
+Franklin 3156053 MA10553396 TGRF202500263 White Not Hispanic/Latino Pre-Trial 10/30/25
+Franklin 842193 MA30008365 HFCH1H2513441 White Not Hispanic/Latino Sentenced 10/30/25 10 180 32
+Franklin 2584552 MA10190408 HFCH2H2411578 White Not Hispanic/Latino Sentenced 10/30/25 10 1661 71
+Franklin 1929254 MA09316971 TATH202500209 White Not Hispanic/Latino Pre-Trial 10/30/25
+Franklin 2148650 MA10145459 JFCH2J2513439 White Not Hispanic/Latino Pre-Trial 10/30/25
+Franklin 5582246 MA21228613 JFCH1J2513669 White Unavailable Pre-Trial 10/31/25
+Franklin 5636392 MA30017120 JFCH2J2513678 White Not Hispanic/Latino Pre-Trial 10/31/25
+Franklin 5681740 MA30001460 HFCH1H2513373 White Not Hispanic/Latino Sentenced 10/31/25 2.5 240 91
+Franklin 5685050 MA30004304 HFCH2H2513254 White Not Hispanic/Latino Sentenced 11/4/25 10 365 20
+Franklin 2260734 MA10454663 JFCH1J2513658 White Not Hispanic/Latino Pre-Trial 11/5/25
+Franklin 2724524 MA10410929 HFCH1H2412594 White Not Hispanic/Latino Sentenced 11/5/25 10 730 50
+Franklin 2872633 MA10419957 TGRF202500285 White Not Hispanic/Latino Pre-Trial 11/5/25
+Franklin 2166149 MA10064393 TATH202500178 White Not Hispanic/Latino Pre-Trial 11/6/25
+Franklin 2682098 MA10029075 JFCH1J2513675 White Not Hispanic/Latino Pre-Trial 11/6/25
+Franklin 2411756 MA10138693 TGRF202500339 White Hispanic/Latino Pre-Trial 11/6/25
+Franklin 5699020 JFCH1J2513778 White Not Hispanic/Latino Pre-Trial 11/7/25
+Franklin 5313223 MA21265162 TORA202500148 White Not Hispanic/Latino Pre-Trial 11/7/25
+Franklin 5515741 MA21178726 TORA202500265 White Not Hispanic/Latino Pre-Trial 11/7/25
+Franklin 1893181 MA10057203 HFCH1H2513200 White Not Hispanic/Latino Sentenced 11/10/25 10 931 84
+Franklin 2620113 MA09999371 JFCH1J2513763 White Hispanic/Latino Pre-Trial 11/10/25
+Franklin 2917424 MA10399640 TGRF202500393 White Not Hispanic/Latino Pre-Trial 11/12/25
+Franklin 5518890 MA21274979 JFCH2J2412553 White Not Hispanic/Latino Pre-Trial 11/12/25
+Franklin 1772685 MA10339268 TGRF202500321 White Not Hispanic/Latino Pre-Trial 11/12/25
+Franklin 2358355 MA09801987 JFCH1J2513789 White Not Hispanic/Latino Pre-Trial 11/13/25
+Franklin 3202683 ma10640038 TGRF202500006 White Hispanic/Latino Pre-Trial 11/13/25
+Franklin 502214 MA00956840 JFCH1J2513771 White Not Hispanic/Latino Pre-Trial 11/13/25
+Franklin 5579813 MA21227007 JFCH1J2513465 White Hispanic/Latino Pre-Trial 11/13/25
+Franklin 5053836 MA21010305 HFCH1H2512997 White Not Hispanic/Latino Sentenced 11/14/25 12 365 31
+Franklin 5115420 MA21253773 HFCH1H2513292 White Not Hispanic/Latino Sentenced 11/14/25 23 365 129
+Franklin 5115420 21253773 JFCH1J2513795 White Not Hispanic/Latino Pre-Trial 11/17/25
+Page 6 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Franklin 2456089 MA10344235 White Not Hispanic/Latino Pre-Trial 11/17/25
+Franklin 2695633 MA10476929 HFCH1H2513575 White Not Hispanic/Latino Sentenced 11/17/25 20 120 9
+Franklin 5458744 MA21136170 HFCH1H2512996 White Hispanic/Latino Sentenced 11/17/25 10 540 71
+Franklin 5116409 MA10492839 HFCH2H2412567 White Not Hispanic/Latino Sentenced 11/17/25 20 730 137
+Franklin 3022644 MA21016383 HFCH2H2513707 White Not Hispanic/Latino Sentenced 11/17/25 15 396 198
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 11/18/25
+Franklin 5293244 MA21017225 TGRF202500403 White Not Hispanic/Latino Pre-Trial 11/18/25
+Franklin 3003045 MA10408205 White Not Hispanic/Latino Sentenced 11/18/25 701 161
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 11/18/25
+Franklin 2040356 MA10019586 TORA20250015A7merican Indian/Alaska NativNeot Hispanic/Latino Pre-Trial 11/18/25
+Franklin 5676869 MA21302972 HFCH1H2513704 White Not Hispanic/Latino Sentenced 11/19/25 60
+Franklin 5293244 MA10222804 JFCH1J2513805 White Not Hispanic/Latino Pre-Trial 11/19/25
+Franklin 2178356 MA10555942 TGRF202500395 White Not Hispanic/Latino Pre-Trial 11/19/25
+Franklin 2402428 MA09821899 TGRF202500397 White Not Hispanic/Latino Pre-Trial 11/19/25
+Franklin 1096431 MA10189029 TGRF202500377 Black/African American Not Hispanic/Latino Pre-Trial 11/20/25
+Franklin 1192635 MA10330063 JFCH1J2513804 White Not Hispanic/Latino Pre-Trial 11/21/25
+Franklin 5455446 MA21190267 JFCH1J2513594 White Not Hispanic/Latino Pre-Trial 11/21/25
+Franklin 5651136 MA21283501 HFCH1H2512943 Black/African American Not Hispanic/Latino Sentenced 11/21/25 20 1095 285
+Franklin 5060032 MA10420631 TMOT202400215 White Not Hispanic/Latino Pre-Trial 11/21/25
+Franklin 5546987 MA21202909 HFCH1H2513752 White Hispanic/Latino Sentenced 11/21/25 60
+Franklin 455499 MA00804407 JFCH1J2513689 White Unavailable Pre-Trial 11/21/25
+Franklin 5333001 MA21095339 White Not Hispanic/Latino Sentenced 11/21/25 547 97
+Franklin 5451009 MA21261652 HFCH1H2513784 White Not Hispanic/Latino Sentenced 11/24/25 368 126
+Franklin 2620113 MA09999371 HFCH1H2513788 White Hispanic/Latino Sentenced 11/24/25 90 75
+Franklin 5438433 MA21166901 JFCH1J2513782 White Not Hispanic/Latino Pre-Trial 11/25/25
+Franklin 2246540 MA09626174 JFCH1J2513397 White Not Hispanic/Latino Pre-Trial 11/25/25
+Franklin 5175043 MA21077093 JFCH1J2513736 White Not Hispanic/Latino Pre-Trial 11/25/25
+Franklin 5474726 MA21266679 JFCH1J2513759 White Not Hispanic/Latino Pre-Trial 12/1/25
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino Pre-Trial 12/1/25
+Franklin 3154612 Ma10583906 TGRF202500412 White Hispanic/Latino Pre-Trial 12/1/25
+Franklin 2193308 MA09454455 TATH202500204 Black/African American Not Hispanic/Latino Pre-Trial 12/1/25
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino Pre-Trial 12/1/25
+Franklin 5574712 MA21223417 TGRF202500415 White Not Hispanic/Latino Pre-Trial 12/1/25
+Franklin 2892492 MA21259851 HFCH1H2513318 White Not Hispanic/Latino Sentenced 12/1/25 20 365 127
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 12/1/25
+Franklin 2884125 MA10223379 JFCH1J2412677 White Not Hispanic/Latino Pre-Trial 12/1/25
+Franklin 5502994 MA10540686 JFCH1J2513774 White Hispanic/Latino Pre-Trial 12/2/25
+Franklin 3094135 MA09412779 TSB2202500477 White Not Hispanic/Latino Pre-Trial 12/2/25
+Franklin 1984837 MA09300909 JFCH1J2513499 Black/African American Not Hispanic/Latino Pre-Trial 12/2/25
+Franklin 1918632 MA09209450 JFCH1J2513780 White Not Hispanic/Latino Pre-Trial 12/3/25
+Franklin 2004866 MA09303205 TNOF202500029 Black/African American Not Hispanic/Latino Pre-Trial 12/3/25
+Franklin 2929178 JFCH1J2513840 White Not Hispanic/Latino Pre-Trial 12/3/25
+Franklin 5497051 MA21236197 HFCH1H2513701 White Hispanic/Latino Sentenced 12/3/25 7.5 270 53
+Franklin 2782769 MA10110932 JFCH1J2513607 White Not Hispanic/Latino Pre-Trial 12/4/25
+Franklin 2043611 MA09624261 White Not Hispanic/Latino Pre-Trial 12/4/25
+Franklin 1961858 MA09503054 TGRF202500414 White Not Hispanic/Latino Pre-Trial 12/4/25
+Franklin 5364873 MA21105516 TGRF202500481 White Not Hispanic/Latino Pre-Trial 12/5/25
+Franklin 5325324 MA21040588 HFCH1H2513149 Black/African American Not Hispanic/Latino Sentenced 12/5/25 10 1467 99
+Franklin 3171973 MA21030419 JFCH1J2513825 White Not Hispanic/Latino Pre-Trial 12/5/25
+Franklin 592140 MA21274173 HFCH1H2412476 White Not Hispanic/Latino Sentenced 12/8/25 20 1090 91
+Franklin 5165317 MA10648339 TATH202500231 White Not Hispanic/Latino Pre-Trial 12/8/25
+Franklin 5649776 MA21282569 HFCH1H2513455 White Not Hispanic/Latino Sentenced 12/8/25 20 469 159
+Franklin 5622983 MA21259776 HFCH1H2513155 White Not Hispanic/Latino Sentenced 12/8/25 20 545 55
+Franklin 2178356 White Not Hispanic/Latino Pre-Trial 12/9/25
+Franklin 5582246 MA21228613 JFCH1J2513773 White Unavailable Pre-Trial 12/9/25
+Franklin 1995541 MA21268434 JFCH1J2513765 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 12/9/25
+Franklin 2616476 MA10005938 JFCH1J2513786 White Not Hispanic/Latino Pre-Trial 12/9/25
+Franklin 5005967 MA10356446 JFCH1J2513781 White Not Hispanic/Latino Pre-Trial 12/9/25
+Franklin 5155736 MA10533425 TGRF202500425 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 12/9/25
+Franklin 1769915 MA10090219 HFCH1H2513490 White Not Hispanic/Latino Sentenced 12/10/25 7.5 180 35
+Franklin 5621777 MA21258600 JFCH1J2513853 White Not Hispanic/Latino Pre-Trial 12/10/25
+Franklin 3147593 MA10584960 JFCH1J2513785 White Hispanic/Latino Pre-Trial 12/11/25
+Franklin 2653930 MA21068459 JFCH1J2513865 White Not Hispanic/Latino Pre-Trial 12/12/25
+Franklin 3153031 MA21072430 JFCH1J2513831 White Not Hispanic/Latino Pre-Trial 12/12/25
+Franklin 5668485 MA21296508 HFCH1H2513358 White Not Hispanic/Latino Sentenced 12/15/25 30 365
+Franklin 2695633 MA10476929 TATH202500235 White Not Hispanic/Latino Pre-Trial 12/15/25
+Franklin 2199402 MA10060469 HFCH1H2513239 Black/African American Hispanic/Latino Sentenced 12/15/25 39 365 55
+Page 7 of 24
+
+ADMISSIONS AND RELEASES
+EARNED LENGTH OF
+SHERIFF'S BOOKING ADMIT RELEASE JAIL CREDIT
+PCF SID OBTN RACE ETHNICITY TIME IN SENTENCE IN
+OFFICE DATE TYPE DATE IN DAYS
+DAYS DAYS
+Franklin 2456089 MA10344235 White Not Hispanic/Latino Sentenced 12/15/25 16 365 81
+Franklin 3154612 MA10583906 JFCH1J2513854 White Hispanic/Latino Pre-Trial 12/15/25
+Franklin 5573703 MA21222545 White Not Hispanic/Latino Pre-Trial 12/15/25
+Franklin 5596977 MA21239435 TGRF202500428 White Not Hispanic/Latino Pre-Trial 12/15/25
+Franklin 5309770 MA21034843 TORA202500253 White Not Hispanic/Latino Pre-Trial 12/16/25
+Franklin 5389209 MA21084048 JFCH1J2513815 White Not Hispanic/Latino Pre-Trial 12/16/25
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 12/18/25 20 540 317
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 12/18/25
+Franklin 5357107 MA21066589 TGRF202500434 White Not Hispanic/Latino Pre-Trial 12/19/25
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/19/25 368 126
+Franklin JFCH1J2513885 White Not Hispanic/Latino Pre-Trial 12/21/25
+Franklin 5094135 MA10463043 JFCH1J2513894 White Not Hispanic/Latino Pre-Trial 12/22/25
+Franklin TSB2202500503 Black/African American Not Hispanic/Latino Pre-Trial 12/22/25
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 12/22/25 20 180 22
+Franklin MA30023175 JFCH1J2513887 White Not Hispanic/Latino Pre-Trial 12/23/25
+Franklin 3043065 MA21159985 JFCH1J2513713 White Not Hispanic/Latino Pre-Trial 12/23/25
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/23/25
+Franklin 2771916 MA10244102 JFCH1J2513871 White Not Hispanic/Latino Pre-Trial 12/23/25
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino Pre-Trial 12/23/25
+Franklin 3166669 MA21124778 HFCH1H2513559 White Not Hispanic/Latino Sentenced 12/24/25 20 482 147
+Franklin 5558783 MA21212544 White Not Hispanic/Latino Sentenced 12/24/25 355 29
+Franklin 5438433 MA21166901 HFCH1H2513824 White Not Hispanic/Latino Sentenced 12/24/25 180 149
+Franklin 5683874 MA30003462 TMOT202500153 White Not Hispanic/Latino Pre-Trial 12/26/25
+Franklin 5060052 MA10420178 TGRF202500436 White Not Hispanic/Latino Pre-Trial 12/29/25
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 12/30/25 20 90 29
+Franklin 1791087 MA00684436 JFCH1J2513625 White Not Hispanic/Latino Pre-Trial 12/30/25
+Franklin 5477668 MA21149738 JFCH1J2513690 White Not Hispanic/Latino Pre-Trial 12/30/25
+Franklin 5507620 MA21172180 JFCH1J2513913 White Unavailable Pre-Trial 12/31/25
+Franklin 428170 MA00953978 JFCH2J2513425 White Not Hispanic/Latino Pre-Trial 12/31/25
+Page 8 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 581620 MA00942043 TGRF202500171 White Not Hispanic/Latino Pre-Trial 10/1/25 AA D Pod 6-7pm Participated
+Franklin 5559609 MA21215399 JFCH1J2513674 White Not Hispanic/Latino Pre-Trial 10/1/25 Women's WRAP Released
+Franklin 5559609 MA21215399 JFCH1J2513674 White Not Hispanic/Latino Pre-Trial 10/1/25 SOC B Released
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 10/1/25 DBT Advanced 1145-1245 Currently Enrolled
+Franklin 5559609 MA21215399 JFCH1J2513674 White Not Hispanic/Latino Pre-Trial 10/1/25 DBT 6 1:30-2:30pm Released
+Franklin 2422370 MA09803829 HFCH1H2513154 White Not Hispanic/Latino Sentenced 10/2/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 2962226 MA21012582 HFCH1H2513210 White Not Hispanic/Latino Sentenced 10/3/25 QPR - B Released
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 10/3/25 QPR - B Released
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 10/3/25 Intro to DBT Participated
+Franklin 5582246 MA21228613 JFCH1J2513669 White Unavailable Pre-Trial 10/3/25 QPR - B Released
+Franklin 5559609 MA21215399 JFCH1J2513674 White Not Hispanic/Latino Pre-Trial 10/3/25 QPR - B Released
+Franklin 842193 MA30008365 HFCH1H2513441 White Not Hispanic/Latino Sentenced 10/3/25 QPR - B Released
+Franklin 5558783 MA21212544 White Not Hispanic/Latino Sentenced 10/3/25 DBT PC Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 10/3/25 Salasin Healing Trauma 11:45-12:45 Participated
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 10/3/25 Guitar B Pod Released
+Franklin 2724524 MA10410929 HFCH1H2412594 White Not Hispanic/Latino Sentenced 10/3/25 DBT 9 Released
+Franklin 5622983 MA21259776 HFCH1H2513155 White Not Hispanic/Latino Sentenced 10/3/25 QPR - B Released
+Franklin 2872633 MA10419957 TGRF202500285 White Not Hispanic/Latino Pre-Trial 10/3/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5500971 MA21267799 JFCH1J2513645 White Not Hispanic/Latino Pre-Trial 10/3/25 Reentry and Recovery Released
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 10/3/25 Ameelio D Pod Participated
+Franklin 5116409 MA10492839 HFCH2H2412567 White Not Hispanic/Latino Sentenced 10/3/25 QPR - B Released
+Franklin 5446804 White Not Hispanic/Latino Pre-Trial 10/3/25 QPR - B Released
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 10/3/25 QPR - B Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 10/3/25 D Pod Morning Meeting Currently Enrolled
+Franklin 2260734 MA10454663 JFCH1J2513658 White Not Hispanic/Latino Pre-Trial 10/3/25 Reentry and Recovery Released
+Franklin 2260734 MA10454663 JFCH1J2513658 White Not Hispanic/Latino Pre-Trial 10/3/25 Men's WRAP Participated
+Franklin 2307257 MA09751004 JFCH1J2513654 White Not Hispanic/Latino Pre-Trial 10/3/25 QPR - B Released
+Franklin 842193 MA30008365 HFCH1H2513441 White Not Hispanic/Latino Sentenced 10/3/25 DBT 7 9-10AM Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 10/3/25 QPR - B Released
+Franklin 2422370 MA09803829 HFCH1H2513154 White Not Hispanic/Latino Sentenced 10/3/25 QPR - B Released
+Franklin 5500971 MA21267799 JFCH1J2513645 White Not Hispanic/Latino Pre-Trial 10/3/25 Men's WRAP Released
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/6/25 Women's WRAP Participated
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 10/6/25 Muslim Srvcs D REQUEST Currently Enrolled
+Franklin 5311908 MA21029045 JFCH1J2513022 Black/African American Not Hispanic/Latino Pre-Trial 10/6/25 Muslim Srvcs A REQUEST Currently Enrolled
+Franklin 5636392 MA30017120 JFCH2J2513678 White Not Hispanic/Latino Pre-Trial 10/6/25 Women's WRAP Released
+Franklin 5636392 MA30017120 JFCH2J2513678 White Not Hispanic/Latino Pre-Trial 10/6/25 SOC B Released
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/6/25 DBT 6 1:30-2:30pm Participated
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/6/25 SOC B Participated
+Franklin 2411756 MA10138693 TGRF202500339 White Hispanic/Latino Pre-Trial 10/6/25 Men's WRAP Released
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 10/6/25 Women's Strength Training Participated
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 10/6/25 Muslim Srvcs C REQUEST Completed
+Franklin 5582246 MA21228613 JFCH1J2513669 White Unavailable Pre-Trial 10/6/25 Women's Strength Training Released
+Franklin 5636392 MA30017120 JFCH2J2513678 White Not Hispanic/Latino Pre-Trial 10/6/25 DBT 6 1:30-2:30pm Participated
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 10/6/25 Women's Strength Training Released
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 10/6/25 Women's Strength Training Released
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 10/6/25 Muslim Srvcs A REQUEST Currently Enrolled
+Franklin 842193 MA30008365 HFCH1H2513441 White Not Hispanic/Latino Sentenced 10/6/25 Women's Strength Training Released
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 10/7/25 HiSet C Currently Enrolled
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 10/7/25 DBT 6 1:30-2:30pm Participated
+Franklin 5573703 MA21222545 White Not Hispanic/Latino Pre-Trial 10/7/25 DBT 9 Participated
+Franklin 944291 MA00956698 HFCH1H2513364 White Not Hispanic/Latino Sentenced 10/7/25 ACTV MEN 5:10-6:40PM Released
+Franklin 1777085 MA09117173 TGRF202400147 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25 MassHire Career Center Event Participated
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 10/7/25 Women's Heart Rhythm Meditation Participated
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 10/7/25 MassHire Career Center Event Participated
+Franklin 2246540 MA09626174 JFCH1J2513397 White Not Hispanic/Latino Pre-Trial 10/7/25 MassHire Career Center Event Participated
+Franklin 5060032 MA10420631 TMOT202400215 White Not Hispanic/Latino Pre-Trial 10/7/25 Ameelio D Pod Released
+Franklin 2609824 MA10099772 HFCH1H2412139 Black/African American Not Hispanic/Latino Sentenced 10/7/25 DBT Advanced 1145-1245 Participated
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 10/7/25 DBT 6 1:30-2:30pm Participated
+Franklin 2004866 MA09303205 TNOF202500029 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25 MassHire Career Center Event Participated
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 10/7/25 MassHire Career Center Event Participated
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 10/7/25 Women's WRAP Participated
+Franklin 5287561 MA21007895 JFCH3J2412099 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25 MassHire Career Center Event Participated
+Franklin 944291 MA00956698 HFCH1H2513364 White Not Hispanic/Latino Sentenced 10/7/25 Responsible Thinking Released
+Franklin 5659022 MA21289615 TSB2202401965 White Not Hispanic/Latino Pre-Trial 10/7/25 MassHire Career Center Event Participated
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 10/7/25 SOC B Participated
+Franklin 5678718 MA21304666 TSB202500143 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25 MassHire Career Center Event Participated
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 10/7/25 MassHire Career Center Event Participated
+Franklin 5681740 MA30001460 HFCH1H2513373 White Not Hispanic/Latino Sentenced 10/7/25 MassHire Career Center Event Participated
+Franklin 842193 MA30008365 HFCH1H2513441 White Not Hispanic/Latino Sentenced 10/7/25 Women's Heart Rhythm Meditation Released
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 10/7/25 SOC B Participated
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 10/7/25 Women's WRAP Participated
+Franklin 2769457 MA10123314 HFCH1H2513515 White Not Hispanic/Latino Sentenced 10/8/25 Mindful Movement D Participated
+Franklin 3003045 MA10408205 White Not Hispanic/Latino Sentenced 10/8/25 Present Pathways Participated
+Franklin 5446804 White Not Hispanic/Latino Pre-Trial 10/8/25 Catholic Mass Released
+Franklin 5533975 MA21199948 JFCH1J2412686 White Hispanic/Latino Pre-Trial 10/8/25 Mindful Movement D Participated
+Franklin 3003045 MA10408205 White Not Hispanic/Latino Sentenced 10/8/25 SOC C&D Participated
+Page 9 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 10/8/25 Mindful Movement D Participated
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 10/8/25 Catholic Mass Released
+Franklin 3003045 MA10408205 White Not Hispanic/Latino Sentenced 10/8/25 D Pod Morning Meeting Participated
+Franklin 3003045 MA10408205 White Not Hispanic/Latino Sentenced 10/8/25 Intro to DBT Participated
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 10/9/25 HiSET Study Hall Currently Enrolled
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 News Media Literacy C Currently Enrolled
+Franklin 2724524 MA10410929 HFCH1H2412594 White Not Hispanic/Latino Sentenced 10/9/25 Present Pathways Released
+Franklin 5371202 MA21234429 TGRF202400465 White Not Hispanic/Latino Pre-Trial 10/9/25 DBT U24 Currently Enrolled
+Franklin 5371202 MA21234429 TGRF202400465 White Not Hispanic/Latino Pre-Trial 10/9/25 U24 Re-Entry Currently Enrolled
+Franklin 3070463 MA10363884 JFCH1J2513061 White Hispanic/Latino Pre-Trial 10/9/25 News Media Literacy C Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 10/9/25 DBT 1 10:15-11:15am 2x Currently Enrolled
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 10/9/25 News Media Literacy C Currently Enrolled
+Franklin 5669632 MA21297071 JFCH1J2513198 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 HiSET Study Hall Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 10/9/25 Salasin Nurturing Fam 11:45-12:45pm Participated
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 10/9/25 News Media Literacy C Currently Enrolled
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/9/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 10/9/25 HiSET Study Hall Currently Enrolled
+Franklin 5371202 MA21234429 TGRF202400465 White Not Hispanic/Latino Pre-Trial 10/9/25 U24 BEATS Education Currently Enrolled
+Franklin 5371202 MA21234429 TGRF202400465 White Not Hispanic/Latino Pre-Trial 10/9/25 U24 Rec/Meds/Lunch Currently Enrolled
+Franklin 5563671 MA21141619 HFCH1H2513484 White Hispanic/Latino Sentenced 10/9/25 HiSET Study Hall Currently Enrolled
+Franklin 5516957 MA21300698 JFCH1J2513548 White Not Hispanic/Latino Pre-Trial 10/9/25 HiSET Study Hall Currently Enrolled
+Franklin 5678718 MA21304666 TSB202500143 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 News Media Literacy C Currently Enrolled
+Franklin 1916424 MA09223726 JFCH2J2513469 Black/African American Not Hispanic/Latino Pre-Trial 10/9/25 HiSET Study Hall Released
+Franklin 5060032 MA10420631 TMOT202400215 White Not Hispanic/Latino Pre-Trial 10/9/25 Laundry Released
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino Sentenced 10/10/25 Intro to DBT Participated
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino Sentenced 10/10/25 SOC C&D Participated
+Franklin 5311908 MA21029045 JFCH1J2513022 Black/African American Not Hispanic/Latino Pre-Trial 10/10/25 Reentry and Recovery Currently Enrolled
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 10/10/25 Reentry and Recovery Currently Enrolled
+Franklin 2373429 MA09728523 HFCH1H2513617 White Not Hispanic/Latino Sentenced 10/10/25 QPR - D Currently Enrolled
+Franklin 2682098 MA10029075 JFCH1J2513675 White Not Hispanic/Latino Pre-Trial 10/10/25 Reentry and Recovery Released
+Franklin 1776139 MA10533313 JFCH1J2513668 White Not Hispanic/Latino Pre-Trial 10/10/25 Reentry and Recovery Released
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino Sentenced 10/10/25 D Pod Morning Meeting Currently Enrolled
+Franklin 5611187 MA21250865 HFCH1H2512942 White Not Hispanic/Latino Sentenced 10/10/25 QPR - D Currently Enrolled
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 10/10/25 News Media Literacy C Currently Enrolled
+Franklin 2520249 MA10190868 JFCH1J2513666 White Not Hispanic/Latino Pre-Trial 10/10/25 Men's WRAP Released
+Franklin 2411756 MA10138693 TGRF202500339 White Hispanic/Latino Pre-Trial 10/10/25 News Media Literacy C Released
+Franklin 2520249 MA10190868 JFCH1J2513666 White Not Hispanic/Latino Pre-Trial 10/10/25 Reentry and Recovery Released
+Franklin 2682098 MA10029075 JFCH1J2513675 White Not Hispanic/Latino Pre-Trial 10/10/25 Men's WRAP Released
+Franklin 5446804 White Not Hispanic/Latino Pre-Trial 10/10/25 Salasin Somatic Healing Released
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 10/10/25 QPR - D Currently Enrolled
+Franklin 5311908 MA21029045 JFCH1J2513022 Black/African American Not Hispanic/Latino Pre-Trial 10/10/25 Men's WRAP Participated
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 10/10/25 Men's WRAP Currently Enrolled
+Franklin 5582246 MA21228613 JFCH1J2513669 White Unavailable Pre-Trial 10/10/25 Salasin Healing Trauma 11:45-12:45 Participated
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 10/10/25 Salasin Somatic Healing Released
+Franklin 428170 MA00953978 JFCH2J2513425 White Not Hispanic/Latino Pre-Trial 10/10/25 News Media Literacy C Released
+Franklin 5325324 MA21040588 HFCH1H2513149 Black/African American Not Hispanic/Latino Sentenced 10/10/25 QPR - D Released
+Franklin 1776139 MA10533313 JFCH1J2513668 White Not Hispanic/Latino Pre-Trial 10/10/25 Men's WRAP Released
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/10/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 10/14/25 D Pod Gardening Currently Enrolled
+Franklin 2373429 MA09728523 HFCH1H2513617 White Not Hispanic/Latino Sentenced 10/14/25 HiSET Tutoring C Participated
+Franklin 2695633 MA10476929 HFCH1H2513575 White Not Hispanic/Latino Sentenced 10/14/25 HiSET Tutoring C Participated
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 10/14/25 HiSet B Released
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 10/14/25 Ameelio B Pod Released
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 10/14/25 HiSET Tutoring C Participated
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 10/14/25 HiSET Tutoring C Participated
+Franklin 1916424 MA09223726 JFCH2J2513469 Black/African American Not Hispanic/Latino Pre-Trial 10/14/25 HiSET Tutoring C Released
+Franklin 3167198 MA10565663 JFCH1J2513350 White Hispanic/Latino Pre-Trial 10/14/25 HiSET Tutoring C Participated
+Franklin 3167198 MA10565663 JFCH1J2513350 White Hispanic/Latino Pre-Trial 10/14/25 HiSET Study Hall Participated
+Franklin 1893181 MA10057203 HFCH1H2513200 White Not Hispanic/Latino Sentenced 10/14/25 HiSET Tutoring C Participated
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 10/14/25 Poetic Justice 2:45-4PM Released
+Franklin 5682257 MA30001979 HFCH1H2513568 White Not Hispanic/Latino Sentenced 10/15/25 Anger Management CJSC Participated
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 10/15/25 News Media Literacy C Participated
+Franklin 3200795 MA21036142 HFCH1H2513525 White Not Hispanic/Latino Sentenced 10/15/25 OSHA Study Hall D Participated
+Franklin 3200795 MA21036142 HFCH1H2513525 White Not Hispanic/Latino Sentenced 10/15/25 QPR - D Currently Enrolled
+Franklin 1984837 MA09300909 JFCH1J2513499 Black/African American Not Hispanic/Latino Pre-Trial 10/15/25 QPR - D Released
+Franklin 5683102 MA30002695 HFCH1H2513389 White Not Hispanic/Latino Sentenced 10/15/25 Anger Management CJSC Participated
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 10/15/25 QPR - B Currently Enrolled
+Franklin 3202683 ma10640038 TGRF202500006 White Hispanic/Latino Pre-Trial 10/15/25 QPR - D Released
+Franklin 5668485 MA21296508 HFCH1H2513358 White Not Hispanic/Latino Sentenced 10/15/25 Anger Management CJSC Released
+Franklin 1898502 MA10424972 HFCH1H2513385 White Not Hispanic/Latino Sentenced 10/15/25 Anger Management CJSC Participated
+Franklin 5591077 MA21234872 HFCH1H2513278 Black/African American Not Hispanic/Latino Sentenced 10/15/25 QPR - D Currently Enrolled
+Franklin 1763529 MA09307168 HFCH1H2512885 White Hispanic/Latino Sentenced 10/15/25 Anger Management CJSC Participated
+Franklin 2336817 MA09844207 HFCH2H2412772 Black/African American Not Hispanic/Latino Sentenced 10/15/25 Anger Management CJSC Released
+Franklin 5606803 MA21247497 HFCH1H2513227 White Not Hispanic/Latino Sentenced 10/15/25 Anger Management CJSC Participated
+Franklin 5313223 MA21265162 TORA202500148 White Not Hispanic/Latino Pre-Trial 10/15/25 QPR - D Released
+Franklin 2695633 MA10476929 HFCH1H2513575 White Not Hispanic/Latino Sentenced 10/15/25 QPR - D Released
+Page 10 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 592140 MA21274173 HFCH1H2412476 White Not Hispanic/Latino Sentenced 10/15/25 Anger Management CJSC Released
+Franklin 3051368 MA21059372 HFCH1H2412813 White Not Hispanic/Latino Sentenced 10/15/25 Anger Management CJSC Participated
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/15/25 QPR - B Released
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 10/16/25 Salasin Nurturing Fam 11:45-12:45pm Currently Enrolled
+Franklin 2915922 MA10367714 HFCH1H2513162 White Hispanic/Latino Sentenced 10/16/25 HiSET A Participated
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 10/16/25 Intro to DBT Participated
+Franklin 5676869 MA21302972 HFCH1H2513704 White Not Hispanic/Latino Sentenced 10/16/25 Intro to DBT Participated
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 10/16/25 Staying Connected Participated
+Franklin 5242053 MA21007715 JFCH1J2411945 White Hispanic/Latino Pre-Trial 10/16/25 Staying Connected Participated
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 10/16/25 Staying Connected Participated
+Franklin 2957376 MA10317048 White Hispanic/Latino Pre-Trial 10/16/25 Staying Connected Participated
+Franklin 5579813 MA21227007 JFCH1J2513465 White Hispanic/Latino Pre-Trial 10/16/25 HiSET A Participated
+Franklin 3022644 MA21016383 HFCH2H2513707 White Not Hispanic/Latino Sentenced 10/16/25 HiSET A Participated
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 10/16/25 Salasin Nurturing Fam 11:45-12:45pm Participated
+Franklin 5356892 MA21062750 TSB2202500200 White Hispanic/Latino Pre-Trial 10/16/25 Staying Connected Participated
+Franklin 3156053 MA10553396 TGRF202500263 White Not Hispanic/Latino Pre-Trial 10/16/25 HiSET A Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 10/16/25 Staying Connected Participated
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 10/16/25 Staying Connected Participated
+Franklin 5670244 MA21297928 HFCH1H2513365 White Hispanic/Latino Sentenced 10/16/25 Staying Connected Participated
+Franklin 5563671 MA21141619 HFCH1H2513484 White Hispanic/Latino Sentenced 10/16/25 Staying Connected Participated
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 10/16/25 Present Pathways Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 10/16/25 Introduction to Guitar Currently Enrolled
+Franklin 2876276 MA10168089 HFCH2H2513702 White Hispanic/Latino Sentenced 10/16/25 Intro to DBT Currently Enrolled
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino Pre-Trial 10/16/25 DBT 6 1:30-2:30pm Participated
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino Pre-Trial 10/16/25 Women's WRAP Participated
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino Pre-Trial 10/16/25 SOC B Participated
+Franklin 5458744 MA21136170 HFCH1H2512996 White Hispanic/Latino Sentenced 10/16/25 HiSET A Participated
+Franklin 1096431 MA10189029 TGRF202500377 Black/African American Not Hispanic/Latino Pre-Trial 10/16/25 HiSET A Participated
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 10/17/25 DBT 9 Currently Enrolled
+Franklin 5676869 MA21302972 HFCH1H2513704 White Not Hispanic/Latino Sentenced 10/17/25 D Pod Morning Meeting Released
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 10/17/25 Salasin Healing Trauma 11:45-12:45 Currently Enrolled
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 10/17/25 DBT 7 9-10AM Participated
+Franklin 5676869 MA21302972 HFCH1H2513704 White Not Hispanic/Latino Sentenced 10/17/25 DBT 1 10:15-11:15am 2x Participated
+Franklin 2769457 MA10123314 HFCH1H2513515 White Not Hispanic/Latino Sentenced 10/17/25 DBT 2 10:15-11:15 Participated
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 10/17/25 Garden Work Shift Participated
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino Sentenced 10/17/25 DBT 2 10:15-11:15 Currently Enrolled
+Franklin 2876276 MA10168089 HFCH2H2513702 White Hispanic/Latino Sentenced 10/17/25 D Pod Morning Meeting Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 10/17/25 D Pod Morning Meeting Currently Enrolled
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 10/17/25 DBT 6 1:30-2:30pm Released
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 10/17/25 Women's WRAP Participated
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 10/17/25 SOC B Released
+Franklin 2872633 MA10419957 TGRF202500285 White Not Hispanic/Latino Pre-Trial 10/20/25 DBT 8 B pod Released
+Franklin 29800842 MA21281991 JFCH1J2513476 White Not Hispanic/Latino Pre-Trial 10/20/25 DBT 8 B pod Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 10/21/25 Men's WRAP Participated
+Franklin 5676869 MA21302972 HFCH1H2513704 White Not Hispanic/Latino Sentenced 10/21/25 Men's WRAP Released
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/21/25 DBT 7 9-10AM Released
+Franklin 5636392 MA30017120 JFCH2J2513678 White Not Hispanic/Latino Pre-Trial 10/21/25 DBT 8 B pod Released
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 10/21/25 Ameelio B Pod Currently Enrolled
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 10/21/25 DBT 8 B pod Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 10/21/25 DBT 2 10:15-11:15 Currently Enrolled
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 10/21/25 DBT 8 B pod Released
+Franklin 5676869 MA21302972 HFCH1H2513704 White Not Hispanic/Latino Sentenced 10/21/25 DBT 2 10:15-11:15 Released
+Franklin 3180106 MA21227620 JFCH1J2513728 White Hispanic/Latino Pre-Trial 10/21/25 Men's WRAP Participated
+Franklin 2769457 MA10123314 HFCH1H2513515 White Not Hispanic/Latino Sentenced 10/22/25 D Pod Gardening Currently Enrolled
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino Sentenced 10/22/25 D Pod Morning Meeting Released
+Franklin 2199402 MA10060469 HFCH1H2513239 Black/African American Hispanic/Latino Sentenced 10/22/25 Educational Assessments C & D Participated
+Franklin 3180106 MA21227620 JFCH1J2513728 White Hispanic/Latino Pre-Trial 10/22/25 D Pod Morning Meeting Released
+Franklin 3180106 MA21227620 JFCH1J2513728 White Hispanic/Latino Pre-Trial 10/22/25 U24 Rec/Meds/Lunch Released
+Franklin 3180106 MA21227620 JFCH1J2513728 White Hispanic/Latino Pre-Trial 10/22/25 U24 BEATS Education Released
+Franklin 2769457 MA10123314 HFCH1H2513515 White Not Hispanic/Latino Sentenced 10/22/25 Ameelio D Pod Currently Enrolled
+Franklin 5626666 MA21262586 White Hispanic/Latino Sentenced 10/22/25 Educational Assessments C & D Participated
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 10/22/25 Ameelio D Pod Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 10/22/25 D Pod Gardening Currently Enrolled
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/22/25 DBT 6 1:30-2:30pm Participated
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino Sentenced 10/22/25 Intro to DBT Participated
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 10/22/25 Men's WRAP Released
+Franklin 5676869 MA21302972 HFCH1H2513704 White Not Hispanic/Latino Sentenced 10/22/25 Educational Assessments C & D Participated
+Franklin 3180106 MA21227620 JFCH1J2513728 White Hispanic/Latino Pre-Trial 10/22/25 U24 Re-Entry Released
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 10/22/25 Educational Assessments C & D Currently Enrolled
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/22/25 SOC B Participated
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino Sentenced 10/22/25 DBT 1 10:15-11:15am 2x Released
+Franklin 2695633 MA10476929 HFCH1H2513575 White Not Hispanic/Latino Sentenced 10/22/25 Educational Assessments C & D Released
+Franklin 5649776 MA21282569 HFCH1H2513455 White Not Hispanic/Latino Sentenced 10/22/25 D Pod Gardening Participated
+Franklin 2769457 MA10123314 HFCH1H2513515 White Not Hispanic/Latino Sentenced 10/22/25 D Pod Gardening Currently Enrolled
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino Sentenced 10/22/25 Ameelio D Pod Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 10/22/25 Educational Assessments C & D Participated
+Page 11 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/22/25 Women's WRAP Participated
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino Sentenced 10/22/25 SOC C&D Participated
+Franklin 5533975 MA21199948 JFCH1J2412686 White Hispanic/Latino Pre-Trial 10/22/25 Ameelio D Pod Participated
+Franklin 3180106 MA21227620 JFCH1J2513728 White Hispanic/Latino Pre-Trial 10/22/25 DBT U24 Released
+Franklin 5563671 MA21141619 HFCH1H2513484 White Hispanic/Latino Sentenced 10/23/25 Introduction to Guitar Participated
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 10/23/25 HiSET Study Hall Currently Enrolled
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 10/23/25 Women's WRAP Participated
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/23/25 Guitar B Pod Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 10/23/25 SOC B Participated
+Franklin 2769457 MA10123314 HFCH1H2513515 White Not Hispanic/Latino Sentenced 10/23/25 Garden Work Shift Participated
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 10/23/25 Garden Work Shift Participated
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 10/23/25 DBT 6 1:30-2:30pm Participated
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 10/27/25 Book Club w/ HCC Currently Enrolled
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/27/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/27/25 Resiliency & Recovery B Released
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 10/27/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 949807 MA09448342 HFCH1H2513307 White Not Hispanic/Latino Sentenced 10/27/25 Book Club w/ HCC Released
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 10/27/25 Catholic Mass Currently Enrolled
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/27/25 Book Club w/ HCC Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 10/27/25 Resiliency & Recovery B Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 10/27/25 Book Club w/ HCC Released
+Franklin 2422370 MA09803829 HFCH1H2513154 White Not Hispanic/Latino Sentenced 10/27/25 Book Club w/ HCC Released
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/27/25 Resiliency & Recovery B Released
+Franklin 3097694 MA10432238 JFCH1J2412471 Black/African American Not Hispanic/Latino Pre-Trial 10/27/25 Book Club w/ HCC Currently Enrolled
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 10/27/25 Guitar B Pod Released
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 10/27/25 Salasin Nurturing Fam 11:45-12:45pm Participated
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 10/27/25 Book Club w/ HCC Currently Enrolled
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/27/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 10/27/25 Book Club w/ HCC Released
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 10/27/25 Guitar B Pod Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 10/27/25 Book Club w/ HCC Released
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 10/27/25 Book Club w/ HCC Released
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/27/25 Book Club w/ HCC Released
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 10/27/25 Guitar B Pod Released
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/28/25 B Pod Garden Participated
+Franklin 5053836 MA21010305 HFCH1H2512997 White Not Hispanic/Latino Sentenced 10/28/25 DBT 9 Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 10/28/25 Salasin Healing Trauma 11:45-12:45 Participated
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 10/28/25 Salasin Somatic Healing Participated
+Franklin 2708096 MA10054808 HFCH1H2513478 White Unavailable Sentenced 10/28/25 DBT 2 10:15-11:15 Participated
+Franklin 1777085 MA09117173 TGRF202400147 Black/African American Not Hispanic/Latino Pre-Trial 10/28/25 C Pod Ameelio Study Currently Enrolled
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 10/28/25 C Pod Ameelio Study Currently Enrolled
+Franklin 2246540 MA09626174 JFCH1J2513397 White Not Hispanic/Latino Pre-Trial 10/28/25 C Pod Ameelio Study Released
+Franklin 5681740 MA30001460 HFCH1H2513373 White Not Hispanic/Latino Sentenced 10/28/25 C Pod Ameelio Study Released
+Franklin 5533975 MA21199948 JFCH1J2412686 White Hispanic/Latino Pre-Trial 10/28/25 HiSET Study Hall Participated
+Franklin 455499 MA00804407 JFCH1J2513689 White Unavailable Pre-Trial 10/28/25 C Pod Ameelio Study Released
+Franklin 5682004 MA30001704 TSB2202500104 White Not Hispanic/Latino Pre-Trial 10/28/25 C Pod Ameelio Study Released
+Franklin 29800842 MA21281991 JFCH1J2513476 White Not Hispanic/Latino Pre-Trial 10/28/25 Book Club w/ HCC Currently Enrolled
+Franklin 5678718 MA21304666 TSB202500143 Black/African American Not Hispanic/Latino Pre-Trial 10/28/25 C Pod Ameelio Study Currently Enrolled
+Franklin 2708096 MA10054808 HFCH1H2513478 White Unavailable Sentenced 10/28/25 Educational Assessments C & D Participated
+Franklin 3070463 MA10363884 JFCH1J2513061 White Hispanic/Latino Pre-Trial 10/28/25 C Pod Ameelio Study Currently Enrolled
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 10/28/25 C Pod Ameelio Study Currently Enrolled
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 10/28/25 HiSet B Released
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino Sentenced 10/28/25 OSHA Study Hall D Released
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 10/28/25 HiSet C Released
+Franklin 455499 MA00804407 JFCH1J2513689 White Unavailable Pre-Trial 10/28/25 C Pod Ameelio Study Released
+Franklin 2004866 MA09303205 TNOF202500029 Black/African American Not Hispanic/Latino Pre-Trial 10/28/25 C Pod Ameelio Study Released
+Franklin 2178356 MA10555942 TGRF202500395 White Not Hispanic/Latino Pre-Trial 10/29/25 DBT 6 1:30-2:30pm Released
+Franklin 2178356 MA10555942 TGRF202500395 White Not Hispanic/Latino Pre-Trial 10/29/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 2178356 MA10555942 TGRF202500395 White Not Hispanic/Latino Pre-Trial 10/29/25 SOC B Released
+Franklin 2178356 MA10555942 TGRF202500395 White Not Hispanic/Latino Pre-Trial 10/29/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 2178356 MA10555942 TGRF202500395 White Not Hispanic/Latino Pre-Trial 10/29/25 Women's WRAP Released
+Franklin 2915922 MA10367714 HFCH1H2513162 White Hispanic/Latino Sentenced 10/30/25 DBT 1 10:15-11:15am 2x Participated
+Franklin 5474726 MA21266679 JFCH1J2513759 White Not Hispanic/Latino Pre-Trial 10/30/25 Women's WRAP Released
+Franklin 5546987 MA21202909 HFCH1H2513752 White Hispanic/Latino Sentenced 10/30/25 Men's WRAP Participated
+Franklin 428170 MA00953978 JFCH2J2513425 White Not Hispanic/Latino Pre-Trial 10/30/25 Bible and Beyond Released
+Franklin 3043065 MA21159985 JFCH1J2513713 White Not Hispanic/Latino Pre-Trial 10/30/25 Reentry and Recovery Released
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino Pre-Trial 10/30/25 Reentry and Recovery Released
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 10/30/25 U24 Rec/Meds/Lunch Currently Enrolled
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 10/30/25 U24 Re-Entry Currently Enrolled
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 10/30/25 Bible and Beyond Currently Enrolled
+Franklin 5474726 MA21266679 JFCH1J2513759 White Not Hispanic/Latino Pre-Trial 10/30/25 HiSet B Released
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 10/30/25 Men's WRAP Participated
+Franklin 5546987 MA21202909 HFCH1H2513752 White Hispanic/Latino Sentenced 10/30/25 Intro to DBT Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 10/30/25 HiSet B Released
+Franklin 3180106 MA21227620 White Hispanic/Latino Sentenced 10/30/25 DBT U24 Participated
+Franklin 3180106 MA21227620 White Hispanic/Latino Sentenced 10/30/25 U24 BEATS Education Participated
+Page 12 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 3043065 MA21159985 JFCH1J2513713 White Not Hispanic/Latino Pre-Trial 10/30/25 DBT 5 Released
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino Pre-Trial 10/30/25 Men's WRAP Released
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino Pre-Trial 10/30/25 DBT 5 Released
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 10/30/25 U24 BEATS Education Currently Enrolled
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 10/30/25 DBT U24 Participated
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 10/30/25 Bible and Beyond Currently Enrolled
+Franklin 5474726 MA21266679 JFCH1J2513759 White Not Hispanic/Latino Pre-Trial 10/30/25 SOC B Released
+Franklin 5458744 MA21136170 HFCH1H2512996 White Hispanic/Latino Sentenced 10/30/25 DBT 1 10:15-11:15am 2x Released
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 10/30/25 D Pod Morning Meeting Participated
+Franklin 1873602 MA09821873 HFCH1H2513732 Black/African American Not Hispanic/Latino Sentenced 10/30/25 DBT 1 10:15-11:15am 2x Participated
+Franklin 1873602 MA09821873 HFCH1H2513732 Black/African American Not Hispanic/Latino Sentenced 10/30/25 Men's WRAP Participated
+Franklin 5474726 MA21266679 JFCH1J2513759 White Not Hispanic/Latino Pre-Trial 10/30/25 DBT 6 1:30-2:30pm Released
+Franklin 5681740 MA30001460 HFCH1H2513373 White Not Hispanic/Latino Sentenced 10/30/25 Bible and Beyond Released
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 10/30/25 Intro to DBT Participated
+Franklin 3180106 MA21227620 White Hispanic/Latino Sentenced 10/30/25 U24 Re-Entry Participated
+Franklin 3180106 MA21227620 White Hispanic/Latino Sentenced 10/30/25 U24 Rec/Meds/Lunch Participated
+Franklin 3180106 MA21227620 White Hispanic/Latino Sentenced 10/30/25 D Pod Morning Meeting Participated
+Franklin 5287561 MA21007895 JFCH3J2412099 Black/African American Not Hispanic/Latino Pre-Trial 10/30/25 Bible and Beyond Released
+Franklin 3043065 MA21159985 JFCH1J2513713 White Not Hispanic/Latino Pre-Trial 10/30/25 Men's WRAP Released
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 10/31/25 DBT 1 10:15-11:15am 2x Currently Enrolled
+Franklin 2670340 MA10057113 TGRF202400023 Black/African American Not Hispanic/Latino Pre-Trial 10/31/25 Restorative Circle Currently Enrolled
+Franklin 2915922 MA10367714 HFCH1H2513162 White Hispanic/Latino Sentenced 10/31/25 Heart Rhythm Meditation Participated
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 10/31/25 Restorative Circle Currently Enrolled
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 10/31/25 SOC C&D Released
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 10/31/25 Restorative Circle Released
+Franklin 5579813 MA21227007 JFCH1J2513465 White Hispanic/Latino Pre-Trial 10/31/25 HiSET Study Hall Released
+Franklin 5458744 MA21136170 HFCH1H2512996 White Hispanic/Latino Sentenced 10/31/25 HiSET Study Hall Released
+Franklin 5670244 MA21297928 HFCH1H2513365 White Hispanic/Latino Sentenced 10/31/25 Restorative Circle Currently Enrolled
+Franklin 5311908 MA21029045 JFCH1J2513022 Black/African American Not Hispanic/Latino Pre-Trial 10/31/25 Restorative Circle Currently Enrolled
+Franklin 1873602 MA09821873 HFCH1H2513732 Black/African American Not Hispanic/Latino Sentenced 10/31/25 D Pod Morning Meeting Currently Enrolled
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 10/31/25 D Pod Morning Meeting Released
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 10/31/25 HiSET Study Hall Released
+Franklin 2199402 MA10060469 HFCH1H2513239 Black/African American Hispanic/Latino Sentenced 10/31/25 Restorative Circle Released
+Franklin 5242053 MA21007715 JFCH1J2411945 White Hispanic/Latino Pre-Trial 10/31/25 Restorative Circle Currently Enrolled
+Franklin 1777085 MA09117173 TGRF202400147 Black/African American Not Hispanic/Latino Pre-Trial 10/31/25 Restorative Circle Currently Enrolled
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 10/31/25 HiSET Study Hall Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 10/31/25 Restorative Circle Currently Enrolled
+Franklin 1873602 MA09821873 HFCH1H2513732 Black/African American Not Hispanic/Latino Sentenced 10/31/25 Restorative Circle Participated
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 10/31/25 Restorative Circle Currently Enrolled
+Franklin 2915922 MA10367714 HFCH1H2513162 White Hispanic/Latino Sentenced 10/31/25 HiSET Study Hall Participated
+Franklin 2246540 MA09626174 JFCH1J2513397 White Not Hispanic/Latino Pre-Trial 10/31/25 Restorative Circle Released
+Franklin 5546987 MA21202909 HFCH1H2513752 White Hispanic/Latino Sentenced 10/31/25 SOC C&D Released
+Franklin 2769457 MA10123314 HFCH1H2513515 White Not Hispanic/Latino Sentenced 11/3/25 Educational Assessments C & D Participated
+Franklin 1873602 MA09821873 HFCH1H2513732 Black/African American Not Hispanic/Latino Sentenced 11/3/25 Introduction to Guitar Currently Enrolled
+Franklin 5670244 MA21297928 HFCH1H2513365 White Hispanic/Latino Sentenced 11/3/25 Educational Assessments C & D Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 11/3/25 OSHA Study Hall D Currently Enrolled
+Franklin 1873602 MA09821873 HFCH1H2513732 Black/African American Not Hispanic/Latino Sentenced 11/3/25 DBT 9 Participated
+Franklin 5546987 MA21202909 HFCH1H2513752 White Hispanic/Latino Sentenced 11/3/25 D Pod Morning Meeting Participated
+Franklin 5685050 MA30004304 HFCH2H2513254 White Not Hispanic/Latino Sentenced 11/3/25 Educational Assessments C & D Released
+Franklin 5591077 MA21234872 HFCH1H2513278 Black/African American Not Hispanic/Latino Sentenced 11/3/25 Restorative Circle Currently Enrolled
+Franklin 2892492 MA21259851 HFCH1H2513318 White Not Hispanic/Latino Sentenced 11/3/25 Educational Assessments C & D Released
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino Sentenced 11/3/25 Educational Assessments C & D Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 11/3/25 Restorative Circle Currently Enrolled
+Franklin 5563671 MA21141619 HFCH1H2513484 White Hispanic/Latino Sentenced 11/3/25 Educational Assessments C & D Participated
+Franklin 5357937 MA21063878 HFCH1H2412039 White Not Hispanic/Latino Sentenced 11/3/25 Ameelio D Pod Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 11/3/25 Ameelio D Pod Currently Enrolled
+Franklin 2246540 MA09626174 JFCH1J2513397 White Not Hispanic/Latino Pre-Trial 11/3/25 Bible and Beyond Released
+Franklin 2724524 MA10410929 HFCH1H2412594 White Not Hispanic/Latino Sentenced 11/3/25 Educational Assessments C & D Released
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 11/4/25 DBT 5 Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 11/4/25 Mindful Movement C Currently Enrolled
+Franklin 2670340 MA10057113 TGRF202400023 Black/African American Not Hispanic/Latino Pre-Trial 11/4/25 Mindful Movement C Currently Enrolled
+Franklin 2915922 MA10367714 HFCH1H2513162 White Hispanic/Latino Sentenced 11/4/25 Staying Connected Participated
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 11/4/25 Mindful Movement C Currently Enrolled
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 11/4/25 Mindful Movement C Currently Enrolled
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 11/4/25 Ameelio B Pod Released
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 11/4/25 Ameelio B Pod Released
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 11/4/25 Catholic Mass Currently Enrolled
+Franklin 428170 MA00953978 JFCH2J2513425 White Not Hispanic/Latino Pre-Trial 11/4/25 Mindful Movement C Released
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 11/5/25 Mindful Movement C Participated
+Franklin 2670340 MA10057113 TGRF202400023 Black/African American Not Hispanic/Latino Pre-Trial 11/5/25 Mindful Movement C Currently Enrolled
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 11/5/25 D Pod Indoor Gardening Currently Enrolled
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 11/5/25 Mindful Movement D Currently Enrolled
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 11/5/25 Mindful Movement C Currently Enrolled
+Franklin 5053836 MA21010305 HFCH1H2512997 White Not Hispanic/Latino Sentenced 11/5/25 Mindful Movement D Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 11/5/25 D Pod Indoor Gardening Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 11/5/25 DBT 5 Participated
+Page 13 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 5626666 MA21262586 White Hispanic/Latino Sentenced 11/5/25 Mindful Movement D Participated
+Franklin 428170 MA00953978 JFCH2J2513425 White Not Hispanic/Latino Pre-Trial 11/5/25 DBT 5 Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 11/5/25 Mindful Movement D Participated
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 11/5/25 Mindful Movement C Currently Enrolled
+Franklin 428170 MA00953978 JFCH2J2513425 White Not Hispanic/Latino Pre-Trial 11/5/25 Mindful Movement C Released
+Franklin 5533975 MA21199948 JFCH1J2412686 White Hispanic/Latino Pre-Trial 11/5/25 Mindful Movement D Participated
+Franklin 5682004 MA30001704 TSB2202500104 White Not Hispanic/Latino Pre-Trial 11/5/25 DBT 5 Participated
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 11/5/25 Catholic Mass Released
+Franklin 5626666 MA21262586 White Hispanic/Latino Sentenced 11/6/25 Mindful Movement D Participated
+Franklin 1487634 S16699013 JFCH1J2412000 White Not Hispanic/Latino Pre-Trial 11/6/25 Mindful Movement D Currently Enrolled
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino Sentenced 11/6/25 DBT 9 Currently Enrolled
+Franklin 5311908 MA21029045 JFCH1J2513022 Black/African American Not Hispanic/Latino Pre-Trial 11/6/25 U24 Rec/Meds/Lunch Participated
+Franklin 5311908 MA21029045 JFCH1J2513022 Black/African American Not Hispanic/Latino Pre-Trial 11/6/25 DBT U24 Participated
+Franklin 5311908 MA21029045 JFCH1J2513022 Black/African American Not Hispanic/Latino Pre-Trial 11/6/25 U24 Re-Entry Participated
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 11/6/25 SOC C&D Participated
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 11/6/25 Mindful Movement D Currently Enrolled
+Franklin 5458744 MA21136170 HFCH1H2512996 White Hispanic/Latino Sentenced 11/6/25 D Pod Indoor Gardening Released
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 11/6/25 D Pod Morning Meeting Released
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino Sentenced 11/6/25 D Pod Morning Meeting Currently Enrolled
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 11/6/25 D Pod Indoor Gardening Participated
+Franklin 5533975 MA21199948 JFCH1J2412686 White Hispanic/Latino Pre-Trial 11/6/25 Mindful Movement D Participated
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 11/6/25 U24 Re-Entry Released
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 11/6/25 DBT U24 Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 11/6/25 Mindful Movement D Participated
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino Sentenced 11/6/25 SOC C&D Currently Enrolled
+Franklin 5311908 MA21029045 JFCH1J2513022 Black/African American Not Hispanic/Latino Pre-Trial 11/6/25 U24 BEATS Education Participated
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 11/6/25 Men's WRAP Currently Enrolled
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 11/6/25 DBT 2 10:15-11:15 Participated
+Franklin 5053836 MA21010305 HFCH1H2512997 White Not Hispanic/Latino Sentenced 11/6/25 Mindful Movement D Released
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 11/6/25 U24 BEATS Education Released
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 11/6/25 U24 Rec/Meds/Lunch Released
+Franklin 2040356 MA10019586 TORA20250015A7merican Indian/Alaska NativNeot Hispanic/Latino Pre-Trial 11/7/25 Reentry and Recovery Released
+Franklin 5175043 MA21077093 JFCH1J2513736 White Not Hispanic/Latino Pre-Trial 11/7/25 DBT 5 Participated
+Franklin 5175043 MA21077093 JFCH1J2513736 White Not Hispanic/Latino Pre-Trial 11/7/25 Men's WRAP Released
+Franklin 2040356 MA10019586 TORA20250015A7merican Indian/Alaska NativNeot Hispanic/Latino Pre-Trial 11/7/25 Men's WRAP Released
+Franklin 2040356 MA10019586 TORA20250015A7merican Indian/Alaska NativNeot Hispanic/Latino Pre-Trial 11/7/25 DBT 5 Participated
+Franklin 5175043 MA21077093 JFCH1J2513736 White Not Hispanic/Latino Pre-Trial 11/7/25 Reentry and Recovery Released
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 11/10/25 Music in the Jail Released
+Franklin 949807 MA09448342 HFCH1H2513307 White Not Hispanic/Latino Sentenced 11/10/25 Music in the Jail Released
+Franklin 29800842 MA21281991 JFCH1J2513476 White Not Hispanic/Latino Pre-Trial 11/10/25 Mindful Movement B Currently Enrolled
+Franklin 3097694 MA10432238 JFCH1J2412471 Black/African American Not Hispanic/Latino Pre-Trial 11/10/25 Music in the Jail Currently Enrolled
+Franklin 2178356 MA10555942 TGRF202500395 White Not Hispanic/Latino Pre-Trial 11/10/25 Nature Writing Participated
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 11/10/25 Music in the Jail Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 11/10/25 Music in the Jail Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 11/10/25 Music in the Jail Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 11/10/25 Nature Writing Participated
+Franklin 2402428 MA09821899 TGRF202500397 White Not Hispanic/Latino Pre-Trial 11/10/25 SOC B Released
+Franklin 5502994 MA10540686 JFCH1J2513774 White Hispanic/Latino Pre-Trial 11/10/25 Catholic Mass Released
+Franklin 5622983 MA21259776 HFCH1H2513155 White Not Hispanic/Latino Sentenced 11/10/25 Music in the Jail Released
+Franklin 2422370 MA09803829 HFCH1H2513154 White Not Hispanic/Latino Sentenced 11/10/25 Music in the Jail Released
+Franklin 5502994 MA10540686 JFCH1J2513774 White Hispanic/Latino Pre-Trial 11/10/25 Women's WRAP Released
+Franklin 5502994 MA10540686 JFCH1J2513774 White Hispanic/Latino Pre-Trial 11/10/25 SOC B Released
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 11/10/25 Nature Writing Participated
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 11/10/25 Mindful Movement B Currently Enrolled
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 11/10/25 Music in the Jail Currently Enrolled
+Franklin 29800842 MA21281991 JFCH1J2513476 White Not Hispanic/Latino Pre-Trial 11/10/25 Nature Writing Currently Enrolled
+Franklin 2178356 MA10555942 TGRF202500395 White Not Hispanic/Latino Pre-Trial 11/10/25 Mindful Movement B Released
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 11/10/25 Nature Writing Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 11/10/25 Mindful Movement B Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 11/10/25 Mindful Movement B Released
+Franklin 2402428 MA09821899 TGRF202500397 White Not Hispanic/Latino Pre-Trial 11/10/25 Women's WRAP Released
+Franklin 2402428 MA09821899 TGRF202500397 White Not Hispanic/Latino Pre-Trial 11/10/25 DBT 6 1:30-2:30pm Released
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino Pre-Trial 11/10/25 Nature Writing Released
+Franklin 5502994 MA10540686 JFCH1J2513774 White Hispanic/Latino Pre-Trial 11/10/25 DBT 6 1:30-2:30pm Released
+Franklin 5502994 MA10540686 JFCH1J2513774 White Hispanic/Latino Pre-Trial 11/10/25 HiSet B Released
+Franklin 3145248 MA10521139 TGRF202500365 White Not Hispanic/Latino Pre-Trial 11/10/25 Music in the Jail Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 11/11/25 Intro to DBT Participated
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 11/11/25 SOC C&D Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 11/11/25 Men's WRAP Participated
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 11/11/25 D Pod Morning Meeting Released
+Franklin 5438433 MA21166901 JFCH1J2513782 White Not Hispanic/Latino Pre-Trial 11/12/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5438433 MA21166901 JFCH1J2513782 White Not Hispanic/Latino Pre-Trial 11/12/25 Women's WRAP Released
+Franklin 5438433 MA21166901 JFCH1J2513782 White Not Hispanic/Latino Pre-Trial 11/12/25 SOC B Released
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino Pre-Trial 11/12/25 Catholic Mass Released
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino Pre-Trial 11/12/25 Resiliency & Recovery C Released
+Franklin 5438433 MA21166901 JFCH1J2513782 White Not Hispanic/Latino Pre-Trial 11/12/25 DBT 6 1:30-2:30pm Released
+Page 14 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 5438433 MA21166901 JFCH1J2513782 White Not Hispanic/Latino Pre-Trial 11/12/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino Pre-Trial 11/12/25 Mindful Movement C Released
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino Pre-Trial 11/12/25 C Pod Ameelio Study Released
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 11/13/25 D Pod Morning Meeting Currently Enrolled
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 11/13/25 Intro to DBT Participated
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 11/13/25 D Pod Morning Meeting Currently Enrolled
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 11/13/25 SOC C&D Currently Enrolled
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 11/13/25 DBT 7 9-10AM Released
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 11/13/25 Resiliency & Recovery D Currently Enrolled
+Franklin 2915922 MA10367714 HFCH1H2513162 White Hispanic/Latino Sentenced 11/13/25 Muslim Srvcs D REQUEST Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 11/13/25 DBT 2 10:15-11:15 Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 11/13/25 SOC C&D Currently Enrolled
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 11/13/25 Men's WRAP Participated
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 11/13/25 Resiliency & Recovery B Currently Enrolled
+Franklin 3153031 MA21072430 HFCH1H2513729 White Not Hispanic/Latino Pre-Trial 11/13/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 11/13/25 Salasin Nurturing Fam 11:45-12:45pm Participated
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 11/14/25 Book Club w/ GCC Currently Enrolled
+Franklin 5461632 MA21138242 HFCH1H2513777 White Not Hispanic/Latino Sentenced 11/14/25 U24 BEATS Education Participated
+Franklin 5461632 MA21138242 HFCH1H2513777 White Not Hispanic/Latino Sentenced 11/14/25 U24 Re-Entry Participated
+Franklin 5637441 MA21271356 HFCH1H2513770 White Not Hispanic/Latino Sentenced 11/14/25 DBT 9 Participated
+Franklin 5637441 MA21271356 HFCH1H2513770 White Not Hispanic/Latino Sentenced 11/14/25 D Pod Morning Meeting Participated
+Franklin 3070463 MA10363884 JFCH1J2513061 White Hispanic/Latino Pre-Trial 11/14/25 Book Club w/ GCC Currently Enrolled
+Franklin 5678718 MA21304666 TSB202500143 Black/African American Not Hispanic/Latino Pre-Trial 11/14/25 Book Club w/ GCC Currently Enrolled
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 11/14/25 Book Club w/ GCC Currently Enrolled
+Franklin 2620113 MA09999371 HFCH1H2513788 White Hispanic/Latino Sentenced 11/14/25 SOC C&D Released
+Franklin 2620113 MA09999371 HFCH1H2513788 White Hispanic/Latino Sentenced 11/14/25 D Pod Morning Meeting Released
+Franklin 5461632 MA21138242 HFCH1H2513777 White Not Hispanic/Latino Sentenced 11/14/25 D Pod Morning Meeting Participated
+Franklin 5637441 MA21271356 HFCH1H2513770 White Not Hispanic/Latino Sentenced 11/14/25 Introduction to Guitar Released
+Franklin 2864118 MA10582593 JFCH1J2513751 White Not Hispanic/Latino Pre-Trial 11/14/25 Book Club w/ GCC Released
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 11/14/25 Catholic Mass Currently Enrolled
+Franklin 2417657 MA09755359 HFCH2H2513137 White Hispanic/Latino Sentenced 11/14/25 DBT 1 10:15-11:15am 2x Participated
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 11/14/25 Book Club w/ GCC Currently Enrolled
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 11/14/25 DBT 5 Released
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 11/14/25 Mindful Movement D Currently Enrolled
+Franklin 5500971 MA21267799 HFCH2H2513706 White Not Hispanic/Latino Sentenced 11/14/25 DBT 5 Currently Enrolled
+Franklin 2246540 MA09626174 JFCH1J2513397 White Not Hispanic/Latino Pre-Trial 11/14/25 Book Club w/ GCC Released
+Franklin 2620113 MA09999371 HFCH1H2513788 White Hispanic/Latino Sentenced 11/14/25 Men's WRAP Participated
+Franklin 2620113 MA09999371 HFCH1H2513788 White Hispanic/Latino Sentenced 11/14/25 Intro to DBT Released
+Franklin 5461632 MA21138242 HFCH1H2513777 White Not Hispanic/Latino Sentenced 11/14/25 U24 Rec/Meds/Lunch Participated
+Franklin 5461632 MA21138242 HFCH1H2513777 White Not Hispanic/Latino Sentenced 11/14/25 DBT U24 Participated
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 11/17/25 Nature Writing Released
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino Pre-Trial 11/17/25 Nature Writing Released
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino Pre-Trial 11/17/25 SOC B Participated
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino Pre-Trial 11/17/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino Pre-Trial 11/17/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino Pre-Trial 11/17/25 DBT 6 1:30-2:30pm Participated
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 11/17/25 DBT 5 Currently Enrolled
+Franklin 5563671 MA21141619 HFCH1H2513484 White Hispanic/Latino Sentenced 11/18/25 Young At Heart Music Program Currently Enrolled
+Franklin 2417657 MA09755359 HFCH2H2513137 White Hispanic/Latino Sentenced 11/18/25 Psychology 217 Currently Enrolled
+Franklin 5591077 MA21234872 HFCH1H2513278 Black/African American Not Hispanic/Latino Sentenced 11/18/25 Psychology 217 Currently Enrolled
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 11/18/25 Psychology 217 Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 11/18/25 HiSET ELA D Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 11/18/25 HiSET ELA D Currently Enrolled
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 11/18/25 HiSET ELA D Released
+Franklin 2199402 MA10060469 HFCH1H2513239 Black/African American Hispanic/Latino Sentenced 11/18/25 Young At Heart Music Program Released
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 11/18/25 HiSET ELA D Currently Enrolled
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 11/18/25 Book Club w/ GCC Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 11/18/25 Psychology 217 Currently Enrolled
+Franklin 5651136 MA21283501 HFCH1H2512943 Black/African American Not Hispanic/Latino Sentenced 11/18/25 Young At Heart Music Program Released
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 11/19/25 Poetic Justice 2:45-4PM Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 11/19/25 Poetic Justice 2:45-4PM Released
+Franklin 1995541 MA21268434 JFCH1J2513765 Asian/Pacific Islander Not Hispanic/Latino Pre-Trial 11/19/25 Men's WRAP Released
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 11/19/25 Poetic Justice 2:45-4PM Currently Enrolled
+Franklin 1192635 MA10330063 JFCH1J2513804 White Not Hispanic/Latino Pre-Trial 11/19/25 DBT 6 1:30-2:30pm Released
+Franklin 2422370 MA09803829 HFCH1H2513154 White Not Hispanic/Latino Sentenced 11/19/25 Poetic Justice 2:45-4PM Released
+Franklin 5474726 MA21266679 JFCH1J2513759 White Not Hispanic/Latino Pre-Trial 11/19/25 Poetic Justice 2:45-4PM Released
+Franklin 1192635 MA10330063 JFCH1J2513804 White Not Hispanic/Latino Pre-Trial 11/19/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 3097694 MA10432238 JFCH1J2412471 Black/African American Not Hispanic/Latino Pre-Trial 11/19/25 Poetic Justice 2:45-4PM Currently Enrolled
+Franklin 1192635 MA10330063 JFCH1J2513804 White Not Hispanic/Latino Pre-Trial 11/19/25 SOC B Released
+Franklin 1192635 MA10330063 JFCH1J2513804 White Not Hispanic/Latino Pre-Trial 11/19/25 Women's WRAP Released
+Franklin 1192635 MA10330063 JFCH1J2513804 White Not Hispanic/Latino Pre-Trial 11/19/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 11/19/25 Poetic Justice 2:45-4PM Released
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino Pre-Trial 11/19/25 Poetic Justice 2:45-4PM Released
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 11/20/25 DBT 8 B pod Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 11/20/25 Catholic Mass Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 11/20/25 SOC B Participated
+Page 15 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 11/20/25 DBT 7 9-10AM Released
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 11/20/25 Salasin Nurturing Fam 11:45-12:45pm Participated
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino Pre-Trial 11/20/25 DBT 8 B pod Released
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 11/20/25 Ameelio B Pod Released
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 11/20/25 DBT 7 9-10AM Participated
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 11/20/25 DBT 8 B pod Participated
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 11/20/25 Guitar B Pod Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 11/20/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 11/20/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 11/20/25 Ameelio B Pod Released
+Franklin 1763529 MA09307168 HFCH1H2512885 White Hispanic/Latino Sentenced 11/21/25 Healthy Relationships Participated
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 11/21/25 SOC C&D Released
+Franklin 2456089 MA10344235 White Not Hispanic/Latino Sentenced 11/21/25 D Pod Morning Meeting Released
+Franklin 2456089 MA10344235 White Not Hispanic/Latino Sentenced 11/21/25 DBT 9 Released
+Franklin 5606803 MA21247497 HFCH1H2513227 White Not Hispanic/Latino Sentenced 11/21/25 DBT w/ Misha 5:10-6:40pm Participated
+Franklin 1763529 MA09307168 HFCH1H2512885 White Hispanic/Latino Sentenced 11/21/25 DBT w/ Misha 5:10-6:40pm Participated
+Franklin 2616476 MA10005938 JFCH1J2513786 White Not Hispanic/Latino Pre-Trial 11/21/25 Reentry and Recovery Released
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 11/21/25 Men's WRAP Released
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino Pre-Trial 11/21/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 3051368 MA21059372 HFCH1H2412813 White Not Hispanic/Latino Sentenced 11/21/25 Responsible Thinking Participated
+Franklin 5175043 MA21077093 JFCH1J2513736 White Not Hispanic/Latino Pre-Trial 11/21/25 Catholic Mass Released
+Franklin 5683102 MA30002695 HFCH1H2513389 White Not Hispanic/Latino Sentenced 11/21/25 Responsible Thinking Participated
+Franklin 5683102 MA30002695 HFCH1H2513389 White Not Hispanic/Latino Sentenced 11/21/25 ACTV MEN 5:10-6:40PM Participated
+Franklin 2727105 MA21292007 HFCH1H2513363 White Not Hispanic/Latino Sentenced 11/21/25 Responsible Thinking Participated
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 11/21/25 D Pod Morning Meeting Released
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 11/21/25 Intro to DBT Released
+Franklin 5668485 MA21296508 HFCH1H2513358 White Not Hispanic/Latino Sentenced 11/21/25 Healthy Relationships Released
+Franklin 5682257 MA30001979 HFCH1H2513568 White Not Hispanic/Latino Sentenced 11/21/25 Healthy Relationships Participated
+Franklin 5682257 MA30001979 HFCH1H2513568 White Not Hispanic/Latino Sentenced 11/21/25 DBT w/ Misha 5:10-6:40pm Participated
+Franklin 5606803 MA21247497 HFCH1H2513227 White Not Hispanic/Latino Sentenced 11/21/25 Healthy Relationships Participated
+Franklin 2727105 MA21292007 HFCH1H2513363 White Not Hispanic/Latino Sentenced 11/21/25 DBT w/ Misha 5:10-6:40pm Participated
+Franklin 5474726 MA21266679 JFCH1J2513759 White Not Hispanic/Latino Pre-Trial 11/21/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5670580 MA30020170 JFCH1J2513792 White Not Hispanic/Latino Pre-Trial 11/21/25 Catholic Mass Released
+Franklin 2616476 MA10005938 JFCH1J2513786 White Not Hispanic/Latino Pre-Trial 11/21/25 Men's WRAP Released
+Franklin 2958389 HFCH2H2513277 White Not Hispanic/Latino Sentenced 11/21/25 Healthy Relationships Released
+Franklin 5668485 MA21296508 HFCH1H2513358 White Not Hispanic/Latino Sentenced 11/21/25 DBT w/ Misha 5:10-6:40pm Released
+Franklin 592140 MA21274173 HFCH1H2412476 White Not Hispanic/Latino Sentenced 11/21/25 Emerge Careers Released
+Franklin 3051368 MA21059372 HFCH1H2412813 White Not Hispanic/Latino Sentenced 11/21/25 ACTV MEN 5:10-6:40PM Released
+Franklin 2417657 MA09755359 HFCH2H2513137 White Hispanic/Latino Sentenced 11/24/25 Mindful Movement D Participated
+Franklin 2670340 MA10057113 TGRF202400023 Black/African American Not Hispanic/Latino Pre-Trial 11/24/25 Book Club w/ GCC Currently Enrolled
+Franklin 5518890 MA21274979 HFCH2H2513791 White Not Hispanic/Latino Sentenced 11/24/25 U24 Rec/Meds/Lunch Participated
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 11/24/25 U24 Rec/Meds/Lunch Released
+Franklin 5518890 MA21274979 HFCH2H2513791 White Not Hispanic/Latino Sentenced 11/24/25 DBT U24 Participated
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 11/24/25 D Pod Morning Meeting Released
+Franklin 5518890 MA21274979 HFCH2H2513791 White Not Hispanic/Latino Sentenced 11/24/25 U24 BEATS Education Participated
+Franklin 5518890 MA21274979 HFCH2H2513791 White Not Hispanic/Latino Sentenced 11/24/25 D Pod Morning Meeting Participated
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 11/24/25 U24 BEATS Education Released
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 11/24/25 DBT U24 Released
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 11/25/25 HiSET Study Hall Released
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 11/25/25 Catholic Mass Released
+Franklin 5670244 MA21297928 HFCH1H2513365 White Hispanic/Latino Sentenced 11/25/25 Psychology 217 Currently Enrolled
+Franklin 3070463 MA10363884 JFCH1J2513061 White Hispanic/Latino Pre-Trial 11/25/25 Bible and Beyond Currently Enrolled
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 11/25/25 HiSET ELA D Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 11/25/25 HiSET STEM D Currently Enrolled
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 11/25/25 HiSET ELA D Released
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 11/25/25 HiSET STEM D Released
+Franklin 5582246 MA21228613 JFCH1J2513773 White Unavailable Pre-Trial 11/25/25 Catholic Mass Released
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 11/25/25 HiSET STEM D Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 11/25/25 DBT 7 9-10AM Released
+Franklin 1096431 HFCH1H2513811 Black/African American Not Hispanic/Latino Sentenced 11/25/25 D Pod Morning Meeting Released
+Franklin 5325324 MA21040588 HFCH1H2513149 Black/African American Not Hispanic/Latino Sentenced 11/25/25 Psychology 217 Released
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 11/25/25 HiSET STEM D Currently Enrolled
+Franklin 3039899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino Sentenced 11/25/25 D Pod Morning Meeting Currently Enrolled
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 11/25/25 DBT 8 B pod Released
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 11/25/25 D Pod Morning Meeting Currently Enrolled
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 11/25/25 HiSET STEM D Currently Enrolled
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 11/25/25 HiSET STEM D Currently Enrolled
+Franklin 5582246 MA21228613 JFCH1J2513773 White Unavailable Pre-Trial 11/25/25 Women's Strength Training Released
+Franklin 5060533 MA21192550 HFCH2H2412697 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 2746910 MA10085669 JFCH1J2513806 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 Men's WRAP Currently Enrolled
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 11/26/25 Mindful Movement C Currently Enrolled
+Franklin 5678718 MA21304666 TSB202500143 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 3166669 MA21124778 HFCH1H2513559 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Released
+Franklin 5287561 MA21007895 JFCH3J2412099 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 2542078 MA10464144 JFCH1J2513726 White Not Hispanic/Latino Pre-Trial 11/26/25 B Pod Quarterly Celebration Released
+Page 16 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 11/26/25 Mindful Movement D Participated
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 1925713 MA09802042 HFCH1H2513500 White Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 5312184 MA21095570 HFCH1H2513626 White Not Hispanic/Latino Sentenced 11/26/25 Ameelio D Pod Participated
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 Mindful Movement C Currently Enrolled
+Franklin 3070463 MA10363884 JFCH1J2513061 White Hispanic/Latino Pre-Trial 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 2876276 MA10168089 HFCH2H2513702 White Hispanic/Latino Sentenced 11/26/25 Men's WRAP Currently Enrolled
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 2957376 MA10317048 White Hispanic/Latino Pre-Trial 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 3039899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino Sentenced 11/26/25 SOC C&D Currently Enrolled
+Franklin 3039899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino Sentenced 11/26/25 DBT 3 Currently Enrolled
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 5474726 MA21266679 JFCH1J2513759 White Not Hispanic/Latino Pre-Trial 11/26/25 B Pod Quarterly Celebration Released
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 11/26/25 DBT 2 10:15-11:15 Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 11/26/25 Resiliency & Recovery D Released
+Franklin 1096431 HFCH1H2513811 Black/African American Not Hispanic/Latino Sentenced 11/26/25 Men's WRAP Released
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 11/26/25 B Pod Quarterly Celebration Released
+Franklin 428170 MA00953978 JFCH2J2513425 White Not Hispanic/Latino Pre-Trial 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 3147593 MA10584960 JFCH1J2513785 White Hispanic/Latino Pre-Trial 11/26/25 Men's WRAP Participated
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 11/26/25 B Pod Quarterly Celebration Released
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 11/26/25 Intro to DBT Currently Enrolled
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 B Pod Quarterly Celebration Currently Enrolled
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 1487634 S16699013 JFCH1J2412000 White Not Hispanic/Latino Pre-Trial 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 11/26/25 Ameelio D Pod Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 3039899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino Sentenced 11/26/25 Men's WRAP Currently Enrolled
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 11/26/25 B Pod Quarterly Celebration Released
+Franklin 1984837 MA09300909 JFCH1J2513499 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 D Pod Quarterly Celebration Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 11/26/25 Men's WRAP Currently Enrolled
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 11/26/25 SOC C&D Currently Enrolled
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 2417657 MA09755359 HFCH2H2513137 White Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Participated
+Franklin 5626666 MA21262586 White Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Participated
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 11/26/25 B Pod Quarterly Celebration Currently Enrolled
+Franklin 5242053 MA21007715 JFCH1J2411945 White Hispanic/Latino Pre-Trial 11/26/25 D Pod Quarterly Celebration Participated
+Franklin 1487634 S16699013 JFCH1J2412000 White Not Hispanic/Latino Pre-Trial 11/26/25 Ameelio D Pod Participated
+Franklin 1777085 MA09117173 TGRF202400147 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 29800842 MA21281991 JFCH1J2513476 White Not Hispanic/Latino Pre-Trial 11/26/25 B Pod Quarterly Celebration Currently Enrolled
+Franklin 5670244 MA21297928 HFCH1H2513365 White Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 2746910 MA10085669 JFCH1J2513806 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 Catholic Mass Currently Enrolled
+Franklin 5357937 MA21063878 HFCH1H2412039 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 2876276 MA10168089 HFCH2H2513702 White Hispanic/Latino Sentenced 11/26/25 SOC C&D Currently Enrolled
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 2523094 MA10537917 TORA202500026 White Not Hispanic/Latino Pre-Trial 11/26/25 B Pod Quarterly Celebration Released
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino Pre-Trial 11/26/25 B Pod Quarterly Celebration Released
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Released
+Franklin 2609824 MA10099772 HFCH1H2412139 Black/African American Not Hispanic/Latino Sentenced 11/26/25 C Pod Quarterly Celebration Participated
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 11/26/25 B Pod Quarterly Celebration Released
+Franklin 1096431 HFCH1H2513811 Black/African American Not Hispanic/Latino Sentenced 11/26/25 SOC C&D Released
+Franklin 1096431 HFCH1H2513811 Black/African American Not Hispanic/Latino Sentenced 11/26/25 Intro to DBT Released
+Franklin 2199402 MA10060469 HFCH1H2513239 Black/African American Hispanic/Latino Sentenced 11/26/25 D Pod Quarterly Celebration Released
+Franklin 5622983 MA21259776 HFCH1H2513155 White Not Hispanic/Latino Sentenced 11/26/25 B Pod Quarterly Celebration Released
+Franklin 949807 MA09448342 HFCH1H2513307 White Not Hispanic/Latino Sentenced 11/26/25 B Pod Quarterly Celebration Released
+Franklin 2422370 MA09803829 HFCH1H2513154 White Not Hispanic/Latino Sentenced 11/26/25 B Pod Quarterly Celebration Released
+Franklin 5502994 MA10540686 JFCH1J2513774 White Hispanic/Latino Pre-Trial 11/26/25 B Pod Quarterly Celebration Released
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 12/1/25 AA D Pod 6-7pm Released
+Franklin 5175043 MA21077093 HFCH1H2513823 White Not Hispanic/Latino Sentenced 12/1/25 DBT 5 Participated
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/1/25 Beginner Guitar 2:45-4pm Currently Enrolled
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/1/25 Women's Strength Training Currently Enrolled
+Franklin 3039899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino Sentenced 12/1/25 Catholic Mass Currently Enrolled
+Franklin 2178356 White Not Hispanic/Latino Pre-Trial 12/1/25 DBT 6 1:30-2:30pm Participated
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/1/25 SOC B Released
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 12/1/25 Catholic Mass Released
+Franklin 5325324 MA21040588 HFCH1H2513149 Black/African American Not Hispanic/Latino Sentenced 12/1/25 Mindful Movement D Released
+Franklin 2178356 White Not Hispanic/Latino Pre-Trial 12/1/25 Resiliency & Recovery B Released
+Franklin 2178356 White Not Hispanic/Latino Pre-Trial 12/1/25 Women's WRAP Released
+Franklin 2417657 MA09755359 HFCH2H2513137 White Hispanic/Latino Sentenced 12/1/25 Mindful Movement D Participated
+Franklin 2178356 White Not Hispanic/Latino Pre-Trial 12/1/25 SOC B Released
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/1/25 DBT 6 1:30-2:30pm Released
+Page 17 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/1/25 Women's WRAP Released
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino Sentenced 12/1/25 D Pod Quarterly Celebration Released
+Franklin 2609824 MA10099772 HFCH1H2412139 Black/African American Not Hispanic/Latino Sentenced 12/1/25 DBT 5 Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 12/1/25 Resiliency & Recovery B Released
+Franklin 5438433 MA21166901 HFCH1H2513824 White Not Hispanic/Latino Sentenced 12/1/25 SOC B Participated
+Franklin 5325324 MA21040588 HFCH1H2513149 Black/African American Not Hispanic/Latino Sentenced 12/1/25 HiSET STEM D Released
+Franklin 2178356 White Not Hispanic/Latino Pre-Trial 12/2/25 Women's Heart Rhythm Meditation Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/2/25 DBT 6 1:30-2:30pm Released
+Franklin 2522431 MA10186627 HFCH1H2513368 White Not Hispanic/Latino Sentenced 12/2/25 B Pod Quarterly Celebration Released
+Franklin 3153031 MA21072430 JFCH1J2513831 White Not Hispanic/Latino Pre-Trial 12/2/25 B Pod Quarterly Celebration Released
+Franklin 3097694 MA10432238 JFCH1J2412471 Black/African American Not Hispanic/Latino Pre-Trial 12/2/25 B Pod Quarterly Celebration Currently Enrolled
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/2/25 Women's WRAP Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/2/25 SOC B Released
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/2/25 D Pod Morning Meeting Currently Enrolled
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/2/25 Men's WRAP Participated
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/2/25 Intro to DBT Participated
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/2/25 SOC C&D Currently Enrolled
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 12/3/25 HiSet C Currently Enrolled
+Franklin 1999740 JFCH1J2513422 White Not Hispanic/Latino Pre-Trial 12/3/25 PC ABE Currently Enrolled
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 12/3/25 HiSet D Participated
+Franklin 402769 MA00686080 HFCH1H2513031 White Not Hispanic/Latino Sentenced 12/3/25 PC ABE Currently Enrolled
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/3/25 HiSET A Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 12/3/25 Women's Heart Rhythm Meditation Released
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 12/3/25 HiSet C Released
+Franklin 3153031 MA21072430 JFCH1J2513831 White Not Hispanic/Latino Pre-Trial 12/3/25 Book Club w/ HCC Released
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 12/3/25 HiSet B Currently Enrolled
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino Sentenced 12/3/25 AA D Pod 6-7pm Participated
+Franklin 5516957 MA21300698 JFCH1J2513548 White Not Hispanic/Latino Pre-Trial 12/3/25 HiSET A Currently Enrolled
+Franklin 5516957 MA21300698 JFCH1J2513548 White Not Hispanic/Latino Pre-Trial 12/3/25 HiSET A Currently Enrolled
+Franklin 5322251 MA21102110 HFCH1H2513740 Black/African American Not Hispanic/Latino Sentenced 12/3/25 HiSet D Released
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 12/3/25 HiSet B Released
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/3/25 HiSet B Released
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/3/25 DBT 6 1:30-2:30pm Participated
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/3/25 SOC B Participated
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/3/25 HiSet B Released
+Franklin 5438433 MA21166901 HFCH1H2513824 White Not Hispanic/Latino Sentenced 12/3/25 DBT 7 9-10AM Released
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 12/3/25 HiSet C Released
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 12/3/25 HiSet C Released
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 12/3/25 HiSet B Released
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 12/3/25 HiSet B Released
+Franklin 5389209 MA21084048 JFCH1J2513815 White Not Hispanic/Latino Pre-Trial 12/3/25 HiSET A Released
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 12/3/25 HiSet B Currently Enrolled
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 12/3/25 HiSet D Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 12/3/25 HiSet D Currently Enrolled
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 12/3/25 HiSet D Participated
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/3/25 HiSet B Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 12/3/25 Book Club w/ HCC Released
+Franklin 5438433 MA21166901 HFCH1H2513824 White Not Hispanic/Latino Sentenced 12/3/25 Salasin Nurturing Fam 11:45-12:45pm Participated
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 12/3/25 HiSet C Released
+Franklin 3167198 MA10565663 JFCH1J2513350 White Hispanic/Latino Pre-Trial 12/3/25 HiSET A Released
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 12/3/25 HiSet C Currently Enrolled
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 12/3/25 HiSet C Currently Enrolled
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 12/3/25 HiSet C Currently Enrolled
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 12/3/25 AA D Pod 6-7pm Participated
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/3/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 3045542 MA10567894 HFCH1H2513741 White Not Hispanic/Latino Sentenced 12/3/25 HiSet B Released
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/3/25 HiSET A Released
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/3/25 Salasin Nurturing Fam 11:45-12:45pm Participated
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/3/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5438433 MA21166901 HFCH1H2513824 White Not Hispanic/Latino Sentenced 12/3/25 Salasin Somatic Healing Released
+Franklin 3167198 MA10565663 JFCH1J2513350 White Hispanic/Latino Pre-Trial 12/3/25 HiSET A Released
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 12/3/25 HiSet B Released
+Franklin 5389209 MA21084048 JFCH1J2513815 White Not Hispanic/Latino Pre-Trial 12/3/25 HiSET A Released
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/4/25 Salasin Nurturing Fam 11:45-12:45pm Currently Enrolled
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/4/25 Read 2 Children Literacy Program B Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 12/4/25 Read 2 Children Literacy Program B Released
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 12/4/25 Read 2 Children Literacy Program B Currently Enrolled
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/4/25 D Pod Morning Meeting Currently Enrolled
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/4/25 Men's WRAP Participated
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 12/4/25 Read 2 Children Literacy Program B Currently Enrolled
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/4/25 Read 2 Children Literacy Program B Currently Enrolled
+Franklin 3153031 MA21072430 JFCH1J2513831 White Not Hispanic/Latino Pre-Trial 12/4/25 Read 2 Children Literacy Program B Released
+Franklin 5389209 MA21084048 JFCH1J2513815 White Not Hispanic/Latino Pre-Trial 12/4/25 HiSet C Released
+Franklin 5060533 MA21192550 HFCH2H2412697 White Not Hispanic/Latino Sentenced 12/4/25 D Pod Indoor Gardening Currently Enrolled
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/4/25 SOC C&D Currently Enrolled
+Franklin 2178356 White Not Hispanic/Latino Pre-Trial 12/4/25 Read 2 Children Literacy Program B Released
+Page 18 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 3051368 MA21059372 HFCH1H2412813 White Not Hispanic/Latino Sentenced 12/4/25 Minimum Education Released
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/4/25 Intro to DBT Currently Enrolled
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 12/4/25 DBT 5 Participated
+Franklin 2915922 MA10367714 HFCH1H2513162 White Hispanic/Latino Sentenced 12/4/25 Minimum Education Currently Enrolled
+Franklin 5582246 MA21228613 JFCH1J2513773 White Unavailable Pre-Trial 12/4/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/4/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/4/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 5389209 MA21084048 JFCH1J2513815 White Not Hispanic/Latino Pre-Trial 12/4/25 HiSet C Released
+Franklin 5389209 MA21084048 JFCH1J2513815 White Not Hispanic/Latino Pre-Trial 12/4/25 HiSet C Released
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 12/5/25 C Pod Quarterly Celebration Participated
+Franklin 3171973 MA21030419 JFCH1J2513825 White Not Hispanic/Latino Pre-Trial 12/5/25 Reentry and Recovery Released
+Franklin 5389209 MA21084048 JFCH1J2513815 White Not Hispanic/Latino Pre-Trial 12/5/25 Reentry and Recovery Released
+Franklin 2888780 MA10601175 TGRF202500260 Black/African American Hispanic/Latino Pre-Trial 12/5/25 DBT 5 Participated
+Franklin 3171973 MA21030419 JFCH1J2513825 White Not Hispanic/Latino Pre-Trial 12/5/25 Men's WRAP Released
+Franklin 3003045 MA10408205 HFCH1H2513822 White Not Hispanic/Latino Sentenced 12/5/25 DBT 5 Released
+Franklin 5389209 MA21084048 JFCH1J2513815 White Not Hispanic/Latino Pre-Trial 12/5/25 Men's WRAP Released
+Franklin 5563671 MA21141619 HFCH1H2513484 White Hispanic/Latino Sentenced 12/8/25 Guitar Kim/Min 5-6pm Currently Enrolled
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/8/25 U24 BEATS Education Released
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 12/8/25 DBT 9 Currently Enrolled
+Franklin 2708096 MA10054808 HFCH1H2513478 White Unavailable Sentenced 12/8/25 Guitar Kim/Min 5-6pm Currently Enrolled
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/8/25 Catholic Mass Released
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/8/25 U24 Rec/Meds/Lunch Released
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/8/25 D Pod Morning Meeting Released
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/8/25 U24 Re-Entry Released
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 12/8/25 U24 Re-Entry Released
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/8/25 DBT 2 10:15-11:15 Currently Enrolled
+Franklin 5516957 MA21300698 JFCH1J2513548 White Not Hispanic/Latino Pre-Trial 12/8/25 D Pod Quarterly Celebration Currently Enrolled
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 12/8/25 DBT 9 Currently Enrolled
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 12/8/25 D Pod Quarterly Celebration Released
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/8/25 DBT U24 Released
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/9/25 Salasin Healing Trauma 11:45-12:45 Currently Enrolled
+Franklin 2178356 White Not Hispanic/Latino Pre-Trial 12/9/25 DBT 7 9-10AM Released
+Franklin 5582246 MA21228613 JFCH1J2513773 White Unavailable Pre-Trial 12/9/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/9/25 Catholic Mass Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/9/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino Pre-Trial 12/9/25 DBT 8 B pod Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/9/25 Women's Strength Training Released
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 12/10/25 B Pod Quarterly Celebration Currently Enrolled
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/10/25 HiSet B Participated
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 3202683 MA10640038 JFCH1J2513810 White Hispanic/Latino Pre-Trial 12/11/25 DBT 5 Currently Enrolled
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 5060533 MA21192550 HFCH2H2412697 White Not Hispanic/Latino Sentenced 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/11/25 DBT 6 1:30-2:30pm Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/11/25 Women's WRAP Released
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 1487634 S16699013 JFCH1J2412000 White Not Hispanic/Latino Pre-Trial 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 1487634 S16699013 JFCH1J2412000 White Not Hispanic/Latino Pre-Trial 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/11/25 D Pod Games Hour Currently Enrolled
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 12/11/25 Mindful Movement D Currently Enrolled
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/11/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/11/25 SOC B Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Currently Enrolled
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/12/25 Read 2 Children Literacy Program D Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Page 19 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 2987428 MA10385398 HFCH1H2513760 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Released
+Franklin 1984837 JFCH1J2513850 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Holiday Photos D Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Currently Enrolled
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Read 2 Children Literacy Program D Currently Enrolled
+Franklin 3200795 MA21036142 HFCH1H2513525 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 3200795 MA21036142 HFCH1H2513525 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 1925713 MA09802042 HFCH1H2513500 White Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 1925713 MA09802042 HFCH1H2513500 White Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 5371202 MA21234429 TGRF202400465 White Not Hispanic/Latino Pre-Trial 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Currently Enrolled
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 2957376 MA10317048 White Hispanic/Latino Pre-Trial 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Currently Enrolled
+Franklin 5595802 HFCH1H2513852 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 5595802 HFCH1H2513852 White Not Hispanic/Latino Sentenced 12/12/25 Read 2 Children Literacy Program D Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 12/12/25 Holiday Photos D Released
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Released
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Released
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Released
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/12/25 DBT 9 Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Released
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 5615791 MA21254128 HFCH2H2513556 White Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 5516957 MA21300698 JFCH1J2513548 White Not Hispanic/Latino Pre-Trial 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 2957376 MA10317048 White Hispanic/Latino Pre-Trial 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 5451009 MA21261652 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Released
+Franklin 1005895 MA09428232 HFCH1H2513323 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/12/25 Muslim Srvcs D REQUEST Currently Enrolled
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Participated
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 5060533 MA21192550 HFCH2H2412697 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Currently Enrolled
+Franklin 2768554 MA10105400 HFCH2H2513709 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/12/25 Read 2 Children Literacy Program D Currently Enrolled
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 12/12/25 Read 2 Children Literacy Program D Currently Enrolled
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Currently Enrolled
+Franklin 5357937 MA21063878 HFCH1H2412039 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Currently Enrolled
+Franklin 2957376 MA10317048 White Hispanic/Latino Pre-Trial 12/12/25 Holiday Movie D Currently Enrolled
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Card Making D Currently Enrolled
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 12/12/25 Muslim Srvcs D REQUEST Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Currently Enrolled
+Franklin 5585616 MA21230796 HFCH1H2513712 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Released
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/12/25 Movie w/Lydia Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/12/25 DBT 2 10:15-11:15 Participated
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Released
+Franklin 1005895 MA09428232 HFCH1H2513323 White Not Hispanic/Latino Sentenced 12/12/25 Read 2 Children Literacy Program D Released
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Movie D Released
+Franklin 5381028 MA21190710 HFCH1H2513699 White Not Hispanic/Latino Sentenced 12/12/25 Holiday Photos D Released
+Page 20 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Released
+Franklin 5633526 MA21267943 HFCH1H2513638 White Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Currently Enrolled
+Franklin 3097694 MA10432238 JFCH1J2412471 Black/African American Not Hispanic/Latino Pre-Trial 12/15/25 MassHire Career Center Event Currently Enrolled
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/15/25 DBT 6 1:30-2:30pm Released
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/15/25 SOC B Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Released
+Franklin 2522431 MA10186627 HFCH1H2513368 White Not Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Released
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 12/15/25 MassHire Career Center Event Released
+Franklin 3153031 MA21072430 HFCH1H2513866 White Not Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Currently Enrolled
+Franklin 3202683 MA10640038 JFCH1J2513810 White Hispanic/Latino Pre-Trial 12/15/25 Men's WRAP Participated
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 12/15/25 Educational Assessments C & D Participated
+Franklin 5670580 MA30020170 JFCH1J2513792 White Not Hispanic/Latino Pre-Trial 12/15/25 C Pod Ameelio Study Released
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Currently Enrolled
+Franklin 3202683 MA10640038 JFCH1J2513810 White Hispanic/Latino Pre-Trial 12/15/25 Reentry and Recovery Participated
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/15/25 Women's WRAP Released
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/15/25 MassHire Career Center Event Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Released
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Released
+Franklin 949807 MA09448342 HFCH1H2513307 White Not Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Released
+Franklin 2422370 MA09803829 HFCH1H2513154 White Not Hispanic/Latino Sentenced 12/15/25 MassHire Career Center Event Released
+Franklin 5468564 MA21267180 TMOT202500115 White Not Hispanic/Latino Pre-Trial 12/15/25 MassHire Career Center Event Released
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/16/25 B Pod Quarterly Celebration Released
+Franklin 5595802 HFCH1H2513852 White Not Hispanic/Latino Sentenced 12/16/25 D Pod Games Hour Currently Enrolled
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/17/25 DBT 2 10:15-11:15 Currently Enrolled
+Franklin 2876276 MA10168089 HFCH2H2513702 White Hispanic/Latino Sentenced 12/17/25 DBT 9 Participated
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/17/25 Resiliency & Recovery B Released
+Franklin 1005895 MA09428232 HFCH1H2513323 White Not Hispanic/Latino Sentenced 12/17/25 DBT 3 Participated
+Franklin 2620113 MA09999371 JFCH1J2513820 White Hispanic/Latino Pre-Trial 12/17/25 DBT 2 10:15-11:15 Participated
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 12/17/25 DBT 9 Participated
+Franklin 2439787 MA10177836 HFCH1H2513450 White Not Hispanic/Latino Sentenced 12/17/25 DBT 3 Participated
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/17/25 Resiliency & Recovery D Currently Enrolled
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino Sentenced 12/17/25 DBT 4 9-10am Participated
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 12/17/25 DBT 4 9-10am Participated
+Franklin 581620 MA00942043 TGRF202500171 White Not Hispanic/Latino Pre-Trial 12/17/25 DBT 4 9-10am Currently Enrolled
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 12/17/25 DBT 2 10:15-11:15 Participated
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 12/17/25 DBT 4 9-10am Participated
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/17/25 Resiliency & Recovery B Released
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 12/17/25 DBT 2 10:15-11:15 Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/17/25 DBT 9 Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/17/25 DBT 4 9-10am Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 12/17/25 DBT 2 10:15-11:15 Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 12/17/25 DBT 3 Participated
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/17/25 Resiliency & Recovery B Released
+Franklin 2987428 MA10385398 HFCH1H2513760 White Not Hispanic/Latino Sentenced 12/17/25 DBT 2 10:15-11:15 Released
+Franklin 1096431 HFCH1H2513811 Black/African American Not Hispanic/Latino Sentenced 12/17/25 DBT 9 Released
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/17/25 DBT 3 Participated
+Franklin 3200795 MA21036142 HFCH1H2513525 White Not Hispanic/Latino Sentenced 12/17/25 DBT 3 Participated
+Franklin 1925713 MA09802042 HFCH1H2513500 White Hispanic/Latino Sentenced 12/17/25 DBT 4 9-10am Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/17/25 DBT 3 Participated
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/17/25 DBT 2 10:15-11:15 Currently Enrolled
+Franklin 5680877 MA30000681 HFCH1H2513431 White Hispanic/Latino Sentenced 12/17/25 DBT 4 9-10am Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 12/17/25 DBT 9 Participated
+Franklin 3039899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino Sentenced 12/17/25 DBT 3 Participated
+Franklin 1984837 JFCH1J2513850 Black/African American Not Hispanic/Latino Pre-Trial 12/17/25 DBT 9 Participated
+Franklin 5389209 MA21084048 HFCH1H2513876 White Not Hispanic/Latino Sentenced 12/18/25 HiSet C Released
+Franklin 5389209 MA21084048 HFCH1H2513876 White Not Hispanic/Latino Sentenced 12/18/25 HiSet C Released
+Franklin 2864118 MA10582593 HFCH1H2513838 White Not Hispanic/Latino Sentenced 12/19/25 OSHA Study Hall D Participated
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino Sentenced 12/19/25 Ameelio D Pod Participated
+Franklin 2987428 MA10385398 HFCH1H2513760 White Not Hispanic/Latino Sentenced 12/19/25 Educational Assessments C & D Released
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 12/19/25 OSHA Study Hall D Released
+Franklin 1096431 HFCH1H2513811 Black/African American Not Hispanic/Latino Sentenced 12/19/25 Educational Assessments C & D Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/19/25 Ameelio D Pod Currently Enrolled
+Franklin 3215683 MA21122764 HFCH1H2513457 Black/African American Not Hispanic/Latino Sentenced 12/19/25 Educational Assessments C & D Currently Enrolled
+Franklin 5,060,533 MA21192550 HFCH2H2412697 White Not Hispanic/Latino Sentenced 12/19/25 OSHA Study Hall D Participated
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 12/19/25 OSHA Study Hall D Currently Enrolled
+Franklin 2373429 MA09728523 HFCH1H2513617 White Not Hispanic/Latino Sentenced 12/19/25 OSHA Study Hall D Currently Enrolled
+Franklin 5595802 HFCH1H2513852 White Not Hispanic/Latino Sentenced 12/19/25 OSHA Study Hall D Participated
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 12/19/25 Ameelio D Pod Released
+Franklin 5389209 MA21084048 HFCH1H2513876 White Not Hispanic/Latino Sentenced 12/19/25 HiSet C Released
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/19/25 Educational Assessments C & D Currently Enrolled
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 12/19/25 Ameelio D Pod Participated
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/19/25 Ameelio D Pod Currently Enrolled
+Franklin 2411756 HFCH1H2513779 White Hispanic/Latino Sentenced 12/19/25 Ameelio D Pod Participated
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/19/25 Educational Assessments C & D Currently Enrolled
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/19/25 OSHA Study Hall D Participated
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/19/25 Ameelio D Pod Currently Enrolled
+Page 21 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 12/19/25 Ameelio D Pod Participated
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 12/19/25 Ameelio D Pod Participated
+Franklin 5686158 MA30005323 HFCH1H2513521 White Not Hispanic/Latino Sentenced 12/19/25 Educational Assessments C & D Currently Enrolled
+Franklin 5595802 HFCH1H2513852 White Not Hispanic/Latino Sentenced 12/19/25 Educational Assessments C & D Currently Enrolled
+Franklin 5267190 MA10651530 HFCH1H2513722 White Not Hispanic/Latino Sentenced 12/19/25 Ameelio D Pod Participated
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/19/25 OSHA Study Hall D Participated
+Franklin 1487634 S16699013 JFCH1J2412000 White Not Hispanic/Latino Pre-Trial 12/22/25 OSHA Study Hall D Currently Enrolled
+Franklin 1988992 MA09318663 HFCH1H2513524 White Not Hispanic/Latino Sentenced 12/23/25 Holiday Movie PC Currently Enrolled
+Franklin 5518890 MA21274979 HFCH2H2513791 White Not Hispanic/Latino Sentenced 12/23/25 Holiday Movie PC Currently Enrolled
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 12/23/25 Beginner Guitar 2:45-4pm Currently Enrolled
+Franklin 3039899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino Sentenced 12/23/25 Resiliency & Recovery D Currently Enrolled
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/23/25 Resiliency & Recovery B Released
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/23/25 Resiliency & Recovery D Participated
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/23/25 Resiliency & Recovery D Currently Enrolled
+Franklin 5468564 MA21267180 HFCH2H2513881 White Not Hispanic/Latino Sentenced 12/23/25 Resiliency & Recovery B Currently Enrolled
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/23/25 Resiliency & Recovery D Currently Enrolled
+Franklin 2888780 MA10601175 TGRF202500260 Black/African American Hispanic/Latino Pre-Trial 12/23/25 Holiday Movie PC Currently Enrolled
+Franklin 402769 MA00686080 HFCH1H2513031 White Not Hispanic/Latino Sentenced 12/23/25 Holiday Movie PC Currently Enrolled
+Franklin 3039899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino Sentenced 12/23/25 Resiliency & Recovery D Currently Enrolled
+Franklin 5605919 TGRF202500400 Black/African American Not Hispanic/Latino Pre-Trial 12/23/25 Resiliency & Recovery B Released
+Franklin 5558783 MA21212544 White Not Hispanic/Latino Sentenced 12/23/25 Holiday Movie PC Released
+Franklin 1999740 JFCH1J2513422 White Not Hispanic/Latino Pre-Trial 12/23/25 Holiday Movie PC Currently Enrolled
+Franklin 2909874 MA10210790 JFCH1J2412721 White Not Hispanic/Latino Pre-Trial 12/23/25 Holiday Movie PC Currently Enrolled
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 12/23/25 Resiliency & Recovery D Released
+Franklin 5559474 MA21272520 JFCH1J2513827 White Not Hispanic/Latino Pre-Trial 12/23/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/23/25 Resiliency & Recovery D Released
+Franklin 5678718 MA21304666 TSB202500143 Black/African American Not Hispanic/Latino Pre-Trial 12/24/25 C Pod Ameelio Study Currently Enrolled
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 12/24/25 C Pod Ameelio Study Participated
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/24/25 Pre-Modern Philosophy Participated
+Franklin 5516957 MA21300698 JFCH1J2513548 White Not Hispanic/Latino Pre-Trial 12/24/25 Exercise Science & Nutrition Currently Enrolled
+Franklin 5595802 HFCH1H2513852 White Not Hispanic/Latino Sentenced 12/24/25 Exercise Science & Nutrition Participated
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 12/24/25 Exercise Science & Nutrition Currently Enrolled
+Franklin 455499 JFCH1J2513861 White Not Hispanic/Latino Pre-Trial 12/24/25 C Pod Ameelio Study Released
+Franklin 5637441 MA21271356 HFCH1H2513770 White Not Hispanic/Latino Sentenced 12/24/25 Pre-Modern Philosophy Participated
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 12/24/25 C Pod Ameelio Study Participated
+Franklin 3070463 MA10363884 JFCH1J2513061 White Hispanic/Latino Pre-Trial 12/24/25 C Pod Ameelio Study Currently Enrolled
+Franklin 5389209 MA21084048 HFCH1H2513876 White Not Hispanic/Latino Sentenced 12/24/25 C Pod Ameelio Study Released
+Franklin 5682004 MA30001704 TSB2202500104 White Not Hispanic/Latino Pre-Trial 12/24/25 C Pod Ameelio Study Released
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/24/25 Pre-Modern Philosophy Currently Enrolled
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/24/25 Pre-Modern Philosophy Currently Enrolled
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 12/24/25 B Pod Study Hall Participated
+Franklin 3200795 MA21036142 HFCH1H2513525 White Not Hispanic/Latino Sentenced 12/24/25 Pre-Modern Philosophy Currently Enrolled
+Franklin 927171 MA00001232 HFCH1H2405889 White Not Hispanic/Latino Sentenced 12/24/25 Pre-Modern Philosophy Participated
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 12/24/25 Exercise Science & Nutrition Participated
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 12/24/25 C Pod Ameelio Study Currently Enrolled
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 12/24/25 C Pod Ameelio Study Currently Enrolled
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 12/24/25 C Pod Ameelio Study Participated
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 12/24/25 B Pod Study Hall Released
+Franklin 5637441 MA21271356 HFCH1H2513770 White Not Hispanic/Latino Sentenced 12/24/25 Exercise Science & Nutrition Participated
+Franklin 2422370 MA09803829 HFCH1H2513154 White Not Hispanic/Latino Sentenced 12/24/25 B Pod Study Hall Released
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/26/25 HiSet B Released
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/29/25 Beginner Guitar 2:45-4pm Participated
+Franklin 5468564 MA21267180 HFCH2H2513881 White Not Hispanic/Latino Sentenced 12/29/25 HiSet B Currently Enrolled
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 12/29/25 History of Incarceration Participated
+Franklin 5247611 MA21011113 HFCH1H2513371 Black/African American Not Hispanic/Latino Sentenced 12/29/25 HiSet C Participated
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 12/29/25 History of Incarceration B Participated
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 12/29/25 DBT U24 Currently Enrolled
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 12/29/25 Beginner Guitar 2:45-4pm Participated
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 12/29/25 History of Incarceration Currently Enrolled
+Franklin 2957376 MA10317048 White Hispanic/Latino Pre-Trial 12/29/25 DBT Advanced 1145-1245 Currently Enrolled
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/29/25 HiSet B Released
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/29/25 B Pod Study Hall Released
+Franklin 1096431 HFCH1H2513811 Black/African American Not Hispanic/Latino Sentenced 12/29/25 HiSet D Participated
+Franklin 5455446 HFCH1H2513816 White Not Hispanic/Latino Sentenced 12/29/25 SOC D Participated
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 HiSet B Currently Enrolled
+Franklin 3153031 MA21072430 HFCH1H2513866 White Not Hispanic/Latino Sentenced 12/29/25 History of Incarceration B Participated
+Franklin 5371202 MA21234429 TGRF202400465 White Not Hispanic/Latino Pre-Trial 12/29/25 DBT U24 Currently Enrolled
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/29/25 Beginner Guitar 2:45-4pm Currently Enrolled
+Franklin 1776139 MA10533313 HFCH1H2513755 White Not Hispanic/Latino Sentenced 12/29/25 SOC D Participated
+Franklin 5301949 MA21141311 HFCH1H2513750 White Not Hispanic/Latino Sentenced 12/29/25 HiSet D Currently Enrolled
+Franklin 2952404 MA10555028 HFCH1H2412645 White Not Hispanic/Latino Sentenced 12/29/25 DBT Advanced 1145-1245 Currently Enrolled
+Franklin 5516957 MA21300698 JFCH1J2513548 White Not Hispanic/Latino Pre-Trial 12/29/25 Ameelio D Pod Participated
+Franklin 5516957 MA21300698 JFCH1J2513548 White Not Hispanic/Latino Pre-Trial 12/29/25 DBT U24 Currently Enrolled
+Franklin 5516957 MA21300698 JFCH1J2513548 White Not Hispanic/Latino Pre-Trial 12/29/25 HiSet D Currently Enrolled
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/29/25 Women's Heart Rhythm Meditation Currently Enrolled
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/29/25 Women's Strength Training Participated
+Page 22 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 2373429 MA09728523 HFCH1H2513617 White Not Hispanic/Latino Sentenced 12/29/25 DBT 3 Participated
+Franklin 5595802 HFCH1H2513852 White Not Hispanic/Latino Sentenced 12/29/25 Beginner Guitar 2:45-4pm Participated
+Franklin 3097694 MA10432238 JFCH1J2412471 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 History of Incarceration B Currently Enrolled
+Franklin 5561736 MA21294372 HFCH1H2412521 White Not Hispanic/Latino Sentenced 12/29/25 DBT Advanced 1145-1245 Currently Enrolled
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 12/29/25 Beginner Guitar 2:45-4pm Participated
+Franklin 2987428 MA10385398 HFCH1H2513760 White Not Hispanic/Latino Sentenced 12/29/25 Men's WRAP Participated
+Franklin 2473813 MA09823701 HFCH1H2513796 White Hispanic/Latino Sentenced 12/29/25 SOC D Participated
+Franklin 2921071 MA10312545 HFCH1H2513859 White Not Hispanic/Latino Sentenced 12/29/25 DBT 4 9-10am Participated
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/29/25 B Pod Study Hall Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/29/25 HiSet B Released
+Franklin 5064113 MA21106765 HFCH1H2613775 White Not Hispanic/Latino Sentenced 12/29/25 History of Incarceration Participated
+Franklin 1096431 HFCH1H2513811 Black/African American Not Hispanic/Latino Sentenced 12/29/25 SOC D Participated
+Franklin 5389209 MA21084048 HFCH1H2513876 White Not Hispanic/Latino Sentenced 12/29/25 HiSet C Released
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 12/29/25 History of Incarceration B Released
+Franklin 2674489 MA21104839 TSB2202500501 White Not Hispanic/Latino Pre-Trial 12/29/25 Women's Strength Training Released
+Franklin 2674489 MA21104839 TSB2202500501 White Not Hispanic/Latino Pre-Trial 12/29/25 Women's Strength Training Released
+Franklin 2674489 MA21104839 TSB2202500501 White Not Hispanic/Latino Pre-Trial 12/29/25 History of Incarceration B Released
+Franklin 5637441 MA21271356 HFCH1H2513770 White Not Hispanic/Latino Sentenced 12/29/25 History of Incarceration Participated
+Franklin 5389188 MA21084264 HFCH1H2513295 White Not Hispanic/Latino Sentenced 12/29/25 Heart Rhythm Meditation Currently Enrolled
+Franklin 5060533 MA21192550 HFCH2H2412697 White Not Hispanic/Latino Sentenced 12/29/25 DBT Advanced 1145-1245 Currently Enrolled
+Franklin 1487634 S16699013 JFCH1J2412000 White Not Hispanic/Latino Pre-Trial 12/29/25 DBT Advanced 1145-1245 Currently Enrolled
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/29/25 Men's WRAP Participated
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/29/25 SOC D Participated
+Franklin 2876897 MA10237903 HFCH1H2513656 White Not Hispanic/Latino Sentenced 12/29/25 HiSet D Participated
+Franklin 2682098 MA10029075 HFCH1H2513860 White Not Hispanic/Latino Sentenced 12/29/25 Intro to DBT Participated
+Franklin 5633252 MA21267814 JFCH1J2513797 White Unavailable Pre-Trial 12/29/25 DBT U24 Released
+Franklin 5544938 MA21201373 JFCH1J2513873 White Not Hispanic/Latino Pre-Trial 12/29/25 DBT U24 Released
+Franklin 2771916 MA10244102 White Not Hispanic/Latino Sentenced 12/29/25 DBT 3 Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/29/25 Women's Strength Training Released
+Franklin 5550572 MA21265155 HFCH1H2513657 White Not Hispanic/Latino Sentenced 12/29/25 B Pod Study Hall Released
+Franklin 5389209 MA21084048 HFCH1H2513876 White Not Hispanic/Latino Sentenced 12/29/25 HiSet C Released
+Franklin 5468564 MA21267180 HFCH2H2513881 White Not Hispanic/Latino Sentenced 12/29/25 HiSet B Currently Enrolled
+Franklin 5468564 MA21267180 HFCH2H2513881 White Not Hispanic/Latino Sentenced 12/29/25 History of Incarceration B Currently Enrolled
+Franklin 1999740 JFCH1J2513422 White Not Hispanic/Latino Pre-Trial 12/29/25 PC ABE Currently Enrolled
+Franklin 2417657 MA09755359 HFCH2H2513137 White Hispanic/Latino Sentenced 12/29/25 DBT 4 9-10am Currently Enrolled
+Franklin 3153031 MA21072430 HFCH1H2513866 White Not Hispanic/Latino Sentenced 12/29/25 B Pod Study Hall Currently Enrolled
+Franklin 1995541 MA21268434 HFCH1H2513856 Asian/Pacific Islander Not Hispanic/Latino Sentenced 12/29/25 Heart Rhythm Meditation Currently Enrolled
+Franklin 927171 MA00001232 HFCH1H2405889 White Not Hispanic/Latino Sentenced 12/29/25 DBT Advanced 1145-1245 Currently Enrolled
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 DBT Advanced 1145-1245 Currently Enrolled
+Franklin 2670340 MA10057113 TGRF202400023 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 History of Incarceration Currently Enrolled
+Franklin 1918606 MA10650339 HFCH2H2512878 White Not Hispanic/Latino Sentenced 12/29/25 Beginner Guitar 2:45-4pm Participated
+Franklin 3202683 MA10640038 JFCH1J2513810 White Hispanic/Latino Pre-Trial 12/29/25 DBT 5 Participated
+Franklin 5357937 MA21063878 HFCH1H2412039 White Not Hispanic/Latino Sentenced 12/29/25 DBT 9 Participated
+Franklin 402769 MA00686080 HFCH1H2513031 White Not Hispanic/Latino Sentenced 12/29/25 PC ABE Currently Enrolled
+Franklin 5356892 MA21062750 TSB2202500200 White Hispanic/Latino Pre-Trial 12/29/25 DBT U24 Currently Enrolled
+Franklin 3039899 MA10346292 HFCH1H2513801 White Not Hispanic/Latino Sentenced 12/29/25 SOC D Participated
+Franklin 5595802 HFCH1H2513852 White Not Hispanic/Latino Sentenced 12/29/25 DBT U24 Participated
+Franklin 5678718 MA21304666 TSB202500143 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 History of Incarceration Currently Enrolled
+Franklin 3142054 MA10475065 JFCH1J2411433 White Hispanic/Latino Pre-Trial 12/29/25 History of Incarceration Participated
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 12/29/25 History of Incarceration Currently Enrolled
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/29/25 HiSet B Released
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/29/25 Women's Strength Training Released
+Franklin 2987428 MA10385398 HFCH1H2513760 White Not Hispanic/Latino Sentenced 12/29/25 SOC D Participated
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 12/29/25 History of Incarceration B Released
+Franklin 5637441 MA21271356 HFCH1H2513770 White Not Hispanic/Latino Sentenced 12/29/25 DBT 3 Participated
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/30/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/30/25 HiSet B Released
+Franklin 2674489 MA21104839 TSB2202500501 White Not Hispanic/Latino Pre-Trial 12/30/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 2674489 MA21104839 TSB2202500501 White Not Hispanic/Latino Pre-Trial 12/30/25 DBT 6 1:30-2:30pm Released
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/30/25 SOC B Participated
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/30/25 DBT 6 1:30-2:30pm Participated
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/30/25 HiSet B Released
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/30/25 SOC B Released
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/30/25 DBT 6 1:30-2:30pm Released
+Franklin 2674489 MA21104839 TSB2202500501 White Not Hispanic/Latino Pre-Trial 12/30/25 SOC B Released
+Franklin 2403633 MA21181460 JFCH1J2513880 White Not Hispanic/Latino Pre-Trial 12/31/25 SOC B Participated
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Art Participated
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Healing Trauma 11:45-12:45 Currently Enrolled
+Franklin 1999740 JFCH1J2513422 White Not Hispanic/Latino Pre-Trial 12/31/25 DBT PC Currently Enrolled
+Franklin 3153031 MA21072430 HFCH1H2513866 White Not Hispanic/Latino Sentenced 12/31/25 DBT 7 9-10AM Participated
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/31/25 DBT 7 9-10AM Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/31/25 DBT 7 9-10AM Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 12/31/25 T4C B Released
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 12/31/25 DBT 8 B pod Participated
+Franklin 1005895 MA09428232 HFCH1H2513323 White Not Hispanic/Latino Sentenced 12/31/25 Beginner Guitar 2:45-4pm Released
+Page 23 of 24
+
+PROGRAMMING
+SHERIFF'S ADMIT PROGRAM
+PCF SID OBTN RACE ETHNICITY PROGRAM NAME PARTICIPANT STATUS
+OFFICE TYPE REGISTERED DATE
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Art Participated
+Franklin 2619959 MA10097223 TGRF202500440 White Not Hispanic/Latino Pre-Trial 12/31/25 SOC B Released
+Franklin 1988992 MA09318663 HFCH1H2513524 White Not Hispanic/Latino Sentenced 12/31/25 DBT PC Currently Enrolled
+Franklin 5468564 MA21267180 HFCH2H2513881 White Not Hispanic/Latino Sentenced 12/31/25 DBT 8 B pod Currently Enrolled
+Franklin 2403633 MA21181460 JFCH1J2513880 White Not Hispanic/Latino Pre-Trial 12/31/25 Women's WRAP Participated
+Franklin 5175043 MA21077093 HFCH1H2513823 White Not Hispanic/Latino Sentenced 12/31/25 Resiliency & Recovery D Currently Enrolled
+Franklin 2236413 HFCH2H2513896 Black/African American Hispanic/Latino Sentenced 12/31/25 SOC D Participated
+Franklin 29800842 MA21281991 JFCH1J2513476 White Not Hispanic/Latino Pre-Trial 12/31/25 T4C B Currently Enrolled
+Franklin 29800842 MA21281991 JFCH1J2513476 White Not Hispanic/Latino Pre-Trial 12/31/25 DBT 8 B pod Currently Enrolled
+Franklin 3043065 MA21159985 HFCH1H2513897 White Not Hispanic/Latino Sentenced 12/31/25 SOC D Participated
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Art Participated
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Healing Trauma 11:45-12:45 Participated
+Franklin 2696277 MA10062249 JFCH1J2513874 White Hispanic/Latino Pre-Trial 12/31/25 Men's WRAP Currently Enrolled
+Franklin 2696277 MA10062249 JFCH1J2513874 White Hispanic/Latino Pre-Trial 12/31/25 DBT 5 Participated
+Franklin 2980211 MA10255236 TGRF202500405 White Not Hispanic/Latino Pre-Trial 12/31/25 DBT 5 Currently Enrolled
+Franklin 2980211 MA10255236 TGRF202500405 White Not Hispanic/Latino Pre-Trial 12/31/25 Reentry and Recovery Currently Enrolled
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Art Released
+Franklin 1192635 MA10330063 JFCH1J2513857 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 3003045 MA10408205 HFCH1H2513822 White Not Hispanic/Latino Sentenced 12/31/25 DBT 5 Released
+Franklin 5558077 HFCH1H2513733 White Not Hispanic/Latino Sentenced 12/31/25 DBT 5 Released
+Franklin 428170 MA00953978 JFCH2J2513425 White Not Hispanic/Latino Pre-Trial 12/31/25 DBT 5 Released
+Franklin 5667268 TSB2202500519 White Not Hispanic/Latino Pre-Trial 12/31/25 DBT 6 1:30-2:30pm Released
+Franklin 5667268 TSB2202500519 White Not Hispanic/Latino Pre-Trial 12/31/25 SOC B Released
+Franklin 2422370 MA09803829 HFCH1H2513154 White Not Hispanic/Latino Sentenced 12/31/25 DBT 7 9-10AM Released
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Healing Trauma 11:45-12:45 Participated
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 12/31/25 DBT 7 9-10AM Released
+Franklin 2619959 MA10097223 TGRF202500440 White Not Hispanic/Latino Pre-Trial 12/31/25 DBT 6 1:30-2:30pm Participated
+Franklin 2619959 MA10097223 TGRF202500440 White Not Hispanic/Latino Pre-Trial 12/31/25 Women's WRAP Released
+Franklin 5468564 MA21267180 HFCH2H2513881 White Not Hispanic/Latino Sentenced 12/31/25 T4C B Participated
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 12/31/25 DBT 8 B pod Currently Enrolled
+Franklin 5500971 MA21267799 HFCH2H2513706 White Not Hispanic/Latino Sentenced 12/31/25 DBT 5 Currently Enrolled
+Franklin 2888780 MA10601175 TGRF202500260 Black/African American Hispanic/Latino Pre-Trial 12/31/25 DBT PC Participated
+Franklin 927171 MA00001232 HFCH1H2405889 White Not Hispanic/Latino Sentenced 12/31/25 Advanced Guitar Currently Enrolled
+Franklin 3043065 MA21159985 HFCH1H2513897 White Not Hispanic/Latino Sentenced 12/31/25 Men's WRAP Participated
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/31/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/31/25 Salasin Art Released
+Franklin 5502994 MA0060088 HFCH1H2513841 White Hispanic/Latino Sentenced 12/31/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 12/31/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 12/31/25 T4C B Released
+Franklin 2619959 MA10097223 TGRF202500440 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 2403633 MA21181460 JFCH1J2513880 White Not Hispanic/Latino Pre-Trial 12/31/25 DBT 6 1:30-2:30pm Participated
+Franklin 5149460 MA21254224 JFCH1J2513197 Black/African American Not Hispanic/Latino Pre-Trial 12/31/25 T4C B Participated
+Franklin 2417657 MA09755359 HFCH2H2513137 White Hispanic/Latino Sentenced 12/31/25 Ameelio D Pod Currently Enrolled
+Franklin 2417657 MA09755359 HFCH2H2513137 White Hispanic/Latino Sentenced 12/31/25 Exercise Science & Nutrition Currently Enrolled
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 12/31/25 Salasin Nurturing Fam 11:45-12:45pm Currently Enrolled
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 12/31/25 DBT 8 B pod Currently Enrolled
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 12/31/25 Salasin Art Participated
+Franklin 5446804 MA21134387 HFCH1H2513723 White Not Hispanic/Latino Sentenced 12/31/25 T4C B Currently Enrolled
+Franklin 5175043 MA21077093 HFCH1H2513823 White Not Hispanic/Latino Sentenced 12/31/25 Introduction to Guitar Participated
+Franklin 3153031 MA21072430 HFCH1H2513866 White Not Hispanic/Latino Sentenced 12/31/25 T4C B Participated
+Franklin 2236413 HFCH2H2513896 Black/African American Hispanic/Latino Sentenced 12/31/25 Men's WRAP Participated
+Franklin 5149113 MA10552872 JFCH1J2513133 White Not Hispanic/Latino Pre-Trial 12/31/25 Advanced Guitar Currently Enrolled
+Franklin 3066678 MA10401047 JFCH006509730 Black/African American Not Hispanic/Latino Pre-Trial 12/31/25 DBT 5 Participated
+Franklin 5518890 MA21274979 HFCH2H2513791 White Not Hispanic/Latino Sentenced 12/31/25 DBT PC Currently Enrolled
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Nurturing Fam 11:45-12:45pm Participated
+Franklin 900401 JFCH1J2513814 White Not Hispanic/Latino Pre-Trial 12/31/25 DBT 7 9-10AM Currently Enrolled
+Franklin 2634551 MA10053718 TGRF202500296 White Hispanic/Latino Pre-Trial 12/31/25 DBT 5 Currently Enrolled
+Franklin 2696277 MA10062249 JFCH1J2513874 White Hispanic/Latino Pre-Trial 12/31/25 Reentry and Recovery Currently Enrolled
+Franklin 3097694 MA10432238 JFCH1J2412471 Black/African American Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Nurturing Fam 11:45-12:45pm Currently Enrolled
+Franklin 3097694 MA10432238 JFCH1J2412471 Black/African American Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Healing Trauma 11:45-12:45 Currently Enrolled
+Franklin 3097694 MA10432238 JFCH1J2412471 Black/African American Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Art Participated
+Franklin 2629772 MA10068708 JFCH1J2513613 Black/African American Not Hispanic/Latino Pre-Trial 12/31/25 DBT 5 Currently Enrolled
+Franklin 5319074 MA21300953 JFCH1J2513882 White Not Hispanic/Latino Pre-Trial 12/31/25 Women's WRAP Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/31/25 Salasin Nurturing Fam 11:45-12:45pm Released
+Franklin 5574712 MA21223417 HFCH1H2513837 White Not Hispanic/Latino Sentenced 12/31/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 12/31/25 Salasin Art Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 12/31/25 DBT 7 9-10AM Released
+Franklin 3145248 MA10521139 HFCH1H2513803 White Not Hispanic/Latino Sentenced 12/31/25 Salasin Healing Trauma 11:45-12:45 Released
+Franklin 2872633 HFCH1H2513776 White Not Hispanic/Latino Sentenced 12/31/25 T4C B Released
+Franklin 2674489 MA21104839 TSB2202500501 White Not Hispanic/Latino Pre-Trial 12/31/25 Women's WRAP Released
+Franklin 5667268 TSB2202500519 White Not Hispanic/Latino Pre-Trial 12/31/25 Women's WRAP Released
+Franklin 5158080 MA10535918 JFCH1J2513576 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Nurturing Fam 11:45-12:45pm Participated
+Franklin 2619959 MA10097223 TGRF202500440 White Not Hispanic/Latino Pre-Trial 12/31/25 Salasin Healing Trauma 11:45-12:45 Released
+Page 24 of 24

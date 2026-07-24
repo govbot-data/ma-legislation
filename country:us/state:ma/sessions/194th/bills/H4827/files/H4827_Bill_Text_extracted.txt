@@ -1,0 +1,1021 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COMMONWEALTH OF MASSACHUSETTS
+EXECUTIVE OFFICE OF
+ENERGY AND ENVIRONMENTAL AFFAIRS
+DEPARTMENT OF ENERGY RESOURCES
+100 CAMBRIDGE ST., 9th FLOOR
+BOSTON, MA 02114
+Telephone: 617-626-7300
+Maura T. Healey Rebecca L. Tepper
+Governor Secretary
+Kimberley Driscoll Elizabeth Mahony
+Lt. Governor Commissioner
+VIA EMAIL
+December 5, 2025
+TO: Clerk of the House of Representatives
+CC: Chairs of the Joint Committee on Telecommunications, Utilities, and Energy
+RE: Submission of Regulation Small Clean Energy Infrastructure Facility Siting and Permitting
+(225 CMR 29.00)
+Dear Clerk:
+Pursuant to M.G.L. Chapter 25A, Section 12 (Section 12), please find enclosed:
+ 225 CMR 29.00 - SMALL CLEAN ENERGY INFRASTRUCTURE FACILITY
+SITING AND PERMITTING;
+ Summary of the proposed regulation in layman's terms.
+In the development of 225 CMR 29.00, the pertinent provisions of Chapter 30A, except section
+five, have been complied with.
+In addition to the requirements of Section 12, the Department of Energy Resources has made
+additional information available to the public regarding these proposed regulations. That
+information is accessible through the Department’s website:
+https://www.mass.gov/info-details/clean-energy-siting-permitting-regulations
+Please direct questions and comments on these proposed regulations to:
+Maliha Khan
+Government Affairs Manager
+Legislative Director
+857-286-0690
+1 of 24
+
+maliha.khan@mass.gov
+Sincerely,
+Elizabeth Mahony
+Commissioner, Department of Energy Resources
+Enclosures
+2 of 24
+
+Layman’s Summary of Proposed 225 CMR 29.00.
+In November 2024, Governor Maura Healey signed into law An Act promoting a clean energy
+grid, advancing equity and protecting ratepayers (“2024 Climate Act”), which streamlined the
+siting and permitting process for clean energy infrastructure. The current siting and permitting
+process for small energy infrastructure is a key barrier to the development of clean energy and
+the Commonwealth’s ability to achieve our mandated reduction in greenhouse gas emissions by
+2050. The law calls for the Department of Energy Resources (the “Department”) to create an
+optional streamlined local permitting process for small clean energy facilities that caps the
+permitting timeline at 12 months, and establishes a single appeals process, while also enhancing
+community input and supporting equitable project review.
+By setting forth new regulations and guidance for small clean energy infrastructure projects, the
+Department seeks to provide a more efficient and consistent permitting pathway that will
+facilitate and expedite the development of necessary clean energy infrastructure, while respecting
+the historic autonomy of cities and towns.
+225 CMR 29.00 establishes the processes that local governments will utilize to issue one
+consolidated permit for a small clean energy facility that encompasses all decisions from local
+boards, commissions, and relevant decision makers within twelve 12 months of the application’s
+submission. The regulation is intended to provide consistency and reduce administrative delay in
+the siting and permitting of small clean energy facilities while protecting public health, safety,
+and the environment. Key provisions of 225 CMR 29.00 include:
+(1) The application of the site suitability methodology that is developed by the Executive
+Office of Energy and Environmental Affairs to the local siting and permitting process.
+That methodology encourages energy infrastructure development in desirable areas,
+including in the existing built environment, on previously developed, impacted, or
+otherwise lower conservation value lands. This additionally includes steps the Applicant
+must take to minimize or mitigate environmental impacts;
+(2) Pre-filing requirements that establish the outreach steps the Applicant needs to undertake
+with stakeholders ahead of formally filing its project application. These pre-filing
+requirements include meeting with local officials to ensure design and permitting
+accuracy and hosting at least one collaborative meeting with stakeholders, as well as
+other outreach efforts;
+(3) An application process created by the Department that will be used by project proponents
+to apply for a single local siting permit;
+(4) The review process for an application by a Local Government, including how Local
+Governments can determine if an application is complete;
+(5) A framework and guidance for the common conditions and requirements for projects
+eligible for constructive approval as a result of a Local Government’s failure to issue a
+decision on the application within twelve 12 months;
+3 of 24
+
+(6) A framework and guidance for the baseline public health, safety, and environmental
+standards to guide project design and operation;
+(7) The technical assistance the Department may provide to Local Governments and
+Applicants during the application review process;
+(8) The process for filing a petition for De Novo Adjudication of a decision on the
+application with the Energy Facilities Siting Board; and
+(9) Guidance for a Clean Energy Infrastructure Permitting bylaw or ordinance Local
+Governments may adopt.
+4 of 24
+
+HOUSE DOCKET, NO. 5408 FILED ON: 12/8/2025
+HOUSE . . . . . . . . . . . . . . . No. 4827
+Communication from the Department of Energy Resources of the Executive Office of Energy
+and Environmental Affairs (under the provisions of section 12 of Chapter 25A of the General
+Laws) submitting proposed amendments to regulations 225 CMR 29.00 – governing small clean
+energy infrastructure facility siting and permitting. Telecommunications, Utilities and Energy.
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+1 225 CMR: DEPARTMENT OF ENERGY RESOURCES
+2
+3 225 CMR 29.00: SMALL CLEAN ENERGY INFRASTRUCTURE FACILITY SITING
+4 AND PERMITTING
+5
+6 Section
+7
+8 29.01: Purpose
+9 29.02: Definitions
+10 29.03: Administration
+11 29.04: Applicability
+12 29.05: Concurrency and Transition Periods
+13 29.06: Public Health, Safety, and Environmental Standards
+14 29.07: Site Suitability
+15 29.08: Pre-Filing Requirements
+16 29.09: Consolidated Local Permit Application
+17 29.10: Consolidated Local Permit Application Review Process
+18 29.11: Technical Assistance
+19 29.12: Common Conditions and Requirements for Constructive Approval
+20 29.13: Model Small Clean Energy Infrastructure Facility Permitting Bylaw
+21 29.14: Successors in Interest
+22 29.15: Reporting
+23 29.16: Severability
+24
+25 29.01: Purpose
+26
+27 The purpose of 225 CMR 29.00 is to establish standard conditions, criteria, requirements,
+28 and procedures for the efficient and appropriate siting and permitting of Small Clean
+29 Energy Infrastructure Facilities by Local Governments.
+30
+5 of 24
+
+31 29.02: Definitions
+32
+33 Abutter. An owner of land that shares a common boundary or corner with the parcel of
+34 land on which a Small Clean Energy Infrastructure Facility is sited or proposed to be
+35 sited, including land located directly across a street, road or way. A street, road or way is
+36 not an Abutter. Any owner of land whose property line is within 300 feet of a Small
+37 Clean Energy Infrastructure Facility’s Site Footprint shall be considered an Abutter.
+38
+39 Accessory-use. A use or structure subordinate to a permitted or conditional use or
+40 structure and customarily incidental to the permitted or conditional use of the structure
+41
+42 Anaerobic Digestion Facility. A facility that: (i) generates electricity from a biogas
+43 produced by the accelerated biodegradation of organic materials under controlled
+44 anaerobic conditions; and (ii) has been determined by the Department, in coordination with
+45 the Department of Environmental Protection, to qualify under Department regulations as a
+46 Class I renewable energy generating source under M.G.L. c. 25A, § 11F.
+47
+48 Applicant. A Person or group of Persons who submits a Consolidated Local Permit
+49 Application for a Small Clean Energy Infrastructure Facility to a Local Government under
+50 225 CMR 29.00.
+51
+52 Avoidance. Measures taken intended to prevent negative impacts on values such as climate
+53 change resiliency, carbon sequestration and storage, biodiversity, agricultural resources,
+54 social and environmental burdens, and recreation.
+55
+56 Behind-the-Meter Small Clean Energy Infrastructure Facility. A Small Clean Energy
+57 Generation Facility or Small Clean Energy Storage Facility that serves On-site Load other
+58 than parasitic or station load utilized to operate the Small Clean Energy Generation Facility
+59 or Small Clean Energy Storage Facility.
+60
+61 Board. The Energy Facilities Siting Board established by M.G.L. c. 164, § 69H.
+62
+63 Chief Administrative Officer. When used in connection with the operation of municipal
+64 governments, shall include the mayor of a city and the board of selectmen in a town unless
+65 some other local office is designated to be the chief administrative officer under the
+66 provisions of a local charter.
+67
+68 Community Benefits Agreement. A legally binding, negotiated agreement between a
+69 project applicant and a community, often represented by a coalition of community groups
+70 or a local government body, which outlines benefits the communities will receive and is
+71 prepared in accordance with the standards and guidelines developed by the Office of
+72 Environmental Justice and Equity, pursuant to M.G.L. c. 21A, § 29.
+73
+74 Community Benefits Plan. A non-legally binding document that outlines how a project will
+75 engage with and benefit local communities during development and operation of a Small
+76 Clean Energy Infrastructure Facility and is developed in accordance with the standards and
+6 of 24
+
+77 guidance developed by the Office of Environmental Justice and Equity, pursuant to M.G.L.
+78 c. 21A, § 29.
+79
+80 Consolidated Local Permit. A permit issued by a Local Government for a Small Clean
+81 Energy Infrastructure Facility that includes all necessary local permits, approvals, or
+82 authorizations to construct and operate a Small Clean Energy Infrastructure Facility that
+83 the Applicant would otherwise need to obtain individually from the Local Government,
+84 with the exception of ministerial permits, including, but not limited to, a street opening
+85 permit or electrical permit.
+86
+87 Consolidated Local Permit Application. A single comprehensive application used by
+88 Applicants to apply for a Consolidated Local Permit for a Small Clean Energy
+89 Infrastructure Facility.
+90
+91 Conservation Commission. A body comprised of members lawfully appointed pursuant to
+92 M.G.L. c.40, § 8C. For the purposes of M.G.L. c. 131, § 40 and 310 CMR 10.00: Wetlands
+93 Protection Act, it shall also mean a mayor or board of selectmen, where no Conservation
+94 Commission has been established under M.G.L. c. 40, § 8C.
+95
+96 Constructive Approval. The granting of a Consolidated Local Permit based on the non-
+97 issuance of a decision on a Consolidated Local Permit Application by a Local Government
+98 within 12 months of receipt of a complete Consolidated Local Permit Application.
+99
+100 Criteria-specific Suitability Scores. The scores for each criterion examined in the Site
+101 Suitability Guidance, as assessed following the methods outlined in the Site Suitability
+102 Guidance, which represent the suitability of a site for a given Small Clean Energy
+103 Infrastructure Facility.
+104
+105 Department. The Massachusetts Department of Energy Resources, established by M.G.L.
+106 c. 25A.
+107
+108 De Novo Adjudication. An adjudicatory proceeding where the director of the Board will
+109 consider a Consolidated Local Permit Application based on evidence submitted in the
+110 proceeding that shall include but is not limited to the information submitted to the Local
+111 Government as part of the application for a proposed Small Clean Energy Infrastructure
+112 Facility.
+113
+114 Emergency Response Plan. A plan created by the Applicant in consultation with the
+115 Local Government’s fire, police, and emergency management departments outlining the
+116 guidelines and procedures to be taken in response to emergencies.
+117
+118 Guideline. A set of clarifications, interpretations, and procedures, including forms,
+119 developed by the Department to assist in compliance with the requirements of 225 CMR
+120 29.00. The Department may issue a new or revised Guideline after providing notice and a
+121 minimum of a 21-day public comment period on a draft version. Each Guideline shall be
+7 of 24
+
+122 effective on its date of issuance or on such date as is specified therein, except as
+123 otherwise provided in 225 CMR 29.00.
+124
+125 Host Municipality. The Municipality or Municipalities in which a Site Footprint is
+126 located.
+127
+128 Individual Application Components. The materials, disclosures, descriptions, and all
+129 other documents an Applicant is required to submit under 225 CMR 29.09(2).
+130
+131 Investment Tax Credits (ITC). A federal tax credit offered pursuant to § 48 of the Internal
+132 Revenue Code.
+133
+134 Local Government. A municipality or regional agency, including, but not limited to, the
+135 Cape Cod Commission, established by chapter 716 of the acts of 1989, and the Martha’s
+136 Vineyard Commission, established by chapter 831 of the acts of 1977, that has permitting
+137 authority over Small Clean Energy Infrastructure Facilities.
+138
+139 Local Government Representative. For the purposes of 225 CMR 29.00, the Chief
+140 Administrative Officer of the Local Government, or their designee(s).
+141
+142 Local Stakeholders. Abutters, community-based organizations, public interest groups,
+143 local burdened areas, and federally recognized, state-acknowledged, or state-recognized
+144 tribes identified in a stakeholder reference form provided by the Department, elected or
+145 appointed municipal officials (e.g., mayor or town/city manager, relevant Council/Select
+146 Board members, Chair(s) of the Conservation Commission, Planning Board, Zoning
+147 Board, Board of Health, Fire Chief, and Head of the Department of Public Works), and
+148 regional planning officials.
+149
+150 MassDEP. The Massachusetts Department of Environmental Protection established by
+151 M.G.L. c 23J, § 2.
+152
+153 Minimization. Measures taken to reduce the duration, intensity, and extent of impacts,
+154 including direct, indirect, and cumulative impacts, that cannot be completely avoided, to
+155 the extent practicable.
+156
+157 Mitigation. Measures taken which include, but are not limited to, the repair, rehabilitation,
+158 or restoration of an area affected by an adverse impact of siting.
+159
+160 Municipality. A political subdivision that operates under state law, typically classified as
+161 either a city or a town.
+162
+163 On-site Load. Any new or existing electric load located at the site of a Small Clean Energy
+164 Infrastructure Facility, including any parasitic load that may result from the installation of
+165 the Small Clean Energy Infrastructure Facility, and that is wired to receive a portion of the
+166 electrical energy output from the Small Clean Energy Infrastructure Facility before the
+8 of 24
+
+167 balance of such output passes through the Small Clean Energy Infrastructure Facility’s
+168 metered interconnection onto the electric grid.
+169
+170 Person. A natural person, partnership, corporation, association, society, authority, agency,
+171 department, or division of the Commonwealth, or any body politic or political subdivision
+172 of the Commonwealth including municipal corporations.
+173
+174 Pre-filing Engagement Completion Checklist. The updated self-certification document
+175 reflecting the completed pre-filing consultation and engagement requirements identified in
+176 225 CMR 29.08.
+177
+178 Public Right of Way. Any way laid out by public authority that permits public access or
+179 that is established on public property and which may or may not already house utility
+180 infrastructure.
+181
+182 Significant Change. A material alteration of the Applicant’s Consolidated Local Permit
+183 Application that has arisen after the Local Government Representative deemed the
+184 Consolidated Local Permit Application complete.
+185
+186 Site Footprint. The area of land and water encompassed by a Small Clean Energy
+187 Infrastructure Facility’s equipment, plus any land significantly impacted by construction
+188 of the Small Clean Energy Infrastructure Facility, including, but not limited to, land altered
+189 of its natural vegetative composition and structure for clearing, grading, and roadways.
+190
+191 Site Suitability Guidance. Guidance and criteria for the assessment of the suitability of the
+192 proposed siting of a Small Clean Energy Infrastructure Facility, as established by the
+193 Executive Office of Energy and Environmental Affairs, pursuant to M.G.L. c. 21A, § 30.
+194
+195 Site Suitability Mapping Tool. A web-based mapping tool established and maintained by
+196 the Executive Office of Energy and Environmental Affairs, which contains geographic
+197 information system data layers used to determine Criteria-specific Suitability Scores. The
+198 mapping tool shall have the capability to automatically calculate a Small Clean Energy
+199 Infrastructure Facility’s Criteria-specific Site Suitability Scores by delineating the Small
+200 Clean Energy Infrastructure Facility Site Footprint in the mapping tool.
+201
+202 Site Suitability Score Modifier. Positive or negative adjustments to a Small Clean Energy
+203 Infrastructure Facility’s Criteria-specific Suitability Scores that are reflective of
+204 development potential or social and environmental benefits, as prescribed in the Site
+205 Suitability Guidance.
+206
+207 Site Suitability Report. A written report documenting the Applicant’s Criteria-specific Site
+208 Suitability Scores, any Site Suitability Score Modifiers the Applicant is seeking to apply,
+209 and any other required supporting documentation, in a form and manner established by the
+210 Department in consultation with the Executive Office of Energy and Environmental
+211 Affairs.
+212
+9 of 24
+
+213 Small Clean Energy Generation Facility. Energy generation infrastructure with a
+214 nameplate capacity of less than 25 megawatts that is an Anaerobic Digestion Facility, Solar
+215 Facility or Wind Facility, including any ancillary structure that is an integral part of the
+216 operation of the Small Clean Energy Generation Facility.
+217
+218 Small Clean Energy Infrastructure Facility. A Small Clean Energy Generation Facility,
+219 Small Clean Energy Storage Facility or Small Clean Transmission and Distribution
+220 Infrastructure Facility.
+221
+222 Small Clean Energy Storage Facility. An energy storage system as defined in M.G.L. c.
+223 164, § 1 with a rated capacity of less than 100 megawatt hours, including any ancillary
+224 structure that is an integral part of the operation of the Small Clean Energy Storage Facility.
+225
+226 Small Clean Transmission and Distribution Infrastructure Facility. Electric transmission
+227 and distribution infrastructure and related ancillary infrastructure, including: (i) electric
+228 transmission line reconductoring or rebuilding projects; (ii) new or substantially altered
+229 electric transmission lines located in an existing transmission corridor that are not more
+230 than 10 miles long, including any ancillary structure that is an integral part of the operation
+231 of the transmission line; (iii) new or substantially altered electric transmission lines located
+232 in a new transmission corridor that are not more than 1 mile long, including any ancillary
+233 structure that is an integral part of the operation of the transmission line; (iv) any other
+234 electric transmission infrastructure, including standalone transmission substations and
+235 upgrades and any ancillary structure that is an integral part of the operation of the
+236 transmission line and that does not require zoning exemptions; and (v) electric distribution-
+237 level projects that meet a certain threshold, as determined by the Department; provided,
+238 however, that the Small Clean Transmission and Distribution Infrastructure Facility shall
+239 be: (A) designed, fully or in part, to directly interconnect or otherwise facilitate the
+240 interconnection of clean energy infrastructure to the electric grid; (B) designed to ensure
+241 electric grid reliability and stability; or (C) designed to help facilitate the electrification of
+242 the building and transportation sectors; and provided further, that a Small Clean
+243 Transmission and Distribution Infrastructure Facility shall not include new transmission
+244 and distribution infrastructure facilities that solely interconnect new or existing generation
+245 powered by fossil fuels to the electric grid on or after January 1, 2026.
+246
+247 Solar Canopy. Solar Canopy shall have the same meaning as the definition of Canopy
+248 STGU in 225 CMR 28.02 Definitions.
+249
+250 Solar Facility. A ground mounted facility that uses sunlight to generate electricity. The
+251 nameplate capacity for a Solar Facility shall be calculated in direct current, unless
+252 otherwise specified.
+253
+254 Standalone Small Clean Energy Infrastructure Facility. A Small Clean Energy Generation
+255 Facility or Small Clean Energy Storage Facility that serves no associated On-site Load
+256 other than parasitic or station load utilized to operate a Small Clean Energy Generation
+257 Facility or a Small Clean Energy Storage Facility.
+258
+10 of 24
+
+259 Town Clerk. An officer of the Municipality as defined under M.G.L. c. 41, § 15.
+260
+261 Wind Facility. An onshore or offshore facility that uses wind to generate electricity.
+262
+263 29.03: Administration
+264
+265 225 CMR 29.00 shall be administered by the Department.
+266
+267 29.04: Applicability
+268
+269 (1) 225 CMR 29.00 applies to the local siting and permitting of Small Clean Energy
+270 Infrastructure Facilities by Local Governments upon the election of an Applicant to
+271 submit a Consolidated Local Permit Application. Nothing in 225 CMR 29.00 shall be
+272 construed to disallow an Applicant from seeking local approvals on an individual basis
+273 outside of the 225 CMR 29.00 consolidated permitting process, or, in the case of a Small
+274 Clean Transmission and Distribution Infrastructure Facility, file an application with the
+275 Board pursuant to M.G.L. c. 164 § 69U.
+276
+277 (2) The standards and requirements in 225 CMR 29.00, including the availability of De Novo
+278 Adjudication of a Local Government’s decision on a Small Clean Energy Infrastructure
+279 Facility before the Board, shall not apply to an Applicant who does not elect to submit a
+280 Consolidated Local Permit Application.
+281
+282 (3) Adding Facility Type to the Definition of Small Clean Energy Generation Facility.
+283 Following a rulemaking by the Department in consultation with the Board, the Department
+284 may add additional facility types to the definition of a Small Clean Energy Generation
+285 Facility, provided that the type of generation facility added produces no greenhouse gas
+286 emissions or other pollutant emissions known to have negative health impacts.
+287
+288 29.05: Concurrency and Transition Periods
+289
+290 (1) Local Governments may, but shall not be required to, accept Consolidated Local
+291 Permit Applications pursuant to 225 CMR 29.00 between July 1, 2026 and September
+292 30, 2026.
+293
+294 (2) Local Governments must accept Consolidated Local Permit Applications pursuant
+295 225 CMR 29.00 no later than October 1, 2026.
+296
+297 29.06: Public Health, Safety, and Environmental Standards
+298
+299 (1) The Applicant shall conform to all public health, safety, and environmental standards as
+300 described in the Department’s Guideline on Public Health, Safety, and Environmental
+301 Standards at the time of the Applicant’s submission of a Consolidated Local Permit
+302 Application. The Applicant shall maintain conformance with such standards throughout
+303 the construction, operation, maintenance, and decommissioning of a Small Clean Energy
+304 Infrastructure Facility. The Applicant’s Small Clean Energy Infrastructure Facility shall
+11 of 24
+
+305 comply with all criteria and standards including but not limited to setback requirements,
+306 zoning criteria, compliance monitoring, discharge controls, erosion, sedimentation, and
+307 runoff prevention, monitoring impacts on abutting properties, contamination and
+308 remediation, encroachments on critical resources, Emergency Response Plan requirements,
+309 and measures to address potential harms relating to abandonment of a Small Clean Energy
+310 Infrastructure Facility.
+311
+312 (2) Public health, safety, and environmental standards shall be inclusive of applicable local
+313 bylaws, state and federal laws including but not limited to 310 CMR 10.00: Wetlands
+314 Protection Act, 310 CMR 22.00: Massachusetts Drinking Water Regulations, 314 CMR
+315 9.00: 401 Water Quality Certification, 310 CMR 7.00: Air Pollution Control, and 321
+316 CMR10.00: Massachusetts Endangered Species Act.
+317
+318
+319 29.07: Application of Site Suitability Guidance
+320
+321 (1) Exemptions. The following types of Small Clean Energy Infrastructure Facilities shall
+322 be exempt from the requirements of 225 CMR 29.07:
+323 (a) Exempt Small Clean Energy Infrastructure Generation Facilities:
+324 1. Small Clean Energy Infrastructure Generation Facilities with a Site
+325 Footprint of one acre or less;
+326 2. Solar Canopies up to 2 MW in nameplate capacity when sited on a
+327 preexisting paved surface with a permitted and functioning
+328 stormwater management system;
+329 3. Standalone Solar Facilities with a nameplate capacity of less than or
+330 equal to 25 kW, as measured by an alternating current;
+331 4. Small Clean Energy Generation Facilities that are eligible for
+332 Investment Tax Credits; and
+333 5. Small Clean Energy Infrastructure Generation Facilities that are
+334 designated as an Accessory-use Behind-the-meter Small Clean Energy
+335 Infrastructure Facility.
+336 (b) Exempt Small Clean Energy Storage Facilities:
+337 1. Standalone Small Clean Energy Storage Facilities with an aggregate
+338 capacity of 250 kWh or less, as measured with an alternating current;
+339 and
+340 2. Small Clean Energy Storage Facilities that are designated as an
+341 Accessory-use Behind-the-meter Small Clean Energy Infrastructure
+342 Facility.
+343 (c) Exempt Small Clean Transmission and Distribution Infrastructure Facilities:
+344 1. Large Clean Transmission and Distribution Infrastructure Facilities and
+345 Small Clean Transmission and Distribution Infrastructure Facilities that
+346 are proposed to be sited in an existing Public Right of Way;
+347 2. Small Clean Energy Transmission and Distribution Infrastructure
+348 Facilities with a nameplate capacity up to 20 kV, as measured by an
+349 alternating current.
+350
+12 of 24
+
+351 (2) Determination of Site Suitability and Criteria-Specific Suitability Scores.
+352 (a) Pre-filing Requirements for Applicants. Applicants shall utilize the Site
+353 Suitability Mapping Tool, pursuant to any instructions provided in the Site
+354 Suitability Guidance, to derive the anticipated Criteria-specific Suitability
+355 Scores for the proposed Small Clean Energy Infrastructure Facility prior to
+356 submitting a Consolidated Local Permit Application to a Local Government.
+357 (b) Site Suitability Score Application Requirements. Applicants shall submit a Site
+358 Suitability Report as part of their Consolidated Local Permit Application to the
+359 Local Government. Unless a Request for Score Revision by the Department
+360 pursuant to 225 CMR 29.07(2)(c) is requested the Criteria-specific Suitability
+361 Scores shall be final.
+362 (c) Request for Score Revision by the Department. If the Applicant, the Local
+363 Government, or any other Local Stakeholder believes that one or more Criteria-
+364 specific Suitability Scores were calculated based on materially erroneous,
+365 incomplete, or otherwise faulty data, they may request a Score Revision from
+366 the Department in a form or manner prescribed by the Department. The
+367 Department shall review one or more Criteria-specific Suitability Scores
+368 subject to the request and shall not grant or deny a Consolidated Local Permit
+369 Application on the basis of that review.
+370 1. Parties seeking a Request for Score Revision must identify the specific
+371 deficiencies that resulted in one or more erroneous Criteria-specific
+372 Suitability Scores. Failure to specify such deficiencies may result in the
+373 Department’s denial of the request.
+374 2. Requests for Score Revision shall be completed by the Department not
+375 more than 30 days after receipt.
+376 3. Any revised Criteria-specific Suitability Scores issued by the
+377 Department shall be final, subject to the application of one or more Site
+378 Suitability Score Modifier.
+379 (d) Social and Environmental Benefit Criteria Score Modifier. The Applicant’s
+380 Criteria-specific Suitability Scores may be modified by the Local Government
+381 when the Applicant agrees to provide certain social or environmental benefits
+382 as described in the Site Suitability Guidance. Score modification may only
+383 occur upon the mutual written agreement between the Applicant and the Local
+384 Government. Such mutual written agreement shall result in binding conditions
+385 that shall attach to the Applicant’s Consolidated Local Permit.
+386
+387 (3) Avoidance, Minimization and Mitigation
+388 (a) Application of Site Suitability Scores. The Local Government Representative
+389 shall refer to the Applicant’s Criteria-specific Site Suitability Scores and Site
+390 Suitability Report to determine the appropriate Minimization and Mitigation
+391 which the Applicant must perform, if applicable. Minimization and Mitigation
+392 shall have a rational nexus to the impacts of the proposed Small Clean Energy
+393 Infrastructure Facility’s siting on the environment, people, and the
+394 Commonwealth’s goals and objectives for climate mitigation, resilience,
+395 environmental justice, biodiversity, and protection of natural and working
+396 lands, to the extent practicable.
+13 of 24
+
+397 (b) Avoidance. Small Clean Energy Infrastructure Facilities that are considered
+398 highly suitable pursuant to the Site Suitability Guidance are presumed to have
+399 demonstrated Avoidance.
+400 (c) Scope and Type of Minimization and Mitigation. The scope and type of
+401 Minimization and Mitigation the Local Government Representative may assign
+402 shall be based only on the Small Clean Energy Infrastructure Facility’s Criteria-
+403 specific Suitability Scores, and shall meet the Department’s specifications in its
+404 Guideline on Avoidance, Minimization and Mitigation Measures. After
+405 consultation with the Applicant, the Minimization and Mitigation assigned by
+406 the Local Government may be included as a condition on the Consolidated
+407 Local Permit, or otherwise memorialized.
+408
+409 29.08: Pre-Filing Requirements
+410
+411 (1) The Applicant shall complete all pre-filing requirements in 225 CMR 29.08 not more
+412 than 60 days before submitting a Consolidated Local Permit Application to the Local
+413 Government Representative. A Consolidated Local Permit Application submitted
+414 before the completion of all pre-filing requirements, or more than 60 days after
+415 completion of all pre-filing requirements, shall be automatically denied without
+416 prejudice.
+417
+418 (2) Exemptions. All Small Clean Energy Infrastructure Facilities that qualify for an
+419 exemption under 225 CMR 29.07(1) are exempt from the requirements of 225 CMR
+420 29.08.
+421
+422 (3) Pre-filing Municipal Meeting. The Applicant shall schedule a meeting with members
+423 of the Local Government which may include part-time or full-time staff, and the
+424 chairpersons of relevant boards, or their designees. The Applicant and Local
+425 Government shall mutually agree on the time and place of the meeting. The meeting
+426 shall take place within 45 days of the Applicant requesting the meeting and before the
+427 pre-filing information session described in 225 CMR 29.08(4). The purpose of the pre-
+428 filing municipal meeting is for the Applicant and Local Government to:
+429 (a) Verify basic project and site information, including zoning information, known
+430 areas subject to state or local environmental laws, and any other areas,
+431 structures, or buildings of cultural or historical significance that could be
+432 impacted by the project;
+433 (b) Identify to the best extent possible all needed decisions and permits from the
+434 Local Government;
+435 (c) Identify, to the best extent possible, any applicable local bylaws and processes;
+436 (d) Identify, to the best extent possible, any other potential permitting, design, or engineering obstacles or
+437 items of concern that might hinder the Applicant’s ability to secure all needed decisions within the 12-
+438 month timeframe; and
+439 (e) Discuss dates, times, and locations for a public meeting, if applicable.
+440
+441 (4) Pre-filing Information Session Requirements. The Applicant shall host not less than
+442 one pre-filing information session open to the public which shall conform to
+443 Department specifications in its Guideline on Pre-Filing Stakeholder Engagement. The
+14 of 24
+
+444 Applicant shall host the information session in a publicly accessible location, and it
+445 shall be held in a hybrid format if feasible.
+446 (a) Public Notice Requirements. The Applicant shall provide notice of the pre-
+447 filing information session not less than 10 days in advance. The Applicant shall
+448 provide notice in a manner consistent with the following requirements:
+449 1. The Applicant shall provide notice to Abutters and Local Stakeholders of
+450 the proposed Site Footprint via United States Postal Service First Class
+451 Mail®. Determination of ownership and common boundary shall be made
+452 with reference to the current local tax assessors' records and maps. Notice
+453 shall include but not be limited to the following:
+454 i. The proposed Small Clean Energy Infrastructure Facility’s site
+455 address, a map of the Site Footprint, and the name of the project
+456 developer;
+457 ii. A description of the size of the proposed Small Clean Energy
+458 Infrastructure Facility, which includes the Site Footprint and the
+459 project’s generation and energy storage capacity, if applicable;
+460 iii. Public meeting details, including dates, times, locations, and
+461 accessibility information, if applicable; and
+462 iv. Information about relevant websites managed by the Local
+463 Government, the Department, and the Applicant.
+464 2. The Applicant shall provide notices to two or more multimedia outlets such
+465 as radio, newspapers, or social media. The Applicant shall also provide
+466 notices to the Local Government, and post notices on two different public
+467 buildings or community facilities within the Host Municipality. If the
+468 proposed Small Clean Energy Infrastructure Facility abuts or straddles
+469 multiple Municipalities the Applicant shall provide the same notices in all
+470 impacted Municipalities
+471 (b) Pre-filing Information Session Materials. The Applicant shall make available
+472 the following materials during the information session:
+473 1. A project description including the type and nameplate capacity of the
+474 proposed Small Clean Energy Infrastructure Facility, the energy
+475 benefits the Small Clean Energy Infrastructure Facility will provide, any
+476 impacts the Small Clean Energy Infrastructure Facility may have on the
+477 community, the site work required, proposed structures to be
+478 constructed at the Small Clean Energy Infrastructure Facility’s site, and
+479 a description of the Small Clean Energy Infrastructure Facility’s
+480 alignment with the Commonwealth’s energy goals and climate
+481 mandates;
+482 2. Site Footprint locus maps, including an aerial and GIS map, outlining
+483 the existing site conditions and any environmental, cultural, and historic
+484 features;
+485 3. A draft Emergency Response Plan which shall be included in the
+486 Applicant’s Consolidated Local Permit Application under 225 CMR
+487 29.09. The Emergency Response Plan shall be approved by the Local
+488 Government’s fire, police, or emergency management departments
+15 of 24
+
+489 during the Consolidated Local Permit Review Process under 225 CMR
+490 29.10; and
+491 4. All anticipated Criteria-specific Suitability Scores and plans for seeking
+492 Site Suitability Score Modifiers, if applicable.
+493
+494 (5) Pre-Filing Engagement Completion Checklist. Upon completion of the stakeholder
+495 engagement activities described in 225 CMR 29.08, the Applicant shall submit a self-
+496 attested Pre-Filing Engagement Completion Checklist to the Local Government
+497 Representative. The Applicant shall attach the following materials to the Pre-Filing
+498 Engagement Completion Checklist:
+499 (a) Documentation summarizing all meetings and public information sessions held
+500 including the date, location, and copies of all meeting materials, if applicable;
+501 and
+502 (b) Proof of compliance with the notice requirements, if applicable.
+503
+504 (6) The Local Government Representative shall determine whether the Applicant has
+505 completed all pre-filing requirements not more than 10 days after the Applicant’s
+506 submission of a Pre-filing Engagement Completion Checklist.
+507 (a) All pre-filing requirements shall be considered complete if the Applicant’s Pre-
+508 Filing Engagement Checklist reflects compliance with 225 CMR 29.08(3) and
+509 (4), or the Applicant is excused from the pre-filing requirements pursuant to
+510 225 CMR 29.08(2).
+511 (b) If the Local Government Representative determines the Applicant has not
+512 completed all pre-filing requirements, the Local Government Representative
+513 shall notify the Applicant, and the Applicant must remedy all identified pre-
+514 filing deficiencies not more than 30 days after receiving such notice. If the
+515 Applicant fails to remedy all identified pre-filing deficiencies in 30 days, the
+516 Local Government Representative may allow the Applicant an additional
+517 period of up to 30 days to remedy all remaining deficiencies.
+518 (c) The Applicant may contest the Local Government Representative’s
+519 determination that pre-filing requirements are not complete by requesting an
+520 advisory opinion on the Applicant’s Pre-Filing Engagement Completion
+521 Checklist by the Siting and Permitting Regional Coordinator.
+522 (d) In the event that the Local Government Representative determines that all pre-
+523 filing requirements have been completed by the Applicant, the Local
+524 Government Representative shall sign the Applicant’s Pre-filing Engagement
+525 Completion Checklist and the Applicant may submit a Consolidated Local
+526 Permit Application.
+527
+528 29.09 Consolidated Local Permit Application
+529
+530 (1) Permit fees shall be assessed at the time the Applicant submits the Consolidated Local
+531 Permit Application to the Local Government.
+532
+16 of 24
+
+533 (2) The Consolidated Local Permit Application shall be submitted by the Applicant to the
+534 Local Government in a manner and form to be determined by the Department. The
+535 Applicant shall provide the following information:
+536 (a) The Applicant’s Pre-filing Engagement Completion Checklist signed by the
+537 Local Government Representative pursuant to 225 CMR 29.08(6)(d), if
+538 applicable;
+539 (b) The Applicant’s Site Suitability Report, if applicable;
+540 (c) The Applicant’s proposed Mitigation or Minimization for any impacts
+541 identified in the Site Suitability Report, if applicable;
+542 (d) A summary of the project, including an explanation of why the site was chosen,
+543 in a form to be specified by the Department in its Guideline on the Consolidated
+544 Local Permit Application;
+545 (e) A detailed description of the proposed Small Clean Energy Infrastructure
+546 Facility, including the proposed Site Footprint and the surrounding area with
+547 relevant maps, figures, drawings, anticipated permits, any proposed
+548 Community Benefits Plan if applicable, or other attachments. The description
+549 shall meet Department specifications in its Guideline on the Consolidated Local
+550 Permit Application;
+551 (f) All materials necessary for site plan review and special permit review, if
+552 required by the Local Government, including but not limited to plot plans
+553 featuring location maps, dimensions of structures, abutting streets and ways,
+554 existing utilities, existing and proposed grading, all required screening,
+555 landscaping, lighting, and signage, vehicular circulation, setbacks, zoning, any
+556 additional materials required under local bylaw, and all other information
+557 required by the Department in its Guideline on the Consolidated Local Permit
+558 Application;
+559 (g) All materials necessary to request local permits required under 310 CMR 10.00:
+560 Wetlands Protection Act, other applicable federal and state laws, regulations,
+561 and guidance, and all applicable local bylaws, as well as any proposed
+562 remediation, restoration, or replanting activities as required by federal, state, or
+563 local law, and all other information required by the Department in its Guideline
+564 on the Consolidated Local Permit Application;
+565 (h) All requests for relief from applicable local zoning or land use regulations,
+566 bylaws, and ordinances as well as any materials needed to support the requests
+567 including, but not limited to, zoning maps and use tables, and any other
+568 materials required under the Local Government’s bylaws or ordinances and all
+569 other information required by the Department in its Guideline on the
+570 Consolidated Local Permit Application;
+571 (i) A description of all stormwater, sedimentation, and erosion control measures as
+572 required under the Local Government’s stormwater permit bylaw or ordinance,
+573 and federal or state law, including 310 CMR 10.00: Wetlands Protection Act,
+574 and MassDEP’s Stormwater Handbook;
+575 (j) All materials necessary for any permits or decisions to be issued by local public
+576 health and safety authorities, including Emergency Response Plans, other
+577 materials required by the state and local public health and safety authorities,
+17 of 24
+
+578 and all other information required by the Department in its Guideline on the
+579 Consolidated Local Permit Application;
+580 (k) A description of additional local permits or decisions required, but not
+581 applicable to a designated section on the Consolidated Local Permit
+582 Application, including but not limited to historic districts, designated economic
+583 or redevelopment zones, tax incentive zones, shade trees, municipal light
+584 departments, or agricultural areas;
+585 (l) The disclosures, documentation, and statements listed below. If the Applicant
+586 is unable to provide responsive documentation or statements, the Applicant
+587 must include a brief narrative explanation stating why such documentation or
+588 statement is unavailable:
+589 1. Documentation reflecting the Applicant’s demonstrated commitment to
+590 workforce or economic development within the Commonwealth;
+591 2. A statement of intent concerning efforts that the Applicant and its
+592 contractors and subcontractors will make to promote workforce or
+593 economic development through the project;
+594 3. Documentation reflecting the Applicant’s demonstrated commitment to
+595 expand workforce diversity, equity, and inclusion in its past projects
+596 within the Commonwealth;
+597 4. Documentation as to whether the Applicant and its contractors and
+598 subcontractors participate in a state or federally certified apprenticeship
+599 program and the number of apprentices the apprenticeship program has
+600 trained to completion for each of the last five (5) years;
+601 5. A statement of intent concerning how or if the Applicant and its
+602 contractors and subcontractors intend to utilize apprentices on the
+603 project, including whether each of its contractors and subcontractors on
+604 the project participates in a state or federally certified apprenticeship
+605 program;
+606 6. Documentation relative to the Applicant and its contractors and
+607 subcontractors regarding their history of compliance with chapters 149,
+608 151, 151A, 151B and 152, 29 U.S.C. section 201, et seq. and applicable
+609 federal anti-discrimination laws;
+610 7. Documentation that the applicant and its contractors and subcontractors
+611 are currently, and will remain, in compliance with chapters 149, 151,
+612 151A, 151B, and 152, 29 U.S.C. section 201, et seq. and applicable
+613 federal anti-discrimination laws for the duration of the project;
+614 8. Detailed plans for assuring labor harmony during all phases of the
+615 construction, reconstruction, renovation, development and operation of
+616 the project, including documentation of the Applicant’s history with
+617 picketing, work stoppages, boycotts or other economic actions against
+618 the applicant and a description or plan of how the Applicant intends to
+619 prevent or address such actions; and
+620 9. Documentation relating to whether the Applicant and its contractors
+621 have been found in violation of state or federal safety regulations in the
+622 previous ten (10) years;
+18 of 24
+
+623 (m) A brief narrative description of the Applicant’s historic compliance with the
+624 provisions of M.G.L. c. 149, §§ 26-27F; and
+625 (n) A brief narrative description of the Applicant’s history of participation with
+626 state or federally certified apprenticeship programs.
+627
+628 29.10 Consolidated Local Permit Application Review Process.
+629
+630 (1) Completeness Determination. The Local Government Representative shall determine
+631 whether a Consolidated Local Permit Application is complete not later than 30 days after
+632 receipt. The Local Government Representative shall share the Consolidated Local Permit
+633 Application with the local Board of Health and other relevant local departments or boards
+634 to assist in determining completeness.
+635 (a) Completeness Standard. A Consolidated Local Permit Application shall be
+636 deemed complete by the Local Government Representative if:
+637 1. All permit fees have been paid to the Local Government pursuant to 225
+638 CMR 29.09(1); and
+639 2. The Applicant has provided all necessary documentation, materials, and
+640 disclosures required under 225 CMR 29.09(2).
+641 (b) If a Consolidated Local Permit Application is deemed incomplete, the Local
+642 Government Representative shall notify the Applicant and specify deficiencies.
+643 The Applicant shall have 30 days, and any additional time as determined by the
+644 Local Government Representative, to cure any deficiencies before the
+645 Consolidated Local Permit Application is rejected. The Local Government shall
+646 determine whether the revised Consolidated Local Permit Application cures all
+647 deficiencies not later than 30 days of receipt.
+648 (c) If the Local Government Representative determines the Applicant has not cured
+649 all deficiencies, it may allow the Applicant an additional 30 days to cure stated
+650 deficiencies or deny the Consolidated Local Permit Application without prejudice.
+651 An Applicant whose Consolidated Local Permit Application is denied shall be
+652 required to repeat all applicable pre-filing requirements described in 225 CMR
+653 29.08.
+654 (d) If the Local Government Representative does not determine whether a
+655 Consolidated Local Permit Application is completed within 30 days of receipt, the
+656 Consolidated Local Permit Application shall be deemed to be complete and
+657 eligible for review under 225 CMR 29.10.
+658
+659 (2) The Applicant shall provide a digital copy of the complete Consolidated Local Permit
+660 Application to the Department within 10 days of the completeness determination
+661 described 225 CMR 29.12.
+662
+663 (3) Review. The Local Government shall complete its review and issue a decision on a
+664 Consolidated Local Permit Application not more than 12 months after its receipt of a
+665 complete Consolidated Local Permit Application, or from the date it is deemed complete
+666 pursuant to 225 CMR 29.09. All Local Government boards and departments reviewing
+19 of 24
+
+667 the Consolidated Local Permit Application may conduct their reviews concurrently
+668 provided that those reviews are complete within 12 months. Local Government boards
+669 and departments shall maintain intergovernmental collaboration throughout the
+670 application review process.
+671 (a) The Local Government’s 12-month review period shall begin upon its receipt of
+672 the Applicant’s Consolidated Local Permit Application and terminate upon the
+673 date that the Town Clerk stamps the Consolidated Local Permit.
+674 (b) In the case that a Local Government lacks the resources, capacity or staffing to
+675 review a Consolidated Local Permit Application within 12 months, it may, not
+676 later than 60 days after receipt of such application or at any time thereafter with
+677 the consent of the Applicant, request in writing a De Novo Adjudication of such
+678 application by the EFSB Director pursuant to 980 CMR 14.02(1)(c) and
+679 14.02(2)(b). If the EFSB Director accepts the Consolidated Local Permit
+680 Application for said De Novo Adjudication, any permit fees received by Local
+681 Government for its review of the Consolidated Local Permit Application shall be
+682 refunded in full to the Applicant within 30 days of the Director’s acceptance of
+683 the Consolidated Local Permit Application, or as soon as practicable.
+684
+685 (4) Significant Changes to a proposed Small Clean Energy Infrastructure Facility. If the
+686 Applicant identifies a Significant Change to a Small Clean Energy Infrastructure Facility
+687 before the Local Government Representative issues its decision on the Consolidated Local
+688 Permit Application, the Local Government Representative may determine the Consolidated
+689 Local Permit Application incomplete. The Applicant may then submit all necessary
+690 supplemental materials to reflect the Significant Change and request a completeness
+691 determination from the Local Government Representative. The Local Government shall
+692 have 12 months from the date of the Local Government Representative’s subsequent
+693 completeness determination to issue its decision on the Consolidated Local Permit
+694 Application.
+695 (5) Decision on Individual Application Components. All Local Government boards, offices,
+696 commissions, and departments tasked with reviewing the Consolidated Local Permit
+697 Application under 225 CMR 29.10 shall issue their respective decisions on Individual
+698 Application Components, which grant, grant with conditions, or deny the application, not
+699 more than 12 months after the date that a complete Consolidated Local Permit Application
+700 is received by the Local Government Representative. Decisions on Individual Application
+701 Components shall be promptly communicated to the Local Government Representative
+702 issuing the decision on the Consolidated Local Permit Application. If a Local Government
+703 board or department issues a decision on an Individual Application Component denying
+704 the Consolidated Local Permit Application before other Local Government boards and
+705 departments reach a decision on their respective Individual Application Components, the
+706 Local Government boards and departments with pending decisions shall continue their
+707 review and issue a decision on their respective Individual Application Components. A
+708 decision by a Local Government on an Individual Application Component may not be
+709 appealed or reviewed independently.
+20 of 24
+
+710 (a) Decision on Consolidated Local Permit Decision Application. The Local
+711 Government Representative shall issue its decision on the Consolidated Local
+712 Permit Application and notify the Applicant, the Department, and the Local
+713 Government's Town Clerk of that decision that same day. That decision shall
+714 incorporate all decisions on Individual Application Components and include
+715 applicable conditions. If one or more Local Government boards and departments
+716 issue a decision denying an Individual Application Component, the Consolidated
+717 Local Permit Application shall be denied.
+718 Approval. If the Local Government approves the Applicant’s Consolidated
+719 Local Permit Application, the Local Government shall issue a decision
+720 approving the Consolidated Local Permit Application that incorporates all
+721 Individual Application Components. An approved Consolidated Local
+722 Permit Application may include one or more permits.
+723 1. Denial. If the Local Government denies the Applicant’s Consolidated Local
+724 Permit Application, the Local Government shall issue a decision on the
+725 denied Consolidated Local Permit Application which shall include detailed
+726 reasoning for the denial. A Consolidated Local Permit Application shall be
+727 presumed to be denied without prejudice.
+728 (b) Constructive Approval. If the Local Government fails to issue a decision on the
+729 Applicant’s Consolidated Local Permit Application within the 12-month review
+730 period, the Consolidated Local Permit Application shall result in Constructive
+731 Approval and be subject to the conditions and requirements of 225 CMR 29.12.
+732 The Local Government Representative shall notify the Applicant, Town Clerk, and
+733 the Department within 10 days of Constructive Approval.
+734
+735 (6) The Local Government Representative shall provide a digital copy of the decision on the
+736 Consolidated Local Permit Application to the Applicant and the Department within 10
+737 business days. Such digital copy shall include the Town Clerk’s stamp.
+738 (7) Information Requests
+739 (a) The Applicant shall respond to all communications made by the Local Government
+740 within five days. The Applicant shall ensure the correct contact information,
+741 including email, is listed on the Consolidated Local Permit Application, and
+742 updated as needed. The Applicant shall submit any revisions requested in such
+743 communication within 10 days, unless an extension has been granted in writing by
+744 the Local Government. Such extension may not exceed the 12-month review period
+745 as described in 225 CMR 29.10(5). If the Local Government determines that an
+746 Applicant’s failure to respond in a timely manner or status of incompleteness could
+747 impede the Local Government’s ability to complete its review and issue a final
+748 decision within 12 months, the Local Government may deny the Consolidated
+749 Local Permit Application.
+750 1. The Local Government’s information requests shall be appropriate in
+751 scope. If a Local Government routinely submits requests for information
+752 that are not reasonably necessary to facilitate its review of a Consolidated
+753 Local Permit Application, or communicates with an Applicant in a manner
+754 that is designed to place the Applicant into a state of non-compliance 225
+21 of 24
+
+755 CMR 29.10, the Department may provide an advisory recommendation on
+756 the appropriateness of such information requests and may document its
+757 occurrence to the Board in the event that the Small Clean Energy
+758 Infrastructure Facility advances to a De Novo Adjudication pursuant to 225
+759 CMR 29.10(8).
+760 (8) De Novo Adjudication of Consolidated Local Permit Decisions.
+761 (a) Applicants and other individuals or entities substantially and specifically affected
+762 by a decision of a Local Government on a Consolidated Local Permit Application
+763 may file a written petition to request a De Novo Adjudication of a decision on a
+764 Consolidated Local Permit Application by the director of the Board pursuant to 980
+765 CMR 14.00.
+766 (b) Pursuant to 980 CMR 14.00, a petition for a De Novo Adjudication must be filed
+767 within 30 days of the Local Governments Representative’s decision on a
+768 Consolidated Local Permit Application, or the Constructive Approval of a
+769 Consolidated Local Permit Application. A single decision on Individual
+770 Application Components is not eligible for an independent De Novo Adjudication
+771 or otherwise independently appealed or reviewed.
+772 (c) The Applicant shall comply with all requests or restrictions, including restrictions
+773 on performance of work, while the decision on a Consolidated Local Permit is
+774 under De Novo Adjudication pursuant to 225 CMR 29.00 and 980 CMR 14.00.
+775
+776 29.11 Technical Assistance
+777
+778 (1) The Department shall be available to assist Local Governments and Applicants apply 225
+779 CMR 29.00, applicable sections of M.G.L. c. 25A, and Department Guidelines.
+780
+781 (2) Upon request, the Department shall answer questions and provide guidance on the
+782 Consolidated Local Permit Application and requirements of the relevant regulations and
+783 laws, including in disputes between Applicants and Local Governments. The Regional
+784 Coordinators’ services shall be provided free of charge to Applicants and Local
+785 Governments.
+786
+787 (3) The Department may provide assistance in matters including, but not limited to,
+788 determinations of completeness for pre-filing requirements and Consolidated Local Permit
+789 Applications, the Consolidated Local Permit Application review process, understanding
+790 Site Suitability and Criteria-specific Site Suitability Scores results, requests for information
+791 as outlined under 225 CMR 29.08(4)(b), and the development of appropriate Minimization
+792 and Mitigation.
+793
+794 (4) Any guidance, opinion, or other assistance provided by the Department is advisory in
+795 nature and shall not be considered a legal opinion, nor shall it be binding on the Applicant
+796 or the Local Government.
+797
+798 29.12 Common Conditions and Requirements for Constructive Approval.
+799
+22 of 24
+
+800 (1) Applicability. This section applies to Consolidated Local Permit Applications which result
+801 in Constructive Approval.
+802
+803 (2) In the case that a Consolidated Local Permit Application meets the criteria to receive
+804 Constructive Approval, conditions and requirements as specified in the Department’s
+805 Guideline on Common Conditions shall exclusively apply to the resulting Consolidated
+806 Local Permit. Those conditions and requirements shall include but not be limited to:
+807 (a) Administrative and legal conditions and requirements addressing compliance,
+808 site inspections, changes in ownership, timelines, and project alterations;
+809 Conditions and requirements for construction addressing visual impact,
+810 vegetation, earthwork, working hours, chemicals and hazardous materials, and
+811 lighting at the site; Conditions and requirements for operation and
+812 maintenance addressing facility access stormwater control, emergency
+813 response, storage of hazardous materials, and general facility operations;
+814 Conditions and requirements for addressing decommissioning including
+815 determination of inoperability, performance mods, material disposal,
+816 recycling, and abandonment of Small Clean Energy Infrastructure Facilities
+817 and any related equipment; and
+818 (b) Requirement that Small Clean Energy Infrastructure Facilities meet the
+819 Performance Standards at 310 CMR 10.00 Wetlands Protection, including
+820 review under 310 CMR 10.00.
+821
+822 (3) Enforcement of Common Conditions. In the case of Constructive Approval, the Local
+823 Government shall enforce all conditions and requirements.
+824
+825 29.13 Model Small Clean Energy Infrastructure Facility Permitting Bylaw
+826
+827 (1) The Department shall develop a Model Small Clean Energy Infrastructure Facility
+828 Permitting bylaw, which will outline the processes and procedures Local Government
+829 boards, departments, and authorities shall follow in response to the Applicant’s election to
+830 submit a Consolidated Local Permit Application.
+831
+832 (2) The Department shall be available to provide technical assistance on adoption of the Model
+833 Small Clean Energy Infrastructure Bylaw.
+834
+835 (3) The Local Government may modify the Model Small Clean Energy Infrastructure Facility
+836 Permitting Bylaw, provided such modifications do not conflict with the requirements of
+837 225 CMR 29.00 or M.G.L. c. 25A, §§ 2 and 21.
+838
+839 29.14 Successors in Interest
+840 (1) In the event of the sale of a Small Clean Energy Infrastructure Facility, all permit conditions
+841 and requirements, mitigation obligations, and Community Benefits Agreements shall apply
+842 to all successors in interest to the permitted Small Clean Energy Infrastructure Facility.
+843
+844 (2) Successors in interest may petition the Local Government to modify the pre-existing
+845 permitting obligations attached to the Small Clean Energy Infrastructure Facility. The
+23 of 24
+
+846 Local Government shall not be obligated to grant such petition or otherwise reconsider the
+847 successors’ obligations as relates to the relevant Small Clean Energy Infrastructure
+848 Facility. Successors in interest may petition for modification of pre-existing permit
+849 conditions on an individual basis.
+850
+851 29.15: Reporting
+852 The Department shall, on a quarterly basis, determine whether more than 50 percent of
+853 Consolidated Local Permit Applications for Small Clean Energy Infrastructure Facilities
+854 processed in the preceding 24-month period throughout the Commonwealth have received
+855 Constructive Approval. If more than 50 percent of applications have been so approved, the
+856 Department, Department of Public Utilities, and the Office of Environmental Justice and
+857 Equity shall, within six (6) months of the conclusion of the twenty-four (24) month period,
+858 analyze and report on the cause of the high rate of Constructive Approvals by Local
+859 Governments and make recommendations to Local Governments, the General Court, and
+860 the Governor on how to reduce the number of Constructive Approvals and increase the
+861 number of decisions reached by means other than Constructive Approval.
+862
+863 29.16: Severability
+864
+865 If any provision of 225 CMR 29.00 is declared invalid, such invalidity shall not affect other
+866 provisions or applications that can be given effect without the invalid provision or
+867 application.
+868
+869 REGULATORY AUTHORITY
+870
+871 225 CMR 29.00: M.G.L. c. 25A, §§ 2, 6, and 21.
+24 of 24

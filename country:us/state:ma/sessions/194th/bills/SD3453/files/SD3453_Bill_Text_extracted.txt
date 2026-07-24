@@ -1,0 +1,1029 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Massachusetts Division of Insurance
+Annual Home Insurance Report
+For Calendar Year 2024
+Michael T. Caljouw
+Commissioner of Insurance
+
+Introduction
+Since 1996, the Division of Insurance (Division) annually produces a home insurance
+report pursuant to M.G.L. c. 175, §§ 4A & 4B. For the current report, insurers and their
+statistical agents were required to provide aggregate 2022, 2023 and 2024 data sorted
+according to Massachusetts zip codes and Insurance Services Office, Inc. (ISO) territories.
+The report is based primarily on responses from companies writing home insurance
+policies in Massachusetts and from statistical reporting organizations reflecting the
+experience of companies in the home insurance market. Unless otherwise noted in the
+report, references to “home insurance” include traditional homeowners’ insurance as well
+as condominium and rental insurance. It is important to note that while some of the results
+in this report apply to all home insurance policies in the Commonwealth, other results apply
+to policies written only by the 25 home insurance companies with the largest market share
+in Massachusetts and the FAIR Plan, and/or only to particular zip codes in the
+Commonwealth. These zip codes are identified as “designated” zip codes because they are
+the zip codes that the Commissioner of Insurance (Commissioner) has specified to be
+included in the report due to historical skepticism regarding availability of coverage in
+these areas. The zip codes include both coastal areas and urban areas. This report provides
+specific scrutiny in response to such concerns. A list of the top 25 home insurance
+companies can be found under footnote 6. The full list of designated zip codes can be found
+in Exhibit 8A of the Statistical Supplement to this report.
+This report was prepared by the State Rating Bureau staff of the Division of Insurance
+(Matthew M. Mancini, State Rating Bureau Director, Spase Kace, State Rating Bureau
+Researcher, Caleb E. Huntington, State Rating Bureau Mathematician, Bashiru Abubakare,
+State Rating Bureau Actuary / Statistician).
+The Division makes all appropriate efforts to check the completeness and consistency
+of data reported by insurance companies and their statistical agents but does rely on
+the insurance companies for the accuracy of all reported information.
+A separate Statistical Supplement can be found on the Division’s website at
+https://www.mass.gov/service-details/the-commissioners-report-on-home-insurance.
+Page ii
+
+TABLE OF CONTENTS
+Title Page
+Introduction ii
+Table of Contents iii
+Table of Figures iv
+Executive Summary 1
+Composition of the Massachusetts Market 2
+Relative Shares of the Private Insurance Market
+The FAIR Plan
+Weather-Related Coverage Options and Limitations 12
+Wind Deductibles
+Flood Coverage and Exclusions
+Climate Mitigation
+Premiums and Losses (M.G.L. c. 175, § 4A) 18
+Premiums
+Costs
+Analysis of Claim Experience
+Loss Ratios 24
+FAIR Plan Financial Results
+Cancellations and Nonrenewals (M.G.L. c. 175, § 4B) 32
+Urban/Coastal Areas
+Page iii
+
+TABLE OF FIGURES
+Page Figure
+3 Figure 1 Total Policies by Type of Coverage
+4 Figure 2 Share of 2024 Market (not including FAIR Plan)
+6 Figure 3 FAIR Plan Policies
+7 Figure 4 Market Share Insurance Companies and FAIR Plan
+8 Figure 5 Share of 2024 Market (including FAIR Plan)
+9 Figure 6 2022-2024 Total Home Insurance Policies
+10 Figure 7 2024 Total Home Insurance Policies by County
+11 Figure 8 2023 and 2024 Total Home Insurance Policies by County
+14 Figure 9 FEMA National Flood Insurance Program Report – Massachusetts
+15 Figure 10 2023 and 2024 Estimated Percentage of Homes with Flood Insurance
+18 Figure 11 Total Premium by Type of Coverage
+18 Figure 12 Average Premium by Type of Coverage
+19 Figure 13 Total Number of Claims by Type of Coverage
+20 Figure 14 Average Claim Size by Type of Coverage
+21 Figure 15 2024 Number of Claims by Cause of Loss
+22 Figure 16 Percentage of Losses (in Dollars) by Cause of Loss
+24 Figure 17 Total Home Insurance Loss Ratios
+25 Figure 18 Total Home Insurance Loss Ratios by Form - 2024
+26 Figure 19 Calculation of Adjusted Combined Ratios
+27 Figure 20 Massachusetts Home Insurance Adjusted Combined Ratios
+28 Figure 21 FAIR Plan Underwriting Gain (Loss)
+28 Figure 22 FAIR Plan Underwriting Gain (Loss) per Policy
+30 Figure 23 FAIR Plan Home Insurance Rate Changes
+33 Figure 24A Top 25 Companies in Coastal and Urban Areas - Cancellations/Nonrenewals
+33 Figure 24B FAIR Plan in Coastal and Urban Areas - Cancellations/Nonrenewals
+34 Figure 25 Top 25 Companies Percentage Nonrenewed in Coastal and Urban Areas
+35 Figure 26 Cancellations by Reason in Coastal and Urban Areas
+38 Figure 27A Policies with Claims in Urban Areas that were Renewed
+38 Figure 27B Policies with Claims in Coastal Areas that were Renewed
+Page iv
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Executive Summary
+Among the material presented in this report:
+• The total reported number of home insurance policies decreased between 2023 and 2024 by
+19,808. Although owners’ home insurance policies increased by 4,438 policies, 2024 saw a
+large decrease in tenant policies of 23,534.
+2,500,000
+2022-2024 Total Home Insurance Policies*
+2,400,000
+2,300,000
+2,200,000
+2,151,661 2,144,620
+2,124,812
+2,100,000
+2,000,000
+1,900,000
+1,800,000
+1,700,000
+2022 2023 2024
+*Policies reflect reported house-years. Ahouse-year is defined as one house insured for one year, and is
+calculated based on the term of the policy.
+• Total enrollment in the FAIR Plan1 increased by 24,436 policies in 2024, with the FAIR Plan
+writing 8.7% of 2024 home insurance premium.
+• For the Cape and Islands market, the FAIR Plan accounted for 39.6% of policies.
+There were 7 events that were classified as loss catastrophes2 in 2024, which resulted in
+estimated property losses in Massachusetts of approximately $157.1 million. The estimated
+property losses consisted primarily of wind and thunderstorm events.
+1 The FAIR Plan is the residual market for homeowners’ insurance operated by the Massachusetts Property Insurance and
+Underwriting Association (“MPIUA”).
+2 Property Claims Services, Inc. (“PCS”), a subsidiary of ISO, Inc., defines catastrophes in the United States, Puerto Rico, and the
+U.S. Virgin Islands as events that cause $25 million or more in direct insured losses to property and affect a significant number
+of policyholders and insurers. PCS has also provided Massachusetts property loss estimates as a result of a catastrophe.
+1
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Composition of the Massachusetts Market
+Home insurance covers non-commercial property for risks to structural damage and personal
+property, as well as for the risk of personal liability claims. In 2024, insurance companies collected
+approximately $3.6 billion in written premium for home insurance policies in Massachusetts, as
+noted in the chart below3.
+Although it is fiscally prudent to protect one’s assets from loss or damage, there are no laws that
+require property owners to purchase home insurance.4 Figure 1 shows the total number of
+households covered under owners’ home insurance (condominium, traditional homeowners and
+rental insurance) in the past three years as calculated by “written house-years,” which is a measure
+equivalent to average number of homes insured. There were 68 licensed insurance carrier groups
+and 4 individual companies writing home insurance in Massachusetts in 2024.
+3 Based on the National Association of Insurance Commissioners’ 2024 Annual Statement data on home insurance multiple peril
+line of business.
+4 Even though home insurance is not required by law, most lenders will require that an owner have sufficient home insurance as
+a condition of a mortgage on the property. Further, in accordance with Chapter 177 of the Acts of 2014, lenders are prohibited
+from requiring flood insurance coverage in an amount greater than the outstanding mortgage balance.
+2
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+￼Figure 1
+Relative Shares of the Private Insurance Market
+As shown in Figure 2, which excludes the FAIR Plan, the top 10 insurance company groups, by
+market share, account for 63.4% of coverage written by the private insurance companies in the
+market.
+3
+960,092 013,962 895,862
+412,244,1 805,164,1 649,564,1
+873,914 208,314 862,093
+Total Policies by Type of Coverage*
+1,600,000
+1,400,000
+1,200,000
+1,000,000
+800,000
+600,000
+400,000
+200,000
+0
+2022 2023 2024 2022 2023 2024 2022 2023 2024
+Condominium Homeowner Tenant
+*Policies reflect reported house-years. Ahouse-year is defined as one house insured for one year, and is
+calculated based on the term of the policy.
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+￼Figure 2
+Most of the coverage in Massachusetts is provided by local carriers, regional carriers or national
+carriers based in Massachusetts. Among the top 10 home insurance groups in the market, only
+five– the Travelers Group, the Liberty Mutual Group, Chubb Ltd Group, the Amica Mutual Group,
+and United Services Automobile Association Group – offer home insurance nationally. The
+remaining companies are regional companies offering coverage primarily in the Northeast.
+The Mapfre Insurance Group, which is the parent company of Commerce Insurance Company,
+continues to have the largest share of the voluntary (i.e., non-FAIR Plan) market with 11.0% of
+the home insurance premium written. Each of the next nine largest insurance groups had between
+8.4% and 3.8% of the voluntary market. Extending the analysis to include the 25 insurance groups
+with the largest Massachusetts home insurance market share,5 the top 25 groups together account
+5 The top 25 Massachusetts home insurers based upon overall direct written premiums for calendar year 2024 are:
+Allstate Insurance Group Norfolk & Dedham Union Mutual Insurance Group
+American Family Insurance Group Plymouth Rock Insurance Group
+Amica Preferred Mutual Insurance Company
+Andover Group Progressive Group
+Arbella Insurance Group Quincy Mutual Group
+4
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+for 92.7% of the non-FAIR-Plan Massachusetts market. In addition to the top 25, another 43 groups
+and 3 individual companies wrote homeowners’ insurance in Massachusetts in 2024, none of them
+with a market share greater than 0.91%. Together, these insurers wrote 7.3% of the voluntary
+market in 2024.6
+The FAIR Plan
+Massachusetts was among the first States to respond to concerns arising in the late 1960s over
+access to property insurance. The Legislature created the Urban Area Insurance Placement Facility
+(Facility) in 1968, and in 1970, the Commissioner of Insurance designated the entire State as an
+“urban area”, making Facility/FAIR Plan coverage available throughout Massachusetts.
+As of October 2024, thirty-three states have some sort of residual markets plan.
+Formally called the Massachusetts Property Insurance and Underwriting Association (MPIUA),
+due to continuity of mission, membership, and operations, the terms MPIUA and FAIR Plan are
+often used interchangeably. The FAIR Plan was substantially restructured in 1976, again in 1996,
+and most recently in 2024.
+The MPIUA was reorganized, effective April 4, 2024, as a stand-alone association pursuant to an
+Amended Constitution and Amended Plan of Operation (changing the rights and responsibilities
+of the members). The reorganized MPIUA operates now as a classic joint underwriting
+association – issuing policies as a direct insurer, accumulating surplus on its own account, and
+involving the member insurers financially only in the event of an assessment.
+By statute, the FAIR Plan is required to offer coverage to homes with a replacement cost of up to
+$1 million.7 If an owner cannot obtain a policy from an admitted insurance company and the
+home’s value is beyond what the FAIR Plan will cover, an owner can seek coverage in the surplus
+lines market.8
+Auto Owners Group Safety Group
+Barnstable Group (The) Hanover Insurance Group
+Chubb Ltd Group Tokio Marine Holdings Inc Group
+Cincinnati Financial Group Travelers Group
+Farmers Insurance Group United Services Automobile Association Group
+Heritage Insurance Holdings Group (formerly NBIC Universal Insurance Holding Group
+Holdings Group)
+Liberty Mutual Group Vermont Mutual Group
+Mapfre Insurance Group
+6 Based on the National Association of Insurance Commissioners’ 2024 data on home insurance multiple peril line of business by
+company group. Company groups often have more than one licensed insurer writing home insurance.
+7 See M.G.L. c. 175C, §4(4a), which requires all home insurance companies licensed to and engaged in writing property insurance
+in the Commonwealth to be members of a joint underwriting association that shall provide basic property insurance to eligible
+applicants who are otherwise unable to obtain such coverage in the voluntary market.
+8 Surplus lines companies are insurers which are not "licensed" or “admitted” in Massachusetts although they are "licensed" in
+another state (or country). Such insurers may issue coverage only through specially licensed surplus lines brokers. This document
+does not include statistical information on the surplus lines market.
+5
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+￼Figure 3
+The data in Figure 3 is on a fiscal year basis. The FAIR Plan’s business, as reported by the FAIR
+Plan and which comprises owner, condominium, and tenant policies, increased by 14,673
+policies between fiscal years 2023 and 2024.9
+As noted in Figure 4 (below), the FAIR Plan accounted for 8.7% of written premium in 2024. Its
+market share peaked at 16.1% in 2007.10
+9 The FAIR Plan’s fiscal year is between October 1st of one year and September 30th of the noted year. The decrease in FAIR Plan
+enrollment reported in the Executive Summary is a calendar year value.
+10 FAIR Plan market share is based upon FAIR Plan and total market written premium.
+6
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Figure 4
+7
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+As noted in Figure 5, in 2024, the FAIR Plan’s market grew—at 8.7% of total premium written—
+but remained less than the market share of the largest commercial carrier.
+￼Figure 5
+Changes in Coverage
+As reflected in Figure 6, the reported number of total home policies written by insurance
+companies and the FAIR Plan decreased between 2023 and 2024 by 19,808 or 0.92% due to a
+drop in tenant policies. Without a requirement from a landlord, tenant policies can vary with the
+economy and other factors. Suffolk and Middlesex counties saw the largest decreases in tenant
+policies: 8,675 and 5,213, respectively.
+8
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+2,500,000
+2022-2024 Total Home Insurance Policies*
+2,400,000
+2,300,000
+2,200,000
+2,151,661 2,144,620
+2,124,812
+2,100,000
+2,000,000
+1,900,000
+1,800,000
+1,700,000
+2022 2023 2024
+*Policies reflect reported house-years. Ahouse-year is defined as one house insured for one year, and is
+calculated based on the term of the policy.
+￼Figure 2
+Owner’s policies increased in 2024. Comparing coverage totals by county,11 as in Figure 7,
+Middlesex County, which had the largest population,12 also had the highest number of home
+insurance policies in force: 481,043. After Middlesex County, the next three largest counties for
+in-force home insurance policies are Worcester (264,202), Essex (239,278) and Norfolk (224,617).
+11 For the purpose of reporting information by county, certain ISO statistical reporting territories were combined in the following
+ways:
+Berkshire and Franklin Counties include ISO territory 50;
+Hampden and Hampshire Counties include ISO territories 47, 48 and 49;
+Worcester County includes ISO territories 45 and 46;
+Middlesex County includes ISO territories 41, 42, 43 and 44;
+Essex County includes ISO territories 38, 39 and 40;
+Suffolk County (including the City of Boston) includes ISO territories 2, 3, 4, 5 and 11;
+Norfolk County includes ISO territories 12, 30, and 31;
+Bristol County includes ISO territories 32, 33 and 34;
+Plymouth County includes ISO territories 35 and 36; and
+Barnstable, Dukes and Nantucket Counties include ISO territory 37.
+Detailed information for each territory is included in the Statistical Supplement to this report.
+12 Source: Annual Estimates of the Resident Population for Counties of Massachusetts: April 1, 2020 to July 1, 2024, Population
+Division, U.S. Census Bureau.
+9
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Figure 3
+The proportion of FAIR Plan policies written by area varies greatly. While the FAIR Plan writes
+39.6% of the home insurance for the Cape and Islands (comprising Barnstable, Dukes and
+Nantucket counties), it writes under 12% of the policies in each of the other counties in the state
+(see Figure 7).
+For our report next year, we will look to determine what percentage of homes insured by the
+FAIR Plan in the Cape and Islands are not used as primary residences.
+Between 2023 and 2024, the number of home insurance policies remained fairly consistent in most
+counties (see Figure 8).
+10
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Figure 8
+11
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Weather-Related Coverage Options and
+Limitations
+Wind Deductibles
+To reduce their financial risk, many home insurance companies have amended their standard
+policies to include mandatory wind deductibles.13 These deductibles may apply to any wind-
+related damage that occurs in specified coastal territories, typically located in Bristol, Plymouth,
+Barnstable, Dukes and Nantucket counties, or within a certain distance from the shore. These
+deductibles are imposed either as flat dollar amounts or as a percentage of the covered dwelling
+amount.14 The Division requires that insurers provide consumers with clear disclosures of the
+deductibles before they purchase coverage. This is often communicated on the declaration pages
+that would accompany the policy/endorsement packet sent to the insured.
+According to information submitted to the Division from the FAIR Plan and the top 25 companies
+in the market, all but four companies reported that they have mandatory wind deductibles that are
+part of the coverage they offer in the market, with deductibles up to 5% of the coverage for the
+main structure.15 The largest wind deductibles are in the coastal parts of Bristol, Plymouth,
+Barnstable, Dukes and Nantucket counties.
+Of all policyholders living in a coastal or urban area who are covered by the FAIR Plan or the top
+25 home insurance companies, 32.6% had a mandatory wind deductible applicable to their
+coverage in 2024. In coastal areas, 58.0% had a mandatory wind deductible. In urban areas, 19.1%
+had a mandatory wind deductible.
+Although wind deductibles can be a large cost for homeowners following a loss, they help keep
+premiums lower by sharing a greater portion of post-loss costs with the owner. The Division also
+encourages insurance companies to allow consumers to reduce or eliminate their wind deductibles
+by taking steps to mitigate the potential exposure of their property in the event of a wind event,
+such as by installing hurricane shutters or shatterproof glass, hurricane-proof garages or patios,
+and other doors and/or roof/foundation anchor bolts. The Division has worked with many carriers
+to establish clear rules for mitigation programs and to establish ways to document that mitigation
+steps have been taken.
+13 A wind deductible is a deductible that applies only to losses caused by wind.
+14 The FAIR Plan, for example, currently requires certain insureds to have a minimum named storm percentage deductible of 1%
+to 5% of the coverage amount for the dwelling and attached structures, or a minimum fixed dollar named storm deductible of up
+to $5,000, depending on the property’s county, distance from the coast and coverage.
+15 Additional detailed information is included in the Statistical Supplement to this report.
+12
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Flood Coverage and Exclusions
+In the United States, home insurance policies have not traditionally covered damage associated
+with floods.16 Recognizing this lack of protection, Congress enacted legislation in 1968 to create
+the National Flood Insurance Program (NFIP), which is administered by the Federal Emergency
+Management Agency (FEMA). Under the program, the government plays the role of underwriter
+and assumes the financial risk for damages while relying on private insurance agents to sell
+policies.
+Flood insurance is mandatory only for those homes that have been identified by FEMA mapping
+as located in high-risk flood areas and that are mortgaged through a federally backed lender.
+However, the NFIP makes flood coverage available for all property holders if the property is in an
+approved NFIP community. The property does not need to be in a flood plain to qualify for
+coverage.
+Prior to the current re-mapping of flood zones in Massachusetts, FEMA had estimated that more
+than 11 million U.S. homes were in flood zones and that about one-fourth of the homes located in
+Special Flood Hazard Areas (“SFHA”)17 were covered by NFIP-issued or NFIP-backed flood
+insurance. The proportion of property with flood coverage is believed to be low because many
+people underestimate the risk of flooding.
+As presented in Figure 9, FEMA reports that 56,650 policyholders in Massachusetts had flood
+insurance in 2024, which is an increase of 4.3% from the 54,997 reported for 2023.
+16 Automobile insurance policies, cover flood damage to a motor vehicle under optional comprehensive coverage.
+13
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Federal Emergency Management Agency (FEMA)
+National Flood Insurance Program
+MASSACHUSETTS*
+2023 2024
+NFIP NFIP NFIP NFIP NFIP NFIP
+County Policies Premium Coverage Policies Premium Coverage
+Berkshire & Franklin 670 $903,318 $177,160,000 726 $972,301 $187,997,000
+Hampden & Hampshire 1,143 $1,431,173 $320,312,000 1,146 $1,570,994 $327,799,000
+Worcester 1,276 $1,482,394 $357,580,000 1,385 $1,645,616 $399,303,000
+Middlesex 6,385 $4,696,227 $1,592,163,000 6,955 $5,340,479 $1,731,819,000
+Essex 8,333 $9,333,679 $2,319,221,000 8,613 $10,168,766 $2,397,548,000
+Suffolk 8,395 $7,135,977 $2,334,161,000 9,119 $7,692,370 $2,501,212,000
+Norfolk 5,349 $4,495,334 $1,437,992,000 5,510 $4,656,737 $1,493,419,000
+Bristol 3,196 $3,644,529 $870,063,000 3,250 $3,945,461 $889,864,000
+Plymouth 8,068 $9,828,438 $2,163,735,000 8,312 $10,805,516 $2,245,401,000
+Barnstable, Dukes & Nantucket 11,524 $14,043,700 $3,302,864,000 11,634 $15,101,344 $3,335,006,000
+State Total : 54,339 $56,994,769 $14,875,251,000 56,650 $61,899,584 $15,509,368,000
+Figure 9
+*Data is from https://nfipservices.floodsmart.gov/reports-flood-insurance-data -- as 6/30/2023 for 2023 policies and as of 6/30/2024 for 2024 policies.
+Flood insurance is required for insurable structures within high-risk areas to protect Federal financial investments and assistance
+used for acquisition and/or construction purposes within communities participating in the National Flood Insurance Program.
+The NFIP continually updates statistics on national purchases of flood insurance and periodically
+produces special reports on the matter. According to the NFIP’s monthly countrywide policy
+statistics, as of 6/30/2024 Massachusetts ranked 13th in the country in the number of policies in
+place through the flood insurance program.
+The U.S. Census Bureau ranked Massachusetts as the 22nd most populous state.18 While population
+does not necessarily correlate with flood exposure, the number of Massachusetts homes with flood
+insurance continues to be relatively low for 2024 (See Figure 10). The Division issued Bulletin
+2006-05, in 2006, to remind insurers and insurance producers to offer flood insurance to all state
+residents.
+18 Massachusetts population ranking is based on estimates as of July 1, 2024. The 2024 U.S. Census Bureau statistics, available at
+https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html#par_textimage_1574439295
+14
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Figure 10
+Since the 1970s, NFIP rates were predominantly based on relatively static measurements,
+emphasizing a property’s elevation within a zone on a Flood Insurance Rate Map (FIRM). This
+approach did not incorporate as many flooding variables as Risk Rating 2.0. Risk Rating 2.0 is the
+relatively new methodology used by FEMA and essentially places homes in market “baskets”. The
+baskets contain single-family homes with similar property and policy coverage characteristics for
+that region. Rating now more resembles how risk is assessed for other types of insurance. One of
+the goals of Risk Rating 2.0 is to deliver rates that are actuarially sound, equitable, easier to
+understand and better reflect a property’s flood risk. With Risk Rating 2.0, FEMA now has the
+capability and tools to address rating disparities by incorporating more flood risk variables. These
+include flood frequency, multiple flood types—river overflow, storm surge, coastal erosion and
+heavy rainfall—and distance to a water source along with property characteristics such as elevation
+and the cost to rebuild.
+In recent years private insurers have increased the residential flood coverage they provide in
+Massachusetts. In 2018, there was $4,857,911 of direct written premium on 1,668 Massachusetts
+private residential flood policies in force (at year-end 2018) plus an additional $693,558 direct
+written premium on 3,731 private residential flood endorsements. By 2024, private flood
+coverage had increased to $9,585,779 of Massachusetts direct written premium on 5,266
+residential flood policies (year-end 2024), and $1,755,108 of direct written premium on 2,274
+private residential endorsements.19
+19 The source of this data is the National Association of Insurance Commissioners “Data Call Results:”
+https://content.naic.org/industry_private_flood_data_call.htm
+15
+%9.0 %0.1 %6.0 %6.0 %5.0 %5.0
+%3.1 %4.1
+%5.3 %6.3
+%1.4
+%6.4
+%4.2 %5.2
+%0.2 %0.2
+%7.4 %9.4
+%3.8 %6.8
+2023 and 2024 Percentage* of Homes with Flood Insurance
+9.0%
+8.0%
+7.0%
+6.0%
+5.0%
+4.0%
+3.0%
+2.0% 2023
+1.0% 2024
+0.0%
+*The percentage is estimated by dividing the total number of flood policies in each
+countyby the written house-years in the county.
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+The growth in the private flood market is encouraging as flooding is a very common and costly
+natural disaster. The Division continually reminds consumers that flooding can occur anywhere,
+not just near bodies of water.
+Climate Mitigation
+To better understand Massachusetts’ carrier’s efforts to address the risks of storms, wildfire and
+other climate risks, the Division of Insurance again called a special examination of the top 25
+Massachusetts home insurance groups and the FAIR Plan. The examination asked about credits
+or discounts offered by each insurer in calendar year 2024 as well as how policyholder pre-loss
+mitigation measures and community-level loss resiliency efforts impacted rates, deductibles and
+the carrier’s capacity to write homeowners’ insurance in the Commonwealth. In addition, the
+Division asked whether the insurers had implemented underwriting rules in the prior five years
+that were intended to reduce the insurer’s exposure to climate-related risks. Specific aggregated
+results from the survey include the following:
+Nineteen (19) of the surveyed insurers reported that they give premium credits or reduce rates
+when homeowners take certain carrier-specific loss mitigation measures such as: hurricane
+shutters, hurricane-resistant glass, roof/foundation tie-downs, wind-resistant roof geometry, and
+back-up power supplies.
+Several insurers reported premium credits for general mitigation factors, such as construction
+compliance with specific building codes, or housing meeting Institute for Building and Home
+Safety (IBHS) certification requirements.
+Among the six insurers that do not give credit the reasons for not giving premium credit for
+wind mitigation included: difficulty verifying mitigation, difficulty quantifying impact of
+mitigation, and friction in the price quotation process created by requiring policyholder
+mitigation data.
+• One insurer gives credit for LEED (Leadership in Energy and Environmental Design)
+certified homes.
+• Five (5) of the surveyed insurers reduced or eliminated wind deductibles in response to
+mitigation measures--, such as for hurricane shutters, hurricane-resistant glass, reinforced
+doors, and roof or foundation tie-downs. For the twenty-one(insurers) that did not reduce
+deductibles for mitigation, two did not require mandatory deductibles in the first place and
+one required at most a 2% deductible. Of the other eighteen (18) insurers, nine (9) explained
+that geography was determinative of deductibles: mandatory deductibles reduce maximum
+loss in a geographic area and may be required by reinsurance covenants, by reinsurance
+pricing structures, or for maintaining capacity. The remaining carriers mostly cited that the
+benefit of mitigation on loss was too difficult to quantify or that the benefit of mitigation
+measures was already fully reflected through rating credits.
+16
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+• Nine (9) of the surveyed insurers reported that considering their policyholders’ climate-
+related mitigation measures through lower rates or lower deductibles has resulted in
+increased capacity to write homeowners’ insurance in Massachusetts.
+• Fourteen (14) of the surveyed insurers reported they had implemented underwriting measures
+in the years 2019-2024 that were intended to reduce their exposure to climate-related risks.
+Examples of measures included: restricting capacity for a given geographic area based on
+distance to coast, on modeled losses or on reinsurer capacity for that area; mandatory flood
+insurance in a particular location or zone; IBHS certification for new writings in certain
+zones.
+• Fourteen (14) of the surveyed insurers reported that the availability of actuarially sound data
+reflecting municipal-level or community-level resilience to climate-related causes of
+loss. The most cited data sources were commercial catastrophe model loss simulations and
+ISO’s Building Code Effectiveness Grading (BCEG). Insurers also indicated that there was
+data available about the year of construction of housing in a community, which can be
+compared to the code in effect the time of construction.
+Overall, many of the surveyed insurers are taking mitigation measures into account when
+developing rates for home insurance products. By considering the actuarial data, carriers are
+offering benefits in return for mitigation efforts that can be expected to reduce projected losses.
+The Division of Insurance encourages insurance companies to allow consumers to reduce or
+eliminate deductibles by taking steps to mitigate the potential exposure of their property in the
+event of a weather event.
+17
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Premiums and Losses
+Premiums
+In 2024, Massachusetts insureds purchased approximately $3.9 billion in home insurance
+coverages, as measured in premium paid, which is 12.7% more than was reported for 2023. Of
+the total premium, 93.5% was for traditional homeowners’ insurance. Between 2023 and 2024,
+traditional homeowners’ insurance premiums increased by approximately $423.3 million.
+￼Figure 11
+Average premiums increased in 2024 for traditional homeowners, tenant and condominium
+coverages.
+￼Figure 12
+18
+951,110,931$ 048,634,061$ 594,196,181$ 529,630,557,2$
+760,249,162,3$
+912,862,586,3$
+093,972,47$ 227,985,67$ 356,821,57$
+Total Premium by Type of Coverage
+4,000,000,000
+3,500,000,000
+3,000,000,000
+2,500,000,000
+2,000,000,000
+1,500,000,000
+1,000,000,000
+500,000,000
+0 2022 2023 2024 2022 2023 2024 2022 2023 2024
+Condominium Homeowner Tenant
+Average Premium by Type of Coverage
+$2,500
+$2,000 $2,371
+$2,054
+$1,500 $1,818
+$1,000
+$500
+$473 $530 $633 $176 $181 $189
+$0
+2022 2023 2024 2022 2023 2024 2022 2023 2024
+Condominium Homeowner Tenant
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Insurance rates are based on individual company projections of future claims and expenses, which
+are, in turn, based on prior years’ experience. This section looks at past claims and expense trends.
+Filed Claims
+In 2024, insureds filed 52,550 claims with their home insurance companies, 39.1% less than in
+2023. Approximately 84% of these claims were filed on traditional homeowners’ insurance
+policies. As illustrated in Figure 13, owners, condominium and tenant coverage types all
+experienced a decrease in the number of reported claims between 2023 and 2024.
+Total Number of Claims by Type of Coverage
+80,000
+70,000
+73,605
+60,000
+50,000
+40,000 44,125
+42,584
+30,000
+20,000
+9,508
+10,000 6,027 6,209 2,905 3,217 2,216
+0
+2022 2023 2024 2022 2023 2024 2022 2023 2024
+Condominium Homeowner Tenant
+￼Figure 13
+Claim trends tend to fluctuate with damage-causing weather patterns as well as economic factors
+with some homeowners potentially choosing to pay for repairs themselves instead of filing a claim.
+In 2024, there were seven designated Massachusetts catastrophes resulting in total estimated
+Massachusetts property catastrophe losses of $157.1 million compared to $892.3 million of
+catastrophe losses in 2023.
+As illustrated in Figure 14 (below), the average size of claims incurred increased 17.7% for
+traditional home insurance, decreased by 2.5% for condominiums, and increased by 28.4% for
+tenants. The increase in average claim size for traditional home insurance reflects the mix of causes
+of loss causing claims in 2024 (see following section discussing cause of loss) and the increases
+to the cost of materials and labor.
+19
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Average Claim Size by Type of Coverage
+$30,000
+$25,000
+$26,372
+$24,746
+$20,000
+$21,023
+$15,000
+$10,000
+$9,155 $9,481 $9,240
+$5,000 $8,134
+$6,214 $6,333
+$0
+2022 2023 2024 2022 2023 2024 2022 2023 2024
+Condominium Homeowner Tenant
+￼Figure 14
+Analysis of Claims Experience
+When recording reported claims, companies categorize submitted claims according to the cause of
+loss to project future claims and to develop loss control programs aimed at reducing future losses.
+Although companies track losses from both natural events (such as hurricanes) and man-made
+events (such as thefts) to develop loss controls that are tailored to various events, in general,
+company groups categorized claims as follows:
+• Fire, lightning and debris removal;
+• Wind and hail;
+• Water damage and freezing;
+• Theft;
+• Liability and medical; and
+• All other.20
+As illustrated in Figure 15, almost half (48.6%) of total claims were submitted for water losses for
+non-flood related water damage. Policyholders also submitted 5,268 claims for fire, lightning, and
+removal damages and 9,842 claims for damages classified as “all other losses,” accounting
+respectively for 10% and 18.7% of total claims filed. There was a total of 9,225 claims filed under
+the wind category, which represents 17.6% of total claims filed.
+20 The “all other” category is used when: (a) the claim does not fit one of the other causes of loss, (b) there is some question as to
+which cause of loss among several possible causes of loss caused the claim, or (c) the cause of loss is not known initially.
+20
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+￼Figure 15
+21
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+When considering the total dollar cost of claims, as illustrated in Figure 16, the distribution of
+losses reflects the fact that certain types of claims (particularly wind and water) are subject to wide
+variation in claim counts from year to year.
+￼Figure 16
+Additional Detail on Each Cause of Loss
+Fire, Lightning and Removal dollar losses as a percentage of statewide losses increased from
+29.0% in 2023 to 39.5% in 2024. The statewide average fire, lightning and removal claim cost was
+$63,155 in 2023, increasing to $87,599 in 2024.
+Wind & Hail losses accounted for 9.2% of total losses in 2024, down from 12.2% in 2023. The
+statewide average claim cost for wind and hail decreased from $11,549 in 2023 to $11,637 in 2024.
+Non-Flood Water Damage and Freezing losses accounted for 46.5% of total losses in 2023 and
+36.4% of total losses in 2024. The statewide average claim cost for non-flood water damage and
+freezing slightly increased from $16,206 in 2023 to $16,639 in 2024.
+22
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Theft losses accounted for 0.5% of total losses in 2023 and 0.5% of total losses in 2024. The
+average statewide theft claim cost decreased from $9,406 in 2023 to $4,924in 2024.
+Liability and Medical Payments dollar losses accounted for 3.9% of total losses in 2023 and
+4.8% of total losses in 2024. The average statewide liability and medical claim cost increased from
+$27,192 in 2023 to $39,101 in 2024.
+All Other claims’ losses accounted for 9.6% of total losses in 2024, compared to 8.0% in 2023.
+The average claim cost was $10,927 in 2023, increasing to $11,375 in 2024.
+23
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Loss Ratios
+Loss Experience Compared to Earned Premiums
+Loss ratio (incurred losses divided by earned premium) is a generally accepted measure of the
+underwriting success or failure of property insurance. The higher the cost to the company of
+reinsurance and other expenses, the lower the company’s loss ratio must be for it to continue to
+operate. The higher the loss ratio, the more likely companies will have overall losses after paying
+for administrative expenses. Based on the submitted loss data, the 2024 overall loss ratio for all
+FAIR Plan and insurance company policies was 31.4% across all types of residences (traditional
+homes, condominiums, rentals).
+Figure 17 presents a history of the loss ratios for the entire market since 2014:
+￼Figure 17
+24
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Non-weather events do not usually cause major shifts in loss trends.21 Weather-related events, on
+the other hand, can cause significant shifts, depending on the severity of the events. Looking back
+on the past 10 years, there were two “catastrophe” events that resulted in losses in Massachusetts
+in 2014, six in 2015, three in 2016, one in 2017, five (four weather-related) in 2018, five in 2019,
+nine in 2020, six in 2021, three in 2022, eight in 2023, and seven in 2024 with the resulting losses
+varying with the severity of the events. As presented in Figure 18, the traditional homeowners loss
+ratio was 31.4%, the condominium loss ratio was 33.8%, and the tenant coverage loss ratio was
+24.1% in 2024.
+￼
+Figure 18
+21 Fire losses are an exception since fires involving multiple dwellings can significantly impact losses for a year.
+25
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Combined Ratios: Loss and Expense Experience Compared to Premiums Collected
+The combined ratio (the combination of company expenses and incurred claims costs divided by
+earned premium) is a measure of the overall experience of property insurance companies in a
+market. A lower combined ratio corresponds with a higher potential profit for the company. The
+research which forms the basis for this report does not include information on insurance company
+operating expenses. To get a more complete picture of insurers’ financial results, the Division has
+incorporated industry expense data that insurance companies submit as part of their annual
+financial statements. Figure 19 calculates the percentage of premium that insurance companies
+paid out for Massachusetts home insurance losses and the percentages of premium that can be
+attributed to various operating expenses. The result is an “Adjusted Combined Ratio” for the
+Massachusetts home insurance market.
+Figure 19
+Figure 19 also presents various home insurance company expenses as a percentage of premiums.
+The adjusted combined ratio illustrates how other necessary expenses, when combined with losses,
+can be compared to homeowners’ insurance premiums.22 The adjusted combined ratio of 66.5%
+for 2024 shows a significant decrease from 86.1% in 2023.
+22 Insurance companies pay claims handling expenses (also known as “loss adjustment expenses”) which, if added to incurred
+losses to calculate an adjusted loss ratio, provide a clearer picture of the proportion of premium dollars that are devoted to claims
+and claims handling expenses. In addition to claims, companies need to pay other expenses, including producer commissions,
+taxes and licensing fees, other acquisition costs, and general administrative expenses in order to run their businesses. These
+expenses, when combined with the adjusted loss ratio, generate a combined ratio reflecting the overall costs of business during
+a calendar year. Finally, some mutual insurance companies make payouts to policyholders in the form of dividends that should
+be factored into the analysis, as these are real expenses paid out by companies to their policyholders.
+26
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+This analysis does not include what insurance companies pay to reinsurers for catastrophe and
+hurricane reinsurance. Based upon information submitted as part of individual company rate
+filings, the Division estimates that reinsurance expenses could account for as much as 25% of a
+company’s premiums, depending on that company’s portfolio of coastal exposures. The analysis
+also omits reinsurance recoveries, or payments from reinsurers to insurance companies that
+partially reimburse the insurance company for losses paid.
+200.0%
+180.1%
+180.0%
+160.0%
+143.2%
+140.0%
+120.0%
+1 8 0 0 0 . . 0 0 % % 90.8% 76.1% 76.4% 83.2% 81.4% 83.0% 74.9% 76.4% 79.6% 79.2% 75.6% 87.8% 79.1% 78.0% 78.7% 77.9% 86.1%
+66.5%
+60.0%
+40.0%
+20.0%
+0.0%
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Figure 20
+Figure 20 illustrates fluctuations in the market’s adjusted combined ratio. This can often be caused
+by weather-related disasters, as observed, for example, in the higher combined ratio in 2015 when
+Massachusetts was impacted by winter storms/ice dams.
+27
+oitaR
+denibmoC
+detsujdA
+Massachusetts Home Insurance Adjusted Combined Ratios
+Year
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+FAIR Plan Financial Results
+During its 2024 fiscal year, the FAIR Plan had an underwriting gain of $33,381,00023 (see
+accompanying Statistical Supplement). The mix of FAIR Plan underwriting gains and losses from
+year to year as shown in Figure 21 demonstrates the high volatility of results in the home insurance
+lines of business. Please note that the FAIR Plan underwriting results are on a direct basis and do
+not reflect reinsurance premiums paid by the FAIR Plan or reinsurance recoveries.
+￼
+Figure 21
+23 The FAIR Plan fiscal year runs from October 1st of one calendar year to September 30th of the noted calendar year.
+28
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Figure 22 illustrates on a per policy basis the FAIR Plan’s $193 per policy fiscal year 2024
+underwriting result – sometimes termed a “contribution to” (or “charge against”) surplus.24 This
+gain follows an underwriting loss of $129 per policy in 2023.
+￼
+Figure 2225
+24 The MPIUA (and the FAIR Plan in its post-1976 structure) is not an insurance company or legal entity but, instead, a statutorily
+mandated association of all the insurance companies writing homeowners’ insurance in the Commonwealth. The FAIR Plan
+refers to its underwriting profit as its contribution to surplus and its underwriting loss as its charge against surplus. For the
+purpose of this analysis, the report will continue to refer to these as underwriting profit and underwriting loss for owner,
+condominium, and tenant policies, as reported by the FAIR Plan.
+25 Fair Plan underwriting gain (loss) per policy is calculated by dividing the fiscal year’s underwriting profit (loss) by the number
+of fiscal year owner, condominium and tenant policies issued.
+29
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Changes in FAIR Plan Rates
+Between 1996 and 2010, the FAIR Plan filed to revise its rates 11 times. In April 2013, the FAIR
+Plan submitted a request for an overall statewide increase of 6.8% for home insurance forms. The
+filing was reviewed in accordance with state law with the hearing on this rate proceeding
+concluding in 2014. The filing was disapproved in June 2014.
+There have been no filings to revise annual average rates by the FAIR Plan since 2013.
+FAIR Plan Home Insurance Rate Changes
+Effective Date* Percent
+12/31/1996 5.3%
+12/31/1997 2.2%
+12/31/1998 0.9%
+12/31/1999 0.1%
+12/31/2000 -0.5%
+12/31/2001 -0.2%
+12/31/2002 1.9%
+12/31/2003 2.8%
+12/31/2004 3.2%
+10/1/2006 12.4%
+3/31/2010 -0.7%
+*Years not shown had no rate change
+Figure 23
+30
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+FAIR Plan Clearinghouse
+The Massachusetts Property Insurance Underwriting Association (MPIUA) -- serves as the
+residual market insurer. Many of the homes currently insured through the MPIUA could
+potentially qualify for voluntary market coverage from one or more Massachusetts licensed
+insurers.
+In 2018, the MPIUA Board of Directors authorized and implemented the clearinghouse initiative
+to help insurance companies work with homeowners’ producers to give more residual market (i.e.,
+FAIR Plan) policyholders the opportunity to find coverage in the voluntary market and to
+depopulate the FAIR Plan.
+For an insurance company to participate in the Clearinghouse, the company must be an admitted
+carrier, licensed to write homeowners’ insurance in Massachusetts and must sign a Clearinghouse
+Agreement containing the terms and conditions under which the MPIUA will provide information
+to the company.
+The information provided to the company does not include any personally identifiable information
+but does include certain information about the insured and about the property to assist the member
+company in determining whether to offer homeowners’ insurance, through the policy's listed
+producer, to an existing FAIR Plan policyholder.
+The Clearinghouse Agreement and procedure recognizes the producer's ownership of the renewal
+rights in the policy by permitting a MPIUA member company to participate only if the company
+first has a contractual relationship with the producer under an agency agreement or a limited
+servicing agreement. Further, any offer must be made through the insurance producer listed on the
+FAIR Plan policy. Additionally, the company may contact the listed producer to obtain more
+information on the risk it is interested in insuring.
+31
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Cancellations and Nonrenewals
+Under M.G.L. c. 175, §4B, the Division collects information from the top 25 insurers26 and the
+FAIR Plan regarding policies in force, total cancellations, and total nonrenewals for each urban
+and coastal zip code designated by the Commissioner for additional review and reporting. The data
+is collected on a calendar year basis for policies written during the reporting period.27
+Aggregate Cancellation/Nonrenewal Data for Urban/Coastal Areas28
+Figures 24A and 24B depict the percentage of cancellations and nonrenewals in the designated
+areas. The top 25 companies and the FAIR Plan reported that they had 604,835 policies in force in
+urban and coastal areas as of December 31, 2024. Of the total policies in force, there were 394,351
+policies in urban areas and 210,340 policies in coastal areas. The top 25 companies covered
+473,846 homes and the FAIR Plan covered 130,989 homes.
+Home insurance products are term products, almost always written with a one-year policy period.
+At the end of the one-year period, insurance companies and insureds must decide whether to
+continue the coverage for another policy period or to nonrenew the policy. There are no
+Massachusetts statutes that limit the reasons for the nonrenewal of coverage by an insurer, but an
+insurer must provide the policyholder or policyholder’s insurance producer with at least 45 days
+advance notice.
+A policy cancellation is the termination of a policy before its one-year effective period has expired.
+The policies may be cancelled by the insured, or, under certain circumstances, the insurance
+company can cancel the policy.
+During 2024, there were a total of 91,815 policies cancelled in urban or coastal areas, with 74,436
+cancellations among the top 25 companies and 17,379 cancelled FAIR Plan policies. Of the total
+number of cancellations, 67,291 policies were cancelled in urban areas and 24,524 policies were
+cancelled in coastal areas.
+26 The top 25 insurers, primarily insurer groups that were writing homeowners’ insurance in Massachusetts in 2024 based on written
+premium data from the National Association of Insurance Commissioner’s database for homeowners’ multiple peril, are listed
+within footnote 6. Some of these insurer groups are better known by the names of their individual insurance companies.
+27 The designated zip codes are identified in Exhibit 8A of the Statistical Supplement to this report.
+28 Statutory cancellation and nonrenewal provisions can be found in M.G.L. c. 175, §§ 4C, 99 and 193P. Detailed information
+identifying the number of cancellations and nonrenewals by zip code for each of the noted companies is included within the
+Statistical Supplement to this report.
+32
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Figure 24A Figure 24B
+For purposes of this report, policy nonrenewal refers to the insurance company not offering to
+renew a policy when it expires. The top 25 companies and the FAIR Plan report that there was a
+total of 13,352 policies nonrenewed in the urban and coastal designated zip codes in 2024, with
+10,457 policies nonrenewed among the top 25 companies and 2,895 nonrenewed FAIR Plan
+policies. Of the total number of nonrenewals, 6,363 policies were nonrenewed in urban areas and
+4,094 policies were nonrenewed in coastal areas.
+When examining the information submitted on a company-by-company basis, as illustrated in
+Figure 25, three companies – Heritage Insurance Holdings Group, Mapfre, and Barnstable Group
+had the highest nonrenewal percentages in 2024.
+33
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Figure 25
+34
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Cancellations for Urban/Coastal Areas
+In examining cancellations in urban and coastal areas, the Division asked companies to report
+whether cancellations were policyholder-initiated or insurer-initiated, and if insurer-initiated,
+whether they were made in the first 60 days (when an insurer may do so without reason) or were
+due to nonpayment or for other permitted reasons after the first 60 days of a policy. The Division
+requested information regarding the number of cancellations specifically associated with
+geographic concerns, as opposed to those undertaken for any other reasons.
+The top 25 companies and the FAIR Plan reported:
+• 91,815 cancellations during 2024.
+59,064 were initiated by the policyholder; and
+o
+32,751 were initiated by the insurer, of which:
+o
+ 3,331 initiated by the insurer in the first 60 days,
+ 25,196 cancelled due to nonpayment, and
+ 4,224 cancelled for other reasons permitted by law.
+￼
+Figure 26
+From an examination of those policies that were in urban areas:
+• 67,291 cancellations occurred during 2024.
+41,990 were initiated by the policyholder; and
+o
+25,301 were initiated by the insurer, of which:
+o
+35
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+ 2,602 initiated in the first 60 days,
+ 19,658 cancelled due to nonpayment, and
+ 3,041 cancelled for other reasons permitted by law.
+From an examination of those policies that were in coastal areas:
+• 24,524 cancellations occurred during 2024.
+17,074 were initiated by the policyholder; and
+o
+7,450 were initiated by the insurer, of which:
+o
+ 729 initiated in the first 60 days,
+ 5,538 cancelled due to nonpayment, and
+ 1,183 cancelled for other reasons permitted by law.
+The Division does not ask companies to report data where a renewal offer was made and the
+policyholder did not accept the offer, instances where the policyholder requested that the policy
+not be renewed, and any nonrenewals connected to an insurance agency that did not produce
+business for the company during the years 2022, 2023, and 2024. The Division requested that
+companies distinguish nonrenewals of particular policies from nonrenewals that were made based
+on (a) the risk of natural perils (i.e., windstorm, hurricane) that are usually covered under the
+standard homeowner’s policy and (b) all other reasons.
+The top 25 companies reported that there were 10,457 insurer-initiated policies nonrenewed in the
+urban and coastal designated zip codes in 2024,29 with 269 of the nonrenewals resulting from
+insurer withdrawal from certain geographic areas. Of the reported 10,457 nonrenewals in 2024,
+there were 4,094 nonrenewals in those zip codes identified as coastal areas and 6,363 nonrenewals
+in those zip codes identified as urban areas.
+In addition to the top 25 company nonrenewals, the FAIR Plan did not renew 2,895 policies
+according to what is permitted within its Plan of Operations.
+29 The designated zip codes are identified in Exhibit 8A of the Statistical Supplement to this report.
+36
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+Claims History of Policyholders Renewed and Nonrenewed in Urban/Coastal Areas in 2024
+The Division asked the top 25 home insurance companies to separately report the claims history
+of policies that were renewed or nonrenewed.30
+In 2024, of the reported 468,813 urban or coastal policies renewed by the top 25 home insurance
+companies, there were an estimated 24,261 claims filed during the reporting period, an average of
+52 claims filed per 1,000 policies renewed in 2024. The companies reported having paid
+$428,513,942 in claims during the reporting period for those renewed in 2024, with an average
+claim size of $14,957.
+By comparison, in 2023, of the reported 456,219 policies renewed by the top 25 home insurance
+companies, there were an estimated 27,918 claims filed during the reporting period, or an average
+of 61 claims filed per 1,000 policies renewed. The companies reported having paid $455,987,004
+in claims during the period for those renewed, with an average size of $13,330.
+When comparing urban and coastal renewed policies, there were 54 claims filed per 1,000 coastal
+policies, as compared to 51 claims filed per 1,000 urban policies. The average claim size for
+renewal policies was $18,019 per claim for coastal policies, as compared to $13,589 per claim for
+urban policies.
+Of the reported 10,188 policies nonrenewed by the top 25 insurance companies, there were a total
+of 1,799 claims filed in 2024, or an average of 177 claims filed per 1,000 nonrenewed policies.
+The companies reported having paid $57,738,664 in claims on these nonrenewed policies during
+the reporting period, with an average claim size of $32,095.
+When comparing urban and coastal nonrenewed policies, there were 202 claims filed per 1,000
+coastal policies, as compared to 161 claims filed per 1,000 urban policies. The average claim size
+for nonrenewed policies was $27,078 per claim for coastal policies, as compared to $35,927 per
+claim for urban policies.
+Summary of Cancellation/Nonrenewals in Urban/Coastal Areas
+It is apparent from survey data that insureds who have been nonrenewed have, on average, filed
+more claims and more expensive claims during the experience period compared to insureds who
+were renewed. Nevertheless, a significant number of insureds whose policies were renewed also
+filed claims. In 2023, approximately 34,208 of those whose coverage was renewed did file claims
+sometime in the prior three years and companies made payments of $455,987,004 on these claims.
+30 In collecting the claims history for those policies renewed in 2024, the Division requested in its survey that the company report
+the number of claims reported and dollar value of claims paid during each of 2022, 2023 and 2024. Similarly, in collecting the
+claims history for those policies nonrenewed in 2024, the Division requested that the company report the number of claims
+reported and dollar of claims paid during each of 2022, 2023 and 2024.
+37
+
+Massachusetts Division of Insurance Annual Home Insurance Report for Calendar Year 2024
+__________________________________________________________
+In 2024, we calculate that 28,649 of those whose coverage was renewed did file claims sometime
+in the prior three years and companies made payments of $428,513,942 on these claims.
+In urban areas, 95.1% of those policyholders with claims were renewed by their insurers. Similarly,
+91.9% of those policyholders with claims in coastal areas were renewed by their insurance
+companies31. See Figures 27A and 27B.
+￼
+Figure 27A
+￼
+Figure 27B
+31 Based on the assumption that there was only one claim per policyholder.
+38

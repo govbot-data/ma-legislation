@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+SENATE . . . . . . . . . . . . . . No. 2911
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+SENATE, January 15, 2026.
+The committee on Election Laws to whom was referred the petition (accompanied by bill,
+Senate, No. 531) of Rebecca L. Rausch, Michael J. Barrett, Joanne M. Comerford, Erika
+Uyterhoeven and others for legislation to provide a local option for ranked choice voting in
+municipal elections, report the accompanying bill (Senate, No. 2911).
+For the committee,
+John F. Keenan
+
+FILED ON: 1/14/2026
+SENATE . . . . . . . . . . . . . . No. 2911
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act providing a local option for ranked choice voting in municipal elections.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Section 44A of chapter 43 of the General Laws, as appearing in the 2022
+2 Official Edition, is hereby amended, in line 7, by inserting after the word “inclusive,” the
+3 following words:- and section 103R of chapter 54.
+4 SECTION 2. Section 77 of chapter 54 of the General Laws, as appearing in the 2022
+5 Official Edition, is hereby amended by striking out the phrase “marking a cross (X) in the square
+6 at the right of the name of each candidate for whom he intends to vote” and inserting in place
+7 thereof the following phrase:- marking the ballot in a manner prescribed by the state secretary.
+8 SECTION 3. Said chapter 54, as so appearing, is hereby further amended by inserting
+9 after section 103Q the following section:-
+10 Section 103R. (a) For the purposes of this section, the following terms shall have the
+11 following meanings, unless the context clearly requires otherwise:
+1 of 9
+
+12 “Batch elimination”, the simultaneous defeat of multiple candidates for whom it is
+13 mathematically impossible to be elected.
+14 "Concluded ballot", a ballot that does not rank any continuing candidate or contains an
+15 overvote at the highest-ranked continuing candidate, or contains 2 or more sequential skipped
+16 rankings before its highest-ranked continuing candidate.
+17 "Continuing candidate", a candidate who has been neither defeated nor elected.
+18 “Elected candidate”, a candidate who has obtained sufficient votes to be elected, whether
+19 there are additional election rounds before the election has concluded, or the election concluded
+20 after the vote during which they were elected.
+21 “Election threshold”, the number of votes sufficient for a candidate to be elected in a
+22 multi-seat election, which is calculated by dividing the total number of votes counting for
+23 continuing candidates in the first round by the sum of the number of seats to be elected and 1,
+24 disregarding any fractions, and then adding 1.
+25 "Highest-ranked continuing candidate", the continuing candidate with the highest ranking
+26 on a voter's ballot.
+27 "Last-place candidate", (i) the candidate with the lowest vote total in a round of the
+28 ranked-choice voting tabulation; or (ii) a candidate that is defeated in batch elimination.
+29 "Overvote", a circumstance in which a voter ranks more than 1 candidate at the same
+30 ranking.
+31 “Ranked choice voting”, a method of casting and tabulating ballots in which voters rank
+32 candidates for office in order of preference.
+2 of 9
+
+33 "Ranking", the number assigned on a ballot by a voter to a candidate to express the
+34 voter's relative preference for that candidate. Ranking number 1 shall be the highest ranking,
+35 ranking number 2 shall be the next-highest ranking, and so on.
+36 “Skipped ranking”, a circumstance in which a voter does not use a ranking and ranks a
+37 candidate with a subsequent ranking.
+38 “Surplus fraction”, the number equal to the difference between an elected candidate’s
+39 vote total and the election threshold, divided by the candidate’s vote total.
+40 “Transfer value”, the proportion of a vote that a ballot will count to its highest-ranked
+41 continuing candidate. Each ballot shall begin with a transfer value of 1. If a ballot counts to the
+42 election of a candidate under subsection (d)(1), the ballot receives a lower transfer value.
+43 (b) Notwithstanding any other general or special law to the contrary, a city or town that
+44 accepts this section in the manner provided in subsection (m) may conduct a local election using
+45 ranked choice voting in which voters rank the candidates for an office in order of preference.
+46 (c) Ranked choice voting shall apply to a single-seat office only when the number of
+47 candidates printed on the ballot exceeds 2 and to a multi-seat office only when the number of
+48 candidates printed on the ballot exceeds the number of seats to be elected.
+49 (d) In any single-seat election, each round shall begin by counting the number of votes
+50 for each continuing candidate. Each ballot shall count as 1 vote for its highest-ranked continuing
+51 candidate. Concluded ballots shall not be counted for any continuing candidate. Each round shall
+52 proceed sequentially as follows:
+3 of 9
+
+53 (1) If there are 2 or fewer continuing candidates, the candidate with the most votes shall
+54 be elected, and tabulation shall be complete.
+55 (2) If there are more than 2 continuing candidates, the last-place candidate shall be
+56 defeated, or the last-place candidates shall be defeated in batch elimination, and a new round
+57 shall begin.
+58 (e) In any multi-seat election, each round shall begin by counting the number of votes for
+59 each continuing candidate. Each ballot shall count, at its current transfer value, for its highest-
+60 ranked continuing candidate. Concluded ballots shall not count for any continuing candidate. In
+61 the first round only, the election threshold shall then be calculated. Each round shall proceed
+62 sequentially as follows:
+63 (1) If the sum of the number of elected candidates and continuing candidates is equal to
+64 the number of seats to be filled, then all continuing candidates shall be elected, and tabulation
+65 shall be complete.
+66 (2) If at least 1 continuing candidate has greater than or equal to the number of votes than
+67 the election threshold, then all such candidates shall be elected. If the number of elected
+68 candidates is equal to the number of seats to be filled, then tabulation shall be complete.
+69 Otherwise, each ballot counting for an elected candidate shall be assigned a new transfer value
+70 by multiplying the current transfer value of the ballot by the surplus fraction for the candidate.
+71 Each elected candidate shall be deemed to have a number of votes equal to the election threshold
+72 in all future rounds, and a new round shall begin.
+73 (3) Otherwise, the last-place candidate shall be defeated, or the last-place candidates shall
+74 be defeated in batch elimination, and a new round shall begin.
+4 of 9
+
+75 (f) Batch elimination shall apply to the largest possible group of continuing candidates
+76 such that the sum of the votes of candidates in the group is less than the individual number of
+77 votes of every continuing candidate not in the group, and provided that the number of continuing
+78 candidates not in the group is at least 1 more than the remaining number of positions to elect.
+79 (g) Ties shall be resolved as follows:
+80 (1) If two or more last-place candidates are tied and batch elimination applies, each tied
+81 candidate to whom batch elimination applies shall be defeated accordingly.
+82 (2) If two or more continuing candidates are tied but are not in last place, the order of
+83 said tied continuing candidates shall be determined by the number of votes received by each tied
+84 candidate in the prior round.
+85 (3) If two or more last-place continuing candidates are tied and batch elimination does
+86 not apply, the continuing candidate with the fewest votes in the prior round shall be defeated. If
+87 two or more continuing candidates were also tied in the prior round, the continuing candidate
+88 with the fewest votes in the next-prior round shall be eliminated. If two last-place continuing
+89 candidates are tied at the end of the first round and batch elimination does not apply, then the
+90 two tied continuing candidates shall have a run-off before the next round. The continuing
+91 candidate with fewer votes in the runoff will be defeated, and any remaining rounds in the
+92 election will proceed according to this section. This process shall be applied successively as
+93 many times as necessary, a tie shown in any prior round shall be decided by referring to the
+94 standing of the candidates in the round immediately preceding the tie.
+95 (4) The results of any such tiebreaking events must be recorded and reused in the event of
+96 a recount.
+5 of 9
+
+97 (h) When a skipped ranking or repeat candidate ranking is encountered on a ballot, that
+98 vote shall count towards the highest continuing ranking. In the case of an overvote involving two
+99 or more continuing candidates, the overvote candidates and all subsequently ranked candidates
+100 will be disregarded. If any vote cannot be advanced because no further continuing candidates are
+101 ranked on that ballot, that ballot shall be declared concluded for that contest.
+102 (i) As used in section 4 of chapter 43A, the "order of votes received" by candidates in a
+103 ranked choice voting election shall mean the order in which candidates are elected. If multiple
+104 candidates are elected in the same round, the respective order of elected candidates in that round
+105 shall mean the order of votes received by those candidates at the end of the round.
+106 (j) In any election conducted using ranked choice voting the clerk of the city or town
+107 shall make best efforts to publish initial unofficial results on election night, as soon as they
+108 become available. Unofficial results shall be clearly marked as preliminary and subject to
+109 revision. In addition to any other information required by law to be reported with official final
+110 results, the clerk of the city or town shall make public the number and percentage of votes that
+111 each candidate received in each round of the official tabulation and any additional information
+112 that may be required by the charter, ordinances or bylaws of the city or town. The clerk of the
+113 city or town shall make final anonymized results and data available in both human-readable and
+114 machine-readable formats to allow for independent verification, consistent with applicable law.
+115 (k) Preliminary elections for local offices shall not be held in a city or town that has
+116 accepted this section.
+117 (l) This section may be accepted by:
+6 of 9
+
+118 (1) approval of a ballot measure submitted to the voters by the governing body of the city
+119 or town at a regular or special election;
+120 (2) ordinance or by-law; or
+121 (3) charter amendment.
+122 (m) Notwithstanding the provisions of applicable provisions of chapters 53 and 54 of the
+123 general laws, ranked-choice voting ballots for use in municipal elections shall be prepared
+124 according to a format set forth herein and otherwise consistent with state law.
+125 (1) To the extent possible, a ranked choice voting ballot shall allow voters to rank as
+126 many choices as there are candidates printed on the ballot. If the voting equipment is unable to
+127 reasonably accommodate a number of rankings on the ballot equal to the number of candidates,
+128 the Board of Registrars of Voters of the city or town may limit the number of choices a voter
+129 may rank to the maximum number allowed by the voting equipment.
+130 (2) A ranked choice voting ballot shall not interfere with a voter’s ability to rank at least
+131 1 write-in candidate.
+132 (3) The ballot must indicate the number of seats to be filled for each contest.
+133 (4) For each election where ranked choice voting is used and the number of candidates
+134 exceeds two, the Board of Registrars of the city or town shall randomly draw lots prior to the
+135 printing of ballots so as to determine the order in which the names of candidates shall appear on
+136 the ballot. To the name of a candidate for a city or town office who is an elected incumbent
+137 thereof shall be added the words ‘Candidate for Reelection’.
+7 of 9
+
+138 (5) The ballot must comply with all otherwise applicable provisions of the General Laws
+139 and the regulations promulgated thereunder.
+140 (n) Not sooner than 4 years after acceptance of this section, a city or town that has
+141 accepted this section may return to its prior voting method by:
+142 (1) approval of a ballot measure submitted to the voters by the governing body of the
+143 city or town at a regular or special election;
+144 (2) ordinance or by-law; or
+145 (3) charter amendment.
+146 (o) The clerk of the city or town, subject to approval by the Board of Registrars, may
+147 make any changes to the ranked choice voting ballot and tabulation process necessary to ensure
+148 the integrity and smooth functioning of the election, provided that ranked choice voting shall still
+149 be used and the fewest number of changes are made to achieve such purpose.
+150 (p) A city or town that accepts this section shall conduct voter education and outreach to
+151 familiarize voters with ranked choice voting. Educational materials shall be made publicly
+152 available on the website of the city or town.
+153 (q) The secretary of the commonwealth shall provide guidance, recommendations and a
+154 model policy to assist cities and towns with developing educational materials and conducting
+155 effective voter education and outreach regarding ranked choice voting. The secretary of the
+156 commonwealth shall annually review and update the model policy to reflect best practices.
+8 of 9
+
+157 SECTION 4. If any part of this Act is declared unconstitutional by a court of competent
+158 jurisdiction, the remaining parts shall survive in full force and effect. If a conflict arises between
+159 this Act and any other provision of law, the policies and purposes of this Act shall govern.
+9 of 9

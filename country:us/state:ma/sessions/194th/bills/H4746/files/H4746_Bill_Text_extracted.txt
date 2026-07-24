@@ -1,0 +1,1094 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE . . . . . . . . No. 4746
+The Commonwealth of Massachusetts
+________________________________________
+HOUSE OF REPRESENTATIVES, November 17, 2025.
+The committee on Advanced Information Technology, the Internet and
+Cybersecurity, to whom was referred the petition (accompanied by bill,
+House, No. 78) of Tricia Farley-Bouvier and others for legislation to
+establish the Massachusetts consumer data privacy act; the petition
+(accompanied by bill, House, No. 80) of Kate Hogan and Lindsay N.
+Sabadosa for legislation to establish a comprehensive consumer data
+privacy act; the petition (accompanied by bill, House, No. 86) of Kate
+Lipper-Garabedian, David T. Vieira and others relative to regulation of
+location information derived from electronic devices; the petition
+(accompanied by bill, House, No. 96) of David M. Rogers and Andres X.
+Vargas relative to the use of biometric recognition technology; the petition
+(accompanied by bill, House, No. 103) of Andres X. Vargas and Simon
+Cataldo for legislation to establish the Massachusetts neural data privacy
+protection act; and the petition (accompanied by bill, House, No. 104) of
+Andres X. Vargas, David M. Rogers and others for legislation to establish
+the Massachusetts data privacy act, reports recommending that the
+accompanyingbill (House, No. 4746) ought to be pass.
+For the committee,
+TRICIA FARLEY-BOUVIER.
+
+FILED ON: 11/12/2025
+HOUSE . . . . . . . . . . . . . . . No. 4746
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act establishing the Massachusetts consumer data privacy act.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. The General Laws, as appearing in the 2024 Official Edition, are hereby
+2 amended by inserting after chapter 93L the following chapter:
+3 Chapter 93M. Massachusetts Consumer Data Privacy Act
+4 Section 1. Definitions.
+5 As used in this chapter, unless the context otherwise requires:
+6 “Affiliate” means a legal entity that shares common branding with another legal entity or
+7 controls, is controlled by or is under common control with another legal entity. For the purposes
+8 of this definition, “control” and “controlled” mean:
+9 (i) ownership of, or the power to vote, more than fifty per cent of the outstanding shares
+10 of any class of voting security of a company;
+11 (ii) control in any manner over the election of a majority of the directors or of individuals
+12 exercising similar functions; or
+1 of 48
+
+13 (iii) the power to exercise controlling influence over the management of a company.
+14 “Affirmative Consent” means a clear affirmative act signifying a consumer's freely given,
+15 specific, informed and unambiguous authorization for an act or practice after having been
+16 informed, in response to a specific request from a controller, provided that:
+17 (i) the request is provided to the consumer in a clear and conspicuous stand-alone
+18 disclosure;
+19 (ii) the request includes a description of the processing purpose for which the consumer’s
+20 consent is sought and:
+21 (A) clearly distinguishes between an act or practice that is necessary to fulfill a request of
+22 the consumer and an act or practice that is for another purpose;
+23 (B) clearly states the specific categories of personal data that the controller intends to
+24 collect, process, transfer, or sell under each act or practice; and
+25 (C) is written in easy-to-understand language and includes a prominent heading that
+26 would enable a reasonable consumer to identify and understand each act or practice;
+27 (iii) the request clearly explains the consumer's rights related to consent;
+28 (iv) the request is made in a manner reasonably accessible to and usable by consumers
+29 with disabilities;
+30 (v) the request is made prior to the controller’s implementation of the act or practice;
+31 (vi) the request is made available to the consumer in each language in which the
+32 controller provides a product or service for which authorization is sought;
+2 of 48
+
+33 (vii) the option to refuse to give consent is at least as prominent as the option to give
+34 consent and the option to refuse to give consent takes the same number of steps or fewer as the
+35 option to give consent; and
+36 (viii) affirmative consent to an act or practice is not inferred from the inaction of the
+37 consumer or the consumer's continued use of a service or product provided by the controller.
+38 “Affirmative Consent” does not include:
+39 (i) acceptance of a general or broad terms of use or similar document that contains
+40 descriptions of personal data processing along with other, unrelated information;
+41 (ii) hovering over, muting, pausing or closing a given piece of content;
+42 (iii) agreement obtained through the use of a false, fraudulent, or materially misleading
+43 statement or representation; or
+44 (iv) agreement obtained through the use of dark patterns.
+45 “Authenticate” means to use reasonable means to determine that a request to exercise any
+46 of the rights afforded under this chapter is being made by, or on behalf of, the consumer who is
+47 entitled to exercise such consumer rights with respect to the personal data at issue.
+48 “Biometric data” means data generated by automatic measurements of an individual's
+49 biological characteristics, such as a fingerprint, a voiceprint, eye retinas, irises, gait, or other
+50 unique biological patterns or characteristics that can be used to identify a specific individual.
+51 “Biometric data” does not include:
+52 (i) a digital or physical photograph,
+3 of 48
+
+53 (ii) an audio or video recording, or
+54 (iii) any data generated from a digital or physical photograph, or an audio or video
+55 recording, unless such data is generated to identify a specific individual.
+56 “Browser” means an interactive software application that is primarily used by consumers
+57 to access internet websites.
+58 “Business associate” has the same meaning as provided in HIPAA.
+59 “Child” has the same meaning as provided in COPPA.
+60 “Collect” means buying, renting, gathering, obtaining, receiving, accessing, or otherwise
+61 acquiring personal data by any means.
+62 “Consumer” means an individual who is a resident of this state. “Consumer” does not
+63 include an individual acting as an employee, owner, director, officer or contractor of a company,
+64 partnership, sole proprietorship, nonprofit or government agency whose communications or
+65 transactions with the controller occur solely within the context of that individual's role with the
+66 company, partnership, sole proprietorship, nonprofit or government agency.
+67 “Consumer health and wellness data” means personal data that is collected by a health
+68 and wellness device or application that is not otherwise biometric data, neural data, genetic data
+69 or personal data that reveals a mental or physical health condition, diagnosis, disability, or
+70 treatment.
+71 "Contextual advertising” means displaying or presenting an advertisement that does not
+72 vary based on the identity of the individual recipient and is based solely on—
+4 of 48
+
+73 (i) the immediate content of a webpage or online service within which the advertisement
+74 appears; or
+75 (ii) a specific request of the consumer for information or feedback if displayed in
+76 proximity to the results of such request for information;
+77 Provided, however, that a controller may use the following types of personal data to
+78 display a contextual advertisement so long as the personal data is not used to make inferences
+79 about the consumer, profile the consumer, or for any other purpose, and that the consumer may
+80 use technical means to obfuscate or change their physical location and to specify a language
+81 preference —
+82 (i) such technical specifications as are necessary for the ad to be delivered and display
+83 properly on a given device;
+84 (ii) a consumer’s immediate presence in a geographic area with a radius no smaller than
+85 10 miles, or an area reasonably estimated to include online activity from at least 5,000 users, but
+86 not including precise geolocation data; or
+87 (iii) the consumer’s language preferences, as inferred from context, browser settings, or
+88 user settings.
+89 “Controller” means a person who, alone or jointly with others, determines the purpose
+90 and means of collecting or processing personal data.
+91 “COPPA” means the Children's Online Privacy Protection Act of 1998, 15 USC 6501 et
+92 seq., and the regulations, rules, guidance and exemptions adopted pursuant to said act, as said act
+93 and such regulations, rules, guidance and exemptions may be amended from time to time.
+5 of 48
+
+94 “Covered entity” has the same meaning as provided in HIPAA.
+95 “Dark pattern” means a user interface designed or manipulated with the substantial effect
+96 of subverting or impairing user autonomy, decision-making or choice, and includes, but is not
+97 limited to, any practice the Federal Trade Commission refers to as a “dark pattern”.
+98 “Decisions that produce legal or similarly significant effects concerning the consumer”
+99 means decisions that result in access to, or the provision or denial by the controller of, financial
+100 or lending services, housing, insurance, education enrollment or opportunity, criminal justice,
+101 employment opportunities, health care services or access to essential goods or services.
+102 “De-identified data” means data that does not identify and cannot reasonably be used to
+103 infer information about, or otherwise be linked to, an identified or identifiable individual, or a
+104 device linked to such individual, if the controller that possesses such data:
+105 (i) takes reasonable physical, administrative, and technical measures to ensure that such
+106 data cannot be associated with an individual or be used to re-identify any individual or device
+107 that identifies or is linked or reasonably linkable to an individual,
+108 (ii) publicly commits to process such data only in a de-identified fashion and not attempt
+109 to re-identify such data, and
+110 (iii) contractually obligates any recipients of such data to satisfy the criteria set forth in
+111 subparagraphs (i) and (ii) of this definition.
+112 “First party” means a consumer-facing controller with which the consumer intends or
+113 expects to interact.
+6 of 48
+
+114 “First-party advertising” means processing by a first party of its own first-party data for
+115 the purposes of advertising and marketing and carried out—
+116 (i) through direct communications with a consumer, such as direct mail, email, or text
+117 message communications;
+118 (ii) in a physical location operated by the first party; or
+119 (iii) through display or presentation of an advertisement on the first party’s own website,
+120 application or its other online content.
+121 “First-party advertising” includes marketing measurement related to such advertising and
+122 marketing.
+123 “First-party data” means personal data collected directly from a consumer by a first party,
+124 including based on a visit by the consumer to or use by the consumer of a website, a physical
+125 location, or an online service operated by the first party.
+126 “Gender-affirming health care services” shall have the same meaning as defined in
+127 section 11I ½ of chapter 12.
+128 “Gender-affirming health data” means any personal data concerning an effort made by a
+129 consumer to seek, or a consumer's receipt of, gender-affirming health care services.
+130 “Genetic data” means any data, regardless of its format, that concerns an individual’s
+131 genetic characteristics, including, but not limited to raw sequence data that results from the
+132 sequencing of the complete, or a portion of the, extracted deoxyribonucleic acid of an individual
+133 or any genotypic and phenotypic information that results from analyzing such raw sequence data.
+7 of 48
+
+134 “Health and wellness device or application” means a device or application that is
+135 designed to allow a consumer to track or monitor information regarding the consumer’s health
+136 and wellness, including but not limited to fitness, nutrition, diet, physical activity, sleep, mental
+137 state, stress, or behavior, either retroactively or in real time;
+138 “HIPAA” means the Health Insurance Portability and Accountability Act of 1996, 42
+139 USC 1320d et seq., as amended from time to time.
+140 “Identified or identifiable individual” means an individual who can be readily identified,
+141 directly or indirectly.
+142 “Large data holder” means a controller or processor that in the most recent calendar year:
+143 (i) had annual gross revenues of $200,000,000 or more; and
+144 (ii) collected, processed, or transferred the covered data of more than 2,000,000
+145 consumers or devices that identify or are linked or reasonably linkable to one or more
+146 consumers, excluding covered data collected and processed solely for the purpose of initiating,
+147 rendering, billing for, finalizing, completing, or otherwise collecting payment for a requested
+148 product or service; or the sensitive covered data of more than 200,000 consumers or devices that
+149 identify or are linked or reasonably linkable to one or more consumers.
+150 The term “large data holder” does not include any instance in which the controller or
+151 processor would qualify as a large data holder solely on the basis of collecting or processing
+152 personal email addresses, personal telephone numbers, or log-in information of an individual or
+153 device to allow the individual or device to log in to an account administered by the controller or
+154 processor.
+8 of 48
+
+155 “Legally-protected health care activity” shall have the same meaning as defined in
+156 section 11I ½ of chapter 12.
+157 “Legally-protected health care data” means any personal data concerning any effort made
+158 by a consumer to seek, or a consumer’s receipt of, legally-protected health care activity.
+159 “Marketing measurement” means measuring and reporting on marketing performance or
+160 media performance by the controller, including processing personal data for measurement and
+161 reporting of frequency, attribution, and performance.
+162 “Minor” means any individual who is younger than 18 years of age.
+163 “Neural data” means information that is generated by measuring the activity of an
+164 individual’s central or peripheral nervous system.
+165 “Person” means an individual, association, company, limited liability company,
+166 corporation, partnership, sole proprietorship, trust or other legal entity.
+167 “Personal data” means any information, including derived data and unique identifiers,
+168 that is linked or reasonably linkable, alone or in combination with other information, to an
+169 identified or identifiable individual or a device that identifies or is linked or reasonably linkable
+170 to an individual. “Personal data” does not include de-identified data or publicly available
+171 information.
+172 “Precise geolocation data” means information derived from technology, including, but
+173 not limited to, latitude and longitude coordinates from global positioning system mechanisms or
+174 other similar positional data, that reveals the past or present physical location of an individual or
+9 of 48
+
+175 device that identifies or is linked or reasonably linkable to 1 or more individuals with precision
+176 and accuracy within a radius of 1,750 feet.
+177 “Precise geolocation data” does not include the content of communications, a photograph
+178 or video, metadata associated with a photograph or video that cannot be linked to an individual,
+179 or any data generated by or connected to advanced utility metering infrastructure systems or
+180 equipment for use by a utility.
+181 “Process” means to perform any operation or set of operations , whether by manual or
+182 automated means, on personal data or on sets of personal data, such as the use, storage,
+183 disclosure, analysis, deletion or modification of personal data.
+184 “Processor” means a person who collects, processes, or transfers personal data on behalf
+185 of, and at the direction of, a controller or another processor, or a Federal, State, Tribal, or local
+186 government entity.
+187 “Profiling” means any form of processing performed on personal data to evaluate,
+188 analyze or predict personal aspects including an individual’s economic situation, health, personal
+189 preferences, interests, reliability, behavior, location or movements.
+190 “Protected health information” has the same meaning as provided in HIPAA.
+191 “Publicly available information” means information that has been lawfully made
+192 available to the general public from:
+193 (i) federal, state or municipal government records, if the person collects, processes, and
+194 transfers such information in accordance with any restrictions or terms of use placed on the
+195 information by the relevant government entity;
+10 of 48
+
+196 (ii) widely distributed media; or
+197 (iii) a disclosure to the general public as required by federal, state, or local law.
+198 “Publicly available information” does not include:
+199 (i) Any obscene visual depiction, as defined in section 1460 of title 18, United States
+200 Code;
+201 (ii) any inference made exclusively from multiple independent sources of publicly
+202 available information that reveals sensitive data with respect to a consumer;
+203 (iii) biometric data;
+204 (iv) personal data that is created through the combination of personal data with publicly
+205 available information;
+206 (v) genetic or neural data, unless otherwise made publicly available by the individual to
+207 whom the information pertains;
+208 (vi) information made available by a consumer on a website or online service made
+209 available to all members of the public, for free or for a fee, where the consumer has restricted the
+210 information to a specific audience; or
+211 (vii) intimate images, authentic or computer-generated, known to be nonconsensual,
+212 including, but not limited to, images distributed in violation of section 43A of chapter 265.
+213 “Reproductive or sexual health care” means any health care-related services or products
+214 rendered or provided concerning a consumer's reproductive system or sexual well-being,
+11 of 48
+
+215 including, but not limited to, reproductive health care services as defined in section 11I ½ of
+216 chapter 12 or any such service or product rendered or provided concerning
+217 (i) an individual’s health condition, status, disease, diagnosis, diagnostic test or treatment,
+218 (ii) a social, psychological, behavioral or medical intervention,
+219 (iii) a surgery or procedure, including, but not limited to, an abortion,
+220 (iv) a use or purchase of a medication, including, but not limited to, a medication used or
+221 purchased for the purposes of an abortion,
+222 (v) a bodily function, vital sign or symptom,
+223 (vi) a measurement of a bodily function, vital sign or symptom, or
+224 (vii) an abortion, including, but not limited to, medical or nonmedical services, products,
+225 diagnostics, counseling or follow-up services for an abortion.
+226 “Reproductive or sexual health data” means any personal data concerning an effort made
+227 by a consumer to seek, or a consumer's receipt of, reproductive or sexual health care.
+228 “Sale of personal data” means the exchange of personal data for monetary or other
+229 valuable consideration by the controller to a third party.
+230 “Sale of personal data” does not include:
+231 (i) the disclosure of personal data to a processor that processes the personal data on
+232 behalf of the controller;
+12 of 48
+
+233 (ii) the disclosure of personal data to a third party for purposes of providing a product or
+234 service requested by the consumer;
+235 (iii) the disclosure or transfer of personal data to an affiliate of the controller;
+236 (iv) with the consumer’s affirmative consent, the disclosure of personal data where the
+237 consumer affirmatively directs the controller to disclose the personal data or intentionally uses
+238 the controller to interact with a third party; or
+239 (v) the disclosure or transfer of personal data to a third party as an asset that is part of a
+240 merger, acquisition, bankruptcy or other transaction or a proposed merger, acquisition,
+241 bankruptcy or other transaction, in which the third party assumes control of all or part of the
+242 controller’s assets; or
+243 (vi) the disclosure of personal data that the consumer:
+244 (A) intentionally made available to the general public via a channel of mass media; and
+245 (B) did not restrict to a specific audience.
+246 “Sensitive data” means personal data that includes:
+247 (i) data revealing a consumer’s (A) racial or ethnic origin, color, national origin or
+248 citizenship or immigration status; (B) religious beliefs; (C) mental or physical health condition,
+249 diagnosis, disability or treatment, including, but not limited to, gender-affirming health data,
+250 reproductive or sexual health data or legally-protected health care data; (D) sex life, sexual
+251 orientation, status as transgender or non-binary; (E) union membership; (F) status as a victim of a
+252 crime; or (G) status as a military servicemember or veteran;
+13 of 48
+
+253 (ii) consumer health and wellness data;
+254 (iii) genetic, neural, or biometric data;
+255 (iv) personal data of a consumer that a controller knows, or willfully disregards, is a
+256 minor;
+257 (v) precise geolocation data;
+258 (vi) a government-issued identifier, including a Social Security number, passport number
+259 or driver's license number, that is not required by law to be displayed in public; or
+260 (vii) account names, passwords, usernames, access codes, security questions or answers,
+261 or other credentials and information used to log in to an account or device.
+262 “Targeted advertising” means displaying or presenting an online advertisement to a
+263 consumer or to a device identified by a unique persistent identifier (or to a group of consumers or
+264 devices identified by unique persistent identifiers), if the advertisement is selected based, in
+265 whole or in part, on known or predicted preferences, characteristics, behavior, or interests
+266 associated with the consumer or a device identified by a unique persistent identifier.
+267 “Targeted advertising” includes displaying or presenting an online advertisement for a
+268 product or service based on the previous interaction of a consumer or a device identified by a
+269 unique persistent identifier with such product or service on a website or online service that does
+270 not share common branding with the website or online service displaying or presenting the
+271 advertisement, and marketing measurement related to such advertisements.
+272 “Targeted advertising” does not include:
+14 of 48
+
+273 (i) first-party advertising; or
+274 (ii) contextual advertising.
+275 “Third party” means a person that collects personal data from another person that is not
+276 the consumer to whom the data pertains and is not a processor with respect to such data.
+277 “Third party” does not include a person that collects personal data from another entity if
+278 the two entities are affiliates.
+279 “Trade secret” has the same meaning as provided in section 42 of chapter 93.
+280 “Transfer” means to disclose, release, disseminate, make available, license, rent, or share
+281 personal data to a third party orally, in writing, electronically, or by any other means.
+282 “Unique persistent identifier” means a technologically created identifier to the extent that
+283 such identifier is reasonably linkable to a consumer or a device that identifies or is linked or
+284 reasonably linkable to 1 or more consumers, including device identifiers, Internet Protocol
+285 addresses, cookies, beacons, pixel tags, mobile ad identifiers or similar technology customer
+286 numbers, unique pseudonyms, user aliases, telephone numbers, or other forms of persistent or
+287 probabilistic identifiers that are linked or reasonably linkable to 1 or more consumers or devices.
+288 The term “unique persistent identifier” does not include an identifier assigned by a
+289 controller for the sole purpose of giving effect to the exercise of affirmative consent or opt out by
+290 a consumer with respect to the collecting, processing, and transfer of personal data or otherwise
+291 limiting the collecting, processing, or transfer of personal data.
+292 Section 2. Applicability.
+15 of 48
+
+293 The provisions of this chapter apply to persons that conduct business in this state or
+294 persons that produce products or services that are targeted to residents of this state and that
+295 during the preceding calendar year:
+296 (a) Collected or processed the personal data of not less than 100,000 consumers,
+297 excluding personal data controlled or processed solely for the purpose of completing a payment
+298 transaction, so long as all personal data collected or processed for such purpose was deleted or
+299 de-identified within 90 days, except when necessary to investigate fraud or as consistent with a
+300 business’s return policy;
+301 (b) derived gross revenue from the sale of personal data; or
+302 (c) collected or processed sensitive data.
+303 Section 3. Scope.
+304 (a) The provisions of this chapter, except for the provisions of paragraph (4) of
+305 subsection (a) of section 6, do not apply to:
+306 (1) any Federal, State, Tribal, territorial, or local government entity such as a
+307 body, authority, board, bureau, commission, district or agency of the Commonwealth or of any
+308 political subdivision of the Commonwealth;
+309 (2) a nonprofit organization established to detect and prevent fraudulent acts in
+310 connection with insurance that is operating solely for that purpose;
+311 (3) a national securities association registered pursuant to section 15A of the Securities
+312 Exchange Act of 1934 and the rules and implementing regulations promulgated thereunder;
+16 of 48
+
+313 (4) a registered futures association designated pursuant to section 17 of the Commodity
+314 Exchange Act and the rules and implementing regulations promulgated thereunder;
+315 (5) a bank, credit union or any affiliate or subsidiary thereof that: (A) is only and directly
+316 engaged in financial activities as described in 12 USC 1843(k); (B) is regulated and examined by
+317 the division of banks or an applicable federal bank regulatory agency; and (C) has established a
+318 program to comply with all applicable requirements established by the commissioner of banks or
+319 the applicable federal bank regulatory agency concerning personal data; or
+320 (6) an agent, broker-dealer, investment adviser or investment adviser representative, as
+321 defined in section 401 of chapter 110A, who is regulated by the secretary of the commonwealth
+322 or the United States Securities and Exchange Commission.
+323 (b) The following information and data is exempt from the provisions of this chapter:
+324 (1) protected health information that a covered entity or business associate collects or
+325 processes in accordance with, or documents that a covered entity or business associate creates for
+326 the purpose of complying with HIPAA and regulations promulgated under HIPAA, as in effect
+327 on the effective date of this Act;
+328 (2) patient-identifying information for purposes of 42 USC 290dd-2;
+329 (3) identifiable private information for purposes of the federal policy for the protection of
+330 human subjects under 45 CFR 46;
+331 (4) identifiable private information that is otherwise information collected as part of
+332 human subjects research pursuant to the good clinical practice guidelines issued by the
+17 of 48
+
+333 International Council for Harmonization of Technical Requirements for Pharmaceuticals for
+334 Human Use;
+335 (5) the protection of human subjects under 21 CFR Parts 6, 50 and 56, or personal data
+336 used or shared in research, as defined in 45 CFR 164.501, that is conducted in accordance with
+337 the standards set forth in this subdivision and subdivisions (3) and (4) of this subsection, or other
+338 research conducted in accordance with applicable law;
+339 (6) information and documents created for purposes of the Health Care Quality
+340 Improvement Act of 1986, 42 USC 11101 et seq.;
+341 (7) patient safety work product for purposes of the Patient Safety and Quality
+342 Improvement Act, 42 USC 299b-21 et seq., as amended from time to time;
+343 (8) information derived from any of the health care-related information listed in this
+344 subsection that is de-identified in accordance with the requirements for de-identification pursuant
+345 to HIPAA;
+346 (9) personal information collected, processed, or sold subject to Title V of the Gramm-
+347 Leach-Bliley Act, 15 USC 6801 et seq.;
+348 (10) the collection, maintenance, disclosure, sale, communication or use of any personal
+349 information bearing on a consumer's credit worthiness, credit standing, credit capacity, character,
+350 general reputation, personal characteristics or mode of living by a consumer reporting agency,
+351 furnisher or user that provides information for use in a consumer report, and by a user of a
+352 consumer report, but only to the extent that such activity is regulated by and authorized under the
+353 Fair Credit Reporting Act, 15 USC 1681 et seq., as amended from time to time;
+18 of 48
+
+354 (11) personal data collected, processed, sold or disclosed in compliance with the Driver's
+355 Privacy Protection Act of 1994, 18 USC 2721 et seq., as amended from time to time;
+356 (12) personal data regulated by the Family Educational Rights and Privacy Act, 20 USC
+357 1232g et seq., as amended from time to time;
+358 (13) personal data collected, processed, sold or disclosed in compliance with the Farm
+359 Credit Act, 12 USC 2001 et seq., as amended from time to time;
+360 (14) data collected, processed, or maintained:
+361 (i) in the course of an individual applying to, employed by or acting as an agent or
+362 independent contractor of a controller, processor, or third party, to the extent that the data is
+363 collected and used within the context of that role;
+364 (ii) as the emergency contact information of an individual under this chapter used for
+365 emergency contact purposes; or
+366 (iii) that is necessary to retain to administer benefits for another individual relating to the
+367 individual who is the subject of the information under paragraph (1) of this subsection and used
+368 for the purposes of administering such benefits; and
+369 (15) personal data collected, processed, sold or disclosed in relation to price, route or
+370 service, as such terms are used in the Federal Aviation Act of 1958, 49 USC 40101 et seq., to the
+371 extent this chapter is preempted by the Federal Aviation Act of 1958, and the Airline
+372 Deregulation Act of 1978, 49 USC 41713, as said acts may be amended from time to time.
+19 of 48
+
+373 (c) Controllers and processors that comply with the verifiable parental consent
+374 requirements of COPPA shall be deemed compliant with any obligation to obtain parental
+375 consent pursuant to this chapter.
+376 Section 4. Consumer rights.
+377 (a) A consumer shall have the right to:
+378 (1) Confirm whether or not a controller is collecting or processing the consumer's
+379 personal data and access such personal data, including, but not limited to, any inferences about
+380 the consumer derived from such personal data;
+381 (2) obtain from a controller a list of specific third parties, other than natural persons, to
+382 which the controller has transferred either (i) the consumer’s personal data; or (ii) any personal
+383 data;
+384 (3) correct inaccuracies in the consumer's personal data, taking into account the nature of
+385 the personal data and the purposes of the processing of the consumer's personal data, and instruct
+386 a controller or processor to make reasonable efforts to notify all third parties or processors to
+387 which the controller has transferred such personal data of such corrections;
+388 (4) delete personal data provided by, or obtained about, the consumer, including personal
+389 data the consumer provided to the controller, personal data the controller obtained from another
+390 source, and derived data and instruct a controller or processor to make reasonable efforts to
+391 notify all third parties or processors to which the controller has transferred such personal data of
+392 such deletion request;
+20 of 48
+
+393 (5) obtain a copy of the consumer's personal data collected or processed by the controller,
+394 in a portable and, to the extent technically feasible, readily usable format that allows the
+395 consumer to transmit the data to another controller without hindrance, where the processing is
+396 carried out by automated means; and
+397 (6) opt out of the collection and processing of the consumer’s personal data for purposes
+398 of:
+399 (i) targeted advertising;
+400 (ii) the sale of personal data; or
+401 (iii) profiling in furtherance of solely automated decisions that produce legal or similarly
+402 significant effects concerning the consumer.
+403 (b) A consumer may exercise rights under this section by a secure and reliable means
+404 established by the controller and described to the consumer in the controller's privacy notice. A
+405 consumer may designate an authorized agent in accordance with section 5 of this act to exercise
+406 the rights of such consumer specified in this section on behalf of the consumer. In the case of
+407 personal data of a known child, the parent or legal guardian may exercise such consumer rights
+408 on the child's behalf. In the case of personal data concerning a consumer subject to a
+409 guardianship, conservatorship or other protective arrangement, the guardian or the conservator of
+410 the consumer may exercise such rights on the consumer's behalf.
+411 (c) Except as otherwise provided in this chapter, a controller shall comply with a request
+412 by a consumer to exercise the consumer rights authorized pursuant to said sections as follows:
+21 of 48
+
+413 (1) A controller shall respond to the consumer without undue delay, but not later than 45
+414 days after receipt of the request. The controller may extend the response period by 20 additional
+415 days when reasonably necessary, considering the complexity and number of the consumer's
+416 requests, provided the controller informs the consumer of any such extension within the initial
+417 45-day response period and of the reason for the extension.
+418 (2) If a controller declines to take action regarding the consumer's request, the controller
+419 shall inform the consumer without undue delay, but not later than 45 days after receipt of the
+420 request, of the justification for declining to take action and instructions for how to appeal the
+421 decision.
+422 (3) Information provided in response to a consumer request shall be provided by a
+423 controller, free of charge, not less than twice per consumer during any twelve-month period. If
+424 requests from a consumer are manifestly unfounded, excessive or repetitive, the controller may
+425 charge the consumer a reasonable fee to cover the administrative costs of complying with the
+426 request or decline to act on the request. The controller bears the burden of demonstrating the
+427 manifestly unfounded, excessive or repetitive nature of the request.
+428 (4) If a controller is unable to authenticate a request to exercise any of the rights afforded
+429 under paragraphs (1) to (5), inclusive, of subsection (a) of this section using commercially
+430 reasonable efforts, the controller shall not be required to comply with a request to initiate an
+431 action pursuant to this section and shall provide notice to the consumer that the controller is
+432 unable to authenticate the request to exercise such right or rights until such consumer provides
+433 additional information reasonably necessary to authenticate such consumer and such consumer's
+434 request to exercise such right or rights, provided that any such information may not be used for
+22 of 48
+
+435 any purposes other than the authentication of such consumer. A controller shall not require
+436 authentication to exercise an opt-out request, but a controller may deny an opt-out request if the
+437 controller has a good faith, reasonable and documented belief that such request is fraudulent. If a
+438 controller denies an opt-out request because the controller believes such request is fraudulent, the
+439 controller shall send a notice to the person who made such request disclosing that such controller
+440 believes such request is fraudulent, why such controller believes such request is fraudulent and
+441 that such controller shall not comply with such request.
+442 (5) A controller that has obtained personal data about a consumer from a source other
+443 than the consumer shall be deemed in compliance with a consumer's request to delete such data
+444 pursuant to paragraph (4) of subsection (a) of this section by deleting the consumer’s personal
+445 data retained by the controller and retaining a record of the deletion request and the minimum
+446 data necessary for the purpose of ensuring the consumer's personal data remains deleted from the
+447 controller's records and not using such retained data for any other purpose pursuant to this
+448 chapter.
+449 (d) A controller shall establish a process for a consumer to appeal the controller's refusal
+450 to take action on a request within a reasonable period of time after the consumer's receipt of the
+451 decision. The appeal process shall be conspicuously available and similar to the process for
+452 submitting requests to initiate action pursuant to this section. Not later than 60 days after receipt
+453 of an appeal, a controller shall inform the consumer in writing of any action taken or not taken in
+454 response to the appeal, including a written explanation of the reasons for the decisions. If the
+455 appeal is denied, the controller shall also provide the consumer with an online mechanism, if
+456 available, or other method through which the consumer may contact the attorney general to
+457 submit a complaint.
+23 of 48
+
+458 (e) A controller may not condition, effectively condition, attempt to condition, or attempt
+459 to effectively condition the exercise of a right described in this section through—
+460 (1) the use of any false, fictitious, fraudulent, or materially misleading statement or
+461 representation; or
+462 (2) the use of dark patterns.
+463 (f) A controller or processor may not collect, process, or transfer personal data in a
+464 manner that discriminates against an individual or class of individuals, or otherwise makes
+465 unavailable the equal enjoyment of goods or services, on the basis of an individual's or class of
+466 individuals’ actual or perceived race, color, sex, sexual orientation, gender identity, disability,
+467 religion, genetic information, pregnancy or condition related to pregnancy, status as a veteran,
+468 ancestry or national origin, or any other basis protected by chapter 151B.
+469 (g) Subsection (f) does not apply to:
+470 (1) The collection, processing, or transfer of personal data for the sole purpose of:
+471 (i) A controller or processor’s self-testing to prevent or mitigate unlawful discrimination
+472 or otherwise to ensure compliance with state or federal law; or
+473 (ii) Diversifying an applicant, participant or customer pool; or
+474 (2) A private establishment, as described in 42 United States Code, Section 2000a(e).
+475 Section 5. Authorized agent.
+476 A consumer may designate another person to serve as the consumer's authorized agent,
+477 and act on such consumer's behalf, to exercise rights specified in subsection (a) of section 4 of
+24 of 48
+
+478 this act. A controller shall comply with a request received from an authorized agent if the
+479 controller is able to verify, with commercially reasonable effort, the identity of the consumer and
+480 the authorized agent's authority to act on such consumer's behalf.
+481 Section 6. Actions of controllers.
+482 (a) A controller shall:
+483 (1) limit the collection of personal data to what is reasonably necessary and proportionate
+484 to provide or maintain a specific product or service requested by the consumer to whom the data
+485 pertains, including any routine administrative, operational, or account-servicing activity, such as
+486 billing, shipping, delivery, storage, accounting, or sending communications;
+487 (2) not process or transfer personal data concerning a consumer in a manner that is
+488 inconsistent with the reasonable expectations of the consumer;
+489 (3) not collect, process, or transfer sensitive data concerning a consumer except when
+490 such collection, processing, or transfer is strictly necessary to provide or maintain a specific
+491 product or service requested by the consumer to whom the sensitive data pertains;
+492 (4) not sell:
+493 (i) precise geolocation data regarding a consumer; or
+494 (ii) sensitive data other than precise geolocation data regarding a consumer without
+495 obtaining the consumer’s affirmative consent;
+496 (5) establish, implement and maintain reasonable administrative, technical and physical
+497 data security practices to protect the confidentiality, integrity and accessibility of personal data
+25 of 48
+
+498 appropriate to the volume and nature of the personal data at issue, including disposing of
+499 personal data in accordance with a retention schedule that requires the deletion of personal data
+500 when the data is required to be deleted by law or is no longer necessary for the purpose for which
+501 the data was collected, processed, or transferred;
+502 (6) not transfer or sell sensitive data concerning a consumer without obtaining the
+503 consumer's affirmative consent, or, in the case of the collection or processing of personal data
+504 concerning a known child, without collecting or processing such data in accordance with
+505 COPPA;
+506 (7) provide an effective mechanism for a consumer to revoke the consumer's affirmative
+507 consent under this chapter that is at least as easy as the mechanism by which the consumer
+508 provided the consumer's affirmative consent and, upon revocation of such affirmative consent,
+509 cease to process the data as soon as practicable, but not later than fifteen days after the receipt of
+510 such request;
+511 (8) not collect or process the personal data of a consumer for purposes of targeted
+512 advertising or first-party advertising, or sell the consumer's personal data, under circumstances
+513 where a controller has actual knowledge, or willfully disregards, that the consumer is a minor;
+514 and
+515 (9) not discriminate or retaliate against a consumer for exercising any of the consumer
+516 rights contained in this chapter, or for refusing to agree to the collection or processing of
+517 personal data for a separate product or service, including denying goods or services, charging
+518 different prices or rates for goods or services or providing a different level of quality of goods or
+519 services to the consumer.
+26 of 48
+
+520 (b) Nothing in paragraph (9) of subsection (a) shall be construed to require a controller to
+521 provide a product or service that requires the personal data of a consumer which the controller
+522 does not collect or maintain, or prohibit a controller from offering a different price, rate, level,
+523 quality or selection of goods or services to a consumer, including offering goods or services for
+524 no fee, if the offering is in connection with a consumer's voluntary participation in a bona fide
+525 loyalty, rewards, premium features, discounts, club card, or similar program, provided that:
+526 (1) the controller may not transfer personal data to a third party as part of such program
+527 unless such transfer is clearly and conspicuously disclosed in the terms of the program; and
+528 (2) the sale of personal data shall not be a condition of participation in the program.
+529 A controller shall not use financial incentive practices that are unjust, unreasonable,
+530 coercive or usurious in nature.
+531 (c) A controller shall provide consumers with a reasonably accessible, clear and
+532 meaningful privacy notice that includes:
+533 (1) The categories of personal data collected and processed by the controller, including a
+534 separate list of categories of sensitive data collected and processed by the controller, described in
+535 a level of detail that provides consumers a meaningful understanding of the type of personal data
+536 collected or processed;
+537 (2) the purpose for collecting and processing each category of personal data the controller
+538 collects or processes described in a way that gives consumers a meaningful understanding of
+539 how each category of their personal data will be used;
+27 of 48
+
+540 (3) how consumers may exercise their consumer rights, including how a consumer may
+541 appeal a controller's decision with regard to the consumer's request;
+542 (4) the categories of personal data that the controller transfers to third parties, if any, and
+543 the purposes for those transfers;
+544 (5) the categories of third parties, if any, to which the controller transfers personal data;
+545 (6) The length of time the controller intends to retain each category of personal data, or, if
+546 it is not possible to identify the length of time, the criteria used to determine the length of time
+547 the controller intends to retain categories of personal data; and
+548 (7) an active electronic mail address or other online mechanism that the consumer may
+549 use to contact the controller.
+550 The privacy notice shall be provided directly to consumers and made available online to
+551 the general public. If a controller makes a material change to its privacy notice, the controller
+552 shall notify each consumer affected by the material change before implementing the material
+553 change with respect to prospectively collected personal data and provide a reasonable
+554 opportunity for each consumer to withdraw consent. A controller should provide a reasonable
+555 opportunity for each consumer to affirmatively consent to further materially different processing
+556 or transfer of previously collected personal data under the changed policy. The controller shall
+557 take all reasonable electronic measures to provide direct notification regarding material changes
+558 to the privacy notice to each affected consumer, taking into account available technology and the
+559 nature of the relationship.
+28 of 48
+
+560 (d) If a controller sells personal data to third parties or processes personal data for
+561 targeted advertising, the controller shall clearly and conspicuously disclose such sales or
+562 processing, as well as the manner in which a consumer may exercise the right to opt out of such
+563 sales or processing.
+564 (e) A controller shall establish, and shall describe in a privacy notice, not less than two
+565 secure and reliable means for consumers to submit a request to exercise their consumer rights
+566 pursuant to this chapter. Such means shall take into account the ways in which consumers
+567 normally interact with the controller, the need for secure and reliable communication of such
+568 requests and the ability of the controller to verify the identity of the consumer making the
+569 request. A controller shall not require a consumer to create a new account in order to exercise
+570 consumer rights, but may require a consumer to use an existing account. Any such means shall
+571 include:
+572 (1) Providing a clear and conspicuous link on the controller's Internet web site to an
+573 Internet web page that enables a consumer, or an agent of the consumer, to opt out of the targeted
+574 advertising, the sale of the consumer's personal data, and profiling in furtherance of solely
+575 automated decisions that produce legal or similarly significant effects concerning the consumer;
+576 and
+577 (2) Not later than 18 months after the effective date of this chapter, allowing a consumer
+578 to opt out of any collection or processing of the consumer's personal data for the purposes of
+579 targeted advertising, or any sale of the consumer’s personal data, through an opt-out preference
+580 signal sent, with such consumer's consent, by a platform, technology or mechanism to the
+29 of 48
+
+581 controller indicating such consumer's intent to opt out of any such processing or sale. Such
+582 platform, technology or mechanism shall:
+583 (i) Be consumer-friendly and easy to use by the average consumer; and
+584 (ii) Enable the controller to reasonably determine whether the consumer is a resident of
+585 this state and whether the consumer has made a legitimate request to opt out of any sale of such
+586 consumer's personal data or targeted advertising. For purposes of this subsection, the use of an
+587 internet protocol address to estimate the consumer’s location shall be considered sufficient to
+588 reasonably determine residency.
+589 If a consumer's decision to opt out of any processing of the consumer's personal data for
+590 the purposes of targeted advertising, or any sale of personal data, through an opt-out preference
+591 signal sent in accordance with the provisions of this subsection conflicts with the consumer's
+592 existing controller-specific privacy setting or voluntary participation in a controller's financial
+593 incentive program, the controller shall comply with such consumer's opt-out preference signal
+594 but may notify such consumer of such conflict and provide to such consumer the choice to
+595 confirm such controller-specific privacy setting or participation in such program.
+596 (f) If a controller responds to consumer opt‐out requests received pursuant to subsection
+597 (e) of this section by informing the consumer of a change in the price, rate, level, quality, or
+598 selection of goods or services, the controller shall present the terms of any financial incentive
+599 offered pursuant to subsection (b) of this section for the processing, sale or transfer of the
+600 consumer's personal data.
+601 (g) For the purposes of paragraphs (1) and (3) of subsection (a), “requested by the
+602 consumer” shall not be construed to require an express or written request for a product or service
+30 of 48
+
+603 prior to the collection, processing or transfer of a consumer’s personal data. A controller shall
+604 determine that a consumer is requesting a product or service based on objective circumstances
+605 that indicate that a consumer is seeking such product or service, including, but not limited to, (i)
+606 whether the consumer has registered for, downloaded or otherwise deliberately used an account,
+607 application, service or website, (ii) the consumer’s relationship with the controller and (iii) the
+608 manner in which such product or service is customarily delivered or rendered in the ordinary
+609 course of business. A controller may draw inferences as is reasonably necessary based upon such
+610 objective circumstances, provided, however, that inferences shall not be drawn in a manner
+611 inconsistent with the reasonable expectations of the consumer.
+612 (h) For the purposes of subsection (g) and paragraph (2) of subsection (a), the
+613 “reasonable expectations of the consumer” shall be based on the following: (i) the relationship
+614 between the consumer and the controller; (ii) the type, nature, and amount of personal data that
+615 the controller seeks to collect; (iii) the source of the personal data and the controller’s method for
+616 collecting it; (iv) the specificity and clarity of information provided to the consumer about the
+617 purpose for collecting their personal data; (v) the degree to which the involvement of processors
+618 and third parties in the collecting or processing of personal data is apparent to the consumer.
+619 Section 7. Responsibilities of processors and controllers.
+620 (a) A processor shall adhere to the instructions of a controller and shall assist the
+621 controller in meeting the controller's obligations under this chapter. Such assistance shall
+622 include:
+31 of 48
+
+623 (1) taking into account the nature of processing and the information available to the
+624 processor, by appropriate technical and organizational measures, insofar as is reasonably
+625 practicable, to fulfill the controller's obligation to respond to consumer rights requests;
+626 (2) taking into account the nature of processing and the information available to the
+627 processor, by assisting the controller in meeting the controller's obligations in relation to the
+628 security of processing the personal data and in relation to the notification of a breach of security
+629 of the system of the processor, in order to meet the controller's obligations; and
+630 (3) providing necessary information to enable the controller to conduct and document
+631 data protection assessments.
+632 (b) A contract between a controller and a processor shall govern the processor's data
+633 processing procedures with respect to processing performed on behalf of the controller. The
+634 contract shall be written, binding and clearly set forth instructions for processing data, the nature
+635 and purpose of processing, the type of data subject to processing, the duration of processing and
+636 the rights and obligations of both parties including a method by which the processor shall notify
+637 the covered entity of material changes to its privacy practices. The processor shall adhere to the
+638 instructions of the controller and only process and transfer the data it receives from the controller
+639 to the extent necessary to provide a service requested by the controller, as set out in the contract.
+640 The contract shall also require that the processor:
+641 (1) Ensure that each person processing personal data is subject to a duty of confidentiality
+642 with respect to the data;
+32 of 48
+
+643 (2) at the controller's direction, delete or return all personal data to the controller as
+644 requested at the end of the provision of services, unless retention of the personal data is required
+645 by law;
+646 (3) upon the reasonable request of the controller, make available to the controller all
+647 information in its possession necessary to demonstrate the processor's compliance with the
+648 obligations in this chapter;
+649 (4) after providing the controller an opportunity to object, engage any subcontractor
+650 pursuant to a written contract that requires the subcontractor to meet the contractual and statutory
+651 or regulatory obligations of the processor with respect to the personal data;
+652 (5) be prohibited from combining personal data that the processor receives from or on
+653 behalf of a controller with personal data that the processor receives from or on behalf of another
+654 person or collects from the interaction of the processor with an individual; and
+655 (6) allow, and cooperate with, reasonable assessments by the controller or the controller's
+656 designated assessor, or the processor may arrange for a qualified and independent assessor to
+657 conduct an assessment of the processor's policies and technical and organizational measures in
+658 support of the obligations under this chapter, using an appropriate and accepted control standard
+659 or framework and assessment procedure for such assessments. The processor shall provide a
+660 report of such assessment to the controller upon request.
+661 (c) A processor shall establish, implement and maintain reasonable administrative,
+662 technical and physical data security practices to protect the confidentiality, integrity and
+663 accessibility of personal data that are consistent with chapter 93H and appropriate to the volume
+664 and nature of the personal data at issue.
+33 of 48
+
+665 (d) Nothing in the contract in subsection (b) shall relieve a controller or processor from
+666 the liabilities imposed on the controller or processor by virtue of such controller's or processor's
+667 role in the processing relationship, as described in this chapter.
+668 (e) Determining whether a person is acting as a controller or processor with respect to a
+669 specific processing of data is a fact-based determination that depends upon the context in which
+670 personal data is to be processed. A person who is not limited in such person's processing of
+671 personal data pursuant to a controller's instructions, or who fails to adhere to such instructions, is
+672 a controller and not a processor with respect to a specific processing of data. A processor that
+673 continues to adhere to a controller's instructions with respect to a specific processing of personal
+674 data remains a processor. If a processor begins, alone or jointly with others, determining the
+675 purposes and means of the processing of personal data, the processor is a controller with respect
+676 to such processing and may be subject to an enforcement action under this chapter.
+677 (f) A processor shall not process or transfer personal data on the behalf of a controller if
+678 the processor has actual knowledge that the controller has violated this chapter with respect to
+679 such personal data.
+680 Section 8. Data Protection Assessments.
+681 (a) A controller shall not conduct processing that presents a heightened risk of harm to a
+682 consumer without conducting and documenting a data protection assessment for each of the
+683 controller's processing activities that presents such heightened risk of harm to a consumer. For
+684 the purposes of this section, processing that presents a heightened risk of harm to a consumer
+685 includes:
+686 (1) The collection or processing of personal data for the purposes of targeted advertising;
+34 of 48
+
+687 (2) the sale of personal data;
+688 (3) the processing of personal data for the purposes of profiling, where such profiling
+689 presents a reasonably foreseeable risk of:
+690 (i) unfair or deceptive treatment of, or unlawful disparate impact on, consumers,
+691 (ii) financial, physical or reputational injury to consumers,
+692 (iii) a physical or other intrusion upon the solitude or seclusion, or the private affairs or
+693 concerns, of consumers, where such intrusion would be offensive to a reasonable person, or
+694 (iv) other substantial injury to consumers;
+695 (4) the collection or processing of sensitive data; and
+696 (5) the collection or processing of personal information collected via a consumer’s use of
+697 a product or service predominantly used by minors.
+698 (b) Data protection assessments conducted pursuant to subsection (a) of this section shall
+699 identify the categories of personal data collected, the purposes for collecting such personal data,
+700 whether personal data is being transferred and identify and weigh the benefits that may flow,
+701 directly and indirectly, from the processing to the controller, the consumer, other stakeholders
+702 and the public against the potential risks to the rights of the consumer associated with such
+703 processing, as mitigated by safeguards that are employed by the controller to reduce such risks.
+704 The controller shall factor into any such data protection assessment the use of de-identified data
+705 and the reasonable expectations of consumers, as well as the context of the processing and the
+706 relationship between the controller and the consumer whose personal data will be processed.
+35 of 48
+
+707 (c) No later than 30 days after completing a data protection assessment under this section,
+708 a controller shall submit a report of the data protection assessment or evaluation to the attorney
+709 general. The report must include a summary of the data protection assessment and the controller
+710 shall make the summary publicly available in a place that is easily accessible to consumers.
+711 Controllers may redact trade secrets or other confidential or proprietary information from the
+712 report. The attorney general may require that a controller disclose any data protection assessment
+713 that is relevant to an investigation conducted by the attorney general, and the controller shall
+714 make the data protection assessment available to the attorney general. The attorney general may
+715 evaluate the data protection assessment for compliance with the responsibilities set forth in this
+716 chapter. To the extent any information contained in a data protection assessment disclosed to the
+717 attorney general includes information subject to attorney-client privilege or work product
+718 protection, such disclosure shall not constitute a waiver of such privilege or protection.
+719 (d) A single data protection assessment may address a comparable set of processing
+720 operations that include similar activities.
+721 (e) If a controller conducts a data protection assessment for the purpose of complying
+722 with another applicable law or regulation, the data protection assessment shall be deemed to
+723 satisfy the requirements established in this section if such data protection assessment is
+724 reasonably similar in scope and effect to the data protection assessment that would otherwise be
+725 conducted pursuant to this section.
+726 (f) A controller shall review and update the data protection assessment as often as
+727 appropriate considering the type, amount, and sensitivity of personal data collected or processed
+36 of 48
+
+728 and level of risk presented by the processing, throughout the processing activity’s lifecycle in
+729 order to:
+730 (1) monitor for harm caused by the processing and adjust safeguards accordingly; and
+731 (2) ensure that data protection and privacy are considered as the controller makes new
+732 decisions with respect to the processing.
+733 Section 9. De-identified data.
+734 (a) Any controller in possession of de-identified data shall:
+735 (1) Take technical measures to ensure that the data cannot be associated with an
+736 individual;
+737 (2) publicly commit to maintaining and using de-identified data without attempting to re-
+738 identify the data; and
+739 (3) contractually obligate any recipients of the de-identified data to comply with all
+740 provisions of this chapter.
+741 (b) Nothing in this chapter shall be construed to:
+742 (1) Require a controller or processor to re-identify de-identified data; or
+743 (2) maintain data in identifiable form, or collect, obtain, retain or access any data or
+744 technology, in order to be capable of associating an authenticated consumer request with
+745 personal data.
+37 of 48
+
+746 (c) Nothing in this chapter shall be construed to require a controller or processor to
+747 comply with an authenticated consumer rights request if the controller:
+748 (1) is not reasonably capable of associating the request with the personal data or it would
+749 be unreasonably burdensome for the controller to associate the request with the personal data;
+750 and
+751 (2) does not use the personal data to recognize or respond to the specific consumer who is
+752 the subject of the personal data, or associate the personal data with other personal data about the
+753 same specific consumer;
+754 (d) A controller that transfers de-identified data shall exercise reasonable oversight to
+755 monitor compliance with any contractual commitments to which the de-identified data is subject
+756 and shall take appropriate steps to address any breaches of those contractual commitments.
+757 Section 10. Limitations.
+758 (a) Nothing in this chapter shall be construed to restrict a controller's or processor's
+759 ability to:
+760 (1) Comply with federal, state or municipal ordinances or regulations;
+761 (2) comply with a civil, criminal or regulatory inquiry, investigation, subpoena or
+762 summons by federal, state, municipal or other governmental authorities, except as prohibited by
+763 another law, including, but not limited to, section 115 of chapter 93;
+764 (3) cooperate with law enforcement agencies concerning conduct or activity that the
+765 controller or processor reasonably and in good faith believes may violate federal, state or
+766 municipal ordinances or regulations;
+38 of 48
+
+767 (4) investigate, establish, exercise, prepare for or defend legal claims;
+768 (5) provide, maintain, improve, or update a product or service specifically requested by
+769 the consumer;
+770 (6) perform under a contract to which a consumer is a party, including fulfilling the terms
+771 of a written warranty;
+772 (7) take steps at the request of a consumer prior to entering into a contract;
+773 (8) take immediate steps to protect an interest that is essential for the life or physical
+774 safety of the consumer or another individual, and where the processing cannot be manifestly
+775 based on another legal basis;
+776 (9) prevent, detect, protect against or respond to security incidents, identity theft, fraud,
+777 harassment, malicious or deceptive activities or any illegal activity targeted at or involving the
+778 controller or processor or its services, preserve the integrity or security of systems or investigate,
+779 report or prosecute those responsible for any such action, provided that for the purposes of this
+780 paragraph, “illegal activity” means a violation of a federal, state, or local law punishable as a
+781 felony or misdemeanor that can directly harm;
+782 (10) engage in public or peer-reviewed scientific, historical, or statistical research in the
+783 public interest that adheres to all relevant laws and regulations governing such research, if
+784 applicable, and is approved, monitored and governed by an institutional review board that
+785 determines, or similar independent oversight entities that determine,
+39 of 48
+
+786 (i) whether the deletion of personal data requested by a consumer under section 4,
+787 subsection (a), paragraph (4) is likely to provide substantial benefits that do not exclusively
+788 accrue to the controller,
+789 (ii) the expected benefits of the research outweigh the privacy risks, and
+790 (iii) whether the controller has implemented reasonable safeguards to mitigate privacy
+791 risks associated with research, including any risks associated with re-identification;
+792 (11) assist another controller, processor or third party with any of the obligations under
+793 this chapter;
+794 (12) process personal data for reasons of public interest in the area of public health,
+795 community health or population health, but solely to the extent that such processing is
+796 (i) subject to suitable and specific measures to safeguard the rights of the consumer
+797 whose personal data is being processed, and
+798 (ii) under the responsibility of a professional subject to confidentiality obligations under
+799 federal, state or local law;
+800 (13) ensure the data security and integrity of personal data as required by this chapter,
+801 protect against spam, or protect and maintain networks and systems, including through
+802 diagnostics, debugging, and repairs;
+803 (14) effectuate a product recall pursuant to federal or state law, or to fulfill a warranty;
+804 (15) conduct medical research in compliance with part 46 of title 45, Code of Federal
+805 Regulations, or parts 50 and 56 of title 21, Code of Federal Regulations
+40 of 48
+
+806 (16) publish entity-based member or employee contact information where such
+807 publication is intended to allow members of the public to contact such member or employee in
+808 the ordinary course of the entity’s operations;
+809 (17) process personal data previously collected in accordance with this chapter such that
+810 the personal data becomes de-identified data, including to:
+811 (i) Conduct internal research to develop, improve or repair products, services or
+812 technology;
+813 (ii) identify and repair technical errors that impair existing or intended functionality; or;
+814 (iii) perform internal operations that are reasonably aligned with the expectations of the
+815 consumer or reasonably anticipated based on the consumer's existing relationship with the
+816 controller, or are otherwise compatible with processing data in furtherance of the provision of a
+817 product or service specifically requested by a consumer or the performance of a contract to
+818 which the consumer is a party; or
+819 (18) provide information or feedback to the consumer either in response to a query or for
+820 the purpose of providing a product or service requested by the consumer.
+821 (b) The obligations imposed on controllers or processors under this chapter shall not
+822 apply where compliance by the controller or processor with said sections would violate an
+823 evidentiary privilege under the laws of this state. Nothing in this chapter shall be construed to
+824 prevent a controller or processor from providing personal data concerning a consumer to a
+825 person covered by an evidentiary privilege under the laws of the state as part of a privileged
+826 communication.
+41 of 48
+
+827 (c) A controller or processor that discloses personal data to a processor or third-party
+828 controller in accordance with this chapter shall not be deemed to have violated said sections if
+829 the processor or third-party controller that receives and processes such personal data violates said
+830 sections, provided, at the time the disclosing controller or processor disclosed such personal data,
+831 the disclosing controller or processor did not have actual knowledge that the receiving processor
+832 or third-party controller would violate said sections. A third-party controller or processor
+833 receiving personal data from a controller or processor in compliance with this chapter is likewise
+834 not in violation of said sections for the transgressions of the controller or processor from which
+835 such third-party controller or processor receives such personal data.
+836 (d) Nothing in this chapter shall be construed to:
+837 (1) Impose any obligation on a controller or processor that adversely affects the rights or
+838 freedoms of any person, including, but not limited to, the rights of any person to freedom of
+839 speech or freedom of the press guaranteed in the First Amendment to the United States
+840 Constitution or Article 16 of the Massachusetts Declaration of Rights;
+841 (2) apply to any person's collection or processing of personal data in the course of such
+842 person's purely personal or household activities; or
+843 (3) for private schools approved under section 1 of chapter 76 and private institutions of
+844 higher education as defined by title I of the Higher Education Act of 1965, 20 United States
+845 Code, Section 1001 et seq., require deletion of personal data that would unreasonably interfere
+846 with the provision of education services by or the ordinary operation of the school or institution.
+847 (e) Personal data collected or processed by a controller pursuant to this section may be
+848 collected or processed to the extent that such collection and processing is:
+42 of 48
+
+849 (1) Reasonably necessary and proportionate to the purposes listed in this section, or, in
+850 the case of sensitive data, strictly necessary to the purposes listed in this section;
+851 (2) limited to what is necessary in relation to the specific purposes listed in this section.
+852 Personal data processed pursuant to subsection (b) of this section shall, where applicable, take
+853 into account the nature and purpose or purposes of such processing. Such data shall be subject to
+854 reasonable administrative, technical and physical measures to protect the confidentiality,
+855 integrity and accessibility of the personal data and to reduce reasonably foreseeable risks of harm
+856 to consumers relating to such processing of personal data; and
+857 (3) compliant with subsection (f) of section 4.
+858 (f) If a controller collects or processes personal data pursuant to an exemption in this
+859 section, the controller bears the burden of demonstrating that such collection or processing
+860 qualifies for the exemption and complies with the requirements in subsection (e) of this section.
+861 Section 11. Rulemaking.
+862 (a) The attorney general may promulgate rules and regulations to implement this Act,
+863 including, but not limited to, rules and regulations that:
+864 (1) establish or adopt baseline technical requirements that determine if a given dataset has
+865 been or can be considered sufficiently de-identified;
+866 (2) establish reasonable administrative, technical and physical data security practices that
+867 satisfy the requirements set forward in paragraph (5) of subsection (a) of section 6;
+868 (3) establish a nonexclusive list of practices that constitute dark patterns or otherwise
+869 violate the requirements of this chapter regarding a consumer’s affirmative consent; and
+43 of 48
+
+870 (4) establish a nonexclusive list of data collection, processing, and transfer practices that
+871 constitute unfair or deceptive practices in trade or commerce.
+872 Section 12. Enforcement.
+873 (a) A violation of this chapter shall constitute an unfair or deceptive trade practice for
+874 purposes of chapter 93A. Notwithstanding sections 9 and 11 of said chapter 93A, the attorney
+875 general shall have exclusive authority to bring a civil action against any controller or processor
+876 other than a controller or processor that is a large data holder that violates this chapter or a
+877 regulation adopted under this chapter to:
+878 (1) enjoin an act or practice that is in violation of this chapter or a regulation adopted
+879 under this chapter, including an order that an entity retrieve any personal data transferred in such
+880 violation;
+881 (2) enforce compliance with this chapter or a regulation adopted under this chapter,
+882 including seeking declaratory relief;
+883 (3) obtain damages, including punitive damages, restitution of any money or property
+884 obtained directly or indirectly by any such violation, and disgorgement of any profits, assets,
+885 property, or data obtained directly or indirectly by any such violation on behalf of the residents
+886 of the commonwealth;
+887 (4) impose civil penalties in an amount not more than $5,000 per violation;
+888 (5) obtain investigative costs, reasonable attorney’s fees and other litigation costs,
+889 including, but not limited to, expert fees, reasonably incurred; and
+890 (6) obtain any such other and further relief as the court may deem proper.
+44 of 48
+
+891 (b) If the court finds that a defendant has engaged in flagrant, willful, and repeated
+892 violations of this chapter in an action brought by the attorney general pursuant to subsection (a)
+893 of this section, the court may issue an order to suspend or prohibit the defendant from operating
+894 in the commonwealth in addition to any other remedies under subsection (a) of this section.
+895 (c) When calculating awards and civil penalties in any action under this section, the court
+896 shall consider:
+897 (1) the number of affected individuals and the amount and sensitivity of any personal data
+898 at issue;
+899 (2) the severity of the violation or noncompliance;
+900 (3) the risks caused by the violation or noncompliance;
+901 (4) whether the violation or noncompliance was part of a pattern of noncompliance and
+902 violations and not an isolated instance;
+903 (5) whether the violation or noncompliance was willful and not the result of error;
+904 (6) the precautions taken by the defendant to prevent a violation;
+905 (7) the number of administrative actions, lawsuits, settlements, and consent-decrees under
+906 this chapter involving the defendant;
+907 (8) the number of administrative actions, lawsuits, settlements, and consent-decrees
+908 involving the defendant in other states and at the federal level in issues involving information
+909 privacy; and
+910 (9) the international record of the defendant when it comes to information privacy issues.
+45 of 48
+
+911 (d) Any provision of a contract or agreement of any kind, including but not limited to a
+912 controller’s terms of service or a privacy policy that purports to waive or limit in any way an
+913 individual’s rights under this chapter, including but not limited to any right to a remedy or means
+914 of enforcement, shall be deemed contrary to public policy and shall be void and unenforceable.
+915 (e) The attorney general shall create, maintain and monitor a mechanism for consumers to
+916 report potential violations of this chapter.
+917 (f) The attorney general shall issue an annual report to the clerks of the house and senate,
+918 the speaker of the house, the senate president, and the house and senate chairs of the joint
+919 committee on advanced information technology, the Internet and cybersecurity in a manner
+920 consistent with the requirements of section 11 of chapter 12, provided, however, that such report
+921 shall only relate to the enforcement of this chapter and its regulations.
+922 Section 13. Relationship to Other Laws
+923 Nothing in this chapter shall diminish any individual’s rights or obligations under any
+924 other chapter or under any regulations promulgated thereunder.
+925 Section 14. Location Information of Non-Residents
+926 (a) With respect to precise geolocation data that reveals that an individual or a device that
+927 identifies or is linked or reasonably linkable to 1 or more individuals is presently or was
+928 previously in the Commonwealth of Massachusetts:
+929 (1) an individual shall have the same rights, privileges, and protections as a consumer
+930 under this chapter for all such precise geolocation data; and
+46 of 48
+
+931 (2) a controller shall treat such precise geolocation data in the same manner as it would
+932 the precise geolocation data of a consumer under this chapter.
+933 (b) Subsection (a) does not apply to the extent that an individual is acting as an employee,
+934 owner, director, officer or contractor of a company, partnership, sole proprietorship, nonprofit or
+935 government agency, but only if the individual’s precise geolocation data is collected, processed,
+936 or transferred solely in relation to that individual’s role with the company, partnership, sole
+937 proprietorship, nonprofit or government agency.
+938 Section 15. Mergers, Acquisitions, and Bankruptcies
+939 (a) A controller may transfer personal data to a third party in the context of a merger,
+940 acquisition, bankruptcy or similar transaction when the third party assumes control, in whole or
+941 in part, of the controller’s assets, only if the controller, in a reasonable time prior to the transfer,
+942 provides an affected consumer with:
+943 (1) notice describing the transfer, including the name of the entity receiving the
+944 consumer’s personal data and the applicable privacy policies of such entity; and
+945 (2) a reasonable opportunity to withdraw previously provided consent related to the
+946 consumer’s personal data or otherwise exercise the rights guaranteed by this chapter.
+947 (b) In any transaction involving the transfer of genetic, neural, or biometric data, the
+948 reasonable opportunity under paragraph (2) of subsection (a) shall be no shorter than 60 days.
+949 (c) Nothing in this section shall be construed to diminish the requirements of paragraph
+950 (6) of subsection (a) of section 6.
+951 Section 16. Browser Privacy Settings
+47 of 48
+
+952 By January 1, 2027, a person shall not develop or maintain a browser that does not
+953 include a setting that enables a consumer to send an opt-out preference signal, as described in
+954 section 6(e)(2), to controllers or processors that the consumer interacts with through the browser.
+955 SECTION 2. SECTION 1 shall take effect 180 days after enactment.
+956 SECTION 3. The first data protection assessments required by section 8 of the
+957 Massachusetts Consumer Data Privacy Act shall be completed no later than the first anniversary
+958 of the effective date of this Act.
+48 of 48

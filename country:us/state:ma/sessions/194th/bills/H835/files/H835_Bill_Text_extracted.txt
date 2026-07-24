@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE DOCKET, NO. 2983 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 835
+The Commonwealth of Massachusetts
+_________________
+PRESENTED BY:
+Homar Gómez
+_________________
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General
+Court assembled:
+The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill:
+An Act amending the home rule charter of the city of Easthampton.
+_______________
+PETITION OF:
+NAME: DISTRICT/ADDRESS: DATE ADDED:
+Homar Gómez 2nd Hampshire 1/16/2025
+1 of 1
+
+HOUSE DOCKET, NO. 2983 FILED ON: 1/16/2025
+HOUSE . . . . . . . . . . . . . . . No. 835
+By Representative Gómez of Easthampton, a petition (accompanied by bill, House, No. 835) of
+Homar Gómez (with the approval of the mayor and city council) that the city of Easthampton be
+authorized to amend the charter of said city relative to ranked choice voting. Election Laws.
+[Local Approval Received.]
+[SIMILAR MATTER FILED IN PREVIOUS SESSION
+SEE HOUSE, NO. 5068 OF 2023-2024.]
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act amending the home rule charter of the city of Easthampton.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Section 1-7 of Article 1 of the charter of the city of Easthampton which is
+2 on file in the office of the archivist of the commonwealth pursuant to section chapter of chapter
+3 43B of the General Laws is hereby amended by fully replacing the existing definition of
+4 “Ranked Choice Voting” with the following:
+5 Ranked Choice Voting – The words “ranked choice voting” shall mean an election
+6 system in which each voter shall cast a single vote by ranking candidates in order of preference,
+7 indicating the voter’s first choice, second choice, third choice, and so on, continuing until the
+8 voter has assigned a single numerical ranking to each candidate on the ballot or until the voter
+1 of 4
+
+9 chooses to stop ranking. Definitions specific to ranked choice voting shall have the following
+10 meanings:
+11 Continuing Candidate – The words “continuing candidate” shall mean any candidate that
+12 has not been declared as elected or defeated.
+13 Concluded Ballot – The words “concluded ballot” shall mean any ballot which does not
+14 contain a highest-ranked continuing candidate.
+15 Proportional Value – The words “proportional value” shall mean a persistent decimal
+16 number associated with each non-concluded ballot. Every ballot shall have a starting
+17 proportional value equal to one.
+18 Winning Threshold – The words “winning threshold” shall mean a value equal to the
+19 total number of non-concluded ballots cast in a race, divided by the sum of the number of
+20 unelected positions remaining in that race plus one.
+21 Transfer Factor – The words “transfer factor” shall mean a value equal to the difference
+22 between the total number of votes received by an elected candidate and the current winning
+23 threshold, divided by the total number of votes received by the elected candidate.
+24 Tabulation Process – The words “tabulation process” shall mean the process of
+25 determining the results of an election that uses ranked choice voting. The election shall be
+26 tabulated in successive rounds, with each round proceeding as follows:
+27 (a) Count – Each continuing candidate’s vote total shall be reset to zero. The winning
+28 threshold shall be recalculated for the current round. Each ballot shall be counted by adding its
+2 of 4
+
+29 current proportional value to the vote total for the highest-ranked continuing candidate on that
+30 ballot.
+31 (b) Declare – If any continuing candidate has a vote total that is greater than the
+32 current winning threshold, that candidate shall be declared elected, and a transfer value for that
+33 candidate shall be calculated. If a candidate was elected, all ballots that were counted for that
+34 candidate shall have their previous proportional value multiplied by the transfer value for that
+35 candidate, and the result shall be recorded as the new proportional value for that ballot. If no
+36 candidate was elected, then the candidate who has the lowest vote total shall be declared
+37 defeated.
+38 (c) Repeat – If the number of elected candidates is equal to the number of positions
+39 being elected or if there are no more continuing candidates, this is the last round. Otherwise,
+40 begin a new round.
+41 SECTION 2. Article 7 of said charter is hereby amended by striking out sections 7-1.1
+42 and 7-1.2, and by inserting at the end of section 7-1 the following:
+43 Notwithstanding any general or special law to the contrary, elections for all elected city
+44 offices shall be conducted using ranked choice voting as defined in section 1-7 of Article 1,
+45 unless the total number of qualified candidates is equal to one, in which case plurality voting
+46 shall be used.
+47 SECTION 3. The president of the city council of the city of Easthampton shall appoint an
+48 ad hoc committee to revise the existing ranked choice voting ordinance. The ad hoc committee
+49 shall consist of the city clerk or the city clerk’s designee, 1 member of the board of registrars of
+50 voters, 2 members of the city council and 3 registered voters of the city.
+3 of 4
+
+51 The ad hoc committee shall present its proposed ordinance revisions to the city council
+52 for its review and adoption, subject to amendment by the city council and approval by the mayor
+53 pursuant to the procedural requirements for ordinances under the charter of the city of
+54 Easthampton.
+55 SECTION 4. Section 2 shall be placed on the ballot for acceptance by the voters of the
+56 city of Easthampton at the next city election. The city solicitor shall prepare and include a
+57 summary of the question to be printed on the ballot.
+58 SECTION 5. Sections 1 and 3 shall take effect upon acceptance by the voters of section 2
+59 pursuant to this act but shall not be implemented for an election that may occur within 45 days
+60 after approval of any such ballot question.
+4 of 4

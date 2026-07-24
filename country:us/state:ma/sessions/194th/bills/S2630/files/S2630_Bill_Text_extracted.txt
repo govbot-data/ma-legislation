@@ -1,0 +1,519 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+SENATE . . . . . . . . . . . . . . No. 2630
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+SENATE, October 16, 2025.
+The committee on Advanced Information Technology, the Internet and Cybersecurity to
+whom was referred the petition (accompanied by bill, Senate, No. 37) of Barry R. Finegold for
+legislation to promote economic development with emerging artificial intelligence models and
+safety, report the accompanying bill (Senate, No. 2630).
+For the committee,
+Michael O. Moore
+
+FILED ON: 10/8/2025
+SENATE . . . . . . . . . . . . . . No. 2630
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act promoting economic development with emerging artificial intelligence models and
+safety.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 SECTION 1. Chapter 29 of the General Laws is hereby amended by adding the following
+2 new section:-
+3 Section 2GGGGGG. Artificial Intelligence Innovation Trust Fund
+4 (a) There shall be established and set up on the books of the commonwealth a separate
+5 fund to be known as the Massachusetts Artificial Intelligence Innovation Trust Fund. The
+6 secretary of economic development shall be the trustee of the fund and shall, in consultation with
+7 the executive director of the Massachusetts Technology Park Corporation established pursuant to
+8 chapter 40J, expend money from the fund to: (i) provide grants or other financial assistance to
+9 companies developing or deploying artificial intelligence models in key industry sectors as
+10 enumerated in line 7002-8070 of section 2 of chapter 238 of the Acts of 2024; provided,
+11 however, that the secretary may seek the commitment of matching or other additional funds from
+12 private sources before making an expenditure from the fund; (ii) establishment or promotion of
+13 artificial intelligence entrepreneurship programs, which may include partnerships with research
+1 of 23
+
+14 institutions in the commonwealth or other entrepreneur support organizations; or (iii) provide
+15 grants or other financial assistance for research in artificial intelligence through or in partnership
+16 with the Massachusetts Technology Park Corporation.
+17 (b) There shall be credited to the fund an amount equal to: (i) any appropriations or other
+18 money authorized by the general court and specifically designated to be credited to the fund; (ii)
+19 interest earned on any money in the fund; and (iii) any other grants, premiums, gifts,
+20 reimbursements or other contributions received by the commonwealth from any source for or in
+21 support of the purposes described in subsection (a).
+22 (c) Amounts credited to the fund may be expended without further appropriation. For the
+23 purpose of accommodating timing discrepancies between the receipt of revenues and related
+24 expenditures, the fund may incur expenses, and the comptroller shall certify for payment,
+25 amounts not to exceed the most recent revenue estimate as certified by the secretary of elder
+26 affairs, as reported in the state accounting system. Any money remaining in the fund at the end
+27 of a fiscal year shall not revert to the General Fund and shall be available for expenditure in a
+28 subsequent fiscal year.
+29 SECTION 2. The General Laws are hereby amended by inserting after chapter 93L the
+30 following new chapter:-
+31 CHAPTER 93M. Transparency in Frontier Artificial Intelligence Act
+32 Section 1.
+33 For purposes of this chapter:
+2 of 23
+
+34 (a) “Affiliate” means a person controlling, controlled by, or under common control with a
+35 specified person, directly or indirectly, through one or more intermediaries.
+36 (b) “Artificial intelligence model” means an engineered or machine-based system that
+37 varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the
+38 input it receives how to generate outputs that can influence physical or virtual environments.
+39 (c) (1) “Catastrophic risk” means a foreseeable and material risk that a frontier
+40 developer’s development, storage, use, or deployment of a frontier model will materially
+41 contribute to the death of, or serious injury to, more than 50 people or more than one billion
+42 dollars ($1,000,000,000) in damage to, or loss of, property arising from a single incident
+43 involving a frontier model doing any of the following:
+44 (A) Providing expert-level assistance in the creation or release of a chemical, biological,
+45 radiological, or nuclear weapon.
+46 (B) Engaging in conduct with no meaningful human oversight, intervention, or
+47 supervision that is either a cyberattack or, if the conduct had been committed by a human, would
+48 constitute the crime of murder, assault, extortion, or theft, including theft by false pretense.
+49 (C) Evading the control of its frontier developer or user.
+50 (2) “Catastrophic risk” does not include a foreseeable and material risk from any of the
+51 following:
+52 (A) Information that a frontier model outputs if the information is otherwise publicly
+53 accessible in a substantially similar form from a source other than a foundation model.
+54 (B) Lawful activity of the federal government.
+3 of 23
+
+55 (C) Harm caused by a frontier model in combination with other software if the frontier
+56 model did not materially contribute to the harm.
+57 (d) “Critical safety incident” means any of the following:
+58 (1) Unauthorized access to, modification of, or exfiltration of, the model weights of a
+59 frontier model that results in death or bodily injury.
+60 (2) Harm resulting from the materialization of a catastrophic risk.
+61 (3) Loss of control of a frontier model causing death or bodily injury.
+62 (4) A frontier model that uses deceptive techniques against the frontier developer to
+63 subvert the controls or monitoring of its frontier developer outside of the context of an evaluation
+64 designed to elicit this behavior and in a manner that demonstrates materially increased
+65 catastrophic risk.
+66 (e) (1) “Deploy” means to make a frontier model available to a third party for use,
+67 modification, copying, or combination with other software.
+68 (2) “Deploy” does not include making a frontier model available to a third party for the
+69 primary purpose of developing or evaluating the frontier model.
+70 (f) “Foundation model” means an artificial intelligence model that is all of the following:
+71 (1) Trained on a broad data set.
+72 (2) Designed for generality of output.
+73 (3) Adaptable to a wide range of distinctive tasks.
+4 of 23
+
+74 (g) “Frontier AI framework” means documented technical and organizational protocols to
+75 manage, assess, and mitigate catastrophic risks.
+76 (h) “Frontier developer” means a person who has trained, or initiated the training of, a
+77 frontier model, with respect to which the person has used, or intends to use, at least as much
+78 computing power to train the frontier model as would meet the technical specifications found in
+79 subdivision (i).
+80 (i) (1) “Frontier model” means a foundation model that was trained using a quantity of
+81 computing power greater than 10^26 integer or floating-point operations.
+82 (2) The quantity of computing power described in paragraph (1) shall include computing
+83 for the original training run and for any subsequent fine-tuning, reinforcement learning, or other
+84 material modifications the developer applies to a preceding foundation model.
+85 (j) “Large frontier developer” means a frontier developer that together with its affiliates
+86 collectively had annual gross revenues in excess of five hundred million dollars ($500,000,000)
+87 in the preceding calendar year.
+88 (k) “Model weight” means a numerical parameter in a frontier model that is adjusted
+89 through training and that helps determine how inputs are transformed into outputs.
+90 (l) “Property” means tangible or intangible property.
+91 Section 2.
+92 (a) A large frontier developer shall write, implement, comply with, and clearly and
+93 conspicuously publish on its internet website a frontier AI framework that applies to the large
+5 of 23
+
+94 frontier developer’s frontier models and describes how the large frontier developer approaches
+95 all of the following:
+96 (1) Incorporating national standards, international standards, and industry-consensus best
+97 practices into its frontier AI framework.
+98 (2) Defining and assessing thresholds used by the large frontier developer to identify and
+99 assess whether a frontier model has capabilities that could pose a catastrophic risk, which may
+100 include multiple-tiered thresholds.
+101 (3) Applying mitigations to address the potential for catastrophic risks based on the
+102 results of assessments undertaken pursuant to paragraph (2).
+103 (4) Reviewing assessments and adequacy of mitigations as part of the decision to deploy
+104 a frontier model or use it extensively internally.
+105 (5) Using third parties to assess the potential for catastrophic risks and the effectiveness
+106 of mitigations of catastrophic risks.
+107 (6) Revisiting and updating the frontier AI framework, including any criteria that trigger
+108 updates and how the large frontier developer determines when its frontier models are
+109 substantially modified enough to require disclosures pursuant to subdivision (c).
+110 (7) Cybersecurity practices to secure unreleased model weights from unauthorized
+111 modification or transfer by internal or external parties.
+112 (8) Identifying and responding to critical safety incidents.
+113 (9) Instituting internal governance practices to ensure implementation of these processes.
+6 of 23
+
+114 (10) Assessing and managing catastrophic risk resulting from the internal use of its
+115 frontier models, including risks resulting from a frontier model circumventing oversight
+116 mechanisms.
+117 (b) (1) A large frontier developer shall review and, as appropriate, update its frontier AI
+118 framework at least once per year.
+119 (2) If a large frontier developer makes a material modification to its frontier AI
+120 framework, the large frontier developer shall clearly and conspicuously publish the modified
+121 frontier AI framework and a justification for that modification within 30 days.
+122 (c) (1) Before, or concurrently with, deploying a new frontier model or a substantially
+123 modified version of an existing frontier model, a frontier developer shall clearly and
+124 conspicuously publish on its internet website a transparency report containing all of the
+125 following:
+126 (A) The internet website of the frontier developer.
+127 (B) A mechanism that enables a natural person to communicate with the frontier
+128 developer.
+129 (C) The release date of the frontier model.
+130 (D) The languages supported by the frontier model.
+131 (E) The modalities of output supported by the frontier model.
+132 (F) The intended uses of the frontier model.
+133 (G) Any generally applicable restrictions or conditions on uses of the frontier model.
+7 of 23
+
+134 (2) Before, or concurrently with, deploying a new frontier model or a substantially
+135 modified version of an existing frontier model, a large frontier developer shall include in the
+136 transparency report required by paragraph (1) summaries of all of the following:
+137 (A) Assessments of catastrophic risks from the frontier model conducted pursuant to the
+138 large frontier developer’s frontier AI framework.
+139 (B) The results of those assessments.
+140 (C) The extent to which third-party evaluators were involved.
+141 (D) Other steps taken to fulfill the requirements of the frontier AI framework with respect
+142 to the frontier model.
+143 (3) A frontier developer that publishes the information described in paragraph (1) or (2)
+144 as part of a larger document, including a system card or model card, shall be deemed in
+145 compliance with the applicable paragraph.
+146 (4) A frontier developer is encouraged, but not required, to make disclosures described in
+147 this subdivision that are consistent with, or superior to, industry best practices.
+148 (d) A large frontier developer shall transmit to the attorney general a summary of any
+149 assessment of catastrophic risk resulting from internal use of its frontier models every three
+150 months or pursuant to another reasonable schedule specified by the large frontier developer and
+151 communicated in writing to the attorney general with written updates, as appropriate.
+152 (e) (1) (A) A frontier developer shall not make a materially false or misleading statement
+153 about catastrophic risk from its frontier models or its management of catastrophic risk.
+8 of 23
+
+154 (B) A large frontier developer shall not make a materially false or misleading statement
+155 about its implementation of, or compliance with, its frontier AI framework.
+156 (2) This subdivision does not apply to a statement that was made in good faith and was
+157 reasonable under the circumstances.
+158 (f) (1) When a frontier developer publishes documents to comply with this section, the
+159 frontier developer may make redactions to those documents that are necessary to protect the
+160 frontier developer’s trade secrets, the frontier developer’s cybersecurity, public safety, or the
+161 national security of the United States or to comply with any federal or state law.
+162 (2) If a frontier developer redacts information in a document pursuant to this subdivision,
+163 the frontier developer shall describe the character and justification of the redaction in any
+164 published version of the document to the extent permitted by the concerns that justify redaction
+165 and shall retain the unredacted information for five years.
+166 (a) The attorney general shall establish a mechanism to be used by a frontier developer or
+167 a member of the public to report a critical safety incident that includes all of the following:
+168 (1) The date of the critical safety incident.
+169 (2) The reasons the incident qualifies as a critical safety incident.
+170 (3) A short and plain statement describing the critical safety incident.
+171 (4) Whether the incident was associated with internal use of a frontier model.
+9 of 23
+
+172 (b) (1) The attorney general shall establish a mechanism to be used by a large frontier
+173 developer to confidentially submit summaries of any assessments of the potential for catastrophic
+174 risk resulting from internal use of its frontier models.
+175 (2) The attorney general shall take all necessary precautions to limit access to any reports
+176 related to internal use of frontier models to only personnel with a specific need to know the
+177 information and to protect the reports from unauthorized access.
+178 (c) (1) Subject to paragraph (2), a frontier developer shall report any critical safety
+179 incident pertaining to one or more of its frontier models to the attorney general within 15 days of
+180 discovering the critical safety incident.
+181 (2) If a frontier developer discovers that a critical safety incident poses an imminent risk
+182 of death or serious physical injury, the frontier developer shall disclose that incident within 24
+183 hours to an authority, including any law enforcement agency or public safety agency with
+184 jurisdiction, that is appropriate based on the nature of that incident and as required by law.
+185 (3) A frontier developer that discovers information about a critical safety incident after
+186 filing the initial report required by this subdivision may file an amended report.
+187 (4) A frontier developer is encouraged, but not required, to report critical safety incidents
+188 pertaining to foundation models that are not frontier models.
+189 (d) The attorney general shall review critical safety incident reports submitted by frontier
+190 developers and may review reports submitted by members of the public.
+10 of 23
+
+191 (e) (1) The attorney general may transmit reports of critical safety incidents and reports
+192 from covered employees to the Legislature, the Governor, the federal government, or appropriate
+193 state agencies.
+194 (2) The Attorney General shall strongly consider any risks related to trade secrets, public
+195 safety, cybersecurity of a frontier developer, or national security when transmitting reports.
+196 (f) A report of a critical safety incident submitted to the attorney general pursuant to this
+197 section, a report of assessments of catastrophic risk from internal use, and a covered employee
+198 report are exempt from chapter 66.
+199 (g) (1) Beginning January 1, 2027, and annually thereafter, the attorney general shall
+200 produce a report with anonymized and aggregated information about critical safety incidents that
+201 have been reviewed by the attorney general since the preceding report.
+202 (2) The attorney general shall not include information in a report pursuant to this
+203 subdivision that would compromise the trade secrets or cybersecurity of a frontier developer,
+204 public safety, or the national security of the United States or that would be prohibited by any
+205 federal or state law.
+206 (3) The attorney general shall transmit a report pursuant to this subdivision to the
+207 Legislature and to the Governor.
+208 (h) The attorney general may adopt regulations designating one or more federal laws,
+209 regulations, or guidance documents that meet all of the following conditions for the purposes of
+210 subdivision (i):
+11 of 23
+
+211 (1) (A) The law, regulation, or guidance document imposes or states standards or
+212 requirements for critical safety incident reporting that are substantially equivalent to, or stricter
+213 than, those required by this section.
+214 (B) The law, regulation, or guidance document described in subparagraph (A) does not
+215 need to require critical safety incident reporting to the Commonwealth of Massachusetts.
+216 (2) The law, regulation, or guidance document is intended to assess, detect, or mitigate
+217 the catastrophic risk.
+218 (i) (1) A frontier developer that intends to comply with this section by complying with
+219 the requirements of, or meeting the standards stated by, a federal law, regulation, or guidance
+220 document designated pursuant to subdivision (h) shall declare its intent to do so to the attorney
+221 general.
+222 (2) After a frontier developer has declared its intent pursuant to paragraph (1), both of the
+223 following apply:
+224 (A) The frontier developer shall be deemed in compliance with this section to the extent
+225 that the frontier developer meets the standards of, or complies with the requirements imposed or
+226 stated by, the designated federal law, regulation, or guidance document until the frontier
+227 developer declares the revocation of that intent to the attorney general or the attorney general
+228 revokes a relevant regulation pursuant to subdivision (j).
+229 (B) The failure by a frontier developer to meet the standards of, or comply with the
+230 requirements stated by, the federal law, regulation, or guidance document designated pursuant to
+231 subdivision (h) shall constitute a violation of this chapter.
+12 of 23
+
+232 (j) The attorney general shall revoke a regulation adopted under subdivision (h) if the
+233 requirements of subdivision (h) are no longer met.
+234 Section 3.
+235 (a) On or before January 1, 2027, and annually thereafter, the attorney general, in
+236 consultation with MassCompute, shall assess recent evidence and developments relevant to the
+237 purposes of this chapter and shall make recommendations about whether and how to update any
+238 of the following definitions for the purposes of this chapter to ensure that they accurately reflect
+239 technological developments, scientific literature, and widely accepted national and international
+240 standards:
+241 (1) “Frontier model” so that it applies to foundation models at the frontier of artificial
+242 intelligence development.
+243 (2) “Frontier developer” so that it applies to developers of frontier models who are
+244 themselves at the frontier of artificial intelligence development.
+245 (3) “Large frontier developer” so that it applies to well-resourced frontier developers.
+246 (b) In making recommendations pursuant to this section, the attorney general shall take
+247 into account all of the following:
+248 (1) Similar thresholds used in international standards or federal law, guidance, or
+249 regulations for the management of catastrophic risk and shall align with a definition adopted in a
+250 federal law or regulation to the extent that it is consistent with the purposes of this chapter.
+251 (2) Input from stakeholders, including academics, industry, the open-source community,
+252 and governmental entities.
+13 of 23
+
+253 (3) The extent to which a person will be able to determine, before beginning to train or
+254 deploy a foundation model, whether that person will be subject to the definition as a frontier
+255 developer or as a large frontier developer with an aim toward allowing earlier determinations if
+256 possible.
+257 (4) The complexity of determining whether a person or foundation model is covered, with
+258 an aim toward allowing simpler determinations if possible.
+259 (5) The external verifiability of determining whether a person or foundation model is
+260 covered, with an aim toward definitions that are verifiable by parties other than the frontier
+261 developer.
+262 (c) Upon developing recommendations pursuant to this section, the attorney general shall
+263 submit a report to the Legislature with those recommendations.
+264 (d) (1) Beginning January 1, 2027, and annually thereafter, the attorney general shall
+265 produce a report with anonymized and aggregated information about reports from covered
+266 employees that have been reviewed by the attorney general since the preceding report.
+267 (2) The attorney general shall not include information in a report pursuant to this
+268 subdivision that would compromise the trade secrets or cybersecurity of a frontier developer,
+269 confidentiality of a covered employee, public safety, or the national security of the United States
+270 or that would be prohibited by any federal or state law.
+271 (3) The attorney general shall transmit a report pursuant to this subdivision to the
+272 Legislature and to the Governor.
+273 Section 4.
+14 of 23
+
+274 (a) A large frontier developer that fails to publish or transmit a compliant document
+275 required to be published or transmitted under this chapter, makes a statement in violation of this
+276 chapter, fails to report an incident as required by this chapter, or fails to comply with its own
+277 frontier AI framework shall be subject to a civil penalty in an amount dependent upon the
+278 severity of the violation that does not exceed one million dollars ($1,000,000) per violation.
+279 (b) A civil penalty described in this section shall be recovered in a civil action brought
+280 only by the Attorney General.
+281 Section 5.
+282 The loss of value of equity does not count as damage to or loss of property for the
+283 purposes of this chapter.
+284 Section 6.
+285 (a) There is hereby established within the Executive Office of Technology Services and
+286 Security a consortium that shall develop, pursuant to this section, a framework for the creation of
+287 a public cloud computing cluster to be known as “MassCompute.”
+288 (b) The consortium shall develop a framework for the creation of MassCompute that
+289 advances the development and deployment of artificial intelligence that is safe, ethical, equitable,
+290 and sustainable by doing, at a minimum, both of the following:
+291 (1) Fostering research and innovation that benefits the public.
+292 (2) Enabling equitable innovation by expanding access to computational resources.
+15 of 23
+
+293 (c) The consortium shall make reasonable efforts to ensure that MassCompute is
+294 established within public institutions of higher education to the extent possible.
+295 (d) MassCompute shall include, but not be limited to, all of the following:
+296 (1) A fully owned and hosted cloud platform.
+297 (2) Necessary human expertise to operate and maintain the platform.
+298 (3) Necessary human expertise to support, train, and facilitate the use of MassCompute.
+299 (e) The consortium shall operate in accordance with all relevant labor and workforce laws
+300 and standards.
+301 (f) (1) On or before January 1, 2027, and annually thereafter, MassCompute shall submit
+302 a report from the consortium to the Legislature with the framework, and any updates to said
+303 framework, developed pursuant to subdivision (b) for the creation and operation of
+304 MassCompute.
+305 (2) The report required by this subdivision shall include all of the following elements:
+306 (A) A landscape analysis of Massachusetts' current public, private, and nonprofit cloud
+307 computing platform infrastructure.
+308 (B) An analysis of the cost to the state to build and maintain MassCompute and
+309 recommendations for potential funding sources.
+310 (C) Recommendations for the governance structure and ongoing operation of
+311 MassCompute.
+16 of 23
+
+312 (D) Recommendations for the parameters for use of MassCompute, including, but not
+313 limited to, a process for determining which users and projects will be supported by
+314 MassCompute.
+315 (E) An analysis of the state’s technology workforce and recommendations for equitable
+316 pathways to strengthen the workforce, including the role of MassCompute.
+317 (F) A detailed description of any proposed partnerships, contracts, or licensing
+318 agreements with nongovernmental entities, including, but not limited to, technology-based
+319 companies, that demonstrates compliance with the requirements of subdivisions (c) and (d).
+320 (G) Recommendations regarding how the creation and ongoing management of
+321 MassCompute can prioritize the use of the current public sector workforce.
+322 (g) The consortium shall consist of 14 members as follows:
+323 (1) Four representatives of public and private academic research institutions and national
+324 laboratories appointed by the Governor.
+325 (2) Three representatives of impacted workforce labor organizations appointed by the as
+326 appointed by Senate President, Speaker of the House of Representatives and Governor,
+327 respectively.
+328 (3) Three representatives of stakeholder groups with relevant expertise and experience,
+329 including, but not limited to, ethicists, consumer rights advocates, and other public interest
+330 advocates appointed by Senate President, Speaker of the House of Representatives and
+331 Governor, respectively.
+17 of 23
+
+332 (4) Four experts in technology and artificial intelligence to provide technical assistance
+333 appointed by the Governor.
+334 (h) The members of the consortium shall serve without compensation, but shall be
+335 reimbursed for all necessary expenses actually incurred in the performance of their duties.
+336 (i) If MassCompute is established within public institutions of higher education, said
+337 public institutions of higher education may receive private donations for the purposes of
+338 implementing MassCompute.
+339 (k) This section shall be subject to appropriation.
+340 Section 7.
+341 (a) (1) “Catastrophic risk” means a foreseeable and material risk that a frontier
+342 developer’s development, storage, use, or deployment of a foundation model will materially
+343 contribute to the death of, or serious injury to, more than 50 people or more than one billion
+344 dollars ($1,000,000,000) in damage to, or loss of, property arising from a single incident
+345 involving a foundation model doing any of the following:
+346 (A) Providing expert-level assistance in the creation or release of a chemical, biological,
+347 radiological, or nuclear weapon.
+348 (B) Engaging in conduct with no meaningful human oversight, intervention, or
+349 supervision that is either a cyberattack or, if committed by a human, would constitute the crime
+350 of murder, assault, extortion, or theft, including theft by false pretense.
+351 (C) Evading the control of its frontier developer or user.
+18 of 23
+
+352 (2) “Catastrophic risk” does not include a foreseeable and material risk from any of the
+353 following:
+354 (A) Information that a foundation model outputs if the information is otherwise publicly
+355 accessible in a substantially similar form from a source other than a foundation model.
+356 (B) Lawful activity of the federal government.
+357 (C) Harm caused by a foundation model in combination with other software where the
+358 foundation model did not materially contribute to the harm.
+359 (b) “Covered employee” means an employee responsible for assessing, managing, or
+360 addressing risk of critical safety incidents.
+361 (c) “Critical safety incident” means any of the following:
+362 (1) Unauthorized access to, modification of, or exfiltration of the model weights of a
+363 foundation model that results in death, bodily injury, or damage to, or loss of, property.
+364 (2) Harm resulting from the materialization of a catastrophic risk.
+365 (3) Loss of control of a foundation model causing death or bodily injury.
+366 (4) A foundation model that uses deceptive techniques against the frontier developer to
+367 subvert the controls or monitoring of its frontier developer outside of the context of an evaluation
+368 designed to elicit this behavior and in a manner that demonstrates materially increased
+369 catastrophic risk.
+370 (a) A frontier developer shall not make, adopt, enforce, or enter into a rule, regulation,
+371 policy, or contract that prevents a covered employee from disclosing, or retaliates against a
+19 of 23
+
+372 covered employee for disclosing, information to the Attorney General, a federal authority, a
+373 person with authority over the covered employee, or another covered employee who has
+374 authority to investigate, discover, or correct the reported issue, if the covered employee has
+375 reasonable cause to believe that the information discloses either of the following:
+376 (1) The frontier developer’s activities pose a specific and substantial danger to the public
+377 health or safety resulting from a catastrophic risk.
+378 (2) The frontier developer has violated this chapter.
+379 (b) A frontier developer shall not enter into a contract that prevents a covered employee
+380 from making a disclosure protected under this chapter.
+381 (c) A covered employee may use the hotline described in this section to make reports
+382 described in subdivision (a).
+383 (d) A frontier developer shall provide a clear notice to all covered employees of their
+384 rights and responsibilities under this section, including by doing either of the following:
+385 (1) At all times posting and displaying within any workplace maintained by the frontier
+386 developer a notice to all covered employees of their rights under this section, ensuring that any
+387 new covered employee receives equivalent notice, and ensuring that any covered employee who
+388 works remotely periodically receives an equivalent notice.
+389 (2) At least once each year, providing written notice to each covered employee of the
+390 covered employee’s rights under this section and ensuring that the notice is received and
+391 acknowledged by all of those covered employees.
+20 of 23
+
+392 (e) (1) A large frontier developer shall provide a reasonable internal process through
+393 which a covered employee may anonymously disclose information to the large frontier developer
+394 if the covered employee believes in good faith that the information indicates that the large
+395 frontier developer’s activities present a specific and substantial danger to the public health or
+396 safety resulting from a catastrophic risk or that the large frontier developer violated this chapter,
+397 including a monthly update to the person who made the disclosure regarding the status of the
+398 large frontier developer’s investigation of the disclosure and the actions taken by the large
+399 frontier developer in response to the disclosure.
+400 (2) (A) Except as provided in subparagraph (B), the disclosures and responses of the
+401 process required by this subdivision shall be shared with officers and directors of the large
+402 frontier developer at least once each quarter.
+403 (B) If a covered employee has alleged wrongdoing by an officer or director of the large
+404 frontier developer in a disclosure or response, subparagraph (A) shall not apply with respect to
+405 that officer or director.
+406 (f) The court is authorized to award reasonable attorney’s fees to a plaintiff who brings a
+407 successful action for a violation of this section.
+408 (g) In a civil action brought pursuant to this section, once it has been demonstrated by a
+409 preponderance of the evidence that an activity proscribed by this section was a contributing
+410 factor in the alleged prohibited action against the covered employee, the frontier developer shall
+411 have the burden of proof to demonstrate by clear and convincing evidence that the alleged action
+412 would have occurred for legitimate, independent reasons even if the covered employee had not
+413 engaged in activities protected by this section.
+21 of 23
+
+414 (h) (1) In a civil action or administrative proceeding brought pursuant to this section, a
+415 covered employee may petition the superior court in any county wherein the violation in question
+416 is alleged to have occurred, or wherein the person resides or transacts business, for appropriate
+417 temporary or preliminary injunctive relief.
+418 (2) Upon the filing of the petition for injunctive relief, the petitioner shall cause notice
+419 thereof to be served upon the person, and thereupon the court shall have jurisdiction to grant
+420 temporary injunctive relief as the court deems just and proper.
+421 (3) In addition to any harm resulting directly from a violation of this section, the court
+422 shall consider the chilling effect on other covered employees asserting their rights under this
+423 section in determining whether temporary injunctive relief is just and proper.
+424 (4) Appropriate injunctive relief shall be issued on a showing that reasonable cause exists
+425 to believe a violation has occurred.
+426 (5) An order authorizing temporary injunctive relief shall remain in effect until an
+427 administrative or judicial determination or citation has been issued, or until the completion of a
+428 review pursuant to this section, whichever is longer, or at a certain time set by the court.
+429 Thereafter, a preliminary or permanent injunction may be issued if it is shown to be just and
+430 proper. Any temporary injunctive relief shall not prohibit a frontier developer from disciplining
+431 or terminating a covered employee for conduct that is unrelated to the claim of the retaliation.
+432 (i) Notwithstanding Massachusetts Rules of Civil Procedure, injunctive relief granted
+433 pursuant to this section shall not be stayed pending appeal.
+434 (j) (1) This section does not impair or limit the applicability of provisions of law.
+22 of 23
+
+435 (2) The remedies provided by this section are cumulative to each other and the remedies
+436 or penalties available under all other laws of this state.
+437 Section 8.
+438 The loss of value of equity does not count as damage to or loss of property for the
+439 purposes of this chapter.
+440 Section 9, The attorney general, in consultation with MassCompute, may promulgate,
+441 amend, or rescind regulations for the implementation, administration, and enforcement of this
+442 chapter.
+23 of 23

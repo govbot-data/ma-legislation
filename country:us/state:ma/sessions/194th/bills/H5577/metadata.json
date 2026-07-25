@@ -42,6 +42,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:29Z"
       }
+    },
+    {
+      "description": "Senate concurred",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Hearing scheduled for 07/22/2026 from 12:00 PM-12:05 PM in A-1",
+      "date": "2026-07-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -90,7 +110,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T13:53:57Z",
+    "logs_latest_update": "2026-07-25T14:31:47Z",
     "text_extraction_latest_update": "2026-07-25T03:01:11.308322Z"
   }
 }

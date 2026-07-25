@@ -135,6 +135,75 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:27Z"
       }
+    },
+    {
+      "description": "Taken out of the Orders of the Day",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Read third (title changed)",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Amendment (Brownsberger) adopted",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on Bills in the Third Reading",
+      "date": "2026-07-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Bills in the Third Reading",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Bills in the Third Reading",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -193,7 +262,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T13:53:57Z",
+    "logs_latest_update": "2026-07-25T14:31:47Z",
     "text_extraction_latest_update": "2026-07-25T03:05:47.780877Z"
   }
 }

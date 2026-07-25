@@ -72,6 +72,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:32Z"
       }
+    },
+    {
+      "description": "Hearing rescheduled to 07/21/2026 from 01:00 PM-02:20 PM in A-1   Hearing updated to New End Time",
+      "date": "2026-07-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,7 +101,19 @@
       "relation_type": "replaces"
     }
   ],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://malegislature.gov/Bills/194/H5539.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -108,7 +130,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T13:53:57Z",
+    "logs_latest_update": "2026-07-25T14:31:47Z",
     "text_extraction_latest_update": "2026-07-25T03:08:43.470136Z"
   }
 }

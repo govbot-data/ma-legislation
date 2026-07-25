@@ -64,6 +64,85 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:16Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment striking out all after the enacting clause and inserting in place thereof the text of S3178",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Order relative to subject matter adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Wednesday, July 22, 2026",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Read second",
+      "date": "2026-07-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S3178",
+      "date": "2026-07-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-07-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
+    },
+    {
+      "description": "Read third and passed to be engrossed",
+      "date": "2026-07-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T14:31:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -106,7 +185,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T13:53:57Z",
+    "logs_latest_update": "2026-07-25T14:31:47Z",
     "text_extraction_latest_update": "2026-07-25T03:07:12.014324Z"
   }
 }

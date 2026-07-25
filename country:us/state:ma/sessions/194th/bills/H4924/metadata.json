@@ -128,30 +128,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:21Z"
       }
-    },
-    {
-      "description": "Read third",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T02:56:48Z"
-      }
-    },
-    {
-      "description": "Amended by substitution of bill with the same title, see H5585",
-      "date": "2026-07-16",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T02:56:48Z"
-      }
     }
   ],
   "sponsorships": [
@@ -200,6 +176,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T02:56:48Z"
+    "logs_latest_update": "2026-07-25T13:53:57Z"
   }
 }

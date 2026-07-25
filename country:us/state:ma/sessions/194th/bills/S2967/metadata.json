@@ -219,18 +219,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:24Z"
       }
-    },
-    {
-      "description": "Signed by the Governor, Chapter 145 of the Acts of 2026",
-      "date": "2026-07-17",
-      "organization_id": "~{\"classification\": \"executive\"}",
-      "classification": [
-        "executive-signature"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T02:56:48Z"
-      }
     }
   ],
   "sponsorships": [
@@ -289,7 +277,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T02:56:48Z",
+    "logs_latest_update": "2026-07-25T13:53:57Z",
     "text_extraction_latest_update": "2026-07-25T03:02:17.053493Z"
   }
 }

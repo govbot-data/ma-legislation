@@ -131,32 +131,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:24Z"
       }
-    },
-    {
-      "description": "Read third (title changed), amended and passed to be engrossed",
-      "date": "2026-07-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage",
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T02:56:48Z"
-      }
-    },
-    {
-      "description": "Read, rules suspended, read second and ordered to a third reading",
-      "date": "2026-07-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-1",
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T02:56:48Z"
-      }
     }
   ],
   "sponsorships": [
@@ -213,7 +187,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T02:56:48Z",
+    "logs_latest_update": "2026-07-25T13:53:57Z",
     "text_extraction_latest_update": "2026-07-25T03:03:13.970404Z"
   }
 }

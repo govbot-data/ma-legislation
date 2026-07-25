@@ -151,42 +151,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:12Z"
       }
-    },
-    {
-      "description": "Read third (title changed) and passed to be engrossed",
-      "date": "2026-07-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage",
-        "reading-3"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T02:56:48Z"
-      }
-    },
-    {
-      "description": "Read; and referred to the committee on Senate Rules",
-      "date": "2026-07-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "the committee on Senate Rules",
-          "entity_type": "organization",
-          "organization_id": null
-        },
-        {
-          "name": "committee on Senate Rules",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-07-25T02:56:48Z"
-      }
     }
   ],
   "sponsorships": [
@@ -235,6 +199,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T02:56:48Z"
+    "logs_latest_update": "2026-07-25T13:53:57Z"
   }
 }

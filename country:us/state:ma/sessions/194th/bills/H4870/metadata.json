@@ -68,41 +68,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:13Z"
       }
-    },
-    {
-      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5598",
-      "date": "2026-07-22",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T02:56:48Z"
-      }
-    },
-    {
-      "description": "Referred to the committee on House Ways and Means with the amendment pending",
-      "date": "2026-07-22",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "committee on House Ways and Means with the amendment pending",
-          "entity_type": "organization",
-          "organization_id": null
-        },
-        {
-          "name": "the committee on House Ways and Means with the amendment pending",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-07-25T02:56:48Z"
-      }
     }
   ],
   "sponsorships": [
@@ -881,7 +846,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T02:56:48Z",
+    "logs_latest_update": "2026-07-25T13:53:57Z",
     "text_extraction_latest_update": "2026-07-25T03:02:40.207174Z"
   }
 }

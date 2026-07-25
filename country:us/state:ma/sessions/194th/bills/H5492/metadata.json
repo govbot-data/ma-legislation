@@ -54,6 +54,53 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:20Z"
       }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "Read, rules suspended, read second and ordered to a third reading",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -112,7 +159,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z",
+    "logs_latest_update": "2026-07-25T02:56:48Z",
     "text_extraction_latest_update": "2026-07-22T06:05:40.736273Z"
   }
 }

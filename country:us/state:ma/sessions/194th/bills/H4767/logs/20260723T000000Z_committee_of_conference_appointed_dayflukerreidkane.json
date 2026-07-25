@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee of conference appointed - (Day-Fluker-Reid-Kane)",
+    "occurred_at": "2026-07-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H4767",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H4767"
+}

@@ -172,6 +172,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:20Z"
       }
+    },
+    {
+      "description": "Signed by the Governor, Chapter 138 of the Acts of 2026",
+      "date": "2026-07-14",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -222,7 +234,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z",
+    "logs_latest_update": "2026-07-25T02:56:48Z",
     "text_extraction_latest_update": "2026-07-22T01:12:51.571997Z"
   }
 }

@@ -174,6 +174,66 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:26Z"
       }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "House NON-concurred in the Senate amendment",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed - (Cusack-Michlewitz-Jones)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "Senate insisted on its amendment",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed (Barrett-Creem-Tarr), in concurrence",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -528,7 +588,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z",
+    "logs_latest_update": "2026-07-25T02:56:48Z",
     "text_extraction_latest_update": "2026-07-24T12:30:48.916091Z"
   }
 }

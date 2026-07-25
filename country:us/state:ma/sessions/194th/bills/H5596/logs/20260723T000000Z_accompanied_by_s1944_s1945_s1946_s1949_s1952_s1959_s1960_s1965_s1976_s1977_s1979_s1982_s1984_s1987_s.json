@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S1944, S1945, S1946, S1949, S1952, S1959, S1960, S1965, S1976, S1977, S1979, S1982, S1984, S1987, S1989, S1990, S1995, S1996, S2004, S2005, S2007, S2008, S2015, S2017, S2019, S2020, S2028, S2029, S2030, S2031, S2035, S2039, S2040, S2042, S2043, S2044, S2050, S2053, S2055, S2056, S2058, S2059, S2060, S2068, S2075, S2078, S2080, S2081, S2082, S2086, S2087, S2088, S2090, S2091 and S2098",
+    "occurred_at": "2026-07-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/H5596",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H5596"
+}

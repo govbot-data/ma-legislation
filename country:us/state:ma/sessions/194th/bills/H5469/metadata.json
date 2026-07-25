@@ -147,6 +147,38 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:25Z"
       }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment striking out all after the enacting clause and inserting in place thereof the text of S3200",
+      "date": "2026-07-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "Order relative to subject matter adopted",
+      "date": "2026-07-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
+    },
+    {
+      "description": "Placed in the Orders of the Day for Thursday, July 30, 2026",
+      "date": "2026-07-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-25T02:56:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -189,7 +221,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
+    "logs_latest_update": "2026-07-25T02:56:48Z",
     "text_extraction_latest_update": "2026-07-24T12:50:30.210113Z"
   }
 }

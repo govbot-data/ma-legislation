@@ -1,0 +1,202 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Statutory Deliverable #2:
+Data and Reporting Requirements for
+Primary Care Payments
+Introduction
+The Massachusetts Primary Care Access, Delivery, and Payment Task Force (PCTF) recommended
+in its first deliverable an approach for defining and measuring primary care spending in
+Massachusetts, pursuant to Chapter 343 of the Acts of 2024. Recognizing the credible and robust
+process currently implemented by the Center for Health Information and Analysis (CHIA), the PCTF
+recommended that Massachusetts rely on CHIA’s technical expertise and experience to continue
+this foundational measurement work, with additional recommendations and considerations. This is
+a critical first step for establishing a baseline of primary care spending, including as a share of total
+statewide health care expenditures, by insurance type, by age group, by payer, and by managing
+clinician groups. In its recommendation to establish a target to increase primary care spending in
+Deliverable #3, the PCTF emphasized accountability for both payers and providers and
+recommended that the Legislature enact sufficient enforcement mechanisms to ensure payer and
+provider compliance with both the spending target and affordability requirements. (see Deliverable
+#3: Establish a Primary Care Spending Target). To complement such accountability mechanisms,
+additional reporting mechanisms are necessary to ensure that increased investments in primary
+care flow directly to primary care providers or are used to directly support primary care practices.
+Background
+Under the current process, CHIA collects data from payers on primary care spending and reports on
+aggregate spending as well as by payer and managing clinician group. (See the CHIA Data
+Specification Manual for discussion of/list of data specifications, etc.). Primary care spending
+reporting includes fee-for-service payments for identified primary care services and provider types
+as well as non-claims payments. Non-claims payments paid pursuant to commercial or public payer
+contracts can include capitated or prospective payments, value-based payments (e.g., bonuses for
+quality or efficiency), infrastructure payments, and surplus payments in a global budget or other
+risk-based arrangements. Depending on the provider organization’s structure, these payments may
+be paid to the contracting entity, accountable care organization (ACO), or physician group and then
+distributed to participating groups and/or providers. Once payers make payments to provider
+organizations, they do not observe how claims and non-claims payments are distributed or
+allocated within an organization.
+Provider organizations have different types of organizational structures that contract with payers
+and distribute claims and non-claims payments to employed or participating Primary Care Providers
+(PCPs), including large provider organizations, independent practice associations, multi-specialty
+practices, and physician hospital organizations. “Funds flow,” the mechanism for distribution of
+claims and non-claims revenue or settlements, is determined internally based on the unique profile
+and goals of each organization and can be considered proprietary and competitively sensitive.
+Terms are set based on internal governance structures as agreed to in individual or practice group
+participation agreements. Many provider organizations have a management services organization
+(MSO) or administrative unit that provides contracting, data, and reporting infrastructure that is
+- 1 -
+
+supported by fees from member practices or PCPs and/or a portion of non-claims payments.
+Payments from multiple payers may be pooled with other revenue and distributed according to
+internal performance metrics.
+Primary Care Task Force Deliberation: Statutory Deliverable #2
+In its discussion at the PCTF Data and Research meeting on July 10, 2025, members cited
+significant gaps in information about payments to primary care providers. Members also discussed
+the importance for transparency of funds flow to primary care for non-claims payments as well as
+claims-based payments. At this meeting, Dr. Ryan Schwarz, PCTF member and Chief of the Office of
+Accountable Care and Behavioral Health at MassHealth, described MassHealth’s Primary Care Sub-
+Capitation Program, which requires distribution of payments to directly support the delivery of
+primary care services and includes attestation and audit mechanisms. While MassHealth has faced
+challenges in tracking detailed funds flow information, it has been working with CHIA to understand
+and refine reporting methodologies in order to distinguish non-claims spending that is used for
+primary care instead of other purposes.
+See Description of Sub-Capitation Funds Flow below.
+At the PCTF meeting on July 22, 2025, members reiterated their support for tracking payments to
+primary care providers and the need to understand how different organizations, particularly
+hospital-based health systems, finance and internally support primary care providers.
+At the PCTF meeting on December 3, 2025, members considered draft recommendations
+developed by the PCTF Co-Chairs and HPC staff. Members acknowledged that the complexity of
+finance structures across organizations presents significant challenges for standard reporting and
+emphasized the goal of avoiding additional administrative burdens on practices. Members
+considered how to align recommendations for Statutory Deliverable #2 with the recommendations
+for PCTF Statutory Deliverable #4: proposing payment models to increase public and private
+reimbursement for primary care services.
+At several meetings, members discussed the prevalence of hospital system-based primary care
+where PCPs are employed and contract through the systems and the need to promote independent
+primary care practices. In discussing primary care payment, for practices employed or contracted
+through such systems, members urged policies to ensure that increased payments are ultimately
+directed to the primary care practices. Some members suggested separating primary care practices
+from hospital systems or requiring separate insurance contracts for primary care providers.
+In Statutory Deliverable #4, the PCTF recommended:
+Payment Intended for Primary Care Ultimately Benefits the Primary Care Practice. The
+Massachusetts Health Policy Commission (HPC), the Center for Health Information and
+Analysis (CHIA), and the Division of Insurance (DOI) should be charged with monitoring
+implementation of the payment model to ensure primary care payments through the model
+are directed to primary care practices or for supports that directly benefit primary care
+practices. Additional recommendations from the PCTF on reporting or other requirements for
+payers, providers, and provider organizations necessary to ensure transparency and
+accountability of primary care payments to primary care practices will be included in PCTF
+Statutory Deliverable #2.
+- 2 -
+
+Primary Care Task Force Recommendation: Statutory Deliverable #2
+The PCTF recommends additional transparency about the flow of primary care payments within
+health systems. As a large percentage (76%) of PCPs in Massachusetts are employed by or
+affiliated with large provider organizations,1 transparency is necessary for the goals of
+accountability and primary care improvement, especially in the context of policies aimed at
+increasing the share of overall health care spending on primary care. (See Deliverable #3). The
+PCTF recommends the following mechanisms:
+• Attestation and Audit. The Legislature should require that primary care practices and
+provider organizations that participate in the advanced primary care model described in
+PCTF Deliverable #4 execute an attestation that payments are paid to or directed to primary
+care practices in alignment with the MassHealth Sub-Capitation program, and be subject to
+payer audits to verify that at least 90-95% of payments are supporting primary care
+practices. As described in Deliverable #4, providers organizations that participate in the
+advanced primary care payment model should also be accountable through appropriate
+attestation and audit mechanisms for meeting enhanced practice capabilities and improved
+patient outcomes that are the goals of the model.
+• Reporting to the Massachusetts Registration of Provider Organizations Program. The
+Legislature should authorize CHIA and the Massachusetts Health Policy Commission (HPC)
+to collect information from registrants on the flow of primary care payments within provider
+organizations, including claims and non-claims revenue or settlements, as a required
+component of the current Massachusetts Registration of Provider Organization (MA-RPO)
+Program (see below for more information on this program).
+o The MA-RPO Program should prioritize the collection of data and information necessary
+to understand the financial support provided to primary care providers within hospital-
+based provider organizations. This should include information funds flow practices and
+accounting/allocation of expenses for the administration and infrastructure expenses for
+primary care practices.
+o In developing the MA-RPO reporting requirements, CHIA and HPC should work with
+Massachusetts provider organizations, payers, and other interested parties to examine
+the complexity and variation of primary care funds flow and accounting mechanisms. The
+agencies should consult with MassHealth and incorporate best practices developed in
+the MassHealth Primary Care Sub-Capitation Program. The Primary Care Technical
+Advisory Body (see Deliverable #1) should also advise on the development of such
+reporting specifications.
+o In developing provider organization reporting requirements, CHIA and HPC should limit
+administrative burden for provider organizations and primary care clinicians.
+• Separate Primary Care Contracts/Tax Identification Numbers. To further facilitate the
+transparency and accountability of primary care payments within large health systems,
+payers and providers should work toward establishing distinct primary care payment
+contracts that are separate from overall health system contracts. Through separate primary
+care contracts, payers and hospital-based provider organizations should develop contract
+terms that set clear expectations for the amount and use of payments for primary care
+1 HPC analysis of 2023 Registration of Provider Organizations Provider Database and 2023 IQVIA commercial database
+- 3 -
+
+within the health system. These contracts should also increase the overall share of spending
+on primary care (consistent with Deliverable #3), enable the adoption of advanced primary
+care payment models (consistent with Deliverable #4), and reduce administrative burden
+(consistent with upcoming Deliverable #7). Separate primary care contracts should not
+result in an increase in the growth of overall health care expenditure trends or to a net new
+increase in health insurance premiums and cost-sharing.
+In addition, provider organizations should explore establishing separate tax identification
+numbers (TINs) for their primary care business units to facilitate the transparent distribution
+of primary care payments and accounting for system-level administrative, management and
+infrastructure services. Providers should work with payers to align payments to separate
+TINs in alignment with MassHealth’s Sub-Cap Program’s payment process, described below.
+Additional Information
+Massachusetts Registration of Provider Organization Program
+The Commonwealth currently has a robust process for collecting standardized information on the
+complex corporate, contracting, and operational structures of provider organizations: The
+Massachusetts Registration of Provider Organization (MA-RPO) Program. The MA-RPO program is a
+first-in-the nation program for understanding the diverse composition of provider organizations, as
+authorized in Chapter 224 of the Acts of 2012 and was most recently updated in Chapter 343 of
+the Acts of 2024. The program is jointly administered by HPC and CHIA and collects information
+from approximately 60 provider organizations annually.
+The MA-RPO Program is guided by the following principles: administrative simplification, avoiding
+duplicative data requests through ongoing coordination with other state agencies, balancing the
+importance of collecting data elements with the potential burden to provider organizations, and
+phasing in the types of information that provider organizations must report over time. Importantly,
+only provider organizations that meet certain size thresholds are required to register.2 The program
+currently structures many of its reporting requirements around contracting practices within the
+system. For example, provider organizations identify which entities in their system establish
+contracts with payers and which of their owned and affiliated entities participate in each contract.
+The MA-RPO Program also collects basic questions about provider organizations’ funds flow
+practices and financial performance, upon which more detailed questions could be organized.
+Additionally, because registering provider organizations report on their relationships with both
+owned and affiliated organizations, the program captures information on the vast majority of
+primary care providers (~76%) in the Commonwealth.
+2 The following provider organizations are required to register with the MA-RPO Program: 1. A Provider Organization,
+including its corporate affiliates, that (a) collectively receives $25,000,000 or more in annual NPSR from payers, or
+represents one or more Providers or Provider Organizations that collectively receives $25,000,000 or more in annual
+NPSR from payers; and (b) has a Patient Panel greater than 15,000 patients or represents one or more Providers or
+Provider Organizations that have a Patient Panel greater than 15,000 patients. 2. A Provider Organization that has
+received a risk certificate from the Division of Insurance as part of the Risk-Bearing Provider Organization
+- 4 -
+
+MassHealth Accountable Care Organization Sub-Capitation Funds Flow
+MassHealth pays the Accountable Care Organizations (ACOs) a monthly capitation for each member
+enrolled. A portion of this is allocated to the Primary Care Sub-Capitation Program (the “sub-
+capitation” refers to a capitation that falls within the broader capitation payment to the ACO).
+MassHealth develops primary care sub-capitation rates at the tax identification number (TIN) level.
+A TIN could correspond to a single practitioner, single practice’s office site, several sites, or in some
+cases, a large multispecialty group of providers. ACOs are contractually obligated to make sub-
+capitation payments to each participating TIN for all members attributed to that TIN each month3,4.
+If there are multiple unique practices that share one TIN, the ACO or TIN may determine how the
+base rate is allocated to each practice, as long as each practice’s clinical tier is reflected in their
+payment. TINs will receive the Per Member Per Month (PMPM) payment each month; however,
+ACOs must adjust payments regularly to accurately reflect changes to MassHealth enrollment or to
+the practice’s patient panel. MassHealth monitors and enforces ACO payment requirements on a
+regular basis.
+Tax
+Practice
+MassHealth $ ACO $ identification $
+sites
+number (TIN)
+3 Accountable Care Partnership Plan Contract Section 2.23.A.1.h
+4 Primary Care Accountable Care Organization Contract Section 2.14.A.1.h
+- 5 -

@@ -1,0 +1,296 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE . . . . . . . . No. 4405
+The Commonwealth of Massachusetts
+________________________________________
+HOUSE OF REPRESENTATIVES, August 18, 2025.
+The committee on Education, to whom was referred the petition
+(accompanied by bill, House, No. 633) of Kate Lipper-Garabedian, Jeffrey
+N. Roy and Lindsay N. Sabadosa relative to student and educator data
+privacy, reports recommending that the accompanying bill (House, No.
+4405) ought to pass.
+For the committee,
+KENNETH I. GORDON.
+
+FILED ON: 8/2/2025
+HOUSE . . . . . . . . . . . . . . . No. 4405
+The Commonwealth of Massachusetts
+_______________
+In the One Hundred and Ninety-Fourth General Court
+(2025-2026)
+_______________
+An Act relative to student and educator data privacy.
+Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
+of the same, as follows:
+1 Chapter 71 of the General Laws is hereby amended by inserting after section 34H the
+2 following four sections:-
+3 Section 34I. As used in sections 34I through 34L, the following words shall, unless the
+4 context clearly requires otherwise, have the following meanings:
+5 “Aggregated data”, data collected and reported at the group, cohort, school, school
+6 district, region or state level that is aggregated using protocols that are both intended and
+7 reasonably likely to preserve the anonymity of each individual.
+8 “Board”, the board of elementary and secondary education.
+9 “Commissioner”, the commissioner of the department of elementary and secondary
+10 education.
+11 "Covered information", . information, data or records, inclusive of student records as
+12 defined in the board’s regulations, that, alone or in combination, can be used to identify a
+1 of 12
+
+13 specific student, teacher, principal, administrator or student’s family member and that is: (i)
+14 created by or provided to an operator by a student, or the student's parent or legal guardian, in the
+15 course of the student's, parent's or legal guardian's use of the operator's site, service or
+16 application for K-12 school purposes; (ii) created by or provided to an operator by an employee
+17 or agent of a school district or K-12 school for K-12 school purposes; (iii) gathered by an
+18 operator through the operation of its site, service or application for K-12 school purposes and
+19 personally identifies a student; or (iv) gathered by an operator through the operation of its site,
+20 service or application in connection with performance evaluations conducted pursuant to section
+21 38 of this chapter and that personally identifies a teacher, principal or administrator.
+22 For a student, covered information includes, information or material that, alone or in
+23 combination with other information or material, is linked or could be linked to a student in a
+24 manner that would allow an employee or a student at the student’s school to identify the student
+25 with reasonable certainty. Said information or material includes, but is not limited to,
+26 information in the student's educational record or electronic mail, including student-generated
+27 work; first and last name; home address and geolocation information; telephone number;
+28 electronic mail address or other information that allows physical or online contact; discipline
+29 records; test results, grades and student evaluations; special education data; juvenile dependency
+30 records; criminal records; medical records and health records; social security number; student
+31 identifiers; biometric information; socioeconomic information; food purchases; political and
+32 religious affiliations; text messages; student identifiers; search activity and online behavior or
+33 usage of applications when linked or linkable to a student; photographs; voice recordings; and
+34 persistent unique identifiers.
+2 of 12
+
+35 “De-identified data”, records and information from which all personally identifiable
+36 information has been removed or obscured such that the remaining information does not
+37 reasonably identify a specific individual, including, but not limited to, any information that alone
+38 or in combination is linkable to a specific individual.
+39 “Department”, the department of elementary and secondary education.
+40 “Destroy”, action taken in the normal course of business that is intended, and what a
+41 reasonable person would believe in the context of the information’s medium, to make such
+42 information permanently irretrievable.
+43 “District” or “school district”, the school department of a city or town, regional school
+44 district, vocational or agricultural school, independent vocational school or charter school.
+45 “Educational entity”, a state educational agency, school district, K-12 school or
+46 subdivision thereof, education collaborative as defined in section 4E of chapter 40, approved
+47 public or private day and residential school providing special education services to publicly
+48 funded eligible students pursuant to chapter 71B or institutional K-12 school program overseen
+49 by a state agency including the department of youth services, the department of mental health or
+50 the department of public health as well as employees acting under the authority or on behalf of
+51 an educational entity.
+52 “K-12 school”, a school that offers any of grades kindergarten to 12 and that is operated
+53 by a school district; provided, further, that a K-12 school shall include any preschool or
+54 prekindergarten program or course of instruction provided by a school district.
+3 of 12
+
+55 “K-12 school purposes”, uses that are directed by or that customarily take place at the
+56 direction of a school district, K-12 school or teacher or that aid in the administration of school
+57 activities, including, but not limited to, instruction in the classroom or at home, administrative
+58 activities and collaboration between students, school personnel or parents, activities related to
+59 students educational growth and experiences, or that are otherwise for the use and benefit of the
+60 K-12 school; provided, further, that K-12 school purposes shall include comparable purposes in
+61 the administration of any preschool or prekindergarten program or course of instruction provided
+62 by a school district.
+63 “Operator”, a person or entity operating in accordance with an agreement with an
+64 educational entity to provide an Internet website, online service, online application or mobile
+65 application for K-12 school purposes or at the direction of an educational entity or an employee
+66 of an educational entity; provided, however, that this definition shall not apply to the department,
+67 school district, K-12 school or other educational entity.
+68 “Persistent unique identifier”, an identifier that can be used to recognize a consumer, a
+69 family or a device that is linked to a consumer or family over time and across different services,
+70 including, but not limited to: (i) a device identifier; (ii) an Internet Protocol address; (iii) cookies,
+71 beacons, pixel tags, mobile ad identifiers or similar technology; (iv) customer number, unique
+72 pseudonym or user alias; or (v) telephone number or other forms of persistent or probabilistic
+73 identifiers that can be used to identify a particular consumer or device; provided, however, that
+74 for the purposes of this definition “family” means a custodial parent or guardian and any minor
+75 children over which the parent or guardian has custody.
+4 of 12
+
+76 “Targeted advertising”, presenting or serving advertisements to a student where the
+77 substance, time or manner of the advertisement is determined based in whole or in part on
+78 information obtained or inferred over time from that student's online behavior, usage of
+79 applications or covered information. It does not include advertising to a student at an online
+80 location based upon that student's current visit to that location or in response to that student’s
+81 request for information or feedback without the retention of that student's online activities or
+82 requests over time for the purpose of targeting subsequent advertisements.
+83 Section 34J. (a) An operator shall not, with respect to its site, service or application:
+84 (1) engage in targeted advertising on the operator’s site, service or application, or
+85 targeted advertising on any other site, service or application if the targeting of the advertising is
+86 based on any information, including covered information and persistent unique identifiers, that
+87 the operator has acquired because of the use of that operator's site, service or application for K-
+88 12 school purposes;
+89 (2) use covered information, including persistent unique identifiers, created or gathered
+90 by the operator's site, service or application, to amass a profile about a student or a teacher,
+91 principal or administrator except in furtherance of K-12 school purposes;
+92 (3) sell or rent a student’s information, including covered information; provided,
+93 however, that this subsection shall not apply to the purchase, merger or other type of acquisition
+94 of an operator by another entity, if the operator or successor entity complies with sections 34I
+95 through 34L of this chapter, or to national assessment providers if the national assessment
+96 provider secures the express written consent of the parent or student if 18 years old, given in
+5 of 12
+
+97 response to clear and conspicuous notice solely to provide access to employment, educational
+98 scholarships or financial aid or postsecondary educational opportunities; or
+99 (4) disclose covered information; provided, however, that an operator may disclose
+100 covered information of a student so long as clauses (1) through (3), inclusive, of this subsection
+101 are not violated, under the following circumstances:
+102 (i) if provisions of federal or state law require the operator to disclose the information,
+103 and the operator complies with the requirements of federal and state law in protecting and
+104 disclosing that information;
+105 (ii) for research purposes with the approval of the relevant educational entity and in
+106 compliance with and subject to the restrictions of state and federal law; provided, however, that
+107 the information shall be de-identified prior to being disclosed and that the operator shall share
+108 research results with the educational entity in advance of any public dissemination; or
+109 (iii) to an educational entity, including a K-12 school and school district, for K-12 school
+110 purposes, as permitted by state or federal law.
+111 (b) An operator shall:
+112 (1) implement and maintain reasonable security procedures and practices appropriate to
+113 the nature of the covered information designed to protect that covered information from
+114 unauthorized access, destruction, use, modification or disclosure and in compliance with
+115 regulations promulgated by the board pursuant to section 34L of this chapter; and
+6 of 12
+
+116 (2) immediately return or destroy covered information if requested by the educational
+117 entity or when covered information is no longer required for K-12 school purposes or other
+118 lawful purposes, such as complying with a judicial order or law enforcement request.
+119 (c) Subject to the provisions of this section, an operator may use de-identified data to
+120 maintain, develop, support, improve or diagnose the operator’s site, service or application.
+121 Subject to the provisions of this section, an operator may use aggregated or de-identified student
+122 information to demonstrate the effectiveness of the operator’s products or services, including
+123 marketing or within the operator’s site, service or application or other sites, services or
+124 applications owned by the operator to improve educational purposes.
+125 (d) Nothing in this section shall be construed to: (1) limit the authority of a law
+126 enforcement agency to obtain any content or information from an operator as authorized by law
+127 or pursuant to an order of a court of competent jurisdiction; (2) limit the ability of an operator to
+128 use student data, including covered information, for adaptive learning or customized student
+129 learning purposes; (3) apply to general audience Internet websites, general audience online
+130 services, general audience online applications or general audience mobile applications, even if
+131 login credentials created for an operator’s site, service or application may be used to access those
+132 general audience sites, services or applications; (4) limit service providers from providing
+133 Internet connectivity to schools or students and their families; (5) prohibit an operator of an
+134 Internet website, online service, online application or mobile application from marketing
+135 educational products directly to parents if the marketing did not result from the use of covered
+136 information obtained by the operator through the provision of services covered under this
+137 section; (6) impose a duty upon a provider of an electronic store, gateway, marketplace or other
+138 means of purchasing or downloading software or applications to review or enforce compliance
+7 of 12
+
+139 with this section on those applications or software; or (7) prohibit students from downloading,
+140 exporting, transferring, saving or maintaining their own data or documents.
+141 (e) An aggrieved student or educational entity may institute a civil action against an
+142 operator for damages or to restrain a violation of this section and may recover: (1) up to $10,000
+143 for each disclosure that violates this section; (2) up to $10,000 for each adverse action that
+144 violates this section, or actual damages, whichever amount is higher; (3) punitive damages if a
+145 court determines that a violation was willful; and (4) reasonable attorneys’ fees and other
+146 litigation costs reasonably incurred.
+147 (f) The commissioner may bar an operator that improperly discloses covered information
+148 from receiving access to student and educator evaluation records of any educational entity in the
+149 commonwealth for a period of no less than five years.
+150 Section 34K. (a) Any contract or agreement that is entered between an educational entity
+151 and an operator, as defined in section 34I, pursuant to which the operator sells, leases, provides,
+152 operates or maintains a service that grants access to covered information or creates any covered
+153 information, including, but not limited to (i) any cloud-based services for the digital storage,
+154 management and retrieval of pupil records or (ii) any digital software that authorizes an operator
+155 to access and acquire student records, shall contain:
+156 (1) a description of the covered information collected, stored and managed and a
+157 statement that covered information and student records continue to be the property and under the
+158 control of the educational entity;
+159 (2) a prohibition against the operator using covered information for commercial or
+160 advertising purposes or for any purpose other than K-12 school purposes;
+8 of 12
+
+161 (3) a description of the procedures by which a parent, legal guardian or eligible student
+162 may review the student’s records and work with the educational entity to correct erroneous
+163 information, in accordance with state and federal law;
+164 (4) a requirement that only persons, whether they are employees of the operator or other
+165 persons, such as employees of subcontractors, with a legitimate need to access covered
+166 information to support professional roles consistent with the terms of the contract or agreement
+167 and federal and state law shall have access to it, with either the identification of said persons or
+168 an agreement to identify said persons upon request;
+169 (5) a description of the reasonable administrative, technical and physical safeguards
+170 including with respect to encryption technology to protect covered information while in motion
+171 or in the operator’s custody that the operator will employ to protect the security, confidentiality
+172 and integrity of covered information in its custody; provided, however, compliance with this
+173 requirement shall not, in itself, absolve the operator of liability in the event of an unauthorized
+174 disclosure of covered information;
+175 (6) a description of the procedures for notifying any and all affected parties in the event
+176 of an unauthorized disclosure of covered information or any breach of security resulting in an
+177 unauthorized release of covered information, provided that the procedures shall comply with
+178 chapter 444 of the acts of 2018 and implementing regulations;
+179 (7) a certification that covered information shall be returned or destroyed by the operator
+180 upon completion of the terms of the contract; and
+9 of 12
+
+181 (8) a description of how the educational entity and the operator will jointly ensure
+182 compliance with applicable federal and state law, including, but not limited to, 20 U.S.C. section
+183 1232g, 15 U.S.C. section 6501 et. seq. and sections 34A through 34L, inclusive, of this chapter.
+184 (b) Any contract that fails to comply with the requirements of this section shall be
+185 voidable and all covered information and student records in possession of an operator or any
+186 third party shall be returned to the educational entity or, if the return of such information is not
+187 technologically feasible, destroyed.
+188 Section 34L. (a) The board shall promulgate regulations that establish data security and
+189 privacy responsibilities of the department and educational entities as well as minimum required
+190 security standards for operators, including for use in department and educational entity contracts
+191 and agreements with operators, and shall approve the department’s data privacy and security
+192 policy and security plan for the state data system. The regulations further shall establish the
+193 process through which the commissioner, pursuant to subsection (g) of section 34J, may bar an
+194 operator from receiving student and educator evaluation data of any educational entity in this
+195 commonwealth for a period of no less than five years. The regulations further shall provide that
+196 curricula in student data privacy, security and confidentiality shall be a requirement for approved
+197 educator preparation programs. In carrying out these responsibilities, the board shall consult with
+198 the executive office of technology services and security and seek the input of security and
+199 cybersecurity experts, including those from fields in addition to education that have experience
+200 with personal data protection.
+201 (b) The commissioner shall appoint a chief privacy officer with experience in data
+202 privacy and security. The chief privacy officer shall oversee the development and
+10 of 12
+
+203 implementation, subject to the board’s approval, of a department data privacy and security policy
+204 and a detailed security plan for the state data system in consultation with the executive office of
+205 technology services and security. The chief privacy officer further shall develop a model school
+206 district data privacy and security policy as well as a model operator contract or contracts in
+207 consultation with the executive office of technology services and security; otherwise support and
+208 supervise implementation of sections 34I through 34L, inclusive, of this chapter and the
+209 regulations issued by the board pursuant to subsection (a); develop and provide a program of
+210 training, technical assistance and resource materials to K-12 schools, school districts and other
+211 educational entities including through the issuance of guidance and recommendations to assist
+212 with compliance with federal and state law pertaining to personally identifiable information
+213 including, but not limited to, 20 U.S.C. 1232g, sections 34A through 34L, inclusive, of chapter
+214 71 of the General Laws, chapter 66A of the General Laws and chapter 444 of the acts of 2018;
+215 develop and oversee a program of oversight, support and accountability for the department and
+216 educational entities responsible for implementing policies pursuant to sections 34I through 34L
+217 of this chapter; and assist the commissioner with enforcement responsibilities regarding
+218 operators that violate any provision of sections 34I through 34K, inclusive, of this chapter.
+219 (c) The department shall make publicly available a list of categories of covered
+220 information collected by the department including, but not limited to, covered information
+221 required to be collected or reported by state or federal law. The list shall contain the source of the
+222 information, the reason for the collection of the information and the use of the information
+223 collected.
+224 (d) In accordance with the regulations of the board promulgated pursuant to subsection
+225 (a), each district shall develop a detailed privacy and security policy for the protection of covered
+11 of 12
+
+226 information that includes security breach planning, notice and procedures; provided, however,
+227 that said policy shall include a requirement that the district report all significant data breaches of
+228 student data either by the district or an operator to the commissioner within ten business days of
+229 the initial discovery of the significant data breach; and provided, further, that a district may adopt
+230 any model policy developed by the chief privacy officer of the department and approved by the
+231 board to comply with this requirement. Each district shall designate an individual to act as a
+232 student data manager to oversee said policy.
+233 (e) Each district shall make publicly available on its website a list of categories of student
+234 personally identifiable information collected at the school district, school or classroom level. The
+235 list shall contain the source of the information, the reason for collection of the information and
+236 the use of the information. Each district further shall make publicly available on its website a list
+237 of the operators with which the district has a contract or agreement that involves the creation,
+238 provision or gathering of covered information and a list of operators with which the district had a
+239 contract or agreement that involved the creation, provision or gathering of covered information
+240 in the last ten years.
+241 (f) Each district annually shall provide annual training regarding the confidentiality of
+242 student data to any employee with access to covered information; provided that, completion of
+243 said training shall be a condition of a provisional or standard educator certification as defined in
+244 section 38G.
+12 of 12

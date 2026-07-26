@@ -62,6 +62,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:23Z"
       }
+    },
+    {
+      "description": "Hearing rescheduled to 07/22/2026 from 01:00 PM-01:15 AM in A-2                                                                                                                                                                                     Hearing updated to New End Time",
+      "date": "2026-07-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T13:48:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,6 +89,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Alice Hanlon Peisch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael J. Barrett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael J. Barrett\"}",
       "organization_id": null
     }
   ],
@@ -118,7 +136,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T02:39:48Z",
+    "logs_latest_update": "2026-07-26T13:48:26Z",
     "text_extraction_latest_update": "2026-07-25T03:02:40.195002Z"
   }
 }

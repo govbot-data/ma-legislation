@@ -115,6 +115,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:15Z"
       }
+    },
+    {
+      "description": "Accompanied a study order, see S3177",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T13:48:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,7 +181,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T02:39:48Z",
+    "logs_latest_update": "2026-07-26T13:48:25Z",
     "text_extraction_latest_update": "2026-07-25T03:08:04.379561Z"
   }
 }

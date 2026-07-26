@@ -63,6 +63,75 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:22Z"
       }
+    },
+    {
+      "description": "Taken out of the Orders of the Day",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T13:48:25Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T13:48:25Z"
+      }
+    },
+    {
+      "description": "Amended (G\u00f3mez) by striking out all after the enacting clause and inserting in place thereof the text of S3185",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T13:48:25Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T13:48:25Z"
+      }
+    },
+    {
+      "description": "Referred to the committee on Bills in the Third Reading",
+      "date": "2026-07-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Bills in the Third Reading",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Bills in the Third Reading",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-26T13:48:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -169,7 +238,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T02:39:48Z",
+    "logs_latest_update": "2026-07-26T13:48:26Z",
     "text_extraction_latest_update": "2026-07-25T03:08:43.533569Z"
   }
 }

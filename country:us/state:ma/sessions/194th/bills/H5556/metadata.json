@@ -72,16 +72,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:25Z"
       }
-    },
-    {
-      "description": "Hearing rescheduled to 07/21/2026 from 01:00 PM-02:20 PM in A-1   Hearing updated to New End Time",
-      "date": "2026-07-21",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T14:31:47Z"
-      }
     }
   ],
   "sponsorships": [
@@ -146,7 +136,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T14:31:47Z",
+    "logs_latest_update": "2026-07-26T02:39:47Z",
     "text_extraction_latest_update": "2026-07-25T03:10:00.125355Z"
   }
 }

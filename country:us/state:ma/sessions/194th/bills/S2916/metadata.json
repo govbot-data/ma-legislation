@@ -31,7 +31,7 @@
       }
     },
     {
-      "description": "Passed to be engrossed -see   Roll Call #127 (Yeas 38 to Nays 0)",
+      "description": "Passed to be engrossed -see Roll Call #127 (Yeas 38 to Nays 0)",
       "date": "2026-01-15",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -39,7 +39,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-25T14:31:47Z"
+        "log_file_created": "2026-07-26T02:39:47Z"
       }
     },
     {
@@ -199,56 +199,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:19Z"
       }
-    },
-    {
-      "description": "Rules suspended",
-      "date": "2026-07-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T14:31:47Z"
-      }
-    },
-    {
-      "description": "Senate NON-concurred in the House amendment",
-      "date": "2026-07-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T14:31:47Z"
-      }
-    },
-    {
-      "description": "Committee of conference appointed (DiDomenico-Oliveira-Fattman)",
-      "date": "2026-07-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T14:31:47Z"
-      }
-    },
-    {
-      "description": "House insisted on its amendment",
-      "date": "2026-07-23",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T14:31:47Z"
-      }
-    },
-    {
-      "description": "Committee of conference appointed - (Hunt-Peisch-Frost), in concurrence",
-      "date": "2026-07-23",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-25T14:31:47Z"
-      }
     }
   ],
   "sponsorships": [
@@ -371,7 +321,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T14:31:47Z",
+    "logs_latest_update": "2026-07-26T02:39:47Z",
     "text_extraction_latest_update": "2026-07-25T03:05:28.973404Z"
   }
 }

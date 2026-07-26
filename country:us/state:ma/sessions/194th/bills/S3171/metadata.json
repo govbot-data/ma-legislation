@@ -59,6 +59,192 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:31Z"
       }
+    },
+    {
+      "description": "Amendment #1 (Keenan) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #2 (Keenan) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #3 (Keenan) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #4 (Keenan) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #7 (Friedman) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #8 (Friedman) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #14 (Montigny) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #6 (Kennedy) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #16 (G\u00f3mez) rejected",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #17 (Tarr) rejected",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #18 (Tarr) rejected",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #5 (Kennedy) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #15 (Rodrigues) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Reprinted, as amended, see S3184",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Substituted, as amended, for H4767",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "See H4767",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,7 +287,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "logs_latest_update": "2026-07-26T16:36:38Z",
     "text_extraction_latest_update": "2026-07-22T05:46:50.202681Z"
   }
 }

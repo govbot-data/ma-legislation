@@ -19,7 +19,18 @@
       "identifier": "ocd-bill-ma-194th-s3102"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "See S4",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Jacob R. Oliveira",
@@ -68,7 +79,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z",
+    "logs_latest_update": "2026-07-26T16:36:38Z",
     "text_extraction_latest_update": "2026-07-22T13:53:09.117524Z"
   }
 }

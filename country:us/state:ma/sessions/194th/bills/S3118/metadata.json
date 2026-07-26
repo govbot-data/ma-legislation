@@ -62,6 +62,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:14Z"
       }
+    },
+    {
+      "description": "Hearing rescheduled to 07/22/2026 from 10:00 AM-10:25 PM in A-1   Hearing updated to New End Time",
+      "date": "2026-07-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Hearing rescheduled to 07/22/2026 from 10:00 AM-10:25 AM in A-1   Hearing updated to New End Time",
+      "date": "2026-07-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -118,7 +138,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z",
+    "logs_latest_update": "2026-07-26T16:36:38Z",
     "text_extraction_latest_update": "2026-07-22T01:39:16.622218Z"
   }
 }

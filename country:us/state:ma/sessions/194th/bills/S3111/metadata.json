@@ -373,18 +373,6 @@
       }
     },
     {
-      "description": "Ways and Means amendment adopted, as amended",
-      "date": "2026-06-11",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T23:17:12Z"
-      }
-    },
-    {
       "description": "Reprinted, as amended, see S3121",
       "date": "2026-06-11",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -455,7 +443,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:12Z",
+    "logs_latest_update": "2026-07-26T16:36:38Z",
     "text_extraction_latest_update": "2026-07-22T05:43:35.190918Z"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S1035, S1043, S1101, S1177, S1178, S1184 and S1267",
+    "occurred_at": "2026-07-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3199",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3199"
+}

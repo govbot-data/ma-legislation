@@ -59,6 +59,108 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:31Z"
       }
+    },
+    {
+      "description": "Amendment #1 (Moore) rejected",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #3 (Moore) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #5 (Keenan) rejected",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #4 (Friedman) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #18 (Tarr) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment #6 (Rodrigues) adopted",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Reprinted, as amended, see S3183",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Substituted, as amended, for H4706",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "See H4706",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,7 +203,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "logs_latest_update": "2026-07-26T16:36:38Z",
     "text_extraction_latest_update": "2026-07-22T03:09:28.928948Z"
   }
 }

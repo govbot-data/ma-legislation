@@ -11,12 +11,12 @@
     ],
     "related_entities": [
       {
-        "name": "the committee on House Ways and Means",
+        "name": "committee on House Ways and Means",
         "entity_type": "organization",
         "organization_id": null
       },
       {
-        "name": "committee on House Ways and Means",
+        "name": "the committee on House Ways and Means",
         "entity_type": "organization",
         "organization_id": null
       }

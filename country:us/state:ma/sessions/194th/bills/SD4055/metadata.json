@@ -19,7 +19,31 @@
       "identifier": "ocd-bill-ma-194th-sd4055"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Rules of the two branches, acting concurrently",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Rules of the two branches, acting concurrently",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Rules of the two branches, acting concurrently",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "William N. Brownsberger",
@@ -68,6 +92,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z"
+    "logs_latest_update": "2026-07-26T16:36:38Z"
   }
 }

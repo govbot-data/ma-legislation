@@ -31,7 +31,7 @@
       }
     },
     {
-      "description": "Passed to be engrossed -- see   Roll Call #142 (Yeas 38 to Nays 0)",
+      "description": "Passed to be engrossed -see   Roll Call #142 (Yeas 38 to Nays 0)",
       "date": "2026-03-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -39,7 +39,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T23:17:12Z"
+        "log_file_created": "2026-07-26T16:36:38Z"
       }
     },
     {
@@ -87,6 +87,153 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T23:17:12Z"
+      }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment 13 rejected",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment 21 rejected",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment 18 adopted, as changed",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment 22 adopted, as changed",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Amendment 23 adopted, as changed",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Text of H5581 amended, published as H5589",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed - 151 YEAS to 1 NAYS (See YEA and NAY No. 233 )",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-26T16:36:38Z"
       }
     }
   ],
@@ -362,7 +509,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:12Z",
+    "logs_latest_update": "2026-07-26T16:36:38Z",
     "text_extraction_latest_update": "2026-07-22T13:28:00.395050Z"
   }
 }

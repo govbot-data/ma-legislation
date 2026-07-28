@@ -88,6 +88,29 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:12Z"
       }
+    },
+    {
+      "description": "Committee recommended bill ought to pass and referred to the committee on House Ways and Means",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on House Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-28T10:16:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,7 +161,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
+    "logs_latest_update": "2026-07-28T10:16:59Z",
     "text_extraction_latest_update": "2026-07-22T11:56:11.947803Z"
   }
 }

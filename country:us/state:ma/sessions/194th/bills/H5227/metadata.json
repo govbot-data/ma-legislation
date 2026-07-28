@@ -153,6 +153,29 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:27Z"
       }
+    },
+    {
+      "description": "Taken out of the Orders of the Day",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-28T10:16:59Z"
+      }
+    },
+    {
+      "description": "Read third (title changed) and passed to be engrossed",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-28T10:16:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -209,7 +232,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "logs_latest_update": "2026-07-28T10:16:59Z",
     "text_extraction_latest_update": "2026-07-22T11:03:29.516898Z"
   }
 }

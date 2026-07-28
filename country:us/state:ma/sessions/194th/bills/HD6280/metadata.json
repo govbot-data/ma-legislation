@@ -7,14 +7,43 @@
     "proposed bill"
   ],
   "subject": [],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representative Decker of Cambridge, a petition (accompanied by bill, House, No. 5607) of Marjorie C. Decker (with the approval of the city council) that the city of Cambridge be authorized to allow for a personal property tax exemption of certain personal property.  Revenue.  [Local Approval Received.]"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ma-194th-hd6280"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Revenue",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "committee on Revenue",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "the committee on Revenue",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-28T10:16:59Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Marjorie C. Decker",
@@ -31,7 +60,7 @@
       "note": "Bill Text",
       "links": [
         {
-          "url": "https://malegislature.gov/Bills/194/HD6280.pdf",
+          "url": "https://malegislature.gov/Bills/194/H5607.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -55,7 +84,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T02:56:48Z",
+    "logs_latest_update": "2026-07-28T10:16:59Z",
     "text_extraction_latest_update": "2026-07-25T03:00:54.224888Z"
   }
 }

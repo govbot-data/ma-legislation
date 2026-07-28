@@ -7,14 +7,43 @@
     "proposed bill"
   ],
   "subject": [],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "By Representative DeCoste of Norwell, a petition (accompanied by bill, House, No. 5605) of David F. DeCoste and John F. Keenan (by vote of the town) relative to liquor license extensions in the town of Hanover.  Consumer Protection and Professional Licensure.  [Local Approval Received.]"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-ma-194th-hd6281"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to the committee on Consumer Protection and Professional Licensure",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on Consumer Protection and Professional Licensure",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on Consumer Protection and Professional Licensure",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-28T10:16:59Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "David F. DeCoste",
@@ -39,7 +68,7 @@
       "note": "Bill Text",
       "links": [
         {
-          "url": "https://malegislature.gov/Bills/194/HD6281.pdf",
+          "url": "https://malegislature.gov/Bills/194/H5605.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -63,7 +92,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-25T02:56:48Z",
+    "logs_latest_update": "2026-07-28T10:16:59Z",
     "text_extraction_latest_update": "2026-07-25T03:06:22.480520Z"
   }
 }

@@ -80,6 +80,26 @@
       "_processing": {
         "log_file_created": "2026-07-26T16:36:38Z"
       }
+    },
+    {
+      "description": "Discharged (in part) by S2907",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-28T10:16:59Z"
+      }
+    },
+    {
+      "description": "Discharged (on the residue) by S2939",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-28T10:16:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T16:36:38Z"
+    "logs_latest_update": "2026-07-28T10:16:59Z"
   }
 }

@@ -234,6 +234,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:21Z"
       }
+    },
+    {
+      "description": "Reported by H5629",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T00:28:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -308,7 +318,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z",
+    "logs_latest_update": "2026-08-06T00:28:46Z",
     "text_extraction_latest_update": "2026-07-22T11:44:15.974700Z"
   }
 }

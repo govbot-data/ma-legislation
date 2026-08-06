@@ -99,14 +99,14 @@
     },
     {
       "description": "Read second",
-      "date": "2026-07-23",
+      "date": "2026-07-22",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-26T13:48:25Z"
+        "log_file_created": "2026-08-06T00:28:46Z"
       }
     },
     {
@@ -119,6 +119,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-26T13:48:25Z"
+      }
+    },
+    {
+      "description": "Reprinted, as amended, see S3228",
+      "date": "2026-07-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T00:28:46Z"
       }
     },
     {
@@ -142,6 +152,66 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-26T13:48:25Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T00:28:46Z"
+      }
+    },
+    {
+      "description": "House NON-concurred in the Senate amendment",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T00:28:46Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed - (Michlewitz-Fiola-Soter)",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T00:28:46Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T00:28:46Z"
+      }
+    },
+    {
+      "description": "Senate insisted on its amendment",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T00:28:46Z"
+      }
+    },
+    {
+      "description": "Committee of conference appointed (Finegold-Rodrigues-Durant), in concurrence",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-06T00:28:46Z"
       }
     }
   ],
@@ -185,7 +255,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T13:48:26Z",
+    "logs_latest_update": "2026-08-06T00:28:46Z",
     "text_extraction_latest_update": "2026-07-25T03:07:12.014324Z"
   }
 }

@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+ SENATE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  No. 3190 
+ 
+The Commonwealth of Massachusetts 
+_______________ 
+In the One Hundred and Ninety-Fourth General Court 
+(2025-2026) 
+_______________ 
+ 
+ 
+SENATE, July 22, 2026. 
+ The committee on Consumer Protection and Professional Licensure to whom was 
+referred the petition (accompanied by bill, Senate, No. 3090) (subject to Joint Rule 12) of 
+William N. Brownsberger and David M. Rogers for legislation relative to consumer connected 
+devices., report the accompanying bill (Senate, No. 3190). 
+ 
+For the committee, 
+ Pavel M. Payano 
+ 
+
+1 of 5         FILED ON: 7/20/2026 
+SENATE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  No. 3190 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Fourth General Court 
+(2025-2026) 
+_______________ 
+ 
+An Act relative to consumer connected devices. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1  SECTION 1. The General Laws, as appearing in the 2022 Official Edition, are hereby 
+2 amended by inserting after chapter 93L the following chapter:-  
+3  CHAPTER 93M   
+4  THE REGULATION OF INTERNET CONNECTED DEVICES   
+5  Section 1. As used in this chapter, the following terms shall have the following meanings 
+6 unless the context clearly requires otherwise:  
+7  “Connected consumer product”, any device or other physical object marketed whole or in 
+8 part to consumers or small businesses and is capable of connecting to the Internet, either directly 
+9 or indirectly, including the physical device, associated mobile application and necessary cloud 
+10 infrastructure.  
+11  “Consumer”, a person that owns or leases from a lessor a connected consumer product 
+12 that the person or the lessor purchased or used in the commonwealth.  
+
+2 of 5 13  “End of software support period”, the point at which the manufacturer ceases providing 
+14 technical support, security updates, or bug fixes for the software, hardware, or firmware, 
+15 necessary for the product to securely function, even if the product is still in use.  
+16  “End of sale”, the point at which a manufacturer stops selling the product, which shall be 
+17 no less than 1 year before the end of software support period.   
+18  “Firmware”, means low-level software that is embedded into hardware devices that 
+19 provides the essential instructions needed for hardware operation, acting as a middle layer 
+20 between the hardware and higher-level software such as device operating systems or 
+21 applications.  
+22  “Internet service provider” or “ISP”, a company or organization that provides individuals 
+23 and businesses with access to the internet through infrastructure and networking technologies 
+24 that connect to the global internet, such as broadband, fiber, DSL, and mobile data, often 
+25 including electronic mail and web hosting.  
+26  “Manufacturer” or “original equipment manufacturer” or “OEM”, a business engaged in 
+27 the business of selling, leasing, or otherwise supplying new consumer electronic devices, or parts 
+28 of equipment, manufactured by or on behalf of itself, to any individual or business.  
+29  “Minimum guaranteed support time period”, means the minimum amount of time for 
+30 which a company has publicly committed to providing technical support, security updates or bug 
+31 fixes for the software, hardware, or firmware, expressed as continuing until a specific date or for 
+32 a specified period of time that commences with the purchase of the device.  
+
+3 of 5 33  “Point of sale” or “POS”, an electronic terminal used by merchant employees for 
+34 consumer purchases or services.  
+35  “Product web page”, a web page specific to the particular connected consumer product 
+36 that contains features and information about the product.  
+37  “Security updates”, updates released to address vulnerabilities in the software, hardware, 
+38 or firmware used by a connected consumer product.  
+39  ''Small business'', a business entity, including its affiliates, that: (i) is independently 
+40 owned and operated; (ii) has a principal place of business in the commonwealth; and (iii) would 
+41 be defined as a ''small business'' under applicable federal law, as established in the United States 
+42 Code and promulgated from time to time by the United States Small Business Administration. 
+43  “Technical support”, contractor- or manufacturer-provided assistance addressing 
+44 technical issues for consumer electronic equipment, including but not limited to troubleshooting, 
+45 repair, updates and usage guidance.  
+46  “Vulnerability”, means a flaw in the software, hardware, or firmware running on a 
+47 connected consumer product that lessens the security and integrity of the software, hardware or 
+48 firmware needed to operate the product.  
+49  Section 2. (a) For any connected consumer product sold on or after January 1, 2027, the 
+50 manufacturer shall disclose a minimum guaranteed support period during which technical 
+51 support, security updates and bug fixes shall be provided for the product's essential software, 
+52 firmware, and hardware.  
+
+4 of 5 53  (b) Disclosures required under subsection (a) shall: (i) be made at the point of sale, where 
+54 practicable; (ii) be displayed in a clear and conspicuous manner on the product packaging and on 
+55 the manufacturer's website or product-specific webpage; and (iii) specify the end of software 
+56 support period date or the length of support from the date of sale.  
+57  (c) A manufacturer shall not shorten the disclosed support period after the sale of a 
+58 product but may extend the support period by issuing updated disclosures.  
+59  (d) Not less than 6 months prior to the end of the minimum guaranteed support period, 
+60 the manufacturer shall notify consumers of the forthcoming end of software support period, 
+61 including a list of features that will no longer function and any cybersecurity risks; performance 
+62 degradation; reduced interoperability; or other changes that may result from the discontinued 
+63 product support.  
+64  e) Manufacturers shall post the notification required under subsection d on the product-
+65 specific web page; provided, however, that manufacturers shall also deliver notifications 
+66 required under subsection (d) by at least 1 of the following methods, if feasible: (i) in-product 
+67 messaging through an associated application or user interface, where the manufacturer provides 
+68 such application or interface to consumers; or (ii) email communications, where the 
+69 manufacturer possesses consumer contact data. 
+70  (f) Internet service providers that supply or lease connected consumer products shall be 
+71 responsible for ensuring that such products:  
+72  (i) continue to receive security updates if still in active deployment; or  
+
+5 of 5 73  (ii) if declared end of software support period, are replaced, at no cost to the consumer, 
+74 with comparable products capable of receiving security updates.  
+75  Section 3. (a) A violation of any provision of this chapter shall constitute an unfair or 
+76 deceptive act or practice under section 2 of chapter 93A.  
+77  (b) Any person who suffers an ascertainable loss of money or property, real or personal, 
+78 as a result of a manufacturer’s or service provider’s violation of this chapter may bring an action 
+79 under chapter 93A, section 9, to recover actual damages, including but not limited to:  
+80  (i) costs to repair or replace the affected product;  
+81  (ii) costs of substitute or alternative products;  
+82  (iii) shipping, installation and setup costs;  
+83  (iv) consequential damages resulting from product failure;  
+84  (v) lost income or wages from interruptions to use;  
+85  (vi) other documented financial losses;  
+86  (vii) reasonable attorney’s fees and costs; and  
+87  (viii) injunctive or declaratory relief as appropriate.  
+88  (c) The rights and remedies established by this chapter shall be in addition to any other 
+89 rights or remedies available under state or federal law. 

@@ -1,0 +1,269 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+ SENATE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  No. 3164 
+ 
+The Commonwealth of Massachusetts 
+_______________ 
+In the One Hundred and Ninety-Fourth General Court 
+(2025-2026) 
+_______________ 
+ 
+ 
+SENATE, July 2, 2026. 
+ The committee on Senate Ways and Means to whom was referred the Senate Bill 
+protecting children from addictive social media feeds (Senate, No. 30), - reports, recommending 
+that the same ought to pass with an amendment substituting a new draft with the same title 
+(Senate, No. 3164).  
+ 
+For the committee, 
+ Michael J. Rodrigues 
+ 
+
+1 of 11         FILED ON: 7/2/2026 
+SENATE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  No. 3164 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Fourth General Court 
+(2025-2026) 
+_______________ 
+ 
+An Act protecting children from addictive social media feeds. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1  SECTION 1. The General Laws are hereby further amended by inserting after chapter 
+2 93L the following chapter:- 
+3  Chapter 93M 
+4  ONLINE PROTECTION 
+5  Section 1. As used in this chapter, the following words shall have the following meanings 
+6 unless the context clearly requires otherwise: 
+7  “Account”, a unique profile for a user of a social media platform. 
+8  “Addictive social media feed”, a website, online service, online application or mobile 
+9 application, or a portion thereof, in which multiple pieces of content generated or shared by users 
+10 of a website, online service, online application or mobile application, either concurrently or 
+11 sequentially, are recommended, selected or prioritized for display to a user based, in whole or in 
+12 part, on information associated with the user or the user’s device unless, for each such 
+
+2 of 11 13 recommendation, selection or prioritization, any of the following conditions are met, alone or in 
+14 combination with one another: 
+15  (i) the recommendation, prioritization or selection is based on information that is not 
+16 persistently associated with the user or user’s device and does not concern the user’s previous 
+17 interactions with content generated or shared by other users unless the content was explicitly 
+18 saved by the user; 
+19  (ii) the recommendation, prioritization or selection is based on user-selected privacy or 
+20 accessibility settings or technical information concerning the user’s device; 
+21  (iii) the user expressly and unambiguously: (1) requested the specific content; (2) 
+22 subscribed to content by the author, creator or poster of the content; or (3) subscribed to the page 
+23 or group to which the content is shared by users; provided, however, that the content is not 
+24 recommended, selected or prioritized for display based, in whole or in part, on other information 
+25 associated with the user or the user’s device that is not otherwise permissible under this section; 
+26 provided further, that “subscribed to” shall include friending, joining or otherwise affirmatively 
+27 requesting content from; 
+28  (iv) the user expressly and unambiguously requested that specific content, content by a 
+29 specified author, creator or poster of content to which the user has subscribed or content shared 
+30 by users to a page or group to which the user has subscribed pursuant to clause (iii) be blocked, 
+31 prioritized or deprioritized for display; provided, however, that the content is not recommended, 
+32 selected or prioritized for display based, in whole or in part, on other information associated with 
+33 the user or the user’s device that is not otherwise permissible under this section; 
+34  (v) the content is a direct or private communication; 
+
+3 of 11 35  (vi) the content is recommended, selected or prioritized only in direct response to a 
+36 specific search inquiry by the user at the time such search inquiry is made; 
+37  (vii) the content recommended, selected or prioritized for display is exclusively next in a 
+38 pre-existing sequence from the same author, creator, poster or source; or 
+39  (viii) the recommendation, prioritization or selection is necessary to comply with the 
+40 provisions of this chapter and any regulations promulgated pursuant to this chapter. 
+41  “Age signal”, a device-level transmission from an operating system provider or 
+42 application distribution provider to a covered operator of a categorical age range applicable to 
+43 the user of the device that does not require the transmission to the covered operator of such 
+44 user’s date of birth, legal name, government-issued identification or biometric identifier. 
+45  “Application distribution provider”, a person, business or legal entity that owns, controls 
+46 or operates a platform through which software applications are made available for download or 
+47 installation by users in the commonwealth. 
+48  “Autoplay”, a feature of a social media feed or landing page where content is 
+49 automatically played in a social media feed without any manual input from a user. 
+50  “Connected account”, an account on a social media platform that is directly connected to 
+51 another account by an affirmative request by a user and an affirmative confirmation by another 
+52 user. 
+53  “Content”, an image, video or text. 
+54  “Covered minor”, a user of a website, online service, online application or mobile 
+
+4 of 11 55  application in the commonwealth when the operator of such website, online service, 
+56 online application or mobile application has actual knowledge the user is a minor. 
+57  “Covered operator”, any person, business or legal entity who operates or provides a 
+58 social media platform.  
+59  “Educational technology platform”, a software application or web-based technology, 
+60 including, but not limited to, a learning management system, designed to provide communication 
+61 between a school and students’ parents or guardians, educational information, experiences, 
+62 training or instruction to build knowledge, skills or a craft; provided, however, that, for purposes 
+63 of this chapter: (i) such software application or web-based technology is approved by the school 
+64 district; (ii) the school district complies with the Family Educational Rights and Privacy Act of 
+65 1974, 20 U.S.C. 1232g, and 34 C.F.R. Part 99, in its use of any software application or web-
+66 based technology; and (iii) the school district has an executed student data privacy agreement 
+67 governing the use of any software application or web-based technology that collects student data 
+68 that includes a requirement that the software application or web-based technology complies with 
+69 said Family Educational Rights and Privacy Act of 1974, 20 U.S.C. 1232g and 34 C.F.R. Part 99. 
+70  “Infinite scroll”, a feature of a social media feed or landing page that provides an 
+71 automatically and continuously loading social media feed or landing page where additional 
+72 content displays at the bottom of such feed or landing page without any manual input from a 
+73 user. 
+74  “Minor”, an individual under the age of 18. 
+
+5 of 11 75  “Operating system provider”, a person, business or legal entity that designs, develops or 
+76 distributes software that manages the hardware of an internet-enabled device, including a mobile 
+77 device, tablet or computer, and allows programs and applications to run on such device. 
+78  “Parent”, a parent or legal guardian of a minor. 
+79  “Precise geolocation data”, information derived from technology, including, but not 
+80 limited to, latitude and longitude coordinates from global positioning system mechanisms or 
+81 other similar positional data, that reveals the past or present physical location of a user or device 
+82 that identifies or is linked or reasonably linkable to 1 or more users with precision and accuracy 
+83 within a radius of 1,750 feet. 
+84  “Push notification”, an automatic electronic message displayed on a user’s personal 
+85 electronic device when the social media platform is not actively open or visible on the personal 
+86 electronic device that prompts the user to use and interact with the social media platform. 
+87  “Social media feed”, the presentation of content to users of a social media platform that 
+88 has been recommended, selected or prioritized for presentation or display to a user. 
+89  “Social media platform”, a public website, online service, online application or mobile 
+90 application that primarily serves as a medium for displaying content generated by users through a 
+91 social media feed and that allows users to create, share, view and interact with user-generated 
+92 content; provided, however, that “social media platform” shall not include: (i) email, short 
+93 message service, multimedia message service, rich communication service or similar text 
+94 messaging telecommunications services; (ii) cloud storage services; (iii) online services or 
+95 applications with the primary purpose to facilitate the purchase or sale of goods or services 
+96 between buyers and sellers, including, but not limited to, online marketplaces that enable users to 
+
+6 of 11 97 list, search for, purchase or review products or services, where any user-to-user communication 
+98 or user-generated content is incidental to such commercial transactions; (iv) an educational 
+99 technology platform; or (v) document viewing, sharing or collaboration services. 
+100  “User”, an individual who, through an account, accesses or uses either a social media 
+101 feed or a social media platform in the commonwealth; provided, however, that “user” shall not 
+102 include an individual acting as a covered operator, or agent or affiliate of the covered operator, of 
+103 such social media feed or social media platform or any portion thereof. 
+104  Section 2. (a)(1) A covered operator shall use commercially reasonable and technically 
+105 feasible methods to determine if a user is a covered minor unless the user opts out of such 
+106 methods; provided, however, that the covered operator shall provide the user with a clear, simple 
+107 and prominent opportunity to opt out of such methods prior to using them. The covered operator 
+108 shall set default social media platform safety settings for a user determined to be a covered 
+109 minor, or for a user that opts out of such methods, that shall: 
+110  (i) disable an addictive social media feed; 
+111  (ii) disable push notifications to a user between the hours of 12:00 a.m. and 6:00 a.m. in 
+112 the commonwealth’s time zone; 
+113  (iii) disable autoplay or other auto-advance functions that continuously present content to 
+114 a user;  
+115  (iv) disable infinite scroll or other endless scrolling or pagination functions; and 
+116  (v) require a clear and conspicuous reminder after the user has accessed the social media 
+117 platform for more than 1 cumulative hour of use in any 24-hour period and every 30 minutes of 
+
+7 of 11 118 cumulative use thereafter that the user has accessed the social media platform for any such 
+119 amount of time; provided, however, that the social media platform shall require the user to 
+120 acknowledge the reminder before continuing use of the social media platform. 
+121  (2) A covered operator shall not allow a user to change the default settings enabled 
+122 pursuant to paragraph (1) unless the covered operator has used commercially reasonable and 
+123 technically feasible methods to determine that the user is not a covered minor pursuant to section 
+124 3. 
+125  (b)(1) If a covered operator has actual knowledge that a user is a minor, the covered 
+126 operator shall enable default social media platform safety settings for the covered minor’s 
+127 account that shall: 
+128  (i) restrict the visibility of the content on a covered minor’s account to only connected 
+129 accounts; provided, however, that information necessary for users to search for and connect to a 
+130 covered minor’s account, including, but not limited to, the covered minor’s name, may be made 
+131 visible; 
+132  (ii) disable the visibility or sharing of the covered minor’s precise geolocation data with 
+133 other users; 
+134  (iii) limit the covered minor’s sharing of content to connected accounts; and 
+135  (iv) limit the covered minor’s direct messaging to connected accounts. 
+136  (2) A covered operator may permit a covered minor to change the default settings enabled 
+137 pursuant to clauses (i), (iii) and (iv) of paragraph (1). The default settings required in clause (ii) 
+138 of said paragraph (1) may only be changed with verifiable parental consent. The attorney general 
+
+8 of 11 139 shall promulgate regulations identifying methods of obtaining such verifiable parental consent. 
+140 Information collected for the purpose of obtaining such verifiable parental consent shall not be 
+141 used for any purpose other than obtaining verifiable parental consent and shall be deleted 
+142 immediately after an attempt to obtain verifiable parental consent, except where necessary for 
+143 compliance with any applicable provisions of state or federal law or regulation. Nothing in this 
+144 chapter shall be construed as requiring a social media platform to provide a parent any additional 
+145 or special access to or control over the data or accounts of their covered minor child. The default 
+146 setting provided in clause (ii) of paragraph (1) shall be adjustable with verifiable parental consent 
+147 in a manner that allows the sharing of the covered minor’s precise geolocation location data with 
+148 only selected individual connected accounts. 
+149  (3) A covered operator shall not: (i) provide a user with an option to change more than 1 
+150 such default setting at once; or (ii) request or prompt a user to change any such default settings, 
+151 unless the change is necessary for the user to access a service or feature they have expressly and 
+152 unambiguously requested. 
+153  (4) A covered operator may, but shall not be required to, use commercially reasonable 
+154 and technically feasible methods to determine if a user is a covered minor for the purpose of this 
+155 subsection pursuant to regulations promulgated by the attorney general pursuant to section 3. 
+156  (c) No covered operator shall withhold, degrade or lower the quality or increase the price 
+157 of any product, service or feature to a user who uses the social media platform with the default 
+158 settings under subsections (a) or (b) enabled. 
+
+9 of 11 159  Section 3. (a) The attorney general shall promulgate regulations identifying commercially 
+160 reasonable and technically feasible methods for covered operators to determine if a user is a 
+161 covered minor for the purposes of subsection (a) of section 2. 
+162  (b) The attorney general may consider among the methods identified under subsection 
+163 (a), an age signal as a commercially reasonable and technically feasible method for determining 
+164 whether a user is a covered minor and may, by regulation, require an operating system provider 
+165 to provide covered operators with such age signal. 
+166  (c) In promulgating regulations pursuant to this section, the attorney general shall 
+167 consider: (i) the size and financial resources of the social media platform; (ii) the costs and 
+168 effectiveness of available age assurance methods; and (iii) the impact of the age assurance 
+169 methods on users’ safety, utility and experience. 
+170  (d) Regulations promulgated pursuant to this section shall: (i) set forth multiple methods 
+171 for a covered operator to determine if a user is a covered minor, including, but not limited to, at 
+172 least 1 method that either does not rely solely on government issued identification or that allows 
+173 a user to maintain anonymity as to the covered operator of the social media platform; (ii) limit 
+174 the collection of personal data of a user to data that is strictly necessary for determining a user’s 
+175 age; (iii) require the deletion of personal data collected for the purpose of determining if a user is 
+176 a covered minor, other than the determination of the user’s age, immediately after making such 
+177 determination; (iv) prohibit the use of any personal data collected for the purpose of determining 
+178 if a user is a covered minor for any other purpose; (v) prohibit the combination of personal data 
+179 collected for the purpose of determining if a user is a covered minor, except the determination of 
+
+10 of 11 180 the user’s age, with any other personal data of the user; and (vi) require the implementation of a 
+181 review process to allow users to appeal an age assurance determination. 
+182  (e) If a covered operator has used commercially reasonable and technically feasible age 
+183 assurance methods in compliance with such regulations and has not determined that a user is a 
+184 covered minor, the covered operator shall operate under the presumption that the user is not a 
+185 covered minor for the purposes of this chapter, unless it obtains actual knowledge that the user is 
+186 a covered minor. 
+187  (f) A covered operator that uses commercially reasonable and technically feasible age 
+188 assurance methods in compliance with regulations promulgated pursuant to this section and 
+189 prohibits any user it determines to be a covered minor from accessing the social media platform 
+190 shall be exempt from the requirements in section 2.  
+191  Section 4. A covered operator shall provide the attorney general with de-identified 
+192 aggregate data on minors’ use of the social media platform not less than quarterly. Such data 
+193 shall include, but not be limited to: (i) the number of minors who use the platform, delineated by 
+194 age or age range; (ii) the amount of time minors spend on the platform, delineated by age or age 
+195 range; and (iii) the frequency and type of modification of default settings for minors’ social 
+196 media accounts. The attorney general shall make such data available to the public on its website. 
+197 The attorney general may promulgate regulations requiring the reporting of additional de-
+198 identified aggregate data about minors’ use of social media platforms. 
+199  Section 5. (a) A violation by a covered operator of this chapter shall constitute an unfair 
+200 or deceptive act or practice in violation of chapter 93A. Notwithstanding sections 9 and 11 of 
+
+11 of 11 201 said chapter 93A, the attorney general shall have exclusive authority to bring a civil action 
+202 against a covered operator that violates this chapter.  
+203  (b) A covered operator found to be in violation of section 2 shall be punished by a civil 
+204 fine of not more than $5,000 per violation; provided, however, that a covered operator shall be in 
+205 violation of section 2 for each user account not in compliance with section 2. 
+206  (c) A covered operator that violates section 4 shall be liable for a civil penalty of not 
+207 more than $1,000,000. Each day the violation of section 4 persists shall be a separate violation. 
+208  Section 6. Nothing in this chapter shall authorize access to a social media platform or to 
+209 content on a social media platform by an individual otherwise prohibited from doing so under 
+210 state or federal law.  
+211  Section 7. The attorney general may promulgate regulations to implement this chapter. 
+212  Section 8. The office of the attorney general shall maintain on its website an online 
+213 submission platform to receive complaints, information or referrals from members of the public 
+214 concerning a social media platform’s alleged compliance or non-compliance with this chapter.  
+215  SECTION 2. Not later than March 1, 2027, the attorney general shall promulgate 
+216 regulations pursuant to chapter 93M of the General Laws. 
+217  SECTION 3. Section 1 shall take effect on August 1, 2027. 

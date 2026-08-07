@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+1 of 1 HOUSE DOCKET, NO. 4570        FILED ON: 4/14/2025 
+HOUSE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  No. 4034 
+ 
+The Commonwealth of Massachusetts 
+_________________ 
+PRESENTED BY: 
+Tommy Vitolo 
+_________________ 
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General 
+ Court assembled: 
+ The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill: 
+An Act authorizing ranked choice voting in the town of Brookline. 
+_______________ 
+PETITION OF: 
+ 
+NAME: DISTRICT/ADDRESS: DATE ADDED: 
+Tommy Vitolo 15th Norfolk 4/14/2025 
+Cynthia Stone Creem Norfolk and Middlesex 9/8/2025 
+Margaret R. Scarsdale 1st Middlesex 6/16/2025 
+
+1 of 7 HOUSE DOCKET, NO. 4570        FILED ON: 4/14/2025 
+HOUSE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  No. 4034 
+By Representative Vitolo of Brookline, a petition (accompanied by bill, House, No. 4034) of 
+Tommy Vitolo (by vote of the town) for legislation to authorize ranked choice voting in the town 
+of Brookline.  Election Laws.  [Local Approval Received.] 
+ 
+[SIMILAR MATTER FILED IN PREVIOUS SESSION 
+SEE HOUSE, NO. 4112 OF 2023-2024.] 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Fourth General Court 
+(2025-2026) 
+_______________ 
+ 
+An Act authorizing ranked choice voting in the town of Brookline. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1  SECTION 1. RANKED CHOICE VOTING   
+2  (a) For the purposes of this section, the following terms shall have the following 
+3 meanings, unless the context clearly requires otherwise:   
+4  “Batch elimination” is the simultaneous defeat of multiple candidates for whom it is 
+5 mathematically impossible to be elected.   
+6  "Concluded ballot," a ballot that does not rank any continuing candidate or contains an 
+7 overvote at the highest-ranked continuing candidate, or contains 2 or more sequential skipped 
+8 rankings before its highest-ranked continuing candidate.  
+9  "Continuing candidate," a candidate who has not been defeated or elected.   
+
+2 of 7 10  “Election threshold,” the number of votes sufficient for a candidate to be elected in a 
+11 multi-seat election. It is calculated by dividing the total number of votes counting for continuing 
+12 candidates in the first round by the sum of the number of seats to be elected and 1, disregarding 
+13 any fractions, and then adding 1.   
+14  "Highest-ranked continuing candidate," the continuing candidate with the highest ranking 
+15 on a voter's ballot.  
+16  "Last-place candidate," (i) the candidate with the lowest vote total in a round of the 
+17 ranked-choice voting tabulation; or (ii) a candidate that is defeated in batch elimination.   
+18  "Overvote," a circumstance in which a voter ranks more than 1 candidate at the same 
+19 ranking.   
+20  “Ranked choice voting,” a method of casting and tabulating ballots in which voters rank 
+21 candidates for office in order of preference.   
+22  "Ranking" means the number assigned on a ballot by a voter to a candidate to express the 
+23 voter's relative preference for that candidate. Ranking number 1 shall be the highest ranking, 
+24 ranking number 2 shall be the next-highest ranking, and so on.   
+25  “Skipped ranking”, a circumstance in which a voter does not use a ranking and ranks a 
+26 candidate with a subsequent ranking.  
+27  “Surplus fraction,” the number equal to the difference between an elected candidate’s 
+28 vote total and the election threshold, divided by the candidate’s vote total.   
+
+3 of 7 29  “Transfer value,” the proportion of a vote that a ballot will count to its highest-ranked 
+30 continuing candidate. Each ballot shall begin with a transfer value of 1. If a ballot counts to the 
+31 election of a candidate under subsection (d)(1), the ballot receives a lower transfer value.   
+32  (b) All town-wide offices shall be elected by ranked choice voting at the annual election, 
+33 and in any special election called pursuant to MGL Chapter 41 Section 10.  
+34  Ranked choice voting shall apply to a single-seat office only when the number of 
+35 candidates printed on the ballot exceeds 2 and to a multi-seat office only when the number of 
+36 candidates printed on the ballot exceeds the number of seats to be elected.  
+37   (c) In any single-seat election, each round shall begin by counting the number of votes 
+38 for each continuing candidate. Each ballot shall count as 1 vote for its highest-ranked continuing 
+39 candidate. Concluded ballots shall not be counted for any continuing candidate. Each round shall 
+40 proceed sequentially as follows:   
+41  (1) If there are 2 or fewer continuing candidates, the candidate with the most votes shall 
+42 be elected, and tabulation shall be complete.   
+43  (2) If there are more than 2 continuing candidates, the last-place candidate shall be 
+44 defeated, or the last-place candidates shall be defeated in batch elimination, and a new round 
+45 shall begin.   
+46  (d) In any multi-seat election, each round shall begin by counting the number of votes for 
+47 each continuing candidate. Each ballot shall count, at its current transfer value, for its highest-
+48 ranked continuing candidate. Concluded ballots shall not count for any continuing candidate. In 
+
+4 of 7 49 the first round only, the election threshold shall then be calculated. Each round shall proceed 
+50 sequentially as follows:   
+51  (1) If the sum of the number of elected candidates and continuing candidates is equal to 
+52 the number of seats to be filled, then all continuing candidates shall be elected, and tabulation 
+53 shall be complete.   
+54  (2) If at least 1 continuing candidate has greater than or equal to the number of votes than 
+55 the election threshold, then all such candidates shall be elected. If the number of elected 
+56 candidates is equal to the number of seats to be filled, then tabulation shall be complete. 
+57 Otherwise, each ballot counting for an elected candidate shall be assigned a new transfer value 
+58 by multiplying the ballot’s current transfer value by the surplus fraction for the candidate. Each 
+59 elected candidate shall be deemed to have a number of votes equal to the election threshold in all 
+60 future rounds, and a new round shall begin.   
+61  (3) Otherwise, the last-place candidate shall be defeated, or the last-place candidates shall 
+62 be defeated in batch elimination, and a new round shall begin.   
+63  (e) Batch elimination shall apply to the largest possible group of continuing candidates 
+64 such that the sum of the votes of candidates in the group is less than the individual number of 
+65 votes of every continuing candidate not in the group, and provided that the number of continuing 
+66 candidates not in the group is at least 1 more than the remaining number of positions to elect.   
+67  (f) Prior to the first election conducted using Ranked Choice Voting, the Town Clerk, 
+68 subject to approval by the Board of Registrars, will establish a method of tiebreaking that will be 
+69 used if 2 or more last-place candidates are tied and batch elimination does not apply. The results 
+70 of any such tiebreaking events must be recorded and reused in the event of a recount. The 
+
+5 of 7 71 method for tiebreaking may be amended from time to time, but shall not be amended during the 
+72 course of an election, including any and all recounts.   
+73  (g) When a skipped ranking or repeat candidate ranking is encountered on a ballot, that 
+74 vote shall count towards the highest continuing ranking. In the case of an overvote involving two 
+75 or more continuing candidates, the overvote candidates and all subsequently ranked candidates 
+76 will be disregarded. If any vote cannot be advanced because no further continuing candidates are 
+77 ranked on that ballot, that ballot shall be declared concluded for that contest.   
+78  (h) As used in section 4 of chapter 43A, the "order of votes received" by candidates in a 
+79 ranked choice voting election shall mean the order in which candidates are elected. If multiple 
+80 candidates are elected in the same round, the respective order of elected candidates in that round 
+81 shall mean the order of votes received by those candidates at the end of the round.  
+82  (i) The Town Clerk, subject to approval by the Board of Registrars, may make any 
+83 changes to the ranked choice voting ballot and tabulation process necessary to ensure the 
+84 integrity and smooth functioning of the election, provided that ranked choice voting shall still be 
+85 used and the fewest number of changes are made to achieve such purpose.   
+86  (j) In any election conducted using Ranked-Choice Voting the Town Clerk shall publish 
+87 election results that show the tabulations by rounds, along with any additional information that 
+88 may be required by the Town bylaws.  
+89  (k) The Town Clerk shall provide educational materials to voters subject to any 
+90 applicable  Town bylaws.  
+91  SECTION 2.  
+
+6 of 7 92  Notwithstanding the provisions of applicable provisions of chapters 53 and 54 of the 
+93 general laws, Ranked-choice voting ballots for use in the Town of Brookline municipal elections 
+94 shall be prepared according to a format meeting the below requirements and otherwise consistent 
+95 with state law.   
+96  a) To the extent possible, a ranked choice voting ballot shall allow voters to rank as many 
+97 choices as there are candidates printed on the ballot. If the voting equipment is unable to 
+98 reasonably accommodate a number of rankings on the ballot equal to the number of candidates, 
+99 the Board of Registrars of Voters may limit the number of choices a voter may rank to the 
+100 maximum number allowed by the voting equipment.  A ranked choice voting ballot shall not 
+101 interfere with a voter’s ability to rank at least 1 write-in candidate.   
+102  b) The ballot must indicate the number of seats to be filled for each contest.   
+103  c) For each election where Ranked Choice Voting is used and the number of candidates 
+104 exceeds two, the Board of Registrars shall randomly draw lots prior to the printing of ballots so 
+105 as to determine the order in which the names of candidates shall appear on the ballot.  To the 
+106 name of a candidate for Town office who is an elected incumbent thereof shall be added the 
+107 words ‘Candidate for Reelection’.  
+108  d) The ballot must comply with all otherwise applicable provisions of the General Laws 
+109 and the regulations promulgated thereunder.   
+110  SECTION 3. If any part of this Act is declared unconstitutional by a court of competent 
+111 jurisdiction, the remaining parts shall survive in full force and effect. If a conflict arises between 
+112 this Act and any other provision of law, the policies and purposes of this Act shall govern.  
+
+7 of 7 113  SECTION 4. Not sooner than four years after acceptance of this act, a proposal to resume 
+114 or discontinue the use of Ranked Choice Voting may be put on the Warrant for Town Meeting 
+115 by a petition signed by at least ten registered voters of Brookline. In the alternative, not sooner 
+116 than four years after acceptance of this act, the question may be so placed on said ballot when a 
+117 petition signed by at least ten per cent of the registered voters of Brookline requesting such 
+118 action is filed with the registrars, who shall have seven days after receipt of such a petition to 
+119 certify the signatures. Upon passage in Town Meeting or upon certification of the signatures, the 
+120 Town Clerk shall cause the question to be placed on the ballot at the next regular municipal 
+121 election held more than thirty-five days after such passage or certification. Upon the defeat by 
+122 the voters of the above described ballot question, another proposal to resume or discontinue the 
+123 use of Ranked Choice Voting may not be placed on the ballot for four years thereafter. Not 
+124 sooner than four years after a successful vote to discontinue the use of Ranked Choice Voting, 
+125 the procedures in this section may be used to resume the use of Ranked Choice Voting.  
+126  SECTION 5. This act shall be submitted for acceptance by the voters of the town of 
+127 Brookline at the next regular municipal or state election following the effective date of this act; 
+128 provided, however, that if the deadline to put a question on the ballot for the next regular 
+129 municipal or state election has passed, the question shall be placed on the ballot for the following 
+130 regular municipal or state election. This act shall be submitted for acceptance in the form of the 
+131 following question:  

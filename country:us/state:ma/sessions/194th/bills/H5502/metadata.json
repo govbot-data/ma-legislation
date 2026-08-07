@@ -58,84 +58,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:21Z"
       }
-    },
-    {
-      "description": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5632",
-      "date": "2026-07-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-06T00:28:46Z"
-      }
-    },
-    {
-      "description": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending",
-      "date": "2026-07-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "committee on House Steering, Policy and Scheduling with the amendment pending",
-          "entity_type": "organization",
-          "organization_id": null
-        },
-        {
-          "name": "the committee on House Steering, Policy and Scheduling with the amendment pending",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-08-06T00:28:46Z"
-      }
-    },
-    {
-      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting for a second reading with the amendment pending",
-      "date": "2026-07-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-06T00:28:46Z"
-      }
-    },
-    {
-      "description": "Rules suspended",
-      "date": "2026-07-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-06T00:28:46Z"
-      }
-    },
-    {
-      "description": "Read second, amended (as recommended by the committee on House Ways and Means)",
-      "date": "2026-07-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage",
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-06T00:28:46Z"
-      }
-    },
-    {
-      "description": "New draft substituted, see H5632",
-      "date": "2026-07-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-06T00:28:46Z"
-      }
     }
   ],
   "sponsorships": [
@@ -210,7 +132,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-06T00:28:46Z",
+    "logs_latest_update": "2026-08-07T13:22:09Z",
     "text_extraction_latest_update": "2026-08-06T02:18:51.446487Z"
   }
 }

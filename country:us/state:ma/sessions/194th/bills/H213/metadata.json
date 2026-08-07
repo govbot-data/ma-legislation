@@ -132,6 +132,25 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:18Z"
       }
+    },
+    {
+      "description": "Bill reported favorably by committee and referred to the committees on Rules of the two branches, acting concurrently",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committees on Rules of the two branches, acting concurrently",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-07T13:22:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -196,7 +215,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "logs_latest_update": "2026-08-07T13:22:09Z",
     "text_extraction_latest_update": "2026-07-25T03:09:51.226787Z"
   }
 }

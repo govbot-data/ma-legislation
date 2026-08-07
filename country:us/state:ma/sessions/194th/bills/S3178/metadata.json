@@ -1333,6 +1333,16 @@
       }
     },
     {
+      "description": "Reprinted, as amended, see S3228",
+      "date": "2026-07-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
       "description": "Substituted, as amended for H5576",
       "date": "2026-07-24",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1393,7 +1403,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T16:36:38Z",
+    "logs_latest_update": "2026-08-07T17:18:34Z",
     "text_extraction_latest_update": "2026-08-06T01:43:00.534668Z"
   }
 }

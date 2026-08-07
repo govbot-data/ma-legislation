@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Accompanied by S321, S324, S325, S331, S374, S398, S421, S423, S426, S427, S431, S438, S439, S458 and S459",
+    "occurred_at": "2026-07-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3238",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3238"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Hearing rescheduled to 07/30/2026 from 04:00 PM-04:10 AM in A-1   Hearing updated to New End Time",
+    "occurred_at": "2026-07-30",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3230",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3230"
+}

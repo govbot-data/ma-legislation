@@ -86,6 +86,36 @@
       "_processing": {
         "log_file_created": "2026-07-21T23:17:25Z"
       }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next session with an amendment, see S3247",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
+      "description": "New draft substituted, see S3247",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -262,7 +292,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
+    "logs_latest_update": "2026-08-07T17:18:34Z",
     "text_extraction_latest_update": "2026-07-24T10:58:47.087091Z"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read, rules suspended and read second",
+    "occurred_at": "2026-07-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S3189",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S3189"
+}

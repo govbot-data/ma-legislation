@@ -11,12 +11,12 @@
     ],
     "related_entities": [
       {
-        "name": "committee on House Steering, Policy and Scheduling",
+        "name": "the committee on House Steering, Policy and Scheduling",
         "entity_type": "organization",
         "organization_id": null
       },
       {
-        "name": "the committee on House Steering, Policy and Scheduling",
+        "name": "committee on House Steering, Policy and Scheduling",
         "entity_type": "organization",
         "organization_id": null
       }

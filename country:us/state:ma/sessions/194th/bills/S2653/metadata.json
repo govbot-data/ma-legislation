@@ -31,7 +31,7 @@
       }
     },
     {
-      "description": "Passed to be engrossed -- see   Roll Call #74 (Yeas 39 to Nays 0)",
+      "description": "Passed to be engrossed -see   Roll Call #74 (Yeas 39 to Nays 0)",
       "date": "2025-10-16",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -39,7 +39,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T23:17:30Z"
+        "log_file_created": "2026-08-07T17:18:34Z"
       }
     },
     {
@@ -63,6 +63,107 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T23:17:30Z"
+      }
+    },
+    {
+      "description": "Committee recommended ought to pass with an amendment, striking out all after the enacting clause and inserting the text of H5622, and referred to the committee on House Steering, Policy and Scheduling",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "the committee on House Steering, Policy and Scheduling",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "committee on House Steering, Policy and Scheduling",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
+      "description": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
+      "description": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
+      "description": "Read third",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
+      }
+    },
+    {
+      "description": "Passed to be engrossed - 157 YEAS to 0 NAYS (See YEA and NAY No. 258 )",
+      "date": "2026-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-07T17:18:34Z"
       }
     }
   ],
@@ -106,7 +207,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "logs_latest_update": "2026-08-07T17:18:34Z",
     "text_extraction_latest_update": "2026-07-24T18:05:35.888081Z"
   }
 }

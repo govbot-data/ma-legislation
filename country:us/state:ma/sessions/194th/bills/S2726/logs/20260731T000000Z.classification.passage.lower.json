@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enacted - 156 YEAS to 1 NAYS (See YEA and NAY No. 254 )",
+    "occurred_at": "2026-07-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "194th",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://malegislature.gov/Bills/194/S2726",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S2726"
+}

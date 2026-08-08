@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Sabadosa of Northampton and Senator Comerford, a joint petition (subject to Joint Rule 12) of Lindsay N. Sabadosa that the State Board of Retirement be authorized to grant creditable service to Jason Patrissi, an employee of the probation service and a member of the state employees\u2019 retirement system.  Public Service."
+      "abstract": "By Representative Sabadosa of Northampton and Senator Comerford, a joint petition (subject to Joint Rule 12) of Lindsay N. Sabadosa that the State Board of Retirement be authorized to grant creditable service to Jason Patrissi, an employee of the probation service and a member of the state employees’ retirement system.  Public Service."
     }
   ],
   "other_titles": [],
@@ -163,7 +163,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z",
-    "text_extraction_latest_update": "2026-07-22T10:57:20.071233Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z"
   }
 }

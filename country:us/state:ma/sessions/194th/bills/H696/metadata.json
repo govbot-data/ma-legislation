@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Scanlon of North Attleborough, a petition (accompanied by bill, House, No. 696) of Adam J. Scanlon for an investigation by a special commission (including members of the General Court) relative to the presence of students\u2019 phones in schools and classrooms and their effect on educational outcomes and student mental health.  Education."
+      "abstract": "By Representative Scanlon of North Attleborough, a petition (accompanied by bill, House, No. 696) of Adam J. Scanlon for an investigation by a special commission (including members of the General Court) relative to the presence of students’ phones in schools and classrooms and their effect on educational outcomes and student mental health.  Education."
     }
   ],
   "other_titles": [],
@@ -130,7 +130,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z",
-    "text_extraction_latest_update": "2026-07-22T12:43:22.181076Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z"
   }
 }

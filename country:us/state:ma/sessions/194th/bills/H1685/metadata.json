@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1685",
-  "title": "An Act relating to threats of suicide while in court custody (Stavri\u2019s Law)",
+  "title": "An Act relating to threats of suicide while in court custody (Stavri’s Law)",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -146,7 +146,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-22T02:36:53.338604Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Executive Office of Veterans\u2019 Services (under Section 4 of Chapter 15 of the Acts of 2021) on the financing of the reconstruction of the Massachusetts Veterans Home at Holyoke"
+      "abstract": "Report of the Executive Office of Veterans’ Services (under Section 4 of Chapter 15 of the Acts of 2021) on the financing of the reconstruction of the Massachusetts Veterans Home at Holyoke"
     }
   ],
   "other_titles": [],
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:17Z",
-    "text_extraction_latest_update": "2026-07-22T14:02:51.200095Z"
+    "logs_latest_update": "2026-07-21T23:17:17Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4291",
-  "title": "A communication from the Northwestern District Attorney\u2019s Office (see Section 99R of Chapter 272 of the General Laws) submitting its annual report relative to wiretaps for calendar year 2024",
+  "title": "A communication from the Northwestern District Attorney’s Office (see Section 99R of Chapter 272 of the General Laws) submitting its annual report relative to wiretaps for calendar year 2024",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T02:09:57.841212Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

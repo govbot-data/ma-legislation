@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4289",
-  "title": "A communication from the Office of the Child Advocate (see Section 89 of Chapter 119 of the General Laws) submitting a report from the Juvenile Justice Policy Day Board entitled: Improving Massachusetts\u2019 Juvenile Pretrial Phase: An Assessment of the Current Pretrial System and Recommendations for Improvement",
+  "title": "A communication from the Office of the Child Advocate (see Section 89 of Chapter 119 of the General Laws) submitting a report from the Juvenile Justice Policy Day Board entitled: Improving Massachusetts’ Juvenile Pretrial Phase: An Assessment of the Current Pretrial System and Recommendations for Improvement",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T11:16:11.118464Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

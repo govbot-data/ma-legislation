@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4775",
-  "title": "A communication from the Massachusetts Sheriffs\u2019 Association (see Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Bristol County Correctional Facility for the fourth quarter of calendar year 2024",
+  "title": "A communication from the Massachusetts Sheriffs’ Association (see Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Bristol County Correctional Facility for the fourth quarter of calendar year 2024",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-24T12:44:00.685250Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

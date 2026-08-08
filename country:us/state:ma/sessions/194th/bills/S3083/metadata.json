@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, May 7, 2026 -- (Filed by Mr. Tarr et al) Order relative to requesting the opinions of the Honorable Justices of the Supreme Judicial Court on important questions of law relative to \u201cAn Act promoting rule of law, oversight, trust and equal constitutional treatment,\u201d as pending before the Massachusetts State Senate."
+      "abstract": "Senate, May 7, 2026 -- (Filed by Mr. Tarr et al) Order relative to requesting the opinions of the Honorable Justices of the Supreme Judicial Court on important questions of law relative to “An Act promoting rule of law, oversight, trust and equal constitutional treatment,” as pending before the Massachusetts State Senate."
     }
   ],
   "other_titles": [],
@@ -116,7 +116,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
-    "text_extraction_latest_update": "2026-07-24T18:40:24.553974Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z"
   }
 }

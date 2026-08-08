@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Rogers of Cambridge and Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 2328) of David M. Rogers, Samantha Monta\u00f1o and others relative to enabling cities and towns to stabilize rents and protect tenants.  Municipalities and Regional Government."
+      "abstract": "By Representatives Rogers of Cambridge and Montaño of Boston, a petition (accompanied by bill, House, No. 2328) of David M. Rogers, Samantha Montaño and others relative to enabling cities and towns to stabilize rents and protect tenants.  Municipalities and Regional Government."
     }
   ],
   "other_titles": [],
@@ -102,7 +102,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -230,7 +230,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -506,7 +506,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-24T11:03:55.591807Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

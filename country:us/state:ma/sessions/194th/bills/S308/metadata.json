@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S308",
-  "title": "An Act protecting the Commonwealth\u2019s gaming industry",
+  "title": "An Act protecting the Commonwealth’s gaming industry",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Ms. Rausch, a petition (accompanied by bill, Senate, No. 308) of Rebecca L. Rausch for legislation to protect the Commonwealth\u2019s gaming industry.  Economic Development and Emerging Technologies."
+      "abstract": "By Ms. Rausch, a petition (accompanied by bill, Senate, No. 308) of Rebecca L. Rausch for legislation to protect the Commonwealth’s gaming industry.  Economic Development and Emerging Technologies."
     }
   ],
   "other_titles": [],
@@ -156,7 +156,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-22T10:48:22.474140Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

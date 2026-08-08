@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD2537",
-  "title": "Martha's Vineyard Regional Transit Authority Fiscal Year 2024 Auditors\u2019 Report",
+  "title": "Martha's Vineyard Regional Transit Authority Fiscal Year 2024 Auditors’ Report",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Martha's Vineyard Regional Transit Authority (Section 222 of Chapter 6 of the General Laws) submitting its fiscal year  2024 Auditors\u2019 Report and Basic Financial Supplementary Data"
+      "abstract": "Report of the Martha's Vineyard Regional Transit Authority (Section 222 of Chapter 6 of the General Laws) submitting its fiscal year  2024 Auditors’ Report and Basic Financial Supplementary Data"
     }
   ],
   "other_titles": [],
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z",
-    "text_extraction_latest_update": "2026-07-24T11:26:45.077738Z"
+    "logs_latest_update": "2026-07-21T23:17:20Z"
   }
 }

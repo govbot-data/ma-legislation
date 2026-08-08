@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2329",
-  "title": "Resolve establishing a commission on artistic representation in the People\u2019s House",
+  "title": "Resolve establishing a commission on artistic representation in the People’s House",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Cyr, a petition (accompanied by resolve, Senate, No. 2329) of Julian Cyr that provisions be made for an investigation and study by a special commission (including members of the General Court) on artistic representation in the People\u2019s House.  Tourism, Arts and Cultural Development."
+      "abstract": "By Mr. Cyr, a petition (accompanied by resolve, Senate, No. 2329) of Julian Cyr that provisions be made for an investigation and study by a special commission (including members of the General Court) on artistic representation in the People’s House.  Tourism, Arts and Cultural Development."
     }
   ],
   "other_titles": [],
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T14:07:17.671926Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, December 1, 2025 -- The committee on Tourism, Arts and Cultural Development, to whom was referred the petitions (accompanied by resolve, Senate, No. 2327) of Joanne M. Comerford that provisions be made for an investigation and study by a special commission (including members of the General Court) to review and study of the state house art collection; (accompanied by resolve, Senate, No. 2329) of Julian Cyr that provisions be made for an investigation and study by a special commission (including members of the General Court) on artistic representation in the People\u2019s House; and (accompanied by resolve, Senate, No. 2336) of Jacob R. Oliveira that provisions be made for an investigation and study by a special commission (including members of the General Court) to establish a State House restoration and management commission, report the accompanying resolve (Senate, No. 2740)."
+      "abstract": "Senate, December 1, 2025 -- The committee on Tourism, Arts and Cultural Development, to whom was referred the petitions (accompanied by resolve, Senate, No. 2327) of Joanne M. Comerford that provisions be made for an investigation and study by a special commission (including members of the General Court) to review and study of the state house art collection; (accompanied by resolve, Senate, No. 2329) of Julian Cyr that provisions be made for an investigation and study by a special commission (including members of the General Court) on artistic representation in the People’s House; and (accompanied by resolve, Senate, No. 2336) of Jacob R. Oliveira that provisions be made for an investigation and study by a special commission (including members of the General Court) to establish a State House restoration and management commission, report the accompanying resolve (Senate, No. 2740)."
     }
   ],
   "other_titles": [],
@@ -129,7 +129,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z",
-    "text_extraction_latest_update": "2026-07-24T17:30:16.946684Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z"
   }
 }

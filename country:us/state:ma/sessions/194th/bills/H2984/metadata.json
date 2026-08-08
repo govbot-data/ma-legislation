@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Uyterhoeven of Somerville, a petition (accompanied by bill, House, No. 2984) of Erika Uyterhoeven and Samantha Monta\u00f1o relative to the divestment of state pension funds from companies providing military equipment to the State of Israel.  Public Service."
+      "abstract": "By Representative Uyterhoeven of Somerville, a petition (accompanied by bill, House, No. 2984) of Erika Uyterhoeven and Samantha Montaño relative to the divestment of state pension funds from companies providing military equipment to the State of Israel.  Public Service."
     }
   ],
   "other_titles": [],
@@ -84,7 +84,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -144,7 +144,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-08-06T01:14:14.630346Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

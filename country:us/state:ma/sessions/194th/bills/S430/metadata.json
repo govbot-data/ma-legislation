@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Oliveira, a petition (accompanied by bill, Senate, No. 430) of Jacob R. Oliveira, Joanne M. Comerford, Vanna Howard, Michael D. Brady and other members of the General Court for legislation for a special commission to review and valuate the commonwealth\u2019s current special education financing structure.  Education."
+      "abstract": "By Mr. Oliveira, a petition (accompanied by bill, Senate, No. 430) of Jacob R. Oliveira, Joanne M. Comerford, Vanna Howard, Michael D. Brady and other members of the General Court for legislation for a special commission to review and valuate the commonwealth’s current special education financing structure.  Education."
     }
   ],
   "other_titles": [],
@@ -274,7 +274,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z",
-    "text_extraction_latest_update": "2026-07-22T11:14:22.705151Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z"
   }
 }

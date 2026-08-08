@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1189",
-  "title": "An Act providing insurance coverage for Alfi\u2019s syndrome",
+  "title": "An Act providing insurance coverage for Alfi’s syndrome",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Higgins of Leominster, a petition (accompanied by bill, House, No. 1189) of Natalie M. Higgins relative to insurance coverage for Alfi\u2019s syndrome.  Financial Services."
+      "abstract": "By Representative Higgins of Leominster, a petition (accompanied by bill, House, No. 1189) of Natalie M. Higgins relative to insurance coverage for Alfi’s syndrome.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-24T17:22:45.069535Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

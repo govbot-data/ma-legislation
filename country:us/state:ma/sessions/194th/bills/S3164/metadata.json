@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, July 2, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill protecting children from addictive social media feeds\u00a0(Senate, No. 30),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3116)."
+      "abstract": "Senate, July 2, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill protecting children from addictive social media feeds (Senate, No. 30),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3116)."
     }
   ],
   "other_titles": [],
@@ -367,7 +367,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-08-06T01:22:47.362219Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

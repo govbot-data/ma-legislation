@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative G\u00f3mez of Easthampton, a petition (accompanied by bill, House, No. 3670) of Homar G\u00f3mez relative to dangerous high-speed pursuits.  Transportation."
+      "abstract": "By Representative Gómez of Easthampton, a petition (accompanied by bill, House, No. 3670) of Homar Gómez relative to dangerous high-speed pursuits.  Transportation."
     }
   ],
   "other_titles": [],
@@ -96,7 +96,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -140,7 +140,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z",
-    "text_extraction_latest_update": "2026-07-22T03:25:21.822136Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z"
   }
 }

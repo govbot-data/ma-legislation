@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Owens of Watertown and Armini of Marblehead, a petition (accompanied by bill, House, No. 3539) of Steven Owens, Samantha Monta\u00f1o and others relative to clean thermal energy.  Telecommunications, Utilities and Energy."
+      "abstract": "By Representatives Owens of Watertown and Armini of Marblehead, a petition (accompanied by bill, House, No. 3539) of Steven Owens, Samantha Montaño and others relative to clean thermal energy.  Telecommunications, Utilities and Energy."
     }
   ],
   "other_titles": [],
@@ -94,7 +94,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -306,7 +306,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T17:17:21.382394Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

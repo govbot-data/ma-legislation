@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 272) of Samantha Monta\u00f1o, Carmine Lawrence Gentile and Natalie M. Higgins relative to financial assistance for maternal health.  Children, Families and Persons with Disabilities."
+      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 272) of Samantha Montaño, Carmine Lawrence Gentile and Natalie M. Higgins relative to financial assistance for maternal health.  Children, Families and Persons with Disabilities."
     }
   ],
   "other_titles": [],
@@ -90,7 +90,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -150,7 +150,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-22T11:00:24.501671Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

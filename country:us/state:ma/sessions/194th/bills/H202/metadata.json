@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Barber of Somerville and Garballey of Arlington, a petition (accompanied by bill, House, No. 202) of Christine P. Barber, Sean Garballey and others for legislation to establish a children\u2019s vision and eye health advisory council.  Children, Families and Persons with Disabilities."
+      "abstract": "By Representatives Barber of Somerville and Garballey of Arlington, a petition (accompanied by bill, House, No. 202) of Christine P. Barber, Sean Garballey and others for legislation to establish a children’s vision and eye health advisory council.  Children, Families and Persons with Disabilities."
     }
   ],
   "other_titles": [],
@@ -208,7 +208,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-22T12:26:58.375480Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

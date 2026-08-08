@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Vaughn of Wrentham, a petition (accompanied by bill, House, No. 2187) of Marcus S. Vaughn that the Department of Unemployment Assistance online unemployment benefits portal have a status bar on every individual\u2019s profile displaying the progress of the applicant\u2019s claim.  Labor and Workforce Development."
+      "abstract": "By Representative Vaughn of Wrentham, a petition (accompanied by bill, House, No. 2187) of Marcus S. Vaughn that the Department of Unemployment Assistance online unemployment benefits portal have a status bar on every individual’s profile displaying the progress of the applicant’s claim.  Labor and Workforce Development."
     }
   ],
   "other_titles": [],
@@ -130,7 +130,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T13:17:26.670787Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

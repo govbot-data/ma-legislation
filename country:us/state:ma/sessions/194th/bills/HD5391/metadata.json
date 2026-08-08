@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5391",
-  "title": "The annual report of the Executive Office of Veterans\u2019 Services (under Section 12 of Chapter 115A of the General Laws) submitting its 2025 report on the state of the Commonwealth\u2019s two Soldiers\u2019 Homes for fiscal year 2025 [a copy of said communication was forwarded to the committee on Veterans and Federal Affairs, as required by law]",
+  "title": "The annual report of the Executive Office of Veterans’ Services (under Section 12 of Chapter 115A of the General Laws) submitting its 2025 report on the state of the Commonwealth’s two Soldiers’ Homes for fiscal year 2025 [a copy of said communication was forwarded to the committee on Veterans and Federal Affairs, as required by law]",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:18Z",
-    "text_extraction_latest_update": "2026-07-24T10:48:25.268297Z"
+    "logs_latest_update": "2026-07-21T23:17:18Z"
   }
 }

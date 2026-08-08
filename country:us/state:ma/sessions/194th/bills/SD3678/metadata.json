@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Massachusetts District Attorneys Association with assistance from the district attorneys\u2019 offices (pursuant to Section 29D of Chapter 272 of the General Laws) submitting its number of cases and arraignments on dissemination or possession of non-consensual explicit visual material by a minor"
+      "abstract": "Report of the Massachusetts District Attorneys Association with assistance from the district attorneys’ offices (pursuant to Section 29D of Chapter 272 of the General Laws) submitting its number of cases and arraignments on dissemination or possession of non-consensual explicit visual material by a minor"
     }
   ],
   "other_titles": [],
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:18Z",
-    "text_extraction_latest_update": "2026-08-06T02:11:20.831009Z"
+    "logs_latest_update": "2026-07-21T23:17:18Z"
   }
 }

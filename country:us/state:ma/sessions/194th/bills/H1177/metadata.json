@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 1177) of Carlos Gonz\u00e1lez relative to community reinvestment goals for banks.  Financial Services."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 1177) of Carlos González relative to community reinvestment goals for banks.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -126,7 +126,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -170,7 +170,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-24T18:59:06.716868Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

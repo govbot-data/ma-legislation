@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Sabadosa of Northampton, a petition (accompanied by bill, House, No. 3776) of Lindsay N. Sabadosa, Mindy Domb and Homar G\u00f3mez that public transit agencies that administers or provides for a paratransit program shall establish and implement a riders' bill of rights.  Transportation."
+      "abstract": "By Representative Sabadosa of Northampton, a petition (accompanied by bill, House, No. 3776) of Lindsay N. Sabadosa, Mindy Domb and Homar Gómez that public transit agencies that administers or provides for a paratransit program shall establish and implement a riders' bill of rights.  Transportation."
     }
   ],
   "other_titles": [],
@@ -126,7 +126,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -170,7 +170,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T01:17:23.615793Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

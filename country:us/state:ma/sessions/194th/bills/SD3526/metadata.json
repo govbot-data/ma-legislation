@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Special Commission on Cost-of-Living Adjustments for State Employees\u2019 and Teachers' Retirement System (pursuant to Section 202 of Chapter 140 of the Acts of 2024 and Section 88 of Chapter 14 of 2025) submitting its Special Commission 2025 report"
+      "abstract": "Report of the Special Commission on Cost-of-Living Adjustments for State Employees’ and Teachers' Retirement System (pursuant to Section 202 of Chapter 140 of the Acts of 2024 and Section 88 of Chapter 14 of 2025) submitting its Special Commission 2025 report"
     }
   ],
   "other_titles": [],
@@ -33,7 +33,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Special Commission on Cost-of-Living Adjustments for State Employees\u2019 and Teachers' Retirement System",
+      "name": "Special Commission on Cost-of-Living Adjustments for State Employees’ and Teachers' Retirement System",
       "classification": "primary",
       "entity_type": "organization",
       "primary": true,
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z",
-    "text_extraction_latest_update": "2026-08-06T01:43:24.687949Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z"
   }
 }

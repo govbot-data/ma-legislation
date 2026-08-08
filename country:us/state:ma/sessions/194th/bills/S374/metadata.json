@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. G\u00f3mez, a petition (accompanied by bill, Senate, No. 374) of Adam G\u00f3mez, Joanne M. Comerford, Patricia D. Jehlen, John F. Keenan and other members of the General Court for legislation to empower students and schools to thrive.  Education."
+      "abstract": "By Mr. Gómez, a petition (accompanied by bill, Senate, No. 374) of Adam Gómez, Joanne M. Comerford, Patricia D. Jehlen, John F. Keenan and other members of the General Court for legislation to empower students and schools to thrive.  Education."
     }
   ],
   "other_titles": [],
@@ -86,7 +86,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Adam G\u00f3mez",
+      "name": "Adam Gómez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -250,7 +250,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T17:18:34Z",
-    "text_extraction_latest_update": "2026-07-22T10:55:29.650802Z"
+    "logs_latest_update": "2026-08-07T17:18:34Z"
   }
 }

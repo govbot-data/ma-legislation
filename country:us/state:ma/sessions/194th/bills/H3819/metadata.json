@@ -100,7 +100,7 @@
       "organization_id": null
     },
     {
-      "name": "Jason Main, President - Massachusetts Veterans\u2019 Service Officers Association",
+      "name": "Jason Main, President - Massachusetts Veterans’ Service Officers Association",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -184,7 +184,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-24T17:07:52.032870Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

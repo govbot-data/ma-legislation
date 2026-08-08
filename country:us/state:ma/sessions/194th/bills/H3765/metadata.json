@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Ramos of Springfield and Fluker-Reid of Boston, a petition (accompanied by bill, House, No. 3765) of Orlando Ramos and Samantha Monta\u00f1o relative to obstructed views while driving.  Transportation."
+      "abstract": "By Representatives Ramos of Springfield and Fluker-Reid of Boston, a petition (accompanied by bill, House, No. 3765) of Orlando Ramos and Samantha Montaño relative to obstructed views while driving.  Transportation."
     }
   ],
   "other_titles": [],
@@ -130,7 +130,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -182,7 +182,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-08-06T01:48:40.508785Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

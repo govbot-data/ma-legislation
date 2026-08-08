@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, December 8, 2025 -- The committee on Emergency Preparedness and Management, to whom was referred the petitions (accompanied by bill, Senate, No. 539) of Peter J. Durant, Daniel Seitz,  and Alyson M. Sullivan-Almeida relative to requiring proof of vaccination against COVID-19 as a condition of entry; and (accompanied by bill, Senate, No. 542) of Bruce E. Tarr for legislation to ensure the health and safety of the commonwealth\u2019s students and educators, report the accompanying Order  (Senate, No. 2815)."
+      "abstract": "Senate, December 8, 2025 -- The committee on Emergency Preparedness and Management, to whom was referred the petitions (accompanied by bill, Senate, No. 539) of Peter J. Durant, Daniel Seitz,  and Alyson M. Sullivan-Almeida relative to requiring proof of vaccination against COVID-19 as a condition of entry; and (accompanied by bill, Senate, No. 542) of Bruce E. Tarr for legislation to ensure the health and safety of the commonwealth’s students and educators, report the accompanying Order  (Senate, No. 2815)."
     }
   ],
   "other_titles": [],
@@ -123,7 +123,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z",
-    "text_extraction_latest_update": "2026-07-22T12:37:32.566702Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z"
   }
 }

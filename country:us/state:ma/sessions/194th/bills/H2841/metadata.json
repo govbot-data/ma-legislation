@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Garry of Dracut, a petition (accompanied by bill, House, No. 2841) of Colleen M. Garry and others relative to certain POST-certified police officers under the \u201cheart law\u201d, so-called.  Public Service."
+      "abstract": "By Representative Garry of Dracut, a petition (accompanied by bill, House, No. 2841) of Colleen M. Garry and others relative to certain POST-certified police officers under the “heart law”, so-called.  Public Service."
     }
   ],
   "other_titles": [],
@@ -132,7 +132,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -156,7 +156,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -256,7 +256,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z",
-    "text_extraction_latest_update": "2026-08-06T02:52:18.123633Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z"
   }
 }

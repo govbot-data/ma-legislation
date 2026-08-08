@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Smola of Warren, a petition (accompanied by bill, House, No. 2969) of Todd M. Smola that police officers of the Office of Environmental Law Enforcement be included under the \u201cheart law\u201d, so-called.  Public Service."
+      "abstract": "By Representative Smola of Warren, a petition (accompanied by bill, House, No. 2969) of Todd M. Smola that police officers of the Office of Environmental Law Enforcement be included under the “heart law”, so-called.  Public Service."
     }
   ],
   "other_titles": [],
@@ -134,7 +134,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z",
-    "text_extraction_latest_update": "2026-07-22T13:40:25.454475Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z"
   }
 }

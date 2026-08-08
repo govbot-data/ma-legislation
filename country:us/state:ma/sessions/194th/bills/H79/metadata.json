@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 79) of Carlos Gonz\u00e1lez relative to access to the affordable connectivity program.  Advanced Information Technology, the Internet and Cybersecurity."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 79) of Carlos González relative to access to the affordable connectivity program.  Advanced Information Technology, the Internet and Cybersecurity."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z",
-    "text_extraction_latest_update": "2026-07-24T17:17:55.041757Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z"
   }
 }

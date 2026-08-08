@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1633",
-  "title": "An Act updating and clarifying the statute relating to \u201cupskirting\u201d",
+  "title": "An Act updating and clarifying the statute relating to “upskirting”",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -118,7 +118,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -194,7 +194,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-08-06T02:53:07.296739Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

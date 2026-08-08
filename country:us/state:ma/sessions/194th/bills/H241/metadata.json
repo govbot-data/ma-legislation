@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Galvin of Canton, a petition (accompanied by bill, House, No. 241) of William C. Galvin relative to education or training activities for purposes of meeting the Department of Transitional Assistance work requirement for applicants seeking certain master\u2019s degrees.  Children, Families and Persons with Disabilities."
+      "abstract": "By Representative Galvin of Canton, a petition (accompanied by bill, House, No. 241) of William C. Galvin relative to education or training activities for purposes of meeting the Department of Transitional Assistance work requirement for applicants seeking certain master’s degrees.  Children, Families and Persons with Disabilities."
     }
   ],
   "other_titles": [],
@@ -142,7 +142,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z",
-    "text_extraction_latest_update": "2026-07-24T12:17:20.245102Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z"
   }
 }

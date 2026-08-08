@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Reid of Lynn, a petition (accompanied by bill, House, No. 2944) of Sean Reid that the Massachusetts Teachers\u2019 Retirement Board be authorized to credit Cheryl DiLisio, an employee of Nahant public schools, with certain creditable service.  Public Service."
+      "abstract": "By Representative Reid of Lynn, a petition (accompanied by bill, House, No. 2944) of Sean Reid that the Massachusetts Teachers’ Retirement Board be authorized to credit Cheryl DiLisio, an employee of Nahant public schools, with certain creditable service.  Public Service."
     }
   ],
   "other_titles": [],
@@ -134,7 +134,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-22T11:53:31.725458Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

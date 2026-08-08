@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Gomez, a petition (accompanied by bill, Senate, No. 1545) of Adam Gomez and Homar G\u00f3mez for legislation relative to APOL1 mediated kidney disease.  Public Health."
+      "abstract": "By Mr. Gomez, a petition (accompanied by bill, Senate, No. 1545) of Adam Gomez and Homar Gómez for legislation relative to APOL1 mediated kidney disease.  Public Health."
     }
   ],
   "other_titles": [],
@@ -90,7 +90,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Adam G\u00f3mez",
+      "name": "Adam Gómez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -98,7 +98,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -142,7 +142,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z",
-    "text_extraction_latest_update": "2026-07-24T17:49:29.311246Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z"
   }
 }

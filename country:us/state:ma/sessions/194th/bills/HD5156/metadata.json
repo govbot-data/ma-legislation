@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5156",
-  "title": "A communication from the Berkshire District Attorney\u2019s Office (see Section 47(d) of Chapter 94C of the General Laws) submitting a report on its fiscal year 2025 law enforcement trust funds for drug rehabilitation, drug education and neighborhood crime watch programs",
+  "title": "A communication from the Berkshire District Attorney’s Office (see Section 47(d) of Chapter 94C of the General Laws) submitting a report on its fiscal year 2025 law enforcement trust funds for drug rehabilitation, drug education and neighborhood crime watch programs",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z",
-    "text_extraction_latest_update": "2026-07-24T17:12:11.038475Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z"
   }
 }

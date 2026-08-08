@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1544",
-  "title": "An Act to guarantee a tenant\u2019s first right of refusal",
+  "title": "An Act to guarantee a tenant’s first right of refusal",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Livingstone of Boston and Consalvo of Boston, a petition (accompanied by bill, House, No. 1544) of Jay D. Livingstone, Rob Consalvo and others relative to tenant\u2019s first right of refusal.  Housing."
+      "abstract": "By Representatives Livingstone of Boston and Consalvo of Boston, a petition (accompanied by bill, House, No. 1544) of Jay D. Livingstone, Rob Consalvo and others relative to tenant’s first right of refusal.  Housing."
     }
   ],
   "other_titles": [],
@@ -156,7 +156,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -236,7 +236,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -416,7 +416,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-22T00:57:17.603019Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

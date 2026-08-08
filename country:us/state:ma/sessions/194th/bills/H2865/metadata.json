@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2865",
-  "title": "An Act relative to teacher\u2019s retirement buyback for former parochial school teachers",
+  "title": "An Act relative to teacher’s retirement buyback for former parochial school teachers",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Higgins of Leominster and Puppolo of Springfield, a petition (accompanied by bill, House, No. 2865) of Natalie M. Higgins, Angelo J. Puppolo, Jr., and others relative to teacher\u2019s retirement buyback for former parochial school teachers.  Public Service."
+      "abstract": "By Representatives Higgins of Leominster and Puppolo of Springfield, a petition (accompanied by bill, House, No. 2865) of Natalie M. Higgins, Angelo J. Puppolo, Jr., and others relative to teacher’s retirement buyback for former parochial school teachers.  Public Service."
     }
   ],
   "other_titles": [],
@@ -316,7 +316,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -528,7 +528,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T13:38:07.481212Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

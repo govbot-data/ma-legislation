@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H8",
-  "title": "An Act creating an electronic backpack for foster children\u2019s educational records",
+  "title": "An Act creating an electronic backpack for foster children’s educational records",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z",
-    "text_extraction_latest_update": "2026-07-22T14:16:20.958027Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z"
   }
 }

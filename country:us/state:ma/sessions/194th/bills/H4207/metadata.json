@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Puppolo of Springfield, a petition (subject to Joint Rule 12) of Angelo J. Puppolo, Jr., and Samantha Monta\u00f1o relative to school library standards.  Education."
+      "abstract": "By Representative Puppolo of Springfield, a petition (subject to Joint Rule 12) of Angelo J. Puppolo, Jr., and Samantha Montaño relative to school library standards.  Education."
     }
   ],
   "other_titles": [],
@@ -117,7 +117,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -265,7 +265,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-08-06T02:05:31.940083Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

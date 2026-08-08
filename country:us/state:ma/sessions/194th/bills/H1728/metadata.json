@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 1728) of Carlos Gonz\u00e1lez relative to penalties for crimes against seniors.  The Judiciary."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 1728) of Carlos González relative to penalties for crimes against seniors.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -96,7 +96,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -140,7 +140,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
-    "text_extraction_latest_update": "2026-07-24T18:30:24.838624Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z"
   }
 }

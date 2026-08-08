@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3384",
-  "title": "Communication from the Disabled Persons Protection Commission (pursuant to Section 74 of Chapter 3 of the General Laws) relative to the appointment of the Director of Learning and Development, Victoria R. Gill as the DPPC Commissioner\u2019s designee replacing Andrew Levrault, Deputy General Counsel on the Commission on the Status of Persons with Disabilities",
+  "title": "Communication from the Disabled Persons Protection Commission (pursuant to Section 74 of Chapter 3 of the General Laws) relative to the appointment of the Director of Learning and Development, Victoria R. Gill as the DPPC Commissioner’s designee replacing Andrew Levrault, Deputy General Counsel on the Commission on the Status of Persons with Disabilities",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Communication of the Disabled Persons Protection Commission (pursuant to Section 74 of Chapter 3 of the General Laws) as of November 14, 2025, the DPPC\u2019s designee will be Victoria R. Gill, Director of Learning and Development"
+      "abstract": "Communication of the Disabled Persons Protection Commission (pursuant to Section 74 of Chapter 3 of the General Laws) as of November 14, 2025, the DPPC’s designee will be Victoria R. Gill, Director of Learning and Development"
     }
   ],
   "other_titles": [],
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-22T03:04:20.661244Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

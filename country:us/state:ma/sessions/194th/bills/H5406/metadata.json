@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5406",
-  "title": "REPORT of the SPECIAL JOINT COMMITTEE on INITIATIVE PETITIONS on the INITIATIVE PETITION of DAVID JOHN O\u2019NEILL\r\nAND OTHERS FOR THE PASSAGE OF AN ACT TO PROTECT WATER AND NATURE (see House, No. 5005).",
+  "title": "REPORT of the SPECIAL JOINT COMMITTEE on INITIATIVE PETITIONS on the INITIATIVE PETITION of DAVID JOHN O’NEILL\r\nAND OTHERS FOR THE PASSAGE OF AN ACT TO PROTECT WATER AND NATURE (see House, No. 5005).",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:19Z",
-    "text_extraction_latest_update": "2026-07-22T11:13:01.945596Z"
+    "logs_latest_update": "2026-07-21T23:17:19Z"
   }
 }

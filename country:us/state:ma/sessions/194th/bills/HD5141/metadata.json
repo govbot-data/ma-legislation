@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5141",
-  "title": "A communication from the Department of Elementary and Secondary Education (see item 7061-0028 of Section 2 of Chapter 126 of the Acts of 2022) submitting a report entitled: \u201cSocial Emotional Learning Grants: Fiscal Year 2023 report on Universal Mental Health Screening Pilot\u201d",
+  "title": "A communication from the Department of Elementary and Secondary Education (see item 7061-0028 of Section 2 of Chapter 126 of the Acts of 2022) submitting a report entitled: “Social Emotional Learning Grants: Fiscal Year 2023 report on Universal Mental Health Screening Pilot”",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -54,7 +54,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z",
-    "text_extraction_latest_update": "2026-08-06T02:52:41.977550Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z"
   }
 }

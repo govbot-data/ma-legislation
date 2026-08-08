@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2958",
-  "title": "An Act authorizing Thomas Struthers to purchase creditable service from the Massachusetts teachers\u2019 retirement board",
+  "title": "An Act authorizing Thomas Struthers to purchase creditable service from the Massachusetts teachers’ retirement board",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Scarsdale of Pepperell, a petition (accompanied by bill, House, No. 2958) of Margaret R. Scarsdale relative to authorizing Thomas Struthers to purchase creditable service from the Massachusetts Teachers\u2019 Retirement Board.  Public Service."
+      "abstract": "By Representative Scarsdale of Pepperell, a petition (accompanied by bill, House, No. 2958) of Margaret R. Scarsdale relative to authorizing Thomas Struthers to purchase creditable service from the Massachusetts Teachers’ Retirement Board.  Public Service."
     }
   ],
   "other_titles": [],
@@ -134,7 +134,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-25T03:29:08.890090Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

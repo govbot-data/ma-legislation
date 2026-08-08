@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD6099",
-  "title": "A communication from the Office of the Inspector General (see Section 12 of Chapter 12A of the General Laws and Section 231 of Chapter 140 of the Acts of 2024) submitting a report entitled: The Steamship Authority\u2019s Website Development Project",
+  "title": "A communication from the Office of the Inspector General (see Section 12 of Chapter 12A of the General Laws and Section 231 of Chapter 140 of the Acts of 2024) submitting a report entitled: The Steamship Authority’s Website Development Project",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:16Z",
-    "text_extraction_latest_update": "2026-07-22T02:46:10.531443Z"
+    "logs_latest_update": "2026-07-21T23:17:16Z"
   }
 }

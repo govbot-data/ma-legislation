@@ -170,7 +170,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -178,7 +178,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -294,7 +294,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
-    "text_extraction_latest_update": "2026-07-22T11:57:59.023985Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 485) of Carlos Gonz\u00e1lez that certain state grants target minority communities and businesses.  Economic Development and Emerging Technologies."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 485) of Carlos González that certain state grants target minority communities and businesses.  Economic Development and Emerging Technologies."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T12:44:22.138523Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

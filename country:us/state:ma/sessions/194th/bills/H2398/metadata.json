@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2398",
-  "title": "An Act to strengthen our public health infrastructure to address Alzheimer\u2019s and all dementia",
+  "title": "An Act to strengthen our public health infrastructure to address Alzheimer’s and all dementia",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Decker of Cambridge, a petition (accompanied by bill, House, No. 2398) of Marjorie C. Decker for legislation to strengthen the public health infrastructure to address Alzheimer\u2019s Disease and dementia.  Public Health."
+      "abstract": "By Representative Decker of Cambridge, a petition (accompanied by bill, House, No. 2398) of Marjorie C. Decker for legislation to strengthen the public health infrastructure to address Alzheimer’s Disease and dementia.  Public Health."
     }
   ],
   "other_titles": [],
@@ -165,7 +165,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-08-06T02:09:50.149310Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

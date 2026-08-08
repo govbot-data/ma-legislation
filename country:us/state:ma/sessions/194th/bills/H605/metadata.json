@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Howard of Lowell and Monta\u00f1o of Boston, a petition (accompanied by resolve, House, No. 605) of Vanna Howard and Samantha Monta\u00f1o for an investigation by a special commission (including members of the General Court) to examine anti-slavery education in schools.  Education."
+      "abstract": "By Representatives Howard of Lowell and Montaño of Boston, a petition (accompanied by resolve, House, No. 605) of Vanna Howard and Samantha Montaño for an investigation by a special commission (including members of the General Court) to examine anti-slavery education in schools.  Education."
     }
   ],
   "other_titles": [],
@@ -116,7 +116,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -160,7 +160,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
-    "text_extraction_latest_update": "2026-07-24T10:26:41.691282Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z"
   }
 }

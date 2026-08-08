@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1353",
-  "title": "An Act relative to workers\u2019 compensation funeral benefits",
+  "title": "An Act relative to workers’ compensation funeral benefits",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Ms. Lovely, a petition (accompanied by bill, Senate, No. 1353) of Joan B. Lovely for legislation relative to workers\u2019 compensation funeral benefits.  Labor and Workforce Development."
+      "abstract": "By Ms. Lovely, a petition (accompanied by bill, Senate, No. 1353) of Joan B. Lovely for legislation relative to workers’ compensation funeral benefits.  Labor and Workforce Development."
     }
   ],
   "other_titles": [],
@@ -134,7 +134,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
-    "text_extraction_latest_update": "2026-07-25T03:29:16.168004Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z"
   }
 }

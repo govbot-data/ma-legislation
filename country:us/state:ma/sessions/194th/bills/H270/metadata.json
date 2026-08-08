@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H270",
-  "title": "An Act relative to the consideration of a child\u2019s racial, ethnic, cultural, religious, and linguistic identity",
+  "title": "An Act relative to the consideration of a child’s racial, ethnic, cultural, religious, and linguistic identity",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Meschino of Hull, a petition (accompanied by bill, House, No. 270) of Joan Meschino relative to the long-term well-being consideration of a child\u2019s racial, ethnic, cultural, religious, and linguistic identity.  Children, Families and Persons with Disabilities."
+      "abstract": "By Representative Meschino of Hull, a petition (accompanied by bill, House, No. 270) of Joan Meschino relative to the long-term well-being consideration of a child’s racial, ethnic, cultural, religious, and linguistic identity.  Children, Families and Persons with Disabilities."
     }
   ],
   "other_titles": [],
@@ -130,7 +130,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
-    "text_extraction_latest_update": "2026-07-22T11:15:06.291661Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1937",
-  "title": "An Act relative to the Commonwealth\u2019s right to appeal bail decisions",
+  "title": "An Act relative to the Commonwealth’s right to appeal bail decisions",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T03:02:39.346587Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

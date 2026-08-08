@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1615",
-  "title": "An Act preventing an individual\u2019s image and voice from exploitation",
+  "title": "An Act preventing an individual’s image and voice from exploitation",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Chan of Quincy, a petition (accompanied by bill, House, No. 1615) of Tackey Chan and others relative to preventing an individual\u2019s image and voice from exploitation.  The Judiciary."
+      "abstract": "By Representative Chan of Quincy, a petition (accompanied by bill, House, No. 1615) of Tackey Chan and others relative to preventing an individual’s image and voice from exploitation.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -258,7 +258,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -310,7 +310,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-24T11:02:09.483379Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

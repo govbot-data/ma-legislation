@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5078",
-  "title": "A report of the Executive Office of Energy and Environmental Affairs (under Section 125 of Chapter 239 of the Acts of 2024) entitled: \u201cFlood Risk Mapping Resources Assessment and Recommendations\u201d.",
+  "title": "A report of the Executive Office of Energy and Environmental Affairs (under Section 125 of Chapter 239 of the Acts of 2024) entitled: “Flood Risk Mapping Resources Assessment and Recommendations”.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z",
-    "text_extraction_latest_update": "2026-07-22T05:46:02.107056Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z"
   }
 }

@@ -264,7 +264,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -396,7 +396,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z",
-    "text_extraction_latest_update": "2026-07-25T03:09:33.947507Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5284",
-  "title": "A communication from the Pioneer Valley Transit Authority (see Sections 8(g) and 12 of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors\u2019 reports for fiscal year ending June 30, 2025",
+  "title": "A communication from the Pioneer Valley Transit Authority (see Sections 8(g) and 12 of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year ending June 30, 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T11:22:15.966764Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

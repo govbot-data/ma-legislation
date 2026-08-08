@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H120",
-  "title": "An Act supporting the Commonwealth\u2019s food system",
+  "title": "An Act supporting the Commonwealth’s food system",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -166,7 +166,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -314,7 +314,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z",
-    "text_extraction_latest_update": "2026-07-24T17:05:04.038315Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z"
   }
 }

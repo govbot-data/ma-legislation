@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "So much of the recommendations of the Department of the State Treasurer (House, No. 35) as relates to non-Commonwealth entities within the state employees\u2019 retirement system"
+      "abstract": "So much of the recommendations of the Department of the State Treasurer (House, No. 35) as relates to non-Commonwealth entities within the state employees’ retirement system"
     }
   ],
   "other_titles": [],
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-22T11:20:49.191257Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

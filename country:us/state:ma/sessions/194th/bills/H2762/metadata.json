@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2762",
-  "title": "An Act authorizing the Massachusetts Teachers\u2019 Retirement System to grant credible service to Kellie Martin",
+  "title": "An Act authorizing the Massachusetts Teachers’ Retirement System to grant credible service to Kellie Martin",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Cabral of New Bedford and Hendricks of New Bedford, a petition (accompanied by bill, House, No. 2762) of Antonio F. D. Cabral, Christopher Hendricks and Mark C. Montigny for legislation to authorize the Massachusetts Teachers\u2019 Retirement System to grant credible service to Kellie Martin.  Public Service."
+      "abstract": "By Representatives Cabral of New Bedford and Hendricks of New Bedford, a petition (accompanied by bill, House, No. 2762) of Antonio F. D. Cabral, Christopher Hendricks and Mark C. Montigny for legislation to authorize the Massachusetts Teachers’ Retirement System to grant credible service to Kellie Martin.  Public Service."
     }
   ],
   "other_titles": [],
@@ -150,7 +150,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T12:33:25.745504Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

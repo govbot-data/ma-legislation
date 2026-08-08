@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD2612",
-  "title": "An Act updating section 12\u00bd",
+  "title": "An Act updating section 12½",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -117,7 +117,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:12Z",
-    "text_extraction_latest_update": "2026-07-24T11:42:55.425631Z"
+    "logs_latest_update": "2026-07-21T23:17:12Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2976",
-  "title": "An Act relative to creditable service for Eileen Mullen, a member of the Massachusetts Teachers\u2019 retirement system",
+  "title": "An Act relative to creditable service for Eileen Mullen, a member of the Massachusetts Teachers’ retirement system",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Sylvia of Fairhaven and Senator Montigny, a joint petition (accompanied by bill, House, No. 2976) of Mark D. Sylvia, Mark C. Montigny and Antonio F. D. Cabral that the Massachusetts Teachers\u2019 Retirement Board be directed to grant creditable service to Eileen Mullen for certain service rendered at the Greater New Bedford Regional Vocational Technical High School.  Public Service."
+      "abstract": "By Representative Sylvia of Fairhaven and Senator Montigny, a joint petition (accompanied by bill, House, No. 2976) of Mark D. Sylvia, Mark C. Montigny and Antonio F. D. Cabral that the Massachusetts Teachers’ Retirement Board be directed to grant creditable service to Eileen Mullen for certain service rendered at the Greater New Bedford Regional Vocational Technical High School.  Public Service."
     }
   ],
   "other_titles": [],
@@ -180,7 +180,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
-    "text_extraction_latest_update": "2026-07-22T02:44:23.461042Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z"
   }
 }

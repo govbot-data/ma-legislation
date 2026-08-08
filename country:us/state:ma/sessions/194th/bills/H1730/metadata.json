@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 1730) of Carlos Gonz\u00e1lez for legislation to create a foreclosure review division as a special division of the superior court department.  The Judiciary."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 1730) of Carlos González for legislation to create a foreclosure review division as a special division of the superior court department.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
-    "text_extraction_latest_update": "2026-07-22T00:53:12.445284Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z"
   }
 }

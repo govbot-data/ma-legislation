@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Domb of Amherst and Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 3317) of Mindy Domb and Samantha Monta\u00f1o relative to the promulgation of State Building Code regulations to allow for gender-neutral bathrooms.  State Administration and Regulatory Oversight."
+      "abstract": "By Representatives Domb of Amherst and Montaño of Boston, a petition (accompanied by bill, House, No. 3317) of Mindy Domb and Samantha Montaño relative to the promulgation of State Building Code regulations to allow for gender-neutral bathrooms.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -98,7 +98,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -182,7 +182,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T01:03:59.586384Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

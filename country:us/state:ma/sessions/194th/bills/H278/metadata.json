@@ -114,7 +114,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -222,7 +222,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z",
-    "text_extraction_latest_update": "2026-08-06T01:32:47.149851Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z"
   }
 }

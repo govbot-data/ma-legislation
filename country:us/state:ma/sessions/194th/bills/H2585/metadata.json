@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2585",
-  "title": "An Act relative to police chief reform and improvement \u2013 certification act",
+  "title": "An Act relative to police chief reform and improvement – certification act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-24T10:31:10.323288Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

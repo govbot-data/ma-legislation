@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2554",
-  "title": "An Act to improve care and prepare for the new era of Alzheimer\u2019s and dementia",
+  "title": "An Act to improve care and prepare for the new era of Alzheimer’s and dementia",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, July 21, 2025 -- The committee on Aging and Independence to whom was referred the petition (accompanied by bill, Senate, No. 468) of Adam Gomez, Jason M. Lewis, Paul W. Mark, John F. Keenan and other members of the General Court for legislation to improve care and prepare for the new era of Alzheimer\u2019s and dementia by developing a public awareness campaign on brain health, report the accompanying bill (Senate, No. 2554)."
+      "abstract": "Senate, July 21, 2025 -- The committee on Aging and Independence to whom was referred the petition (accompanied by bill, Senate, No. 468) of Adam Gomez, Jason M. Lewis, Paul W. Mark, John F. Keenan and other members of the General Court for legislation to improve care and prepare for the new era of Alzheimer’s and dementia by developing a public awareness campaign on brain health, report the accompanying bill (Senate, No. 2554)."
     }
   ],
   "other_titles": [],
@@ -129,7 +129,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-24T17:42:54.012278Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

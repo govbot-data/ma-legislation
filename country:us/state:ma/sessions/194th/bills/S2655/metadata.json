@@ -337,7 +337,7 @@
       }
     },
     {
-      "description": "Amendment #58 (G\u00f3mez) rejected",
+      "description": "Amendment #58 (Gómez) rejected",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -349,7 +349,7 @@
       }
     },
     {
-      "description": "Amendment #59 (G\u00f3mez) rejected",
+      "description": "Amendment #59 (Gómez) rejected",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -445,7 +445,7 @@
       }
     },
     {
-      "description": "Amendment #75 (G\u00f3mez) rejected",
+      "description": "Amendment #75 (Gómez) rejected",
       "date": "2025-10-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -851,7 +851,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-25T03:14:06.510183Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

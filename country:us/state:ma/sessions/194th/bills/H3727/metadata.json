@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3727",
-  "title": "An Act naming \u201cThe Bill Russell and Bob Cousy Highway\u201d",
+  "title": "An Act naming “The Bill Russell and Bob Cousy Highway”",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -190,7 +190,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-08-06T02:43:06.292800Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2492",
-  "title": "An Act relative to appropriate notice for changes to Veterans\u2019 district agreements",
+  "title": "An Act relative to appropriate notice for changes to Veterans’ district agreements",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Rush, a petition (accompanied by bill, Senate, No. 2492) of Michael F. Rush for legislation relative to appropriate notice for changes to Veterans\u2019 district agreements.  Veterans and Federal Affairs."
+      "abstract": "By Mr. Rush, a petition (accompanied by bill, Senate, No. 2492) of Michael F. Rush for legislation relative to appropriate notice for changes to Veterans’ district agreements.  Veterans and Federal Affairs."
     }
   ],
   "other_titles": [],
@@ -134,7 +134,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:15Z",
-    "text_extraction_latest_update": "2026-07-24T16:45:27.117122Z"
+    "logs_latest_update": "2026-07-21T23:17:15Z"
   }
 }

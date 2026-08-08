@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5491",
-  "title": "A communication from the Capital Debt Affordability Committee of the Executive Office for Administration and Finance (see Section 60B(f) of Chapter 29 of the General Laws) submitting the committee\u2019s annual report estimate of the total amount of new Commonwealth debt that may be prudently authorized for the next fiscal year",
+  "title": "A communication from the Capital Debt Affordability Committee of the Executive Office for Administration and Finance (see Section 60B(f) of Chapter 29 of the General Laws) submitting the committee’s annual report estimate of the total amount of new Commonwealth debt that may be prudently authorized for the next fiscal year",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:13Z",
-    "text_extraction_latest_update": "2026-07-24T12:23:51.316864Z"
+    "logs_latest_update": "2026-07-21T23:17:13Z"
   }
 }

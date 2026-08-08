@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3986",
-  "title": "Children\u2019s Medical Security Plan Third Quarter FY25 Report",
+  "title": "Children’s Medical Security Plan Third Quarter FY25 Report",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of MassHealth (pursuant to Section 10F of Chapter 118E of the General Laws) submitting its Children\u2019s Medical Security Plan third quarter FY25 report"
+      "abstract": "Report of MassHealth (pursuant to Section 10F of Chapter 118E of the General Laws) submitting its Children’s Medical Security Plan third quarter FY25 report"
     }
   ],
   "other_titles": [],
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:17Z",
-    "text_extraction_latest_update": "2026-07-22T13:41:49.527394Z"
+    "logs_latest_update": "2026-07-21T23:17:17Z"
   }
 }

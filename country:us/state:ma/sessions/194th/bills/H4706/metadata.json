@@ -379,7 +379,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -443,7 +443,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -705,7 +705,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T17:18:34Z",
-    "text_extraction_latest_update": "2026-08-06T02:40:46.571681Z"
+    "logs_latest_update": "2026-08-07T17:18:34Z"
   }
 }

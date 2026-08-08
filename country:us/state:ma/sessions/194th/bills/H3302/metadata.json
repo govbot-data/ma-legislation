@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3302",
-  "title": "An Act to establish a Massachusetts children\u2019s cabinet",
+  "title": "An Act to establish a Massachusetts children’s cabinet",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Cabral of New Bedford, a petition (accompanied by bill, House, No. 3302) of Antonio F. D. Cabral for legislation to establish a Massachusetts children\u2019s cabinet.  State Administration and Regulatory Oversight."
+      "abstract": "By Representative Cabral of New Bedford, a petition (accompanied by bill, House, No. 3302) of Antonio F. D. Cabral for legislation to establish a Massachusetts children’s cabinet.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -162,7 +162,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T02:41:49.655574Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

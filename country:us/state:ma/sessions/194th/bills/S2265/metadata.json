@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2265",
-  "title": "An Act relative to ride share companies\u2019 customer service",
+  "title": "An Act relative to ride share companies’ customer service",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-24T13:18:23.595282Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

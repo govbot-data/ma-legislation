@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, December 8, 2025 -- The committee on Agriculture and Fisheries, to whom was referred the petitions (accompanied by bill, Senate, No. 62) of Adam G\u00f3mez and Homar G\u00f3mez for legislation to establish community fridges to address food insecurity, report the accompanying Order (Senate, No. 2804)."
+      "abstract": "Senate, December 8, 2025 -- The committee on Agriculture and Fisheries, to whom was referred the petitions (accompanied by bill, Senate, No. 62) of Adam Gómez and Homar Gómez for legislation to establish community fridges to address food insecurity, report the accompanying Order (Senate, No. 2804)."
     }
   ],
   "other_titles": [],
@@ -123,7 +123,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z",
-    "text_extraction_latest_update": "2026-07-22T02:21:59.236472Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z"
   }
 }

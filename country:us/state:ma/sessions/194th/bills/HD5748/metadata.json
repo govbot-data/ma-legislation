@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative G\u00f3mez of Easthampton, a petition (subject to Joint Rule 12) of Homar G\u00f3mez that the Registry of Motor Vehicles be authorized to issue special motor vehicle license plates to individuals who are autistic or neurodivergent or to parents or legal guardians of children who are autistic or neurodivergent.  Transportation."
+      "abstract": "By Representative Gómez of Easthampton, a petition (subject to Joint Rule 12) of Homar Gómez that the Registry of Motor Vehicles be authorized to issue special motor vehicle license plates to individuals who are autistic or neurodivergent or to parents or legal guardians of children who are autistic or neurodivergent.  Transportation."
     }
   ],
   "other_titles": [],
@@ -46,7 +46,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -84,7 +84,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z",
-    "text_extraction_latest_update": "2026-07-22T13:25:30.620314Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z"
   }
 }

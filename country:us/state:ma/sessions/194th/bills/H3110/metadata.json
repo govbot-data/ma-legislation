@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 3110) of Carlos Gonz\u00e1lez and others relative to offshore taxes.  Revenue."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 3110) of Carlos González and others relative to offshore taxes.  Revenue."
     }
   ],
   "other_titles": [],
@@ -116,7 +116,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -212,7 +212,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -612,7 +612,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -904,7 +904,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z",
-    "text_extraction_latest_update": "2026-08-06T01:35:36.143821Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z"
   }
 }

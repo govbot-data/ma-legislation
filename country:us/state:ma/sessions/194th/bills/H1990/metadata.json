@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Sena of Acton and Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 1990) of Danillo A. Sena and Carlos Gonz\u00e1lez relative to civil asset forfeiture transparency and data reporting.  The Judiciary."
+      "abstract": "By Representatives Sena of Acton and González of Springfield, a petition (accompanied by bill, House, No. 1990) of Danillo A. Sena and Carlos González relative to civil asset forfeiture transparency and data reporting.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -94,7 +94,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -138,7 +138,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-22T06:13:55.467554Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

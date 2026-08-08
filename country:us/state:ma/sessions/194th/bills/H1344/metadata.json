@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1344",
-  "title": "An Act relative to homeowner\u2019s insurance",
+  "title": "An Act relative to homeowner’s insurance",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Walsh of Peabody, a petition (accompanied by bill, House, No. 1344) of Thomas P. Walsh, James K. Hawkins and Mary S. Keefe relative to the notice of non-renewal of a homeowner\u2019s insurance policy.  Financial Services."
+      "abstract": "By Representative Walsh of Peabody, a petition (accompanied by bill, House, No. 1344) of Thomas P. Walsh, James K. Hawkins and Mary S. Keefe relative to the notice of non-renewal of a homeowner’s insurance policy.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -136,7 +136,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-22T11:30:27.071436Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

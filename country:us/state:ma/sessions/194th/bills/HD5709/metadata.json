@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5709",
-  "title": "A communication from the Plymouth County Sheriff\u2019s Office (see Section 84 of Chapter 69 of the Acts of 2018) submitting its aggregate data report for the Plymouth County Correctional Facility for the fourth quarter of fiscal year 2025",
+  "title": "A communication from the Plymouth County Sheriff’s Office (see Section 84 of Chapter 69 of the Acts of 2018) submitting its aggregate data report for the Plymouth County Correctional Facility for the fourth quarter of fiscal year 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -54,7 +54,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z",
-    "text_extraction_latest_update": "2026-08-06T01:24:09.957630Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z"
   }
 }

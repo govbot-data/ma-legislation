@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5297",
-  "title": "An Act relative to retirement benefits for Suzanne Garcia a member of the state employee\u2019s retirement system and the Framingham retirement system",
+  "title": "An Act relative to retirement benefits for Suzanne Garcia a member of the state employee’s retirement system and the Framingham retirement system",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -163,7 +163,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:17Z",
-    "text_extraction_latest_update": "2026-08-06T01:51:04.081055Z"
+    "logs_latest_update": "2026-07-21T23:17:17Z"
   }
 }

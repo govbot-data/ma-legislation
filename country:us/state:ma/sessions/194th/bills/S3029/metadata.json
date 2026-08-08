@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, March 23, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill fostering agricultural resilience in Massachusetts\u00a0(Senate, No. 2801),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3029)."
+      "abstract": "Senate, March 23, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill fostering agricultural resilience in Massachusetts (Senate, No. 2801),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3029)."
     }
   ],
   "other_titles": [],
@@ -463,7 +463,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
-    "text_extraction_latest_update": "2026-07-24T12:53:15.693287Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z"
   }
 }

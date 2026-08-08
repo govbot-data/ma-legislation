@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Consalvo of Boston, a petition (subject to Joint Rule 12) of Rob Consalvo that the Department of Conservation and Recreation be authorized to designate the tennis courts located in Weider Park in the Roslindale section of the city of Boston as the Kim O\u2019Connell tennis courts.  Environment and Natural Resources."
+      "abstract": "By Representative Consalvo of Boston, a petition (subject to Joint Rule 12) of Rob Consalvo that the Department of Conservation and Recreation be authorized to designate the tennis courts located in Weider Park in the Roslindale section of the city of Boston as the Kim O’Connell tennis courts.  Environment and Natural Resources."
     }
   ],
   "other_titles": [],
@@ -366,7 +366,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-24T18:18:27.786186Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Sabadosa of Northampton, a petition (accompanied by bill, House, No. 1041) of Lindsay N. Sabadosa, Erika Uyterhoeven and Samantha Monta\u00f1o relative to the use and protection of pollinators by further regulating the spraying, release, deposit or application of a neonicotinoid on certain agricultural land.  Environment and Natural Resources."
+      "abstract": "By Representative Sabadosa of Northampton, a petition (accompanied by bill, House, No. 1041) of Lindsay N. Sabadosa, Erika Uyterhoeven and Samantha Montaño relative to the use and protection of pollinators by further regulating the spraying, release, deposit or application of a neonicotinoid on certain agricultural land.  Environment and Natural Resources."
     }
   ],
   "other_titles": [],
@@ -116,7 +116,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -272,7 +272,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T14:16:38.531932Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

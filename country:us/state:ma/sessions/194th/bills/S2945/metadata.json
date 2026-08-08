@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, February 5, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill modernizing protections for consumers in automobile transactions\u00a0(Senate, No. 228),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 2945)."
+      "abstract": "Senate, February 5, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill modernizing protections for consumers in automobile transactions (Senate, No. 228),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 2945)."
     }
   ],
   "other_titles": [],
@@ -196,7 +196,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z",
-    "text_extraction_latest_update": "2026-07-24T16:58:12.795247Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z"
   }
 }

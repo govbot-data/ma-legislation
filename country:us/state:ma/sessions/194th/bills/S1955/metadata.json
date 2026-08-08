@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1955",
-  "title": "An Act establishing the Martha\u2019s Vineyard housing bank",
+  "title": "An Act establishing the Martha’s Vineyard housing bank",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Cyr, a petition (accompanied by bill, Senate, No. 1955) of Julian Cyr for legislation to establish the Martha\u2019s Vineyard housing bank.  Revenue."
+      "abstract": "By Mr. Cyr, a petition (accompanied by bill, Senate, No. 1955) of Julian Cyr for legislation to establish the Martha’s Vineyard housing bank.  Revenue."
     }
   ],
   "other_titles": [],
@@ -134,7 +134,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:13Z",
-    "text_extraction_latest_update": "2026-07-24T18:47:04.825992Z"
+    "logs_latest_update": "2026-07-21T23:17:13Z"
   }
 }

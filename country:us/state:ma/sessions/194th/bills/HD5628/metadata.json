@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5628",
-  "title": "A communication from the Cape and Islands District Attorney\u2019s Office (see Section 6 of Chapter 258B of the General Laws) submitting a report relative to the Victim Rights Program Plan",
+  "title": "A communication from the Cape and Islands District Attorney’s Office (see Section 6 of Chapter 258B of the General Laws) submitting a report relative to the Victim Rights Program Plan",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -54,7 +54,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z",
-    "text_extraction_latest_update": "2026-08-06T01:16:24.055712Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z"
   }
 }

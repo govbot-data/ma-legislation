@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4627",
-  "title": "A report of the Department of Transitional Assistance (under Sections 2(B) and 5 of Chapter 18 and Section 3C(d) of Chapter 118 of the General Laws) submitting a report entitled: \u201cTransitional Aid to Families with Dependent Children Consolidated Report\u201d for calendar year 2024 [copies of said report were forwarded to the committee on Ways and Means, and the committee on Children, Families and Persons with Disabilities, as required by said law]",
+  "title": "A report of the Department of Transitional Assistance (under Sections 2(B) and 5 of Chapter 18 and Section 3C(d) of Chapter 118 of the General Laws) submitting a report entitled: “Transitional Aid to Families with Dependent Children Consolidated Report” for calendar year 2024 [copies of said report were forwarded to the committee on Ways and Means, and the committee on Children, Families and Persons with Disabilities, as required by said law]",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T10:44:21.195607Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

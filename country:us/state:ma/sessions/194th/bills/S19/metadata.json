@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, February 13, 2025 \u2013 Text of the Senate Rules adopted as the permanent rules of the Senate for 2025-2026."
+      "abstract": "Senate, February 13, 2025 – Text of the Senate Rules adopted as the permanent rules of the Senate for 2025-2026."
     }
   ],
   "other_titles": [],
@@ -81,7 +81,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z",
-    "text_extraction_latest_update": "2026-08-06T01:58:17.635144Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z"
   }
 }

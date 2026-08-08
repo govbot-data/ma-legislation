@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S3031",
-  "title": "An Act establishing a sick leave bank for Stephanie Rivera, an employee of the Worcester County Sheriff\u2019s Office",
+  "title": "An Act establishing a sick leave bank for Stephanie Rivera, an employee of the Worcester County Sheriff’s Office",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -366,7 +366,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T18:52:06.091207Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

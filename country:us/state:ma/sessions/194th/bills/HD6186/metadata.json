@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD6186",
-  "title": "A communication from the Department of Public Health (see Section 224 of Chapter 111 of the General Laws) submitting a report entitled: \u201cMassachusetts Commission on Falls Prevention Phase 5 Report: Towards a Comprehensive Plan for Addressing Older Adult Falls in Massachusetts\u201d",
+  "title": "A communication from the Department of Public Health (see Section 224 of Chapter 111 of the General Laws) submitting a report entitled: “Massachusetts Commission on Falls Prevention Phase 5 Report: Towards a Comprehensive Plan for Addressing Older Adult Falls in Massachusetts”",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z",
-    "text_extraction_latest_update": "2026-07-22T11:28:44.385997Z"
+    "logs_latest_update": "2026-07-21T23:17:14Z"
   }
 }

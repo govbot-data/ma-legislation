@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Order relative to authorizing the committee on Veterans and Federal Affairs to make an investigation and study of a certain House document relative to voluntary contribution check-off boxes on municipal tax bills for support of local veterans\u2019 agents"
+      "abstract": "Order relative to authorizing the committee on Veterans and Federal Affairs to make an investigation and study of a certain House document relative to voluntary contribution check-off boxes on municipal tax bills for support of local veterans’ agents"
     }
   ],
   "other_titles": [],
@@ -133,7 +133,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T17:15:13.681787Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

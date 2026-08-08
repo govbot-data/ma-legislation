@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1123",
-  "title": "An Act clarifying the child advocate\u2019s authority to access juvenile records",
+  "title": "An Act clarifying the child advocate’s authority to access juvenile records",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Gomez, a petition (accompanied by bill, Senate, No. 1123) of Adam Gomez for legislation to clarify the child advocate\u2019s authority to access juvenile records.  The Judiciary."
+      "abstract": "By Mr. Gomez, a petition (accompanied by bill, Senate, No. 1123) of Adam Gomez for legislation to clarify the child advocate’s authority to access juvenile records.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -86,7 +86,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Adam G\u00f3mez",
+      "name": "Adam Gómez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -138,7 +138,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-24T11:03:36.144882Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

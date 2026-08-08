@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S389",
-  "title": "An Act honoring the commonwealth\u2019s commitment to public school districts",
+  "title": "An Act honoring the commonwealth’s commitment to public school districts",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -226,7 +226,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
-    "text_extraction_latest_update": "2026-07-22T05:35:31.428164Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z"
   }
 }

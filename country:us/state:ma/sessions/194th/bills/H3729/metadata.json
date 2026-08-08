@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Linsky of Natick, a petition (accompanied by bill, House, No. 3729) of David Paul Linsky relative to increasing the fine for speeding in a \u201cbreakdown lane\u201d where such travel is permitted.  Transportation."
+      "abstract": "By Representative Linsky of Natick, a petition (accompanied by bill, House, No. 3729) of David Paul Linsky relative to increasing the fine for speeding in a “breakdown lane” where such travel is permitted.  Transportation."
     }
   ],
   "other_titles": [],
@@ -186,7 +186,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T11:00:31.095580Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

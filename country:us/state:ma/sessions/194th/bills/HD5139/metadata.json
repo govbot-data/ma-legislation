@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5139",
-  "title": "A communication from the Department of Mental Health (see Section 9 of Chapter 321 of the Acts of 2008) submitting the annual report of the Children\u2019s Behavioral Health Knowledge Center for fiscal year 2024",
+  "title": "A communication from the Department of Mental Health (see Section 9 of Chapter 321 of the Acts of 2008) submitting the annual report of the Children’s Behavioral Health Knowledge Center for fiscal year 2024",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z",
-    "text_extraction_latest_update": "2026-07-22T01:04:49.104505Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z"
   }
 }

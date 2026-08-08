@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3329",
-  "title": "An Act relative to reimbursing traveling expenses of governor\u2019s council members",
+  "title": "An Act relative to reimbursing traveling expenses of governor’s council members",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Farley-Bouvier of Pittsfield, a petition (accompanied by bill, House, No. 3329) of Tricia Farley-Bouvier and others relative to the reimbursement of traveling expenses of governor\u2019s council members.  State Administration and Regulatory Oversight."
+      "abstract": "By Representative Farley-Bouvier of Pittsfield, a petition (accompanied by bill, House, No. 3329) of Tricia Farley-Bouvier and others relative to the reimbursement of traveling expenses of governor’s council members.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -130,7 +130,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -206,7 +206,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T12:09:09.315542Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

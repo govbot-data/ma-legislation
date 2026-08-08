@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Decker of Cambridge, a petition (accompanied by bill, House, No. 1129) of Marjorie C. Decker for legislation to prevent medical bills from eroding an injury victim\u2019s compensation received through a settlement or court award.  Financial Services."
+      "abstract": "By Representative Decker of Cambridge, a petition (accompanied by bill, House, No. 1129) of Marjorie C. Decker for legislation to prevent medical bills from eroding an injury victim’s compensation received through a settlement or court award.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T01:59:22.930429Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

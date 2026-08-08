@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1316",
-  "title": "An Act creating an employer\u2019s duty of care to safeguard its employees from workplace bullying",
+  "title": "An Act creating an employer’s duty of care to safeguard its employees from workplace bullying",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -150,7 +150,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:19Z",
-    "text_extraction_latest_update": "2026-07-22T05:43:07.508353Z"
+    "logs_latest_update": "2026-07-21T23:17:19Z"
   }
 }

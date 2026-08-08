@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S66",
-  "title": "An Act relative to a municipality\u2019s right of first refusal of agricultural and recreational land",
+  "title": "An Act relative to a municipality’s right of first refusal of agricultural and recreational land",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Moore, a petition (accompanied by bill, Senate, No. 66) of Michael O. Moore for legislation relative to a municipality\u2019s right of first refusal of agricultural and recreational land.  Agriculture."
+      "abstract": "By Mr. Moore, a petition (accompanied by bill, Senate, No. 66) of Michael O. Moore for legislation relative to a municipality’s right of first refusal of agricultural and recreational land.  Agriculture."
     }
   ],
   "other_titles": [],
@@ -144,7 +144,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z",
-    "text_extraction_latest_update": "2026-07-24T11:41:24.509810Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z"
   }
 }

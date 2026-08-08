@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4967",
-  "title": "A communication from the Massachusetts Department of Children and Families (see Section 6A of Chapter 18B of the General Laws) submitting a report entitled: \u201cFoster Care Review Report FY2024\u201d",
+  "title": "A communication from the Massachusetts Department of Children and Families (see Section 6A of Chapter 18B of the General Laws) submitting a report entitled: “Foster Care Review Report FY2024”",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z",
-    "text_extraction_latest_update": "2026-07-22T00:57:29.458283Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z"
   }
 }

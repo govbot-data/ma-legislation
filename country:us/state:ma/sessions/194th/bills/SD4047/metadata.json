@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD4047",
-  "title": "An Act establishing a sick leave bank for Timothy Cluett, an employee of the Worcester county sheriff\u2019s office",
+  "title": "An Act establishing a sick leave bank for Timothy Cluett, an employee of the Worcester county sheriff’s office",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Moore and Mr. Frost of Auburn, a joint petition (accompanied by bill) (subject to Joint Rule 12) of Michael O. Moore and Paul K. Frost for legislation to establish a sick leave bank for Timothy Cluett, an employee of the Worcester county sheriff\u2019s office.  Public Service."
+      "abstract": "By Mr. Moore and Mr. Frost of Auburn, a joint petition (accompanied by bill) (subject to Joint Rule 12) of Michael O. Moore and Paul K. Frost for legislation to establish a sick leave bank for Timothy Cluett, an employee of the Worcester county sheriff’s office.  Public Service."
     }
   ],
   "other_titles": [],
@@ -92,7 +92,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z",
-    "text_extraction_latest_update": "2026-07-22T11:15:30.086940Z"
+    "logs_latest_update": "2026-07-21T23:17:20Z"
   }
 }

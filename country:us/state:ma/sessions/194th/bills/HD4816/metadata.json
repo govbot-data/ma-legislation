@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4816",
-  "title": "A communication from the Executive Office of Health and Human Services (see Section 10F of Chapter 118E of the General Laws) submitting a quarterly report for the first quarter of fiscal year 2025 legislative report for the Children\u2019s Medical Security Plan (CMPS) for the period of July 31, 2024 through September 30, 2024",
+  "title": "A communication from the Executive Office of Health and Human Services (see Section 10F of Chapter 118E of the General Laws) submitting a quarterly report for the first quarter of fiscal year 2025 legislative report for the Children’s Medical Security Plan (CMPS) for the period of July 31, 2024 through September 30, 2024",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z",
-    "text_extraction_latest_update": "2026-08-06T01:25:26.319702Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z"
   }
 }

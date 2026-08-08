@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 379) of Carlos Gonz\u00e1lez and Attorney General Andrea Joy Campbell relative to modernizing protections for consumers in automobile transactions.  Consumer Protection and Professional Licensure."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 379) of Carlos González and Attorney General Andrea Joy Campbell relative to modernizing protections for consumers in automobile transactions.  Consumer Protection and Professional Licensure."
     }
   ],
   "other_titles": [],
@@ -86,7 +86,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -138,7 +138,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T11:11:26.538935Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

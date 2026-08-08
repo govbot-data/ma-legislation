@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Madaro of Boston and Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 3384) of Adrian C. Madaro, Carlos Gonz\u00e1lez and others relative to state agency language access and inclusion.  State Administration and Regulatory Oversight."
+      "abstract": "By Representatives Madaro of Boston and González of Springfield, a petition (accompanied by bill, House, No. 3384) of Adrian C. Madaro, Carlos González and others relative to state agency language access and inclusion.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -128,7 +128,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -136,7 +136,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -304,7 +304,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -452,7 +452,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T01:10:07.137468Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

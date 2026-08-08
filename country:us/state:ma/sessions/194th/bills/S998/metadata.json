@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S998",
-  "title": "An Act to guarantee a tenant\u2019s first right of refusal",
+  "title": "An Act to guarantee a tenant’s first right of refusal",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Ms. Jehlen, a petition (accompanied by bill, Senate, No. 998) of Patricia D. Jehlen, Adam Gomez, James K. Hawkins, Mike Connolly and other members of the General Court for legislation to guarantee a tenant\u2019s first right of refusal.  Housing."
+      "abstract": "By Ms. Jehlen, a petition (accompanied by bill, Senate, No. 998) of Patricia D. Jehlen, Adam Gomez, James K. Hawkins, Mike Connolly and other members of the General Court for legislation to guarantee a tenant’s first right of refusal.  Housing."
     }
   ],
   "other_titles": [],
@@ -98,7 +98,7 @@
       "organization_id": null
     },
     {
-      "name": "Adam G\u00f3mez",
+      "name": "Adam Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -246,7 +246,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:18Z",
-    "text_extraction_latest_update": "2026-07-24T17:49:39.985311Z"
+    "logs_latest_update": "2026-07-21T23:17:18Z"
   }
 }

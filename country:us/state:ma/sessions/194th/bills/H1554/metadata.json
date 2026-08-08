@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 1554) of Samantha Monta\u00f1o that the Department of Housing and Community Development provide for programs, policies, guidelines, priorities and preferences for the housing of formerly incarcerated persons reentering communities.  Housing."
+      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 1554) of Samantha Montaño that the Department of Housing and Community Development provide for programs, policies, guidelines, priorities and preferences for the housing of formerly incarcerated persons reentering communities.  Housing."
     }
   ],
   "other_titles": [],
@@ -86,7 +86,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -146,7 +146,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T01:31:52.184279Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

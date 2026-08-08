@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4265",
-  "title": "A communication from the Executive Office of Public Safety and Security (see Section 223 of Chapter 69 of the Acts of 2018) submitting the Justice Involved Women\u2019s Panel report for fiscal year 2024",
+  "title": "A communication from the Executive Office of Public Safety and Security (see Section 223 of Chapter 69 of the Acts of 2018) submitting the Justice Involved Women’s Panel report for fiscal year 2024",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
-    "text_extraction_latest_update": "2026-07-22T12:00:01.838798Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z"
   }
 }

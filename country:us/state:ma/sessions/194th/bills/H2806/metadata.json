@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2806",
-  "title": "An Act relative to creditable service for Lynn Turner, a member of the Massachusetts Teachers\u2019 Retirement System",
+  "title": "An Act relative to creditable service for Lynn Turner, a member of the Massachusetts Teachers’ Retirement System",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Diggs of Barnstable, a petition (accompanied by bill, House, No. 2806) of Kip A. Diggs relative to providing for creditable service for retirement purposes for Lynn Turner, a member of the Massachusetts Teachers\u2019 Retirement System.  Public Service."
+      "abstract": "By Representative Diggs of Barnstable, a petition (accompanied by bill, House, No. 2806) of Kip A. Diggs relative to providing for creditable service for retirement purposes for Lynn Turner, a member of the Massachusetts Teachers’ Retirement System.  Public Service."
     }
   ],
   "other_titles": [],
@@ -134,7 +134,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-24T12:47:36.485493Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

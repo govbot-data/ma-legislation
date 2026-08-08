@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5603",
-  "title": "An Act authorizing \u201cprint-free\u201d digital legal notices for the town of Stow",
+  "title": "An Act authorizing “print-free” digital legal notices for the town of Stow",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -100,7 +100,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-27T21:24:05Z",
-    "text_extraction_latest_update": "2026-08-06T02:52:54.662332Z"
+    "logs_latest_update": "2026-07-27T21:24:05Z"
   }
 }

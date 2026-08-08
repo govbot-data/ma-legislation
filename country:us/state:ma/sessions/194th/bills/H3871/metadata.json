@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3871",
-  "title": "An Act authorizing amending, updating, and aligning the Commonwealth\u2019s definition of veteran",
+  "title": "An Act authorizing amending, updating, and aligning the Commonwealth’s definition of veteran",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -192,7 +192,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-22T02:18:07.426602Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

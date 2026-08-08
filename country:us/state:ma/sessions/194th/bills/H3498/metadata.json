@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative G\u00f3mez of Easthampton and Senator Gomez, a joint petition (accompanied by bill, House, No. 3498) of Homar G\u00f3mez, Adam Gomez and others for legislation to expand the low income home energy assistance program.  Telecommunications, Utilities and Energy."
+      "abstract": "By Representative Gómez of Easthampton and Senator Gomez, a joint petition (accompanied by bill, House, No. 3498) of Homar Gómez, Adam Gomez and others for legislation to expand the low income home energy assistance program.  Telecommunications, Utilities and Energy."
     }
   ],
   "other_titles": [],
@@ -96,7 +96,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -104,7 +104,7 @@
       "organization_id": null
     },
     {
-      "name": "Adam G\u00f3mez",
+      "name": "Adam Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -164,7 +164,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T17:28:12.648991Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

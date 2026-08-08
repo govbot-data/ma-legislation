@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2236",
-  "title": "Resolve relative to children\u2019s mental health in social media",
+  "title": "Resolve relative to children’s mental health in social media",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Tarsky of Needham, a petition (accompanied by resolve, House, No. 2236) of Joshua Tarsky for an investigation by a special commission (including members of the General Court) to promote safe social media use, identify best practices for social media platforms to safeguard children\u2019s mental health, and develop guidelines for safe social media use.  Mental Health, Substance Use and Recovery."
+      "abstract": "By Representative Tarsky of Needham, a petition (accompanied by resolve, House, No. 2236) of Joshua Tarsky for an investigation by a special commission (including members of the General Court) to promote safe social media use, identify best practices for social media platforms to safeguard children’s mental health, and develop guidelines for safe social media use.  Mental Health, Substance Use and Recovery."
     }
   ],
   "other_titles": [],
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-08-06T02:38:04.421490Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

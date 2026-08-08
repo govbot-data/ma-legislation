@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1548",
-  "title": "An Act relative to the state\u2019s requirements for calculating the municipal land area for subsidized housing inventory (SHI)",
+  "title": "An Act relative to the state’s requirements for calculating the municipal land area for subsidized housing inventory (SHI)",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -140,7 +140,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T05:16:54.399031Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2916",
-  "title": "An Act relative to survivor\u2019s benefits for the spouses of retired state troopers",
+  "title": "An Act relative to survivor’s benefits for the spouses of retired state troopers",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -130,7 +130,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z",
-    "text_extraction_latest_update": "2026-07-22T00:47:34.518986Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z"
   }
 }

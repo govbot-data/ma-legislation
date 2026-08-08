@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative G\u00f3mez of Easthampton, a petition (accompanied by bill, House, No. 835) of Homar G\u00f3mez (with the approval of the mayor and city council) that the city of Easthampton be authorized to amend the charter of said city relative to ranked choice voting.  Election Laws.  [Local Approval Received.]"
+      "abstract": "By Representative Gómez of Easthampton, a petition (accompanied by bill, House, No. 835) of Homar Gómez (with the approval of the mayor and city council) that the city of Easthampton be authorized to amend the charter of said city relative to ranked choice voting.  Election Laws.  [Local Approval Received.]"
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T11:41:20.631960Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

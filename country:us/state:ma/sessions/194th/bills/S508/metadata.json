@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S508",
-  "title": "An Act enabling children\u2019s right to vote",
+  "title": "An Act enabling children’s right to vote",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. DiDomenico (by request), a petition (accompanied by bill, Senate, No. 508) of Robin Chen,  for legislation to enable children\u2019s right to vote.  Election Laws."
+      "abstract": "By Mr. DiDomenico (by request), a petition (accompanied by bill, Senate, No. 508) of Robin Chen,  for legislation to enable children’s right to vote.  Election Laws."
     }
   ],
   "other_titles": [],
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:17Z",
-    "text_extraction_latest_update": "2026-07-22T13:03:35.937019Z"
+    "logs_latest_update": "2026-07-21T23:17:17Z"
   }
 }

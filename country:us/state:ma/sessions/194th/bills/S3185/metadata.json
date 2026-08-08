@@ -21,7 +21,7 @@
   ],
   "actions": [
     {
-      "description": "New text (G\u00f3mez) for H5391",
+      "description": "New text (Gómez) for H5391",
       "date": "2026-07-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -43,7 +43,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Adam G\u00f3mez",
+      "name": "Adam Gómez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -81,7 +81,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T16:36:38Z",
-    "text_extraction_latest_update": "2026-08-06T01:44:57.234937Z"
+    "logs_latest_update": "2026-07-26T16:36:38Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Fiola of Fall River, a petition (accompanied by bill, House, No. 2415) of Carole A. Fiola  relative to the practice of \u201cdry needling\u201d or \u201ctrigger point acupuncture\u201d by certain health care professionals.  Public Health."
+      "abstract": "By Representative Fiola of Fall River, a petition (accompanied by bill, House, No. 2415) of Carole A. Fiola  relative to the practice of “dry needling” or “trigger point acupuncture” by certain health care professionals.  Public Health."
     }
   ],
   "other_titles": [],
@@ -114,7 +114,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -166,7 +166,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
-    "text_extraction_latest_update": "2026-07-24T10:21:09.972960Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z"
   }
 }

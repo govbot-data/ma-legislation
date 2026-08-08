@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Rush, a petition (accompanied by bill, Senate, No. 658) of Michael F. Rush for legislation to create the Massachusetts Flood Management and Mitigation Authority to protect the commonwealth\u2019s natural resources.  Environment and Natural Resources."
+      "abstract": "By Mr. Rush, a petition (accompanied by bill, Senate, No. 658) of Michael F. Rush for legislation to create the Massachusetts Flood Management and Mitigation Authority to protect the commonwealth’s natural resources.  Environment and Natural Resources."
     }
   ],
   "other_titles": [],
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:18Z",
-    "text_extraction_latest_update": "2026-08-06T01:23:49.866870Z"
+    "logs_latest_update": "2026-07-21T23:17:18Z"
   }
 }

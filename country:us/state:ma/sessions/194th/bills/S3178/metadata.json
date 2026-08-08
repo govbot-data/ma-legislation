@@ -205,7 +205,7 @@
       }
     },
     {
-      "description": "Amendment #281 ( G\u00f3mez) adopted",
+      "description": "Amendment #281 ( Gómez) adopted",
       "date": "2026-07-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -493,7 +493,7 @@
       }
     },
     {
-      "description": "Amendment #265 ( G\u00f3mez) rejected",
+      "description": "Amendment #265 ( Gómez) rejected",
       "date": "2026-07-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -541,7 +541,7 @@
       }
     },
     {
-      "description": "Amendment #270 ( G\u00f3mez) adopted",
+      "description": "Amendment #270 ( Gómez) adopted",
       "date": "2026-07-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -553,7 +553,7 @@
       }
     },
     {
-      "description": "Amendment #276 ( G\u00f3mez) rejected",
+      "description": "Amendment #276 ( Gómez) rejected",
       "date": "2026-07-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -565,7 +565,7 @@
       }
     },
     {
-      "description": "Amendment #288 ( G\u00f3mez) adopted",
+      "description": "Amendment #288 ( Gómez) adopted",
       "date": "2026-07-23",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -1403,7 +1403,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T17:18:34Z",
-    "text_extraction_latest_update": "2026-08-06T01:43:00.534668Z"
+    "logs_latest_update": "2026-08-07T17:18:34Z"
   }
 }

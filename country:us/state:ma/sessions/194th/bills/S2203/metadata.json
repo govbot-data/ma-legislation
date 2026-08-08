@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2203",
-  "title": "An Act enhancing the effectiveness of nonprofits\u2019 core mission work through full cost funding",
+  "title": "An Act enhancing the effectiveness of nonprofits’ core mission work through full cost funding",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Payano, a petition (accompanied by bill, Senate, No. 2203) of Pavel M. Payano for legislation to enhance the effectiveness of nonprofits\u2019 core mission work through full cost funding.  State Administration and Regulatory Oversight."
+      "abstract": "By Mr. Payano, a petition (accompanied by bill, Senate, No. 2203) of Pavel M. Payano for legislation to enhance the effectiveness of nonprofits’ core mission work through full cost funding.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -144,7 +144,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-24T12:36:42.930746Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

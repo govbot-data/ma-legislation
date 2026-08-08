@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2925",
-  "title": "An Act relative to the human resource division\u2019s civil service unit",
+  "title": "An Act relative to the human resource division’s civil service unit",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -130,7 +130,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T02:07:07.633115Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

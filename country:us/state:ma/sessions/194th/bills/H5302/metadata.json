@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5302",
-  "title": "An Act helping employees after a relative\u2019s tragedy",
+  "title": "An Act helping employees after a relative’s tragedy",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -86,7 +86,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -254,7 +254,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -340,7 +340,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:19Z",
-    "text_extraction_latest_update": "2026-08-06T01:21:18.992290Z"
+    "logs_latest_update": "2026-07-21T23:17:19Z"
   }
 }

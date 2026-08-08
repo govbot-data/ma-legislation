@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Chan of Quincy, a petition (accompanied by bill, House, No. 2773) of Tackey Chan for legislation to define the word \u201cperson\u201d for retirement purposes.  Public Service."
+      "abstract": "By Representative Chan of Quincy, a petition (accompanied by bill, House, No. 2773) of Tackey Chan for legislation to define the word “person” for retirement purposes.  Public Service."
     }
   ],
   "other_titles": [],
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-08-06T02:11:00.115347Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

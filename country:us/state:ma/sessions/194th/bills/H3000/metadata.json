@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Xiarhos of Barnstable, a petition (accompanied by bill, House, No. 3000) of Steven George Xiarhos and Homar G\u00f3mez relative to the retirement classification of licensed drinking water operators.  Public Service."
+      "abstract": "By Representative Xiarhos of Barnstable, a petition (accompanied by bill, House, No. 3000) of Steven George Xiarhos and Homar Gómez relative to the retirement classification of licensed drinking water operators.  Public Service."
     }
   ],
   "other_titles": [],
@@ -104,7 +104,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -252,7 +252,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T18:24:23.484712Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

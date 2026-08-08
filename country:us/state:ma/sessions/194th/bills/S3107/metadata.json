@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, June 1, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill relative to advancing the profession of commercial interior design \u00a0(Senate, No. 3107),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3107)."
+      "abstract": "Senate, June 1, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill relative to advancing the profession of commercial interior design  (Senate, No. 3107),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3107)."
     }
   ],
   "other_titles": [],
@@ -163,7 +163,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:19Z",
-    "text_extraction_latest_update": "2026-07-24T12:26:44.672987Z"
+    "logs_latest_update": "2026-07-21T23:17:19Z"
   }
 }

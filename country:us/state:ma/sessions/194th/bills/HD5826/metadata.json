@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5826",
-  "title": "A communication from the State Retiree Benefits Trust (\u201cHST\u201d) Board (see Section 24(f) of Chapter 32A of the General Laws) submitting the approved budget for said board for fiscal year 2027",
+  "title": "A communication from the State Retiree Benefits Trust (“HST”) Board (see Section 24(f) of Chapter 32A of the General Laws) submitting the approved budget for said board for fiscal year 2027",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:19Z",
-    "text_extraction_latest_update": "2026-07-24T18:49:05.270551Z"
+    "logs_latest_update": "2026-07-21T23:17:19Z"
   }
 }

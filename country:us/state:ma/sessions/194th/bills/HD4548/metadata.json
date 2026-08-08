@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4548",
-  "title": "A report of the Executive Office for Administration and Finance (under Section 196 of Chapter 140 of the Acts of 2024) submitting the Higher Education Capital Working Group\u2019s final legislative report",
+  "title": "A report of the Executive Office for Administration and Finance (under Section 196 of Chapter 140 of the Acts of 2024) submitting the Higher Education Capital Working Group’s final legislative report",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
-    "text_extraction_latest_update": "2026-07-24T10:34:52.461750Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z"
   }
 }

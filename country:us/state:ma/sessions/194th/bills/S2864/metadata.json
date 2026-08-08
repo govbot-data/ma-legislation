@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "December 15, 2025 -- The committee on Education, to whom was referred the petitions (accompanied by bill, Senate, No. 383) of John F. Keenan for legislation to create a facilities loan program for private special education schools; (accompanied by bill, Senate, No. 430) of Jacob R. Oliveira, Joanne M. Comerford, Vanna Howard, Michael D. Brady and other members of the General Court for legislation for a special commission to review and valuate the commonwealth\u2019s current special education financing structure; (accompanied by resolve, Senate, No. 442) of Rebecca L. Rausch for legislation to establish a special commission on special education funding; (accompanied by bill, Senate, No. 454) of Bruce E. Tarr for legislation relative to conduct a study on the delivery of special education services; and (accompanied by bill, Senate, No. 455) of Bruce E. Tarr relative to the foundation funding of special education, report the accompanying bill (Senate, No. 2864)."
+      "abstract": "December 15, 2025 -- The committee on Education, to whom was referred the petitions (accompanied by bill, Senate, No. 383) of John F. Keenan for legislation to create a facilities loan program for private special education schools; (accompanied by bill, Senate, No. 430) of Jacob R. Oliveira, Joanne M. Comerford, Vanna Howard, Michael D. Brady and other members of the General Court for legislation for a special commission to review and valuate the commonwealth’s current special education financing structure; (accompanied by resolve, Senate, No. 442) of Rebecca L. Rausch for legislation to establish a special commission on special education funding; (accompanied by bill, Senate, No. 454) of Bruce E. Tarr for legislation relative to conduct a study on the delivery of special education services; and (accompanied by bill, Senate, No. 455) of Bruce E. Tarr relative to the foundation funding of special education, report the accompanying bill (Senate, No. 2864)."
     }
   ],
   "other_titles": [],
@@ -281,7 +281,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z",
-    "text_extraction_latest_update": "2026-07-22T10:46:00.727243Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z"
   }
 }

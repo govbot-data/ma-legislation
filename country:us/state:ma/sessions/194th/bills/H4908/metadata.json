@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H4908",
-  "title": "An Act establishing a sick leave bank for William Blalock, an employee of the Suffolk county sheriff\u2019s office",
+  "title": "An Act establishing a sick leave bank for William Blalock, an employee of the Suffolk county sheriff’s office",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Field of Taunton (by request), a petition (subject to Joint Rule 12) of Jim Durkin  for legislation to establish a sick leave bank for William Blalock, an employee of the Suffolk County Sheriff\u2019s Office.  Public Service."
+      "abstract": "By Representative Field of Taunton (by request), a petition (subject to Joint Rule 12) of Jim Durkin  for legislation to establish a sick leave bank for William Blalock, an employee of the Suffolk County Sheriff’s Office.  Public Service."
     }
   ],
   "other_titles": [],
@@ -213,7 +213,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T14:12:15.005475Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

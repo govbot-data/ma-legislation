@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, February 5, 2026 -- The committee on Education, to whom was referred the petitions (accompanied by bill, Senate, No. 359) of Paul R. Feeney for legislation to promote a healthy culture and climate within schools; (accompanied by bill, Senate, No. 368) of Adam Gomez, Michael J. Barrett, Joanne M. Comerford, Jason M. Lewis and other members of the Senate for legislation to reduce\u202fexclusionary discipline for grooming and dress code violations; (accompanied by bill, Senate, No. 376) of Patricia D. Jehlen for legislation to promote the education success of court involved children; (accompanied by bill, Senate, No. 380) of Patricia D. Jehlen and James B. Eldridge for legislation to establish statewide targets for addressing persistent disparities in achievement and suspension and expulsion in public schools; and (accompanied by bill, Senate, No. 387) of Robyn K. Kennedy for legislation relative to safer schools, report the accompanying Order  (Senate, No. 2952)."
+      "abstract": "Senate, February 5, 2026 -- The committee on Education, to whom was referred the petitions (accompanied by bill, Senate, No. 359) of Paul R. Feeney for legislation to promote a healthy culture and climate within schools; (accompanied by bill, Senate, No. 368) of Adam Gomez, Michael J. Barrett, Joanne M. Comerford, Jason M. Lewis and other members of the Senate for legislation to reduce exclusionary discipline for grooming and dress code violations; (accompanied by bill, Senate, No. 376) of Patricia D. Jehlen for legislation to promote the education success of court involved children; (accompanied by bill, Senate, No. 380) of Patricia D. Jehlen and James B. Eldridge for legislation to establish statewide targets for addressing persistent disparities in achievement and suspension and expulsion in public schools; and (accompanied by bill, Senate, No. 387) of Robyn K. Kennedy for legislation relative to safer schools, report the accompanying Order  (Senate, No. 2952)."
     }
   ],
   "other_titles": [],
@@ -172,7 +172,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z",
-    "text_extraction_latest_update": "2026-07-24T18:31:02.115709Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z"
   }
 }

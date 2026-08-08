@@ -205,7 +205,7 @@
       }
     },
     {
-      "description": "Amendment #21 (G\u00f3mez) adopted",
+      "description": "Amendment #21 (Gómez) adopted",
       "date": "2026-02-26",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -611,7 +611,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:17Z",
-    "text_extraction_latest_update": "2026-08-06T02:18:51.443613Z"
+    "logs_latest_update": "2026-07-21T23:17:17Z"
   }
 }

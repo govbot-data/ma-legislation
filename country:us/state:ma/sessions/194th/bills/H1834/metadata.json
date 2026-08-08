@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Lewis of Framingham and Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 1834) of Jack Patrick Lewis for legislation to repeal certain laws prohibiting acts performed with other persons or animals.  The Judiciary."
+      "abstract": "By Representatives Lewis of Framingham and Montaño of Boston, a petition (accompanied by bill, House, No. 1834) of Jack Patrick Lewis for legislation to repeal certain laws prohibiting acts performed with other persons or animals.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -94,7 +94,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -146,7 +146,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T11:43:59.709112Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

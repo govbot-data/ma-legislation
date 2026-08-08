@@ -169,7 +169,7 @@
       }
     },
     {
-      "description": "Amendment #42 (G\u00f3mez) adopted",
+      "description": "Amendment #42 (Gómez) adopted",
       "date": "2025-05-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -181,7 +181,7 @@
       }
     },
     {
-      "description": "Amendment #43 (G\u00f3mez) adopted",
+      "description": "Amendment #43 (Gómez) adopted",
       "date": "2025-05-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -193,7 +193,7 @@
       }
     },
     {
-      "description": "Amendment #46 (G\u00f3mez) adopted",
+      "description": "Amendment #46 (Gómez) adopted",
       "date": "2025-05-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -493,7 +493,7 @@
       }
     },
     {
-      "description": "Amendment #276 (G\u00f3mez) adopted",
+      "description": "Amendment #276 (Gómez) adopted",
       "date": "2025-05-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -697,7 +697,7 @@
       }
     },
     {
-      "description": "Amendment #526 (G\u00f3mez) adopted",
+      "description": "Amendment #526 (Gómez) adopted",
       "date": "2025-05-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -721,7 +721,7 @@
       }
     },
     {
-      "description": "Amendment #527 (G\u00f3mez) adopted",
+      "description": "Amendment #527 (Gómez) adopted",
       "date": "2025-05-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -733,7 +733,7 @@
       }
     },
     {
-      "description": "Amendment #528 (G\u00f3mez) adopted",
+      "description": "Amendment #528 (Gómez) adopted",
       "date": "2025-05-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -1189,7 +1189,7 @@
       }
     },
     {
-      "description": "Amendment #846 (G\u00f3mez) rejected",
+      "description": "Amendment #846 (Gómez) rejected",
       "date": "2025-05-21",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -1201,7 +1201,7 @@
       }
     },
     {
-      "description": "Amendment #848 (G\u00f3mez) adopted",
+      "description": "Amendment #848 (Gómez) adopted",
       "date": "2025-05-21",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -1249,7 +1249,7 @@
       }
     },
     {
-      "description": "Amendment #884 (G\u00f3mez) adopted",
+      "description": "Amendment #884 (Gómez) adopted",
       "date": "2025-05-21",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -1405,7 +1405,7 @@
       }
     },
     {
-      "description": "Amendment #428 (G\u00f3mez) adopted",
+      "description": "Amendment #428 (Gómez) adopted",
       "date": "2025-05-21",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -1705,7 +1705,7 @@
       }
     },
     {
-      "description": "Amendment #629 (G\u00f3mez) rejected",
+      "description": "Amendment #629 (Gómez) rejected",
       "date": "2025-05-22",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -2183,7 +2183,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-24T10:51:40.372047Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

@@ -171,7 +171,7 @@
       "organization_id": "~{\"name\": \"Joint Committee on Financial Services\"}"
     },
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -241,7 +241,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T17:18:34Z",
-    "text_extraction_latest_update": "2026-08-06T01:48:12.988049Z"
+    "logs_latest_update": "2026-08-07T17:18:34Z"
   }
 }

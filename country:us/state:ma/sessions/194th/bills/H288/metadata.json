@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H288",
-  "title": "An Act preventing funds deposited in children\u2019s savings accounts from counting against cash assistance benefits",
+  "title": "An Act preventing funds deposited in children’s savings accounts from counting against cash assistance benefits",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Tyler of Boston, a petition (accompanied by bill, House, No. 288) of Chynah Tyler relative to preventing funds deposited in children\u2019s savings accounts from counting against cash assistance benefits.  Children, Families and Persons with Disabilities."
+      "abstract": "By Representative Tyler of Boston, a petition (accompanied by bill, House, No. 288) of Chynah Tyler relative to preventing funds deposited in children’s savings accounts from counting against cash assistance benefits.  Children, Families and Persons with Disabilities."
     }
   ],
   "other_titles": [],
@@ -130,7 +130,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z",
-    "text_extraction_latest_update": "2026-07-22T01:46:18.408026Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1489",
-  "title": "An Act creating the tenant\u2019s escrow accounts",
+  "title": "An Act creating the tenant’s escrow accounts",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z",
-    "text_extraction_latest_update": "2026-08-06T01:27:44.956271Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z"
   }
 }

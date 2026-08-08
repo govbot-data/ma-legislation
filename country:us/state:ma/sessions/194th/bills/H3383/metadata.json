@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3383",
-  "title": "An Act designating the song \u201cRoadrunner\u201d as the official rock song of the Commonwealth",
+  "title": "An Act designating the song “Roadrunner” as the official rock song of the Commonwealth",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Linsky of Natick, a petition (accompanied by bill, House, No. 3383) of David Paul Linsky for legislation to designate the song \u201cRoadrunner\u201d as the official rock song of the Commonwealth.  State Administration and Regulatory Oversight."
+      "abstract": "By Representative Linsky of Natick, a petition (accompanied by bill, House, No. 3383) of David Paul Linsky for legislation to designate the song “Roadrunner” as the official rock song of the Commonwealth.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T10:53:53.701915Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3226",
-  "title": "Department of Environmental Protection\u2019s Safe Drinking Water Act Assessment Advisory Committee FY24 Annual Report",
+  "title": "Department of Environmental Protection’s Safe Drinking Water Act Assessment Advisory Committee FY24 Annual Report",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Executive Office of Energy and Environmental Affairs (pursuant to Section18A(f) of Chapter 21A of the General Laws) submitting its Department of Environmental Protection\u2019s Safe Drinking Water Act Assessment Advisory Committee FY24 annual report"
+      "abstract": "Report of the Executive Office of Energy and Environmental Affairs (pursuant to Section18A(f) of Chapter 21A of the General Laws) submitting its Department of Environmental Protection’s Safe Drinking Water Act Assessment Advisory Committee FY24 annual report"
     }
   ],
   "other_titles": [],
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z",
-    "text_extraction_latest_update": "2026-07-22T10:53:43.318726Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z"
   }
 }

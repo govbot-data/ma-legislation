@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S368",
-  "title": "An Act to reduce\u202fexclusionary discipline for grooming and dress code violations",
+  "title": "An Act to reduce exclusionary discipline for grooming and dress code violations",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Gomez, a petition (accompanied by bill, Senate, No. 368) of Adam Gomez, Michael J. Barrett, Joanne M. Comerford, Jason M. Lewis and other members of the Senate for legislation to reduce\u202fexclusionary discipline for grooming and dress code violations.  Education."
+      "abstract": "By Mr. Gomez, a petition (accompanied by bill, Senate, No. 368) of Adam Gomez, Michael J. Barrett, Joanne M. Comerford, Jason M. Lewis and other members of the Senate for legislation to reduce exclusionary discipline for grooming and dress code violations.  Education."
     }
   ],
   "other_titles": [],
@@ -106,7 +106,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Adam G\u00f3mez",
+      "name": "Adam Gómez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -214,7 +214,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z",
-    "text_extraction_latest_update": "2026-07-22T05:23:00.466899Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z"
   }
 }

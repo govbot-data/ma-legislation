@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Crighton, a petition (accompanied by bill, Senate, No. 1492) of Brendan P. Crighton for legislation to provide written materials on safe sleep practices at the time of infant\u2019s discharge from the hospital.  Public Health."
+      "abstract": "By Mr. Crighton, a petition (accompanied by bill, Senate, No. 1492) of Brendan P. Crighton for legislation to provide written materials on safe sleep practices at the time of infant’s discharge from the hospital.  Public Health."
     }
   ],
   "other_titles": [],
@@ -164,7 +164,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:16Z",
-    "text_extraction_latest_update": "2026-07-22T13:33:45.059797Z"
+    "logs_latest_update": "2026-07-21T23:17:16Z"
   }
 }

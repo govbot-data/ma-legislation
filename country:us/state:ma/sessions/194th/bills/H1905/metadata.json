@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1905",
-  "title": "An Act relative to civil liability for protecting one\u2019s home",
+  "title": "An Act relative to civil liability for protecting one’s home",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -150,7 +150,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T11:32:22.280195Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

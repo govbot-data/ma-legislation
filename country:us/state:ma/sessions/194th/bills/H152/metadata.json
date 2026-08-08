@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 152) of Carlos Gonz\u00e1lez for an investigation by a special commission relative to cannabis consumption.  Cannabis Policy."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 152) of Carlos González for an investigation by a special commission relative to cannabis consumption.  Cannabis Policy."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T11:56:08.631222Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

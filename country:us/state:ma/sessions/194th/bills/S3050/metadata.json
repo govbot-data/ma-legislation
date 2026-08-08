@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, April 8, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill to build resilience for Massachusetts communities\u00a0(Senate, No. 2542),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3050)."
+      "abstract": "Senate, April 8, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill to build resilience for Massachusetts communities (Senate, No. 2542),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3050)."
     }
   ],
   "other_titles": [],
@@ -433,7 +433,7 @@
       }
     },
     {
-      "description": "Amendment #249 (G\u00f3mez) adopted",
+      "description": "Amendment #249 (Gómez) adopted",
       "date": "2026-04-15",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -607,7 +607,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
-    "text_extraction_latest_update": "2026-07-22T11:54:10.855363Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z"
   }
 }

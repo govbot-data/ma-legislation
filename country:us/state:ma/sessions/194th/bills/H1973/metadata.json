@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Sabadosa of Northampton and Lewis of Framingham, a petition (accompanied by bill, House, No. 1973) of Lindsay N. Sabadosa, Jack Patrick Lewis and Samantha Monta\u00f1o relative to name changes.  The Judiciary."
+      "abstract": "By Representatives Sabadosa of Northampton and Lewis of Framingham, a petition (accompanied by bill, House, No. 1973) of Lindsay N. Sabadosa, Jack Patrick Lewis and Samantha Montaño relative to name changes.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -112,7 +112,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -252,7 +252,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T12:52:50.401190Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Lewis of Framingham, a petition (accompanied by bill, House, No. 4124) of Jack Patrick Lewis and Samantha Monta\u00f1o relative to role-playing games in correctional facilities.  Public Safety and Homeland Security."
+      "abstract": "By Representative Lewis of Framingham, a petition (accompanied by bill, House, No. 4124) of Jack Patrick Lewis and Samantha Montaño relative to role-playing games in correctional facilities.  Public Safety and Homeland Security."
     }
   ],
   "other_titles": [],
@@ -84,7 +84,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z",
-    "text_extraction_latest_update": "2026-07-22T10:54:47.003692Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z"
   }
 }

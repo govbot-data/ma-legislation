@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H4302",
-  "title": "An Act to improve care and prepare for the new era of Alzheimer\u2019s and dementia",
+  "title": "An Act to improve care and prepare for the new era of Alzheimer’s and dementia",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -201,7 +201,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T17:18:34Z",
-    "text_extraction_latest_update": "2026-08-06T01:28:12.396331Z"
+    "logs_latest_update": "2026-08-07T17:18:34Z"
   }
 }

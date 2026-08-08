@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 3108) of Carlos Gonz\u00e1lez for legislation to establish a tax incentive program for micro businesses to hire formerly incarcerated individuals and individuals receiving transitional benefits.  Revenue."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 3108) of Carlos González for legislation to establish a tax incentive program for micro businesses to hire formerly incarcerated individuals and individuals receiving transitional benefits.  Revenue."
     }
   ],
   "other_titles": [],
@@ -110,7 +110,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -162,7 +162,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z",
-    "text_extraction_latest_update": "2026-07-24T17:52:29.048656Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z"
   }
 }

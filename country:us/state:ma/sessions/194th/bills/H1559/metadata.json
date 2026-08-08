@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Rogers of Cambridge and Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 1559) of David M. Rogers, Samantha Monta\u00f1o and others relative to the rights of certain families with pets.  Housing."
+      "abstract": "By Representatives Rogers of Cambridge and Montaño of Boston, a petition (accompanied by bill, House, No. 1559) of David M. Rogers, Samantha Montaño and others relative to the rights of certain families with pets.  Housing."
     }
   ],
   "other_titles": [],
@@ -130,7 +130,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -234,7 +234,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -454,7 +454,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-24T11:58:42.884050Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

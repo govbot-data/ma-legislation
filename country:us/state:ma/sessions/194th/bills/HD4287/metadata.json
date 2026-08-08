@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4287",
-  "title": "A communication from the Workers\u2019 Compensation Advisory Council (see Section 17 of Chapter 23E of the General Laws) submitting its annual report for fiscal year 2024 [copies of said report were forwarded to the House committee on Ways and Means and the committee on Labor and Workforce Development, as required by said law]",
+  "title": "A communication from the Workers’ Compensation Advisory Council (see Section 17 of Chapter 23E of the General Laws) submitting its annual report for fiscal year 2024 [copies of said report were forwarded to the House committee on Ways and Means and the committee on Labor and Workforce Development, as required by said law]",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -28,7 +28,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Workers\u2019 Compensation Advisory Council",
+      "name": "Workers’ Compensation Advisory Council",
       "classification": "primary",
       "entity_type": "organization",
       "primary": true,
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T06:06:32.371115Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

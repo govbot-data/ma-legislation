@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3613",
-  "title": "Office of Veteran Advocate Understanding Massachusetts\u2019 Municipal Veteran Service Officer Report",
+  "title": "Office of Veteran Advocate Understanding Massachusetts’ Municipal Veteran Service Officer Report",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Office of Veteran Advocate (pursuant to Section 2 of Chapter 115B of the General Laws) submitting its Understanding Massachusetts\u2019 Municipal Veteran Service Officer report"
+      "abstract": "Report of the Office of Veteran Advocate (pursuant to Section 2 of Chapter 115B of the General Laws) submitting its Understanding Massachusetts’ Municipal Veteran Service Officer report"
     }
   ],
   "other_titles": [],
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z",
-    "text_extraction_latest_update": "2026-07-24T11:07:42.843981Z"
+    "logs_latest_update": "2026-07-21T23:17:14Z"
   }
 }

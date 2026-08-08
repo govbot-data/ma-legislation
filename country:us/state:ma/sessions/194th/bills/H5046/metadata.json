@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5046",
-  "title": "An Act to protect the lives of student athletes; Freddy\u2019s law",
+  "title": "An Act to protect the lives of student athletes; Freddy’s law",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -213,7 +213,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T13:48:26Z",
-    "text_extraction_latest_update": "2026-08-06T02:33:47.973320Z"
+    "logs_latest_update": "2026-07-26T13:48:26Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Monta\u00f1o of Boston, a petition (subject to Joint Rule 12) of Samantha Monta\u00f1o relative to long-term coverage of gender affirming care medications.  Financial Services."
+      "abstract": "By Representative Montaño of Boston, a petition (subject to Joint Rule 12) of Samantha Montaño relative to long-term coverage of gender affirming care medications.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -46,7 +46,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -84,7 +84,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:16Z",
-    "text_extraction_latest_update": "2026-07-22T11:34:04.617342Z"
+    "logs_latest_update": "2026-07-21T23:17:16Z"
   }
 }

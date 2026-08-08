@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 1179) of Carlos Gonz\u00e1lez relative to access to universal dental care.  Financial Services."
+      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 1179) of Carlos González relative to access to universal dental care.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -120,7 +120,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-22T11:45:21.119217Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

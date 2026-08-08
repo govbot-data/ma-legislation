@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Division of Capital Asset Management and Maintenance (pursuant to Section 39 of Chapter 7C of the General Laws) submitting listing of the Commonwealth\u2019s real property holdings and leased property as of February, 2026"
+      "abstract": "Report of the Division of Capital Asset Management and Maintenance (pursuant to Section 39 of Chapter 7C of the General Laws) submitting listing of the Commonwealth’s real property holdings and leased property as of February, 2026"
     }
   ],
   "other_titles": [],
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:19Z",
-    "text_extraction_latest_update": "2026-08-06T02:06:20.702539Z"
+    "logs_latest_update": "2026-07-21T23:17:19Z"
   }
 }

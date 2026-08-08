@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5168",
-  "title": "A communication from the Executive Office of Health and Human Services (see Section 30 of Chapter 285 of the Acts of 2024) submitting its \u201cReport on the Plan to End Operations at the Massachusetts Alcohol and Substance Abuse Center (MASCAC)\u201d",
+  "title": "A communication from the Executive Office of Health and Human Services (see Section 30 of Chapter 285 of the Acts of 2024) submitting its “Report on the Plan to End Operations at the Massachusetts Alcohol and Substance Abuse Center (MASCAC)”",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z",
-    "text_extraction_latest_update": "2026-08-06T01:31:53.302222Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z"
   }
 }

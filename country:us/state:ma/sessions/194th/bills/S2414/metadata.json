@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2414",
-  "title": "An Act establishing a tunnel to connect the campuses of Essex North Shore Agricultural and Technical school (\"ENSATS\u201d)",
+  "title": "An Act establishing a tunnel to connect the campuses of Essex North Shore Agricultural and Technical school (\"ENSATS”)",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -162,7 +162,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-22T11:06:23.702985Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

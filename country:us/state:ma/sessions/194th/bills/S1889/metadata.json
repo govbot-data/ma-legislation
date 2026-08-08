@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1889",
-  "title": "An Act relative to the Massachusetts Teachers\u2019 Retirement System benefit calculation",
+  "title": "An Act relative to the Massachusetts Teachers’ Retirement System benefit calculation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Moore (by request), a petition (accompanied by bill, Senate, No. 1889) of Paul C. Nordberg,  for legislation relative to the Massachusetts Teachers\u2019 Retirement System benefit calculation.  Public Service."
+      "abstract": "By Mr. Moore (by request), a petition (accompanied by bill, Senate, No. 1889) of Paul C. Nordberg,  for legislation relative to the Massachusetts Teachers’ Retirement System benefit calculation.  Public Service."
     }
   ],
   "other_titles": [],
@@ -138,7 +138,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:16Z",
-    "text_extraction_latest_update": "2026-07-22T11:16:20.140380Z"
+    "logs_latest_update": "2026-07-21T23:17:16Z"
   }
 }

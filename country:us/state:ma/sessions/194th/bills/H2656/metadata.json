@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Lewis of Framingham and Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 2656) of Jack Patrick Lewis, Samantha Monta\u00f1o and Lindsay N. Sabadosa for legislation to promote rehabilitation including guaranteed health, treatment and safety for incarcerated LGBTQI+ persons.  Public Safety and Homeland Security."
+      "abstract": "By Representatives Lewis of Framingham and Montaño of Boston, a petition (accompanied by bill, House, No. 2656) of Jack Patrick Lewis, Samantha Montaño and Lindsay N. Sabadosa for legislation to promote rehabilitation including guaranteed health, treatment and safety for incarcerated LGBTQI+ persons.  Public Safety and Homeland Security."
     }
   ],
   "other_titles": [],
@@ -141,7 +141,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -201,7 +201,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-08-06T01:34:44.048130Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

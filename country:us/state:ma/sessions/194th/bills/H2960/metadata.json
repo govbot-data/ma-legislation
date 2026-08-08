@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Scarsdale of Pepperell, a petition (accompanied by bill, House, No. 2960) of Margaret R. Scarsdale and James B. Eldridge relative to non-Commonwealth entities within the state employees\u2019 retirement system.  Public Service."
+      "abstract": "By Representative Scarsdale of Pepperell, a petition (accompanied by bill, House, No. 2960) of Margaret R. Scarsdale and James B. Eldridge relative to non-Commonwealth entities within the state employees’ retirement system.  Public Service."
     }
   ],
   "other_titles": [],
@@ -202,7 +202,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-22T13:28:40.761408Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

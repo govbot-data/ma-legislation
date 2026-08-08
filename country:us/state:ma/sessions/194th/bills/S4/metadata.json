@@ -97,7 +97,7 @@
       }
     },
     {
-      "description": "Amendment #72 (G\u00f3mez) adopted",
+      "description": "Amendment #72 (Gómez) adopted",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -109,7 +109,7 @@
       }
     },
     {
-      "description": "Amendment #83 (G\u00f3mez) adopted",
+      "description": "Amendment #83 (Gómez) adopted",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -121,7 +121,7 @@
       }
     },
     {
-      "description": "Amendment #84 (G\u00f3mez) adopted",
+      "description": "Amendment #84 (Gómez) adopted",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -217,7 +217,7 @@
       }
     },
     {
-      "description": "Amendment #454 (G\u00f3mez) adopted",
+      "description": "Amendment #454 (Gómez) adopted",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -1671,7 +1671,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z",
-    "text_extraction_latest_update": "2026-07-22T10:34:22.515412Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z"
   }
 }

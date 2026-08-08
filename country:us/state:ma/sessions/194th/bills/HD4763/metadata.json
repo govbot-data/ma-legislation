@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (subject to Joint Rule 12) of Carlos Gonz\u00e1lez relative to the installation of security systems.  Consumer Protection and Professional Licensure."
+      "abstract": "By Representative González of Springfield, a petition (subject to Joint Rule 12) of Carlos González relative to the installation of security systems.  Consumer Protection and Professional Licensure."
     }
   ],
   "other_titles": [],
@@ -46,7 +46,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -84,7 +84,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z",
-    "text_extraction_latest_update": "2026-07-22T02:57:58.974209Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z"
   }
 }

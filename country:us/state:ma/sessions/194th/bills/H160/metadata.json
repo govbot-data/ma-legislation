@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 160) of Samantha Monta\u00f1o for legislation to promote equity joint venture partnerships.  Cannabis Policy."
+      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 160) of Samantha Montaño for legislation to promote equity joint venture partnerships.  Cannabis Policy."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z",
-    "text_extraction_latest_update": "2026-07-24T13:12:49.283889Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 1894) of Samantha Monta\u00f1o relative to evidence obtained during traffic stops in criminal proceedings.  The Judiciary."
+      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 1894) of Samantha Montaño relative to evidence obtained during traffic stops in criminal proceedings.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -86,7 +86,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Monta\u00f1o",
+      "name": "Samantha Montaño",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -146,7 +146,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z",
-    "text_extraction_latest_update": "2026-07-22T12:28:24.414416Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z"
   }
 }

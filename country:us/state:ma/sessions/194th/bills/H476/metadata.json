@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Williams of Springfield, a petition (accompanied by bill, House, No. 476) of Bud L. Williams and Carlos Gonz\u00e1lez relative to medical debt exclusion from creditor reports.  Consumer Protection and Professional Licensure."
+      "abstract": "By Representative Williams of Springfield, a petition (accompanied by bill, House, No. 476) of Bud L. Williams and Carlos González relative to medical debt exclusion from creditor reports.  Consumer Protection and Professional Licensure."
     }
   ],
   "other_titles": [],
@@ -84,7 +84,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos Gonz\u00e1lez",
+      "name": "Carlos González",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -128,7 +128,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z",
-    "text_extraction_latest_update": "2026-08-06T02:29:01.683075Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z"
   }
 }

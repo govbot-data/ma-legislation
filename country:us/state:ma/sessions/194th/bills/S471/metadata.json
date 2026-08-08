@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S471",
-  "title": "An Act supporting seniors\u2019 financial stability",
+  "title": "An Act supporting seniors’ financial stability",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Ms. Jehlen, a petition (accompanied by bill, Senate, No. 471) of Patricia D. Jehlen that the Office of the State Treasurer be authorized to establish a curriculum to support seniors\u2019 financial literacy.  Elder Affairs."
+      "abstract": "By Ms. Jehlen, a petition (accompanied by bill, Senate, No. 471) of Patricia D. Jehlen that the Office of the State Treasurer be authorized to establish a curriculum to support seniors’ financial literacy.  Elder Affairs."
     }
   ],
   "other_titles": [],
@@ -144,7 +144,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z",
-    "text_extraction_latest_update": "2026-08-06T01:44:51.159128Z"
+    "logs_latest_update": "2026-07-21T23:17:14Z"
   }
 }

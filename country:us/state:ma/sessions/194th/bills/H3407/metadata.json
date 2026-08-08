@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Ramos of Springfield, a petition (accompanied by bill, House, No. 3407) of Orlando Ramos for legislation to designate the song, \u201cMassachusetts\u201d, words and music by Montenia, as the official jazz song of the Commonwealth.  State Administration and Regulatory Oversight."
+      "abstract": "By Representative Ramos of Springfield, a petition (accompanied by bill, House, No. 3407) of Orlando Ramos for legislation to designate the song, “Massachusetts”, words and music by Montenia, as the official jazz song of the Commonwealth.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -144,7 +144,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-22T13:19:55.487277Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative G\u00f3mez of Easthampton (by request), a petition (accompanied by bill, House, No. 1726) of Henry Morgan relative to criminal disposition of limited psilocybin possession offenses.  The Judiciary."
+      "abstract": "By Representative Gómez of Easthampton (by request), a petition (accompanied by bill, House, No. 1726) of Henry Morgan relative to criminal disposition of limited psilocybin possession offenses.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -106,7 +106,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar G\u00f3mez",
+      "name": "Homar Gómez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -158,7 +158,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T12:55:15.798389Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

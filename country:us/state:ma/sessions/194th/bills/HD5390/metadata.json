@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5390",
-  "title": "The annual report of the Women Veterans Network (WVN) of the Executive Office of Veterans\u2019 Services (under Section 18 of Chapter 115 of the General Laws) for fiscal year 2025",
+  "title": "The annual report of the Women Veterans Network (WVN) of the Executive Office of Veterans’ Services (under Section 18 of Chapter 115 of the General Laws) for fiscal year 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,7 +66,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z",
-    "text_extraction_latest_update": "2026-07-24T10:35:47.905220Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z"
   }
 }

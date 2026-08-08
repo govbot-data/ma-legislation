@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Executive Office of Energy and Environmental Affairs (pursuant to line item 2200-0107 of Section 2 of Chapter 140 of the Acts of 2024) submitting its Department of Environmental Protection\u2019s report on the development and administration of a grant program for small businesses to support alternatives to single-use plastics"
+      "abstract": "Report of the Executive Office of Energy and Environmental Affairs (pursuant to line item 2200-0107 of Section 2 of Chapter 140 of the Acts of 2024) submitting its Department of Environmental Protection’s report on the development and administration of a grant program for small businesses to support alternatives to single-use plastics"
     }
   ],
   "other_titles": [],
@@ -71,7 +71,6 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z",
-    "text_extraction_latest_update": "2026-07-24T11:39:02.649005Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z"
   }
 }

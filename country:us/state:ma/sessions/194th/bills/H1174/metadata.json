@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gómez of Easthampton, a petition (accompanied by bill, House, No. 1174) of Homar Gómez relative to direct dental care agreements.  Financial Services."
+      "abstract": "By Representative G\u00f3mez of Easthampton, a petition (accompanied by bill, House, No. 1174) of Homar G\u00f3mez relative to direct dental care agreements.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T03:09:38.237162Z"
   }
 }

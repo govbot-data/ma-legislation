@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 2501) of Samantha Montaño relative to LGBTQ+ health disparities.  Public Health."
+      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 2501) of Samantha Monta\u00f1o relative to LGBTQ+ health disparities.  Public Health."
     }
   ],
   "other_titles": [],
@@ -163,7 +163,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -239,6 +239,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T17:18:34Z"
+    "logs_latest_update": "2026-08-07T17:18:34Z",
+    "text_extraction_latest_update": "2026-08-08T03:13:50.186359Z"
   }
 }

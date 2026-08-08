@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Smola of Warren, a petition (accompanied by bill, House, No. 3885) of Todd M. Smola relative to veterans’ benefits for surviving spouses.  Veterans and Federal Affairs."
+      "abstract": "By Representative Smola of Warren, a petition (accompanied by bill, House, No. 3885) of Todd M. Smola relative to veterans\u2019 benefits for surviving spouses.  Veterans and Federal Affairs."
     }
   ],
   "other_titles": [],
@@ -130,6 +130,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T03:11:09.080683Z"
   }
 }

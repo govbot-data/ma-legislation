@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, February 5, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill to end housing discrimination in the Commonwealth (Senate, No. 2671),- reports, recommending that the same ought to pass with an amendment substituting a new draft entitled \"An Act regarding fair housing practices in the Commonwealth\" (Senate, No. 2947)."
+      "abstract": "Senate, February 5, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill to end housing discrimination in the Commonwealth\u00a0(Senate, No. 2671),- reports, recommending that the same ought to pass with an amendment substituting a new draft entitled \"An Act regarding fair housing practices in the Commonwealth\" (Senate, No. 2947)."
     }
   ],
   "other_titles": [],
@@ -173,7 +173,7 @@
       "organization_id": "~{\"name\": \"Senate Committee on Ways and Means\"}"
     },
     {
-      "name": "Adam Gómez",
+      "name": "Adam G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -267,6 +267,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T03:12:07.439760Z"
   }
 }

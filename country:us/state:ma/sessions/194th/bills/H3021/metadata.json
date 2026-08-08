@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Ayers of Quincy, a petition (accompanied by bill, House, No. 3021) of Bruce J. Ayers relative to certain sales tax exemptions for veterans’ organizations.  Revenue."
+      "abstract": "By Representative Ayers of Quincy, a petition (accompanied by bill, House, No. 3021) of Bruce J. Ayers relative to certain sales tax exemptions for veterans\u2019 organizations.  Revenue."
     }
   ],
   "other_titles": [],
@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T03:18:18.695996Z"
   }
 }

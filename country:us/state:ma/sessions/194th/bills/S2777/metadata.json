@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Filed by Mr. Gómez -- Order relative to granting the committee on Cannabis Policy until January 27, 2026 within which time to make its final report on a certain current Senate document relative to cannabis policy."
+      "abstract": "Filed by Mr. G\u00f3mez -- Order relative to granting the committee on Cannabis Policy until January 27, 2026 within which time to make its final report on a certain current Senate document relative to cannabis policy."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Adam Gómez",
+      "name": "Adam G\u00f3mez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z",
+    "text_extraction_latest_update": "2026-08-08T03:15:06.137471Z"
   }
 }

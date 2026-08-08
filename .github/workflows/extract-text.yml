@@ -44,7 +44,7 @@ jobs:
 
       - name: Run text extraction action
         id: extract
-        uses: chihacknight/govbot/actions/extract@feat/skip-unavailable-bills
+        uses: chihacknight/govbot/actions/extract@main
         with:
           state: ma
           github-token: ${{ secrets.GITHUB_TOKEN }}

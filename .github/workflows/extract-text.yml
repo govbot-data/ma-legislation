@@ -57,11 +57,14 @@ jobs:
         if: always()
         shell: bash
         run: |
-          if [ -f ".extraction_summary.txt" ]; then
-            cat .extraction_summary.txt
-          else
-            echo "⚠️  Summary file not found"
-          fi
+          echo "📊 Text Extraction Summary for ma"
+          echo "========================================"
+          echo ""
+          echo "Extracted now:     ${{ steps.extract.outputs.extracted-now }}"
+          echo "Total bills:       ${{ steps.extract.outputs.total-bills }}"
+          echo "Already processed: ${{ steps.extract.outputs.already-processed }}"
+          echo "Unavailable:       ${{ steps.extract.outputs.unavailable }}"
+          echo "Errors:            ${{ steps.extract.outputs.errors }}"
 
   # Auto-restart job if extraction was cancelled (timeout) or failed.
   #

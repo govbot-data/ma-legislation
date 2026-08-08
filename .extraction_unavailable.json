@@ -1,0 +1,217 @@
+[
+  {
+    "bill_id": "HD6269",
+    "reason": "download_failed",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD6269/metadata.json"
+  },
+  {
+    "bill_id": "HD4368",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4368/metadata.json"
+  },
+  {
+    "bill_id": "HD5624",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5624/metadata.json"
+  },
+  {
+    "bill_id": "HD5240",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5240/metadata.json"
+  },
+  {
+    "bill_id": "HD4366",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4366/metadata.json"
+  },
+  {
+    "bill_id": "HD5678",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5678/metadata.json"
+  },
+  {
+    "bill_id": "HD5676",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5676/metadata.json"
+  },
+  {
+    "bill_id": "HD4367",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4367/metadata.json"
+  },
+  {
+    "bill_id": "HD5419",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5419/metadata.json"
+  },
+  {
+    "bill_id": "HD4369",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4369/metadata.json"
+  },
+  {
+    "bill_id": "HD4960",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4960/metadata.json"
+  },
+  {
+    "bill_id": "SD2968",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/SD2968/metadata.json"
+  },
+  {
+    "bill_id": "HD177",
+    "reason": "download_failed",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD177/metadata.json"
+  },
+  {
+    "bill_id": "HD5130",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5130/metadata.json"
+  },
+  {
+    "bill_id": "HD179",
+    "reason": "download_failed",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD179/metadata.json"
+  },
+  {
+    "bill_id": "HD4283",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4283/metadata.json"
+  },
+  {
+    "bill_id": "HD178",
+    "reason": "download_failed",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD178/metadata.json"
+  },
+  {
+    "bill_id": "HD5131",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5131/metadata.json"
+  },
+  {
+    "bill_id": "HD176",
+    "reason": "download_failed",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD176/metadata.json"
+  },
+  {
+    "bill_id": "HD4813",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4813/metadata.json"
+  },
+  {
+    "bill_id": "HD171",
+    "reason": "download_failed",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD171/metadata.json"
+  },
+  {
+    "bill_id": "HD4282",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4282/metadata.json"
+  },
+  {
+    "bill_id": "HD4624",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4624/metadata.json"
+  },
+  {
+    "bill_id": "SD2636",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/SD2636/metadata.json"
+  },
+  {
+    "bill_id": "HD5375",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5375/metadata.json"
+  },
+  {
+    "bill_id": "HD4630",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4630/metadata.json"
+  },
+  {
+    "bill_id": "HD4456",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4456/metadata.json"
+  },
+  {
+    "bill_id": "HD5122",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5122/metadata.json"
+  },
+  {
+    "bill_id": "HD5179",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5179/metadata.json"
+  },
+  {
+    "bill_id": "SD2405",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/SD2405/metadata.json"
+  },
+  {
+    "bill_id": "HD4290",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4290/metadata.json"
+  },
+  {
+    "bill_id": "SD120",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/SD120/metadata.json"
+  },
+  {
+    "bill_id": "HD5123",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5123/metadata.json"
+  },
+  {
+    "bill_id": "SD2836",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/SD2836/metadata.json"
+  },
+  {
+    "bill_id": "HD4457",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD4457/metadata.json"
+  },
+  {
+    "bill_id": "HD6085",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD6085/metadata.json"
+  },
+  {
+    "bill_id": "HD5005",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5005/metadata.json"
+  },
+  {
+    "bill_id": "HD5653",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5653/metadata.json"
+  },
+  {
+    "bill_id": "HD5239",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5239/metadata.json"
+  },
+  {
+    "bill_id": "HD5853",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5853/metadata.json"
+  },
+  {
+    "bill_id": "SD490",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/SD490/metadata.json"
+  },
+  {
+    "bill_id": "SD2320",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/SD2320/metadata.json"
+  },
+  {
+    "bill_id": "HD5236",
+    "reason": "no_text_layer",
+    "metadata_file": "/Users/tamara/actions-runner-20/_work/ma-legislation/ma-legislation/country:us/state:ma/sessions/194th/bills/HD5236/metadata.json"
+  }
+]

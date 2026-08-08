@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5573",
-  "title": "A report of the Auto Body Labor Rate Advisory Board (under Section 292 of Chapter 238 of the Acts of 2024) submitting the ABLRAB’s final report",
+  "title": "A report of the Auto Body Labor Rate Advisory Board (under Section 292 of Chapter 238 of the Acts of 2024) submitting the ABLRAB\u2019s final report",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:00.059136Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5350",
-  "title": "An Act modernizing the commonwealth’s cannabis laws",
+  "title": "An Act modernizing the commonwealth\u2019s cannabis laws",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The committee of conference on the disagreeing votes of the two branches with reference to the Senate amendment of the House Bill modernizing the Commonwealth’s cannabis laws (House, No. 4206), reports, recommending passage of the accompanying bill (House, No. 5350)."
+      "abstract": "The committee of conference on the disagreeing votes of the two branches with reference to the Senate amendment of the House Bill modernizing the Commonwealth\u2019s cannabis laws (House, No. 4206), reports, recommending passage of the accompanying bill (House, No. 5350)."
     }
   ],
   "other_titles": [],
@@ -180,7 +180,7 @@
       "organization_id": "~{\"name\": \"Cannabis Laws\"}"
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -322,6 +322,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:13Z"
+    "logs_latest_update": "2026-07-21T23:17:13Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:27.789739Z"
   }
 }

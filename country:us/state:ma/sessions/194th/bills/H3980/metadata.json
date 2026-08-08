@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gentile of Sudbury, a petition (subject to Joint Rule 12) of Carmine Lawrence Gentile, Liz Miranda and Samantha Montaño for legislation to establish LGBTQIA+ parent advisory councils in public schools.  Education."
+      "abstract": "By Representative Gentile of Sudbury, a petition (subject to Joint Rule 12) of Carmine Lawrence Gentile, Liz Miranda and Samantha Monta\u00f1o for legislation to establish LGBTQIA+ parent advisory councils in public schools.  Education."
     }
   ],
   "other_titles": [],
@@ -124,7 +124,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -168,6 +168,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:38.237811Z"
   }
 }

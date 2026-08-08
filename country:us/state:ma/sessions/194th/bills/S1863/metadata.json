@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Fernandes, a petition (accompanied by bill, Senate, No. 1863) of Dylan A. Fernandes, Norman J. Orrall, David F. DeCoste, Kathleen R. LaNatra and other members of the General Court for legislation to grant group 4 status to officers who retire from the Bureau of Criminal Investigation at the Plymouth County Sheriff’s Department.  Public Service."
+      "abstract": "By Mr. Fernandes, a petition (accompanied by bill, Senate, No. 1863) of Dylan A. Fernandes, Norman J. Orrall, David F. DeCoste, Kathleen R. LaNatra and other members of the General Court for legislation to grant group 4 status to officers who retire from the Bureau of Criminal Investigation at the Plymouth County Sheriff\u2019s Department.  Public Service."
     }
   ],
   "other_titles": [],
@@ -208,6 +208,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:04.078622Z"
   }
 }

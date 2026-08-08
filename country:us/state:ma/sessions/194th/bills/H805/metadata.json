@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H805",
-  "title": "An Act clarifying the role of Governor’s Councillor on the ballot",
+  "title": "An Act clarifying the role of Governor\u2019s Councillor on the ballot",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Cataldo of Concord and Gentile of Sudbury, a petition (accompanied by bill, House, No. 805) of Simon Cataldo, Carmine Lawrence Gentile and others relative to clarifying the title of Governor’s Councillor on election ballots.  Election Laws."
+      "abstract": "By Representatives Cataldo of Concord and Gentile of Sudbury, a petition (accompanied by bill, House, No. 805) of Simon Cataldo, Carmine Lawrence Gentile and others relative to clarifying the title of Governor\u2019s Councillor on election ballots.  Election Laws."
     }
   ],
   "other_titles": [],
@@ -190,6 +190,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:32:17.260264Z"
   }
 }

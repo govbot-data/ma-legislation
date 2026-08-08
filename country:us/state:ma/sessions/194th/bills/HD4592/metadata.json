@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4592",
-  "title": "A communication from the Hampden County Sheriff’s Office (see item 8910-1000 contained in Section 2 of Chapter 28 of the Acts of 2023) submitting its Prison Industries (PI) report for fiscal year 2024",
+  "title": "A communication from the Hampden County Sheriff\u2019s Office (see item 8910-1000 contained in Section 2 of Chapter 28 of the Acts of 2023) submitting its Prison Industries (PI) report for fiscal year 2024",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:20.391327Z"
   }
 }

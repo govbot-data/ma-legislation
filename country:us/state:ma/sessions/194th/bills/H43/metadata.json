@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H43",
-  "title": "An Act relative to the Massachusetts Turnpike Authority Employees’ Retirement System",
+  "title": "An Act relative to the Massachusetts Turnpike Authority Employees\u2019 Retirement System",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "So much of the recommendations of the Department of the State Treasurer (House, No. 35) as relates to the Massachusetts Turnpike Authority Employees’ Retirement System. Transportation."
+      "abstract": "So much of the recommendations of the Department of the State Treasurer (House, No. 35) as relates to the Massachusetts Turnpike Authority Employees\u2019 Retirement System. Transportation."
     }
   ],
   "other_titles": [],
@@ -144,6 +144,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:27.766229Z"
   }
 }

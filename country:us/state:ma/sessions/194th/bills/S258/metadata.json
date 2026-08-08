@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Mark, a petition (accompanied by bill, Senate, No. 258) of Paul W. Mark for legislation to protect the privacy of individuals’ social care information.  Consumer Protection and Professional Licensure."
+      "abstract": "By Mr. Mark, a petition (accompanied by bill, Senate, No. 258) of Paul W. Mark for legislation to protect the privacy of individuals\u2019 social care information.  Consumer Protection and Professional Licensure."
     }
   ],
   "other_titles": [],
@@ -128,6 +128,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z",
+    "text_extraction_latest_update": "2026-08-08T00:17:01.864175Z"
   }
 }

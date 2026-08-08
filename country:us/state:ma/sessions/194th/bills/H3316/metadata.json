@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3316",
-  "title": "An Act to promote budget transparency and the public’s right to know",
+  "title": "An Act to promote budget transparency and the public\u2019s right to know",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -138,6 +138,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:31.753053Z"
   }
 }

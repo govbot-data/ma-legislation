@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4966",
-  "title": "A communication from the Massachusetts Sheriffs’ Association (see Section 6A of Chapter 124 of the General Laws) submitting its operational capacity report for January 1 to June 30, 2025",
+  "title": "A communication from the Massachusetts Sheriffs\u2019 Association (see Section 6A of Chapter 124 of the General Laws) submitting its operational capacity report for January 1 to June 30, 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:23:51.252255Z"
   }
 }

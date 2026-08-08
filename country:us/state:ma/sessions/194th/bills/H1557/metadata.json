@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Reid of Lynn and Gómez of Easthampton, a petition (accompanied by bill, House, No. 1557) of Sean Reid, Homar Gómez and Tara T. Hong for legislation to create an office of tenant protections in the Executive Office of Housing and Livable Communities.  Housing."
+      "abstract": "By Representatives Reid of Lynn and G\u00f3mez of Easthampton, a petition (accompanied by bill, House, No. 1557) of Sean Reid, Homar G\u00f3mez and Tara T. Hong for legislation to create an office of tenant protections in the Executive Office of Housing and Livable Communities.  Housing."
     }
   ],
   "other_titles": [],
@@ -84,7 +84,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -136,6 +136,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:23:07.849252Z"
   }
 }

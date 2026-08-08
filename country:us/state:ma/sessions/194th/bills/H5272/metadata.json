@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5272",
-  "title": "An Act to effectuate Massachusetts’ participation in the social work licensure compact",
+  "title": "An Act to effectuate Massachusetts\u2019 participation in the social work licensure compact",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -94,7 +94,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -332,6 +332,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:16Z"
+    "logs_latest_update": "2026-07-21T23:17:16Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:04.088976Z"
   }
 }

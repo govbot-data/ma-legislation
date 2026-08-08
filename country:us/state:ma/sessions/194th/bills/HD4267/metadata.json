@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4267",
-  "title": "A report of the Executive Office of Veterans’ Services (under Section 151 of Chapter 178 of the Acts of 2024) submitting a report entitled: “A Study on Property Tax Abatements and Exemptions for Veterans and Surviving Spouses”",
+  "title": "A report of the Executive Office of Veterans\u2019 Services (under Section 151 of Chapter 178 of the Acts of 2024) submitting a report entitled: \u201cA Study on Property Tax Abatements and Exemptions for Veterans and Surviving Spouses\u201d",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:20:25.879009Z"
   }
 }

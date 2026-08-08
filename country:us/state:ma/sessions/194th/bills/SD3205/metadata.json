@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3205",
-  "title": "Report on OUI Deterrent Trust Fund (Melanie’s Law)",
+  "title": "Report on OUI Deterrent Trust Fund (Melanie\u2019s Law)",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z",
+    "text_extraction_latest_update": "2026-08-08T00:22:28.412866Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S3011",
-  "title": "An Act  Resolve directing the Massachusetts Department of Transportation to study the feasibility of establishing a tunnel to connect the campuses of Essex North Shore Agricultural and Technical school (\"ENSATS”)",
+  "title": "An Act  Resolve directing the Massachusetts Department of Transportation to study the feasibility of establishing a tunnel to connect the campuses of Essex North Shore Agricultural and Technical school (\"ENSATS\u201d)",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -145,6 +145,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:16Z"
+    "logs_latest_update": "2026-07-21T23:17:16Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:20.338827Z"
   }
 }

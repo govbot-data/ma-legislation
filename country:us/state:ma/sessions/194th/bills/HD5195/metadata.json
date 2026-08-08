@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5195",
-  "title": "A communication from the Executive Office of Energy and Environmental Affairs (see Section 7 of Chapter 453 of the Acts of 2008) submitting the Department of Environmental Protection’s home heating oil release report for calendar year 2024",
+  "title": "A communication from the Executive Office of Energy and Environmental Affairs (see Section 7 of Chapter 453 of the Acts of 2008) submitting the Department of Environmental Protection\u2019s home heating oil release report for calendar year 2024",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z"
+    "logs_latest_update": "2026-07-21T23:17:20Z",
+    "text_extraction_latest_update": "2026-08-08T00:16:31.437557Z"
   }
 }

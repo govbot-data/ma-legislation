@@ -87,7 +87,7 @@
       }
     },
     {
-      "description": "Amended (Gómez) by striking out all after the enacting clause and inserting in place thereof the text of S3185",
+      "description": "Amended (G\u00f3mez) by striking out all after the enacting clause and inserting in place thereof the text of S3185",
       "date": "2026-07-20",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -196,7 +196,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -212,7 +212,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -236,7 +236,7 @@
       "organization_id": null
     },
     {
-      "name": "Adam Gómez",
+      "name": "Adam G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -282,6 +282,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T17:18:34Z"
+    "logs_latest_update": "2026-08-07T17:18:34Z",
+    "text_extraction_latest_update": "2026-08-08T00:23:29.285641Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Ms. Friedman, a petition (accompanied by bill, Senate, No. 1403) of Cindy F. Friedman, Joanne M. Comerford, Mike Connolly, Adam Gómez and other members of the General Court for legislation relative to reducing administrative burden.  Mental Health, Substance Use and Recovery."
+      "abstract": "By Ms. Friedman, a petition (accompanied by bill, Senate, No. 1403) of Cindy F. Friedman, Joanne M. Comerford, Mike Connolly, Adam G\u00f3mez and other members of the General Court for legislation relative to reducing administrative burden.  Mental Health, Substance Use and Recovery."
     }
   ],
   "other_titles": [],
@@ -142,7 +142,7 @@
       "organization_id": null
     },
     {
-      "name": "Adam Gómez",
+      "name": "Adam G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -250,6 +250,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:01.943911Z"
   }
 }

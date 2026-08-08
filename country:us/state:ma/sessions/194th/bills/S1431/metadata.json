@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1431",
-  "title": "An Act providing for indigenous representation on the Martha’s Vineyard Commission",
+  "title": "An Act providing for indigenous representation on the Martha\u2019s Vineyard Commission",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Cyr, a petition (accompanied by bill, Senate, No. 1431) of Julian Cyr for legislation relative to indigenous representation on the Martha’s Vineyard Commission.  Municipalities and Regional Government."
+      "abstract": "By Mr. Cyr, a petition (accompanied by bill, Senate, No. 1431) of Julian Cyr for legislation relative to indigenous representation on the Martha\u2019s Vineyard Commission.  Municipalities and Regional Government."
     }
   ],
   "other_titles": [],
@@ -201,6 +201,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z",
+    "text_extraction_latest_update": "2026-08-08T00:16:35.282908Z"
   }
 }

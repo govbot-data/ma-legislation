@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3189",
-  "title": "An Act to establish a vendors’ collection allowance",
+  "title": "An Act to establish a vendors\u2019 collection allowance",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative McMurtry of Dedham, a petition (accompanied by bill, House, No. 3189) of Paul McMurtry and John C. Velis for legislation to establish a vendors’ collection allowance.  Revenue."
+      "abstract": "By Representative McMurtry of Dedham, a petition (accompanied by bill, House, No. 3189) of Paul McMurtry and John C. Velis for legislation to establish a vendors\u2019 collection allowance.  Revenue."
     }
   ],
   "other_titles": [],
@@ -156,6 +156,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:43.441890Z"
   }
 }

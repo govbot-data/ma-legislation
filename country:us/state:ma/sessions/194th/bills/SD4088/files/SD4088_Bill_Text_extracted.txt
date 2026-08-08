@@ -1,0 +1,951 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+ 
+  
+ 
+  
+Health Information Technology Council  
+Report to the Massachusetts Legislature  
+ 
+ 
+Reporting Period: January 20 24 to December 20 24 
+ 
+ 
+Submitted in August 2026   
+by the Health Information Technology Council  
+  
+
+
+ 
+1 
+ TABLE OF CONTENTS  
+Executive Summary  ................................ ................................ ................................ ................................ .......................  1 
+A. Introduction  ................................ ................................ ................................ ................................ ..........................  3 
+B. Mass HIway Operations  ................................ ................................ ................................ ................................ ........  4 
+B.1 HIE Connections  ................................ ................................ ................................ ................................ ..........  4 
+B.2 HIE Utilization Data  ................................ ................................ ................................ ................................ ..... 5 
+C. Mass HIway Clinical Gateway  ................................ ................................ ................................ .............................  10 
+C.1 CG Background  ................................ ................................ ................................ ................................ .........  10 
+C.2 CG Maintenance and Enhancement Activities  ................................ ................................ .........................  11 
+C.3 CG API -FHIR 2024 Technical Update  ................................ ................................ ................................ .........  13 
+C.4 CG API -FHIR 2024 Provider Engagement Update  ................................ ................................ .....................  14 
+D. Mass HIway Account Management  ................................ ................................ ................................ ....................  16 
+D.1 Provider Directory and DirectTrust outreach  ................................ ................................ ...........................  16 
+D.2 Provider Engagement  ................................ ................................ ................................ ...............................  17 
+E. Statewide Event Notification Service Framework  ................................ ................................ ..............................  19 
+E.1 ENS Program 2024 Activity Update  ................................ ................................ ................................ ..........  19 
+E.2 ENS/ADT Reporting Metrics  ................................ ................................ ................................ .....................  20 
+E.3 ENS/ADT Landscape Improvement Efforts  ................................ ................................ ...............................  22 
+F. Federal Developments  ................................ ................................ ................................ ................................ ........  23 
+F.1 Federal Legislation Activity and Milestones  ................................ ................................ .............................  23 
+F.2 Information Blocking  ................................ ................................ ................................ ................................  24 
+G. In Flight Initiatives  ................................ ................................ ................................ ................................ ...............  25 
+H. Behavioral Health Treatment & Referral Platform  ................................ ................................ .............................  25 
+I. POLST Program  ................................ ................................ ................................ ................................ ...................  26 
+
+ 
+2 
+ I.1 ePOLST Registry 2024 Update  ................................ ................................ ................................ ..................  26 
+J. Budget  ................................ ................................ ................................ ................................ ................................ . 29 
+J.1 Background & Funding Rates ................................ ................................ ................................ ....................  29 
+K. Conclusion  ................................ ................................ ................................ ................................ ...........................  30 
+L. Appendix  ................................ ................................ ................................ ................................ .............................  31 
+L.1 Mass HIway Information Blocking Compliance Affirmation  ................................ ................................ ..... 31 
+ 
+
+ 
+1 
+ EXECUTIVE SUMMARY  
+The Massachusetts Health Information Highway  (Mass HIway ) is a health information exchange 
+program within  the Commonwealth of Massachusetts’ s Executive Office of Health and Human 
+Services  (EOHHS)  and is advised by the Health Information Technology (HIT) Council . The HIT 
+Council is comp osed of  consumer, provider, legal , policy, and technology  stakeholder s. 
+The Mass HIway's main objective is to promote and coordinate health information exchange 
+(HIE) throughout Massachusetts. To achieve this, the Mass HIway deploys a range of policy 
+initiatives, technical solutions, and support services to help healthcare providers and 
+stakeholders effectively utilize HIE . As of 2024, the Mass HIway supports 630 participating 
+organizations and processed more than 480 million electronic transactions, enabling public 
+health reporting, provider -to-provider exchange, quality reporting, and secure data sharing 
+across care setting s.  
+Below are the Mass HIway program activity highlights for 2024: 
+• Mass HIway Operations : In 2024, the Mass HIway continued to improve its technical 
+infrastructure and operations to support public health reporting and provider 
+engagement. The program provided Direct Messaging services to 630 organizations, 
+including hospitals, community health centers, ambulatory practices, and public health 
+entities, supporting secure and reliable health data exchange across the 
+Commonwealth . 
+• HIE Connections & Utilization : The Mass HIway facilitated over 480 million message 
+transactions in 2024, including over 467 million public health submissions —primarily to 
+the Massachusetts Immunization Information System (MIIS) and Syndromic Surveillance 
+systems —and nearly 13 million ca re coordination messages, reflecting a 60% increase 
+over 2023 . 
+• Clinical Gateway & Technical Updates : The Mass HIway maintained its Clinical Gateway 
+and continued to support connections to seven public health registries. The program 
+expanded API connectivity, increasing the number of active API participants to 13 
+organizations, and quadrupled API transacti on volume from Q1 to Q4, signaling progress 
+toward real -time, standards -based public health reporting.  
+• Provider Engagement & Provider Directory Updates : The Mass HIway team onboarded 
+17 new organizations and worked with participants to transition from legacy 
+
+ 
+2 
+ technologies to more modern solutions, including RESTful APIs. Directory improvements 
+included the addition of taxonomy codes and enhancements to support usability and 
+alignment with DirectTrust standards.  
+• Event Notification Service Framework : The Statewide Event Notification Service (ENS) 
+Framework facilitated the delivery of over 1.2 million additional ADT notifications 
+through its vendor infrastructure. In 2024, the Mass HIway worked with Certified ENS 
+Vendors to assess hospital feed quality,  enhance reporting, and publish best practices to 
+help provider organizations maximize the value of alerts.  
+• Federal Developments & Compliance : The Mass HIway aligns with federal health IT 
+initiatives and rules, particularly focusing on interoperability, data access, and 
+compliance with the Information Blocking rule, highlighting its commitment to national 
+health information exchange standards.  
+• In-flight Initiatives : The report outlines Mass HIway support for ongoing EOHHS 
+initiatives like the Behavioral Health Treatment and Referral Platform and direct 
+oversight of the development of an ePOLST Registry, showcasing efforts to support care 
+coordination and patient preferences for end -of-life care.  
+EOHHS has a multi -disciplinary and dedicated team to manage the policy, business, operational 
+and strategic direction of the Mass HIway and other technology programming to support 
+EOHHS objectives. EOHHS currently utilizes a combination of staff and vendor  contracts  to 
+operate and maintain the Mass HIway programs and Clinical Gateway services . 
+EOHHS and the Mass HIway w ish to acknowledge the continued support of  the Massachusetts 
+eHealth Institute (MeHI)  and Orion Health  for their contributions to su ccess of Mass HIway 
+operations and other EOHHS initiatives.  
+  
+
+ 
+3 
+ A. INTRODUCTION  
+Pursuant to M.G.L. c. 118I, the Massachusetts Legislature authorized the Executive Office of 
+Health and Human Services (EOHHS) to coordinate and promote the development of a 
+statewide health information exchange ( HIE). EOHHS created the Massachusetts Health 
+Information Highway ( Mass HIway ) program to embody those HIE coordination and promotion 
+efforts. The same enabling statute also created the Health Information Technology Council (HIT 
+Council) to serve as an advisory body to EOHHS and the Mass HIway program.  
+This HIT Council Report to the Massachusetts Legislature fulfills the statutory requirement 
+under M.G.L. Chapter 118I, Section 15, for the HIT Council to file an annual report that: (a) 
+describes the activities of the HIT Council; and (b) describes the pro gress made in developing 
+statewide health information exchange and recommending legislative action, if deemed 
+appropriate.  
+This report provides an update on notable accomplishments and a ctivities  of the HIT  Council  
+related to the state ’s HIE that occurred between January 1, 2024, and December 31, 20 24. This 
+report follows the HIT Council’s previous report, which covered act ivities through December 31, 
+2023.  
+Under the advisement of the HIT Coun cil, the Mass HIway promotes the adoption of HIE 
+through a variety of policy and technical services . The Mass HIway’s activities aim to increase 
+the Commonwealth’s adoption of health information exchange and technology to improve care 
+coordination, quality, patient satisfaction, and public health reporting, while containing costs. 
+Currently, it operates a Direct Messaging  network (HIway Direct Messaging) and Provider 
+Directory  to enable the exchange of vital health data electronically in a secure and seamless 
+fashion, regardless of differences in affiliation, location, or technology across users. The Mass 
+HIway operates a Clinical Gateway designed to accept and transform Public Health Reporting  
+data submitted by providers to seven (7) of the state’s public health registries. Additionally, the 
+Mass HIway facilitates a Statewide Event Notification Service (ENS) Framework , leveraging 
+existing market -based solutions to deliver admit, discharge and transfer notifications to 
+providers throughout the Commonwealth . 
+  
+
+ 
+4 
+ B. MASS HIWAY OPERATIONS  
+In 202 4, the Mass HIway  continued to enhance the technical infrastructure  to improve public 
+health reporting access and data processing  and various engagement activities to address 
+provider  health information exchange needs  and improve utilization . The Mass HIway 
+maintained critical operations and continued to monitor and support connections , enhance 
+services and improve program s, such as the Statewide ENS Framework.  
+B.1 HIE CONNECTIONS  
+The Mass HIway continues to provide Direct Messaging services to a broad range of healthcare 
+organizations across Massachusetts. In 2024, 630 organizations used the HIway for public 
+health reporting and care coordination. These services enable the secure “ push” exchange of 
+clinical data for care coordination, case management, quality improvement, and public health 
+reporting.  
+Common use cases include:  
+• Referrals from primary care providers to specialists  
+• Transmission of clinical summaries (e.g., medication lists, treatment plans) between 
+facilities  
+• Discharge summaries sent to nursing homes and skilled nursing facilities  
+• Reporting data to state public health registries  
+Direct Messaging remains a reliable and secure alternative to faxing and using complex, costly 
+interfaces. It is embedded in all certified EHR systems and continues to support a large volume 
+of exchange activity. In December 2024 alone, over 1.3 million care coordination transactions 
+were conducted via the HIway.  
+While emerging standards such as  Application Programing Interfaces  (APIs ) and Fast Healthcare 
+Interoperability Resources ( FHIR ) will support some of these use cases in the future, Direct 
+Messaging is expected to remain a dominant and cost -effective option for many providers. The 
+HIway will continue to support Direct Messaging as a key offering in the evolving HIE landscape, 
+recogn izing the importance of directories in identifying exchange capabilities and preferences.  
+The HIway’s 630 participants span the Commonwealth’s healthcare ecosystem:  
+• Hospitals:  All major hospital systems are connected, including 32 large and 39 small 
+hospitals.  
+
+ 
+5 
+ • Ambulatory Practices:  438 practices participate, with over 360 having fewer than 10 
+providers —highlighting the HIway’s role in supporting small and mid -sized providers.  
+• Community & Specialty Providers:  65 organizations, including 18 Federally Qualified 
+Health Centers (FQHCs), 28 home health and LTSS agencies, as well as behavioral health 
+and long -term care facilities.  
+• Public & HIE Partners:  56 entities including public health agencies, health plans, labs, 
+HIEs, and business affiliates rely on the HIway to support secure data exchange.  
+This widespread participation underscores the HIway’s value as a secure and trusted 
+foundation for health information exchange across Massachusetts.  
+ 
+Figure -1 Mass HIway Participant Organizations  
+ 
+ 
+B.2 HIE UTILIZATION DATA  
+The Mass HIway continues to serve as a foundational infrastructure for secure and 
+interoperable data exchange across Massachusetts. In 2024, the HIway facilitated over 480 
+million electronic transactions , supporting both Public Health Reporting  and Care 
+Coordination  activities.  
+
+
+ 
+6 
+ Public Health Reporting  remained the primary use case, with over 467 million  submissions. 
+These messages were primarily transmitted through the Mass HIway Clinical Gateway to 
+systems such as the Massachusetts Immunization Information System (MIIS) and Syndromic 
+Surveillance.  
+This reflects a continued reliance on the HIway for timely and accurate reporting to the 
+Department of Public Health (DPH), building on the stabilization seen in 2023 and ongoing 
+growth into 2024.  
+Notable trends:  
+• Syndromic Surveillance  volume increased by 21% , indicating expanded participation 
+and improved coverage.  
+• Electronic Case Reporting (eCR)  transactions rose by 41% , driven by CDC mandates 
+under the Data Modernization Initiative (DMI).  
+• MIIS  submissions saw a 3% decline , due to a stabilization following COVID -19 
+vaccination reporting surges.  
+• Some registries, such as the Massachusetts Cancer Registry (MCR)  and Children’s 
+Behavioral Health Initiative (CBHI) , experienced reduced volume, reflect ing shifts in 
+reporting workflows and technical transitions.  
+Care Coordination  use surged in 2024, with nearly 13 million messages  exchanged , a 60% 
+increase  over 2023. This growth reflects expanded provider participation and deeper 
+integration of Direct Messaging into care delivery workflows.  
+Examples include:  
+• Transitions of care  
+• Referrals between providers  
+• Discharge planning and follow -up 
+• Integration of alerts and event notifications  
+These trends highlight the HIway’s evolving role beyond public health to support a broader 
+spectrum of clinical exchange activities.  
+ 
+
+ 
+7 
+ Figure -2 Mass HIway Utilization  2023 -2024  
+HIE Use Case  2023 2024 Change  
+Clinical Gateway - Public Health Reporting  443,744,823  467,533,444  5%  
+Care Coordination  Exchange  8,136,580  12,908,274  60%  
+Transaction Totals  451,881,403  480,441,718  6%  
+ 
+Figure -3 Clinical Gateway - Public Health Reporting 2023 - 2024  
+Clinical Gateway – Public Health Reporting  2023 2024 Change  
+Syndromic Surveillance  152,874,980  185,119,268  21%  
+IEAT S for Opioid Treatment Program (OTP)  420,819  464,785  10%  
+Mass. Immunization Information System (MIIS)  288,381,756  279,147,372  -3%  
+Electronic Lab Reporting (ELR)  55,888  58,340  4%  
+Mass. Cancer Registry (MCR)  66,662  37,235  -44%  
+Children’s Behavioral Health Initiative (CBHI)  58,279  44,254  -24%  
+Childhood Lead Poisoning Prevention Program (CLPPP)  18,840  19,737  5%  
+Electronic Case Reporting (eCR)  1,867,599  2,642,453  41%  
+Transaction Totals  443,744,823  467,533,444  5%  
+ 
+Figure -4 Care Coordination Quarterly Volume  2023 - 2024  
+ 
+
+
+ 
+8 
+ Figure -5 CG Public Health Reporting Quarterly Volume  2023 - 2024  
+ 
+ 
+Figure -6 MIIS & Syndromic Quarterly  Volume  2023 - 2024 
+ 
+ 
+
+
+ 
+9 
+ Figure -7 CG Registry Nodes Quarterly  Volume  2023 - 2024 
+Additio nally , the Mass HIway saw a s ignificant volume of messages for Electronic Case 
+Reporting (eCR) , which is a newly mandated public health reporting requirement per the CDC’s 
+Data Modernization Initiative (DMI).  
+Figure -8 Electronic Case Reporting Quarterly Volume  2023 - 2024  
+ 
+
+
+ 
+10 
+ C. MASS HIWAY CLINICAL GATEWAY  
+The Mass HIway continued operating the Clinical Gateway (CG) as a unified application to 
+support electronic public health reporting across Massachusetts. Hosted on Amazon Web 
+Services (AWS), the CG integrates a suite of backend applications to facilitate t he secure 
+transmission and transformation of provider -submitted data into formats required by state 
+public health systems.  
+In 2024, over 460 million messages  were transmitted through the Clinical Gateway nodes to 
+the Department of Public Health (DPH) and related programs. The platform supports both 
+Direct Messaging and RESTful API -based submissions, aligning with state modernization efforts 
+and national intero perability standards.  
+C.1 CG BACKGROUND  
+The Consolidated Clinical Gateway (CCG)  is a collection of applications —referred to as Clinical 
+Gateway (CG) nodes —that serve as intermediaries between providers and state agencies for 
+public health data exchange.  
+These nodes transform incoming messages submitted via Direct Messaging  or APIs  into formats 
+compatible with the state’s backend systems. Core functions include  message decryption , data 
+validation  and t ransformation into the required reporting format . 
+This approach allows providers and state agencies to maintain their current IT systems, while 
+the CG handles technical translation , creating a seamless, standards -based reporting workflow.  
+Each CG node supports a specific public health registry or reporting requirement. Current nodes 
+include:  
+• Syndromic Surveillance:  Detects and reports potential outbreaks using real -time clinical 
+data  
+• Massachusetts Immunization Information System (MIIS):  Supports vaccine reporting 
+and includes demographic query capabilities  
+• Electronic Lab Reporting (ELR):  Automates lab data transmission from hospitals and 
+commercial labs  
+• Children’s Behavioral Health Initiative (CBHI):  Transmits the Child and Adolescent 
+Needs and Strengths (CANS) assessment to standardize behavioral health assessments 
+for MassHealth children and youth . 
+
+ 
+11 
+ • Childhood Lead Poisoning Prevention Program (CLPPP) & Adult Lead Reporting:  
+Collects and analyzes lead exposure data  
+• Intake Enrollment and Assessment Transfer Service (IEATS ) for Opioid Treatment 
+Programs (OTP):  Reports intake, enrollment, and treatment data  
+• Massachusetts Cancer Registry (MCR):  Gathers data on newly diagnosed cancer cases  
+This architecture enables scalable, modular support for public health reporting and helps 
+ensure compliance with federal mandates and state priorities.  
+The figure below depicts the architecture of the Mass HIway Clinical Gateway services 
+environment which provides processing and routing to the public health registry systems.  
+Figure -9 Mass HIway Clinical Gateway High -Level Architecture  
+ 
+ 
+C.2 CG MAINTENANCE AND  ENHANCEMENT ACTIVITIES  
+In 2024, the Mass HIway’s Maintenance and Enhancement (M&E) team continued its work to 
+ensure the reliability, performance, and ongoing development of the Clinical Gateway (CG) and 
+related systems. This cross -functional team —comprising of project managers, analysts, 
+developers, and testers —supports both business and technical operations and plays a critical 
+role in advancing health information exchange across the state.  
+ 
+
+
+ 
+12 
+  
+Key Activities and Highlights:  
+• Cloud Operations and Security : The team managed the CG infrastructure hosted on 
+Amazon Web Services (AWS), including database administration, security patches, and 
+release deployments. It also maintained 24/7 incident response capability.  
+• Continuous Improvement : Enhancements and fixes were implemented in response to 
+evolving business needs. All changes followed a formal Software Development Life Cycle 
+(SDLC) process, with rigorous testing in development, QA, and production 
+environments.  
+• Functional Enhancements : New features and upgrades were deployed based on 
+requests from the Department of Public Health (DPH) and MassHealth. These ranged 
+from minor adjustments to significant application improvements.  
+• Support for Business Applications : Beyond the CG nodes, the M&E team maintained 
+and enhanced several operational tools, including:  
+• The Customer Relationship Management (CRM) system  
+• The Mass HIway public website  
+• Dashboards and reporting tools for message monitoring and integrity  
+• Audit systems and internal utilities  
+This comprehensive support framework helped ensure that Mass HIway services remained 
+highly available, functional, and aligned with public health and provider needs.  
+Figure -10 Clinical Gateway Maintenance and Enhancement Projects  - 2024 
+CG Node  / Application  Projects  & Major  
+Enhancements  Maintenance  & 
+Support  Activities  
+Childhood  Lead  Poisoning  Prevention  Program  (CLPPP)  2 8 
+Syndromic  Surveillance  (Syndromic)  2 9 
+Children’s  Behavioral  Health  Initiative  (CBHI)  1 12 
+Massachusetts  Cancer  Registry  (MCR)  1 5 
+Electronic  Lab Reporting  (ELR) 1 6 
+Massachusetts  Immunization  Information  System  (MIIS)  4 11 
+Intake  Enrollment  and Assessment  Transfer  Service  
+(IEATS)  for Opioid  Treatment  Program  (OTP) 6 13 
+Mass  HIway  CRM  (Sugar  CRM) 3 12 
+Mass  HIway  Web 4 14 
+
+ 
+13 
+ Health  Check  Application   0  0 
+Infrastructure  (including  Gateway  updates)  4 12 
+CG Node  Common  Changes  & Report  Generation  8 21 
+Total 36 123 
+The Mass HIway maintained near -continuous system availability  throughout 2024, meeting its 
+uptime target of 99.9% . The only recorded downtime occurred during a scheduled maintenance 
+window in October for database updates.  
+Figure -11 Mass HIway Monthly Availability 2024 
+C.3 CG API -FHIR 202 4 TECHNICAL UPDATE  
+The Mass HIway continued advancing its Clinical Gateway (CG) API platform  in 2024, 
+strengthening the Commonwealth’s ability to support real-time, standards -based public health 
+reporting . These APIs align with national interoperability frameworks and the capability to 
+integrate FHIR (Fast Healthcare Interoperability Resources)  standards alongside secure 
+authorization protocols like OAuth 2.0.  
+While many providers still rely on Direct Messaging, the deployment of CG APIs reflects a 
+broader shift toward modern, flexible, and synchronous data exchange . This capability 
+supports the strategic vision of enabling multi -channel, real -time connectivity  across public 
+health use cases.  
+ 
+ 
+
+
+ 
+14 
+  
+Key Milestones and Progress in 2024:  
+• API Platform Stabilization:  All CG APIs are now fully operational, providing an 
+alternative to Direct Messaging for public health reporting. The platform supports both 
+RESTful and SOAP -based communication protocols.  
+• Security Enhancements:  OAuth 2.0 authorization and other modern authentication 
+protocols were implemented to support secure data transmission across endpoints.  
+• FHIR Readiness:  While public health FHIR use cases are still emerging, the CG API 
+infrastructure now supports message transform ation  and schema alignment for future 
+public health workflows based on FHIR.  
+• Strategic Modernization Alignment:  Several state initiatives are adopt ing FHIR -based 
+data exchange as a core requirement. For example:  
+• The Electronic Comprehensive Assessment System (eCAS)  is leveraging FHIR to 
+support CBHI workflows.  
+• The Registry of Vital Records and Statistics (RVRS)  is ad opting FHIR to 
+streamline reporting between healthcare providers and the RVRS backend.  
+The Mass HIway remains engaged with provider organizations, state partners, and national 
+stakeholders to identify meaningful FHIR use cases and to continuously expand the capabilities 
+of the CG API platform. While Direct Messaging will remain a critical co mponent of HIE in the 
+near term, the infrastructure now exists to support a hybrid environment  where APIs offer 
+faster, more adaptable pathways for data exchange.  
+C.4 CG API -FHIR 202 4 PROVIDER ENGAGEMENT UPDATE  
+In 2024, the Mass HIway successfully connected five large health systems and one behavioral 
+health EHR vendor to seven Department of Public Health (DPH) reporting registries via RESTful 
+API connections. These connections included eHana , a behavioral health EHR vendor, which 
+connected to the Intake Enrollment and Assessment Transfer Service (IEATS) ; Trinity Health of 
+New England , Tufts Medicine , and Boston Children’s Hospital , which connected to the 
+Syndromic Surveillance  RESTful API endpoint; and Cambridge Health Alliance , which 
+
+ 
+15 
+ connected not only to Syndromic Surveillance, but also to the Electronic Lab Reporting (ELR)  
+and Massachusetts Immunization Information System (MIIS)  RESTful API endpoints.  
+As of February 2025, a total of 13 RESTful API connections  to the Mass HIway are live across all 
+registries, with 17 additional organizations  actively onboarding or in the development and 
+testing process.  
+Figure -11 Mass HIway Clinical Gateway API Connection Status ( As of Feb 2025)  
+The onboarding of these organizations in 2024 contributed to a significant increase in API 
+message volume. As shown in the figure below, API transactions quadrupled from Q1 2024 to 
+over 4.4 million transactions in Q4 2024 , reflecting growing provider engagement and 
+continued momentum toward real -time, standards -based public health reporting.  
+
+
+ 
+16 
+ Figure -12 API Quarterly Transaction Volume  - 2024  
+ 
+D. MASS HIWAY ACCOUNT MANAGEMENT  
+A core function of the Mass HIway program is to support health information exchange (HIE) and 
+advance care coordination objectives among Massachusetts providers and the healthcare 
+system more broadly. Engagement and account management activities are orient ed to improve 
+the HIE operating environment  and address barriers and gaps for providers, state agencies and 
+other healthcare stakeholders.  
+D.1 PROVIDER DIRECTORY  AND DIRECTTRUST  OUTREACH  
+Accurate and up -to-date Provider Directory listings are essential for enabling providers and care 
+team members to exchange patient information for care coordination. The Provider Directory is 
+a foundational component of health information exchange, and inaccurate or outdated 
+information ca n hinder efforts to identify and communicate with the appropriate recipients.  
+The Mass HIway Provider Directory is a resource for organizations in the Commonwealth to find 
+information on providers with whom they need to exchange data. The Provider D irectory 
+includes information for HIway participants as well as other providers in Massachusetts who 
+use Direct Messaging services through other DirectTrust -accredited Health Information Service 
+Providers (HISPs).  
+
+
+ 
+17 
+ During 2024, the Mass HIway team applied SERV_DESC codes  to provide clearer descriptions of 
+the intended use cases for each Direct address. For example, "provider -provider -data -
+exchange" indicates that the address is used for provider -to-provider data sharing, while "care -
+coordination" reflects use across multi ple services. These codes do not specify the exact 
+services offered by the provider but help clarify the intended purpose of each Direct address.  
+Significant work was also completed in 2024 to support the inclusion of Taxonomy codes  in the 
+Provider D irectory in Q1 2025. These standardized identifiers categorize healthcare providers 
+and organizations by specialty and role, improving the accuracy and searchability of Provider 
+Directory listings. In response to customer feedback, the Provider D irectory format was also 
+updated to distinguish between organizational and individual Direct addresses. These 
+improvements support easier identification of the appropriate destination and help streamline 
+integration with Electronic Health Records (EHRs).  
+All of these changes were implemented to align with evolving DirectTrust standards , ensuring 
+compatibility and usability across the national Direct exchange ecosystem. These updates 
+reflect the Mass HIway’s ongoing commitment to advancing healthcare interoperability and 
+improving the quality of care.  
+Lastly, the Mass HIway team continues to actively participate in the DirectTrust national 
+Provider Directory workgroup , collaborating with vendors, providers, and patient advocates to 
+address the provider directory data integrity issues on a national scale.  
+D.2 PROVIDER ENGAGEMENT  
+During 2024, the Mass HIway onboarded 17 new organizations  for Direct Messaging 
+capabilities. Of these new connections, 6 are being used for care coordination, while 11 are 
+supporting public health reporting to the Department of Public Health (DPH). Of the 11 new 
+DPH connections, 9 are for lead reporting to CLPPP , and the remaining 2 are for reporting to 
+the Massachusetts Cancer Registry . 
+Notable accomplishments in 2024 include:  
+Modernization and Efficiency Outreach Campaign  
+The Account Management Team facilitated the retirement of 37 Connect devices  by guiding 
+providers through transitions to the Mass HIway APIs and other modern communication 
+methods. These transitions helped reduce reliance on more costly and less efficient technology, 
+resulting in significant savings to the Commonwealth and improve d performance for providers. 
+
+ 
+18 
+ The team also led a second initiative to decommission inactive webmail accounts , creating 
+further cost efficiencies.  
+Expansion to Dental Practices  
+The Mass HIway Account Management Team collaborated with three dental practices  across 
+14 locations  in Massachusetts: Baystate Dental  (11 locations), Monica Rao, DMD  (two 
+locations), and Evershine Dental . These providers, which are contracted with the Veterans 
+Affairs (VA), are using the Mass HIway to exchange records, referrals, and x -rays  with the VA —
+marking a notable expansion of HIE use within the dental community.  
+Boston Public Schools (BPS) Use Case  
+The Boston Public Schools (BPS) system, which serves more than 125 schools and 54,000 
+students , has expressed interest in enabling its in -school nursing teams to coordinate care with 
+pediatricians and other providers for complex, high -risk students. The Mass HIway Account 
+Management Team is actively guiding BPS through the onboarding process, and B PS plans to 
+implement an XDR connection  to the Mass HIway within its national school nurse EHR system. 
+As of the end of 2024, BPS is reviewing documentation internally and expects to move forward 
+with implementation in the coming year.  
+Other Opportunities  
+The team also met with the Office of the Medical Examiner (OCME) , which is seeking access to 
+provider records during examinations and is currently in the onboarding process. Additionally, 
+the Mass HIway team has engaged in conversations with the Department of Developmental 
+Services (DDS)  and the Disabled Persons Protection Commission (DPPC)  to explore how HIE 
+could support the exchange of critical information.  
+Further exploration is underway to assess the technical limitations and opportunities related to 
+health information exchange between EMS agencies and hospitals , and to determine how the 
+Mass HIway might help address these challenges.  
+In addition to managing new connections, the Mass HIway Account Management Team fielded 
+a high volume of calls and emails  from both current and prospective participants, as well as 
+members of the public. These interactions focused on explaining HIE service options, privacy 
+considerations, and procedures for accessing and sharing health data. The team also provided 
+guidance t o non -HIway participants on how to leverage Direct Messaging through their vendors 
+and how to access national provider directories.  
+
+ 
+19 
+ The team also worked with several digital health technology companies  to help them 
+understand how Direct Messaging and other exchange modalities could support their products 
+and services.  
+Finally, the Account Management Team provided direct support to individuals managing their 
+own or a family member’s health records , including coordinating exchange between Atrius 
+Medical and the VA , retrieving medical records from a closed practice , and supporting an out-
+of-state proxy  managing care for a Massachusetts resident.  
+E. STATEWIDE EVENT NOTIFICATION SERVICE FRAMEWORK  
+Event Notification Services (ENS)  allow hospitals to notify healthcare providers about 
+significant patient events, such as admissions, discharges, and transfers (ADTs) . The 
+Massachusetts Statewide ENS Framework , developed by EOHHS and the Mass HIway in 2021, 
+establishes an interoperable ENS network  composed of Certified ENS Vendors  who are 
+required to interconnect their systems to ensure cross -vendor alert delivery.  
+Before the implementation of the statewide framework, providers only received notifications if 
+both the hospital and the subscribing provider used the same ENS vendor. The statewide ENS 
+Framework changed this by requiring all acute care hospitals  in Massachusetts to send ADT 
+messages to at least one Certified ENS Vendor (see 101 CMR 20.08(4)).  
+To ensure full statewide coverage, Certified ENS Vendors must share alerts with each other, so 
+subscribers of any vendor can receive alerts from all acute care hospitals  across the 
+Commonwealth.  
+Certified ENS Vendors were approved by the Mass HIway based on criteria for functionality, 
+data security, data sharing, and business practices  that support reliability, accessibility, and 
+integrity of ENS data. Vendors are also required to submit quarterly reports  to the Mass HIway 
+under the terms of their contracts.  
+The Statewide ENS Framework officially launched on April 1, 2021.  
+E.1 ENS PROGRAM 202 4 ACTIVIT Y UPDATE  
+In January 202 5, Bamboo Health  and PointClickCare  were recertified  as the Commonwealth’s 
+Certified ENS Vendors under the Massachusetts Statewide ENS Framework. Both vendors have 
+participated in the program since its inception in 2021, and their recertification confirms that 
+
+ 
+20 
+ they continue to meet the required standards for functionality, data security, data sharing, and 
+business operations.  
+As part of the recertification process, the Mass HIway introduced updates to the Certified ENS 
+Vendor contract to strengthen the program. These updates included new or enhanced 
+requirements related to minimum vendor eligibility criteria, the submission of detailed 
+quarterly reporting metrics, the sharing of clinical information included in ADT messages with 
+subscribers, and an annual evaluation of the quality of ADT data feeds submitted by acute care 
+hospitals.  
+These enhanced requirements are intended to improve the Massachusetts ENS Framework’s 
+ability to deliver timely and actionable event notifications to providers, thereby supporting 
+better care coordination and improving the quality of care for patients thro ughout the 
+Commonwealth.  
+E.2 ENS/ADT REPORTING METRICS  
+As noted above, Certified ENS Vendors are required to submit quarterly reports  to the Mass 
+HIway. These reports allow the Mass HIway to monitor the Massachusetts ENS landscape and 
+track trends in ADT volumes , data quality , and subscriber usage . The data provides valuable 
+insights into the performance and impact of the State’s ENS Framework.  
+During 2024, an additional 1.2 million notifications  were delivered to Certified ENS Vendor 
+subscribers as a direct result of the statewide framework . See the accompanying figure  below  
+for more details.  
+
+ 
+21 
+ Figure -13 Additional Notifications Sent to ENS Vendor Subscribers  
+ 
+The updated ENS Vendor Quarterly Reporting Template also provided new visibility into the 
+quality of ADT data  submitted by acute care hospitals. Mass HIway has received feedback from 
+subscribers noting that ADTs often lack key clinical details, such as diagnoses. With the updated 
+reporting requirements, the Mass HIway can now monitor the fill rates  for important data 
+fields , such as demographics and clinical information , at the individual hospital level . 
+The figure below presents average fill rates  for both demographic and clinical data points from 
+Q4 of 2024 , across the two Certified ENS Vendors.  
+Figure -14 ENS Vendor Reporting Quality Metrics  – 2024 Q4  
+Quality of ADT Demographic Information  Vendor A  Vendor B  
+Average Fill Rate of Date of Birth  in ADTs  100%  100%  
+Average Fill Rate of Sex in ADTs  100%  100%  
+Average Fill Rate of Address  in ADTs  99%  99%  
+Average Fill Rate of City/Town  in ADTs  99%  99%  
+Average Fill Rate of Zip Code  in ADTs  99%  99%  
+Average Fill Rate of Phone Number  in ADTs  91%  92%  
+
+
+ 
+22 
+ Average Fill Rate of SSN in ADTs  77%  73%  
+Quality of ADT Clinical Information  Vendor A  Vendor B  
+Average Fill Rate of Chief Complaint  in A01 (Admit) Messages  32%  0%*  
+Average Fill Rate of Discharge Location  in A03 (Discharge) Messages  87%  84%  
+Encounter Diagnosis Fill Rate by Hours  Vendor A  Vendor B  
+Average Fill Rate of Encounters with Diagnosis Information  included within….  
+1 Hr . Post Discharge  54%  20%  
+12 Hrs . Post Discharge  56%  53%  
+24 Hrs . Post Discharge  57%  55%  
+48 Hrs . Post Discharge  61%  58%  
+72 Hrs . Post Discharge  64%  61%  
+*Note: Vendor B does not currently process ‘chief complaint ’ information,  but the functionality 
+is being developed  in 2025.  
+E.3 ENS/ADT L ANDSCAPE IMPROVEMENT EFFORTS  
+To support improved utilization of ADT alerts by subscribers, the Mass HIway team published 
+“ADT Alert Best Practices for Provider Organizations”  in February 2024. This document 
+provides background information on ADT alerts and the Massachusetts ENS Framework and 
+offers strategies to help provider organizations optimize how they use ADTs in ambulatory 
+settings.  
+The best practices document is organized into three key sections:  
+1. Understanding your organization’s ENS alert current state,  
+2. Optimizing ADT alert feeds, and  
+3. Using historical ADT data to inform operations.  
+It also includes two planning templates. One helps the provider organizations inventory and 
+assess the alerts they currently receive, while the second helps them plan how to optimize their 
+primary ADT alert feed. The document was made available on the Mass HIway website and was 
+shared with newsletter subscribe rs and ADT webinar attendees on February 22, 2024 . 
+
+ 
+23 
+ In addition to publishing the best practices, the Mass HIway team continued its collaboration 
+with the Massachusetts League of Community Health Centers  to help Federally Qualified 
+Health Centers (FQHCs)  improve their ADT alert follow -up workflows. The Mass HIway 
+presented on the ENS Framework and best practices during the Mass League’s Chief Medical 
+Officer Forum on March 20, 2024 , and co -hosted EHR -specific ADT workgroups with the 
+League.  
+Eight FQHCs using OCHIN Epic  participated in the first workgroup, and 11 FQHCs using CTC’s 
+platform  participated in the second. These 19 organizations represent 50% of all FQHCs  in 
+Massachusetts. Additional EHR -focused ADT workgroups are planned for 2025.  
+To proactively improve the quality of ADT feeds coming from acute care hospitals, the Mass 
+HIway added a new requirement to the Certified ENS Vendor contracts. Vendors must now 
+conduct annual evaluations  of each hospital's data feed, assessing factors like mapping, 
+connectivity, and data completeness. Vendors submitted these evaluations to the Mass HIway 
+by December 31, 2024 . 
+With these reports in hand, the Mass HIway has begun analyzing the findings to identify areas 
+for improvement and will collaborate with Certified ENS Vendors in 2025 to address any issues. 
+These evaluations lay the groundwork for ongoing quality improvement efforts  with hospitals 
+across the Commonwealth.  
+F. FEDERAL D EVELOPMENTS  
+The Mass HIway continues to monitor federal developments to understand and evaluate the 
+potential intersection with Mass HIway services and operations and any impact to the  health 
+information exchange landscape in Massachusetts.  
+F.1 FEDERAL LEGISLATION ACTIVITY AND MILESTONES  
+In 2024, federal agencies continued to advance health information exchange through a 
+combination of new rules, updated standards, and expanded interoperability infrastructure. 
+These efforts focused on enabling nationwide exchange, improving access to clini cal and 
+administrative data, and reinforcing transparency and patient empowerment.  
+The Trusted Exchange Framework and Common Agreement (TEFCA)  officially launched in 2024, 
+marking a major milestone in the nationwide interoperability agenda. Seven organizations were 
+designated as Qualified Health Information Networks (QHINs)  by the Office of the National 
+
+ 
+24 
+ Coordinator for Health Information Technology (ONC):  eHealth Exchange , Epic Nexus , Health 
+Gorilla , KONZA , MedAllies , CommonWell Health Alliance  and Kno2 . These QHINs began 
+exchanging health data under the Common Agreement, enabling cross -network queries for 
+treatment and individual access services. Massachusetts -based providers are assessing how 
+their health IT vendors plan to support TEFCA participation.  
+In January 2024, CMS finalized its Interoperability and Prior Authorization Rule (CMS -0057 -F), 
+requiring certain payers —including Medicaid and CHIP managed care entities —to implement 
+FHIR APIs for prior authorization workflows by 2027. The rule also strengthens existing API 
+requirements under the CMS Patient Access rule, aiming to reduce delays in  care and 
+administrative burden.  
+The ONC’s Health Data, Technology, and Interoperability (HTI -1) Final Rule , released in late 
+2023, saw implementation activity throughout 2024. The rule updates the ONC Health IT 
+Certification Program to require support for USCDI v3, transparency of AI -based clinical decision 
+support algorithms, and new privacy -enhancing feature s for patient access tools.  
+Additionally, ONC released USCDI Version 4 (v4)  in July 2024. This version expands on social 
+determinants of health, disability status, and other public health priorities, reinforcing the 
+commitment to data equity and completeness across exchange networks.  
+In December 2024, ONC also released the proposed HTI -2 Rule , which focuses on advancing 
+public health data modernization and FHIR -based exchange and  lays out future certification 
+criteria expected to shape the next phase of national interoperability efforts.  
+Together, these initiatives reflect a coordinated federal push to accelerate the adoption of 
+modern data standards, improve information flow across settings, and reduce friction for 
+patients and providers alike.  
+F.2 INFORMATION BLOCKING  
+The Information Blocking  rule, authorized by the 21st Century Cures Act, continues to drive 
+progress in ensuring equitable access to electronic health information (EHI). In June 2024, the 
+U.S. Department of Health and Human Services (HHS) finalized a rule establishing disincentives 
+for providers  found to have engaged in information blocking. These penalties include potential 
+exclusion from Medicare programs and participation in advanced payment models.  
+The ONC and the Office for Civil Rights (OCR) expanded their enforcement infrastructure in 
+2024 to address the growing number of complaints related to EHI access restrictions.  
+
+ 
+25 
+ The Mass HIway remains in full compliance  with the Information Blocking rule, as affirmed in 
+the Information Blocking Compliance Affirmation included in the Appendix. The Mass HIway’s 
+services —including Direct Messaging, Provider Directory, and Public Health Reporting 
+Gateway —support timely, secu re access and exchange of EHI across Massachusetts in 
+alignment with federal regulations.  
+G. IN FLIGHT  INITIATIVES  
+The Mass HIway participates in and supports a number of Executive Office of Health and 
+Human Services (EOHHS) initiatives, providing cross -disciplinary subject matter expertise to 
+advise on health information technology programs.  
+EOHHS is advancing several high -priority efforts to strengthen the Commonwealth’s health 
+information infrastructure and improve care coordination. These initiatives focus on 
+modernizing care transitions, supporting end -of-life planning, and enhancing acces s to timely, 
+accurate health data across care settings.  
+Two major initiatives that advanced significantly in 2024 include the launch of the Behavioral 
+Health Treatment and Referral Platform (BH TRP)  and the design and implementation of a 
+statewide electronic POLST (ePOLST) Registry . Both reflect a strong commitment to leveraging 
+technology to improve care delivery, reduce administrative burden, and support the needs of 
+individuals with complex medical and behavioral health conditions.  
+The following sections provide updates on each initiative’s progress and ongoing development.  
+H. BEHAVIORAL HEALTH TREATMENT & REFERRAL PLATFORM  
+Launched statewide in February 2025, the Behavioral Health Treatment and Referral Platform 
+(BH TRP)  supports the Commonwealth’s goal of creating a more efficient, transparent, and 
+coordinated behavioral health system, with a particular focus on reducing delays and improving 
+care transitions for individuals in need of psychiatric inpatient admission.  
+PointClickCare  was selected as the vendor  through a competitive procurement process  to 
+develop and operate the platform, which enables healthcare providers and behavioral health 
+facilities to electronically manage referrals through a standardized, real -time workflow. The 
+platform also supports faster response times and improv es communication across care settings. 
+It is used across emergency departments, inpatient psychiatric facilities, and other behavioral 
+
+ 
+26 
+ health providers to facilitate timely care coordination under the Expedited Psychiatric 
+Inpatient Admission (EPIA)  protocol.  
+Since launch, the platform has undergone regular enhancements based on user feedback and 
+performance monitoring. EOHHS and its technology partners continue to make system 
+improvements, expand user support resources, and lead outreach and education efforts to 
+encourage consistent adoption of digital workflows statewide.  
+The Mass HIway continues to collaborate with EOHHS leadership and stakeholders to advise on 
+data exchange design and ensure alignment of  the BH TRP with the Commonwealth’s broader 
+interoperability goals , support ing a modern, patient -centered behavioral health infrastructure.  
+I. POLST PROGRAM   
+EOHHS and the Executive Office of Aging & Independence (AGE), under the authority of  
+Chapter 268 of the Acts of 2022 , launched an initiative to transition Massachusetts to the 
+National POLST  (Portable Orders for Life -Sustaining Treatment)  paradigm. The goal is to 
+support patient preferences for end -of-life care through technology that enables care 
+coordination, improves cross -setting accessibility, and facilitates transferability between states.  
+In partnership with the Department of Public Health (DPH), AGE is leading the transition to the 
+National POLST model, while the Mass HIway is overseeing the technical project management 
+and implementation of a statewide electronic POLST (ePOLST) Registry . The vendor 
+MyDirectives  was selected through a competitive procurement process to build and customize 
+the system to meet Massachusetts -specific needs.  
+I.1 EPOLST REGISTRY 202 4 UPDATE  
+The mission of the Massachusetts POLST Program is to help people living with serious illnesses 
+and advancing frailty engage in active planning with their clinicians and care teams to ensure 
+that their treatment preferences are understood and honored, regar dless of their point of care.  
+The Massachusetts POLST Program goals are to:  
+• Align with national standards and best practices. Using the national POLST standard will 
+enable improved portability outside of Massachusetts.  
+• Establish POLST as an integral part of the advance care planning continuum in 
+Massachusetts. POLST is more than just a form. POLST is a clinical process that results in 
+
+ 
+27 
+ documenting patient preferences as a medical order that is honored regardless of the 
+care setting.  
+• Support effective care planning conversations for people with serious illness and 
+advancing age. We want to ensure that all clinical staff have appropriate tools for 
+effective, compassionate, and thorough conversations with patients.  
+• Ensure clear, reliable documentation about the program. We want to ensure that all 
+program components are well -documented and easily referenceable.  
+• Improve integration across all care settings with an electronic registry. The ePOLST 
+system, accessible across care settings, will provide a single “source of truth” and will be 
+available for integration into each organization’s electronic patient records.  
+• Continually improve the program. Continuously improve the POLST Program and 
+implement any new learnings.  
+Key Activities and Updates for 2024  
+The vendor contract with MyDirectives was executed on July 2, 2024 , and throughout the 
+remainder of the year, the vendor and state partners worked together to customize the registry 
+platform to meet Massachusetts -specific requirements. By year -end, customization was 
+approximately 90% complete . 
+A major focus of 2024 was stakeholder engagement . Advisory groups and development 
+partners were recruited to represent the full continuum of care, including state agencies, 
+providers, consumers, and EMS. The Consumer Advisory Group began meeting in June to 
+provide input on education materials, while lea dership and provider groups began convening in 
+December to help shape program development.  
+Engagement levels grew rapidly, with the stakeholder email list expanding from 210 to over 
+1,400 individuals . Four statewide update webinars were held in 2024, the first of which drew 
+550 attendees , with continued participation of 200+ per session . In addition, the program team 
+conducted:  
+• 12+ informational sessions with provider organizations  
+• 4 briefings for internal state agency partners  
+• 9 sessions with industry organizations  
+• 3 sessions with EMS providers  
+
+ 
+28 
+ • 6 focus groups  
+The POLST Program Director also actively engaged with the national community, participating 
+in training sessions and presenting at eight conferences and membership meetings . 
+Phase 1 of the pilot program  is scheduled to begin in March 2025 , following kickoff meetings 
+held with development partners in October. This phase will focus on testing the registry’s 
+training materials and user experience. Feedback will inform final customization and 
+preparations for integration with Electronic Health  Records (EHRs).  
+Figure -15 Anticipated Plan for MOLST to ePOLST Transition 202 4-2027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+29 
+ J. BUDGET  
+J.1 BACKGROUND  & FUNDING RATES  
+The Mass HIway’s operations are supported through a combination of state and federal funds , 
+along with participation fees  collected from provider organizations. The Massachusetts 
+Legislature established the Health Information Trust Fund  under M.G.L. c. 10, § 35RR, which 
+secures state appropriations to support the HIway’s operational and programmatic activities.  
+In addition to state funding, the Mass HIway receives federal support primarily through the 
+Medicaid Enterprise System (MES) program administered by the Centers for Medicare & 
+Medicaid Services (CMS). The level of federal financial participation varies dep ending on the 
+nature of the activity —whether it supports design and development, ongoing operations, or 
+other Medicaid -beneficial services.  
+Costs are allocated based on the extent to which activities support the Medicaid program, 
+ensuring compliance with CMS funding requirements and alignment with state and federal 
+health IT priorities.  
+Provider organizations that participate in the Mass HIway also contribute through annual fees , 
+which are assessed based on organization type and size, pursuant to 101 CMR 20.13 . These fees 
+help support the sustainability of the HIway’s services and infrastructure.  
+ 
+ 
+  
+
+ 
+30 
+ K. CONCLUSION  
+This report highlights the key services and activities undertaken by the Mass HIway and its 
+partners to advance health information exchange (HIE) and interoperability across the 
+Commonwealth. Through continued delivery of secure Direct Messaging, a robust Provider 
+Directory, and the operation of the Consolidated Clinical Gateway, the Mass HIway enables vital 
+public health reporting and care coordination among a wide range of healthcare organizations.  
+In 2024, the Mass HIway also supported major statewide initiatives, including the launch of the 
+Behavioral Health Treatment and Referral Platform and the development of the electronic 
+POLST Registry, reflecting its evolving role as a strategic partner in a dvancing the 
+Commonwealth’s health IT infrastructure.  
+Looking ahead, the Mass HIway will continue to engage providers, promote best practices, and 
+enhance its technical capabilities to align with national standards such as APIs and FHIR. These 
+efforts are central to supporting timely, patient -centered care, i mproving public health 
+outcomes, and enabling value -based care across Massachusetts.  
+ 
+  
+
+ 
+31 
+ L. APPENDIX  
+L.1 MASS HIWAY INFORMATION BLOCKING COMPLIANCE AFFIRMATION  
+ 
+ 
+ 
+ 
+Massachusetts Health Information Highway (Mass HIway)  Information Blocking Compliance 
+Affirmation  
+This document serves to affirm that the Massachusetts Health Information Highway (Mass 
+HIway), as a state -designated Health Information Exchange (HIE), is fully compliant with the 
+information blocking provisions as outlined in the 21st Century Cures Act an d implemented by 
+the Office of the National Coordinator for Health Information Technology (ONC). Operating 
+within a regulatory framework set by the Executive Office of Health and Human Services 
+(EOHHS) and informed by the Health Information Technology (HIT ) Council, the Mass HIway 
+upholds the following principles and practices:  
+1. Access and Exchange of EHI : The Mass HIway does not engage in practices that 
+inappropriately restrict the access, exchange, or use of electronic health information 
+(EHI). As our primary service is Direct Messaging, which ensures a secure method of 
+transmitting health information between authorized users, we provide a platform that 
+facilitates equal and timely access to EHI for treatment, payment, and healthcare 
+operations. While providers and Electronic Health Record (EHR) systems ultimately 
+control the access and exchange of EHI, the Mass HIway is committed to supporting our 
+participants in their efforts to comply with information blocking regulations. We 
+maintain the highe st standards of privacy and security, as evidenced by our end -to-end 
+encryption of Direct Messages, and we are dedicated to enabling seamless and secure 
+health information exchange within the healthcare ecosystem.  
+2. Reasonable Fees : Any fees associated with connecting to or using the Mass HIway are 
+reasonable, transparent, and based on the cost of providing the services. There are no 
+excessive fees that would inhibit the access, exchange, or use of EHI.  
+
+
+ 
+32 
+ 3. Non -Discriminatory Practices : The Mass HIway provides equal service to all participants 
+without preferential treatment or discrimination. All policies and procedures are applied 
+consistently across all entities and individuals.  
+4. Standard Implementation of IT : The Mass HIway utilizes standard, widely accepted 
+practices and technologies to facilitate the interoperability of health IT. This ensures 
+that the complexity or burden of accessing or exchanging EHI is minimized.  
+5. Timely Access to EHI : The Mass HIway ensures that there are no unnecessary delays in 
+the access, exchange, or use of EHI. All participants have timely access to the 
+information necessary for the provision of healthcare services.  
+6. Promotion of Interoperability : The Mass HIway actively promotes the interoperability 
+of health IT and does not engage in practices that limit such interoperability. We 
+support and utilize standardized APIs and formats for EHI that are widely supported and 
+facilitate the seamless excha nge of information.  
+7. Compliance with Regulatory Requirements : The Mass HIway adheres to a robust 
+regulatory framework. Certain organizations, such as Acute Care Hospitals, Community 
+Health Centers, and Medium -Large Medical Ambulatory Practices, are mandated to 
+connect to the Mass HIway or a DirectTrust Health Infor mation Service Provider (HISP) 
+for specified use cases, ensuring widespread and standardized participation.  
+8. Statewide Event Notification Service (ENS) Framework : The Mass HIway oversees a 
+network of Event Notification Services (ENS) provided by ENS Vendors certified by 
+EOHHS. This ensures that notifications about patient events are disseminated securely 
+and in a timely manner to authorized providers.  
+9. HIway Account Management and HIE Adoption Support : We provide comprehensive 
+assistance with the adoption and use of HIE technologies to enhance care coordination, 
+ensuring that our practices promote, rather than inhibit, the effective use of HIE.  
+10. Mass HIway Services : 
+• Health Information Service Provider (HISP) : Provides a trust framework for secure 
+communications and the ability to exchange encrypted messages that must be 
+deciphered using a public key infrastructure.  
+• Provider Directory : Offers provider information and destination addresses (Direct 
+Address) for providers and healthcare organizations, facilitating seamless and 
+efficient information exchange.  
+
+ 
+33 
+ • Direct Messaging : Ensures a secure method of transmitting health information 
+between authorized users. Direct Messages are encrypted end -to-end, and the Mass 
+HIway cannot access any information contained in the Direct Message 
+transmissions, safeguarding privacy and securi ty. 
+• Public Health Reporting Gateway : Offers a consolidated Massachusetts Public 
+Health Reporting data submission and processing, streamlining public health 
+initiatives and reporting.  
+In every aspect of our operation, the Mass HIway is dedicated to preventing information 
+blocking and fostering an environment where EHI is accessible, exchangeable, and usable in a 
+manner that is secure, efficient, and in the best interest of patient care.  We affirm our 
+unwavering commitment to these principles and practices, as they are fundamental to our 
+mission of enhancing the quality, safety, and efficiency of healthcare delivery in Massachusetts.  

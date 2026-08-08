@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H4231",
-  "title": "An Act authorizing the city of Cambridge to expand the options available to issue notices of violation for parking enforcement above the limits set forth in M.G.L. C. 90, §20A½ or other applicable state laws",
+  "title": "An Act authorizing the city of Cambridge to expand the options available to issue notices of violation for parking enforcement above the limits set forth in M.G.L. C. 90, \u00a720A\u00bd or other applicable state laws",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -316,6 +316,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T13:48:26Z"
+    "logs_latest_update": "2026-07-26T13:48:26Z",
+    "text_extraction_latest_update": "2026-08-08T00:21:56.382017Z"
   }
 }

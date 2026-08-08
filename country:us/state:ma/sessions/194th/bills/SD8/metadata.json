@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD8",
-  "title": "Massachusetts Clean Energy Technology Center’s (“MassCEC”)  FY 24 Report",
+  "title": "Massachusetts Clean Energy Technology Center\u2019s (\u201cMassCEC\u201d)  FY 24 Report",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Executive Office of Energy and Environmental Affairs (pursuant to Section 5 of Chapter 23 of the General Laws) submitting its \r\nMassachusetts Clean Energy Technology Center’s (“MassCEC”) fiscal year 2024 annual report"
+      "abstract": "Report of the Executive Office of Energy and Environmental Affairs (pursuant to Section 5 of Chapter 23 of the General Laws) submitting its \r\nMassachusetts Clean Energy Technology Center\u2019s (\u201cMassCEC\u201d) fiscal year 2024 annual report"
     }
   ],
   "other_titles": [],
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:17Z"
+    "logs_latest_update": "2026-07-21T23:17:17Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:34.265237Z"
   }
 }

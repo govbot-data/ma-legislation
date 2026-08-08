@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Massachusetts Sheriffs' Association (pursuant Section 40 of Chapter 126 of the General Laws) submitting its Worcester County Sheriff’s Office Third Quarter 2025 Population report"
+      "abstract": "Report of the Massachusetts Sheriffs' Association (pursuant Section 40 of Chapter 126 of the General Laws) submitting its Worcester County Sheriff\u2019s Office Third Quarter 2025 Population report"
     }
   ],
   "other_titles": [],
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:15Z"
+    "logs_latest_update": "2026-07-21T23:17:15Z",
+    "text_extraction_latest_update": "2026-08-08T00:20:07.309603Z"
   }
 }

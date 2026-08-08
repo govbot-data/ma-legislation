@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Feeney, a petition (accompanied by bill, Senate, No. 2392) of Paul R. Feeney for legislation to expand the Massachusetts Bay Transportation Authority “The Ride” services to communities within twenty-five miles of the city of Boston for medical purposes.  Transportation."
+      "abstract": "By Mr. Feeney, a petition (accompanied by bill, Senate, No. 2392) of Paul R. Feeney for legislation to expand the Massachusetts Bay Transportation Authority \u201cThe Ride\u201d services to communities within twenty-five miles of the city of Boston for medical purposes.  Transportation."
     }
   ],
   "other_titles": [],
@@ -140,6 +140,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:18Z"
+    "logs_latest_update": "2026-07-21T23:17:18Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:16.553652Z"
   }
 }

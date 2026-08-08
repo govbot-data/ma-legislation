@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1802",
-  "title": "An Act addressing squatter’s rights",
+  "title": "An Act addressing squatter\u2019s rights",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Jones of North Reading, a petition (accompanied by bill, House, No. 1802) of Bradley H. Jones, Jr., and others relative to squatter’s rights.  The Judiciary."
+      "abstract": "By Representative Jones of North Reading, a petition (accompanied by bill, House, No. 1802) of Bradley H. Jones, Jr., and others relative to squatter\u2019s rights.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -176,6 +176,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:36.689075Z"
   }
 }

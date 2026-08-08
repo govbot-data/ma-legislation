@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H389",
-  "title": "An Act to prohibit negative option sales and disclosure of financial and personal information without a consumer’s express agreement",
+  "title": "An Act to prohibit negative option sales and disclosure of financial and personal information without a consumer\u2019s express agreement",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -130,6 +130,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:21:37.630737Z"
   }
 }

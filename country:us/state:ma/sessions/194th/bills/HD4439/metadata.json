@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gómez of Easthampton, a petition (subject to Joint Rule 12) of Homar Gómez and Lindsay N. Sabadosa relative to charter school reimbursements.  Education."
+      "abstract": "By Representative G\u00f3mez of Easthampton, a petition (subject to Joint Rule 12) of Homar G\u00f3mez and Lindsay N. Sabadosa relative to charter school reimbursements.  Education."
     }
   ],
   "other_titles": [],
@@ -46,7 +46,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -92,6 +92,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:08.625730Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H233",
-  "title": "An Act relative to children’s advocacy centers and the Massachusetts children’s alliance",
+  "title": "An Act relative to children\u2019s advocacy centers and the Massachusetts children\u2019s alliance",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Finn of West Springfield, a petition (accompanied by bill, House, No. 233) of Michael J. Finn relative to children’s advocacy centers and the Massachusetts children’s alliance.  Children, Families and Persons with Disabilities."
+      "abstract": "By Representative Finn of West Springfield, a petition (accompanied by bill, House, No. 233) of Michael J. Finn relative to children\u2019s advocacy centers and the Massachusetts children\u2019s alliance.  Children, Families and Persons with Disabilities."
     }
   ],
   "other_titles": [],
@@ -142,6 +142,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z",
+    "text_extraction_latest_update": "2026-08-08T00:32:54.581022Z"
   }
 }

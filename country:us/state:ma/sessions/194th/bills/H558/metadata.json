@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H558",
-  "title": "An Act to promote the inclusion of American Sign Language in the Commonwealth’s public schools, AKA The American Sign Language Inclusion Act",
+  "title": "An Act to promote the inclusion of American Sign Language in the Commonwealth\u2019s public schools, AKA The American Sign Language Inclusion Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -194,7 +194,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -210,7 +210,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -254,6 +254,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:22:51.172441Z"
   }
 }

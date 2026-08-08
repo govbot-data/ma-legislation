@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5569",
-  "title": "A communication from the Office of the Veteran Advocate (see Section 2 of Chapter 115B of the General Laws) submitting the Understanding Massachusetts’ Municipal Veterans Service Officer report for fiscal year 2025",
+  "title": "A communication from the Office of the Veteran Advocate (see Section 2 of Chapter 115B of the General Laws) submitting the Understanding Massachusetts\u2019 Municipal Veterans Service Officer report for fiscal year 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z"
+    "logs_latest_update": "2026-07-21T23:17:20Z",
+    "text_extraction_latest_update": "2026-08-08T00:17:29.102354Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 4572) of Samantha Montaño (with the approval of the mayor and city council) for legislation to authorize the appointment of Doumy Pamera as a police officer in the city of Boston, notwithstanding the maximum age requirement.  Public Service.  [Local Approval Received.]"
+      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 4572) of Samantha Monta\u00f1o (with the approval of the mayor and city council) for legislation to authorize the appointment of Doumy Pamera as a police officer in the city of Boston, notwithstanding the maximum age requirement.  Public Service.  [Local Approval Received.]"
     }
   ],
   "other_titles": [],
@@ -186,7 +186,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -230,6 +230,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:32:21.695304Z"
   }
 }

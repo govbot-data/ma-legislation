@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the committee of conference on the disagreeing votes of the two branches with reference to the House amendment to the Senate Bill making appropriations for the fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects (Senate, No. 2540) (amended by the House by striking out all after the enacting clause and inserting in place thereof the text of House document numbered 4265),-- reports, in part, a “Bill making appropriations for the fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects.” (Senate, No. 2575)."
+      "abstract": "Report of the committee of conference on the disagreeing votes of the two branches with reference to the House amendment to the Senate Bill making appropriations for the fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects (Senate, No. 2540) (amended by the House by striking out all after the enacting clause and inserting in place thereof the text of House document numbered 4265),-- reports, in part, a \u201cBill making appropriations for the fiscal year 2025 to provide for supplementing certain existing appropriations and for certain other activities and projects.\u201d (Senate, No. 2575)."
     }
   ],
   "other_titles": [],
@@ -200,6 +200,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z",
+    "text_extraction_latest_update": "2026-08-08T00:41:00.818883Z"
   }
 }

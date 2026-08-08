@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H4375",
-  "title": "An Act to preserve and advance Massachusetts’ competitiveness in discovery, research, and innovation for a vibrant economy",
+  "title": "An Act to preserve and advance Massachusetts\u2019 competitiveness in discovery, research, and innovation for a vibrant economy",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Message from Her Excellency the Governor recommending legislation relative to preserve and advance Massachusetts’ competitiveness in discovery, research, and innovation for a vibrant economy"
+      "abstract": "Message from Her Excellency the Governor recommending legislation relative to preserve and advance Massachusetts\u2019 competitiveness in discovery, research, and innovation for a vibrant economy"
     }
   ],
   "other_titles": [],
@@ -140,6 +140,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:54.937468Z"
   }
 }

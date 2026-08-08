@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5050",
-  "title": "An Act making appropriations for the fiscal year 2026 to provide for supplementing certain existing appropriations and for responding to recent federal actions",
+  "title": "An Act making appropriations for the fiscal year\u202f2026\u202fto provide for supplementing certain existing appropriations and for responding to recent federal actions",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -105,6 +105,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:15Z"
+    "logs_latest_update": "2026-07-21T23:17:15Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:14.691322Z"
   }
 }

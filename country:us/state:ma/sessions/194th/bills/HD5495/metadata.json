@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5495",
-  "title": "A communication from the Massachusetts Sheriffs’ Association (see item 8910-7110 contained in Section 2 of Chapter 140 of the Acts of 2024) submitting its Inventory of Programs, Services, Interventions and Reinvestments (PSI) Comprehensive Matrix for calendar year 2025",
+  "title": "A communication from the Massachusetts Sheriffs\u2019 Association (see item 8910-7110 contained in Section 2 of Chapter 140 of the Acts of 2024) submitting its Inventory of Programs, Services, Interventions and Reinvestments (PSI) Comprehensive Matrix for calendar year 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z",
+    "text_extraction_latest_update": "2026-08-08T00:39:44.276887Z"
   }
 }

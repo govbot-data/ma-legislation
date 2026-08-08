@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3184",
-  "title": "Children’s Behavioral Health Knowledge Center 2024 Annual Report",
+  "title": "Children\u2019s Behavioral Health Knowledge Center 2024 Annual Report",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Department of Mental Health (pursuant to Chapter 321 of the Acts of 2008) submitting the Children’s Behavioral Health Knowledge Center 2024 annual report"
+      "abstract": "Report of the Department of Mental Health (pursuant to Chapter 321 of the Acts of 2008) submitting the Children\u2019s Behavioral Health Knowledge Center 2024 annual report"
     }
   ],
   "other_titles": [],
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:21.508008Z"
   }
 }

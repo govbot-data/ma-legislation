@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Connolly of Cambridge, a petition (accompanied by bill, House, No. 145) of Mike Connolly, Samantha Montaño and Manny Cruz for legislation to expand cannabis delivery.  Cannabis Policy."
+      "abstract": "By Representative Connolly of Cambridge, a petition (accompanied by bill, House, No. 145) of Mike Connolly, Samantha Monta\u00f1o and Manny Cruz for legislation to expand cannabis delivery.  Cannabis Policy."
     }
   ],
   "other_titles": [],
@@ -84,7 +84,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -144,6 +144,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:36:13.062624Z"
   }
 }

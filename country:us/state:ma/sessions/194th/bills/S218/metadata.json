@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S218",
-  "title": "An Act relative to social work uplifting practices and exam removal (“The SUPER Act”)",
+  "title": "An Act relative to social work uplifting practices and exam removal (\u201cThe SUPER Act\u201d)",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. DiDomenico, a petition (accompanied by bill, Senate, No. 218) of Sal N. DiDomenico, Joanne M. Comerford, Manny Cruz, Paul R. Feeney and other members of the General Court for legislation relative to Social Work Uplifting Practices and Exam Removal (“The SUPER Act”).  Consumer Protection and Professional Licensure."
+      "abstract": "By Mr. DiDomenico, a petition (accompanied by bill, Senate, No. 218) of Sal N. DiDomenico, Joanne M. Comerford, Manny Cruz, Paul R. Feeney and other members of the General Court for legislation relative to Social Work Uplifting Practices and Exam Removal (\u201cThe SUPER Act\u201d).  Consumer Protection and Professional Licensure."
     }
   ],
   "other_titles": [],
@@ -252,6 +252,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:11.742299Z"
   }
 }

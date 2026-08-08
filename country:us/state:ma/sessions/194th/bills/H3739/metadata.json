@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3739",
-  "title": "An Act allowing for partial payment of fines relating to driver’s license suspension or revocation",
+  "title": "An Act allowing for partial payment of fines relating to driver\u2019s license suspension or revocation",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -158,6 +158,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:49.485133Z"
   }
 }

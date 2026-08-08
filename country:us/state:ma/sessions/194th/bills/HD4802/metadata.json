@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4802",
-  "title": "A communication from the Department of Public Health (see Section 83 of Chapter 179 of the Acts of 2022) submitting a report entitled: “Methods, Best Practices, and Standards for Achieving Green and Healthy Schools in the Commonwealth of Massachusetts”",
+  "title": "A communication from the Department of Public Health (see Section 83 of Chapter 179 of the Acts of 2022) submitting a report entitled: \u201cMethods, Best Practices, and Standards for Achieving Green and Healthy Schools in the Commonwealth of Massachusetts\u201d",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:14.785609Z"
   }
 }

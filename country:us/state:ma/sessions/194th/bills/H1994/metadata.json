@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Sousa of Framingham and Cruz of Salem, a petition (accompanied by bill, House, No. 1994) of Priscila S. Sousa, Manny Cruz and Carlos González relative to protecting tenants from retaliation and coercion by threat of disclosing immigration status.  The Judiciary."
+      "abstract": "By Representatives Sousa of Framingham and Cruz of Salem, a petition (accompanied by bill, House, No. 1994) of Priscila S. Sousa, Manny Cruz and Carlos Gonz\u00e1lez relative to protecting tenants from retaliation and coercion by threat of disclosing immigration status.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -92,7 +92,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -100,7 +100,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -152,6 +152,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:16.528092Z"
   }
 }

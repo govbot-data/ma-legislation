@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S980",
-  "title": "An Act relative to the condominium owners’ rights",
+  "title": "An Act relative to the condominium owners\u2019 rights",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Ms. Edwards, a petition (accompanied by bill, Senate, No. 980) of Lydia Edwards and Robyn K. Kennedy for legislation relative to the Condominium Owners’ Rights Act (CORA).  Housing."
+      "abstract": "By Ms. Edwards, a petition (accompanied by bill, Senate, No. 980) of Lydia Edwards and Robyn K. Kennedy for legislation relative to the Condominium Owners\u2019 Rights Act (CORA).  Housing."
     }
   ],
   "other_titles": [],
@@ -192,6 +192,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z"
+    "logs_latest_update": "2026-07-21T23:17:14Z",
+    "text_extraction_latest_update": "2026-08-08T00:22:54.404060Z"
   }
 }

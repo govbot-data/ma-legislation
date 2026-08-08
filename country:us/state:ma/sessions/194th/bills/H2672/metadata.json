@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2672",
-  "title": "An Act relative to firearm industry accountability and gun violence victims’ access to justice",
+  "title": "An Act relative to firearm industry accountability and gun violence victims\u2019 access to justice",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -160,7 +160,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -364,6 +364,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:14.783502Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S497",
-  "title": "An Act clarifying the role of governor’s councillor on the ballot",
+  "title": "An Act clarifying the role of governor\u2019s councillor on the ballot",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Barrett, a petition (accompanied by bill, Senate, No. 497) of Michael J. Barrett, Michael D. Brady, Paul W. Mark, James B. Eldridge and other members of the Senate for legislation to clarify the role of governor’s councillor on the ballot.  Election Laws."
+      "abstract": "By Mr. Barrett, a petition (accompanied by bill, Senate, No. 497) of Michael J. Barrett, Michael D. Brady, Paul W. Mark, James B. Eldridge and other members of the Senate for legislation to clarify the role of governor\u2019s councillor on the ballot.  Election Laws."
     }
   ],
   "other_titles": [],
@@ -182,6 +182,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:34.282689Z"
   }
 }

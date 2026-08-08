@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1751",
-  "title": "Resolve establishing a commission to study the Commonwealth’s response to and resources for victims of domestic violence and sexual assault",
+  "title": "Resolve establishing a commission to study the Commonwealth\u2019s response to and resources for victims of domestic violence and sexual assault",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. O'Connor, a petition (accompanied by resolve, Senate, No. 1751) of Patrick M. O'Connor that provisions be made for an investigation and study by a special commission to study the Commonwealth’s response to and resources for victims of domestic violence and sexual assault.  Public Safety and Homeland Security."
+      "abstract": "By Mr. O'Connor, a petition (accompanied by resolve, Senate, No. 1751) of Patrick M. O'Connor that provisions be made for an investigation and study by a special commission to study the Commonwealth\u2019s response to and resources for victims of domestic violence and sexual assault.  Public Safety and Homeland Security."
     }
   ],
   "other_titles": [],
@@ -134,6 +134,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z",
+    "text_extraction_latest_update": "2026-08-08T00:42:51.536069Z"
   }
 }

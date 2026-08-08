@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, November 13, 2025 -- Text of the Senate amendment to the House Bill modernizing the commonwealth’s cannabis laws (House, No. 4206)"
+      "abstract": "Senate, November 13, 2025 -- Text of the Senate amendment to the House Bill modernizing the commonwealth\u2019s cannabis laws (House, No. 4206)"
     }
   ],
   "other_titles": [],
@@ -695,6 +695,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:35:02.227774Z"
   }
 }

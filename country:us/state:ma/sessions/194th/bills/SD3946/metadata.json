@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3946",
-  "title": "Final Report on Sheriffs’ Budgets and Expenditures",
+  "title": "Final Report on Sheriffs\u2019 Budgets and Expenditures",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of Office of the Inspector General (pursuant to Section 164 of Chapter 73 of the Acts of 2025 and Section 12 of Chapter 12A of the General Laws) submitting its final report on Sheriffs’ Budgets and Expenditures"
+      "abstract": "Report of Office of the Inspector General (pursuant to Section 164 of Chapter 73 of the Acts of 2025 and Section 12 of Chapter 12A of the General Laws) submitting its final report on Sheriffs\u2019 Budgets and Expenditures"
     }
   ],
   "other_titles": [],
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:16Z"
+    "logs_latest_update": "2026-07-21T23:17:16Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:49.455277Z"
   }
 }

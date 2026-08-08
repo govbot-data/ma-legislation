@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD2890",
-  "title": "Lynnfield Center Water District’s Approval Interbasin Transfer report",
+  "title": "Lynnfield Center Water District\u2019s Approval Interbasin Transfer report",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Water Resources Commission (pursuant to Section 8C of Chapter 21 of the General Laws) summitting its findings, justifications, and decisions relating to the approval of the Lynnfield Center Water District’s Interbasin Transfer report"
+      "abstract": "Report of the Water Resources Commission (pursuant to Section 8C of Chapter 21 of the General Laws) summitting its findings, justifications, and decisions relating to the approval of the Lynnfield Center Water District\u2019s Interbasin Transfer report"
     }
   ],
   "other_titles": [],
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:15Z"
+    "logs_latest_update": "2026-07-21T23:17:15Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:12.125134Z"
   }
 }

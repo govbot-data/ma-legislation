@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3170",
-  "title": "Committee for Public Counsel Services Staffing Expansion Plan for FY26–FY27",
+  "title": "Committee for Public Counsel Services Staffing Expansion Plan for FY26\u2013FY27",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Committee for Public Counsel Services (pursuant to line Item 0321-1599 of Chapter 14 of the Acts of 2025) submitting its Staffing Expansion Plan for Fiscal Year 2026–Fiscal Year 2027"
+      "abstract": "Report of the Committee for Public Counsel Services (pursuant to line Item 0321-1599 of Chapter 14 of the Acts of 2025) submitting its Staffing Expansion Plan for Fiscal Year 2026\u2013Fiscal Year 2027"
     }
   ],
   "other_titles": [],
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z"
+    "logs_latest_update": "2026-07-21T23:17:14Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:21.517711Z"
   }
 }

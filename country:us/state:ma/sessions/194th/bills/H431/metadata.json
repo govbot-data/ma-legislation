@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Madaro of Boston and González of Springfield, a petition (accompanied by bill, House, No. 431) of Adrian C. Madaro and Christopher J. Worrell for legislation to further regulate real estate brokers and salespersons.  Consumer Protection and Professional Licensure."
+      "abstract": "By Representatives Madaro of Boston and Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 431) of Adrian C. Madaro and Christopher J. Worrell for legislation to further regulate real estate brokers and salespersons.  Consumer Protection and Professional Licensure."
     }
   ],
   "other_titles": [],
@@ -136,6 +136,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:28:59.881433Z"
   }
 }

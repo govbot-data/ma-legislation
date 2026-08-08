@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 3111) of Carlos González relative to establishing the micro business fund.  Revenue."
+      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 3111) of Carlos Gonz\u00e1lez relative to establishing the micro business fund.  Revenue."
     }
   ],
   "other_titles": [],
@@ -90,7 +90,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -142,6 +142,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:16:01.564979Z"
   }
 }

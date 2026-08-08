@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Michael J. Moran of Boston, a petition (accompanied by bill, House, No. 3199) of Michael J. Moran relative to establishing a sales tax exemption on Earth Day for purchases of “Energy Star” products, so-called, and hybrid motor vehicles.  Revenue."
+      "abstract": "By Representative Michael J. Moran of Boston, a petition (accompanied by bill, House, No. 3199) of Michael J. Moran relative to establishing a sales tax exemption on Earth Day for purchases of \u201cEnergy Star\u201d products, so-called, and hybrid motor vehicles.  Revenue."
     }
   ],
   "other_titles": [],
@@ -140,6 +140,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:30:55.443032Z"
   }
 }

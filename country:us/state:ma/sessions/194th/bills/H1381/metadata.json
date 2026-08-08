@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H1381",
-  "title": "An Act relative to stabilizing the Commonwealth’s nursing facilities",
+  "title": "An Act relative to stabilizing the Commonwealth\u2019s nursing facilities",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -140,6 +140,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z",
+    "text_extraction_latest_update": "2026-08-08T00:20:55.454784Z"
   }
 }

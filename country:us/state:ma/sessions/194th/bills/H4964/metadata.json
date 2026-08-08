@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gómez of Easthampton, a petition (accompanied by bill, House, No. 4964) of Homar Gómez (by vote of the town) that the town of South Hadley be authorized to grant additional licenses for the sale of all alcoholic beverages in said town.  Consumer Protection and Professional Licensure.  [Local Approval Received.]"
+      "abstract": "By Representative G\u00f3mez of Easthampton, a petition (accompanied by bill, House, No. 4964) of Homar G\u00f3mez (by vote of the town) that the town of South Hadley be authorized to grant additional licenses for the sale of all alcoholic beverages in said town.  Consumer Protection and Professional Licensure.  [Local Approval Received.]"
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:13Z"
+    "logs_latest_update": "2026-07-21T23:17:13Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:34.948023Z"
   }
 }

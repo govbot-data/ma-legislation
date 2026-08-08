@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H867",
-  "title": "An Act relative to bake sales, farmer’s markets, or community festivals by political party committees",
+  "title": "An Act relative to bake sales, farmer\u2019s markets, or community festivals by political party committees",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Roy of Franklin, a petition (accompanied by bill, House, No. 867) of Jeffrey N. Roy relative to campaign contributions at bake sales, farmer’s markets, or community festivals by political party committees.  Election Laws."
+      "abstract": "By Representative Roy of Franklin, a petition (accompanied by bill, House, No. 867) of Jeffrey N. Roy relative to campaign contributions at bake sales, farmer\u2019s markets, or community festivals by political party committees.  Election Laws."
     }
   ],
   "other_titles": [],
@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z"
+    "logs_latest_update": "2026-07-21T23:17:20Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:39.603481Z"
   }
 }

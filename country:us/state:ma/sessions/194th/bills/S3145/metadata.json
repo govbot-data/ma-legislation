@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, June 25, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill to improve outdoor lighting, conserve energy, and increase dark-sky visibility (Senate, No. 2243),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3145)."
+      "abstract": "Senate, June 25, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill to improve outdoor lighting, conserve energy, and increase dark-sky visibility\u00a0(Senate, No. 2243),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3145)."
     }
   ],
   "other_titles": [],
@@ -205,6 +205,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z",
+    "text_extraction_latest_update": "2026-08-08T00:28:30.956308Z"
   }
 }

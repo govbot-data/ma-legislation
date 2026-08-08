@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4506",
-  "title": "An Act relative to a sick leave bank for Stephen Brophy, an employee of the Worcester County Sheriff’s Office",
+  "title": "An Act relative to a sick leave bank for Stephen Brophy, an employee of the Worcester County Sheriff\u2019s Office",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Frost of Auburn, a petition (subject to Joint Rule 12) of Paul K. Frost and Michael O. Moore for legislation to establish a sick leave bank for Stephen Brophy, an employee of the Worcester County Sheriff’s Office.  Public Service."
+      "abstract": "By Representative Frost of Auburn, a petition (subject to Joint Rule 12) of Paul K. Frost and Michael O. Moore for legislation to establish a sick leave bank for Stephen Brophy, an employee of the Worcester County Sheriff\u2019s Office.  Public Service."
     }
   ],
   "other_titles": [],
@@ -92,6 +92,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:23:25.835425Z"
   }
 }

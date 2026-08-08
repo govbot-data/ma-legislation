@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S115",
-  "title": "An Act establishing a Massachusetts children’s cabinet",
+  "title": "An Act establishing a Massachusetts children\u2019s cabinet",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. DiDomenico, a petition (accompanied by bill, Senate, No. 115) of Sal N. DiDomenico for legislation to establish a Massachusetts children’s cabinet.  Children, Families and Persons with Disabilities."
+      "abstract": "By Mr. DiDomenico, a petition (accompanied by bill, Senate, No. 115) of Sal N. DiDomenico for legislation to establish a Massachusetts children\u2019s cabinet.  Children, Families and Persons with Disabilities."
     }
   ],
   "other_titles": [],
@@ -158,6 +158,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z",
+    "text_extraction_latest_update": "2026-08-08T00:23:25.865641Z"
   }
 }

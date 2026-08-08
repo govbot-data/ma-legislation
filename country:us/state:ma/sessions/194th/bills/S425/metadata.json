@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S425",
-  "title": "An Act to promote the inclusion of American Sign Language in the Commonwealth’s public schools, AKA The American Sign Language Inclusion Act",
+  "title": "An Act to promote the inclusion of American Sign Language in the Commonwealth\u2019s public schools, AKA The American Sign Language Inclusion Act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Oliveira, a petition (accompanied by bill, Senate, No. 425) of Jacob R. Oliveira, Steven George Xiarhos and Antonio F. D. Cabral for legislation to promote the inclusion of American Sign Language in the Commonwealth’s public schools.  Education."
+      "abstract": "By Mr. Oliveira, a petition (accompanied by bill, Senate, No. 425) of Jacob R. Oliveira, Steven George Xiarhos and Antonio F. D. Cabral for legislation to promote the inclusion of American Sign Language in the Commonwealth\u2019s public schools.  Education."
     }
   ],
   "other_titles": [],
@@ -108,7 +108,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -168,6 +168,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:17:44.684983Z"
   }
 }

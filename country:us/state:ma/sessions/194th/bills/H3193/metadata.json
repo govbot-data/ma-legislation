@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3193",
-  "title": "An Act establishing the Martha’s Vineyard housing bank",
+  "title": "An Act establishing the Martha\u2019s Vineyard housing bank",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Moakley of Falmouth, a petition (accompanied by bill, House, No. 3193) of Thomas W. Moakley for legislation to establish the Martha’s Vineyard housing bank.  Revenue."
+      "abstract": "By Representative Moakley of Falmouth, a petition (accompanied by bill, House, No. 3193) of Thomas W. Moakley for legislation to establish the Martha\u2019s Vineyard housing bank.  Revenue."
     }
   ],
   "other_titles": [],
@@ -154,6 +154,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:20:13.933907Z"
   }
 }

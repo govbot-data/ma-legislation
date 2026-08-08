@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H4833",
-  "title": "An Act to eliminate fees for the removal of a child’s body by the Office of the Chief Medical Examiner",
+  "title": "An Act to eliminate fees for the removal of a child\u2019s body by the Office of the Chief Medical Examiner",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -70,7 +70,7 @@
       "organization_id": "~{\"name\": \"Joint Committee on Public Health\"}"
     },
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -108,6 +108,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z"
+    "logs_latest_update": "2026-07-21T23:17:20Z",
+    "text_extraction_latest_update": "2026-08-08T00:41:34.248305Z"
   }
 }

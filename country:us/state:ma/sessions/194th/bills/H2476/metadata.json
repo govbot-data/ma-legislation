@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2476",
-  "title": "An Act to finance the Betsy Lehman Center’s statewide provider health care safety education pilot program",
+  "title": "An Act to finance the Betsy Lehman Center\u2019s statewide provider health care safety education pilot program",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Lawn of Watertown, a petition (accompanied by bill, House, No. 2476) of John J. Lawn, Jr. for legislation to finance the Betsy Lehman Center’s statewide provider health care safety education pilot program.  Public Health."
+      "abstract": "By Representative Lawn of Watertown, a petition (accompanied by bill, House, No. 2476) of John J. Lawn, Jr. for legislation to finance the Betsy Lehman Center\u2019s statewide provider health care safety education pilot program.  Public Health."
     }
   ],
   "other_titles": [],
@@ -144,6 +144,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:52.790213Z"
   }
 }

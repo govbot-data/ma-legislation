@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Ms. Miranda, a petition (accompanied by proposal for constitutional amendment, Senate, No. 7) of Liz Miranda, Patricia D. Jehlen, Adam Gómez, Joanne M. Comerford and others for a legislative amendment to the Constitution relative to voting rights.  Election Laws."
+      "abstract": "By Ms. Miranda, a petition (accompanied by proposal for constitutional amendment, Senate, No. 7) of Liz Miranda, Patricia D. Jehlen, Adam G\u00f3mez, Joanne M. Comerford and others for a legislative amendment to the Constitution relative to voting rights.  Election Laws."
     }
   ],
   "other_titles": [],
@@ -102,7 +102,7 @@
       "organization_id": null
     },
     {
-      "name": "Adam Gómez",
+      "name": "Adam G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -162,6 +162,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:13Z"
+    "logs_latest_update": "2026-07-21T23:17:13Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:14.540668Z"
   }
 }

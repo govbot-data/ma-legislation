@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Crighton, a petition (accompanied by bill, Senate, No. 845) of Brendan P. Crighton for legislation to not restrict or limit an eligible hospital’s access to the discounted purchase of prescription drugs in the Medicaid program.  Health Care Financing."
+      "abstract": "By Mr. Crighton, a petition (accompanied by bill, Senate, No. 845) of Brendan P. Crighton for legislation to not restrict or limit an eligible hospital\u2019s access to the discounted purchase of prescription drugs in the Medicaid program.  Health Care Financing."
     }
   ],
   "other_titles": [],
@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:00.055430Z"
   }
 }

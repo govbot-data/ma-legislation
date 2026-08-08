@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Philips of Sharon, a petition (accompanied by bill, House, No. 3762) of Edward R. Philips for legislation to expand the Massachusetts Bay Transportation Authority “The Ride” services to communities within twenty-five miles of the city of Boston for medical purposes.  Transportation."
+      "abstract": "By Representative Philips of Sharon, a petition (accompanied by bill, House, No. 3762) of Edward R. Philips for legislation to expand the Massachusetts Bay Transportation Authority \u201cThe Ride\u201d services to communities within twenty-five miles of the city of Boston for medical purposes.  Transportation."
     }
   ],
   "other_titles": [],
@@ -154,6 +154,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:52.777707Z"
   }
 }

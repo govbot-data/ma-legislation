@@ -1,0 +1,1310 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+1 of 1 HOUSE DOCKET, NO. 6293        FILED ON: 8/4/2026 
+HOUSE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  No.          
+ 
+The Commonwealth of Massachusetts 
+_________________ 
+PRESENTED BY: 
+Erika Uyterhoeven 
+_________________ 
+To the Honorable Senate and House of Representatives of the Commonwealth of Massachusetts in General 
+ Court assembled: 
+ The undersigned legislators and/or citizens respectfully petition for the adoption of the accompanying bill: 
+An Act establishing the Massachusetts Digital Commonwealth. 
+_______________ 
+PETITION OF: 
+ 
+NAME: DISTRICT/ADDRESS: DATE ADDED: 
+Erika Uyterhoeven 27th Middlesex 8/4/2026 
+
+1 of 58 HOUSE DOCKET, NO. 6293        FILED ON: 8/4/2026 
+HOUSE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  No.          
+[Pin Slip] 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Fourth General Court 
+(2025-2026) 
+_______________ 
+ 
+An Act establishing the Massachusetts Digital Commonwealth. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1  SECTION 1. Findings and Declarations. 
+2  (a) Artificial intelligence is becoming ubiquitous across the Commonwealth. In 
+3 particular, the systems are used to impact decisions around housing, employment, healthcare, 
+4 education, social development and interactions, and access to public services. The outcomes and 
+5 inferences, the process by which a deployed machine learning model or generative AI system 
+6 produces outputs, are not transparent to the individuals and residents they affect. It is readily 
+7 apparent these systems shape the livelihoods and socioeconomic development of Massachusetts 
+8 residents often without their knowledge. 
+9  (b) The invisible use of AI systems in consequential decisions around human life, 
+10 development, and dignity is the primary risk to an individual's cognitive sovereignty and to 
+11 democratic governance itself. These systems have the capability to assess residents without 
+12 disclosure, modify an individual's or collective group's experience based on an assessment, and 
+13 shape what information they receive, how options or decisions are framed, and what a person 
+
+2 of 58 14 comes to believe is possible. This is drawn from the data collected about them through the 
+15 interaction between human and AI systems and characteristics the system inferred from it; all 
+16 invisibly and without the individual's knowledge. 
+17  (c) Article 89 of the Amendments to the Massachusetts Constitution, specifically the 
+18 Home Rule Amendment approved by voters in 1966, and Bloom v. Worcester, 363 Mass. 136 
+19 (1973) give municipalities the autonomy to draft and enforce ordinances so as they do not 
+20 conflict with State law and do not interfere with the aggregate intent of the legislature, 
+21 specifically an intent that courts are permitted to infer even from statutes that do not reference or 
+22 mention municipalities at all. 
+23  (d) The General Court determines that municipalities possess the constitutional authority 
+24 to require transparency around AI systems operating in their communities. This authority exists 
+25 whether or not a municipality chooses to exercise it and shall not be taken away silently. Any 
+26 restriction on that authority must be stated by the General Court, expressly in plain language, 
+27 such that no court reads a statute that never mentions a municipality as taking that authority away 
+28 and so that the customary and traditional liberties of the people in the conduct of their local 
+29 government are not infringed by silence or invisibility. 
+30  (e) The General Court further determines that when any physical AI infrastructure, such 
+31 as a data center, operates in a community; the impacts that cross beyond the facility's site 
+32 boundaries, including the water it consumes, the demands put on the electric grid, and the 
+33 emissions of its backup generation are impacts on the community itself. A municipality shall 
+34 have the authority to require the owner or operator of such a facility to make regular and 
+35 transparent reports of these impacts. Their reporting must be drawn from readily available data, 
+
+3 of 58 36 expressed in common, explainable units. These reports must be provided to the municipality and 
+37 to the residents of the community. This finding does not limit the right of residents to 
+38 transparency around the outputs and inferences of any AI system or machine learning algorithm 
+39 that operates from such a facility when used in consequential decisions around their lives, as 
+40 provided in these findings and this act. The authority vested in the municipality is in addition to, 
+41 and does not diminish, any existing authority around land use, zoning, and public health. This 
+42 authority shall not be taken away as provided in these findings. 
+43  (f) The General Court further determines that when AI systems are deployed and used, 
+44 the interactions generate data around the people and communities they operate in. This data is 
+45 then collected and retained, and fed back into the training and improving of these models 
+46 (creating a feedback loop where deployment creates new data and the data improves the model). 
+47 This loop gives the data generated by residents and their communities real economic value to the 
+48 owner or operator of said system. The residents of the communities, that generate this data have 
+49 the right to know when their information goes back into this loop, whether it is retained, used to 
+50 train or improve AI and machine learning systems, or is shared, such that the value taken from a 
+51 community is visible to the community itself in accessible and common language. 
+52  (g) The General Court further determines that when AI systems are offered to 
+53 governments at nominal cost, through federal and state purchasing vehicles, these systems arrive 
+54 in the schools, the police departments, sheriffs' offices, and the service offices of a community 
+55 faster than a community can deliberate around them. The speed at which they are implemented 
+56 reduces their ability to defend their own cognitive sovereignty and, in essence, is a choice made 
+57 for them not by them. A municipality shall have the authority to make its own decisions around 
+58 the adoption and operation of AI systems in its own operations and services, to evaluate and 
+
+4 of 58 59 adopt them, to decline and discontinue them, and to set their terms of use. This authority belongs 
+60 to the self government of the community itself. No State agency, executive order, regulation, or 
+61 administrative action shall interfere with it. Any restriction on this authority must be stated by 
+62 the General Court expressly and in plain language. 
+63  (h) The General Court further determines that the same speed and the same nominal cost 
+64 reach the Commonwealth itself as purchaser. When the state acquires an AI system outside the 
+65 competitive evaluation, the public accountability, and the disclosure of conflicts of interest that 
+66 the people require of all other public purchasing, the choice is again made for the residents and 
+67 not by them. The purchasing of AI systems by the Commonwealth must be held to the standards 
+68 the people have always required of the purchasing done in their name. A system demonstrated 
+69 under the conditions of its maker's choosing has not been demonstrated under the conditions of 
+70 the Commonwealth's use, and the difference between those two sets of conditions is borne by the 
+71 resident. 
+72  (i) The General Court further determines that the administration of the transparency 
+73 rights, certifications, and community understanding established by this act must be entrusted to 
+74 an entity captured neither by any single branch of government nor by industry, so that the trust 
+75 the act is built to create is not undone by the body that administers it. 
+76  SECTION 2. Purpose. 
+77  The purpose of this Act is to: 
+78  (a) establish that every resident of the Commonwealth has the right to know when an AI 
+79 system is used in a consequential decision around their life, at the moment of interaction where 
+80 the system meets the person and not merely at the moment the system was trained; 
+
+5 of 58 81  (b) protect the authority of municipalities to require, if they choose, transparency around 
+82 AI systems operating in their communities, an authority that shall not be diminished by this Act 
+83 and shall not be taken away except as the General Court provides expressly and in plain 
+84 language; 
+85  (c) recognize that the impacts of physical AI infrastructure cross beyond the boundaries 
+86 of the facility's site and into the community itself, and protect the authority of municipalities to 
+87 require regular and transparent reporting of those impacts, drawn from readily available data and 
+88 expressed in common, explainable terms and units; 
+89  (d) ensure that residents know when the data generated by their interactions with an AI 
+90 system is retained, used to train or improve the system, or shared; and that the value extracted 
+91 from a community is made visible and transparent to the community itself, in accessible and 
+92 common language; 
+93  (e) ensure that when the Commonwealth purchases an AI system, the purchase is held to 
+94 the same competitive evaluation, the same public accountability, and the same disclosure of 
+95 conflicts of interest that the people require of all other public purchasing; and to provide that the 
+96 Commonwealth, as purchaser, shall require of any vendor a plain and truthful accounting of 
+97 whether the system can disclose its use, its outputs, and its inferences to the people it is used 
+98 upon; that the Commonwealth shall have the right to audit the inferences of any such system 
+99 across the linguistic, socioeconomic, and demographic subgroups of its residents; and that the 
+100 Commonwealth shall choose the system that can be transparent and honest to the people it 
+101 serves, so that what cannot be disclosed today for want of technological capability is disclosed 
+102 tomorrow; 
+
+6 of 58 103  (f) build a statewide understanding, grounded in the communities themselves, of how 
+104 artificial intelligence is experienced by the residents it is used upon, across the cities and towns 
+105 of the Commonwealth, recognizing that human understanding must be the cornerstone upon 
+106 which any approach to AI is built; 
+107  (g) establish the Massachusetts AI Trust Authority as an independent public entity, 
+108 captured neither by any single branch of government nor by industry, to administer the voluntary 
+109 AI Trust Certification, the Innovation Sandbox, the reciprocity frameworks, and the Community 
+110 Advisory Board established by this Act, and to receive the accountings and conduct the audits 
+111 provided for in this Act; 
+112  (h) make the Commonwealth the place where trustworthy artificial intelligence is built 
+113 and deployed, by rewarding transparency over invisibility, and by drawing responsible 
+114 investment through incentive, collaboration, and reciprocity rather than mandate; 
+115  (i) demonstrate that transparency at the moment the system meets the person is feasible to 
+116 the measure of the technological capability these systems already possess, and that the duty to 
+117 disclose shall grow as technological capability grows; achievable without the compelled 
+118 disclosure of trade secrets, training data, or the proprietary internal architectures of any model; 
+119 and that it protects the cognitive sovereignty of the person and, through it, the human condition 
+120 itself. This Act offers that model to the governance of AI at the state and federal levels, to 
+121 complement and to strengthen it; 
+122  (j) extend transparency to transactions in which an AI system acts on behalf of a resident, 
+123 so that the right to know does not diminish or fail as these systems evolve from tools, to agents, 
+124 to collective swarms; and 
+
+7 of 58 125  (k) ensure that no resident of the Commonwealth is left behind as artificial intelligence 
+126 reshapes the institutions, services, opportunities, and personal growth of daily life. 
+127  SECTION 3. The General Laws are hereby amended by inserting after chapter 93L the 
+128 following chapter: 93M 
+129  CHAPTER 93M. THE MASSACHUSETTS DIGITAL COMMONWEALTH 
+130  Section 1. Definitions. 
+131  As used in this chapter, the following words shall have the following meanings unless the 
+132 context clearly requires otherwise: 
+133  "Artificial intelligence system" or "AI system", any machine-based system that, for a 
+134 given set of objectives, generates outputs such as predictions, recommendations, decisions, or 
+135 content that can influence real or virtual environments, including but not limited to machine 
+136 learning systems, large language models, automated decision-making systems, and AI agents as 
+137 defined herein. 
+138  "AI agent", an AI system configured to take autonomous actions on behalf of a resident, 
+139 including but not limited to searching, evaluating, negotiating, selecting, transacting, or 
+140 communicating, without requiring contemporaneous human confirmation for each action. An AI 
+141 agent includes a system of multiple AI agents acting in coordination, in sequence, or in concert, 
+142 whether alike or specialized, however composed and however distributed, and the obligations of 
+143 this chapter shall apply to such a system as a whole. 
+144  "Agent provider", the entity that makes an AI agent available to a resident and that the 
+145 resident has authorized, directly or through use of the agent, to act on the resident's behalf. 
+
+8 of 58 146  "Authority", the Massachusetts AI Trust Authority established under section 9. 
+147  "Certified AI system", an AI system holding a valid AI Trust Certification issued by the 
+148 Authority under this chapter. 
+149  "Community Advisory Board" or "Board", the Community Advisory Board established 
+150 under section 10. 
+151  "Consequential decision", a decision, recommendation, or determination for which an AI 
+152 system is a substantial factor and which has a material legal or similarly significant effect on the 
+153 provision or denial to a resident of, or the cost or terms of: 
+154  (1) employment or an employment opportunity; 
+155  (2) housing; 
+156  (3) credit or financial services; 
+157  (4) insurance; 
+158  (5) education enrollment or an educational opportunity; 
+159  (6) healthcare services; 
+160  (7) public benefits or essential government services; 
+161  (8) legal services; or 
+162  (9) engagement with the criminal justice system. 
+163  A determination shall also constitute a consequential decision, regardless of whether it 
+164 falls within the categories enumerated above, if the AI system engages in inference-time 
+
+9 of 58 165 profiling of the resident in the course of generating its output; provided, however, that where 
+166 such a determination does not have a material legal or similarly significant effect on the resident, 
+167 the obligations arising under section 2 shall be limited to the matters described in section 2(a)(1), 
+168 (2), (4), and (5), and may be satisfied by a clear and conspicuous disclosure presented within the 
+169 interface through which the resident interacts with the AI system, applicable in standardized 
+170 form to all interactions under the same deployment. 
+171  The term "consequential decision" does not include determinations made by AI systems 
+172 performing exclusively: (i) narrow procedural tasks; (ii) pattern detection or anomaly flagging 
+173 where the output is reviewed by a human who has the authority and the practical opportunity to 
+174 alter or override the outcome before it affects the resident; or (iii) only the following functions: 
+175 anti-fraud detection not employing facial recognition, cybersecurity or anti-malware operations, 
+176 spam filtering, spell-checking, grammar correction, calculation, routine data storage or retrieval, 
+177 or language translation; provided, however, that any such system that engages in inference-time 
+178 profiling of a resident shall remain subject to the transparency obligations of section 2 
+179 notwithstanding this exclusion. 
+180  The Authority may, by regulation, add categories of decisions to this definition based on 
+181 findings reported by the Community Advisory Board under section 10(g)(4), provided that any 
+182 such addition satisfies the material legal or similarly significant effect standard established by 
+183 this section. The Authority may not, by regulation, remove any category enumerated in this 
+184 section. 
+185  "Covered facility", physical AI infrastructure with a design critical information 
+186 technology load of not less than 5 megawatts, together with any colocated or contiguous physical 
+
+10 of 58 187 AI infrastructure under common ownership or control the combined design critical information 
+188 technology load of which is not less than 5 megawatts. 
+189  "Delegated transaction", an action taken by an AI agent on behalf of a resident that 
+190 commits the resident to a financial obligation, alters a contractual relationship, or affects access 
+191 to a service, without contemporaneous human confirmation of that specific action. 
+192  "Deployer", any person, entity, or government agency that deploys or uses an AI system 
+193 within the commonwealth, or that deploys or uses an AI system, wherever operated, upon the 
+194 residents of the commonwealth, whether as a developer, operator, or procuring entity. 
+195  "Deployment objective", the objective or objectives established for an AI system in a 
+196 given deployment, including any objective embodied in instructions, configurations, or 
+197 parameters provided to the system at or before inference, whether established by the deployer, 
+198 the vendor, or any other party. A deployment objective is stated as purpose and effect, in 
+199 accessible and common language, and not as the verbatim content of any instruction, 
+200 configuration, or parameter, and may be stated in a standardized form applicable to all 
+201 interactions under the same deployment. The objective of a deployment directed at a resident is 
+202 not a secret from that resident. 
+203  "Determination", the output or conclusion an AI system produces at inference with 
+204 respect to a resident, as distinct from the decision made concerning the resident. 
+205  "Enterprise AI deployment", any procurement, contract, or agreement providing AI 
+206 system access to more than 500 state employees or affecting services delivered to more than 
+207 10,000 residents. 
+
+11 of 58 208  "Facility impact report", a written report of the community impacts of a covered facility 
+209 as provided in section 4, drawn from readily available data and expressed in common, 
+210 explainable units. 
+211  "Inference", the process by which a deployed AI system generates outputs, including 
+212 predictions, recommendations, assessments, classifications, or content, in response to inputs, 
+213 including inputs derived from or about a specific individual. Inference occurs at the point of 
+214 impact: it is the moment at which a model's capabilities are applied to a real person or situation. 
+215  "Inference audit", an examination, conducted by or at the direction of the Authority, of 
+216 the outputs and inferences of an AI system as deployed, to identify disparities in the performance 
+217 of those inferences across the linguistic, socioeconomic, and demographic subgroups of the 
+218 residents of the commonwealth, and across the conditions under which the system is used, 
+219 including variation in the phrasing, language, context, and channel of the interaction, and 
+220 including the sustained interactions in which the system is used in practice. An audit conducted 
+221 only under the conditions of the vendor's own evaluation is not an inference audit. 
+222  "Inference-time profiling", the process by which an AI system, during the course of 
+223 generating an output, assesses, classifies, or infers characteristics about an individual, including 
+224 but not limited to emotional state, cognitive patterns, behavioral tendencies, demographic 
+225 attributes, vulnerabilities, or susceptibility to influence, for the purpose of modifying the output 
+226 delivered to that individual. 
+227  "Massachusetts Municipal Association" or "MMA", the nonprofit membership 
+228 association representing the cities and towns of the commonwealth, or its successor organization, 
+229 acting in its capacity as a named consultation partner under this chapter. 
+
+12 of 58 230  "Material financial relationship", any relationship in which an individual, or the 
+231 individual's employer, parent company, or subsidiary, holds an ownership stake, investment 
+232 interest, contractual partnership, or revenue-sharing arrangement with a vendor or prospective 
+233 vendor, or has received compensation from such vendor within the preceding 36 months. 
+234  "Material modification", with respect to a certified AI system, any change in its training 
+235 data sources, its inference behavior on standardized benchmarks, its deployment scope, or its 
+236 user population that the Authority by regulation determines to be material. The Authority shall 
+237 establish the specific thresholds and criteria for material modification by rule and may update 
+238 such criteria from time to time. 
+239  "Physical AI infrastructure", a data center or other physical facility a principal function of 
+240 which is to house computing, storage, or networking equipment used in the training of AI 
+241 systems or in the operation of AI systems, including inference. 
+242  "Readily available data", data that the owner or operator of a covered facility collects, 
+243 generates, or receives in the ordinary course of designing, constructing, or operating the facility, 
+244 or that the owner or operator reports to any federal or state agency, public utility, water or sewer 
+245 authority, or independent system operator, together with data derivable from the foregoing 
+246 without material additional instrumentation. 
+247  "Substantial factor", with respect to the role of an AI system in a decision, 
+248 recommendation, or determination, that the AI system both (i) assists in making the decision, 
+249 recommendation, or determination, and (ii) is capable of altering the outcome. The mere 
+250 involvement of an AI system in a peripheral, administrative, or ministerial function that is not 
+251 capable of altering the outcome shall not constitute a substantial factor. 
+
+13 of 58 252  "Transparency", the disclosure of sufficient information about an AI system's purpose, 
+253 data inputs, logic, capabilities, limitations, and performance to enable meaningful awareness by 
+254 affected residents and oversight by governing bodies. Disclosure that cannot be understood by 
+255 the person it is owed to is not transparency. 
+256  "Truthful accounting", a written disclosure, attested by an officer or principal of the 
+257 vendor, stating in accessible and common language whether, and to what extent, an AI system 
+258 can disclose its use, its outputs, and its inferences to the people it is used upon, including a 
+259 statement of what the system cannot yet disclose and why. An accounting that omits a known 
+260 limitation of the system is not truthful. 
+261  "Trust Fund", the Massachusetts AI Trust Fund established under section 13. 
+262  "Vendor", any person or entity that offers, sells, licenses, leases, or otherwise provides an 
+263 AI system, or access to an AI system, to the commonwealth or to any deployer within the 
+264 commonwealth, whether directly or through a reseller, integrator, or purchasing vehicle. 
+265  Section 2. Right to Know. 
+266  (a) Every resident of the commonwealth has the right to know when an AI system is used 
+267 to make, inform, or materially influence a determination in a consequential decision affecting 
+268 one's life. The right begins at inference. It does not begin at training, and no claim about training 
+269 data, design, or authorship diminishes it. The right belongs to the resident; the duty to disclose 
+270 and provide transparent understanding of the outcome extends to any affected individual. The 
+271 right to know includes: 
+272  (1) that an AI system was used in the decision; 
+
+14 of 58 273  (2) the purpose and function of the system, and the deployment objective, stated in 
+274 commonly understandable language; 
+275  (3) the categories of data concerning the resident that the system processed at the time of 
+276 inference; 
+277  (4) whether the system assessed, profiled, or inferred characteristics of the individual in 
+278 the course of generating its output; 
+279  (5) whether information provided by the resident, or otherwise processed at inference, is 
+280 retained, used to train or improve the AI system, or is shared with any third party; 
+281  (6) how long information transmitted during inference is stored; 
+282  (7) how often the system's performance is reviewed, and whether those reviews catch 
+283 changes in how the system behaves after its deployment; 
+284  (8) how the system behaves under different conditions, including the conditions under 
+285 which its performance degrades; 
+286  (9) how to contest or challenge the decision, with clear and understandable means to 
+287 reach a human being with sufficient authority to review and audit the decision; and 
+288  (10) the identity of the deployer, and whether any third party was used by the deployer in 
+289 reaching the determination. 
+290  (b) This section grants no authority to restrict, delay, condition, or prohibit the 
+291 development, deployment, or use of any AI system, and none shall be inferred from it. It 
+292 establishes a right to visibility, not a right to veto. 
+
+15 of 58 293  (c) Disclosure must follow the point of inference. Where inference occurs as part of a 
+294 human-AI system interaction, the deployer shall provide disclosure on how the outcome was 
+295 determined, with any relevant context, in common language, at or before the moment of the 
+296 determination. Where inference occurs without the person present, the disclosure must travel to 
+297 them; the deployer shall provide direct notice to the affected individual at or before the moment 
+298 of the decision, and where notice before is impracticable, within a reasonable time, and never 
+299 more than 30 days after. A posting on a website or in terms of service may support the required 
+300 disclosure but does not satisfy it. The disclosure must be explainable, and a disclosure the 
+301 average individual cannot understand does not satisfy this requirement. A disclosure the person 
+302 had no reasonable occasion to encounter was never made. 
+303  (d) This section requires no disclosure of proprietary algorithms or architectures, training 
+304 data, model weights, or trade secrets, or any other confidential intellectual property. 
+305 Documentation or auditing of training data is not required. Transparency under this section is 
+306 defined as disclosure to inform and provide explainable context, not disclosure with sufficient 
+307 information to replicate or repeat. The obligations of this section attach solely to the application 
+308 of the AI system, at inference, to the affected individual. 
+309  (e) Delegated transactions. 
+310  (1) When an AI agent undertakes a delegated transaction on behalf of a resident, the 
+311 agent provider shall maintain a reviewable record of the transaction and shall make such record 
+312 available to the resident in plain language within a reasonable time following the transaction. 
+313 The record shall include: 
+314  (A) a description of the action taken; 
+
+16 of 58 315  (B) the alternatives considered by the agent, if any, and the basis for selecting the action 
+316 taken; 
+317  (C) any inference-time profiling performed on the resident or the resident's agent in the 
+318 course of the transaction, to the extent known by the agent provider; 
+319  (D) any financial or contractual consequences of the action for the resident; and 
+320  (E) the identity of the agent provider and any third-party AI systems or platforms 
+321 involved in the transaction, to the extent known by the agent provider. 
+322  (2) The agent provider bears primary responsibility for the disclosure obligations of this 
+323 subsection for the full chain of AI systems and third parties involved in executing a delegated 
+324 transaction on behalf of a resident, regardless of the number or identity of intermediary systems. 
+325  (3) Agent providers shall disclose to residents, prior to the resident's authorization of the 
+326 agent, any preferred-vendor relationships, affiliate arrangements, or revenue-sharing incentives 
+327 that may influence the agent's decisions. 
+328  (4) The Authority may establish by regulation thresholds below which the record 
+329 requirement of paragraph (1) does not apply. Such thresholds shall be designed to exclude 
+330 routine, low-value, de minimis transactions while preserving the record requirement for 
+331 transactions of material consequence. 
+332  (f) Enforcement. 
+333  (1) A knowing and willful failure to provide the disclosures required by this section in 
+334 connection with a consequential decision or delegated transaction shall constitute an unfair or 
+335 deceptive act or practice under chapter 93A of the General Laws. A resident who demonstrates 
+
+17 of 58 336 that a consequential decision was made affecting them, or that a delegated transaction was 
+337 undertaken on their behalf, without the disclosures required by this section may seek damages 
+338 under the procedures and remedies established by said chapter 93A. The deprivation of the 
+339 disclosures required by this section, including the loss of the opportunity to contest the 
+340 determination and to reach human review as provided in subsection (a)(9), constitutes a distinct 
+341 injury to the resident, separate from the violation itself. 
+342  (2) A resident may seek injunctive or declaratory relief to compel the disclosures required 
+343 by this section upon a showing that a deployer or agent provider has materially failed to provide 
+344 such disclosures and that the resident is or will imminently be subject to a consequential decision 
+345 or delegated transaction by the AI system. A court may grant preliminary injunctive relief under 
+346 this paragraph upon a finding that the resident is likely to succeed on the merits and that the 
+347 balance of equities favors disclosure. The court shall not require a showing of knowing and 
+348 willful conduct as a condition of injunctive or declaratory relief under this paragraph. Relief 
+349 under this paragraph shall be limited to requiring compliance with the disclosure obligations of 
+350 this section and shall not extend to restricting the operation of any AI system. 
+351  (3) The attorney general may bring an action for injunctive relief, declaratory relief, or 
+352 civil penalties under chapter 93A, section 4, to enforce the disclosure requirements of this section 
+353 against any deployer or agent provider. The attorney general may, prior to commencing an 
+354 action, provide the deployer or agent provider with written notice of the alleged violation and a 
+355 reasonable opportunity to achieve compliance with the disclosure requirements of this section. In 
+356 determining whether to bring an action or to provide an opportunity to achieve compliance, the 
+357 attorney general may consider the scope and frequency of non-compliance, the number of 
+358 residents affected, and whether the deployer or agent provider has taken good-faith steps to 
+
+18 of 58 359 comply or has been responsive to prior inquiries. Nothing in this paragraph limits the authority of 
+360 the attorney general under chapter 93A or any other provision of law. 
+361  (4) Nothing in this subsection creates a new cause of action for damages beyond those 
+362 available under chapter 93A; it connects the transparency right established by this section to the 
+363 existing enforcement framework of the commonwealth while ensuring that injunctive relief 
+364 remains practically available to affected residents and that the attorney general may address 
+365 systemic non-compliance. 
+366  (5) With respect to a deployer that is a government agency not engaged in trade or 
+367 commerce within the meaning of chapter 93A, the remedies available under this subsection shall 
+368 be those provided in paragraph (2), together with any other remedy available under law; and the 
+369 affected resident shall in addition have the right to review of the determination through the 
+370 means required by subsection (a)(9). 
+371  (g) Vendor support obligation. A vendor that provides an AI system used by a deployer in 
+372 consequential decisions shall supply to the deployer, in standardized form, accurate information 
+373 within the vendor's knowledge and control reasonably necessary for the deployer to satisfy the 
+374 disclosure obligations of this section, and shall update such information upon any material 
+375 modification to the system. A deployer's disclosure made in good-faith and reasonable reliance 
+376 on information supplied under this subsection satisfies the deployer's obligation with respect to 
+377 the matters so supplied, and responsibility for any inaccuracy in such information rests with the 
+378 vendor. Nothing in this subsection requires the disclosure by a vendor of the materials described 
+379 in subsection (d). 
+380  Section 3. Municipal Authority. 
+
+19 of 58 381  (a) Municipalities of the commonwealth shall possess inherent authority, consistent with 
+382 the Home Rule Amendment and the general laws, to require transparency regarding AI systems 
+383 deployed or operating within their jurisdictions that affect their residents. This authority includes 
+384 the authority to: 
+385  (1) require deployers to disclose, upon request, the purpose, general function, and 
+386 categories of data inputs for AI systems used in consequential decisions affecting municipal 
+387 residents; 
+388  (2) require that residents affected by consequential AI decisions within the municipality 
+389 have access to the information described in section 2; and 
+390  (3) participate in voluntary municipal cooperation frameworks for shared transparency 
+391 infrastructure. 
+392  (b) Municipal authority under this section extends to transparency and visibility. Nothing 
+393 in this section shall be construed to grant municipalities authority to prohibit, restrict, condition, 
+394 license, or impose operational requirements upon the development, training, deployment, or use 
+395 of AI systems. Municipalities may require that AI be visible. Municipalities may not require that 
+396 AI be absent. 
+397  (c) No state agency, executive order, regulation, or administrative action shall restrict, 
+398 diminish, or preempt the authority of municipalities to require transparency regarding AI systems 
+399 within their jurisdictions as affirmed by this section. 
+400  (d) Rule of construction. No provision of the general laws, whether enacted before or 
+401 after the effective date of this section, shall be construed to restrict, diminish, or preempt the 
+
+20 of 58 402 authority of municipalities to require transparency regarding AI systems within their jurisdictions 
+403 as affirmed by this section, unless such provision specifically and explicitly states that it is 
+404 intended to restrict, diminish, or preempt municipal AI transparency authority established under 
+405 this chapter. 
+406  (e) Any ambiguity in a provision of the general laws regarding its effect on municipal AI 
+407 transparency authority shall be resolved in favor of preserving such authority. 
+408  (f) A municipality may seek injunctive relief to enforce the transparency requirements of 
+409 this section through appropriate proceedings in the superior court. 
+410  (g) Nothing in this section shall be construed to limit the authority of the General Court to 
+411 establish minimum standards for AI transparency that municipalities may meet or exceed. 
+412  (h) Municipal self-governance. Nothing in this chapter shall be construed to limit the 
+413 authority of a municipality to decide whether, and on what terms, it procures, adopts, declines, 
+414 discontinues, or uses AI systems in its own operations and in the services it delivers, and no state 
+415 agency, executive order, regulation, or administrative action shall compel such adoption or 
+416 interfere with such decisions. The limitations of subsection (b) concern the regulation by a 
+417 municipality of persons other than the municipality itself and do not diminish the authority 
+418 affirmed by this subsection. 
+419  Section 4. Physical AI Infrastructure Transparency. 
+420  (a) The impacts of a covered facility cross beyond the boundaries of the facility's site and 
+421 into the community itself. A municipality in which a covered facility is located, in whole or in 
+422 part, may require the owner or operator of the covered facility to prepare and provide facility 
+
+21 of 58 423 impact reports as set forth in this section. A municipality that borders a municipality in which a 
+424 covered facility is located, and that shares with the covered facility a water source, sewer system, 
+425 or electric distribution infrastructure, may require that the facility impact reports prepared under 
+426 this section be provided to it on the same terms. 
+427  (b) A facility impact report shall state, for the reporting period, drawn from readily 
+428 available data and expressed in common, explainable units: 
+429  (1) the volume of water withdrawn by the facility and the volume of water consumed by 
+430 the facility, stated separately, identified by source, together with the volume discharged to any 
+431 sewer system; 
+432  (2) the electricity consumed by the facility, its peak demand, and the share of its 
+433 consumption served by on-site generation, identified by generation type; 
+434  (3) the hours of operation of any backup or auxiliary generation, the fuel consumed by 
+435 such generation, and the resulting emissions as calculated by the methods the owner or operator 
+436 already employs in any report to a federal or state agency; 
+437  (4) whether information generated by the interactions of residents of the commonwealth 
+438 with AI systems operated from the facility is retained at the facility, used to train or improve AI 
+439 systems, or shared, stated in accessible and common language, to the extent known by the owner 
+440 or operator, so that the value taken from a community is visible to the community itself; and 
+441  (5) any material change anticipated in the following reporting period in any matter 
+442 reported under paragraphs (1) through (4). 
+
+22 of 58 443  (c) A municipality may require facility impact reports not more frequently than quarterly. 
+444 The owner or operator shall provide each report to the municipality and shall publish each report 
+445 so that it is accessible to the residents of the community. A report drawn from data the owner or 
+446 operator already collects or already reports satisfies this section; nothing in this section requires 
+447 material additional instrumentation, and nothing in this section requires the disclosure of 
+448 proprietary algorithms or architectures, training data, model weights, or trade secrets, or any 
+449 other confidential intellectual property. 
+450  (d) This section grants no authority to restrict, delay, condition, or prohibit the 
+451 construction, operation, or use of any covered facility or any AI system, and none shall be 
+452 inferred from it. It establishes a right to visibility, not a right to veto. The authority vested in the 
+453 municipality by this section is in addition to, and does not diminish, any existing authority 
+454 around land use, zoning, and public health. 
+455  (e) No state agency, executive order, regulation, or administrative action shall restrict, 
+456 diminish, or preempt the authority of municipalities under this section. No provision of the 
+457 general laws, whether enacted before or after the effective date of this section, shall be construed 
+458 to restrict, diminish, or preempt the authority of municipalities under this section unless such 
+459 provision specifically and explicitly states that it is intended to do so, and any ambiguity shall be 
+460 resolved in favor of preserving such authority. 
+461  (f) Nothing in this section limits the right of residents to transparency around the outputs 
+462 and inferences of any AI system that operates from a covered facility when used in consequential 
+463 decisions around their lives, as provided in section 2. 
+
+23 of 58 464  (g) A municipality may seek injunctive relief to enforce the requirements of this section 
+465 through appropriate proceedings in the superior court. 
+466  (h) A municipality in which a covered facility is proposed to be located, or is under 
+467 construction, may require the person proposing or constructing the facility to provide a 
+468 prospective facility impact report, stating the projected values of the matters described in 
+469 subsection (b), drawn from the design specifications and interconnection filings for the facility 
+470 and from readily available data, before the facility commences operation. A prospective report 
+471 under this subsection is an instrument of visibility only; nothing in this subsection conditions any 
+472 approval upon it, creates any approval process, or grants any authority to delay, restrict, or 
+473 prohibit the construction or operation of the facility. 
+474  Section 5. State Procurement of AI Systems. 
+475  (a) This section shall apply to any enterprise AI deployment by the commonwealth or any 
+476 state agency. 
+477  (b) No enterprise AI deployment shall proceed without a documented competitive 
+478 evaluation of not fewer than 3 qualified vendors, conducted through a publicly accessible 
+479 procurement process. The procurement process shall include: 
+480  (1) a public solicitation published on COMMBUYS or its successor system with not 
+481 fewer than 45 days for vendor response; 
+482  (2) published evaluation criteria, including technical capability, security certification, 
+483 data protection, cost, and interoperability; 
+
+24 of 58 484  (3) a written evaluation report comparing all responsive vendors against each published 
+485 criterion; 
+486  (4) publication of the evaluation report, redacted only as required by law to protect 
+487 genuine trade secrets, within 30 days of contract award; and 
+488  (5) submission by each responsive vendor of a truthful accounting of the AI system 
+489 offered, including a statement of the conditions under which the vendor has evaluated the system 
+490 and the conditions under which it has not. No vendor shall be deemed responsive without one. 
+491 The truthful accounting of the vendor awarded the contract shall be published with the evaluation 
+492 report under paragraph (4), and the capability of each offered system to disclose its use, its 
+493 outputs, and its inferences to the people it is used upon shall be a published evaluation criterion 
+494 under paragraph (2). 
+495  (c) Any individual serving on an advisory body, task force, evaluation committee, or 
+496 other entity that recommends, evaluates, or influences the selection of an AI vendor for state 
+497 procurement shall file a public disclosure identifying: 
+498  (1) any material financial relationship between the individual, or the individual's 
+499 employer, and any prospective vendor; 
+500  (2) any campaign contributions made by the individual to any elected official with 
+501 authority over the procurement within the preceding 48 months; and 
+502  (3) any board membership, advisory role, or consulting arrangement with any prospective 
+503 vendor or the vendor's investors, partners, or parent company. 
+
+25 of 58 504  (d) Disclosures required under subsection (c) shall be filed with the office of the inspector 
+505 general and made publicly available on the commonwealth's procurement transparency portal 
+506 within 14 days of the individual's appointment or, if later, within 14 days of the commencement 
+507 of any procurement process. 
+508  (e) An individual with a material financial relationship to a prospective vendor shall 
+509 recuse themselves from any evaluation, recommendation, or vote pertaining to that vendor. 
+510 Failure to disclose or recuse shall constitute a violation of chapter 268A and shall be referred to 
+511 the state ethics commission. 
+512  (f) No enterprise AI deployment shall be implemented without a consultation period of 
+513 not fewer than 60 days during which affected public employees and their designated 
+514 representatives may review the proposed deployment, submit comments, and receive written 
+515 responses to substantive concerns. Where a collective bargaining agreement covers affected 
+516 employees, the deployment shall be subject to the applicable provisions of such agreement 
+517 regarding the introduction of new technology. 
+518  (g) The procuring agency shall publish a workforce impact assessment identifying 
+519 anticipated effects on job functions, required training, data access, and working conditions. 
+520  (h) No enterprise AI deployment contract shall exceed a term of 3 years without renewal. 
+521 Renewal shall require a new competitive evaluation under the standards of this section. 
+522  (i) Every enterprise AI deployment shall include a quarterly performance review, the 
+523 results of which shall be published and made available to the General Court, affected workers, 
+524 and the public. Quarterly reviews shall address system performance, accuracy, observed drift as 
+525 measured against the conditions of the evaluation conducted under subsection (b), fine-tuning or 
+
+26 of 58 526 other material modifications since the prior review, and any issues identified by affected workers 
+527 or residents. 
+528  (j) The General Court shall receive notice of any proposed enterprise AI deployment not 
+529 fewer than 60 days prior to contract execution, including the proposed vendor, contract value, 
+530 scope of deployment, and a summary of the competitive evaluation. 
+531  (k) The state auditor shall have authority to audit any enterprise AI deployment for 
+532 compliance with the procurement standards established by this section. The inspector general 
+533 shall have authority to investigate complaints regarding conflicts of interest, procurement 
+534 irregularities, or violations of this section. 
+535  (l) Every enterprise AI deployment contract shall provide that the Authority may conduct, 
+536 or direct the conduct of, inference audits of the deployed AI system. The results of each 
+537 inference audit shall be published with the quarterly performance review under subsection (i), 
+538 redacted only as required by law, and shall be provided to the Community Advisory Board. 
+539  (m) This section shall apply to enterprise AI deployment contracts entered into or 
+540 renewed on or after the effective date of this act. Nothing in this section shall be construed to 
+541 invalidate or require renegotiation of contracts entered into prior to said effective date. 
+542  (n) Exceptions. The requirements of subsections (b), (f), and (j) may be modified or 
+543 waived only upon written findings by the secretary of administration and finance, published 
+544 within 14 days and provided to the inspector general and the General Court, that: (1) fewer than 
+545 3 qualified vendors exist for the system sought, in which case the competitive evaluation shall 
+546 include all qualified vendors; (2) an emergency affecting cybersecurity, public health, or public 
+547 safety requires deployment before the periods prescribed can run, in which case any resulting 
+
+27 of 58 548 contract shall not exceed 12 months and any renewal shall comply with this section in full; (3) 
+549 the system is required by federal law or as a condition of federal funds; or (4) the deployment is 
+550 a pilot of not more than 6 months' duration and $250,000 in value, not renewable except through 
+551 full compliance with this section. Every waiver under this subsection shall be time-limited, shall 
+552 be subject to audit under subsection (k), and shall not modify or waive the disclosure and 
+553 publication requirements of this section. 
+554  Section 6. Community AI Understanding Program. 
+555  (a) The General Court finds that Massachusetts shall lead in the human-centered 
+556 implementation of artificial intelligence, and that no statewide approach to AI can succeed 
+557 without a grounded understanding of how AI is encountered, understood, and experienced by 
+558 residents across the commonwealth's diverse communities. 
+559  (b) There is hereby established the Community AI Understanding Program, administered 
+560 by the Authority in partnership with the Massachusetts Municipal Association as provided under 
+561 section 11, through which municipalities may conduct annual assessments of how artificial 
+562 intelligence affects their residents, institutions, and local economies. Participation in the program 
+563 shall be voluntary. 
+564  (c) An annual Community AI Assessment may be conducted through any mechanism the 
+565 municipality deems appropriate, including but not limited to a town meeting agenda item, a 
+566 public forum, a resident survey, a report prepared by municipal staff or a designated appointee, 
+567 or any combination thereof. Municipalities are encouraged to select assessment formats that 
+568 reach residents whose civic participation patterns may not run through traditional municipal 
+569 government channels. The assessment should address: 
+
+28 of 58 570  (1) how AI systems are currently encountered and experienced by residents of the 
+571 municipality; 
+572  (2) the opportunities, concerns, knowledge gaps, and support needs of the community 
+573 with respect to artificial intelligence; 
+574  (3) any consequential decisions affecting residents that are known to involve AI systems; 
+575  (4) the state of community understanding and readiness with respect to artificial 
+576 intelligence; and 
+577  (5) the extent to which data generated by the interactions of residents with AI systems is 
+578 known to be retained, used to train or improve such systems, or shared, and any facility impact 
+579 reports provided under section 4 to the municipality during the assessment period. 
+580  (d) Municipalities are encouraged to submit completed assessments to the Community 
+581 Advisory Board established in section 10 for inclusion in the statewide synthesis. 
+582  (e) Nothing in this section creates any regulatory authority, permitting requirement, 
+583 review process, or mechanism by which a municipality may delay, condition, or restrict the 
+584 deployment or use of any AI system. The Community AI Understanding Program is an 
+585 instrument of awareness and understanding, not governance or enforcement. 
+586  (f) The Authority shall affirmatively recruit participation from geographically and 
+587 demographically diverse municipalities, with specific attention to Gateway Cities, rural 
+588 communities, and municipalities with significant populations for whom English is not the 
+589 primary language at home. The Authority shall report annually on the geographic and 
+
+29 of 58 590 demographic diversity of participating municipalities and shall take reasonable steps to address 
+591 gaps in representation. 
+592  (g) The General Court shall appropriate such sums as may be necessary to support 
+593 municipalities in conducting annual assessments, with priority given to municipalities with 
+594 populations under 25,000 and municipalities with limited existing technical capacity. The 
+595 Authority shall administer grants to participating municipalities from the Trust Fund established 
+596 under section 13. 
+597  Section 7. AI Trust Certification, Innovation Sandbox, and Reciprocity. 
+598  (a) The General Court finds that transparency and innovation are mutually reinforcing. 
+599 Jurisdictions that establish clear, predictable standards for AI transparency create conditions of 
+600 trust that attract responsible investment, expand market access, and accelerate the development 
+601 and deployment of trustworthy AI systems. The purpose of this section is to position the 
+602 Commonwealth of Massachusetts as the premier jurisdiction for the development and 
+603 deployment of transparent, trustworthy AI. The General Court intends that the transparency 
+604 standards established by this chapter serve as a model for AI governance at the state and federal 
+605 level and shall continue in full force unless expressly preempted by federal law. 
+606  (b) AI Trust Certification. 
+607  (1) There is hereby established the Massachusetts AI Trust Certification, a voluntary 
+608 program administered by the Authority under which AI developers and deployers may earn a 
+609 state-backed certification demonstrating compliance with transparency and accountability 
+610 standards. 
+
+30 of 58 611  (2) The AI Trust Certification program shall: 
+612  (A) establish tiered certification levels reflecting the degree and scope of transparency 
+613 and accountability demonstrated by the applicant, including at minimum a foundational tier 
+614 based on self-attestation to recognized standards, an intermediate tier based on third-party 
+615 verification, and an advanced tier based on internationally recognized management-system 
+616 certification; 
+617  (B) where appropriate, reference and incorporate existing recognized frameworks, 
+618 including but not limited to the National Institute of Standards and Technology AI Risk 
+619 Management Framework, ISO/IEC 42001, and comparable international standards, to promote 
+620 interoperability; 
+621  (C) publish certification criteria, application procedures, and evaluation standards in 
+622 advance and make them freely available to prospective applicants; 
+623  (D) conduct evaluations through a transparent review process, with results published 
+624 within 60 days of application; 
+625  (E) issue certifications valid for a period of 2 years, renewable through demonstrated 
+626 continued compliance; 
+627  (F) specify the scope of each certification, including the specific AI systems and 
+628 deployment contexts covered, and require certified entities to use the certification mark only in 
+629 connection with that specified scope; and 
+
+31 of 58 630  (G) maintain a public registry of all certified entities, including the tier of certification, 
+631 the scope of certification, the date of issuance and expiration, and the status of any open formal 
+632 inquiries or revocation proceedings under section 10. 
+633  (3) A certified entity shall notify the Authority within 30 days of any material 
+634 modification to a certified AI system. The Authority shall by regulation establish the criteria for 
+635 material modification, procedures for review, and timelines for re-evaluation, which shall be 
+636 proportionate to the risk and scope of the modification. 
+637  (c) Entities holding a current Massachusetts AI Trust Certification shall be eligible for: 
+638  (1) preferred consideration in state and municipal AI procurement processes, provided 
+639 such preference does not override the competitive evaluation requirements of section 5 of this 
+640 chapter; 
+641  (2) eligibility for innovation grants funded through appropriations designated for the 
+642 purposes of this section or through the Trust Fund; 
+643  (3) expedited transparency compliance within participating municipalities, under which a 
+644 current certification may be presented as presumptive evidence of compliance with municipal 
+645 transparency requirements, to the extent such requirements fall within the scope of the 
+646 certification; and 
+647  (4) use of the Massachusetts AI Trust Certification mark in commercial materials, subject 
+648 to terms established by the Authority, provided that the mark may be used only in connection 
+649 with the specific AI systems and deployment contexts within the scope of the certification, and 
+650 any use of the mark shall disclose the tier and scope. 
+
+32 of 58 651  (d) Innovation Sandbox. 
+652  (1) There is hereby established an Innovation Sandbox through which entities may deploy 
+653 experimental AI systems in participating municipalities under enhanced transparency conditions. 
+654 The Innovation Sandbox shall: 
+655  (A) permit accelerated deployment timelines for AI systems that are not yet eligible for 
+656 full AI Trust Certification, provided the deploying entity agrees to enhanced transparency and 
+657 community feedback mechanisms exceeding the standard requirements of this chapter; 
+658  (B) limit experimental deployments to a period of not more than 12 months, renewable 
+659 once upon demonstration of satisfactory performance and community benefit, and subject to 
+660 review by the Community Advisory Board; 
+661  (C) require the informed consent of the participating municipality's governing body; 
+662  (D) require the deploying entity to publish quarterly public reports detailing system 
+663 performance, identified issues, community feedback received, and corrective actions taken; 
+664  (E) provide a structured pathway from sandbox participation to full AI Trust 
+665 Certification; and 
+666  (F) require public disclosure of the reason for any exit from the sandbox without 
+667 successful transition to full certification. 
+668  (2) The Authority shall by regulation establish application procedures, participation 
+669 criteria, data-usage limits, required consumer disclosures, reporting requirements, and fees for 
+670 the Innovation Sandbox. Such regulations shall include substantive review of sandbox 
+
+33 of 58 671 applications by the Community Advisory Board and a requirement that the Authority respond in 
+672 writing to Board recommendations regarding sandbox admissions and exits. 
+673  (e) Reciprocity. 
+674  (1) The Authority shall actively seek reciprocity agreements with other states, regional 
+675 compacts, federal agencies, and international jurisdictions that maintain AI transparency 
+676 frameworks compatible with the standards established under this chapter. Reciprocity 
+677 agreements may provide for: 
+678  (A) mutual recognition of AI trust certifications or equivalent credentials; 
+679  (B) shared technical standards for transparency and interoperability; 
+680  (C) coordinated enforcement of AI transparency requirements; and 
+681  (D) coordinated approaches to emerging AI transparency challenges. 
+682  (2) Reciprocity agreements shall be approved by the Authority's governing board 
+683 following equivalency analysis and consultation with the Community Advisory Board. No 
+684 mutual recognition shall be extended to a partner jurisdiction unless the Authority finds that the 
+685 partner jurisdiction's standards meet the floor established by this chapter. 
+686  (3) An entity that has been denied Massachusetts certification on substantive grounds 
+687 shall be ineligible for reciprocity-based operation in the commonwealth for a period to be 
+688 established by the Authority by regulation. 
+689  (f) Annual Innovation and Trust Report. The Authority shall publish an annual 
+690 Innovation and Trust Report assessing the effectiveness of the AI Trust Certification, Innovation 
+
+34 of 58 691 Sandbox, and reciprocity programs, including: the number of certifications issued, renewed, 
+692 suspended, and revoked; the scope and tier distribution of certifications; the economic impact of 
+693 certified entities within the commonwealth; the outcomes of sandbox deployments; the status of 
+694 reciprocity agreements; the status of AI transparency legislation in other states and at the federal 
+695 level; and recommendations for maintaining the commonwealth's leadership position. The report 
+696 shall be submitted to the General Court, the Community Advisory Board, and the Massachusetts 
+697 Municipal Association, and shall be made publicly available. 
+698  Section 8. Legislative Oversight. 
+699  (a) The Joint Committee on Advanced Information Technology, the Internet and 
+700 Cybersecurity, or such successor committee as the General Court may designate, shall exercise 
+701 oversight of this chapter, including: 
+702  (1) receiving and reviewing the annual reports of the Authority, the Community Advisory 
+703 Board, and the Massachusetts Municipal Association regarding its activities under section 11; 
+704  (2) reviewing compliance with the procurement standards established in section 5; 
+705  (3) monitoring any state or federal legislative proposals that would affect municipal AI 
+706 transparency authority; 
+707  (4) recommending amendments as necessary to address emerging technologies, 
+708 governance challenges, or threats to transparency rights; and 
+709  (5) receiving referrals from the Community Advisory Board under section 10(k) 
+710 regarding disputes between the Board and the Authority or concerns regarding the systematic 
+711 performance of the Authority. 
+
+35 of 58 712  (b) The Joint Committee shall hold at least 1 public hearing annually to receive testimony 
+713 from the Authority, the Community Advisory Board, the Massachusetts Municipal Association, 
+714 municipalities, affected workers, and members of the public regarding the implementation and 
+715 effectiveness of this chapter. 
+716  (c) Upon receipt of a referral from the Community Advisory Board under section 10(k), 
+717 the Joint Committee shall hold a public hearing within 90 days at which the Executive Director 
+718 of the Authority and the Chair of the Community Advisory Board shall appear and respond. 
+719  Section 9. Massachusetts AI Trust Authority. 
+720  (a) Establishment. There shall be established within the executive office for 
+721 administration and finance, but not under its control, a state agency known as the Massachusetts 
+722 AI Trust Authority. The Authority shall be an independent public entity not subject to the 
+723 supervision and control of any other executive office, department, commission, board, bureau, 
+724 agency or political subdivision of the commonwealth, and shall have all of the powers and duties 
+725 set forth in this chapter. 
+726  (b) Governing board. 
+727  (1) The Authority shall be governed by a board of 13 members, of whom 11 shall be 
+728 voting members, consisting of: 
+729  (A) the secretary of economic development or designee, ex officio, non-voting; 
+730  (B) 3 members appointed by the governor, of whom one shall serve as chairperson; 
+731  (C) 2 members appointed by the attorney general; 
+
+36 of 58 732  (D) 2 members appointed by the state auditor; 
+733  (E) 1 member appointed by the president of the senate; 
+734  (F) 1 member appointed by the speaker of the house of representatives; 
+735  (G) 2 members selected by the Community Advisory Board from among its seated 
+736 members, each of whom shall serve on the governing board for the duration of their service on 
+737 the Community Advisory Board and shall not vote on any revocation recommendation in which 
+738 they participated as a member of the Community Advisory Board; and 
+739  (H) 1 member designated by the Massachusetts Municipal Association as provided in 
+740 section 11, non-voting. 
+741  (2) Appointed members shall serve staggered 5-year terms. Initial appointments shall be 
+742 designated by the appointing authorities to create a staggered schedule such that no more than 3 
+743 appointed seats are subject to replacement in any single year. 
+744  (3) Members shall include, collectively, persons with demonstrated expertise in machine 
+745 learning or artificial intelligence engineering, information security, civil rights and consumer 
+746 protection, organized labor, municipal governance, academic AI research, and industry 
+747 deployment of AI systems. At least one appointed member shall be a resident of a Gateway City. 
+748  (4) No appointed member shall hold any other full- or part-time employment in the 
+749 executive branch of the commonwealth during service. All appointed members shall be deemed 
+750 special state employees for purposes of chapter 268A. During service and for 1 year following 
+751 service, no appointed member shall be employed by, consult for, or hold equity in any entity 
+752 certified by the Authority, applying for certification, or participating in the Innovation Sandbox. 
+
+37 of 58 753  (5) No individual with a material financial relationship to any AI vendor holding or 
+754 seeking a Massachusetts AI Trust Certification or Innovation Sandbox admission shall be 
+755 eligible for appointment to the governing board. 
+756  (6) A majority of seated voting members shall constitute a quorum. Adoption or 
+757 amendment of certification criteria, sandbox standards, or reciprocity agreements, and action on 
+758 revocation recommendations from the Community Advisory Board, shall require the affirmative 
+759 vote of not fewer than 8 voting members. 
+760  (c) Powers and duties. The Authority shall have the power to: 
+761  (1) adopt regulations governing voluntary AI Trust Certification, the Innovation Sandbox, 
+762 reciprocity agreements, material-modification review, delegated-transaction thresholds, and other 
+763 matters within its jurisdiction; 
+764  (2) establish by rule application procedures, participation criteria, data-usage limits, 
+765 required consumer disclosures, reporting requirements, and fees for all programs administered by 
+766 the Authority; 
+767  (3) conduct investigations, inference audits, and public hearings, including the inference 
+768 audits provided for in section 5(l); 
+769  (4) enter into reciprocity and mutual-recognition agreements with other states, federal 
+770 agencies, and international bodies; 
+771  (5) designate accredited third-party assessors to conduct evaluations on behalf of the 
+772 Authority, subject to standards established by regulation; 
+773  (6) accept appropriations, federal funds, grants, and private gifts; 
+
+38 of 58 774  (7) make contracts and execute instruments necessary to its functions, including contracts 
+775 with the Massachusetts Municipal Association, the Collins Center for Public Management at the 
+776 University of Massachusetts Boston, and other qualified entities for specified community 
+777 engagement, municipal coordination, and technical assistance functions; 
+778  (8) employ staff outside the civil service system and set compensation appropriate to 
+779 specialized technical talent; and 
+780  (9) publish information, reports, and advisory opinions, without the approval of any other 
+781 officer or employee of any executive agency with respect to the substance of any report or 
+782 publication. 
+783  (d) Executive Director. The governing board shall appoint an Executive Director by 
+784 majority vote. The Executive Director shall serve at the pleasure of the board and shall have 
+785 responsibility for the day-to-day operations of the Authority, including the deployment of staff 
+786 resources consistent with priorities established by the governing board and, with respect to 
+787 Community Advisory Board operations, by the Community Advisory Board. 
+788  (e) Post-employment restrictions. 
+789  (1) No staff member of the Authority involved in certification decisions, sandbox 
+790 admissions, or investigations may, for a period of 1 year following separation from the 
+791 Authority, be employed by, consult for, or hold equity in any entity with respect to which the 
+792 staff member made certification decisions, sandbox decisions, or investigation-related decisions 
+793 within the preceding 24 months. 
+
+39 of 58 794  (2) The Authority shall by regulation establish procedures for monitoring and enforcing 
+795 the post-employment restrictions of this subsection. 
+796  (f) Trade-secret confidentiality. Documentary materials or data consisting of trade secrets 
+797 or confidential technical, commercial, or financial information of entities participating in the 
+798 Authority's voluntary certification program, Innovation Sandbox, or reciprocity program shall 
+799 not be public records within the meaning of section 10 of chapter 66, or clause Twenty-sixth of 
+800 section 7 of chapter 4. Nothing in this subsection limits the obligation of the Authority to 
+801 maintain a public registry of certified entities and certification status as required by section 
+802 7(b)(2)(G). 
+803  (g) Conflict of interest. Members of the governing board and staff of the Authority are 
+804 subject to chapter 268A. The Authority shall by regulation establish additional ethics standards 
+805 appropriate to the specialized nature of its work. 
+806  Section 10. Community Advisory Board. 
+807  (a) Establishment and purpose. There is hereby established within the Authority a 
+808 Community Advisory Board to synthesize community-level understanding of artificial 
+809 intelligence into a statewide picture that informs policy, innovation, and democratic 
+810 participation, and to exercise the oversight, petition, investigatory, and revocation-
+811 recommendation authorities set forth in this section. The Community Advisory Board shall be a 
+812 statutorily independent body within the Authority, funded through the Trust Fund, and not 
+813 subject to direction by the Executive Director of the Authority with respect to the exercise of its 
+814 authorities under this section. 
+
+40 of 58 815  (b) Composition. The Community Advisory Board shall consist of 11 voting members, 
+816 together with 1 non-voting member designated by the Massachusetts Municipal Association as 
+817 provided in section 11. The voting members shall be selected as follows: 
+818  (1) 7 members nominated by the governing bodies of municipalities that have 
+819 participated in the Community AI Understanding Program and selected through the public 
+820 application and review process described in subsection (e); 
+821  (2) 1 member representing organized labor, nominated by the Massachusetts AFL-CIO 
+822 and confirmed through the public review process described in subsection (e); 
+823  (3) 1 member representing civil liberties and digital rights organizations, nominated on a 
+824 rotating basis among organizations designated by the Authority in consultation with the 
+825 Massachusetts Municipal Association for this purpose, with no single organization holding the 
+826 nomination right for more than 1 consecutive term, and confirmed through the public review 
+827 process described in subsection (e); and 
+828  (4) 2 at-large members selected through open public application and review by the seated 
+829 members of the Community Advisory Board, with preference for applicants demonstrating 
+830 expertise in data governance, community organizing, municipal administration, or the effects of 
+831 automated systems on underserved populations. 
+832  (c) Diversity and expertise requirements. 
+833  (1) The municipal seats under subsection (b)(1) shall not be more than 60 percent drawn 
+834 from any single region of the commonwealth or from any single category of municipality defined 
+
+41 of 58 835 by size or demographic composition. The Authority shall maintain standards to ensure 
+836 geographic and demographic diversity among municipal seats. 
+837  (2) The Community Advisory Board shall include, collectively, not fewer than 2 
+838 members with demonstrated technical expertise in artificial intelligence, machine learning, or 
+839 algorithmic systems, of whom not more than 1 shall be employed by a for-profit entity in the AI 
+840 industry and at least 1 shall hold an academic or independent position. This requirement may be 
+841 satisfied through the at-large seats, the municipal seats, or any combination thereof. 
+842  (d) Terms of service and leadership. 
+843  (1) Each member shall serve a term of 3 years. 
+844  (2) No member shall serve more than 2 consecutive terms. A member who has served 2 
+845 consecutive terms shall be ineligible for reappointment until the expiration of 1 full term 
+846 following the conclusion of their service. 
+847  (3) Terms shall be staggered so that no more than 4 seats are subject to selection in any 
+848 single year. For initial appointments, the selecting bodies shall designate 3 members for initial 
+849 terms of 3 years, 4 members for initial terms of 2 years, and 4 members for initial terms of 1 
+850 year. 
+851  (4) A vacancy occurring before the expiration of a term shall be filled through the same 
+852 public application and selection process for the remainder of the unexpired term. Service to fill a 
+853 vacancy of fewer than 18 months shall not count toward the 2-term limit. 
+854  (5) The Board shall annually elect from among its seated members a Chair and Vice-
+855 Chair, each to serve 1-year renewable terms. The Chair shall not be in their final year of service. 
+
+42 of 58 856 The Vice-Chair shall be at a different point in the term cycle than the Chair to ensure leadership 
+857 continuity across turnover. 
+858  (6) A member may be removed for cause, including violation of confidentiality 
+859 obligations, failure to disclose conflicts of interest, abuse of investigatory authority, or conduct 
+860 incompatible with Board service, upon a two-thirds vote of the seated Board with cause 
+861 documented in the public record. Removal is subject to appeal to the Superior Court. 
+862  (e) Public application and selection process. 
+863  (1) All nominations and applications for the Community Advisory Board shall be 
+864 submitted through a public application process administered by the Authority in partnership with 
+865 the Massachusetts Municipal Association. 
+866  (2) Applications shall be publicly available for review for a period of not fewer than 30 
+867 days prior to selection. 
+868  (3) Selection criteria shall be published in advance, including but not limited to: 
+869 demonstrated commitment to community engagement, relevant expertise or lived experience, 
+870 geographic and demographic diversity, and absence of material financial relationships with AI 
+871 vendors holding or seeking state or municipal AI contracts or certifications. 
+872  (4) The Authority shall publish the names and qualifications of all applicants, a written 
+873 summary of the review process, and the basis for each selection decision within 14 days of final 
+874 selection; provided that home addresses, personal contact information, and other personal 
+875 identifying information of applicants shall be redacted from publication. 
+876  (f) Conflict of interest. 
+
+43 of 58 877  (1) No individual with a material financial relationship to any AI vendor holding or 
+878 seeking a Massachusetts AI Trust Certification or a state or municipal AI contract shall be 
+879 eligible to serve on the Community Advisory Board; provided, however, that for purposes of 
+880 eligibility for the seat described in subsection (c)(2), employment by a for-profit entity in the AI 
+881 industry shall not, standing alone, constitute a material financial relationship unless the employer 
+882 holds or is seeking a Massachusetts AI Trust Certification, Innovation Sandbox admission, or a 
+883 state or municipal AI contract. 
+884  (2) An individual with pending litigation against, or pending employment negotiation 
+885 with, any such entity shall disclose that fact upon application and upon its arising, and shall not 
+886 participate in any Board action concerning that entity during its pendency. 
+887  (3) No individual who has made public statements advocating the shutdown, prohibition, 
+888 or regulatory sanction of a specific identified entity within the preceding 24 months shall 
+889 participate in any Board action concerning that entity, and shall disclose such statements upon 
+890 seating. 
+891  (4) A member nominated by a municipality that has received material funding from a 
+892 certified entity, a sandbox participant, or an applicant for certification or sandbox admission 
+893 within the preceding 36 months shall disclose that relationship publicly, and shall not participate 
+894 in any Board action concerning the funding entity during the pendency of the relationship and for 
+895 24 months thereafter. 
+896  (5) Members shall annually file public disclosures identifying any relationships that could 
+897 reasonably give rise to a conflict of interest under this subsection. 
+898  (g) Core duties and authorities. The Community Advisory Board shall: 
+
+44 of 58 899  (1) synthesize the findings of municipal Community AI Assessments into a statewide 
+900 understanding of how artificial intelligence is experienced across the diverse communities of the 
+901 commonwealth, identifying both the common values and the distinct local conditions that must 
+902 inform state policy; 
+903  (2) publish an annual report on the state of human understanding and readiness with 
+904 respect to artificial intelligence across the commonwealth, including an independent assessment 
+905 of the Authority's performance and whether certification and sandbox programs are reaching the 
+906 communities the Board represents; 
+907  (3) develop and publish recommended standards and plain-language guides to assist 
+908 residents in understanding and exercising the rights established by section 2, including guides 
+909 translated into the principal languages spoken across the commonwealth; 
+910  (4) recommend to the Authority, on a rolling basis, proposed additions to the categories 
+911 of consequential decision under section 1 that the Authority may adopt by regulation consistent 
+912 with the standard established by that section, and recommend to the Joint Committee on 
+913 Advanced Information Technology, the Internet and Cybersecurity proposed amendments to this 
+914 chapter to address AI applications that materially affect residents but fall outside the scope of 
+915 existing categories or the Authority's regulatory authority; and 
+916  (5) advise the General Court, the governor, the Authority, and the Massachusetts 
+917 Municipal Association on matters affecting communities with respect to artificial intelligence. 
+918  (h) Investigatory authority. 
+
+45 of 58 919  (1) The Community Advisory Board may initiate formal inquiries into whether certified 
+920 entities, sandbox participants, or applicants are complying with their certification or sandbox 
+921 terms, with the transparency obligations of section 2, or with the disclosure obligations of section 
+922 5, upon substantiated complaint from an affected resident, a municipality, a public employee, or 
+923 a designated representative. 
+924  (2) A formal inquiry shall be opened only by the affirmative vote of not fewer than two-
+925 thirds of the seated voting members, and in no event fewer than 6, with the vote and rationale 
+926 documented in the public record. An inquiry shall not be initiated or pursued at the direction of 
+927 any individual member without such Board action. 
+928  (3) In the course of a formal inquiry, the Board may require the entity under inquiry to 
+929 provide information relevant to the inquiry. The Board may seek enforcement of such 
+930 requirements through subpoena issued in accordance with procedural rules governing the Board's 
+931 own proceedings, which the Board shall adopt and publish and which shall provide, at minimum, 
+932 standards of relevance and proportionality of scope, the preservation of applicable privileges, 
+933 protection of trade secrets and confidential information consistent with section 9(f), reasonable 
+934 methods of service, an opportunity to object, and modification or quashal by the Superior Court. 
+935 A subpoena under this paragraph shall be enforceable through proceedings in the Superior Court. 
+936  (4) A formal inquiry shall conclude within 18 months of initiation unless extended by the 
+937 affirmative vote of not fewer than two-thirds of the seated voting members, and in no event 
+938 fewer than 6, with published reasons. The Board shall publish findings at the conclusion of each 
+939 inquiry, including findings of no violation where applicable. 
+
+46 of 58 940  (5) Upon finding substantial evidence of non-compliance, the Board may refer the matter 
+941 to the attorney general, the inspector general, the state ethics commission, or the governing board 
+942 of the Authority for appropriate action. 
+943  (6) Certified entities, sandbox participants, and applicants shall not be required to respond 
+944 to informal inquiries by individual Board members. Only formally opened inquiries pursuant to 
+945 paragraph (2) carry any obligation to respond. 
+946  (7) The Board may prohibit, by rule, any funding, coordination, or organization by 
+947 certified entities, sandbox participants, or applicants of community feedback submitted to the 
+948 Board. Undisclosed activity of this nature shall constitute grounds for revocation 
+949 recommendation. 
+950  (i) Petition authority. 
+951  (1) The Community Advisory Board may formally petition the governing board of the 
+952 Authority to adopt, amend, or rescind any regulation, certification criterion, sandbox standard, or 
+953 reciprocity agreement. 
+954  (2) The governing board of the Authority shall respond in writing to any such petition 
+955 within 60 days, addressing the substantive concerns raised and stating the basis for its action or 
+956 inaction. 
+957  (3) Prior to adopting or amending certification criteria, sandbox admission standards, or 
+958 reciprocity agreements, the governing board of the Authority shall submit the proposed action to 
+959 the Community Advisory Board for review and comment over a period of not fewer than 60 days 
+960 and shall publish its written response to substantive comments alongside any final adoption. 
+
+47 of 58 961  (4) If the governing board of the Authority fails to respond to a petition within the 
+962 required time, or if its response does not address the substantive concerns raised in the petition, 
+963 the Community Advisory Board may seek declaratory judgment in the Superior Court regarding 
+964 the Authority's compliance with this subsection. 
+965  (j) Revocation recommendation authority. 
+966  (1) The Community Advisory Board may formally recommend revocation, suspension, or 
+967 modification of any Massachusetts AI Trust Certification or sandbox participation. A formal 
+968 recommendation shall be made only by the affirmative vote of not fewer than two-thirds of the 
+969 seated voting members, and in no event fewer than 6, with the vote and rationale documented in 
+970 the public record. 
+971  (2) The governing board of the Authority shall vote publicly on any revocation 
+972 recommendation within 90 days of receipt. If the governing board declines to act on the 
+973 recommendation, it shall publish its written reasoning. 
+974  (3) Voluntary withdrawal from certification or sandbox participation during the pendency 
+975 of a formal inquiry or revocation proceeding shall not moot the proceeding. The Authority shall 
+976 proceed to a finding on whether revocation would have been appropriate and shall note any such 
+977 voluntary withdrawal in the public registry. 
+978  (k) Escalation to legislative oversight. If the Community Advisory Board, by the 
+979 affirmative vote of not fewer than two-thirds of the seated voting members, and in no event 
+980 fewer than 6, concludes that the Authority has systematically failed to fulfill its statutory mission 
+981 or has unreasonably failed to respond to the Board's petitions or recommendations, the Board 
+
+48 of 58 982 may refer the matter to the Joint Committee on Advanced Information Technology, the Internet 
+983 and Cybersecurity under section 8(a)(5). 
+984  (l) Limitation of authority. The Community Advisory Board shall have no regulatory 
+985 authority, no permitting authority, and no authority to directly delay, condition, or restrict the 
+986 deployment or use of any AI system. The authorities granted under this section are authorities of 
+987 inquiry, petition, recommendation, and referral. Final action with respect to certification, 
+988 sandbox admission, or reciprocity rests with the governing board of the Authority. The Board's 
+989 jurisdiction extends to certified entities, sandbox participants, and applicants; it does not extend 
+990 to the internal operations or personnel decisions of the Authority. 
+991  (m) Rights of entities under inquiry. 
+992  (1) An entity that is the subject of a formal inquiry has the right to notice of the inquiry, a 
+993 statement of the matters under inquiry, and a reasonable opportunity to respond. 
+994  (2) At the conclusion of an inquiry in which no violation is found, the Board's findings 
+995 shall clearly state this result, and the entity shall have the right to a public statement in the 
+996 Board's findings. 
+997  (3) An entity subjected to a formal inquiry that a court finds to have been conducted 
+998 without adequate factual basis may seek declaratory relief and recovery of reasonable legal costs. 
+999 This remedy shall not be available for inquiries that identified partial violations, concerning 
+1000 practices short of violations, or conduct warranting further review. 
+1001  (n) Confidentiality and member conduct. 
+
+49 of 58 1002  (1) Board members serve under a confidentiality obligation regarding non-public 
+1003 information obtained through Board proceedings. Leaks or unauthorized disclosures of non-
+1004 public information shall constitute grounds for removal under subsection (d)(6). 
+1005  (2) Public statements by individual members about pending Board matters are prohibited. 
+1006 Only the Board's formal published findings and actions speak for the Board. This paragraph does 
+1007 not restrict individual members' First Amendment rights to speak about general AI policy matters 
+1008 not directly before the Board. 
+1009  (3) Board members shall not communicate with certified entities, sandbox participants, or 
+1010 applicants about pending matters outside formal Board proceedings. Any such communications 
+1011 shall be disclosed to the Board and, upon conclusion of the matter, to the public. 
+1012  (4) Board members who declare candidacy for partisan elected office shall resign from 
+1013 the Board immediately. The Board's prior work involving matters in which the former member 
+1014 substantively participated shall be subject to retroactive review for potential conflicts. 
+1015  (o) Meetings. Community Advisory Board meetings shall be open to the public and 
+1016 subject to the open meeting law, sections 18 to 25, inclusive, of chapter 30A of the General 
+1017 Laws. Meeting agendas, minutes, and materials shall be published on a public website not fewer 
+1018 than 48 hours before each meeting and within 7 days following each meeting, respectively. The 
+1019 Board may hold non-public executive sessions solely for the purpose of discussing specific 
+1020 matters of ongoing inquiry that would be prejudiced by public discussion, consistent with the 
+1021 executive session provisions of section 21 of said chapter 30A. 
+1022  (p) Resources. 
+
+50 of 58 1023  (1) The Community Advisory Board shall have dedicated professional staff support 
+1024 within the Authority. The Authority shall provide the Board with not less than the equivalent of 5 
+1025 full-time professional staff positions at commencement of Board operations, increasing as 
+1026 caseload warrants, including legal, investigative, technical, and policy staff. Board staff shall 
+1027 report to the Board with respect to the exercise of the Board's authorities under this section. 
+1028  (2) Board members shall receive an annual stipend of not less than $15,000 in recognition 
+1029 of the time commitment required, together with reimbursement for expenses reasonably incurred 
+1030 in Board service. 
+1031  (3) The Board shall have access to independent technical expertise through contract or 
+1032 consulting arrangements, with such access not contingent on the approval of the Executive 
+1033 Director of the Authority. 
+1034  (4) The Board's annual operating budget shall be not less than 15 percent of the 
+1035 Authority's annual operating budget, drawn from the Trust Fund. This floor shall not be 
+1036 construed to limit the Board's ability to request or receive additional resources as warranted. 
+1037  (5) Newly seated Board members shall receive substantive technical orientation, arranged 
+1038 by the Authority in consultation with academic institutions or independent experts, during the 
+1039 first 120 days of their term. 
+1040  Section 11. The Relationship with the Massachusetts Municipal Association. 
+1041  (a) Named consultation partner. The MMA is recognized as a named consultation partner 
+1042 of the Authority when dealing with matters impacting municipalities. Before adopting or 
+1043 amending any rule that impacts municipal involvement in the Community AI Understanding 
+
+51 of 58 1044 Program, the Innovation Sandbox, reciprocity agreements or municipal access to AI Trust 
+1045 Certification processes, the Authority shall seek input from or consult with the MMA. 
+1046  (b) Partnership functions. The Authority has the right to engage the MMA through 
+1047 contract or intergovernmental agreement to perform any of the following functions on behalf of 
+1048 the Authority or to support any of the programs administered by the Authority: 
+1049  (1) administration of municipally related peer learning networks, training for officials and 
+1050 the development and publication of model municipal policies; 
+1051  (2) technical assistance rendered to small towns defined as having populations under 
+1052 25,000 in support of participation in the Community AI Understanding Program; 
+1053  (3) incident reporting that shall aggregate said municipal AI incidents up to the Authority 
+1054 and the Community Advisory Board; and 
+1055  (4) support function for recruiting geographically and/or demographically diverse 
+1056 municipalities for the Authority's obligation under section 6(f). 
+1057  (c) Guaranteed representation. One non-voting seat will be held by the MMA on both the 
+1058 Community Advisory Board and the Authority's governing board, as provided in sections 
+1059 9(b)(1)(H) and 10(b), which shall be for the purpose of ensuring efficient and smooth cross-
+1060 communication between the MMA and both of said bodies. 
+1061  (d) Deemed compliance. Model municipal AI policies described in subsection (b)(1) of 
+1062 this section, adopted by a municipality and written and published by the MMA without any 
+1063 materially relevant changes, shall presumptively satisfy any baseline municipal requirements set 
+1064 forth by the Authority, subject to review by the Community Advisory Board. 
+
+52 of 58 1065  (e) Funding. The MMA shall be reimbursed by the Authority for performing the 
+1066 functions described under subsection (b) through a budget line from the Authority and drawn 
+1067 from the Trust Fund. The Authority and the MMA will together draft an agreement defining the 
+1068 level of funding that shall be sufficient to support all the functions assigned to the MMA. 
+1069  (f) Alternative partners. Functions under subsection (b) that the MMA declines to 
+1070 perform, or where the Authority decides another partner is better equipped or suited to perform, 
+1071 the Authority may choose to contract with the Collins Center for Public Management at the 
+1072 University of Massachusetts Boston or any other qualified entity subjected to a competitive 
+1073 process. 
+1074  (g) Non-displacement. Nothing in this section shall be construed as a displacement, 
+1075 restriction or otherwise a diminishment of the independent advocacy role of the MMA on behalf 
+1076 of its municipal membership and with respect to this chapter or any other matter regardless of 
+1077 nature. 
+1078  Section 12. Intermunicipal Cooperation. 
+1079  (a) In order to build shared infrastructure concerning transparency, for conducting joint 
+1080 Community AI Assessments and for the pooling of resources relating to data governance and AI 
+1081 oversight capacity, the municipalities of the commonwealth may voluntarily enter into 
+1082 cooperative agreements. 
+1083  (b) Data generated by or through a cooperation framework entered into under this section 
+1084 shall be owned exclusively by the municipality within whose jurisdiction it was generated, and 
+1085 that municipality shall retain primary authority over said data, which is affirmed by the General 
+1086 Court. 
+
+53 of 58 1087  (c) From the Trust Fund the Authority shall administer grants to support voluntary 
+1088 municipal cooperation with priority to be given to small municipalities defined as municipalities 
+1089 with populations under 25,000 and/or with limited technical capacity to be determined by the 
+1090 Authority and the MMA. 
+1091  Section 13. Massachusetts AI Trust Fund. 
+1092  (a) Trust Fund. There shall be established and placed within the Authority a fund to be 
+1093 known as the Massachusetts AI Trust Fund, to be held by the Authority separate and apart from 
+1094 its other funds. The Fund shall be credited with: 
+1095  (1) any appropriations, bond proceeds, federal grants, or other monies authorized to be 
+1096 credited thereto by the General Court; 
+1097  (2) fees established by the Authority by regulation for AI Trust Certification applications, 
+1098 renewals, Innovation Sandbox participation, reciprocity processing, and related services; 
+1099  (3) assessments established by the Authority under subsection (c); 
+1100  (4) grants from foundations, federal agencies, and other non-state sources received for 
+1101 purposes consistent with this chapter; and 
+1102  (5) any other monies which may be available and are directed to the Fund. 
+1103  (b) Expenditure. The Authority shall expend monies in the Fund for the purposes of this 
+1104 chapter without further appropriation, including for operation of the Authority, the Community 
+1105 Advisory Board, programs administered by the Authority, grants to municipalities under sections 
+1106 6 and 12, reimbursement to the Massachusetts Municipal Association under section 11, and other 
+1107 purposes consistent with this chapter. 
+
+54 of 58 1108  (c) Industry assessment. 
+1109  (1) The Authority may annually assess covered AI deployers and developers doing 
+1110 business in the commonwealth, in such amounts and on such formula as the Authority shall 
+1111 determine by regulation, to fund the operations of the Authority and its programs. 
+1112  (2) The Authority shall establish by regulation the categories of deployers and developers 
+1113 subject to assessment, reasonable thresholds for assessment based on Massachusetts-related AI 
+1114 revenue or scale of AI deployment, and a formula designed to distribute the assessment burden 
+1115 equitably across categories of regulated entities; provided that no entity with annual 
+1116 Massachusetts-related AI revenue below $10,000,000 shall be subject to assessment, and 
+1117 provided further that the categories initially subject to assessment shall be limited to certified 
+1118 entities, sandbox participants, applicants for certification or sandbox admission, and vendors 
+1119 under enterprise AI deployment contracts with the commonwealth. 
+1120  (3) No assessment shall exceed the amount reasonably necessary to fund the Authority's 
+1121 operations and programs, taking into account other available funding sources; the aggregate of 
+1122 all assessments in any fiscal year shall not exceed the Authority's approved operating budget for 
+1123 that year; and each assessment shall bear a reasonable relationship to the cost of the regulatory 
+1124 and programmatic services provided by the Authority to the entities assessed, it being the intent 
+1125 of the General Court that the assessment operate as a regulatory fee and not as a tax. 
+1126  (4) The Authority shall publish the methodology by which each assessment is calculated 
+1127 and shall provide by regulation an administrative process through which an assessed entity may 
+1128 seek review of the calculation or applicability of an assessment, with further review available 
+1129 under chapter 30A. 
+
+55 of 58 1130  (d) Fee schedule. The Authority shall establish by regulation a fee schedule for AI Trust 
+1131 Certification applications, renewals, Innovation Sandbox participation, and reciprocity 
+1132 processing. The fee schedule shall be tiered by the size of the applying entity and the tier of 
+1133 certification sought, and shall include reduced fees for startups, small businesses, and 
+1134 organizations with limited capacity. Fees shall be reviewed not less than every 3 years and 
+1135 adjusted as necessary to maintain proportionality to the cost of providing the relevant services. 
+1136  (e) Audit. The Authority shall be subject to audit by the state auditor. The Authority shall 
+1137 publish audited financial statements annually. 
+1138  Section 14. Limitations. 
+1139  (a) Except for the disclosure, recordkeeping, reporting, auditing, procurement, 
+1140 certification, and facility impact reporting obligations expressly established by this chapter, 
+1141 nothing in this chapter shall be construed to: 
+1142  (1) prohibit, restrict, condition, license, or impose operational requirements upon the 
+1143 development, training, deployment, or use of any artificial intelligence system; provided, 
+1144 however, that the facility impact reporting authorized by section 4 concerns the physical 
+1145 operation of covered facilities and does not constitute an operational requirement upon any AI 
+1146 system within the meaning of this paragraph; 
+1147  (2) create any regulatory authority, permitting requirement, or approval process for AI 
+1148 systems at the state or municipal level; 
+1149  (3) require the disclosure of proprietary algorithms, trade secrets, model weights, training 
+1150 data, or other confidential intellectual property; the disclosure obligations of section 2 attach 
+
+56 of 58 1151 solely to the application of the AI system, at inference, to the affected individual, and shall not be 
+1152 construed to require any examination of or inquiry into training data, training methodology, or 
+1153 model development processes; 
+1154  (4) require the documentation, inventory, or auditing of training data used to develop 
+1155 foundation models or large language models, the General Court having found that, as of the 
+1156 effective date of this Act, such requirements are technically infeasible for these systems using 
+1157 currently available methods and do not address the inference-time risks that are the subject of 
+1158 this chapter; provided that nothing in this subsection limits the authority of existing law to 
+1159 require training data documentation for narrow AI systems where such documentation is 
+1160 feasible; and provided further that this subsection shall not be construed to limit the authority of 
+1161 the General Court to revisit training data documentation requirements as methods and technical 
+1162 standards evolve; 
+1163  (5) impose liability based solely on the composition or provenance of training data for 
+1164 foundation models or large language models, the General Court having determined that the 
+1165 relevant transparency obligation for these systems attaches at the point of impact on individuals, 
+1166 not at the point of model development; or 
+1167  (6) limit the right of any person or entity to develop, train, deploy, or use computational 
+1168 resources for lawful purposes; the visibility provided in section 4 is not a limitation of that right. 
+1169  (b) This chapter establishes transparency at the point of impact. It requires that when AI 
+1170 systems make or substantially inform consequential decisions about Massachusetts residents, 
+1171 those residents can see it. It extends the same principle to delegated transactions in which AI 
+1172 systems act autonomously on behalf of residents, and to the community impacts of the physical 
+
+57 of 58 1173 infrastructure from which these systems operate. It does not dictate how AI systems are built, 
+1174 what data they are trained on, or how they operate internally. The Commonwealth of 
+1175 Massachusetts welcomes the development and deployment of artificial intelligence and seeks to 
+1176 create conditions of trust and visibility in which innovation thrives. 
+1177  (c) Nothing in the general laws shall be construed to diminish municipal AI transparency 
+1178 authority as affirmed by sections 3 and 4 of this chapter except by express legislative statement 
+1179 specifically and explicitly identifying its intent to restrict, diminish, or preempt such authority. 
+1180  (d) Nothing in this chapter shall be construed to limit any right, remedy, or protection 
+1181 available to any resident, worker, or municipality under any other provision of the general laws, 
+1182 federal law, or municipal ordinance. 
+1183  SECTION 4. Severability. 
+1184  If any provision of this act or the application thereof to any person or circumstance is 
+1185 held invalid, such invalidity shall not affect other provisions or applications of this act which can 
+1186 be given effect without the invalid provision or application, and to this end the provisions of this 
+1187 act are declared to be severable. 
+1188  SECTION 5. Effective Date and Transition. 
+1189  (a) This act shall take effect on January 1, 2028, except as otherwise provided in this 
+1190 section. 
+1191  (b) The Authority established under section 9 of the chapter inserted by section 4 of this 
+1192 act may take such preparatory actions as necessary prior to the effective date, including 
+1193 appointing an initial governing board, hiring initial staff, developing regulations, establishing AI 
+
+58 of 58 1194 Trust Certification criteria, soliciting municipal participation in the Community AI 
+1195 Understanding Program, convening the initial Community Advisory Board selection process, and 
+1196 entering into initial consultation with the Massachusetts Municipal Association under section 11 
+1197 of said chapter. 
+1198  (c) The appointing authorities for the governing board of the Authority shall make initial 
+1199 appointments not later than 180 days following the enactment of this act. The initial Community 
+1200 Advisory Board selection process shall conclude not later than 360 days following the enactment 
+1201 of this act. 
+1202  (d) Prior to the seating of the members selected by the Community Advisory Board under 
+1203 section 9(b)(1)(G) of said chapter, the governing board of the Authority may organize and 
+1204 exercise all powers of the Authority with the seats then filled, and a majority of the seated voting 
+1205 members shall constitute a quorum for that period. 
+1206  (e) For the initial selection of the Community Advisory Board only, the municipal seats 
+1207 under section 10(b)(1) of said chapter may be filled upon the nomination of the governing body 
+1208 of any municipality that has, by vote of its governing body, committed to participate in the 
+1209 Community AI Understanding Program. 
+1210  (f) Regulations adopted by the Authority under said chapter shall be subject to the 
+1211 provisions of chapter 30A of the general laws governing the adoption of regulations by state 
+1212 agencies. 

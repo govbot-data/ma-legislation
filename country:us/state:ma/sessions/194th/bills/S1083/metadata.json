@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Eldridge, a petition (accompanied by bill, Senate, No. 1083) of James B. Eldridge for legislation to clarify the definition of “control” to include supervising a person under the age of 18 who is in a law enforcement training program and rape by an officer.  The Judiciary."
+      "abstract": "By Mr. Eldridge, a petition (accompanied by bill, Senate, No. 1083) of James B. Eldridge for legislation to clarify the definition of \u201ccontrol\u201d to include supervising a person under the age of 18 who is in a law enforcement training program and rape by an officer.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -144,6 +144,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:02.523831Z"
   }
 }

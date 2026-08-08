@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H3730",
-  "title": "An Act relative to training tomorrow’s trucking industry workforce",
+  "title": "An Act relative to training tomorrow\u2019s trucking industry workforce",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -150,6 +150,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:02.532578Z"
   }
 }

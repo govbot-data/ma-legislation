@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4953",
-  "title": "An Act relative to establishing the temporary emergency veterans’ assistance program",
+  "title": "An Act relative to establishing the temporary emergency veterans\u2019 assistance program",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Badger of Plymouth and LaNatra of Kingston, a petition (subject to Joint Rule 12) of Michelle L. Badger for legislation to establish the temporary emergency veterans’ assistance program.  Veterans and Federal Affairs."
+      "abstract": "By Representatives Badger of Plymouth and LaNatra of Kingston, a petition (subject to Joint Rule 12) of Michelle L. Badger for legislation to establish the temporary emergency veterans\u2019 assistance program.  Veterans and Federal Affairs."
     }
   ],
   "other_titles": [],
@@ -107,6 +107,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:31.071815Z"
   }
 }

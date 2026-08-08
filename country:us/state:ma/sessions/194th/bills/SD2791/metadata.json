@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Executive Office of the Trial Court (pursuant to line item 0330-0601 of Section 2 of Chapter 140 of the Acts of 2024) submitting the Trial Court’s use of specialty court funding, specifically the interdepartmental transfers of funds to various departments of the Commonwealth"
+      "abstract": "Report of the Executive Office of the Trial Court (pursuant to line item 0330-0601 of Section 2 of Chapter 140 of the Acts of 2024) submitting the Trial Court\u2019s use of specialty court funding, specifically the interdepartmental transfers of funds to various departments of the Commonwealth"
     }
   ],
   "other_titles": [],
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:31.113161Z"
   }
 }

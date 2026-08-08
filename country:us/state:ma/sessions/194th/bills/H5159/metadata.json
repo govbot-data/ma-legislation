@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5159",
-  "title": "An Act authorizing the Massachusetts Teachers’ Retirement System to grant credible service to Sara Scibelli",
+  "title": "An Act authorizing the Massachusetts Teachers\u2019 Retirement System to grant credible service to Sara Scibelli",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Ashe of Longmeadow, a petition (subject to Joint Rule 12) of Brian M. Ashe for legislation to authorize the Massachusetts Teachers’ Retirement System to grant credible service to Sara Scibelli.  Public Service."
+      "abstract": "By Representative Ashe of Longmeadow, a petition (subject to Joint Rule 12) of Brian M. Ashe for legislation to authorize the Massachusetts Teachers\u2019 Retirement System to grant credible service to Sara Scibelli.  Public Service."
     }
   ],
   "other_titles": [],
@@ -161,6 +161,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:05.186020Z"
   }
 }

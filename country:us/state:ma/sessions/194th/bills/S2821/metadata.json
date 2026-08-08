@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, January 7, 2026 -- The committee on Consumer Protection and Professional Licensure to whom was referred the petition (accompanied by bill, Senate, No. 258) of Paul W. Mark for legislation to protect the privacy of individuals’ social care information, report the accompanying bill (Senate, No. 2821)."
+      "abstract": "Senate, January 7, 2026 -- The committee on Consumer Protection and Professional Licensure to whom was referred the petition (accompanied by bill, Senate, No. 258) of Paul W. Mark for legislation to protect the privacy of individuals\u2019 social care information, report the accompanying bill (Senate, No. 2821)."
     }
   ],
   "other_titles": [],
@@ -121,6 +121,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:26:11.839323Z"
   }
 }

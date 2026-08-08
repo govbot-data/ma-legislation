@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5703",
-  "title": "A communication from the Massachusetts Sheriffs’ Association (see item 8910-7110 of Section 2 of Chapter 9 of the Acts of 2025) submitting its Grants Awarded report for fiscal year 2025",
+  "title": "A communication from the Massachusetts Sheriffs\u2019 Association (see item 8910-7110 of Section 2 of Chapter 9 of the Acts of 2025) submitting its Grants Awarded report for fiscal year 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:31.777720Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gómez of Easthampton and Senator Comerford, a joint petition (subject to Joint Rule 12) of Homar Gómez relative to reports of crimes to law enforcement officials.  The Judiciary."
+      "abstract": "By Representative G\u00f3mez of Easthampton and Senator Comerford, a joint petition (subject to Joint Rule 12) of Homar G\u00f3mez relative to reports of crimes to law enforcement officials.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -99,7 +99,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -143,6 +143,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T17:18:34Z"
+    "logs_latest_update": "2026-08-07T17:18:34Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:21.533098Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Sabadosa of Northampton and Montaño of Boston, a petition (accompanied by bill, House, No. 3412) of Lindsay N. Sabadosa and Samantha Montaño for the issuance of an annual proclamation by the Governor to designate September 20th as LGBTQ+ veterans day.  State Administration and Regulatory Oversight."
+      "abstract": "By Representatives Sabadosa of Northampton and Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 3412) of Lindsay N. Sabadosa and Samantha Monta\u00f1o for the issuance of an annual proclamation by the Governor to designate September 20th as LGBTQ+ veterans day.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -94,7 +94,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -138,6 +138,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:22:47.520692Z"
   }
 }

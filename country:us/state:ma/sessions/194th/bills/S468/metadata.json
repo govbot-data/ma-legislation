@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S468",
-  "title": "An Act to improve care and prepare for the new era of Alzheimer’s and dementia",
+  "title": "An Act to improve care and prepare for the new era of Alzheimer\u2019s and dementia",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Gomez, a petition (accompanied by bill, Senate, No. 468) of Adam Gomez, Jason M. Lewis, Paul W. Mark, John F. Keenan and other members of the General Court for legislation to improve care and prepare for the new era of Alzheimer’s and dementia by developing a public awareness campaign on brain health.  Elder Affairs."
+      "abstract": "By Mr. Gomez, a petition (accompanied by bill, Senate, No. 468) of Adam Gomez, Jason M. Lewis, Paul W. Mark, John F. Keenan and other members of the General Court for legislation to improve care and prepare for the new era of Alzheimer\u2019s and dementia by developing a public awareness campaign on brain health.  Elder Affairs."
     }
   ],
   "other_titles": [],
@@ -86,7 +86,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Adam Gómez",
+      "name": "Adam G\u00f3mez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -306,6 +306,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:26:48.782078Z"
   }
 }

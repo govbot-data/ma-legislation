@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Connolly of Cambridge and Cabral of New Bedford, a petition (accompanied by bill, House, No. 1114) of Mike Connolly, Antonio F. D. Cabral and Samantha Montaño for legislation to establish a Massachusetts public bank.  Financial Services."
+      "abstract": "By Representatives Connolly of Cambridge and Cabral of New Bedford, a petition (accompanied by bill, House, No. 1114) of Mike Connolly, Antonio F. D. Cabral and Samantha Monta\u00f1o for legislation to establish a Massachusetts public bank.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -150,7 +150,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -202,6 +202,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:20:48.772552Z"
   }
 }

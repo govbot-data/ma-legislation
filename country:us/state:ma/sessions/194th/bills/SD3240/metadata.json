@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3240",
-  "title": "An Act to add multi-family housing constructed in compliance with the state’s transit-oriented development statute to the list of facilities exempted from the single-parcel rule",
+  "title": "An Act to add multi-family housing constructed in compliance with the state\u2019s transit-oriented development statute to the list of facilities exempted from the single-parcel rule",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Barrett, a petition (accompanied by bill) (subject to Joint Rule 12) of Michael J. Barrett for legislation to add multi-family housing constructed in compliance with the state’s transit-oriented development statute to the list of facilities exempted from the single-parcel rule.  Telecommunications, Utilities and Energy."
+      "abstract": "By Mr. Barrett, a petition (accompanied by bill) (subject to Joint Rule 12) of Michael J. Barrett for legislation to add multi-family housing constructed in compliance with the state\u2019s transit-oriented development statute to the list of facilities exempted from the single-parcel rule.  Telecommunications, Utilities and Energy."
     }
   ],
   "other_titles": [],
@@ -117,6 +117,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:53.422340Z"
   }
 }

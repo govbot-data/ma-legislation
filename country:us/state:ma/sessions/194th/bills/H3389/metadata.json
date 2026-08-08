@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Moakley of Falmouth and Senator Cyr, a joint petition (accompanied by bill, House, No. 3389) of Thomas W. Moakley and Julian Cyr for legislation to waive certain chargebacks for the Dukes County Sheriff’s Regional Emergency Communication Center.  State Administration and Regulatory Oversight."
+      "abstract": "By Representative Moakley of Falmouth and Senator Cyr, a joint petition (accompanied by bill, House, No. 3389) of Thomas W. Moakley and Julian Cyr for legislation to waive certain chargebacks for the Dukes County Sheriff\u2019s Regional Emergency Communication Center.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -152,6 +152,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:34.941977Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H315",
-  "title": "An Act empowering disadvantaged state contractors” provides up-front down payments and bridge loans to socially or economically disadvantaged microbusinesses and small businesses that secure state contracts through CDFIs and non-traditional lenders",
+  "title": "An Act empowering disadvantaged state contractors\u201d provides up-front down payments and bridge loans to socially or economically disadvantaged microbusinesses and small businesses that secure state contracts through CDFIs and non-traditional lenders",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -144,6 +144,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:40:33.140595Z"
   }
 }

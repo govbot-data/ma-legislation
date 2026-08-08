@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H5458",
-  "title": "An Act establishing a veterans’ suicide mortality review and prevention council",
+  "title": "An Act establishing a veterans\u2019 suicide mortality review and prevention council",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Tarsky of Needham, a petition (subject to Joint Rule 12) of Joshua Tarsky for legislation to authorize the establishment of a veterans’ suicide mortality review and prevention council within the Executive Office of Veterans’ Services.  Veterans and Federal Affairs."
+      "abstract": "By Representative Tarsky of Needham, a petition (subject to Joint Rule 12) of Joshua Tarsky for legislation to authorize the establishment of a veterans\u2019 suicide mortality review and prevention council within the Executive Office of Veterans\u2019 Services.  Veterans and Federal Affairs."
     }
   ],
   "other_titles": [],
@@ -133,6 +133,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:17Z"
+    "logs_latest_update": "2026-07-21T23:17:17Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:00.085278Z"
   }
 }

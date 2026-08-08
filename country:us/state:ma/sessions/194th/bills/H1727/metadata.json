@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative González of Springfield, a petition (accompanied by bill, House, No. 1727) of Carlos González for legislation to establish a special commission (including members of the General Court) relative to increasing racial diversity among judges.  The Judiciary."
+      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 1727) of Carlos Gonz\u00e1lez for legislation to establish a special commission (including members of the General Court) relative to increasing racial diversity among judges.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -86,7 +86,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -138,6 +138,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:21:37.681054Z"
   }
 }

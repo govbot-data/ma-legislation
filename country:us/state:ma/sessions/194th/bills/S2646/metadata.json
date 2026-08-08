@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2646",
-  "title": "An Act to transform the Commonwealth’s emergency response system and create housing strategies to end the homelessness of unaccompanied adults",
+  "title": "An Act to transform the Commonwealth\u2019s emergency response system and create housing strategies to end the homelessness of unaccompanied adults",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -121,6 +121,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z"
+    "logs_latest_update": "2026-07-21T23:17:14Z",
+    "text_extraction_latest_update": "2026-08-08T00:17:07.711992Z"
   }
 }

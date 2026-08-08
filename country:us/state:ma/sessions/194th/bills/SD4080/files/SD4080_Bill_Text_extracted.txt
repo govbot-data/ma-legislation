@@ -1,0 +1,455 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+August  1, 2026  
+Michael D. Hurley  
+Senate Clerk  
+State House, Room 335  
+Boston, MA 02133  
+Timothy Carroll  
+House Clerk  
+State House, Room 145  
+Boston, MA 02133  
+Clerk Hurley , Clerk Carroll , and the Joint Committee on State Administration & Regulatory 
+Oversight : 
+Pursuant to Section 109  of Chapter 6A of the General Laws , I am  transmitting to you this 
+annual report on progress of data collection for the Data Equity Law.  
+Sincerely, 
+Secretary Matthew J. Gorzkowicz,   
+Executive Office for Administration  and  Finance  
+
+   
+ 
+2 
+  
+MEMORANDUM  
+ 
+TO: Senate Clerk Hurley, House Clerk Carroll, Joint Committee on State Administration 
+& Regulatory Oversight  
+FR: Executive Office for Administration and Finance  
+DT: August 1 , 202 6 
+RE: Annual Data Equity Law Report  
+ 
+Background  
+The FY24 General Appropriations Act (GAA) included an outside section  requiring state 
+government entities that already collect demographic data on race and ethnicity to do so 
+at a standardized and more detailed level  (“Data Equity Law”).  The Data Equity Law , M.G.L. 
+c. 6A s. 109,  require s the Executive Office for Administration & Finance (“A&F”) to establish 
+regulations and guidelines on the collection of demographic data. Under subsection (f) (3) 
+of section 109 of chapter 6A, A&F is required to submit an annual report on the progress of 
+data collection under the Data Equity Law and provide a list of all waivers granted and the 
+grounds for which the waiver was granted.  
+On January 3, 2025, A&F issued regulations on the collection of demographic data ( 810 
+CMR 8.00 ). The  Data Equity  Law and accompanying regulations  identifie d standardized 
+demographic groups, mandated transparency and privacy, and established a waiver 
+process. A&F, in partnership with the Executive Office of Technology Services & Security  
+(“EOTSS”) , defined an implementation plan , completed a preliminary survey to identify 
+programs subject to the Data Equity Law, and issued additional implementation guidance  
+and a waiver application  to agencies in December  2025.  
+This implementation  guidance provide d agencies with  more details o n requirements for 
+multiple selections and custom entries, data privacy and confidentiality, and reporting and 
+compliance. The guidance also provided standard disclosure language on voluntary 
+participation , recommended interaction designs for digital experiences (supported by 
+EOTSS Design System Team), and reporting format best practices and templates 
+(supported by the EOTSS  Office of Data Innovation & Analytics).   
+Program Implementation  
+The implementation guidance set  September 30, 2026 as the date by which programs must 
+be compliant with the Data Equity Law . Programs can achieve compliance through 
+updat ing their programs to collect data in accordance with the Data Equity Law , integrating 
+with the MyMassGov user profile,  or having an approved programmatic waiver in place.  
+
+   
+ 
+3 
+ Through the implementation survey completed by executive branch agencies, we identified 
+111 programs that are subject to the Data Equity Law. We anticipate 38 programs will be 
+compliant by September 30, 2026  across 8 Secretariats .  
+MyMassGov  
+MyMassGov , the Commonwealth’s centralized online system for state services, was 
+updated in June 2026 to meet the requirements of  the Data Equity Law. Constituents can 
+now identify their race and ethnicity using the more granular options  outlined in the Data 
+Equity Law and regulations. State programs that are integrated with the MyMassGov user 
+profile are compliant with the Data Equity Law through this integration.  
+Waiver Process  
+A&F has completed its first round of waiver requests. Agencies could apply for waivers for 
+programs th at could not comply by September 30, 202 6 due to  the following reasons:  
+1) Contradictory obligations under another state or federal law  (“Contradictory Law ”) 
+2) Information collected cannot be reported in a way that protects personally 
+identifiable information (“PII”)  
+3) Changes to demographic data collection require updates to technology system(s), 
+and timeline for system updates does not align with implementation timeline of this 
+law (“System Constraints”)  
+4) The information cannot be collected without imposing a burden that significantly 
+outweighs the benefits of collection  (“Excess Burden”)  
+Agencies could select more than one reason for requiring a waiver. Agencies were required 
+to provide justification (s) on need for each waiver reason selected and to provide a 
+timeframe for ability to comply with the Data Equity Law, if feasible.  
+Waiver Outcomes  
+A&F granted 73 programmatic waivers across 8 Secretariats . Waivers were granted 
+between 1 -5 years, with expiration dates on June 30 of that year.  See Appendix A for 
+detailed information on approved waivers.  
+The majority of  waivers were granted due to Contradictory Law or System Constraints. 
+Waiver approval timeframes were generally shorter for those with system constraints as 
+agencies often need additional time or  funding but will ultimately  comply  with the Data 
+Equity Law . Waiver approval timeframes for those with contradictory laws were generally 
+longer as the agency is required to collect and/or report data in a different format than the 
+Data Equity Law.  These agencies will work over their identified time frames  to determine if 
+alignment is feasible.   
+Many EOHHS programs received waivers due to their current or planned alignment with the 
+Quality Measure Alignment Taskforce (“QMAT”) requirements.  
+
+   
+ 
+4 
+ Quality Measure Alignment Taskforce (“QMAT”)  
+Since 2017, EOHHS, in collaboration with the Massachusetts Health Policy Commission 
+(HPC) and the Center for Health Information Analysis (CHIA), has been conven ing the 
+QMAT to build consensus on an aligned quality measure set for voluntary adoption by 
+private and public payers and providers in global budget -based risk contracts. In 2022, 
+EOHHS established a QMAT Health Equity Data Technical Advisory Group (HE Data T AG) to 
+recommend aligned data standards for race, ethnicity, language, disability, sexual 
+orientation, and gender identity. As part of the Advancing Health Equity in Massachusetts 
+(AHEM) initiative, EOHHS expanded adoption of these standards across agencie s in 2024. 
+The TAG was reconvened in 2025 to update the standards, which were approved and 
+recommended by the Secretary of EOHHS in November 2025 for adoption across EOHHS 
+and Massachusetts payers and providers by 2028.  
+Beginning in January 2026, QMAT will serve as a Technical Advisory Group supporting the 
+statutorily mandated Statewide Quality Advisory Committee (SQAC) (Chapter 343 Sec. 44, 
+S.14(a)) in establishing data standards for an aligned quality measure set that w ill be 
+mandatory for use in 2027 –2028 global budget -based contracts between health care 
+payers and providers. The SQAC relies on the QMAT as a Technical Advisory Group to 
+inform its aligned measure set; the race and ethnicity data standards are currently p art of 
+the QMAT set.  
+Next Steps  
+A&F and EOTSS are providing ongoing  technical assistance and implementation support as 
+agencies implement the Data Equity Law  by September 30, 2026.  
+  
+
+   
+ 
+5 
+ Appendix A: App roved Waivers  
+Agency  Program  or System  Waiver Reason  Waiver Timeframe  
+DOT: RMV  Massachusetts Uniform 
+Citation  (3) System Constraints  
+(4) Excess Burden  June 30, 2029  
+EOAF: GIC  GIC Portal / Enrollment 
+System  (3) System Constraints  
+(4) Excess Burden  June 30, 2031  
+EOAF: HRD  MassCareers  (3) System Constraints  June 30, 2031  
+EOAF: HRD  HR/CMS  (1) Contradictory Law  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2031  
+EOAF: MOD  Client Assistance 
+Program  (3) System Constraints  June 30, 2027  
+EOAF: MOD  Communications & 
+Training (Training 
+Feedback Survey)  (3) System Constraints  June 30, 2027  
+EOAF: MOD  Disability Rights Unit 
+(Consultation Feedback 
+Survey) m (3) System Constraints  June 30, 2027  
+EOE: EEC  Professional 
+Qualification Registry 
+(PQR)  (3) System Constraints  June 30, 2027  
+EOE: EEC  Waitlist for Child Care 
+Financial Assistance 
+(Kinderwait)  (3) System Constraints  June 30, 2027  
+EOE: EEC  Commonwealth 
+Preschool Partnership 
+Initiative (CPPI)  (3) System Constraints  June 30, 2028  
+EOE: EEC  Early Childhood Mental 
+Health Consultation 
+Grant Program (ECMH)  (3) System Constraints  June 30, 2028  
+EOE: DESE  Educator Licensure and 
+Renewal System (ELAR)  (3) System Constraints  June 30, 2027  
+EOE: DESE  Educator Preparation 
+System (ELAR)  (3) System Constraints  June 30, 2027  
+EOE: DESE  State Performance Plan 
+and Annual Performance 
+Report Indicator 8 Parent 
+Engagement  (1) Contradictory Law  June 30, 2029  
+EOE: DESE  Data and Accountability  (1) Contradictory Law  
+(3) System Constraints  June 30, 2030  
+EOE: DHE  Behavioral Health 
+Workforce Scholarship  (3) System Constraints  June 30, 2027  
+EOE: DHE  Early Childhood Educator 
+Scholarship  (3) System Constraints  June 30, 2027  
+
+   
+ 
+6 
+ Agency  Program  or System  Waiver Reason  Waiver Timeframe  
+EOE: DHE  Educator Loan 
+Repayment  (3) System Constraints  June 30, 2027  
+EOE: DHE  High Demand 
+Scholarship  (3) System Constraints  June 30, 2027  
+EOE: DHE  Paraprofessional Grant  (3) System Constraints  June 30, 2027  
+EOE: DHE  Tomorrow’s Teachers 
+Scholarship  (3) System Constraints  June 30, 2027  
+EOE: DHE  Higher Education 
+Information Resource 
+System (HEIRS)  (3) System Constraints  June 30, 2028  
+EOE: DHE  SUCCESS  (3) System Constraints  June 30, 2028  
+EOHHS  Behavioral Health 
+Treatment and Referral 
+Platform (BHTRP)*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS  Enterprise 
+Invoice/Service 
+Management (EIM -ESM)  (3) System Constraints  June 30, 2031  
+EOHHS : AGE  WellSky (Agency Case 
+Management System)  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  June 30, 2031  
+EOHHS: DCF  iFamilyNet  (1) Contradictory Law  June 30, 2031  
+EOHHS: DDS  The Hub (WellSky)  (2) PII  
+(3) System Constraints  June 30, 2031  
+EOHHS: DMH  Meditech (Electronic 
+Medical Record)*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DMH  RL Datix (Incident 
+Reporting System)*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DMH  ACC/JCC (RedCap)  (2) PII  June 30, 2031  
+EOHHS: DMH  Clinical Automated 
+Record System  (2) PII  June 30, 2031  
+EOHHS: DMH  Intensive Residential 
+Treatment Program  (2) PII  June 30, 2031  
+EOHHS: DPH   Board of Registration in 
+Medicine : Various 
+systems * (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH  Meditech (Electronic 
+Medical Record)*  (1) Contradictory Law  
+(2) PII  June 30, 2028  
+
+   
+ 
+7 
+ Agency  Program  or System  Waiver Reason  Waiver Timeframe  
+(3) System Constraints  
+(4) Excess Burden  
+EOHHS: DPH  RL Datix (Incident 
+Reporting System)*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH  Bureau of Climate & 
+Environmental Health: 
+Pediatric Asthma and 
+Diabetes Surveillance 
+Data  (1) Contradictory Law  June 30, 2031  
+EOHHS: DPH  Bureau of Community 
+Health & Prevention: 
+Various datasets, 
+surveys, and reports * (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH  Bureau of Family Health 
+& Nutrition : Various 
+programs, systems, and 
+studies * (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH  Bureau of Health Care 
+Safety and Quality : 
+Trauma Registry, Primary 
+Stroke Service Registry, 
+MA Ambulance Trip 
+Record System*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH  Bureau of Health 
+Professions Licensure: 
+Various programs * (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH  Bureau of Infectious 
+Disease and Laboratory 
+Sciences: Massachusetts 
+Virtual Epidemiologic 
+Network, Massachusetts 
+Immunization 
+Information System, 
+Syndromic Surveillance 
+Data  (1) Contradictory Law  June 30, 2031  
+EOHHS: DPH  Bureau of Public Health 
+Hospitals: Various 
+programs * (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH  Bureau of Substance 
+Abuse Services: BSAS (1) Contradictory Law  
+(2) PII  June 30, 2028  
+
+   
+ 
+8 
+ Agency  Program  or System  Waiver Reason  Waiver Timeframe  
+eLicensing, BSAS 
+Treatment Data, Peer 
+Recovery Support Center 
+Member Survey * (3) System Constraints  
+(4) Excess Burden  
+EOHHS: DPH   Office of the Assistant 
+Commissioner for Health 
+Equity: Racial Equity 
+Survey, Health 
+Professions Data Series, 
+Disability Community 
+Health Needs 
+Assessment*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH  Office of Health Care 
+Strategy & Planning: 
+Various programs * (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH   Office of Health Data, 
+Strategy & Innovation:  
+Various records, 
+registries, surveys & 
+reports * (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH   Office of Local and 
+Regional Health: 
+Workforce Assessment * (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DPH  Registry of Vital Records 
+and Statistics (RVRS )* (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DTA  BEACON (Agency Case 
+Management System)*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: DYS  Juvenile Justice 
+Enterprise Management 
+System (Agency Case 
+Management System)*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: 
+MassAbility  OnBase*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHHS: 
+MassAbility  Disability Determination 
+Services Disability 
+Operational Data Store (1) Contradictory Law  June 30, 2031  
+
+   
+ 
+9 
+ Agency  Program  or System  Waiver Reason  Waiver Timeframe  
+(DIODS) and Disability 
+Case Processing System 
+(DCPS)  
+EOHHS: 
+Massachusetts 
+Commission for 
+the Blind  AWARE  (1) Contradictory Law  
+(3) System Constraints  June 30, 2031  
+EOHHS: 
+Massachusetts 
+Commission for 
+the Deaf & Hard 
+of Hearing  OnBase  (3) System Constraints  June 30, 2031  
+EOHHS: 
+MassHealth  MassHealth Eligibility and 
+Enrollment Programs  (1) Contradictory Law  June 30, 2031  
+EOHHS: 
+MassHealth  MassHealth Quality and 
+Equity Incentive 
+Programs*  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOHLC  Federal Rental Vouchers 
+(Yardi RentCafe)  (3) System Constraints  June 30, 2027  
+EOHLC  Housing Help Hub (RAFT, 
+EA, HomeBASE)  (3) System Constraints  June 30, 2027  
+EOHLC  Annual Rental Report 
+(Chapter 334, Acts of 
+2006)  (3) System Constraints  June 30, 2028  
+EOHLC  Balance of State 
+Continuum of Care 
+(VESTA – Individual 
+Homelessness HMIS)  (1) Contradictory Law  June 30, 2028  
+EOLWD: DAS  Federal Reports to 
+RAPIDS (Registered 
+Apprenticeship Partners 
+Information System)  (1) Contradictory Law  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2027  
+EOLWD: DFML  Paid Family and Medical 
+Leave  (3) System Constraints  June 30, 2027  
+EOLWD: DLS  Occupational Safety and 
+Health Statistics Program  (1) Contradictory Law  June 30, 2031  
+EOLWD: DUA  Unemployment 
+Insurance (FAST)  (1) Contradictory Law  
+(4) Excess Burden  June 30, 2031  
+EOLWD: MDCS  MOSES (Massachusetts 
+One -Stop Employment 
+System)  (3) System Constraints  June 30, 2027  
+
+   
+ 
+10 
+ Agency  Program  or System  Waiver Reason  Waiver Timeframe  
+EOPSS: DOC  Inmate Management 
+System  (1) Contradictory Law  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOPSS : DOC  Intranet  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOPSS : MSP  E-citations / Motor 
+Vehicle Stop Data  (1) Contradictory Law  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2028  
+EOPSS : MSP  ACISS – MSP  (1) Contradictory Law  
+(2) PII  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2030  
+EOPSS : Parole 
+Board  SPIRIT 2  (1) Contradictory Law  
+(3) System Constraints  
+(4) Excess Burden  June 30, 2030  
+EOPSS: Sex 
+Offender 
+Registry Board  SORIS2  (1) Contradictory Law  
+(3) System Constraints  June 30, 2030  
+EOVS  Veterans Education, 
+Employment & Training 
+(VEET)  (3) System Constraints  June 30, 2027  
+*EOHHS  program received waiver due to planned alignment with QMAT  

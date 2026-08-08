@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 3392) of Samantha Montaño and others for the annual issuance of a proclamation by the Governor setting apart the month of September as polycystic ovary syndrome awareness month.  State Administration and Regulatory Oversight."
+      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 3392) of Samantha Monta\u00f1o and others for the annual issuance of a proclamation by the Governor setting apart the month of September as polycystic ovary syndrome awareness month.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -158,7 +158,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -242,6 +242,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:18.697642Z"
   }
 }

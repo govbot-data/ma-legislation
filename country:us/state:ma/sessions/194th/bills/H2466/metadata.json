@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Kerans of Danvers, a petition (accompanied by bill, House, No. 2466) of Sally P. Kerans, Jason M. Lewis and Samantha Montaño that the Department of Public Health be authorized to establish a program to support survivors through financial assistance.  Public Health."
+      "abstract": "By Representative Kerans of Danvers, a petition (accompanied by bill, House, No. 2466) of Sally P. Kerans, Jason M. Lewis and Samantha Monta\u00f1o that the Department of Public Health be authorized to establish a program to support survivors through financial assistance.  Public Health."
     }
   ],
   "other_titles": [],
@@ -126,7 +126,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -226,6 +226,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:31.725567Z"
   }
 }

@@ -64,7 +64,7 @@
       }
     },
     {
-      "description": "Hearing canceled – new hearing TBD",
+      "description": "Hearing canceled \u2013 new hearing TBD",
       "date": "2025-07-14",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -156,6 +156,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z",
+    "text_extraction_latest_update": "2026-08-08T00:39:16.074595Z"
   }
 }

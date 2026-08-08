@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives González of Springfield and Duffy of Holyoke, a petition (accompanied by bill, House, No. 2276) of Carlos González relative to zoning for clinical or educational programs.  Municipalities and Regional Government."
+      "abstract": "By Representatives Gonz\u00e1lez of Springfield and Duffy of Holyoke, a petition (accompanied by bill, House, No. 2276) of Carlos Gonz\u00e1lez relative to zoning for clinical or educational programs.  Municipalities and Regional Government."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:27.369655Z"
   }
 }

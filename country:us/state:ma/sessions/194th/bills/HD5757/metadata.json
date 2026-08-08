@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative González of Springfield, a petition (subject to Joint Rule 12) of Carlos González for the issuance of an annual proclamation by the Governor to designate June 4th as Save Our Streets Day.  State Administration and Regulatory Oversight."
+      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (subject to Joint Rule 12) of Carlos Gonz\u00e1lez for the issuance of an annual proclamation by the Governor to designate June 4th as Save Our Streets Day.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -46,7 +46,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -84,6 +84,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:31.718997Z"
   }
 }

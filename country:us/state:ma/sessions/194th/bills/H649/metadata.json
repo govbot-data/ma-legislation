@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 649) of Samantha Montaño relative to the creation of a permanent commission relative to the education of American Indian and Alaska Native residents.  Education."
+      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 649) of Samantha Monta\u00f1o relative to the creation of a permanent commission relative to the education of American Indian and Alaska Native residents.  Education."
     }
   ],
   "other_titles": [],
@@ -66,7 +66,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -138,7 +138,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -238,6 +238,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:16:23.849425Z"
   }
 }

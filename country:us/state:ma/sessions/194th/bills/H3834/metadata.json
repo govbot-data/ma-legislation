@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Cusack of Braintree, a petition (accompanied by bill, House, No. 3834) of Mark J. Cusack relative to voluntary contribution check-off boxes on municipal tax bills for support of local veterans’ agents.  Veterans and Federal Affairs."
+      "abstract": "By Representative Cusack of Braintree, a petition (accompanied by bill, House, No. 3834) of Mark J. Cusack relative to voluntary contribution check-off boxes on municipal tax bills for support of local veterans\u2019 agents.  Veterans and Federal Affairs."
     }
   ],
   "other_titles": [],
@@ -174,6 +174,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:11.931827Z"
   }
 }

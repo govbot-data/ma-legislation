@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2467",
-  "title": "An Act authorizing amending, updating, and aligning the Commonwealth’s definition of veteran",
+  "title": "An Act authorizing amending, updating, and aligning the Commonwealth\u2019s definition of veteran",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Fattman, a petition (accompanied by bill, Senate, No. 2467) of Ryan C. Fattman and Bruce E. Tarr for legislation to authorize amend update and align the Commonwealth’s definition of veteran.  Veterans and Federal Affairs."
+      "abstract": "By Mr. Fattman, a petition (accompanied by bill, Senate, No. 2467) of Ryan C. Fattman and Bruce E. Tarr for legislation to authorize amend update and align the Commonwealth\u2019s definition of veteran.  Veterans and Federal Affairs."
     }
   ],
   "other_titles": [],
@@ -194,6 +194,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:20Z"
+    "logs_latest_update": "2026-07-21T23:17:20Z",
+    "text_extraction_latest_update": "2026-08-08T00:17:44.678396Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Feeney, a petition (accompanied by resolve, Senate, No. 1997) of Paul R. Feeney that provisions be made for an investigation and study by a special commission (including members of the General Court) to evaluate and report on the impact that passage of the People’s Budget would have on Massachusetts.  Revenue."
+      "abstract": "By Mr. Feeney, a petition (accompanied by resolve, Senate, No. 1997) of Paul R. Feeney that provisions be made for an investigation and study by a special commission (including members of the General Court) to evaluate and report on the impact that passage of the People\u2019s Budget would have on Massachusetts.  Revenue."
     }
   ],
   "other_titles": [],
@@ -154,6 +154,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z",
+    "text_extraction_latest_update": "2026-08-08T00:22:36.848823Z"
   }
 }

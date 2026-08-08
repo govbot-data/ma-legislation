@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4441",
-  "title": "An Act relative to tribal government representation on the Martha’s Vineyard Commission",
+  "title": "An Act relative to tribal government representation on the Martha\u2019s Vineyard Commission",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Moakley of Falmouth, a petition (subject to Joint Rules 12 and 9) of Thomas W. Moakley relative to tribal government representation on the Martha’s Vineyard Commission.  Environment and Natural Resources."
+      "abstract": "By Representative Moakley of Falmouth, a petition (subject to Joint Rules 12 and 9) of Thomas W. Moakley relative to tribal government representation on the Martha\u2019s Vineyard Commission.  Environment and Natural Resources."
     }
   ],
   "other_titles": [],
@@ -84,6 +84,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:17:07.727660Z"
   }
 }

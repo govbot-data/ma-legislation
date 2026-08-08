@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4305",
-  "title": "An Act to change and increase the state current minimum/maximum number required for handicap apartments in rental apartment’s complex, home and hotels including handicap reasonable accommodations modifications and diversity",
+  "title": "An Act to change and increase the state current minimum/maximum number required for handicap apartments in rental apartment\u2019s complex, home and hotels including handicap reasonable accommodations modifications and diversity",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:14.512218Z"
   }
 }

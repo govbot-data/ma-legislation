@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD5586",
-  "title": "A communication from the Worcester County District Attorney’s Office (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2025",
+  "title": "A communication from the Worcester County District Attorney\u2019s Office (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -54,6 +54,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:50.767794Z"
   }
 }

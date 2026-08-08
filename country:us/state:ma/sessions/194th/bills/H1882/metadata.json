@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative McMurtry of Dedham, a petition (accompanied by bill, House, No. 1882) of Paul McMurtry relative to the liability of farmers’ markets.  The Judiciary."
+      "abstract": "By Representative McMurtry of Dedham, a petition (accompanied by bill, House, No. 1882) of Paul McMurtry relative to the liability of farmers\u2019 markets.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:30.363963Z"
   }
 }

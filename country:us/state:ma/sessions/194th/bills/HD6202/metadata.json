@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD6202",
-  "title": "A communication from the Massachusetts Sheriffs’ Association (see Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Norfolk County Correctional Facility for the fourth quarter of calendar year 2025",
+  "title": "A communication from the Massachusetts Sheriffs\u2019 Association (see Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Norfolk County Correctional Facility for the fourth quarter of calendar year 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z",
+    "text_extraction_latest_update": "2026-08-08T00:23:07.861687Z"
   }
 }

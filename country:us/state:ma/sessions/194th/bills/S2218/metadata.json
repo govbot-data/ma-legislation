@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2218",
-  "title": "An Act designating the song “Roadrunner” as the official rock song of the Commonwealth",
+  "title": "An Act designating the song \u201cRoadrunner\u201d as the official rock song of the Commonwealth",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Tarr, a petition (accompanied by bill, Senate, No. 2218) of Bruce E. Tarr for legislation to designate the song “Roadrunner” as the official rock song of the Commonwealth.  State Administration and Regulatory Oversight."
+      "abstract": "By Mr. Tarr, a petition (accompanied by bill, Senate, No. 2218) of Bruce E. Tarr for legislation to designate the song \u201cRoadrunner\u201d as the official rock song of the Commonwealth.  State Administration and Regulatory Oversight."
     }
   ],
   "other_titles": [],
@@ -134,6 +134,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:23Z"
+    "logs_latest_update": "2026-07-21T23:17:23Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:15.074444Z"
   }
 }

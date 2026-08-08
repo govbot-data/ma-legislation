@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2369",
-  "title": "An Act relative to partial payment of fines relating to driver’s license suspension or revocation",
+  "title": "An Act relative to partial payment of fines relating to driver\u2019s license suspension or revocation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. DiDomenico, a petition (accompanied by bill, Senate, No. 2369) of Sal N. DiDomenico for legislation relative to partial payment of fines relating to driver’s license suspension or revocation.  Transportation."
+      "abstract": "By Mr. DiDomenico, a petition (accompanied by bill, Senate, No. 2369) of Sal N. DiDomenico for legislation relative to partial payment of fines relating to driver\u2019s license suspension or revocation.  Transportation."
     }
   ],
   "other_titles": [],
@@ -150,6 +150,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:53.858497Z"
   }
 }

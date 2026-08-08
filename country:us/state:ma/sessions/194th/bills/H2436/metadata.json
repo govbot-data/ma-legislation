@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2436",
-  "title": "An Act to eliminate fees for the removal of a child’s body by the Office of the Chief Medical Examiner",
+  "title": "An Act to eliminate fees for the removal of a child\u2019s body by the Office of the Chief Medical Examiner",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gómez of Easthampton, a petition (accompanied by bill, House, No. 2436) of Homar Gómez for legislation to eliminate fees for the removal of a child’s body by the Office of the Chief Medical Examiner.  Public Health."
+      "abstract": "By Representative G\u00f3mez of Easthampton, a petition (accompanied by bill, House, No. 2436) of Homar G\u00f3mez for legislation to eliminate fees for the removal of a child\u2019s body by the Office of the Chief Medical Examiner.  Public Health."
     }
   ],
   "other_titles": [],
@@ -96,7 +96,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -140,6 +140,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:30.307470Z"
   }
 }

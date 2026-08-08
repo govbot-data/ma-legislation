@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H4103",
-  "title": "An Act establishing a sick leave bank for Steven Forget, an employee of the Worcester County Sheriff’s Office",
+  "title": "An Act establishing a sick leave bank for Steven Forget, an employee of the Worcester County Sheriff\u2019s Office",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Higgins of Leominster and Senator Cronin, a joint petition (subject to Joint Rule 12) of Natalie M. Higgins and John J. Cronin for legislation to establish a sick leave bank for Steven Forget, an employee of the Worcester County Sheriff’s Office.  Public Service."
+      "abstract": "By Representative Higgins of Leominster and Senator Cronin, a joint petition (subject to Joint Rule 12) of Natalie M. Higgins and John J. Cronin for legislation to establish a sick leave bank for Steven Forget, an employee of the Worcester County Sheriff\u2019s Office.  Public Service."
     }
   ],
   "other_titles": [],
@@ -302,6 +302,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:26:25.679992Z"
   }
 }

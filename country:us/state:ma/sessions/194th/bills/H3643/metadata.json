@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Cruz of Salem, a petition (accompanied by bill, House, No. 3643) of Manny Cruz for legislation to establish a junior operator’s license fund to be administered by the Registrar of Motor Vehicles.  Transportation."
+      "abstract": "By Representative Cruz of Salem, a petition (accompanied by bill, House, No. 3643) of Manny Cruz for legislation to establish a junior operator\u2019s license fund to be administered by the Registrar of Motor Vehicles.  Transportation."
     }
   ],
   "other_titles": [],
@@ -134,6 +134,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:20:48.774439Z"
   }
 }

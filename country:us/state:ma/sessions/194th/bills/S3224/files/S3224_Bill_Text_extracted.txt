@@ -1,0 +1,218 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+1 of 10 SENATE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  No. 3224 
+Senate, July 23, 2026 -- Text of amendment (471) (offered by Senator Rush) to the Ways and 
+Means amendment (Senate, No. 3178) to the House Bill relative to economic development in the 
+commonwealth. 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Fourth General Court 
+(2025-2026) 
+_______________ 
+ 
+1  in section 106, in proposed section 1 of chapter 93M of the General Laws, by inserting 
+2 after the definition of “catastrophic risk” the following definition:- 
+3  ““Covered employee”, an employee responsible for assessing, managing or addressing 
+4 risk of critical safety incidents.”; and 
+5  in said section 106, in proposed section 2 of said chapter 93M, by inserting after 
+6 subsection (c) the following subsection:- 
+7  “(c 1/2)(1) A large frontier developer shall clearly and conspicuously publish on its 
+8 internet website a risk report that provides an overall assessment of the catastrophic risks posed 
+9 by: (i) any frontier models the large frontier developer deploys externally; and (ii) any internally 
+10 deployed frontier models with capabilities that materially exceed those of any frontier model that 
+11 frontier developer has externally deployed. 
+12  (2) A risk report that is required by paragraph (1) shall include, but not be limited to: 
+13  (i) a summary of assessments of capabilities of the frontier models relevant to 
+14 catastrophic risk, which shall address each type of catastrophic risk and describe any material 
+
+2 of 10 15 changes to the capabilities of the frontier models relevant to each type of catastrophic risk since 
+16 the most recently published risk report; 
+17  (ii) a description of the key threat models the large frontier developer tracks to identify 
+18 potential catastrophic risks, how observed capabilities of those frontier models relate to each 
+19 threat model and key mitigations that the large frontier developer has put in place to mitigate any 
+20 such identified risks; and 
+21  (iii) an assessment of the residual level of each type of catastrophic risk posed by the 
+22 frontier models after accounting for the mitigations implemented pursuant to clause (ii); 
+23 provided, however, that the assessment shall provide sufficient information to demonstrate the 
+24 evidence and reasoning behind the risk assessment and such information shall be sufficient to 
+25 allow a reasonable person to reach a similar conclusion to that which the large frontier developer 
+26 would reach in analyzing the level of risk posed by its frontier model. 
+27  (3) A large frontier developer shall renew and update the risk report required by 
+28 paragraph (1) not less than every 180 days and include in each update a comparison of the 
+29 assessed level of each type of catastrophic risk to the level assessed in the previously published 
+30 risk report.”; and 
+31  in said section 106, in said proposed chapter 93M, by inserting after section 3 the 
+32 following section:- 
+33  “Section 3A. (a) A large frontier developer shall annually retain a third party to perform 
+34 an independent audit of compliance with the requirements of section 2 except for subsection (c 
+35 1/2) of said section 2. The third party shall conduct audits consistent with generally accepted 
+36 auditing standards and best practices and shall possess demonstrated competence to perform the 
+
+3 of 10 37 audit, including experience employing or contracting with individuals who possess technical 
+38 expertise in the safety of frontier models. 
+39  (1) The third party shall be granted access to all materials reasonably necessary to comply 
+40 with the third party’s obligations under this section, including, but not limited to, all unredacted 
+41 versions of materials published pursuant to this chapter. To protect the large frontier developer’s 
+42 trade secrets and confidential business information, cybersecurity, national security of the United 
+43 States or public safety, a large frontier developer may impose reasonable security protocols on 
+44 the third party, including, but not limited to, restrictions on note taking, copying, retaining, or 
+45 removing materials, requirements for on-premises review and confidentiality requirements. 
+46  (2) The third party shall produce a report that includes, but is not limited to: 
+47  (i) a description of whether the large frontier developer has substantially complied with 
+48 the requirements of section 2, except for subsection (c 1/2) of said section 2; 
+49  (ii) when applicable, a description of material deviations from the requirements of section 
+50 2, except for subsection (c 1/2) of said section 2, an explanation of any deviation and its rationale 
+51 and any recommendations for how the developer can improve its policies and processes for 
+52 ensuring compliance; 
+53  (iii) a detailed assessment of the large frontier developer’s internal controls, including its 
+54 designation and empowerment of senior personnel responsible for such implementation by the 
+55 large frontier developer, its employees and its contractors; 
+56  (iv) a list of the third party’s personnel involved in the audit; 
+
+4 of 10 57  (v) the third party’s procedures for managing conflicts of interest and any conflicts of 
+58 interest of any personnel involved in the audit; 
+59  (vi) the methodology of the audit and the nature of the information reviewed by the third 
+60 party to conduct the audit; and 
+61  (vii) the signature of the lead auditor certifying the results of the audit. 
+62  (3) The large frontier developer shall retain an unredacted copy of the report for the 
+63 duration of the frontier model’s deployment plus 5 years. 
+64  (4) Not later than 30 days after receiving the audit report, the large frontier developer 
+65 shall conspicuously publish on its website a high-level summary of the audit findings and a copy 
+66 of the third party’s report with redactions as provided in subsection (f) of section 2 and transmit a 
+67 copy of the redacted report to the attorney general. 
+68  (b)(1) A large frontier developer shall engage at least 1 third party to conduct an 
+69 independent evaluation of the developer’s frontier models with respect to each category of 
+70 catastrophic risk. A large frontier developer shall engage a third party to conduct its evaluation 
+71 not more than 30 days after publishing each risk report under subsection (c 1/2) of section 2 and 
+72 in any event shall conduct an independent evaluation not less than once every 120 days. 
+73  (2) An independent evaluation conducted pursuant to paragraph (1) shall include, but not 
+74 be limited to:- 
+75  (i) an independent assessment of each type of catastrophic risk posed by the large frontier 
+76 developer’s frontier models, taking into account model capabilities, applicable threat models and 
+77 the large frontier developer's safeguards; 
+
+5 of 10 78  (ii) an assessment of the ability of the large frontier developer’s frontier models to 
+79 automate artificial intelligence research and development and any increased potential for 
+80 catastrophic risks or challenges to risk monitoring, assessment or mitigation resulting from such 
+81 ability; 
+82  (iii) a review of the large frontier developer’s most recent risk report published pursuant 
+83 to subsection (c 1/2) of section 2 including an assessment of: (A) the adequacy and completeness 
+84 of the information disclosed in the risk report; (B) the analytical rigor of the frontier developer’s 
+85 risk methodology; (C) the appropriateness and materiality of any redactions made to the publicly 
+86 available version of the risk report; and (D) whether the third party disagrees with any of the 
+87 report’s claims, including the overall assessment of the level of risk for each catastrophic risk; 
+88  (iv) a list of the third party’s personnel involved in the evaluation; 
+89  (v) the third party’s procedures for managing conflicts of interest and any conflicts of 
+90 interest of any personnel involved in the evaluation; 
+91  (vi) the methodology of the evaluation and the nature of the information reviewed by the 
+92 third party to conduct the evaluation; and 
+93  (vii) the signature of the lead evaluator certifying the results of the evaluation. 
+94  (3)(A) The third party shall be granted access to all materials reasonably necessary to 
+95 comply with the evaluator’s obligations under this section, including, but not limited to, all 
+96 unredacted versions of materials published pursuant to this chapter and the large frontier 
+97 developer’s most capable frontier models. 
+
+6 of 10 98  (B) The third party shall have the opportunity to ask relevant questions about the frontier 
+99 developer’s frontier models, likelihood of catastrophic risks and related safeguards and the large 
+100 frontier developer shall provide reasonable responses. 
+101  (C) To protect the frontier developer’s trade secrets and confidential business 
+102 information, cybersecurity, national security of the United States or public safety, a frontier 
+103 developer may impose reasonable security protocols on the third party including, but not limited 
+104 to, restrictions on note taking, copying, retaining or removing materials, requirements for on-
+105 premise review and confidentiality requirements. 
+106  (4) The third party shall publish a public version of its report not later than 30 days after 
+107 delivering the report to the large frontier developer and the large frontier developer shall 
+108 conspicuously publish a link to the report on its internet website. The public version may be 
+109 redacted only as provided in subsection (f) of section 2. 
+110  (5) A large frontier developer may comply with this subsection by engaging multiple 
+111 third parties focused on different categories of catastrophic risk or different aspects of the 
+112 requirements of this subsection; provided, however, that: (i) collectively, the third parties 
+113 perform all of the duties required by this subsection; (ii) each third party satisfies the 
+114 independence and qualification requirements of this section; and (iii) each third party includes in 
+115 its report a clear and specific statement of the scope of the assessment and the duties performed. 
+116  (c)(1)(A) A third party engaged under this section shall have no financial, operational or 
+117 management dependence on the large frontier developer or any of the large frontier developer's 
+118 affiliates and shall be otherwise free from the large frontier developer's control in reaching 
+
+7 of 10 119 conclusions or making recommendations, including through contractual safeguards and conflict 
+120 of interest policies. 
+121  (B) If no other source of funding has been established pursuant to clause (iii) of 
+122 paragraph (1) of subsection (d), a large frontier developer may compensate the third party at 
+123 reasonable market rates and shall not condition any payment or the amount of any payment on 
+124 the results of the third party’s audit or evaluation. 
+125  (2) Prior to accepting any engagement under this section, the third party shall certify in 
+126 writing to the large frontier developer and the attorney general that the third party satisfies the 
+127 independence requirements of this subsection. The certification shall include the third party’s 
+128 sources of funding and remuneration for the engagement, any other current or recent 
+129 engagements with the large frontier developer or its affiliates and any other facts that could 
+130 reasonably be expected to bear on the third party’s independence. 
+131  (d)(1) The attorney general, in consultation with academic institutions, nonprofit 
+132 organizations and industry stakeholders, shall implement an independent evaluation ecosystem 
+133 plan by: (i) developing and publishing standards for the qualification of qualified independent 
+134 third party evaluators; (ii) exploring a licensing system to qualify third party evaluators; (iii) 
+135 subject to government appropriation, providing government funding or arranging pooled funding 
+136 to supplement other sources of evaluator funding; (iv) exploring the feasibility and benefits of 
+137 licensing qualified independent evaluators to assess the adherence of artificial intelligence 
+138 models to standards reflecting best practices for the prevention of personal injury, property 
+139 damage and other harms that do not meet the definition of catastrophic risk, and reporting its 
+140 findings and any recommendations regarding such licensing to the joint committee on advanced 
+
+8 of 10 141 information technology, the internet and cybersecurity and the joint committee on economic 
+142 development; and (v) providing resources and funding for nascent organizations seeking to 
+143 become third party evaluators. 
+144  (2) The attorney general may develop and publish a rating system for qualified third 
+145 parties based on predefined criteria, including the rigor and quality of the evaluator's published 
+146 reasoning and analysis, the thoroughness of the evaluator's methodology, the evaluator's track 
+147 record of identifying material risks or deficiencies and stakeholder feedback, including from 
+148 frontier developers, academic reviewers and the public.”; and 
+149  in said section 106, by striking out, in lines 1526 and 1527, the words “has reasonable 
+150 cause to believe” and inserting in place thereof the following words:- “reasonably believes”; and 
+151  in said section 106, in proposed section 7 of chapter 93M of the General Laws, by 
+152 striking out subsection (b) and inserting in place thereof the following subsection:- 
+153  “(b) A frontier developer shall not: (i) enter into a contract that prevents a covered 
+154 employee from making a disclosure protected under this chapter; or (ii) discriminate against any 
+155 person that has made a disclosure under this chapter.”; and 
+156  in said section 106, by inserting after the word “employee”, in line 1536, the first time it 
+157 appears, the following words:- “, not later than 90 days after becoming a covered employee,”; 
+158 and 
+159  in said section 106, by striking out, in lines 1541 and 1542, the words “anonymously 
+160 disclose information to the large frontier developer if the covered employee believes in good 
+
+9 of 10 161 faith” and inserting in place thereof the following words:- “, anonymously or named, disclose 
+162 information to the large frontier developer of the covered employee reasonably believes”; and 
+163  in said section 106, by inserting after the word “fees”, in line 1553, the following words:- 
+164 “ and court costs”; and 
+165  in said section 106, by striking out, in line 1561, the words “or administrative 
+166 proceeding”; and 
+167  in said section 106, by striking out, in line 1566, the word “person” and inserting in place 
+168 thereof the following words:- “frontier developer”; and 
+169  in said section 106, by striking out, in line 1575, the words “this section” and inserting in 
+170 place thereof the following words:- “paragraph (1) of subsection (d)”; and 
+171  by striking out section 153; and 
+172  in section 164, by inserting after the figure “72”, in line 2014, the following figure:- “, 
+173 106”; and 
+174  in section 165, by striking out, in line 2016, the figure “106” and inserting in place 
+175 thereof the following figure:- “105”; and 
+176  by adding the following 4 sections:- 
+177  “SECTION 166. Not more than 180 days after the effective date of this act or 180 days 
+178 after the date on which a frontier developer first qualifies as a large frontier developer, whichever 
+179 is later, a large frontier developer shall post its risk report required under subsection (c) of 
+180 section 2 of chapter 93M of the General Laws. 
+
+10 of 10 181  SECTION 167. The provision requiring an annual audit under subsection (a) of section 
+182 3A of chapter 93M of the General Laws shall take effect on January 1, 2027 or 180 days after the 
+183 date on which a frontier developer first qualifies as a large frontier developer, whichever is later. 
+184  SECTION 168. The provision requiring an independent evaluation of a developer’s 
+185 frontier models with respect to each category of catastrophic risk under subsection (b) of section 
+186 3A of chapter 93M of the General Laws hall take effect on January 1, 2027 or 180 days after the 
+187 date on which a frontier developer first qualifies as a large frontier developer, whichever is later. 
+188  SECTION 169. Not later than 1 year after the effective date of this act, the attorney 
+189 general shall develop the independent evaluation ecosystem plan required under subsection (d) of 
+190 section 3A of chapter 93M of the General Laws.” 

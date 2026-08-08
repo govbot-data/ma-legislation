@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Montaño of Boston and Sabadosa of Northampton, a petition (accompanied by bill, House, No. 1264) of Samantha Montaño and Christine P. Barber relative to identifying all weapon of mass destruction entities in which the Public Fund holds investments.  Financial Services."
+      "abstract": "By Representatives Monta\u00f1o of Boston and Sabadosa of Northampton, a petition (accompanied by bill, House, No. 1264) of Samantha Monta\u00f1o and Christine P. Barber relative to identifying all weapon of mass destruction entities in which the Public Fund holds investments.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -126,7 +126,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -258,6 +258,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:49.448937Z"
   }
 }

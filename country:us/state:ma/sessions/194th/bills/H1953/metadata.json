@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Rogers of Cambridge and González of Springfield, a petition (accompanied by bill, House, No. 1953) of David M. Rogers and Carlos González relative to civil asset forfeiture.  The Judiciary."
+      "abstract": "By Representatives Rogers of Cambridge and Gonz\u00e1lez of Springfield, a petition (accompanied by bill, House, No. 1953) of David M. Rogers and Carlos Gonz\u00e1lez relative to civil asset forfeiture.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -94,7 +94,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -138,6 +138,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:40.548236Z"
   }
 }

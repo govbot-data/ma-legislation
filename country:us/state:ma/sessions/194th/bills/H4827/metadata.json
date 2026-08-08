@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H4827",
-  "title": "An Act  Communication from the Department of Energy Resources of the Executive Office of Energy and Environmental Affairs (under the provisions of section 12 of Chapter 25A of the General Laws) submitting proposed amendments to regulations 225 CMR 29.00 – governing Small Clean Energy Infrastructure Facility Siting and Permitting",
+  "title": "An Act  Communication from the Department of Energy Resources of the Executive Office of Energy and Environmental Affairs (under the provisions of section 12 of Chapter 25A of the General Laws) submitting proposed amendments to regulations 225 CMR 29.00 \u2013 governing Small Clean Energy Infrastructure Facility Siting and Permitting",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -115,6 +115,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:18.333605Z"
   }
 }

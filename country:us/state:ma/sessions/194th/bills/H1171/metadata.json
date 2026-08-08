@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Garry of Dracut, a petition (accompanied by bill, House, No. 1171) of Colleen M. Garry for legislation to provide insurance coverage for the use of electronic tracking devices to protect the safety of persons with Autism spectrum disorder or Alzheimer’s disease.  Financial Services."
+      "abstract": "By Representative Garry of Dracut, a petition (accompanied by bill, House, No. 1171) of Colleen M. Garry for legislation to provide insurance coverage for the use of electronic tracking devices to protect the safety of persons with Autism spectrum disorder or Alzheimer\u2019s disease.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -120,6 +120,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:21:37.688163Z"
   }
 }

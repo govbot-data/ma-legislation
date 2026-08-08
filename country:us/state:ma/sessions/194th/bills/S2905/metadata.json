@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2905",
-  "title": "An Act providing for mobile driver’s licenses in the commonwealth",
+  "title": "An Act providing for mobile driver\u2019s licenses in the commonwealth",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Cyr, a petition (accompanied by bill, Senate, No. 2905) (subject to Joint Rule 12) of Julian Cyr for legislation to provide for mobile driver’s licenses in the commonwealth.  Transportation."
+      "abstract": "By Mr. Cyr, a petition (accompanied by bill, Senate, No. 2905) (subject to Joint Rule 12) of Julian Cyr for legislation to provide for mobile driver\u2019s licenses in the commonwealth.  Transportation."
     }
   ],
   "other_titles": [],
@@ -193,6 +193,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T17:18:34Z"
+    "logs_latest_update": "2026-08-07T17:18:34Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:11.898003Z"
   }
 }

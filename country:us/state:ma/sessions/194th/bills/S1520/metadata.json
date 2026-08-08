@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1520",
-  "title": "An Act to protect a patient’s right to a support person at health care facilities",
+  "title": "An Act to protect a patient\u2019s right to a support person at health care facilities",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Durant, a petition (accompanied by bill, Senate, No. 1520) of Peter J. Durant, Susan E. Chester ,  and Bruce E. Tarr for legislation to protect a patient’s right to a support person at health care facilities.  Public Health."
+      "abstract": "By Mr. Durant, a petition (accompanied by bill, Senate, No. 1520) of Peter J. Durant, Susan E. Chester ,  and Bruce E. Tarr for legislation to protect a patient\u2019s right to a support person at health care facilities.  Public Health."
     }
   ],
   "other_titles": [],
@@ -136,6 +136,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:27Z"
+    "logs_latest_update": "2026-07-21T23:17:27Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:59.949061Z"
   }
 }

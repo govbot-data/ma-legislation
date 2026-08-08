@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, November 19, 2025 -- Text of the Senate amendment to the House Bill modernizing the commonwealth’s cannabis laws (being the text of Senate document numbered 2722, printed as amended)"
+      "abstract": "Senate, November 19, 2025 -- Text of the Senate amendment to the House Bill modernizing the commonwealth\u2019s cannabis laws (being the text of Senate document numbered 2722, printed as amended)"
     }
   ],
   "other_titles": [],
@@ -72,6 +72,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z",
+    "text_extraction_latest_update": "2026-08-08T00:42:43.263593Z"
   }
 }

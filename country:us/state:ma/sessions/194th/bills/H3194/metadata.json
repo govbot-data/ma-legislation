@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 3194) of Samantha Montaño and others for legislation to increase the deeds excise to fund emergency assistance needs of certain low income tenants and homeowners.  Revenue."
+      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 3194) of Samantha Monta\u00f1o and others for legislation to increase the deeds excise to fund emergency assistance needs of certain low income tenants and homeowners.  Revenue."
     }
   ],
   "other_titles": [],
@@ -106,7 +106,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -310,6 +310,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z",
+    "text_extraction_latest_update": "2026-08-08T00:20:13.805716Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. DiDomenico, a petition (accompanied by bill, Senate, No. 1298) of Sal N. DiDomenico for legislation relative to fairness in worker’s compensation disfigurement benefits.  Labor and Workforce Development."
+      "abstract": "By Mr. DiDomenico, a petition (accompanied by bill, Senate, No. 1298) of Sal N. DiDomenico for legislation relative to fairness in worker\u2019s compensation disfigurement benefits.  Labor and Workforce Development."
     }
   ],
   "other_titles": [],
@@ -134,6 +134,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:31.754108Z"
   }
 }

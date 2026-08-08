@@ -121,7 +121,7 @@
       }
     },
     {
-      "description": "Amendment #26 ( Gómez) rejected",
+      "description": "Amendment #26 ( G\u00f3mez) rejected",
       "date": "2026-07-01",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -493,7 +493,7 @@
       }
     },
     {
-      "description": "Amendment #136 ( Gómez) rejected",
+      "description": "Amendment #136 ( G\u00f3mez) rejected",
       "date": "2026-07-01",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -505,7 +505,7 @@
       }
     },
     {
-      "description": "Amendment #138 ( Gómez) rejected",
+      "description": "Amendment #138 ( G\u00f3mez) rejected",
       "date": "2026-07-01",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -625,7 +625,7 @@
       }
     },
     {
-      "description": "Amendment #25 (Gómez) adopted -see   Roll Call #199 (Yeas 35 to Nays 4)",
+      "description": "Amendment #25 (G\u00f3mez) adopted -see   Roll Call #199 (Yeas 35 to Nays 4)",
       "date": "2026-07-01",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -935,6 +935,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:12.066464Z"
   }
 }

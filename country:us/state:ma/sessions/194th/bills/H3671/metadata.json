@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gómez of Easthampton, a petition (accompanied by bill, House, No. 3671) of Homar Gómez and others relative to Purple Heart registration plates.  Transportation."
+      "abstract": "By Representative G\u00f3mez of Easthampton, a petition (accompanied by bill, House, No. 3671) of Homar G\u00f3mez and others relative to Purple Heart registration plates.  Transportation."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -160,6 +160,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z",
+    "text_extraction_latest_update": "2026-08-08T00:40:51.383268Z"
   }
 }

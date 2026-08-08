@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3090",
-  "title": "CY22 – CY23 Summary of Activities related to Screening for Postpartum Depression",
+  "title": "CY22 \u2013 CY23 Summary of Activities related to Screening for Postpartum Depression",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Department of Public Health (pursuant to Chapter 313 of the Acts of 2010) submitting its CY22 – CY23 Summary of Activities related to Screening for Postpartum Depression"
+      "abstract": "Report of the Department of Public Health (pursuant to Chapter 313 of the Acts of 2010) submitting its CY22 \u2013 CY23 Summary of Activities related to Screening for Postpartum Depression"
     }
   ],
   "other_titles": [],
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z",
+    "text_extraction_latest_update": "2026-08-08T00:22:41.696179Z"
   }
 }

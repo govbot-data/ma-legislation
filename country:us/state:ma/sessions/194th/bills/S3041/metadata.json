@@ -31,7 +31,7 @@
       }
     },
     {
-      "description": "Recommended new text for H5280",
+      "description": "Recommended new text for\u00a0H5280",
       "date": "2026-04-02",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -347,6 +347,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:15Z"
+    "logs_latest_update": "2026-07-21T23:17:15Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:40.547056Z"
   }
 }

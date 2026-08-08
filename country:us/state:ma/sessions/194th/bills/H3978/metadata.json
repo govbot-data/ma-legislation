@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Sullivan-Almeida of Abington and Senator Brady, a joint petition (accompanied by bill, House, No. 3978) of Alyson M. Sullivan-Almeida (with the approval of the mayor and city council) that the Boston Retirement Board be authorized to retire Brian C. McPherson, an employee of the Suffolk County Sheriff’s Department.  Public Service.  [Local Approval Received.]"
+      "abstract": "By Representative Sullivan-Almeida of Abington and Senator Brady, a joint petition (accompanied by bill, House, No. 3978) of Alyson M. Sullivan-Almeida (with the approval of the mayor and city council) that the Boston Retirement Board be authorized to retire Brian C. McPherson, an employee of the Suffolk County Sheriff\u2019s Department.  Public Service.  [Local Approval Received.]"
     }
   ],
   "other_titles": [],
@@ -166,6 +166,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:16:31.433692Z"
   }
 }

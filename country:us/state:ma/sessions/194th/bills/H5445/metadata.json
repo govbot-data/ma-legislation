@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Gómez of Easthampton, a petition (accompanied by bill, House, No. 5445) of Homar Gómez (with the approval of the city council) that the city of Easthampton be authorized the issue 8 additional licenses for the sale of all alcoholic beverages.  Consumer Protection and Professional Licensure.  [Local Approval Received.]"
+      "abstract": "By Representative G\u00f3mez of Easthampton, a petition (accompanied by bill, House, No. 5445) of Homar G\u00f3mez (with the approval of the city council) that the city of Easthampton be authorized the issue 8 additional licenses for the sale of all alcoholic beverages.  Consumer Protection and Professional Licensure.  [Local Approval Received.]"
     }
   ],
   "other_titles": [],
@@ -86,7 +86,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -130,6 +130,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:17:29.052369Z"
   }
 }

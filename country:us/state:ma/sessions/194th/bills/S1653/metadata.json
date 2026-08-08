@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1653",
-  "title": "An Act relative to firearm industry accountability and gun violence victims’ access to justice",
+  "title": "An Act relative to firearm industry accountability and gun violence victims\u2019 access to justice",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Ms. Creem, a petition (accompanied by bill, Senate, No. 1653) of Cynthia Stone Creem, Jason M. Lewis, David Paul Linsky, Christopher Richard Flanagan and other members of the General Court for legislation relative to firearm industry accountability and gun violence victims’ access to justice.  Public Safety and Homeland Security."
+      "abstract": "By Ms. Creem, a petition (accompanied by bill, Senate, No. 1653) of Cynthia Stone Creem, Jason M. Lewis, David Paul Linsky, Christopher Richard Flanagan and other members of the General Court for legislation relative to firearm industry accountability and gun violence victims\u2019 access to justice.  Public Safety and Homeland Security."
     }
   ],
   "other_titles": [],
@@ -202,7 +202,7 @@
       "organization_id": null
     },
     {
-      "name": "Adam Gómez",
+      "name": "Adam G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -254,6 +254,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:26:09.395704Z"
   }
 }

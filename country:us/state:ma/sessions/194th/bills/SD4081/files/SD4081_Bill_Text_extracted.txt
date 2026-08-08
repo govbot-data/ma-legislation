@@ -1,0 +1,1430 @@
+Title: 
+Official Title: 
+Source: versions - Bill Text
+Media Type: application/pdf
+
+================================================================================
+
+ 
+ 
+ 
+ 
+ 
+Study and Report on the Need and Feasibility 
+of Qualified Professional Guardians  
+Final  
+ 
+ 
+ 
+ 
+Prepared in collaboration with:  
+ 
+Bureau of Health  Care Safety and Quality  
+Massachusetts Department of Public Health (DPH)  
+67 Forest Street, Suite 100  
+Marlborough, MA 01752  
+ 
+ 
+ 
+Prepared in coll aboration with : 
+ 
+Eastern Research Group, Inc.  
+561 Virginia Road  
+Building 4 – Suite 300  
+Concord, MA 01742  
+ 
+8/4/2026  
+ 
+
+
+ii 
+ Contents  
+Glossary   ................................ ................................ ................................ ................................ ... iii 
+Executive Summary  ................................ ................................ ................................ .....................  1 
+Introduction……………………………………………………………………………………………………………………..4  
+Research Methods ……………………………………………………………………………………………………………6  
+Decision Making Support and Guardianship in Massachusetts……………………………………………….10  
+Comparing State Guardianship Programs……………………………………………………………………………17  
+Fiscal Impact on MassHealth…………………………………………………………………………………………….21  
+Recommendations………………………………………………………………………………………………………….24  
+Appendix A: Literature Review Bibliography  ................................ ................................ ...............  A-1 
+ 
+
+ 
+iii 
+ Glossary  
+Advance Directive –An advance directive is a broad term used to describe documents completed 
+in advance that outline an individual’s preferences for medical care in the event they become 
+unable to make or communicate decisions. This may include a Healthcare Proxy or a Livin g Will 
+(personal directive). While these documents provide important guidance to health care providers 
+and family members, Massachusetts law recognizes only the Healthcare Proxy as having binding 
+legal authority.1  
+Default Surrogate Statute - A default surrogate statute allows a person, typically a close family 
+member or friend, to assume healthcare decisional authority for an incapacitated individual 
+without requiring formal appointment through the judicial system. These statutes usually estab lish 
+a prioritized list or “surrogacy ladder” of individuals (e.g., spouse, adult child, parent, sibling) who 
+may act as a health care decision -maker when no advance directive or Healthcare Proxy is in 
+place.2 A growing number of states also authorize a close friend to act as default surrogate.3 The 
+structure and scope of these statutes vary by state, but they can be utilized to help reduce reliance 
+on court -appointed guardianship.4 
+Guardian - A guardian is a court -appointed individual authorized to make personal, medical, 
+and/or financial decisions on behalf of an incapacitated person. Guardianship is based on a 
+person’s functional inability to make informed decisions, often due to conditions s uch as 
+dementia, mental illness, developmental disability, or brain injury. In some states, including 
+Massachusetts, separate terms are used – such as guardian for personal/medical decisions and 
+conservator for financial decisions. The term guardian is com monly applied broadly.5,6 
+Healthcare Proxy (HCP) - A healthcare proxy is a legal document that allows an individual to 
+designate another person to make medical decisions on their behalf if they become unable to do 
+ 
+1 Massachusetts Executive Office of Health and Human Services. (2025). Massachusetts law about health care 
+proxies and living wills. Retrieved from: https://www.mass.gov/info -details/massachusetts -law-about -health -
+care -proxies -and-living -wills  
+2 DeMartino et al. (2017) Who Decides When a Patient Can't? Statutes on Alternate Decision Makers. The New 
+England Journal of Medicine, 376(15), 1478 -1482. https://doi.org/10.1056/NEJMms1611497  
+3  Arias, J.M. (2023). Default Surrogate Statutes. Bifocal, 44(3), 54 -57. Journal of the American Bar Association 
+Commission on Law and Aging. 
+https://www.americanbar.org/groups/law_aging/publications/bifocal/vol44/bifocal -vol-44-issue3/recent -
+updates -to-default -surrogate -statutes/  
+4  Arias, J.M. (2023).  
+5 Moye, J., et al. (2016). Examining the need for a public guardian in Massachusetts: Phase 1. Guardian Community 
+Trust https://guardianship.institute/wp -content/uploads/2019/02/1 -Examining -the-Need -for-a-Public -Guardian -
+in-Massachusetts -PROOF -for-PRINTING -2d-Printing.pdf    
+6 Moye, J. et al. (2018). Guardianship for adults without surrogates in Massachusetts ( Guardianship 
+Community Trust [report] ) https://guardianship.institute/wp -content/uploads/2019/02/1. -Guardianship -for-
+Adults -without -Surrogates -in-Massachusetts -April -11-2018.pdf  
+
+ 
+iv 
+ so. The healthcare proxy only becomes active when a physician determines that the individual 
+lacks capacity to make or communicate healthcare decisions.7 
+Living Will (Personal Directive) – A living will, also called a personal directive, is a written 
+statement of an individual’s preferences regarding specific medical treatments. Unlike a 
+healthcare proxy, a living will does not have legal standing in Massachusetts.1 However, it can 
+serve as guidance for the appointed agent and healthcare professionals when making decisions on 
+behalf of an incapacitated agent.8 
+Post -Acute Care  – Post -Acute care is care provided after an acute care stay, either at home or in 
+an institutional setting such as a nursing home, skilled nursing facility, long -term acute care 
+hospital, or inpatient rehabilitation facility.9 
+Public Guardianship - Public guardian refers to guardianship programs established and funded by 
+state or local governments to serve individuals who lack the capacity to make personal, medical, or 
+financial decisions, and who have no family, friends, or other suitable persons wi lling or able to act 
+on their behalf.10 While these programs vary widely in structure, funding, and administration across 
+jurisdictions, they share a common purpose of supporting the most indigent and vulnerable 
+members of society.11 There are four models within the public guardianship sphere: 1) the 
+“government as a guardian” model, in which a state agency or office directly serves as the court -
+appointed guardian, 2) the “privatized public guardian” model in which guardianship servic es are 
+provided by private nonprofit or for -profit entities under contract with the state, 3) the “private 
+appointment originated by a public agency” model where a public agency identifies the need for 
+guardianship and then petitions the court for a guardi an, in this case a private individual, to be 
+appointed, and 4) the “privately funded public guardian” model which include guardianship 
+programs that serve public functions (i.e., guardians of last resort for indigent individuals) but are 
+primarily financed  through private or philanthropic sources rather than government funding.11,12 
+Qualified Professional Guardian - A Qualified Professional Guardian is a court -appointed 
+individual authorized to make personal, medical, and/or financial decisions on behalf of an 
+incapacitated person.13 However, unlike lay or family guardians, professional guardians are 
+compensated for their services and must meet formal requirements, which typically include 
+ 
+7 https://masshealthdecisions.org/health -care -proxy/  
+8 Massachusetts Medical Society. Important differences between healthcare proxies and living wills. Retrieved 
+from: https://www.massmed.org/Patient -Care/Health -Topics/Health -Care -Proxies -and-End-of-Life-
+Care/Important -Differences -Between -Health -Care -Proxies -and-Living -Wills/  
+9 https://www.medpac.gov/research_area/post -acute -care/  
+10 Moye, J. et al. (2018). Guardianship for adults without surrogates in Massachusetts ( Guardianship 
+Community Trust [report] ) https://guardianship.institute/wp -content/uploads/2019/02/1. -Guardianship -
+for-Adults -without -Surrogates -in-Massachusetts -April -11-2018.pdf  
+11 Massachusetts Guardianship Policy Institute (2023). The first ten years: Review and recommendations 
+[unpublished report]  
+12 MGPI, The first ten years, 2023.  
+13 Cohen, A. et al. (2019) End -of-life Decision -Making and Treatment for Patients with Professional Guardians. 
+Journal of the American Geriatrics Society, 67(10 ), 2161 -2166. DOI: 10.1111/jgs.16072  
+
+ 
+v 
+ completing training, passing a criminal background check, and adhering to ethical standards, and 
+may include ongoing oversight.14  
+Rogers Guardian ship : A type of guardianship  where there is a court order that authorizes the 
+guardian to agree to extraordinary treatmen t, with the appointed individual as a Rogers monitor 
+who is responsible for monitoring whether treatments are within the scope of the court order. 
+Named after the Rogers v. Commissioner of the Department of Mental Health 1983 decision, 
+Rogers guardianships are typically used in psychiatric settings and are distinct from other 
+guardianship types  
+Unrepresented Individuals - An unrepresented individual lacks the capacity to make medical 
+decisions and has no surrogate, guardian, or advance directive. They are usually facing an 
+important medical decision while incapable of autonomous decision -making, with little chance of 
+regain ing capacity in time, and no identifiable substitute decision -maker or clear past statements 
+or evidence of preferences. Unrepresented individuals are at high risk for inappropriate medical 
+care, including overtreatment, undertreatment, and delayed dischar ges from hospital facilities. 
+Unrepresented Individuals generally fall into three categories,  including  individuals who: 1) may be 
+experiencing homelessness or serious mental illness , 2) lack a willing or appropriate health care 
+surrogate by circumstance or personal choice, and 3) have outlived their family and close social 
+supports.15 
+ 
+14 https://guardianshipcert.org/certification -requirements  
+15 Schweikart, S. J. (2019). Who makes decisions for incapacitated patients who have no surrogate or advance 
+directive? AMA Journal of Ethics, 21 (7), E587 –593. https://doi.org/10.1001/amajethics.2019.587  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      1 
+ Executive Summary  
+The Massachusetts Department of Public Health’s (DPH) Bureau of Health Care Safety and Quality 
+contracted with Eastern Research Group, Inc. (ERG) to conduct a study to evaluate the need for 
+and feasibility of establishing access to Qualified Professional Guardians16 within the 
+Commonwealth. This Executive Summary provides a high -level overview of issues and findings of 
+the research conducted under this project, with details provided in the body of this Study and 
+Report on the Need and Feasibility of Qualified Professional Guardians (“The Repo rt”).  
+In the context of this Report, Unrepresented Individuals are those who lack the capacity to make 
+their own medical decisions but do not have a surrogate decision maker.17 These Unrepresented 
+Individuals were either admitted to an acute care hospital without a surrogate decision maker (e.g., 
+because of a medical emergency) or lost their surrogate decision maker while in the hospital (e.g., 
+the family member acting as surrog ate decision maker died). When an Unrepresented Individual no 
+longer needs to be in an acute care hospital setting to receive appropriate care, they cannot be 
+discharged from the acute care hospital to a more appropriate healthcare setting until a surrogat e 
+decision maker, such as a family member or friend, is found to consent. In the absence of an 
+appropriate surrogate decision maker, the Unrepresented Individual cannot be discharged until a 
+Guardian is appointed by the court to consent.  
+Research in the Commonwealth of Massachusetts (“Massachusetts” or “Commonwealth”) and 
+other states suggest that the shortage of Guardians available to take on Unrepresented Individuals 
+can lead to discharge delays resulting in significant burdens on Unrepr esented Individuals as well 
+as healthcare systems and stakeholders.18  
+Key Findings  
+The legislation that necessitated this study and report directed  DPH  to “study and report on the 
+need and feasibility of qualified professional guardians to give informed medical consent for 
+indigent persons and whether such guardians would reduce hospital discharge issues and 
+increase access to long -term care and preventive ca re” and specifically required DPH to include 
+five key elements in the report : (i) The need for qualified professional guardians to assist indigent 
+persons with accessing appropriate medical care, including preventive care; (ii) data on the current 
+ 
+16 For purposes of this report, we are defining Qualified Professional Guardian as an individual  or organization  
+formally appointed by a court to make personal, medical, and/or financial decisions on behalf of an 
+incapacitated person. Professional Guardians are compensated for their services and must meet formal 
+requirements, which typically include completing training, passing a criminal background check, completing 
+certification, and adhering to ethical standards. Their duties may be subject to ongoing oversight and monitoring 
+by the state and/or professional organizations . 
+17 A surrogate decision maker is an individual authorized to make medical decisions for another person who lacks 
+the capacity to make or communicate those decisions themselves. Source: 
+https://www.merckmanuals.com/home/fundamentals/legal -and-ethical -issues/default -surrogate -decision -
+making   
+18 Ricotta et al. (2018). The burden of guardianship: A matched cohort study. J Hosp Meds. 13 (9):595 -601 DOI: 
+10.12788/jhm.2946  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      2 
+ number of Rogers guardians and similar guardians and the financial impact of reimbursing such 
+guardians; (iii) the fiscal impact of establishing MassHealth fee -for-service guardians; (iv) 
+consideration of the benefits to an individual and cost to the Commo nwealth of deducting from an 
+applicant for MassHealth or a MassHealth member’s income for guardianship fees and related 
+expenses when the appointment of a guardian is essential to enable an applicant or member to 
+gain access or consent to medical treatment  and an estimation of reasonable costs for such a 
+deduction; and (v) other recommendations deemed necessary by the department.  
+ 
+As a result of the study, DPH finds there is a significant need for qualified professional guardians to 
+give informed medical consent for persons who are unable to afford these services otherw ise and 
+that increasing payment to Qualified Professional Guardians, coupled with other recommended  
+legislative c hanges, could substantially reduce delays in hospital discharges and expedite access 
+to long -term and preventative care. With respect to  the five requirements set forth in the legislation 
+for this study and report, key takeaways include:  
+(i) The need for qualified professional guardians to assist indigent persons with accessing 
+appropriate medical care, including preventive care. Multiple interviewees representing 
+patients, acute -care hospitals, and the legal system indicated that they believe Massachusetts 
+relies on a limited and shrinking pool of professional or pro bono Guardians , usually attorneys or 
+retired attorneys, to fill this gap. We were not able to identify an independent data source to 
+confirm this assertion. However, respondents report that acute -care hospitals often struggle to 
+identify a suitable Guardian in a timely manner. According to several interviewees, attorneys 
+seeking a pro bono Guardian on behalf of acute -care hospitals for indigent Unrepresented 
+Individuals might contact anywhere from four to thirteen Guardians before finding one willing to 
+accept the case. The consensus from interviewees and literature is that a primary factor impacting 
+the lack of availability of qualified Guardians for Unrepresented Individuals is inadequate 
+compensation. There are insufficient individuals willing to provide guardianship services. Providing 
+compensation to Guardians may potentially increase the number of qualified Guardians.  
+(ii) Data on the current number of Rogers guardians hips  and similar guardians hips  and the 
+financial impact of reimbursing such guardians hips . We are not able to provide an estimate of 
+the number of Rogers guardians hips  or similar guardians hips  with currently available data. 
+Available data does not distinguish the circumstances under which Guardianship is appointed , and 
+therefore the number of Rogers guardians hips  cannot be estimated. Guardianship in 
+Massachusetts operates through a combination of limited state -funded services and an informal 
+network of unpaid or pro bono Guardian s rather than a centralized or Public Guardians program. 
+Massachusetts court records show that since 2017, a total of 3,500 to 4,000 guardianship petitions 
+have been filed each year for incapacitated individuals. These court records do not provide data on 
+reimbursement to Guardians.  Summary data of the annual petitions filed are available through the 
+Massachusetts Trial Court, Department of Research and Planning. There is no way to summarize 
+the demographic characteristics of the guardians assigned to these individuals or determine how 
+many of these are Rogers  guardians hips . 
+(iii) The fiscal impact of establishing MassHealth fee -for-service guardians. There is no 
+pathway to federal approval to provide MassHealth fee -for-service reimbursement for Public 
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      3 
+ Guardianship services, therefore, no federal revenue would be available to support these costs . All 
+guardianship services would need to be paid for at the cost of the state.  
+(iv) Consideration of the benefits to an individual and cost to the Commonwealth  of deducting 
+from an applicant for MassHealth or a MassHealth member’s income for guardianship fees 
+and related expenses when the appointment of a guardian is essential to enable an applicant 
+or member to gain access or consent to medical treatment and an  estimation of reasonable 
+costs for such a deduction.  
+The Massachusetts statute on MassHealth eligibility includes certain long -term care general 
+income deductions. These include a personal -needs allowance, spousal -maintenance -needs -
+deduction, family -maintenance needs, maintenance of a former home, and health -care coverage 
+and other incurred expenses. The deductions for health -care coverage and other incurred 
+expenses contain guardianship expenses that are allowable with the specified maximum amounts. 
+There is no pathway currently available to increase the number  of allowable deductions from a 
+MassHealth member’s income. To increase the number  of allowable deductions would require 
+statutory changes at the state level  as well as federal approval.   
+(v) Other recommendations deemed necessary by the Department. The following actions are 
+recommended: enhance the pool of qualified Guardians to reduce acute -care hospital discharge 
+delays by providing sufficient compensation a nd reduce the need for guardianship by  enacting a 
+default surrogate statute  and promoting programs that increase completion of  Health Care 
+Prox ies.  
+  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      4 
+  
+Introduction  
+Section 30 of Chapter 197 of the Acts of 2024 (the Act) required DPH to:  
+“[S] tudy  and report on the need and feasibility of qualified professional guardians to give 
+informed medical consent for indigent persons and whether such guardians would reduce 
+hospital discharge issues and increase access to long -term care and preventive care: 
+provided, however, that the report shall include: (i) the need for qualified professional 
+guardians to assist indigent persons with accessing appropriate medical care, including 
+preventive care; (ii) data on the current number of Rogers guardians hips  and similar 
+guardians and the financial impact of reimbursing such guardians; (iii) the fiscal impact of 
+establishing MassHealth fee -for-service guardians; (iv) consideration of the benefits to an 
+individual and cost to the commonwealth of deducting from an applicant for MassHealth or 
+a MassHealth member’s income for guardianship fees and related expenses when the 
+appointment of a guardian is essential to enable an applicant or member to gain access or 
+consent to medical treatment and an estimation of reas onable costs for such a deduction; 
+and (v) other recommendations deemed necessary by the department.” 19 
+In response to the requirements in the Act, the DPH Bureau of Health Care Safety and Quality 
+contracted with Eastern Research Group, Inc. (ERG) to conduct a study to evaluate the need for 
+and feasibility of establishing access to Qualified Professional Gua rdians20  within the 
+Commonwealth, with input from subject matter experts at the Center for Guardianship Excellence  
+(CGE), and issue the Report.  
+The Report must be submitted by DPH, along with any proposed legislation necessary to carry out 
+DPH’s recommendations to the clerks of the Senate and House of R epresentatives, the Senate and 
+House Committees on Ways and Means , and the Joint Committee on Elder Affairs .  
+Pursuant to the Act, this Report reviews the role of Qualified Professional Guardians in assisting 
+Unrepresented Individuals to access appropriate medical care and reducing hospital discharge 
+delays. Massachusetts acute -care hospitals are experiencing delays in discharging due, in part, to 
+the inability to safely discharge Unrepresented Individuals who often remain hospitalized for 
+extended periods in part due to the absence of legal Guardians authorized to make decisions on 
+their behalf . The delay in acute -care hospital discharge of Unrepresented Individuals constrains  
+patient beds and impacts hospital throughput. Guardianship Appointments often require 
+prolonged legal processes to secure, which may  lead to medically unnecessary and costly acute -
+ 
+19 An Act to Improve Quality and Oversight of Long -Term Care - Chapter 197 of the Acts of 2024 . Accessible at : 
+https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter197  
+20 For purposes of this report, we are defining Qualified Professional Guardian as an individual  or organization  
+formally appointed by a court to make personal, medical, and/or financial decisions on behalf of an 
+incapacitated person. Professional Guardians are compensated for their services and must meet formal 
+requirements, which typically include completing training, passing a criminal background check, completing 
+certification, and adhering to ethical standards. Their duties may be subject to ongoing oversight and monitoring 
+by the state and/or professional organizations . 
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      5 
+ care hospital stays for Unrepresented Individuals. These delays may  impact the well -being of 
+Unrepresented Individuals and contribute to backlogs within acute care settings, limiting acute -
+care hospital throughput and straining resources within the broade r healthcare system.  
+Additionally, to meet the requirements of the Act, this Report seeks to establish the following:  
+• A definition of “Qualified Professional Guardian”  
+• A baseline of the use of Guardians in Massachusetts   
+• Guardian usage and practices in other key states  
+• Guardian usage and practices in hospitals, including why delayed hospital discharge of 
+Unrepresented Individuals requiring guardianship occurs  
+• The cost of delayed hospital discharge for Unrepresented Individuals  
+• How delayed hospital discharges for Unrepresented Individuals can be reduced  
+• The impact of Qualified Professional Guardian use  on timely hospital discharge, placement 
+in long -term care facilities, and access to medical and preventive care in the community.  
+Research to help answer these questions included a review of relevant literature, interviews with 
+practitioners and experts in guardianship within and outside of Massachusetts, and an analysis of 
+data pertaining to guardianship filings and acute -care hospi tal discharges within the 
+Commonwealth.  
+The primary objective of this Report is to develop insights and recommendations to inform policy 
+regarding  professional guardianship services, particularly as they relate to decreasing acute -care 
+hospital discharge delays.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      6 
+ Research Methods  
+This section describes the methods and data used to help inform the key research topics and 
+methods. The findings from this collective research are used to inform the subsequent sections of 
+this Report.  
+Literature Review  
+A literature review was conducted to identify key research and policy documents related to 
+guardianship in Massachusetts and across the United States. The review began with a broad 
+internet search of publicly available information using the keyword “guardi anship” in Google 
+Scholar. The search was limited to U.S. -based publications from the year 2016 onward. The search 
+was then extended using the additional terms: “unrepresented”, “unbefriended ”, “public 
+guardianship”, “guardianship hospital discharge”, “incapacitated adults”, “adults without 
+advocates”, and “guardianship alternatives”. These searches yielded a range of research articles 
+and policy or legal reviews. In addition, further relevant  literature was provided by DPH, the subject 
+matter experts from CGE, and several interview participants. In total, the review identified 81 
+articles and publications that met the criteria of interest. These sources fall into seven main 
+categories of focus : Guardianship Best Practices (5), Hospital Discharge Delays (19), Alternatives 
+to Guardianship (13), Public Guardianship (12), Guardianship Policy (10), the Unrepresented 
+Population (17), and Other (5).  21 A bibliography of literature reviewed is included in Appendix A.  
+Interviews  
+Twenty semi -structured interviews were conducted with a range of stakeholders associated with 
+the guardianship process. These interviews aimed to gather stakeholder input on key research 
+questions (described further below) based on the individual’s relevan t expertise and experience. 
+Table 1 provides an overview of the number of interviews conducted by area of expertise. 
+Interviewees have been categorized based on their primary affiliation and interview discussion 
+topic(s). 22 
+Interviewee Selection  
+Interviewees were selected through several avenues. DPH provided an initial set of interviewee 
+suggestions for individuals with expertise with various aspects of the guardianship process in 
+Massachusetts. State programs outside of Massachusetts were identi fied by subject matter 
+experts and teaming partners from CGE based on the structure and elements of their program,  
+ 
+21 This categorization framework is imperfect due to the inherent overlap between topics. For example, articles on 
+Unrepresented Individual  populations often touch on Public Guardianship or policy reform. As such, the “other” 
+category of five references serves as a catch -all for sources that do not align neatly with a single theme or address 
+adjacent issues.  
+22 The categorization reflected in the table does not account for individuals who provided information on multiple 
+focal areas or topics within the guardianship process. For example, while only one interview is denoted for an LTC 
+trade association, there wer e several interviewees with other areas of primary expertise (e.g., advocacy, 
+hospitals, state agencies) who engaged on topics related to the LTC setting, as it is enmeshed with the individual’s 
+work and patient populations served.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      7 
+ along with several hospital and advocacy programs. The remainder of interviewees were identified 
+during other interviews, as the project team asked for recommendations for key individuals who 
+might offer perspectives and insight to fill information gaps th at were identified throughout the data 
+collection process.  
+Table 1: Summary of Interviews Conducted by Area of Expertise  
+Area of Expertise  [a] Number of Interviews Conducted  
+Inside Massachusetts  
+State Agencies  5 
+Guardianship Programs  1 
+Hospitals  3 
+Courts/Judicial System  1 
+Long -Term Care Trade Association  1 
+Advocacy  2 
+Guardianship Financing  2 
+Outside Massachusetts  
+Other State Guardianship Programs [a]  4 
+National (multi -state) Guardianship Expert  1 
+Total Interviews  20 
+* The categorization of interviewees into expert areas reflects their primary affiliation and interview discussion 
+topic(s) . Many interviewees had expertise and experience across multiple topic areas.  
+[a] An additional three states provided email responses to written interview guide questions.  
+ 
+Interview Topics and Questions  
+Several core interview scripts were developed that could be adapted for use in the semi -structured 
+interviews. For example, a general interview guide was developed for use in state interviews, as 
+was one for hospitals and state agencies and then tailored f or specific interviews. Interviews having 
+an expert with a unique perspective were developed individually, often pulling foundational 
+questions from the core interview scripts and then tailoring the other questions to the individual’s 
+expertise or focal ar ea. Across these interviews, the questions focus on the main topics of:  
+• Guardianship processes, such as identifying and appointing Guardian s 
+• Current challenges in the guardianship process  
+• Factors that contribute to the delay in hospital discharge and access to appropriate 
+medical care for Unrepresented Individuals  
+• Suggested alternatives or changes to the current guardianship processes, including those 
+that could reduce hospital discharge delays  
+• Guardianship best practices  
+• The cost and financial aspects of guardianship, including program costs, Guardian  pay, and 
+cost of guardianship per patient.  
+Data Sources  
+Data on the Number of Individuals Needing Guardianship  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      8 
+ Due to the legal requirements for appointing a Guardian , the Massachusetts Court System is the 
+definitive source for data on guardianship cases. 23 Therefore, to determine the number of 
+guardianship petitions filed by year and by county, this Report relied on the following resources:  
+• The “Court Data, Metrics & Reports” website24 provides relevant information such as 
+prepared reports on trial court case flow metrics by year.  
+• The “Massachusetts Trial Court, Civil Case Filings” contains civil court case filings from 
+FY2017 to FY2024 and can be broken down by Trial Court department, case type, and 
+county.  
+Data on Acute -Care Hospital Discharge Delays  
+To estimate the magnitude of acute -care hospital discharge delays, two primary data sources were 
+used: the Massachusetts Health & Hospital Association’s (MHA) Monthly Throughput Survey 
+Reports25 and the Center for Health Information and Analysis (CHIA) Case Mix Data Hospital 
+Inpatient Discharge Database.26  Both datasets were analyzed to generate estimates of the number 
+and magnitude of acute care hospital discharge delays. However, neither dataset includes the 
+information needed to identify certain sub -populations of interest, such as Unrepresented 
+Individuals.  
+MHA Throughput Survey Reports  
+MHA Throughput Survey Reports summarize the results of monthly survey responses from case 
+management directors regarding their member acute and Post -Acute Care  hospitals. The focus of 
+the MHA Survey Report is to obtain information about the number of patients awaiting discharge to 
+Post -Acute Care  settings including details such as the types of post -acute settings, types of patient 
+issues, and length of wait. Data are reported voluntarily by hospitals, with the survey instrument 
+and information about the representativeness of the sample being unava ilable. 27 In the absence of 
+this information, assumptions were developed  to estimate the number of patients experiencing 
+hospital discharge delays and the subset of those patients who were awaiting a Guardian .  
+CHIA Case Mix Data  
+CHIA, an independent state agency responsible for producing healthcare statistics for 
+Massachusetts, provided a Limited Data Set version to DPH. CHIA collects detailed financial and 
+patient -level data from Massachusetts payers and providers. The Hospital I npatient Discharge 
+Database is a collection of acute care hospital inpatient discharge data provided by 
+Massachusetts facilities. The main data field of interest for this study is the “Total Administratively 
+Necessary Days” which is described as “The numbe r of days which were deemed clinically 
+ 
+23 Only certain aggregate numbers are available. Access to the underlying data was requested, but case -level data 
+were unavailable.  
+24 https://www.mass.gov/court -data -metrics -reports  
+25 Available at https://www.mhalink.org/throughputreports/   
+26 Documentation available at https://www.chiamass.gov/case -mix-data   
+27 Tabulations other than those published in the MHA Survey Reports could not be obtained.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      9 
+ unnecessary in accordance with review by the Division of Medical Assistance.”28 The data also 
+include information about the demographics of the patient, details about the acute -care hospital 
+inpatient stay, and information about where the patient was discharged. Some of these variables 
+were used to restrict the observations to approx imate the population of interest. One limitation of 
+the CHIA data is that they do not include any information related to a patient’s need for a Guardian  
+or any other reason for a delayed discharge.
+ 
+28 See the Case Mix Documentation: Hospital Inpatient Discharge Database (HIDD) FY24 Documentation Manual, 
+available at https://www.chiamass.gov/case -mix-data   
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      10 
+ Decision Making Support and Guardianship in 
+Massachusetts  
+Massachusetts law (G.L. c. 190B, § 5 -306) sets the conditions and requirements for appointing a 
+Guardian  for an incapacitated individual. The law requires that less restrictive options to 
+guardianship are explored and ruled out prior to appointing a Guardian .29 In Massachusetts, less 
+restrictive options include:  
+• The designation of a Healthcare Proxy (HCP) or an Advance Directive to make medical and 
+treatment decisions on behalf of the patient. These options require the individual to make 
+decisions and complete documentation prior to complete incapacitation of the individual.  
+• Supported Decision -Making (SDM), which uses the help of an individual’s trusted 
+supporters to help the individual preserve autonomy in decision -making.30 SDM is not 
+suitable for an incapacitated individual who lacks the appropriate support network.  
+Once a patient is deemed to lack capacity and does not have a HCP in place, a Guardian  is 
+required to make decisions for the patient, as Massachusetts does not have a Default Surrogate 
+Statute (one of only four states in the U.S).31 A surrogate consent law allows another individual, 
+generally a close family member, to be the healthcare decision -maker for an incapacitated 
+individual who has not designated an HCP or been appointed a Guardian .  
+Guardianship in Massachusetts operates through a combination of limited state -funded services 
+and an informal network of unpaid or pro bono Guardian s rather than a centralized or  Public 
+Guardians program. Massachusetts has four types of guardianship:  
+• Limited Guardianship:  The Guardian  decisions are limited to a subset of court -defined 
+specified  decisions. This allows the individual under guardianship to retain autonomy in 
+areas where they are still capable.  
+• Plenary or Complete Guardianship:  The Guardian  has broad, comprehensive authority 
+over nearly all personal decisions for an individual, often due to advanced cognitive 
+impairment or severe mental illness. While necessary in some cases, plenary 
+guardianships result in a near -total loss of personal autonomy and are considered the most 
+restrictive form of guardianship.32 
+• Rogers Guardianship: A type of guardianship where there is a court order that authorizes 
+the guardian to agree to extraordinary treatment, with the appointed individual as a Rogers 
+ 
+29 https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter190B/ArticleV/Section5 -306  
+30 Carlson, K et al. (2021) Best Practices in Support Decision Making: How to Be an Effective Supporter. Center for 
+Excellence in Supported Decision Making. Retrieved from https://www.voamnwi.org/center -excellence -
+supported -decision -making  
+31 The other three states are Minnesota, Missouri, and Rhode Island. See 
+https://www.americanbar.org/groups/law_aging/publications/bifocal/vol44/bifocal -vol-44-issue3/recent -
+updates -to-default -surrogate -statutes/ . 
+32 Catlin et al. (2022). Unrepresented Adults Face Adverse Healthcare Consequences: The Role of Guardians, Public 
+Guardianship Reform, and Alternative Policy Solutions. J Aging Soc Policy.  2022 May 04; 34(3): 418 –437. 
+doi:10.1080/08959420.2020.1851433.   
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      11 
+ monitor who is responsible for monitoring whether treatments are within the scope of the 
+court order. Named after the Rogers v. Commissioner of the Department of Mental Health 
+1983 decision, Rogers guardianships are typically used in psychiatric settings a nd are 
+distinct from other guardianship types  
+• Temporary  Guardianship : A temporary guardianship for an individual may be appointed in 
+emergency situations until a  permanent guardian  is appointed . The temporary guardianship 
+generally lasts for a maximum of 90 days and requires “immediate and substantial harm to 
+the incapacitated person’s health, safety, or welfare.”33 Some hospitals frequently file this 
+type of guardianship petition for Unrepresented Individuals .  
+Jurisdiction for Guardianship issues is with the Massachusetts Probate and Family Court 
+Department, which operates through a number of local district courts. In early 2025, the Office of 
+Adult Guardianship and Conservatorship Oversight  (OAGCO) was implemented as part of the 
+Massachusetts Probate and Family Court Department by a federal grant funded by the 
+Administration for Community Living (ACL) and the U.S. Department of Health and Human Services 
+(HHS).34 The office is responsible for monitoring the reports that Guardian s and conservators are 
+required to file annually, collecting and reporting data on adults under guardianships and 
+conservatorships, coordinating with other state agencies and private organizations on 
+guardianship matters, and providing education to the pub lic about guardianship and 
+conservatorship issues. 35 36  
+Guardians  
+Although demographic information about individuals serving as Guardian s is not publicly available, 
+most Guardian s are believed to be family members. Other than family petitioners, the Department 
+of Mental Health (DMH), the Department of Developmental Services (DDS), and the Executive 
+Office of Aging & Independence (AGE) assist qualifying individuals in their client populations to 
+access guardianship services. While DDS  and DMH  assist  its clients in obtaining guardianships 
+through their service plan on an as -needed basis ( DDS assists  approximately 1,000 clients per 
+year), AGE help s place eligible individuals in a limited number of predetermined guardianship slots . 
+153 slots are available within AGE’s Adult Protective Services  for individuals over the age of 65 with 
+no financial capability and where family  or friends can not serve as guardians.  Services are provided 
+via contracts with community o rganizations.    37 38,￼ For Unrepresented Individuals who do not 
+ 
+33 https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter190B/ArticleV/Section5 -308   
+34 https://www.mass.gov/office -of-adult -guardianship -and-conservatorship -oversight -oagco   
+35 Guardians are appointed for incapacitated persons, and conservators are appointed for persons to be 
+protected.  (https://www.mass.gov/info -details/general -information -regarding -guardianships -and-
+conservatorships -mpc -190) 
+36 https://www.mass.gov/news/massachusetts -trial-court -announces -the-implementation -of-the-office -of-adult -
+guardianship -and-conservatorship -oversight   
+37 Massachusetts Guardianship Policy Institute. 2025. “Report on Public Guardianship: Ten Year Review &  
+Recommendations.” Available at https://guardianship.institute/report -on-public -guardianship/  
+38 Eligibility for guardianship through AGE : Individuals 60+ that have gone through an investigation that shows 
+they need protective services  as evidenced by some level abuse  or self -neglect.  
+(https://www.mass.gov/protecting -older -adults -from -abuse ) 
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      12 
+ qualify  for one of the state agency Guardian  appointment programs, guardianship is fulfilled on a 
+pro bono basis by volunteers, such as attorneys, retired attorneys, or retired social workers.  
+Qualifications and Training  
+Qualifications and training vary by the type of Guardian  in Massachusetts. At minimum, all 
+Guardian s are required to be at least 18 years of age, pass a criminal background check, and be 
+determined competent by the court. Optional training is provided through several programs that 
+help Guardian s better understand various aspects of guardianship, such as Guardian  
+responsibilities, the legal process, and ethical decision -making. In addition, some agencies and 
+organizations require additional training or certification. For example, Guardian s for DDS patients 
+are required to demonstrate experience working with their client population and are required to 
+meet a set of criteria determined by their office. Guardian  programs contracted by the 
+Commonwealth often have staff with social work or other relevant education and/or background 
+experience.  
+Funding and Payment  
+Qualified Professional Guardian s in Massachusetts are paid either  by the incapacitated 
+individual’s estate or through an agency. For funding by the Commonwealth, the largest amount of 
+public payment for Guardian  services is a total payment of $892.78 per month ($10,713 per year) 
+per client for the slots paid through AGE’s Adult Protective Services. This amount is used to cover 
+wages, benefits, and overhead (i.e., the full wage amount does not go directly to the Guardian ).39 
+DDS pays an average of $50 per hour for up to 20 hours per patient per year for guardianship 
+services. DMH pays up to $60 per hour for up to 20 hours per year, plus up to $300 for reimbursable 
+expenses, and $150 for travel. Rudow payments are available fo r Guardian s of nursing facility 
+residents  with MassHealth but the payments  are a maximum of $100 per month ($50 per hour for a 
+maximum of 2 hours per month).40 For patients needing Rogers Guardian ships , the Guardian s are 
+eligible for payment by the Massachusetts Probate and Family Court Department for up to 2 hours 
+per month at a rate of $50 per hour.41,42 
+ 
+Eligibility for guardianship through DDS : Individuals 22 years of age or older with an intellectual or 
+developmental disability as defined in 115 CMR 2.01 ( https://www.mass.gov/doc/115 -cmr-2-
+definitions/download ) 
+Eligibility for guardianship through DMH:  Individuals 18 years of age or older with a serious and persistent 
+mental illness as specified in the Diagnostic and Statistical Manual of Mental Disorders (DSM)  
+(https://www.mass.gov/doc/104 -cmr-29-application -for-dmh -services -referral -service -planning -and-
+appeals/download  ) 
+39 https://www.mass.gov/doc/rates -for-certain -elder -care -services -effective -january -1-2025 -0/download   
+40 These reimbursements are available due to the Massachusetts Supreme Court case Rudow v. Commissioner of 
+the Division of Medical Assistance, 429 Mass. 218 (1999) . Guardianship fees can be deducted from the personal 
+income allowed for an individual receiving long -term care under MassHealth.  
+41A Rogers guardianship is a s pecialized form of guardianship in Massachusetts  thatI s a court order that authorizes 
+extraordinary treatment, with the appointed individual as a Rogers monitor who is responsible for monitoring 
+whether treatments are within the scope of the court order. . Named after the Rogers v. Commissioner of the 
+Department of Mental Health 1983 decision.  
+42 Massachusetts Guardianship Policy Institute. 2025. “Report on Public Guardianship: Ten Year Review & 
+Recommendations.” Available at https://guardianship.institute/report -on-public -guardianship/.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      13 
+ Baseline Guardian Use  
+Although OAGCO is in the process of collecting and reporting data about adults who have 
+Guardian s, these data have not yet been made publicly available. Summary data of the annual 
+petitions filed are available through the Massachusetts Trial Court, Department of Research and 
+Planning. Error! Reference source not found.  Figure 1 shows the number of guardianship petitions 
+filed in the Massachusetts Family and Probate Court for incapacitated patients in the 
+Commonwealth  from Fiscal Year (FY) 2017 to FY 2024. No other characteristics are available. For 
+example, the trial court data do not provide information on how many of these Guardian ships are 
+for incapacitated patients that are Unrepresented Individuals .43 
+For this report, the current need for guardianship services was estimated using data from the MHA 
+Monthly Throughput Survey Reports and the CHIA Case -Mix Hospital Inpatient Discharge Database 
+(HIDD). The values calculated from the data in the MHA Monthly T hroughput Survey Reports for 
+March 2024 through February 2025 are shown in Table 2. Using monthly data, the first step of the 
+calculation was to estimate the statewide number of acute -care hospital patients awaiting 
+discharge to skilled nursing facilities (SNFs), long -term acute care hospitals (LTACHs), inpatient 
+rehabilitation faciliti es (IRFs), or home with home health care (HH) by dividing the number of 
+patients awaiting discharge in the respondent hospitals by the p ercent of statewide s taffed 
+inpatient beds  represented by respondents  in acute care. The next step was to calculate the 
+weighted average length of stay (LOS) based on the data reported for the number of patients by 
+categories of length of time patients are awaiting discharge.44 The estimated number of new cases 
+from each month’s data was calculated as the statewide number of patients awaiting acute -care 
+hospital discharge divided by the average length of stay in months. Finally, the estimated new 
+ 
+43 Massachusetts Trial Court, Department of Research and Planning : 
+https://public.tableau.com/app/profile/drap4687/viz/MassachusettsTrialCourtCivilCaseFilings/Aboutthis
+Dashboard  
+44 The categories are: 7  to 13 days, 14  to 29 days, 30 days to 6 months, and more than 6 months. The midpoint was 
+used for  the bounded categories . The average days of delay  assumed  for discharges with more than 6 months of 
+delay was based on  the CHIA Hospital Inpatient Discharge Database for FY 2023 (252 days).  05001,0001,5002,0002,5003,0003,5004,0004,500
+FY 2017 FY 2018 FY 2019 FY 2020 FY 2021 FY 2022 FY 2023 FY 2024
+Figure 1: MA Guardianship Petitions for Incapacitated Individuals FY2017 -2024  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      14 
+ cases each month were summed to calculate an estimated annual number of new cases of 
+inpatient acute care hospital stays with delayed discharges.  
+Table 2: Estimated Annual Patients with Hospital Discharge Delays  
+Source  Time Period  Patients Awaiting Discharge/ 
+Discharged to SNF, LTACH, IRF, HH * Patients Requiring 
+Appointment of a 
+New/Initial Guardian with 
+Delayed Discharge to SNF, 
+LTACH, IRF, or HH*  
+Annual Cases  Average LOS 
+(Days)  Annual Cases  
+MHA Throughput 
+Survey  March 2024 -
+February 2025  18,346 [a]  54.1  [c] 3,313  [d] 
+CHIA HIDD  FY2023  21,798  [b] 15.7   3,027  [d] 
+*Acronyms are defined as follows: s killed nursing facilities (SNFs), long -term acute care hospitals (LTACHs), 
+inpatient rehabilitation facilities (IRFs), home with home health care (HH)  
+[a] For e ach month,  the number of  statewide total patients in acute care hospitals awaiting discharge was 
+estimated by dividing the reported number of delayed discharges by the percentage of staffed inpatient beds 
+accounted for by the reporting hospitals in that month  (e,g., 1,527 delayed discharges were reported by hospitals 
+accounting for 73 percent of staffed inpatient beds  in March 2024) . Because each patient stay may appear in 
+more than one month’s data, that value was  divided by the average LOS measured in months  (59 days/ (365 
+days /12 months)  in March 2024)  to estimate the numbers of new cases in that month. Finally, the monthly 
+estimates of new cases were summed to calculate an estimate of the annual number of cases of delayed 
+discharges from acute care hospitals . 
+[b] Number of adult observations whose inpatient admission began in the hospital's emergency department, 
+were discharged to a SNF, LTACH, IRF, or HH , and had at least 7 administratively necessary days  (for consistency 
+with how the MHA reports the number of patients with delayed discharge from acute care hospitals) . 
+[c] Calculated as a weighted average of the length of time for patients awaiting discharge to SNFs using the 
+midpoint of bracketed categories in the MHA reports. For those waiting more than 6 months,  an assumed 
+average of 252 days  was estimated from  observations with at least 6 months of administratively necessary days 
+in the FY2023 CHIA data.  
+[d] Based on applying the average percentage of patients with hospital discharge delays who were awaiting a 
+Guardian in the MHA Monthly Throughput Survey Reports for May 2024 -April 2025 (a March 2025 report is not 
+available).  
+ 
+The calculations of the number of unique cases of acute care hospital visits with delayed discharge 
+using the data reported in the MHA Monthly Throughput Surveys contain two implicit assumptions. 
+First, the calculations assume that patterns of delayed disc harge for hospitals not reporting are 
+similar to those of hospitals that do report. A second implicit assumption is that the characteristics 
+of delayed discharge for patients awaiting guardianship to be discharged to an LTC facility are 
+similar to those aw aiting guardianship to be discharged to other Post-Acute Care settings.  
+Similar to the estimate of the number of new cases of delayed discharge from acute care hospitals 
+that involve patients waiting for Guardian s using the MHA reported numbers of delayed discharges, 
+the CHIA HIDD calculation implicitly assumes that the patterns of delayed discharge for patients 
+awaiting guardianship to be discharged to a LTC facility as reported in the MHA Throughput Survey 
+Reports are similar to those awaiting guardianship to be discharged to othe r Post -Acute Care  
+settings.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      15 
+ Sensitivity Analysis  
+The results about the current need for Guardian s are sensitive to changes in the estimated LOS for 
+patients awaiting guardianship for discharge. The analysis also approximated how acute -care 
+hospital occupancy might change under different assumptions about the LOS for  patients awaiting 
+guardianship for discharge . CHIA data for the one -year period from April 2023 through March 2024 
+showed 759,000 hospital discharges with a total 4.22 million bed days (average LOS of 5.6 days).45 
+The approximation shows that the estimated 12,900 patients with delayed discharges for reasons 
+other than guardianship accounted for 591,000 of those bed days (13.4 percent of the total).  
+If the average excess LOS for patients awaiting guardianship for discharge is 41 days, the 3,300 
+patients whose discharge is delayed due to guardianship issues account for approximately 0.4 
+percent of patients and 156,200 occupied bed days (3.6 percent). If acute -care hospitals were able 
+to reduce the excess LOS for these patient s by 50 percent (about 20 days), this would make 
+available an additional 68,000 bed days per year (1.5 percent).  
+However, if the average LOS for patients awaiting guardianship for discharge is 12 days (Ricotta, et 
+al., 2018), then those same 3,300 patients account for 63,100 of occupied bed days in a year (1.5 
+percent). If acute -care hospitals were able to reduce their excess LOS by 50 percent (about 6 days), 
+this would make available an addi tional 19,400 bed days in a year (0.5 percent).  
+The Role of Guardianship in Delayed Hospital Discharge and Access to 
+Appropriate Medical Care  
+According to a 2023 report from the Massachusetts Health and Hospital Association (MHA), for 
+approximately 1,200 of the  patients (about 2 percent of patients) statewide who are medically 
+stable, discharge is delayed due to systemic barriers , such as workforce shortages in Post -Acute 
+Care  settings, limited availability of specialized care settings for those with complex care needs, 
+transportation issues for patients requiring ongoing outpatient services such as dialysis, and rules 
+regarding minimum inpatient stay before eligibility for SNF  admission . Because this extends their 
+LOS, these 2 percent of medically stable patients account for approximately 15 percent of the 
+Commonwealth’s occupied medical -surgical bed days annually.46 
+The MHA Throughput Survey Reports estimate that approximately 14 percent of the 1,200 patients   
+who are medically stable but have a delayed discharge  is attributable to guardianship issues. While 
+many other challenges cause delay, as noted above47 the guardianship appointment process can 
+be a factor that further delays discharge.48  
+ 
+45 Massachusetts Acute Care Hospital Inpatient Discharge Data. October 2018 through March 2024 (Preliminary). 
+August 2024. CMSR -HIDD -Quarterly -Databook -10-01-2018 -to-03-31-2024.xlsx. 
+https://www.chiamass.gov/massachusetts -acute -care -hospital -inpatient -discharge -reporting . Downloaded June 
+4, 2025.  
+46  Massachusetts Health & Hospital Association. (2023). A clogged system: Keeping patients moving through 
+their care journey.  https://www.mhalink.org/reportsresources/acloggedsystem/  
+ 
+48 MHA, A clogged system, 2023.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      16 
+ • Interviews and literature reviewed confirmed that the role of guardianship in the acute -care 
+hospital discharge process is a critical factor contributing to delays, particularly for 
+individuals with complex medical, cognitive, or behavioral health needs. When a patient is 
+deemed medically ready for discharge but lacks the capacity to make decision s and has no 
+available surrogate  decision maker , guardianship is required to facilitate discharge 
+planning and access to a more appropriate care setting   
+Challenges  
+According to interviewees, professional Guardian s are available for Unrepresented Individuals who 
+have sufficient funds to pay for them. Massachusetts has a shortage of Guardian s willing and able 
+to serve incapacitated individuals who do not have the funds to hire a professional Guardian . 
+Interviewees report that Massachusetts relies on a limited and shrinking pool of professional or pro 
+bono Guardian s, usually attorneys or retired attorneys, to fill this gap. As a result, acute -care 
+hospitals often struggle to identify a suitable Guardian  in a timely manner. The consensus from 
+interviewees and literature is that the main factor that impacts the lack of availability of qualified 
+Guardian s for Unrepresented Individuals is inadequate or nonexistent compensation. According to 
+interviewees with knowledge of the process of obtaining a Guardian  for Unrepresented Individuals , 
+professional Guardian s are unlikely to accept cases involving indigent patients when the limited 
+funding available is insufficient. Existing stipends in Massachusetts were set more than 20 years 
+ago. For example, the Rudow payments available for Guardian s of nursing facility residents with 
+MassHealth were established in 1999 and are $50 per hour and capped at $1,200 annually. 
+Adjusted for inflation, the Rudow payments available for Guardian s of nursing facility residents 
+with MassHealth would need to be increased to  $94 per hour and $2256 per year to maintain the 
+same purchasing power.49  Many interviewees noted that these Rudow payments are 
+administratively complex to apply for. According to many interviewees, Guardian s often do not 
+even seek to claim these payments. Cases involving the indigent population are often complex and 
+require a considerable investment of time on the Guardian ’s behalf to be executed appropriately 
+and ethically, a fact that further discourages Guardian s from taking on these cases. According to 
+several interviewees, attorneys seeking a volunteer Guardian  on behalf of acute -care hospitals 
+might contact anywhere from four to thirteen individuals before finding one willing to accept the 
+case.  
+As previously noted, admission from an acute -care hospital into an appropriate LTC facility can be 
+significantly delayed due to the time required to complete the guardianship process. In 
+Massachusetts, most  LTC facilities will not screen or accept residents for admission unless a 
+legally authorized individual is available to provide consent and complete the necessary 
+paperwork.  
+  
+ 
+49 Federal Reserve Bank of Minneapolis. Inflation Calculator. Available at https://www.minneapolisfed.org/about -
+us/monetary -policy/inflation -calculator . Accessed on August 18, 2025.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      17 
+ Comparing State Guardianship Programs  
+To better understand guardianship programs and approaches utilized in other states and how they 
+compare to those in Massachusetts, interviews were conducted with guardianship experts from 
+four states (Oregon, Pennsylvania, Minnesota, Tennessee) with three additional states (Idaho, 
+North Dakota, Washington) providing limited information via email communications. Prior to these 
+communications, an interview was held with a guardianship expert who offered a national 
+perspective on the key guardianship issues as  they relate to acute -care hospital discharge to 
+gather a foundational understanding of key elements. In addition, an online internet search for 
+publicly available information was conducted to glean information about core guardianship 
+program elements in N ew York, California, and Colorado to inform guardianship best practices 
+across states. Table 3 below provides an overview of the key program elements in Massachusetts 
+compared to the other states that provided input on their guardianship programs.  
+Table 3: Summary of State Guardianship Program Elements  
+State  
+ Program 
+Structure / 
+Feature  
+ Guardians  
+Paid * 
+ Training 
+Required  Certification  
+Required ** Non -Estate Program Funding 
+Source(s)  County  
+State  
+Federal  
+Organization  
+Hospital  
+Not Specified  
+MA Patchwork  ✓ *    ✓  ✓  ✓    
+California [a]  Public  ✓  ✓  CGE/State  ✓       
+Colorado [a]  Public  ✓  ✓  CGE  ✓      
+Idaho [b]  NA Not specified  ✓  Not specified       ✓  
+Oregon  Public  ✓  ✓  CGE  ✓      
+Minnesota  Patchwork  ✓ *  - ✓       
+New York [a]  Patchwork  ✓ *  -  ✓  ✓  ✓    
+North Dakota 
+[b] Patchwork  ✓  ✓  CGE  ✓      
+Pennsylvania  Patchwork/ 
+Statewide 
+Tracking  Not specified  ✓  CGE ✓   ✓     
+Tennessee  Patchwork/ 
+Expedited 
+Legal 
+Assistance  ✓ *  -   ✓   ✓   
+Washington[b]  Public  ✓ * ✓  State   ✓      
+* Indicates at least some professional Guardians that receive payment; however, this may not include all Guardian 
+types.  
+** CGE stands for certification through the Center for Guardianship Certification  
+[a] Information based on internet search of public information.  
+[b] Indicates information provide via email responses to interview questions.  
+ 
+As Table 3 shows, of the  state programs researched  most  do not have a centralized guardianship 
+program or structure, but rather they implement a “patchwork” system, where the state pieces 
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      18 
+ together guardianship services by relying upon an array of entities (e.g., non -profit organization s, 
+state agencies) and funding sources.  
+Highlighted below are some Guardian  program types, approaches, and elements gleaned from the 
+research that could inform possible changes to Massachusetts’ current system.  
+Three researched states (Colorado, Oregon, Washington) operate state  Public Guardianship  
+programs that provide last resort guardianship services where the individual is incapacitated, does 
+not meet criteria for coverage by other state agency programs, and/or does not have sufficient 
+resources to obtain their own Guardian . These programs are funded through state appropriations 
+with fully expanded programs costing somewhere from  $686,000 (Washington) upward to nearly $8 
+million (Oregon). These state programs vary in the number of cases that they support (81 to 420), 
+the number of total program staff, and the number of qualified Guardian s that they can access (4 to 
+100+). Each program requires their professional Guardian s to be certified and provides 
+compensation ranges from $60,000 to over $100,000 per year, depending on the state and the 
+number of clients they assist.  
+In contrast to the other states with  Public Guardianship  programs, California’s program is funded 
+and implemented at the county level, with costs and staffing varying by county. Each county is 
+required to  provide some type of public Guardian  and/or conservatorship, but what that looks like 
+varies by county. According to the  California State Association of Counties, “The role may be 
+executed through a separate department, an elected official, or be incorporated into a larger 
+county department, such as health or human services.”50 “In some counties, the Public Guardian, 
+Public Conservator, and Public Administrator may operate as distinct entities, but their functions 
+can also be consolidated within a single department.”50  
+Table 4 provides a summary of program staffing, caseload, and costs for each state with  Public 
+Guardianship  programs.    
+ 
+50 https://www.counties.org/counties/role -of-counties/   
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      19 
+ Table 4: Summary of Public Guardian Program Staffing, Caseload, and Costs in Colorado, Oregon, and 
+Washington.  
+State  Number 
+Employees  Number 
+Guardians  Number of 
+Active  Cases  Caseload  Average 
+Annual 
+Program Per 
+Client Cost  Annual 
+Guardian Pay  
+($thousands)  Annual 
+Program Cost  
+($thousands)  
+Colorado [a]  10[b]  4 [b]  81 Not specified  Not specified  $25-$62[c]  $263[d] 
+Oregon [e]  18 13 270 20-22 $12,000   $60 -$100  $7,900[f]  
+Washington  Not specified  250[g]  420 30 [h]  $7,688 [I]  $6.3 - $9  
+per client  [j] $686  [i] 
+[a] Figures based on FY25 -26; however, program is undergoing expansion and number increase for FY26 -27. 
+Anticipated shifts across this timeframe are outlined here: https://colorado -opg.org/wp -
+content/uploads/2024/11/COPG -FY2025 -26-Budget -Request.pdf   
+[b] Number of anticipated full -time employees is 10 for 2025 -2026 and 28 by the end of program expansion in 
+2030.  
+[c] Likely an underestimate, as values are for FY22 -23: https://colorado -opg.org/wp -
+content/uploads/2023/11/FINAL -Office -of-Public -Guardianship -FY2024 -25-Budget -Request.pdf   
+[d] Based on FY2025 -2026 budget request. Budget request for expanded program in FY 2026 -27 is $1,196,542.  
+[e] Information from interview with Oregon Public Guardian & Conservator  
+[f] https://www.oregon.gov/das/financial/documents/2025 -27_gb.pdf   
+[g] Estimated number of certified Guardians in WA state, but not all are contracted with OPG. Certified Guardian 
+contracted with the OPG can, and do, serve the general public (i.e. they have other clients that are not OPG 
+cases).  
+[h] Average caseload for OPG’s Public Guardians per contractor.  
+[i]https://www.courts.wa.gov/content/Financial%20Services/documents/2023_2025/Combined%20Branch%20PD
+F/53%20S6%20Increase%20Public%20Guardianship%20Services%20FINAL.pdf   
+[j]https://www.courts.wa.gov/content/publicUpload/Office%20of%20Public%20Guardianship/Office%20of%20Pu
+blic%20Guardianship%20 -%20FAQs.pdf   
+ 
+Tennessee has addressed the issue of delayed hospital discharge for Unrepresented Individuals 
+through an Expedited Limited Healthcare Fiduciary (ELHF) process. A solution spurred by hospitals 
+to address delayed hospital discharge, the ELHF process allows a court to quickly appoint a 
+temporary decision -maker within a time period of 40 hours to one w eek from when it is determined 
+that a surrogate decision maker is needed for hospital discharge and continued care. An attorney 
+acting as the  ELHF is paid by the hospital for a temporary appointment of 60 days to assist their 
+client in getting discharged from the hospital and accessing appropriate medical care access 
+thereafter. During this time, the ELHF also attempts to identify other family o r friends who can 
+transition to the role of permanent Guardian  after the initial 60 -day period. After 60 days, the ELHF 
+is either terminated with the role reassigned to a family member, or the role is maintained by the 
+same individual that was executing the ELHF and is converted into a conservatorship. A 
+conservators hip grants the surrogate decision -maker broader authority than an ELHF appointment 
+and is financed by the Unrepresented Individual’s assets. If the Unrepresented Individual does not 
+have sufficient assets to pay the ELHF, the ELHF remains the Guardian  on a pro -bono basis. The 
+ELHF program is regularly utilized by hospitals, with at least 300 requests per year in Davidson 
+County alone.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      20 
+ Guardianship in New York is a patchwork of entities serving as Guardian s and funding coming from 
+multiple sources. To help address guardianship issues in New York, a pilot program -turned non -
+profit, named Project Guardianship  is changing the way guardianship is approached in the state by 
+implementing a person -centered approach that considers the continuum of patient care and aims 
+to return individuals to their community homes, when possible. This model presents 
+considerations for the Commonwealth in the manner of how guardianship is approached along 
+with the potential cost savings.  
+Project Guardianship’s approach to guardianship integrates a full range of services for individuals 
+that helps address the spectrum of needs they have from daily living through end -of-life. 
+Individuals are supported by an interdisciplinary staff that inclu des “attorneys, case managers, 
+housing and benefits coordinators, and finance managers”.51 In their 2025 report on the cost and 
+savings of person -centered guardianship52, Project Guardianship indicated that this approach to 
+guardianship helps create cost -saving to the state by:53 
+• Reducing the number and length of hospitalizations  
+• Decreased nursing home care and increasing home care  
+• Delaying spend -down of assets to meet Medicaid eligibility requirements  
+• Recovery of Medicaid liens  
+• Reduced homelessness  
+Over their nine -and -a-half -year study period of 236 patients, they estimate savings of 
+approximately $67,000 per patient per year, with a total between $155 and $166 million in savings. 
+Table 5 shows the estimated savings by cost type.  
+Table 5: Project Guardianship Costs Savings by Category  
+Cost Category  Estimated Savings  
+Avoiding nursing home placements  $26.9M–$72.6M  
+Reducing hospitalizations and lengths of stay  $1.2M–$17.4M net savings  
+Recovering Medicaid liens  $373,524  
+Homeless shelter avoidance  $6.5M–$17.6M  
+Source:  https://projectguardianship.org/news -and -views/blog/cost -benefit -analysis -report  
+ 
+While Pennsylvania also faces hospital delayed discharge  and does not have a public Guardian  of 
+last resort program, it has established a statewide Guardianship Tracking System (GTS)  that is 
+helping streamline case tracking, monitoring, and Guardian  document submissions. It currently 
+tracks information such as the number of active cases, the type of each active guardianship (e.g., 
+limited, plenary), statistics on how often the proposed Guardian  is appointed Guardian , how often 
+the adjudication is different than what is requested, why cases are closed, and  whether reports are 
+ 
+51  Project Guardianship, 2025, pg . 3: https://projectguardianship.org/news -and-views/blog/cost -benefit -analysis -
+report 
+52 https://projectguardianship.org/news -and-views/blog/cost -benefit -analysis -report 
+53 [sic] 
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      21 
+ being filed. These data allow the state to better understand guardianship issues  and needs, and 
+serve a critical role in the monitoring of guardianships in the state.  
+GTS also allows people serving as Guardian s to more easily upload and access information and 
+helps decrease issues surrounding documentation and reporting. GTS sends Guardian s electronic 
+notifications when a report is due or overdue to help increase compliance with reporting 
+requirements, provides guidance for completing reports, and allows individuals to file reports at 
+any time throughout the day or year.54 The standardized system also helps eliminate arithmetic 
+errors in information submitted and allows Guardian s to view previously filed reports .54 
+Fiscal Impact on MassHealth  
+Section 30 of Chapter 197 of the Acts of 2024 requires the Massachusetts Department of Public 
+Health (DPH) to study and report on the fiscal impact of providing fee -for-service reimbursement 
+for Public  Guardianship services. T he Executive Office of Health and Human Services (EOHHS)  is 
+the single state agency responsible for the administration of the Medicaid Program and the State’s 
+Children’s Health insurance Program within Massachusetts (collectively, MassHealth) a s well as  
+other health and human services programs designed to pay for medical services for eligible 
+individuals pursuant to M.G.L. c. 118E, Title XIX of the Social Security Act (42 U.S.C. sec. 1396 et 
+seq.), Title XXI of the Social Security Act (42 U.S.C. sec. 1397aa et seq.), and other applicable laws 
+and waivers. As a threshold issue, fee-for-service reimbursement for any service is subject to 
+federal approval by the Centers for Medicare and Medicaid Services (CMS)  to qualify for federal 
+revenue for such services. There  is no pathway to federal approval to provide MassHealth  fee-for-
+service  reimbursement for Public G uardianship services , therefore , no federal revenue would be 
+available to support these costs. Therefore, the estimates provided assume reimbur sement of  
+Public G uardianship services at all state cost .  
+Estimating the Number of Unrepresented Individuals Needing Guardianship Support  
+Based on the research presented in Section 0, an estimated 3,100 to 4,950 Unrepresented 
+Individuals per year could  require  Public Guardianship  services.  Although not all Unrepresented 
+Individuals are or will be eligible for MassHealth , in the absence of exact payor data, 55  the 
+calculations included the entire Unrepresented Population in determining the fiscal impact of 
+providing fee -for-service reimbursement for Public Guardianship Services through MassHealth.   
+Estimating the Fiscal Impact to MassHealth of Guardianship Services  
+Through interviews with stakeholders with expertise in providing professional guardianship 
+services, the average cost to cover guardianship services is approximately $10,000 to $11,000 per 
+client per year. This is consistent with what AGE pays contractors to provide guardianship services 
+(the amount is currently $892.78 per month which equals $10,713 per year). Thus, during the 
+ 
+54 https://ujsportal.pacourts.us/Guardianship/Overview   
+55 Although the MHA Monthly Throughput Survey  publishes the percentage of patients awaiting discharge to SNFs 
+by insurance provider, Unrepresented Individuals awaiting discharge due to guardianship issues are only a subset 
+of these patients and the percentage of Unrepresented Individuals by provider may differ for the overall 
+percentage.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      22 
+ Unrepresented Individual’s discharge year funding guardianship services at $11,000 provides an 
+estimated net benefit ranging from $300 to $55,000.  
+Utilizing the estimated 3,100 to 4,950 Unrepresented Individuals per year who may require Public 
+Guardianship service and assuming MassHealth fee -for-service reimbursement will assume all 
+state cost for all Unrepresented Individuals, and that the reimbursement is approximately $10,000 
+to $11,000 per year results in a po tential Fiscal Impact of range of $31,000,000 to $54,450,000. This 
+number cannot be further refined due to the limitations on data as described above.   
+Potential Cost Savings Associated With the Provision of P ublic Guardianship Services  
+Implementation of MassHealth  fee-for-service Public Guardian  services and the resulting 
+throughput shortening unnecessary stays in acute care hospital settings to more appropriate Post -
+Acute care settings is estimated to lower the cost of medical care for each  individual between  
+$945 to $2,500 per patient per day.56  For example, KFF estimated the hospital expenses per 
+adjusted inpatient day exceeded $3,600 for Massachusetts community hospitals in 2023.57  Thus, if 
+Public Guardianship prevents or shortens a single hospital admission for a patient, the cost savings 
+might be significant. In addition, full -time professional Guardian s have been shown to improve 
+patient care through attention to appropriate outpatient care that may result in avoided health care 
+costs such as emergency department visits or acute illness .  
+Furthermore, researchers have estimated that larger cost savings from providing professional 
+guardianship services to Unrepresented Individuals accrue in the years following discharge than 
+the immediate costs savings from more prompt discharge from acute care hospitals 58 This 
+research indicates the potential for guardianship services to result in cost savings to offset 
+implementation of MassHealth fee-for-service reimbursement for Public Guardianship services at 
+all state cost.  However, the existing research is not sufficient for estimating these cost savings  
+systemwide .  
+In addition to the issues described in the previous section,  cost savings might accrue to different 
+stakeholders depending on the timing and other circumstances of those savings , inherently limiting 
+the ability  to estimate  the full scope of cost -savings across the system . The costs of providing 
+guardianship services are relatively straightforward to identify and estimate, the cost savings and 
+ 
+56 Estimate based on the assumption s that a reasonable range of the cost of a medically unnecessary hospital day 
+is $1,420 to $2,976  (based on values inflated to 2024 dollars from 
+https://www.sciencedirect.com/science/article/pii/S2667296021000768  and 
+https://journals.sagepub.com/doi/10.1177/00469580221086912 ) and  that the cost of a day of stay in 
+Massachusetts at a long terms facility is $475. Source: 
+https://pro.genworth.com/riiproweb/productinfo/pdf/282102.pdf . 
+ 
+58 Levine et al. 2019 estimated cost savings per individual in the first year of guardianship only. Boswell et al. 2025 
+estimated cost savings per individual per year over 9.5 years. Both study cohorts include patients with mental 
+health challenges who might  not be representative of the delayed discharge patient cohort in the 
+Commonwealth (e.g., these patients might be covered by the DMH —DMH has no less, and arguably more, 
+difficulty finding guardians for its clients than the general case. ). In addition, the Boswell study is based on a 
+small sample size.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      23 
+ benefits that might accrue as a result of those services are more difficult to quantify and are more 
+likely to be dispersed across multiple stakeholders.  
+Deduction from Individual Income of MassHealth Members  
+As previously noted, Section 30 of Chapter 197 of the Acts of 2024 requires “consideration of the 
+benefits to an individual and cost to the Commonwealth of deducting from an applicant for 
+MassHealth or a MassHealth member’s income for guardianship fees and  related expenses.” The 
+Massachusetts statute on MassHealth eligibility includes certain long -term care general income 
+deductions.59 These include a personal -needs allowance, spousal -maintenance -needs -deduction, 
+family -maintenance needs, maintenance of a former home, and health -care coverage and other 
+incurred expenses. The deductions for health -care coverage and other incurred expenses  contain 
+guardianship expenses that are allowable with the specified maximum amounts. Expenses related 
+to guardianship may exceed these specified maximum amounts. However, there is no pathway 
+available to increase the amount  of allowable deductions from a MassHealth member’s income  
+without statutory change at the state level and CMS approval at the federal level . 
+ 
+59 See 520.026: Long -term -care General Income  Deductions. https://www.mass.gov/doc/130 -cmr-520000 -
+masshealth -financial -eligibility -0/download  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      24 
+ Recommendations  
+The following proposed recommendations are grounded in available literature, interviews, and 
+policy analysis. As described in the preceding sections, many factors contribute to delayed acute -
+care hospital discharge, and multiple initiatives are likely nece ssary to reduce delays  but it is clear 
+from the study that there is a significant need for qualified professional guardians to give informed 
+medical consent for persons who are unable to afford these services otherwise .  Increasing the 
+number of Qualified Professional Guardians , coupled with the additional recommendations below , 
+could substantially reduce delays in hospital discharges and expedite access to long -term and 
+preventative care . Given the complexity of guardianship and the wide range of invested parties, 
+further research and stakeholder engagement will be important to refine any significant decisions.  
+1. Increase the Number and Quality of Guardians Through Payment . Based on the research 
+performed for this study, the single most important policy recommendation is to increase the 
+availability of Guardians by paying  them an adequate amount consistent with inflation and 
+indicative of the time necessary for Guardians to effectively perform their required duties . The 
+optimal solution for reducing acute -care hospital discharge delays is to increase the pool of 
+qualified Guardian s, and to do this, interviewees and literature indicate that it will be necessary to 
+pay them.  With the exception of one individual, those interviewed all described a lack of pay as the 
+single largest barrier to having sufficient Guardian s available. The single exception worked in a 
+state where Guardian s are paid, and the interviewee stated that they receive well -qualified 
+applicants every time they advertise an opening.  
+2. Enact a Default Surrogate Statute. Massachusetts is one of four states that does not have a 
+Default Surrogate Statute . Enacting thi s statute would allow a close family member or friend to 
+assume healthcare decisional authority for an incapacitated individual without requiring formal 
+appointment through the judicial system. By enacting a Default Surrogate Statute , the 
+Commonwealth may reduce the need for guardianship among acute -care hospital patients with 
+friends or family willing to step into this role, thereby freeing court time for Unrepresented 
+Individual guardianship cases. One expert suggested that this would reduce the backlog of 
+guardianship cases by about 50 percent. The majority of interviewees expressed support for 
+enacting a Default Surrogate Statute .  
+There are limitations to default surrogate statutes that must be considered when contemplating 
+enactment. Some states  place restrictions on default surrogates making certain decisions, such as 
+withholding life-sustaining treatment  and some require a strict hierarchy  for the designated 
+surrogate, usually starting with an individual’s spouse,  which  may ignore personal dynamics and 
+relationships. Additionally, there are differences among states with default surrogate statutes 
+about if consensus is needed when multiple individuals are considered as the surrogate.   
+3. Ensure the paid Guardians are qualified to provide the necessary services.  Pay will attract 
+Guardians, but the Commonwealth must ensure it attracts high quality candidates to the pool of 
+Guardian s. Guardians should be trained, certified, and monitored. Interviewees and the literature 
+alike indicate that without these additional requirements, paying Guardian s may increase the size 
+of the pool of Guardian s, but result in less -than -optimal client outcomes.  
+
+ 
+Need and Feasibility of Qualified Professional Guardians – Draft Final  Report      25 
+ Based on the review of other states’ best practices, Massachusetts should consider required 
+training and monitoring of Qualified Professional Guardians  as follows:  
+• Requiring training and certification for Qualified Professional Guardians.  For example, 
+the nationally -recognized Center for Guardianship Certification  (CGC) requires that a 
+Guardian  completes coursework, pass a background check, and successfully pass an 
+examination. CGC certification must be maintained through ongoing continued education  
+and renewal every two years.60 Training should align with the foundational topics in the 
+NGA’s Standards of Practice , which are regularly updated by experts in guardianship, aging, 
+disability advocacy, and law, and may be tailored as appropriate by the Commonwealth.61 
+• Placing minimal training requirements on nonprofessional Guardians.  Patients with 
+guardianship provided by family members and friends are significantly more common than 
+those cared for by Qualified  Professional Guardian s. Ties of kinship or friendship alone are 
+not adequate to ensure vulnerable patients will receive appropriate care, and, therefore, 
+the need for training in the fundamentals of guardianship is recommended. Training should 
+educate Guardian s who are family members or friends about their responsibilities and the 
+resources available to assist them in fulfilling those responsibilities.  
+• Ensure Guardians and patients are adequately monitored.  Both interviews and 
+published research illustrated that guardianship monitoring is key to providing the 
+information needed to help manage guardianship efforts, provide patients the care that 
+they need, investigate and adjudicate complaints, and collect da ta that can help inform 
+statewide guardianship decision -making and funding requests.  
+As evidenced by the tracking system implemented by Pennsylvania ( see Section Error! 
+Reference source not found. ), the type of system implemented there  may help foster the 
+development of critical information and also help create efficiencies within the state’s 
+guardianship structure by reducing documentation and monitoring issues for all parties 
+involved. Finally, monitoring might help fill significant da ta gaps for understanding the 
+nature of guardianship for unrepresented individuals.  
+4. Promote  Health Care Proxy education and execution . Scale and promote  programs 
+designed to encourage people to designate healthcare proxies , such as the 
+MHA /DPH/Honoring Choices Massachusetts Simple Steps Campaign .  
+ 
+60 A complete list of certification requirements from CGC is available at https://guardianshipcert.org/certification -
+requirements/ . 
+61 National Guardianship Association. (2022). Standards of Practice – Fifth Edition. Retrieved from: https://www.guardianship.org/wp -content/uploads/NGA -Standards -
+2022.pdf  
+ 
+
+ 
+     A-1 Appendix A: Literature Review Bibliography  
+Aggarwal, N. et al. (2024). Exploring the Ramifications of Delayed Hospital Discharges: Impacts on 
+Patients, Physicians, and Healthcare Systems. Cureus 16 (5): e61249. DOI 10.7759/cureus.61249  
+Alvarez, S. & Yoder, G. (2023) Colorado Office of Public Guardianship: 2023 Annual Report. 
+Retrieved from: https://colorado -opg.org/wp -content/uploads/2024/03/COPG_2023 -Annual -
+Report_Final.pdf  
+American Bar Association. (2016). PRACTICAL tool for lawyers; Steps in supported decision -
+making.  Commission on Law and Aging; Commission on Disability Rights; Section on Civil Rights 
+and Social Justice; Section on Real Property, Trust, and Estate Law.  Retrieved from 
+www.ambar.org/practicaltool  
+American Bar Association. (2017). State Adult Guardianship Summary: Directions of Reform. 
+Commission on Law and Aging. Retrieved from 
+https://ltcombudsman.org/uploads/files/issues/2017 -legislative -summary.pdf  
+Anderson -Shaw, L. & Elster, N. (2018) Protecting the Most Vulnerable of our Patient Populations: 
+The Unbefriended. The Nursing Voice, 13. 
+https://issuu.com/portal4nurses/docs/illinois_nursing_voice_9_18  
+Anderson -Shaw, L. (2018) How to Protect Vulnerable Patients Admitted to Hospitals without Legal 
+Guardians. Scholars Strategy Network. https://scholars.org/brief/how -protect -vulnerable -patients -
+admitted -hospitals -without -legal -guardians  
+Anderson -Shaw, L. (2019). Regional Unrepresented Patient Advocacy Committee as an Alternative 
+for Decision Making. AMA Journal of Ethics, 21 (7), E594 -E599. DOI 10.1001/amajethics.2019.594.  
+Appelbaum, P.S. (2023). Preventing Abuses in Guardianship Cases. Psychiatric Services, 74: 1108 -
+1111. DOI 10.1176/appi.ps.20230374  
+Arias, J.M. (2023). Default Surrogate Statutes.  Bifocal, 44 (3), 54 -57. Journal of the American Bar 
+Association Commission on Law and Aging. 
+https://www.americanbar.org/groups/law_aging/publications/bifocal/vol44/bifocal -vol-44-
+issue3/recent -updates -to-default -surrogate -statutes/  
+ATI Advisory. (2024). Opportunities for Oregon to Promote Timely and Appropriate Hospital 
+Discharge for Individuals with Complex Care Needs. Retrieved from 
+https://atiadvisory.com/resources/wp -content/uploads/2024/09/Opportunities -to-Promote -
+Timely -and -Appropriate -Hospital -Discharge -in-Oregon.pdf  
+Babb, E. et al. (2021). Hospital Guardianship: A Quality Needs Assessment of “Unbefriended” 
+Patients Who Lack Decisional Capacity. Journal of the Academy of Consultation -Liaison 
+Psychiatry, 62 (5), 538 -545.  https://doi.org/10.1016/j.jaclp.2021.04.002   
+Bell, H. et al. (2024) Are We Missing Opportunities to Avoid Guardianship Proceedings in 
+Unrepresented Hospitalized Patients? American Journal of Respiratory Critical Care  Medicine, 209, 
+A6727. https://doi.org/10.1164/ajrccm -conference.2024.209.1_MeetingAbstracts.A6727  
+
+ 
+     A-2 Bennet -Woods, D. et al. (2017) Giving Voice to the Voiceless: The Colorado Response to 
+Unrepresented Patients. The Journal of Clinical Ethics, 28 (3), 204 -211. PMID: 28930706.  
+Berzonsky, E. (2021). Nebraska Public Guardianship of Unbefriended Patients: a Preliminary 
+Review of Health Outcomes and Cost Savings. Capstone Experience . 151. 
+https://digitalcommons.unmc.edu/coph_slce/151  
+Bhowmik, D. et al. (2024). Top Ten Tips Palliative Care Clinicians Should Know About Caring for 
+Patients Under Guardianships. Journal of Palliative Medicine. 
+https://doi.org/10.1089/jpm.2024.0318  
+Blanck & Martinis. (2015). The right to make choices: The National Center for Supported Decision -
+Making. Inclusion, 3 (1): 24 -33. https://doi.org/10.1352/2326 -6988 -3.1.24  
+Boswell, T. et al. (2025). The Cost and Savings of Person -Centered Guardianship. Retrieved from: 
+https://projectguardianship.org/sites/default/files/inline -
+files/2025%20Cost%20Benefit%20Analysis_Final.pdf  
+Brenner et al. (2023). Adults without advocates and the unrepresented: A narrative review of 
+terminology and settings.  Gerontology & Geriatric Medicine, 9 , 1-8 
+https://doi.org/10.1177/23337214221142936  
+Brierley -Bowers, P. et al. (2022). The Cost of Medically Unnecessary Days Due to Waiting for 
+Guardianship in a State Acute Hospital System. INQUIRY: The Journal of Health Care Organization, 
+Provision, and Financing, 29. DOI: 10.1177/00469580221086912  
+Carlson, K et al. (2021) Best Practices in Support Decision Making: How to Be an Effective 
+Supporter. Center for Excellence in Supported Decision Making. Retrieved from 
+https://www.voamnwi.org/center -excellence -supported -decision -making  
+Carlson et at. (2023) CESDM Guide to Supported Decision Making in Minnesota: A Resource for 
+Families and Other Supporters. Accessed from: 
+https://www.voamnwi.org/sites/default/files/download -
+file/CESDM%20Guide%20To%20SDM%20Revised%202023%20Final%205 -8-23_0.pdf  
+Catlin et al. (2022). Unrepresented Adults Face Adverse Healthcare Consequences: The Role of 
+Guardians, Public Guardianship Reform, and Alternative Policy Solutions. J Aging Soc Policy 34 (3): 
+418–437. DOI:10.1080/08959420.2020.1851433.  
+Center for Guardianship Excellence. (2020)  Guardianship Oversight: Is Massachusetts Applying 
+Best Practices? Retrieved from: https://guardianship.institute/wp -
+content/uploads/2021/03/Colloquium -Report -REWRITE -for-website.pdf  
+Chamberlain, S. A. et al. (2018). Going it Alone: A Scoping Review of Unbefriended Older Adults. 
+Canadian Journal on Aging, 37 (1), 1 -11. DOI: 10.1017/S0714980817000563  
+Chen, J. et al. (2015). Barriers Beyond Clinical Control Affecting Timely Hospital Discharge for a 
+Patient Requiring Guardianship. Psychosomatics, 56( 2), 206 -209 DOI: 10.1016/j.psym.2014.07.006  
+Chen, J. et al. (2016) Discharge Delays for Patients Requiring In -Hospital Guardianship: A Cohort 
+Analysis. Journal for Healthcare Quality, 38 (4), 235 -242 DOI: 
+10.1097/01.JDQ.0000462680.47759.53  
+
+ 
+     A-3 Courtwright A, Rubin E. (2015). Who Should Decide for the Unrepresented? Bioethics 30 (3):173 -80. 
+DOI: 10.1111/bioe.12185.  
+DeMartino et al. (2017) Who Decides When a Patient Can't? Statutes on Alternate Decision Makers. 
+The New England Journal of Medicine, 376 (15), 1478 -1482. 
+https://doi.org/10.1056/NEJMms1611497   
+Dempsey, T.M. & DeMartino, E.S. (2019). How Should Clinicians Navigate Decision Making for 
+Unrepresented Patients? AMA Journal of Ethics, 21 (7), E559 -565. DOI: 
+10.1001/amajethics.2019.559  
+Dillon, K. & Thomsen, D. (2019) Delays in Hospital Discharges of Behavioral Health Patients. Wilder 
+Research. Retrieved from: 
+https://www.wilder.org/sites/default/files/imports/MarylandHospitalAssociation -Report_1 -19.pdf  
+Dillon, K. & Thomsen, D. (2016) Reasons for Delays in Hospital Discharges of Behavioral Health 
+Patients. Wilder Research. Retrieved from: 
+https://www.wilder.org/sites/default/files/imports/MHA_Report_7 -16.pdf  
+Dimla , B. et al. (2023) Hospital discharge planning: A systematic literature review on the support 
+measures that social workers undertake to facilitate older patients’ transition from hospital 
+admission back to the community. Australasian Journal on Ageing, 42 , 20 -33. DOI: 
+10.1111/ajag.13138  
+Disability Law Center (2017) Alternatives to Guardianship and Guardianship: Self -Advocacy 
+Materials. Retrieved from: https://www.dlc -ma.org/wp -content/uploads/2017/12/Alternatives -to-
+Guardianship -and -Guardianship.pdf  
+Dixon, J. et al. (2024). American Geriatrics Society Position Statement: Making Medical Treatment 
+Decisions for Unrepresented Older Adults. Journal of the American Geriatrics Society; 1-12. DOI: 
+10.1111/jgs.19288  
+Farrell, T. et al. (2017) American Geriatrics Society Position Statement: Making Medical Treatment 
+Decisions for Unbefriended Older Adults. Journal of the American Geriatrics Society 65 (1), DOI: 
+10.1111/jgs.14586  
+Farrell, T. et al. (2021) Caring for Unbefriended Older Adults and Adult Orphans: A Clinician Survey. 
+Clin Gerontol, 44 (4): 494 -503. DOI: 10.1080/07317115.2019.1640332  
+Filler, D. (2025). MassHealth Long Term Care [PowerPoint slides] Greater Boston Legal Services, 
+Inc. Retrieved from: 
+https://www.masslegalservices.org/system/files/library/BBT%20LTC%20MassHealth%20PPT%20
+2025%20 -%20Filler_0.pdf  
+George, K. (2025) Federal cuts will deepen New York’s guardianship crisis. Times Union. 
+https://www.timesunion.com/opinion/article/commentary -federal -cuts -deepen -new -york -s-
+20239936.php  
+Healthcare Association of New York State. (2021). The complex case discharge delay problem . 
+Retrieved from: 
+
+ 
+     A-4 https://www.hanys.org/communications/publications/complex_case_discharge_delays/docs/co
+mplex_case_discharge_delay_problem.pdf  
+Hickman, C. (2022) Guardianship issues lead to unnecessarily prolonged hospitalizations. The 
+Hospitalist, Society of Hospital Medicine . Retrieved from: https://www.the -
+hospitalist.org/hospitalist/article/31597/pediatrics/guardianship -issues -lead -to-unnecessarily -
+prolonged -
+hospitalizations/#:~:text=Guardianship%20issues%20lead%20to%20unnecessarily%20prolonged
+%20hospitalizations, -
+By&text=Minors%20requiring% 20guardianship%20are%20sometimes,of%20guardianship%20prio
+r%20to%20discharge . 
+Hirschel, D. & Smetanka, S. (2022) The Use and Misuse of Guardianship by Hospitals and Nursing 
+Homes.  Syracuse Law Review, 72( 255 -289 ). Retrieved from: https://lawreview.syr.edu/wp -
+content/uploads/2022/09/255 -289 -Hirschel -2.pdf  
+Hurme, S. (2024). State Guardian Certification. Unpublished, provided by author.  
+Hurme, S. & Robinson, J. (2021) What’s Working in Guardianship Monitoring: Challenges and Best 
+Practices. Syracuse Law Review, 72 (291 -367). Retrieved from: https://lawreview.syr.edu/wp -
+content/uploads/2022/10/8. -HURME -ROBINSON.pdf  
+Karp, N. & Wood, F. (2008) Guardianship Monitoring: A National Survey of Court Practices. Stetson 
+Law Review, 37 (143 -192). Retrieved from: https://www2.stetson.edu/law -review/wp -
+content/uploads/2022/02/37.1.05.Karp_ -1.pdf  
+Kelly, A., et al. (2021) A 50 -State Review of Guardianship Laws: Specific Concerns for Special 
+Needs Planning. Journal of Financial Service Professionals, 75 (1): 59 -79. Retrieved from: 
+https://digitaleditions.sheridan.com/publication/?i=687379&article_id=3838808&view=articleBro
+wser  
+Kohn, N. et al. (2013) Supported Decision -Making: A viable alternative to guardianship. Penn State 
+Law Review, 117 (4): 1111 -1157. Retrieved from: 
+https://www.pennstatelawreview.org/117/4%20Final/4 -Kohn%20et%20al.%20(final)%20(rev2).pdf  
+Langlois, WO & Yacovone, D. (2019) Improving the guardianship process: Better for patients and 
+better for hospitals. Boston Medical Health Center.  HealthCity. 
+https://healthcity.bmc.org/guardianship -process -change -better -patients -and -hospitals/  
+Lazar, K. (2023). Who will be guardians for legions of ‘unbefriended’ elders? It’s becoming an 
+alarming problem in Mass. The Boston Globe. 
+https://www.bostonglobe.com/2023/02/27/metro/who -will-be-guardians -legions -unbefriended -
+elders -new -push -ease -an-urgent -growing -problem/  
+Lazar, K. (2022). ‘It makes you think how lucky you are.’ The painstaking mission to find guardians 
+for hospital patients in legal limbo. The Boston Glove  
+https://www.bostonglobe.com/2022/12/26/metro/it -makes -you -think -how -lucky -you -are-
+painstaking -mission -find -guardians -hospital -patients -legal -limbo/  
+Levine, E. et al. (2020). Outcomes of a Care Coordination  Guardianship Intervention for Adults with 
+Severe Mental Illness: An Interrupted Time Series Analysis. Administration & Policy in Mental 
+
+ 
+     A-5 Health and Mental Health Services Research, 47 :468 -474. https://doi.org/10.1007/s10488 -019 -
+01005 -1  
+Levine, E. (2017). Fiscal Implications of Establishing a Public Guardianship Agency in 
+Massachusetts: Evidence from Four State Studies. University of Massachusetts Donahue Institute. 
+Retrieved from: https://donahue.umass.edu/our -publications/fiscal -implications -of-establishing -
+a-public -guardianship -agency -in-massach  
+Massachusetts Health & Hospital Association. (2025). Throughput Survey Report. 
+https://mhalink.informz.net/mhalink/data/images/250605April%202025%20Throughput%20Repor
+t%20Final%20v2.pdf  
+Massachusetts Health & Hospital Association. (2023). A clogged system: Keeping patients moving 
+through their care journey.  https://www.mhalink.org/reportsresources/acloggedsystem/  
+Massachusetts Guardianship Policy Institute. (2025). Report on Public Guardianship: Ten Year 
+Review & Recommendations. Retrieved from: https://guardianship.institute/report -on-public -
+guardianship/  
+Massachusetts Guardianship Policy Institute. (2020). Annual Report: 2019 -2020. Retrieved from: 
+https://guardianship.institute/wp -content/uploads/2020/06/GPI -Annual -Report -19-20.pdf  
+McIntosh, N., et al. (2025) The Impact of a Guardianship Social Worker on Inpatient Time -To-
+Guardianship and Costs: Preliminary Findings. Journal of Gerontological Social Work, 68 :2, 269 -
+278. DOI: 10.1080/01634372.2024.2424421  
+Minnesota Department of Human Services. (2023). CESDM Guide to Supported Decision Making in 
+Minnesota: A Resource for Families and Other Supporters . Accessed from: 
+https://www.voamnwi.org/sites/default/files/download -
+file/Guardianship%20Decision%20Tree.pdf  
+Minnesota Hospital Association. (2023). MHA’s Survey and Analysis of Hospital Discharge Delays 
+in 2023. 
+https://mn.gov/dhs/assets/MHA%20Discharge%20Delays%20Survey%20Overview_accessible_tc
+m1053 -661138.pdf  
+Moye, J. et al. (2021) End -of-life Care for Persons Under Guardianship. Journal of Pain and 
+Symptom Management, 62 (1), 81 -93. DOI: 10.1016/j.jpainsymman.2020.11.008  
+Moye, J. et al. (2017). Ethical concerns and procedural pathways for patients who are incapacitated 
+and alone: Implications from a qualitative study for advancing ethical practice. HEC Forum, 29 (2), 
+171 -189. https://doi.org/10.1007/s10730 -016 -9317 -9 
+Moye, J. et al. (2016). Examining the need for a public guardian in Massachusetts: Phase 1. 
+Guardian Community Trust  https://guardianship.institute/wp -content/uploads/2019/02/1 -
+Examining -the-Need -for-a-Public -Guardian -in-Massachusetts -PROOF -for-PRINTING -2d-
+Printing.pdf  
+Moye, J. et al. (2023) Guardianship Before and Following Hospitalization. HEC Forum, 35 (3), 271 -
+292. DOI: 10.1007/s10730 -022 -09469 -9 
+
+ 
+     A-6 Moye, J. et al. (2018). Guardianship for adults without surrogates in Massachusetts ( Guardianship 
+Community Trust [report] ) https://guardianship.institute/wp -content/uploads/2019/02/1. -
+Guardianship -for-Adults -without -Surrogates -in-Massachusetts -April -11-2018.pdf  
+Oregon Joint Interim Task Force on Public Guardian and Conservator (HB 2237) Report. (2012). 
+Retrieved from: 
+https://www.oltco.org/ewExternalFiles/Joint%20Interim%20Task%20Force%20on%20Public%20G
+uardian%20and%20Conservator%20%28HB%202237%29%20Report%2C%202012.pdf  
+Oregon Joint Task Force on Hospital Discharge Challenges (2024) Recommendations of the Joint 
+Task Force on Hospital Discharge Challenges. Retrieved from: 
+https://www.oregonlegislature.gov/lpro/Publications/Joint%20Task%20Force%20on%20Hospital
+%20Discharge%20Challenges%20 -%20Report%20and%20Recommendations%20(2024).pdf  
+Parekh, M. & Adorno, G. (2016) Health Care Decision Making for Unbefriended , Incapacitated 
+Adults: A Value -Committed Policy Transfer Analysis. Journal of Policy Practice. 
+http://dx.doi.org/10.1080/15588742.2016.1222925  
+Pope, T. (2017) Unbefriended and Unrepresented: Better Medical Decision Making for 
+Incapacitated Patients Without Healthcare Surrogates. Georgia State University Law Review, 33( 4), 
+923 -1019. Retrieved from: https://readingroom.law.gsu.edu/gsulr/vol33/iss4/3  
+Purvis Lively, C. (2023) Medical -Legal Partnerships and Prevention: Caring for Unrepresented 
+Patients Through Early Identification and Intervention. HEC Forum 36 : 527 -539. 
+https://doi.org/10.1007/s10730 -023 -09518 -x 
+Raymond, A. (2023) The Hospital to Guardianship Pipeline. Bifocal, 44(6), 105 -110. Journal of the 
+American Bar Association Commission on Law and Aging. Retrieved from: 
+https://www.americanbar.org/groups/law_aging/publications/bifocal/vol44/bif -vol44 -
+issue6/hospital -guardianship -pipeline/  
+Ricotta et al. (2018). The burden of guardianship: A matched cohort study. J Hosp Meds. 13 (9):595 -
+601 DOI: 10.12788/jhm.2946  
+Robinson, D. et al. (2021) Adult Guardianship Monitoring: A National Survey of Court Practices. 
+National Center for State Courts. Retrieved from: 
+https://ncsc.contentdm.oclc.org/digital/collection/famct/id/1690  
+Schweikart, S. J. (2019). Who makes decisions for incapacitated patients who have no surrogate or 
+advance directive? AMA Journal of Ethics, 21 (7), E587–593. 
+https://doi.org/10.1001/amajethics.2019.587  
+Sparber, L. et al. (2018) Unbefriended  Patient: What is the True Cost of Caring for This Vulnerable 
+Population? Journal of the American College of Surgeons 227 (4): S92 -S93. DOI: 
+10.1016/j.jamcollsurg.2018.07.185  
+Sperry, B. et al. (2020) Decision -making Las for “Unrepresented” Patients. Annals of the American 
+Thoracic Society, 17( 11), 1484 -1486. https://doi.org/10.1513/AnnalsATS.202005 -492RL  
+Teaster, P. et al. (2023) Environmental Scan of Guardianship Abuse and Fraud. National Criminal 
+Justice Reference Service. https://www.ojp.gov/pdffiles1/nij/grants/307525.pdf  
+
+ 
+     A-7 Teaster, P. et al. (2018) Incapacitated, Indigent, and Alone: Meeting Guardianship and Decision 
+Support Needs in New York. The Guardianship Project. Retrieved from: 
+https://www.vera.org/publications/incapacitated -indigent -and -alone  
+Teaster, P. et al. (2007) Public Guardianship After 25 Years: In the Best Interest of Incapacitated 
+People? American Bar Association Commission on Law and Aging . Retrieved from: 
+https://civilrighttocounsel.org/wp -content/uploads/2024/04/Public -Guardianship -After -25-Years -
+Teaster.pdf  
+Teaster, P. et al. (2008) Wards of the State: A National Study of Public Guardianship. Stetson Law 
+Review, 37, 193 -241. https://www2.stetson.edu/law -review/wp -
+content/uploads/2022/02/37.1.06.Teaster.pdf  
+Tompkins, J. et al. (2024) Seize the Data: An Analysis of Guardianship Annual Reports. Journal of 
+Aging and Social Policy, DOI: 10.1080/08959420.2024.2349494  
+Yadav et al. (2017). Approximately one in three US adults completes any type of advance directive 
+for end -of-life care. Health Affairs, 36 (7), 1244–1251. https://doi.org/10.1377/hlthaff.2017.0175  
+Zietlow, K. et al. (2022) Guardianship: A medicolegal review for clinicians. Journal of the American 
+Geriatric Society, 70 (11): 3070 -3079. DOI: 10.1111/jgs.17797  
+ 
+
+ 
+     B-8  
+ 

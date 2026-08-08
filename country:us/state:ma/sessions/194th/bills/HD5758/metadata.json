@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative González of Springfield, a petition (subject to Joint Rule 12) of Carlos González relative to police departments coordinating with the families of homicide victims with quarterly reports on the open investigations related to their family member.  Public Safety and Homeland Security."
+      "abstract": "By Representative Gonz\u00e1lez of Springfield, a petition (subject to Joint Rule 12) of Carlos Gonz\u00e1lez relative to police departments coordinating with the families of homicide victims with quarterly reports on the open investigations related to their family member.  Public Safety and Homeland Security."
     }
   ],
   "other_titles": [],
@@ -46,7 +46,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -84,6 +84,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z",
+    "text_extraction_latest_update": "2026-08-08T00:26:09.366571Z"
   }
 }

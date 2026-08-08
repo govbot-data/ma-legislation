@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S3104",
-  "title": "RESOLUTIONS RESPONDING TO THE SUPREME JUDICIAL COURT’S ORDER OF MAY 7, 2026, AND ENHANCING GOVERNMENT TRANSPARENCY",
+  "title": "RESOLUTIONS RESPONDING TO THE SUPREME JUDICIAL COURT\u2019S ORDER OF MAY 7, 2026, AND ENHANCING GOVERNMENT TRANSPARENCY",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -82,6 +82,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:24Z"
+    "logs_latest_update": "2026-07-21T23:17:24Z",
+    "text_extraction_latest_update": "2026-08-08T00:26:09.391842Z"
   }
 }

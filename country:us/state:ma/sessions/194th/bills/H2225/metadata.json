@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Montaño of Boston and Connolly of Cambridge, a petition (accompanied by bill, House, No. 2225) of Samantha Montaño, Lindsay N. Sabadosa and others for legislation to further regulate the possession particular controlled substances.  Mental Health, Substance Use and Recovery."
+      "abstract": "By Representatives Monta\u00f1o of Boston and Connolly of Cambridge, a petition (accompanied by bill, House, No. 2225) of Samantha Monta\u00f1o, Lindsay N. Sabadosa and others for legislation to further regulate the possession particular controlled substances.  Mental Health, Substance Use and Recovery."
     }
   ],
   "other_titles": [],
@@ -76,7 +76,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -184,6 +184,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:33.203870Z"
   }
 }

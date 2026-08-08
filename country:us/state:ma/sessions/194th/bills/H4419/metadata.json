@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H4419",
-  "title": "Resolve providing for an investigation by a special commission relative to the strengths and sustainability of the Commonwealth’s emergency food network",
+  "title": "Resolve providing for an investigation by a special commission relative to the strengths and sustainability of the Commonwealth\u2019s emergency food network",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -213,6 +213,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-28T10:16:59Z"
+    "logs_latest_update": "2026-07-28T10:16:59Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:59.946808Z"
   }
 }

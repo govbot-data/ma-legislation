@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Galvin of Canton, a petition (accompanied by bill, House, No. 1161) of William C. Galvin relative to insurance coverage for cervical cancer and women’s preventative health screenings.  Financial Services."
+      "abstract": "By Representative Galvin of Canton, a petition (accompanied by bill, House, No. 1161) of William C. Galvin relative to insurance coverage for cervical cancer and women\u2019s preventative health screenings.  Financial Services."
     }
   ],
   "other_titles": [],
@@ -130,6 +130,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:47.786709Z"
   }
 }

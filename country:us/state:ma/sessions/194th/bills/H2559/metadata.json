@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H2559",
-  "title": "An Act to protect a patient’s right to a support person at health care facilities",
+  "title": "An Act to protect a patient\u2019s right to a support person at health care facilities",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -128,6 +128,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:31Z"
+    "logs_latest_update": "2026-07-21T23:17:31Z",
+    "text_extraction_latest_update": "2026-08-08T00:20:34.448643Z"
   }
 }

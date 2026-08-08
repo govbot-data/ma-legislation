@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives Roy of Franklin and Decker of Cambridge, a petition (accompanied by bill, House, No. 684) of Jeffrey N. Roy, Marjorie C. Decker and Carlos González relative to providing for the availability of disposable menstrual products in schools.  Education."
+      "abstract": "By Representatives Roy of Franklin and Decker of Cambridge, a petition (accompanied by bill, House, No. 684) of Jeffrey N. Roy, Marjorie C. Decker and Carlos Gonz\u00e1lez relative to providing for the availability of disposable menstrual products in schools.  Education."
     }
   ],
   "other_titles": [],
@@ -144,7 +144,7 @@
       "organization_id": null
     },
     {
-      "name": "Carlos González",
+      "name": "Carlos Gonz\u00e1lez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -204,6 +204,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:17:07.735786Z"
   }
 }

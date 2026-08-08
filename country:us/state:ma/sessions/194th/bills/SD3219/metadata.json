@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "SD3219",
-  "title": "Primary Care Task Force Deliverable – Defining Primary Care",
+  "title": "Primary Care Task Force Deliverable \u2013 Defining Primary Care",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "proposed bill"
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:22Z"
+    "logs_latest_update": "2026-07-21T23:17:22Z",
+    "text_extraction_latest_update": "2026-08-08T00:15:23.886763Z"
   }
 }

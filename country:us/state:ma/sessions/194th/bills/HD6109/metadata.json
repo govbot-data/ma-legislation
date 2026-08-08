@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD6109",
-  "title": "A communication from the Office of the Inspector General (see Section 12 of Chapter 12A of the General Laws) submitting a report entitled: “Former CEO of Worcester Regional Retirement System Abused Public Funds”",
+  "title": "A communication from the Office of the Inspector General (see Section 12 of Chapter 12A of the General Laws) submitting a report entitled: \u201cFormer CEO of Worcester Regional Retirement System Abused Public Funds\u201d",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:19Z"
+    "logs_latest_update": "2026-07-21T23:17:19Z",
+    "text_extraction_latest_update": "2026-08-08T00:19:52.816087Z"
   }
 }

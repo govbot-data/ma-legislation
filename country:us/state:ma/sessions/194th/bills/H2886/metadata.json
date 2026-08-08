@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representatives LaNatra of Kingston and Sweezey of Duxbury, a petition (accompanied by bill, House, No. 2886) of Kathleen R. LaNatra relative to retirement benefits for Felicia O’Connor, the surviving spouse of John Bernard O’Connor, a retired state police officer injured in the line of duty.  Public Service."
+      "abstract": "By Representatives LaNatra of Kingston and Sweezey of Duxbury, a petition (accompanied by bill, House, No. 2886) of Kathleen R. LaNatra relative to retirement benefits for Felicia O\u2019Connor, the surviving spouse of John Bernard O\u2019Connor, a retired state police officer injured in the line of duty.  Public Service."
     }
   ],
   "other_titles": [],
@@ -134,6 +134,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:45.066054Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S542",
-  "title": "An Act to ensure the health and safety of the commonwealth’s students and educators",
+  "title": "An Act to ensure the health and safety of the commonwealth\u2019s students and educators",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Tarr, a petition (accompanied by bill, Senate, No. 542) of Bruce E. Tarr for legislation to ensure the health and safety of the commonwealth’s students and educators.  Emergency Preparedness and Management."
+      "abstract": "By Mr. Tarr, a petition (accompanied by bill, Senate, No. 542) of Bruce E. Tarr for legislation to ensure the health and safety of the commonwealth\u2019s students and educators.  Emergency Preparedness and Management."
     }
   ],
   "other_titles": [],
@@ -110,6 +110,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:53.901128Z"
   }
 }

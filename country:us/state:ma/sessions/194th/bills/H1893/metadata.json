@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 1893) of Samantha Montaño relative to transgender people and low-income women and the penalties for certain offenses.  The Judiciary."
+      "abstract": "By Representative Monta\u00f1o of Boston, a petition (accompanied by bill, House, No. 1893) of Samantha Monta\u00f1o relative to transgender people and low-income women and the penalties for certain offenses.  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -96,7 +96,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -148,6 +148,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:26Z"
+    "logs_latest_update": "2026-07-21T23:17:26Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:27.427445Z"
   }
 }

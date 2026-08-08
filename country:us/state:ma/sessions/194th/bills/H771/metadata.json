@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Hong of Lowell, a petition (accompanied by bill, House, No. 771) of Tara T. Hong, Colleen M. Garry and Samantha Montaño relative to intergenerational community engagement.  Elder Affairs."
+      "abstract": "By Representative Hong of Lowell, a petition (accompanied by bill, House, No. 771) of Tara T. Hong, Colleen M. Garry and Samantha Monta\u00f1o relative to intergenerational community engagement.  Elder Affairs."
     }
   ],
   "other_titles": [],
@@ -102,7 +102,7 @@
       "organization_id": null
     },
     {
-      "name": "Samantha Montaño",
+      "name": "Samantha Monta\u00f1o",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -146,6 +146,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z",
+    "text_extraction_latest_update": "2026-08-08T00:40:44.087083Z"
   }
 }

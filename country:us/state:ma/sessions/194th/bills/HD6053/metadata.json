@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD6053",
-  "title": "A communication from the Massachusetts Health Policy Commission (see Section 145 of Chapter 126 of the Acts of 2022) submitting a report entitled: “Emergency Boarding in the Commonwealth of Massachusetts”",
+  "title": "A communication from the Massachusetts Health Policy Commission (see Section 145 of Chapter 126 of the Acts of 2022) submitting a report entitled: \u201cEmergency Boarding in the Commonwealth of Massachusetts\u201d",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:19Z"
+    "logs_latest_update": "2026-07-21T23:17:19Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:40.506339Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "HD4888",
-  "title": "A communication from the Executive Office of Public Safety and Security (see Section 7 of Chapter 3B and Section 14 of Chapter 38 of the General Laws) submitting the Office of the Chief Medical Examiner’s amendment of fees assessed for cremation or burial at sea views",
+  "title": "A communication from the Executive Office of Public Safety and Security (see Section 7 of Chapter 3B and Section 14 of Chapter 38 of the General Laws) submitting the Office of the Chief Medical Examiner\u2019s amendment of fees assessed for cremation or burial at sea views",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "proposed bill"
@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:29Z"
+    "logs_latest_update": "2026-07-21T23:17:29Z",
+    "text_extraction_latest_update": "2026-08-08T00:16:23.899409Z"
   }
 }

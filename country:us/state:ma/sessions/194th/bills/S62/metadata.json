@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Gómez, a petition (accompanied by bill, Senate, No. 62) of Adam Gómez and Homar Gómez for legislation to establish community fridges to address food insecurity.  Agriculture."
+      "abstract": "By Mr. G\u00f3mez, a petition (accompanied by bill, Senate, No. 62) of Adam G\u00f3mez and Homar G\u00f3mez for legislation to establish community fridges to address food insecurity.  Agriculture."
     }
   ],
   "other_titles": [],
@@ -86,7 +86,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Adam Gómez",
+      "name": "Adam G\u00f3mez",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
@@ -94,7 +94,7 @@
       "organization_id": null
     },
     {
-      "name": "Homar Gómez",
+      "name": "Homar G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -154,6 +154,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z"
+    "logs_latest_update": "2026-07-21T23:17:14Z",
+    "text_extraction_latest_update": "2026-08-08T00:24:31.531224Z"
   }
 }

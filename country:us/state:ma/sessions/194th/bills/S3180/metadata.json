@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Senate, July 16, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill authorizing the Division of Capital Asset Management and Maintenance to grant easements to NSTAR electric company d/b/a Eversource Energy in return for NSTAR releasing or modifying easements for the benefit of the Commonwealth (Senate, No. 2922),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3180)."
+      "abstract": "Senate, July 16, 2026 -- The committee on Senate Ways and Means, to whom was referred the Senate Bill authorizing the Division of Capital Asset Management and Maintenance to grant easements to NSTAR electric company d/b/a Eversource Energy in return for NSTAR releasing or modifying easements for the benefit of the Commonwealth\u00a0(Senate, No. 2922),- reports, recommending that the same ought to pass with an amendment substituting a new draft with the same title (Senate, No. 3180)."
     }
   ],
   "other_titles": [],
@@ -145,6 +145,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T16:36:38Z"
+    "logs_latest_update": "2026-07-26T16:36:38Z",
+    "text_extraction_latest_update": "2026-08-08T00:27:39.599550Z"
   }
 }

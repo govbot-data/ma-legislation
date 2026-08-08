@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H601",
-  "title": "An Act relative to creating a commercial driver’s license pilot program at Madison Park Technical Vocational High School",
+  "title": "An Act relative to creating a commercial driver\u2019s license pilot program at Madison Park Technical Vocational High School",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Representative Honan of Boston, a petition (accompanied by bill, House, No. 601) of Kevin G. Honan relative to creating a commercial driver’s license pilot program to be administered by Madison Park Technical Vocational High School in the city of Boston.  Education."
+      "abstract": "By Representative Honan of Boston, a petition (accompanied by bill, House, No. 601) of Kevin G. Honan relative to creating a commercial driver\u2019s license pilot program to be administered by Madison Park Technical Vocational High School in the city of Boston.  Education."
     }
   ],
   "other_titles": [],
@@ -130,6 +130,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:45.102665Z"
   }
 }

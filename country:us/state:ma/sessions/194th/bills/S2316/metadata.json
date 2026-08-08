@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2316",
-  "title": "An Act establishing a resilient electric vehicle charging system pilot program and river restoration fund and veterans and emergency responders’ fund",
+  "title": "An Act establishing a resilient electric vehicle charging system pilot program and river restoration fund and veterans and emergency responders\u2019 fund",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Oliveira, a petition (accompanied by bill, Senate, No. 2316) of Jacob R. Oliveira and Todd M. Smola for legislation to establish a resilient electric vehicle charging system pilot program and river restoration fund and veterans and emergency responders’ fund.  Telecommunications, Utilities and Energy."
+      "abstract": "By Mr. Oliveira, a petition (accompanied by bill, Senate, No. 2316) of Jacob R. Oliveira and Todd M. Smola for legislation to establish a resilient electric vehicle charging system pilot program and river restoration fund and veterans and emergency responders\u2019 fund.  Telecommunications, Utilities and Energy."
     }
   ],
   "other_titles": [],
@@ -136,6 +136,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z"
+    "logs_latest_update": "2026-07-21T23:17:14Z",
+    "text_extraction_latest_update": "2026-08-08T00:20:51.770919Z"
   }
 }

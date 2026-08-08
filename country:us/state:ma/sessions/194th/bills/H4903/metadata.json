@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "H4903",
-  "title": "An Act relative to creating a commercial driver’s license pilot program at Madison Park Technical Vocational High School",
+  "title": "An Act relative to creating a commercial driver\u2019s license pilot program at Madison Park Technical Vocational High School",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -108,6 +108,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:21Z"
+    "logs_latest_update": "2026-07-21T23:17:21Z",
+    "text_extraction_latest_update": "2026-08-08T00:17:29.116807Z"
   }
 }

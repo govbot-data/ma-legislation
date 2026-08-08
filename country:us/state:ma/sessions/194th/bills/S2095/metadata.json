@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S2095",
-  "title": "An Act to establish a vendors’ collection allowance",
+  "title": "An Act to establish a vendors\u2019 collection allowance",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Velis, a petition (accompanied by bill, Senate, No. 2095) of John C. Velis for legislation to establish a vendors’ collection allowance.  Revenue."
+      "abstract": "By Mr. Velis, a petition (accompanied by bill, Senate, No. 2095) of John C. Velis for legislation to establish a vendors\u2019 collection allowance.  Revenue."
     }
   ],
   "other_titles": [],
@@ -152,6 +152,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:28Z"
+    "logs_latest_update": "2026-07-21T23:17:28Z",
+    "text_extraction_latest_update": "2026-08-08T00:18:45.082691Z"
   }
 }

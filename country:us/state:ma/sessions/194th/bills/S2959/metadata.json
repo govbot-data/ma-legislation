@@ -68,7 +68,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Adam Gómez",
+      "name": "Adam G\u00f3mez",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
@@ -162,6 +162,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:19Z"
+    "logs_latest_update": "2026-07-21T23:17:19Z",
+    "text_extraction_latest_update": "2026-08-08T00:14:31.095838Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S112",
-  "title": "An Act relative to Children’s Advocacy Centers",
+  "title": "An Act relative to Children\u2019s Advocacy Centers",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Cyr, a petition (accompanied by bill, Senate, No. 112) of Julian Cyr for legislation relative to Children’s Advocacy Centers.  Children, Families and Persons with Disabilities."
+      "abstract": "By Mr. Cyr, a petition (accompanied by bill, Senate, No. 112) of Julian Cyr for legislation relative to Children\u2019s Advocacy Centers.  Children, Families and Persons with Disabilities."
     }
   ],
   "other_titles": [],
@@ -134,6 +134,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:14Z"
+    "logs_latest_update": "2026-07-21T23:17:14Z",
+    "text_extraction_latest_update": "2026-08-08T00:23:51.272258Z"
   }
 }

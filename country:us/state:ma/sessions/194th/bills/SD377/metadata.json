@@ -33,7 +33,7 @@
   ],
   "sponsorships": [
     {
-      "name": "Workers’ Compensation Advisory Council",
+      "name": "Workers\u2019 Compensation Advisory Council",
       "classification": "primary",
       "entity_type": "organization",
       "primary": true,
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:32Z"
+    "logs_latest_update": "2026-07-21T23:17:32Z",
+    "text_extraction_latest_update": "2026-08-08T00:34:14.686585Z"
   }
 }

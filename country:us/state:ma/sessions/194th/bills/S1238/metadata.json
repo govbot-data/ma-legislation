@@ -1,7 +1,7 @@
 {
   "legislative_session": "194th",
   "identifier": "S1238",
-  "title": "An Act relating to threats of suicide while in court custody (Stavri’s Law)",
+  "title": "An Act relating to threats of suicide while in court custody (Stavri\u2019s Law)",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "By Mr. Oliveira, a petition (accompanied by bill, Senate, No. 1238) of Jacob R. Oliveira for legislation relative to threats of suicide while in court custody (Stavri’s Law).  The Judiciary."
+      "abstract": "By Mr. Oliveira, a petition (accompanied by bill, Senate, No. 1238) of Jacob R. Oliveira for legislation relative to threats of suicide while in court custody (Stavri\u2019s Law).  The Judiciary."
     }
   ],
   "other_titles": [],
@@ -154,6 +154,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:25Z"
+    "logs_latest_update": "2026-07-21T23:17:25Z",
+    "text_extraction_latest_update": "2026-08-08T00:25:31.752188Z"
   }
 }

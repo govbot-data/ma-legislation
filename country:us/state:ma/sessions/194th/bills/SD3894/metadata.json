@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Report of the Health Policy Commission (pursuant to Chapter 343 of the Acts of 2024) submitting its Primary Care Access, Delivery, and Payment Task Force (PCTF)’s recommendation to develop a standardized set of data and reporting requirements for primary care payments"
+      "abstract": "Report of the Health Policy Commission (pursuant to Chapter 343 of the Acts of 2024) submitting its Primary Care Access, Delivery, and Payment Task Force (PCTF)\u2019s recommendation to develop a standardized set of data and reporting requirements for primary care payments"
     }
   ],
   "other_titles": [],
@@ -71,6 +71,7 @@
     "division_id": "ocd-division/country:us/state:ma"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T23:17:30Z"
+    "logs_latest_update": "2026-07-21T23:17:30Z",
+    "text_extraction_latest_update": "2026-08-08T00:22:36.843715Z"
   }
 }
